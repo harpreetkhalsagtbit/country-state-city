@@ -1,6 +1,6 @@
 {
-  "name": "country_state_city",
-  "version": "0.0.3",
+  "name": "country-state-city",
+  "version": "0.0.1",
   "description": "Library for fetching Country, its States and Cities",
   "main": "index.js",
   "scripts": {
