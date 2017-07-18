@@ -33,7 +33,7 @@ var country_state_city = {
 		})
 		return cities
 	},
-	getAllCountries: function(stateId) {
+	getAllCountries: function() {
 		return countryList;
 	}
 
