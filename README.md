@@ -4,35 +4,35 @@ Basic library for Country, State and City
 
 # API
 
-getCountryById
+getCountryById(id)
 ---------------
 
 It accepts a valid `CountryId` and   returns *Country Details*
 
 type: *json*
 
-getStateById
+getStateById(id)
 ---------------
 
 It accepts a valid `StateId` and   returns *Country Details*
 
 type: *json*
 
-getCityById
+getCityById(id)
 ---------------
 
 It accepts a valid `CityId` and   returns *Country Details*
 
 type: *json*
 
-getStatesOfCountry
+getStatesOfCountry(countryId)
 ---------------
 
 It accepts a valid `CountryId` and   returns *all States* as Array of JSON
 
 type: *array of json*
 
-getCitiesOfState
+getCitiesOfState(stateId)
 ---------------
 
 It accepts a valid `CityId` and   returns *all Cities* as Array of JSON
