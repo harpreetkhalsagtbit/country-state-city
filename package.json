@@ -1,0 +1,30 @@
+{
+  "name": "country_state_city",
+  "version": "0.0.1",
+  "description": "Library for fetching Country, its States and Cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harpreetkhalsagtbit@gmail.com",
+  "license": "GPL-3.0",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
+  },
+  "keywords": [
+    "Country",
+    "State",
+    "City",
+    "GeoLocation",
+    "Search",
+    "Filter"
+  ],
+  "bugs": {
+    "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
+  },
+  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme"
+}
