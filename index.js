@@ -2,8 +2,7 @@ var countryList = require("./lib/country.json")
 var stateList = require("./lib/state.json")
 var cityList = require("./lib/city.json")
 
-console.log(countryList)
-module.exports = {
+var country_state_city = {
 	getCountryById: function(id) {
 		if(!isNaN(+(id)))
 			return countryList[+(id)]
@@ -23,13 +22,13 @@ module.exports = {
 			return ""
 	},
 	getStatesOfCountry: function(countryId) {
-		var states = statelist.filter(function(value, index) {
+		var states = stateList.filter(function(value, index) {
 			return value.country_id == countryId
 		})
 		return states
 	},
 	getCitiesOfState: function(stateId) {
-		var cities = citylist.filter(function(value, index) {
+		var cities = cityList.filter(function(value, index) {
 			return value.state_id == stateId
 		})
 		return cities
@@ -39,3 +38,5 @@ module.exports = {
 	}
 
 }
+
+module.exports = country_state_city;
