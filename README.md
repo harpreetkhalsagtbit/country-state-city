@@ -2,7 +2,11 @@ country-state-city
 ==============================
 Basic library for Country, State and City
 
-# API
+Data taken from:
+
+https://github.com/hiiamrohit/Countries-States-Cities-database
+
+# Docs
 
 getCountryById(id)
 ---------------
