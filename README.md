@@ -2,7 +2,11 @@ country-state-city
 ==============================
 Basic library for Country, State and City
 
-# API
+Data taken from:
+
+https://github.com/hiiamrohit/Countries-States-Cities-database
+
+# Docs
 
 getCountryById(id)
 ---------------
@@ -14,14 +18,14 @@ type: *json*
 getStateById(id)
 ---------------
 
-It accepts a valid `StateId` and   returns *Country Details*
+It accepts a valid `StateId` and   returns *State Details*
 
 type: *json*
 
 getCityById(id)
 ---------------
 
-It accepts a valid `CityId` and   returns *Country Details*
+It accepts a valid `CityId` and   returns *City Details*
 
 type: *json*
 
