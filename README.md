@@ -6,6 +6,9 @@ Data taken from:
 
 https://github.com/hiiamrohit/Countries-States-Cities-database
 
+# Install
+`npm i country-state-city`
+
 # Docs
 
 getCountryById(id)
