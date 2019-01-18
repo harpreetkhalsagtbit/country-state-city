@@ -4,22 +4,13 @@ var cityList = require("./lib/city.json")
 
 var country_state_city = {
 	getCountryById: function(id) {
-		if(!isNaN(+(id)))
-			return countryList[+(id)]
-		else
-			return ""
+		return _findEntry(countryList, id);
 	},
 	getStateById: function(id) {
-		if(!isNaN(+(id)))
-			return stateList[+(id)];
-		else
-			return ""
+		return _findEntry(stateList, id);
 	},
 	getCityById: function(id) {
-		if(!isNaN(+(id)))
-			return cityList[+(id)];
-		else
-			return ""
+		return _findEntry(cityList, id);
 	},
 	getStatesOfCountry: function(countryId) {
 		var states = stateList.filter(function(value, index) {
@@ -37,6 +28,14 @@ var country_state_city = {
 		return countryList;
 	}
 
+}
+
+let _findEntry = (source, id) => {
+	if(!isNaN(id) && source != null) {
+		let idx = source.findIndex((c, i) => c.id === id);
+		return (idx !== -1) ? source[idx] : "";
+	}
+	else return "";
 }
 
 module.exports = country_state_city;
