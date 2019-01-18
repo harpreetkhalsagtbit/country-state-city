@@ -113,5 +113,6 @@ Change Logs
 ---------------
 
 **V0.1.0**
-1. Fix: #2
-2. Added some missing states and cities for Canada and US
+1. Fix: [#2](https://github.com/harpreetkhalsagtbit/country-state-city/issues/2)
+2. Fix: [#3](https://github.com/harpreetkhalsagtbit/country-state-city/issues/3)
+3. Added some missing states and cities for Canada and US
