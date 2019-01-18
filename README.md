@@ -114,4 +114,4 @@ Change Logs
 
 **V0.1.0**
 1. Fix: #2
-2. Added somme missing states and cities for Canada and US
+2. Added some missing states and cities for Canada and US
