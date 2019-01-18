@@ -4,7 +4,7 @@
   "description": "Library for fetching Country, its States and Cities",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "harpreetkhalsagtbit@gmail.com",
   "license": "GPL-3.0",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
   },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme"
+  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
