@@ -3,1476 +3,4428 @@
 		"id": "1",
 		"sortname": "AF",
 		"name": "Afghanistan",
-		"phonecode": "93"
+		"phonecode": "93",
+		"translations": {
+			"de": "Afghanistan",
+			"es": "Afganistán",
+			"fr": "Afghanistan",
+			"ja": "アフガニスタン",
+			"it": "Afghanistan",
+			"br": "Afeganistão",
+			"pt": "Afeganistão",
+			"nl": "Afghanistan",
+			"hr": "Afganistan",
+			"fa": "افغانستان"
+		}
 	},
 	{
 		"id": "2",
 		"sortname": "AL",
 		"name": "Albania",
-		"phonecode": "355"
+		"phonecode": "355",
+		"translations": {
+			"de": "Albanien",
+			"es": "Albania",
+			"fr": "Albanie",
+			"ja": "アルバニア",
+			"it": "Albania",
+			"br": "Albânia",
+			"pt": "Albânia",
+			"nl": "Albanië",
+			"hr": "Albanija",
+			"fa": "آلبانی"
+		}
 	},
 	{
 		"id": "3",
 		"sortname": "DZ",
 		"name": "Algeria",
-		"phonecode": "213"
+		"phonecode": "213",
+		"translations": {
+			"de": "Algerien",
+			"es": "Argelia",
+			"fr": "Algérie",
+			"ja": "アルジェリア",
+			"it": "Algeria",
+			"br": "Argélia",
+			"pt": "Argélia",
+			"nl": "Algerije",
+			"hr": "Alžir",
+			"fa": "الجزایر"
+		}
 	},
 	{
 		"id": "4",
 		"sortname": "AS",
 		"name": "American Samoa",
-		"phonecode": "1684"
+		"phonecode": "1684",
+		"translations": {
+			"de": "Amerikanisch-Samoa",
+			"es": "Samoa Americana",
+			"fr": "Samoa américaines",
+			"ja": "アメリカ領サモア",
+			"it": "Samoa Americane",
+			"br": "Samoa Americana",
+			"pt": "Samoa Americana",
+			"nl": "Amerikaans Samoa",
+			"hr": "Američka Samoa",
+			"fa": "ساموآی آمریکا"
+		}
 	},
 	{
 		"id": "5",
 		"sortname": "AD",
 		"name": "Andorra",
-		"phonecode": "376"
+		"phonecode": "376",
+		"translations": {
+			"de": "Andorra",
+			"es": "Andorra",
+			"fr": "Andorre",
+			"ja": "アンドラ",
+			"it": "Andorra",
+			"br": "Andorra",
+			"pt": "Andorra",
+			"nl": "Andorra",
+			"hr": "Andora",
+			"fa": "آندورا"
+		}
 	},
 	{
 		"id": "6",
 		"sortname": "AO",
 		"name": "Angola",
-		"phonecode": "244"
+		"phonecode": "244",
+		"translations": {
+			"de": "Angola",
+			"es": "Angola",
+			"fr": "Angola",
+			"ja": "アンゴラ",
+			"it": "Angola",
+			"br": "Angola",
+			"pt": "Angola",
+			"nl": "Angola",
+			"hr": "Angola",
+			"fa": "آنگولا"
+		}
 	},
 	{
 		"id": "7",
 		"sortname": "AI",
 		"name": "Anguilla",
-		"phonecode": "1264"
+		"phonecode": "1264",
+		"translations": {
+			"de": "Anguilla",
+			"es": "Anguilla",
+			"fr": "Anguilla",
+			"ja": "アンギラ",
+			"it": "Anguilla",
+			"br": "Anguila",
+			"pt": "Anguila",
+			"nl": "Anguilla",
+			"hr": "Angvila",
+			"fa": "آنگویلا"
+		}
 	},
 	{
 		"id": "8",
 		"sortname": "AQ",
 		"name": "Antarctica",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Antarktika",
+			"es": "Antártida",
+			"fr": "Antarctique",
+			"ja": "南極大陸",
+			"it": "Antartide",
+			"br": "Antártida",
+			"pt": "Antárctida",
+			"nl": "Antarctica",
+			"hr": "Antarktika",
+			"fa": "جنوبگان"
+		}
 	},
 	{
 		"id": "9",
 		"sortname": "AG",
 		"name": "Antigua And Barbuda",
-		"phonecode": "1268"
+		"phonecode": "1268",
+		"translations": {
+			"de": "Antigua und Barbuda",
+			"es": "Antigua y Barbuda",
+			"fr": "Antigua-et-Barbuda",
+			"ja": "アンティグア・バーブーダ",
+			"it": "Antigua e Barbuda",
+			"br": "Antígua e Barbuda",
+			"pt": "Antígua e Barbuda",
+			"nl": "Antigua en Barbuda",
+			"hr": "Antigva i Barbuda",
+			"fa": "آنتیگوا و باربودا"
+		}
 	},
 	{
 		"id": "10",
 		"sortname": "AR",
 		"name": "Argentina",
-		"phonecode": "54"
+		"phonecode": "54",
+		"translations": {
+			"de": "Argentinien",
+			"es": "Argentina",
+			"fr": "Argentine",
+			"ja": "アルゼンチン",
+			"it": "Argentina",
+			"br": "Argentina",
+			"pt": "Argentina",
+			"nl": "Argentinië",
+			"hr": "Argentina",
+			"fa": "آرژانتین"
+		}
 	},
 	{
 		"id": "11",
 		"sortname": "AM",
 		"name": "Armenia",
-		"phonecode": "374"
+		"phonecode": "374",
+		"translations": {
+			"de": "Armenien",
+			"es": "Armenia",
+			"fr": "Arménie",
+			"ja": "アルメニア",
+			"it": "Armenia",
+			"br": "Armênia",
+			"pt": "Arménia",
+			"nl": "Armenië",
+			"hr": "Armenija",
+			"fa": "ارمنستان"
+		}
 	},
 	{
 		"id": "12",
 		"sortname": "AW",
 		"name": "Aruba",
-		"phonecode": "297"
+		"phonecode": "297",
+		"translations": {
+			"de": "Aruba",
+			"es": "Aruba",
+			"fr": "Aruba",
+			"ja": "アルバ",
+			"it": "Aruba",
+			"br": "Aruba",
+			"pt": "Aruba",
+			"nl": "Aruba",
+			"hr": "Aruba",
+			"fa": "آروبا"
+		}
 	},
 	{
 		"id": "13",
 		"sortname": "AU",
 		"name": "Australia",
-		"phonecode": "61"
+		"phonecode": "61",
+		"translations": {
+			"de": "Australien",
+			"es": "Australia",
+			"fr": "Australie",
+			"ja": "オーストラリア",
+			"it": "Australia",
+			"br": "Austrália",
+			"pt": "Austrália",
+			"nl": "Australië",
+			"hr": "Australija",
+			"fa": "استرالیا"
+		}
 	},
 	{
 		"id": "14",
 		"sortname": "AT",
 		"name": "Austria",
-		"phonecode": "43"
+		"phonecode": "43",
+		"translations": {
+			"de": "Österreich",
+			"es": "Austria",
+			"fr": "Autriche",
+			"ja": "オーストリア",
+			"it": "Austria",
+			"br": "áustria",
+			"pt": "áustria",
+			"nl": "Oostenrijk",
+			"hr": "Austrija",
+			"fa": "اتریش"
+		}
 	},
 	{
 		"id": "15",
 		"sortname": "AZ",
 		"name": "Azerbaijan",
-		"phonecode": "994"
+		"phonecode": "994",
+		"translations": {
+			"de": "Aserbaidschan",
+			"es": "Azerbaiyán",
+			"fr": "Azerbaïdjan",
+			"ja": "アゼルバイジャン",
+			"it": "Azerbaijan",
+			"br": "Azerbaijão",
+			"pt": "Azerbaijão",
+			"nl": "Azerbeidzjan",
+			"hr": "Azerbajdžan",
+			"fa": "آذربایجان"
+		}
 	},
 	{
 		"id": "16",
 		"sortname": "BS",
 		"name": "Bahamas The",
-		"phonecode": "1242"
+		"phonecode": "1242",
+		"translations": {
+			"de": "Bahamas",
+			"es": "Bahamas",
+			"fr": "Bahamas",
+			"ja": "バハマ",
+			"it": "Bahamas",
+			"br": "Bahamas",
+			"pt": "Baamas",
+			"nl": "Bahama’s",
+			"hr": "Bahami",
+			"fa": "باهاما"
+		}
 	},
 	{
 		"id": "17",
 		"sortname": "BH",
 		"name": "Bahrain",
-		"phonecode": "973"
+		"phonecode": "973",
+		"translations": {
+			"de": "Bahrain",
+			"es": "Bahrein",
+			"fr": "Bahreïn",
+			"ja": "バーレーン",
+			"it": "Bahrein",
+			"br": "Bahrein",
+			"pt": "Barém",
+			"nl": "Bahrein",
+			"hr": "Bahrein",
+			"fa": "بحرین"
+		}
 	},
 	{
 		"id": "18",
 		"sortname": "BD",
 		"name": "Bangladesh",
-		"phonecode": "880"
+		"phonecode": "880",
+		"translations": {
+			"de": "Bangladesch",
+			"es": "Bangladesh",
+			"fr": "Bangladesh",
+			"ja": "バングラデシュ",
+			"it": "Bangladesh",
+			"br": "Bangladesh",
+			"pt": "Bangladeche",
+			"nl": "Bangladesh",
+			"hr": "Bangladeš",
+			"fa": "بنگلادش"
+		}
 	},
 	{
 		"id": "19",
 		"sortname": "BB",
 		"name": "Barbados",
-		"phonecode": "1246"
+		"phonecode": "1246",
+		"translations": {
+			"de": "Barbados",
+			"es": "Barbados",
+			"fr": "Barbade",
+			"ja": "バルバドス",
+			"it": "Barbados",
+			"br": "Barbados",
+			"pt": "Barbados",
+			"nl": "Barbados",
+			"hr": "Barbados",
+			"fa": "باربادوس"
+		}
 	},
 	{
 		"id": "20",
 		"sortname": "BY",
 		"name": "Belarus",
-		"phonecode": "375"
+		"phonecode": "375",
+		"translations": {
+			"de": "Weißrussland",
+			"es": "Bielorrusia",
+			"fr": "Biélorussie",
+			"ja": "ベラルーシ",
+			"it": "Bielorussia",
+			"br": "Bielorrússia",
+			"pt": "Bielorrússia",
+			"nl": "Wit-Rusland",
+			"hr": "Bjelorusija",
+			"fa": "بلاروس"
+		}
 	},
 	{
 		"id": "21",
 		"sortname": "BE",
 		"name": "Belgium",
-		"phonecode": "32"
+		"phonecode": "32",
+		"translations": {
+			"de": "Belgien",
+			"es": "Bélgica",
+			"fr": "Belgique",
+			"ja": "ベルギー",
+			"it": "Belgio",
+			"br": "Bélgica",
+			"pt": "Bélgica",
+			"nl": "België",
+			"hr": "Belgija",
+			"fa": "بلژیک"
+		}
 	},
 	{
 		"id": "22",
 		"sortname": "BZ",
 		"name": "Belize",
-		"phonecode": "501"
+		"phonecode": "501",
+		"translations": {
+			"de": "Belize",
+			"es": "Belice",
+			"fr": "Belize",
+			"ja": "ベリーズ",
+			"it": "Belize",
+			"br": "Belize",
+			"pt": "Belize",
+			"nl": "Belize",
+			"hr": "Belize",
+			"fa": "بلیز"
+		}
 	},
 	{
 		"id": "23",
 		"sortname": "BJ",
 		"name": "Benin",
-		"phonecode": "229"
+		"phonecode": "229",
+		"translations": {
+			"de": "Benin",
+			"es": "Benín",
+			"fr": "Bénin",
+			"ja": "ベナン",
+			"it": "Benin",
+			"br": "Benin",
+			"pt": "Benim",
+			"nl": "Benin",
+			"hr": "Benin",
+			"fa": "بنین"
+		}
 	},
 	{
 		"id": "24",
 		"sortname": "BM",
 		"name": "Bermuda",
-		"phonecode": "1441"
+		"phonecode": "1441",
+		"translations": {
+			"de": "Bermuda",
+			"es": "Bermudas",
+			"fr": "Bermudes",
+			"ja": "バミューダ",
+			"it": "Bermuda",
+			"br": "Bermudas",
+			"pt": "Bermudas",
+			"nl": "Bermuda",
+			"hr": "Bermudi",
+			"fa": "برمودا"
+		}
 	},
 	{
 		"id": "25",
 		"sortname": "BT",
 		"name": "Bhutan",
-		"phonecode": "975"
+		"phonecode": "975",
+		"translations": {
+			"de": "Bhutan",
+			"es": "Bután",
+			"fr": "Bhoutan",
+			"ja": "ブータン",
+			"it": "Bhutan",
+			"br": "Butão",
+			"pt": "Butão",
+			"nl": "Bhutan",
+			"hr": "Butan",
+			"fa": "بوتان"
+		}
 	},
 	{
 		"id": "26",
 		"sortname": "BO",
 		"name": "Bolivia",
-		"phonecode": "591"
+		"phonecode": "591",
+		"translations": {
+			"de": "Bolivien",
+			"es": "Bolivia",
+			"fr": "Bolivie",
+			"ja": "ボリビア多民族国",
+			"it": "Bolivia",
+			"br": "Bolívia",
+			"pt": "Bolívia",
+			"nl": "Bolivia",
+			"hr": "Bolivija",
+			"fa": "بولیوی"
+		}
 	},
 	{
 		"id": "27",
 		"sortname": "BA",
 		"name": "Bosnia and Herzegovina",
-		"phonecode": "387"
+		"phonecode": "387",
+		"translations": {
+			"de": "Bosnien und Herzegowina",
+			"es": "Bosnia y Herzegovina",
+			"fr": "Bosnie-Herzégovine",
+			"ja": "ボスニア・ヘルツェゴビナ",
+			"it": "Bosnia ed Erzegovina",
+			"br": "Bósnia e Herzegovina",
+			"pt": "Bósnia e Herzegovina",
+			"nl": "Bosnië en Herzegovina",
+			"hr": "Bosna i Hercegovina",
+			"fa": "بوسنی و هرزگوین"
+		}
 	},
 	{
 		"id": "28",
 		"sortname": "BW",
 		"name": "Botswana",
-		"phonecode": "267"
+		"phonecode": "267",
+		"translations": {
+			"de": "Botswana",
+			"es": "Botswana",
+			"fr": "Botswana",
+			"ja": "ボツワナ",
+			"it": "Botswana",
+			"br": "Botsuana",
+			"pt": "Botsuana",
+			"nl": "Botswana",
+			"hr": "Bocvana",
+			"fa": "بوتسوانا"
+		}
 	},
 	{
 		"id": "29",
 		"sortname": "BV",
 		"name": "Bouvet Island",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Bouvetinsel",
+			"es": "Isla Bouvet",
+			"fr": "Île Bouvet",
+			"ja": "ブーベ島",
+			"it": "Isola Bouvet",
+			"br": "Ilha Bouvet",
+			"pt": "Ilha Bouvet",
+			"nl": "Bouveteiland",
+			"hr": "Otok Bouvet",
+			"fa": "جزیره بووه"
+		}
 	},
 	{
 		"id": "30",
 		"sortname": "BR",
 		"name": "Brazil",
-		"phonecode": "55"
+		"phonecode": "55",
+		"translations": {
+			"de": "Brasilien",
+			"es": "Brasil",
+			"fr": "Brésil",
+			"ja": "ブラジル",
+			"it": "Brasile",
+			"br": "Brasil",
+			"pt": "Brasil",
+			"nl": "Brazilië",
+			"hr": "Brazil",
+			"fa": "برزیل"
+		}
 	},
 	{
 		"id": "31",
 		"sortname": "IO",
 		"name": "British Indian Ocean Territory",
-		"phonecode": "246"
+		"phonecode": "246",
+		"translations": {
+			"de": "Britisches Territorium im Indischen Ozean",
+			"es": "Territorio Británico del Océano Índico",
+			"fr": "Territoire britannique de l'océan Indien",
+			"ja": "イギリス領インド洋地域",
+			"it": "Territorio britannico dell'oceano indiano",
+			"br": "Território Britânico do Oceano íÍdico",
+			"pt": "Território Britânico do Oceano Índico",
+			"nl": "Britse Gebieden in de Indische Oceaan",
+			"hr": "Britanski Indijskooceanski teritorij",
+			"fa": "قلمرو بریتانیا در اقیانوس هند"
+		}
 	},
 	{
 		"id": "32",
 		"sortname": "BN",
 		"name": "Brunei",
-		"phonecode": "673"
+		"phonecode": "673",
+		"translations": {
+			"de": "Brunei",
+			"es": "Brunei",
+			"fr": "Brunei",
+			"ja": "ブルネイ・ダルサラーム",
+			"it": "Brunei",
+			"br": "Brunei",
+			"pt": "Brunei",
+			"nl": "Brunei",
+			"hr": "Brunej",
+			"fa": "برونئی"
+		}
 	},
 	{
 		"id": "33",
 		"sortname": "BG",
 		"name": "Bulgaria",
-		"phonecode": "359"
+		"phonecode": "359",
+		"translations": {
+			"de": "Bulgarien",
+			"es": "Bulgaria",
+			"fr": "Bulgarie",
+			"ja": "ブルガリア",
+			"it": "Bulgaria",
+			"br": "Bulgária",
+			"pt": "Bulgária",
+			"nl": "Bulgarije",
+			"hr": "Bugarska",
+			"fa": "بلغارستان"
+		}
 	},
 	{
 		"id": "34",
 		"sortname": "BF",
 		"name": "Burkina Faso",
-		"phonecode": "226"
+		"phonecode": "226",
+		"translations": {
+			"de": "Burkina Faso",
+			"es": "Burkina Faso",
+			"fr": "Burkina Faso",
+			"ja": "ブルキナファソ",
+			"it": "Burkina Faso",
+			"br": "Burkina Faso",
+			"pt": "Burquina Faso",
+			"nl": "Burkina Faso",
+			"hr": "Burkina Faso",
+			"fa": "بورکینافاسو"
+		}
 	},
 	{
 		"id": "35",
 		"sortname": "BI",
 		"name": "Burundi",
-		"phonecode": "257"
+		"phonecode": "257",
+		"translations": {
+			"de": "Burundi",
+			"es": "Burundi",
+			"fr": "Burundi",
+			"ja": "ブルンジ",
+			"it": "Burundi",
+			"br": "Burundi",
+			"pt": "Burúndi",
+			"nl": "Burundi",
+			"hr": "Burundi",
+			"fa": "بوروندی"
+		}
 	},
 	{
 		"id": "36",
 		"sortname": "KH",
 		"name": "Cambodia",
-		"phonecode": "855"
+		"phonecode": "855",
+		"translations": {
+			"de": "Kambodscha",
+			"es": "Camboya",
+			"fr": "Cambodge",
+			"ja": "カンボジア",
+			"it": "Cambogia",
+			"br": "Camboja",
+			"pt": "Camboja",
+			"nl": "Cambodja",
+			"hr": "Kambodža",
+			"fa": "کامبوج"
+		}
 	},
 	{
 		"id": "37",
 		"sortname": "CM",
 		"name": "Cameroon",
-		"phonecode": "237"
+		"phonecode": "237",
+		"translations": {
+			"de": "Kamerun",
+			"es": "Camerún",
+			"fr": "Cameroun",
+			"ja": "カメルーン",
+			"it": "Camerun",
+			"br": "Camarões",
+			"pt": "Camarões",
+			"nl": "Kameroen",
+			"hr": "Kamerun",
+			"fa": "کامرون"
+		}
 	},
 	{
 		"id": "38",
 		"sortname": "CA",
 		"name": "Canada",
-		"phonecode": "1"
+		"phonecode": "1",
+		"translations": {
+			"de": "Kanada",
+			"es": "Canadá",
+			"fr": "Canada",
+			"ja": "カナダ",
+			"it": "Canada",
+			"br": "Canadá",
+			"pt": "Canadá",
+			"nl": "Canada",
+			"hr": "Kanada",
+			"fa": "کانادا"
+		}
 	},
 	{
 		"id": "39",
 		"sortname": "CV",
 		"name": "Cape Verde",
-		"phonecode": "238"
+		"phonecode": "238",
+		"translations": {
+			"de": "Kap Verde",
+			"es": "Cabo Verde",
+			"fr": "Cap Vert",
+			"ja": "カーボベルデ",
+			"it": "Capo Verde",
+			"br": "Cabo Verde",
+			"pt": "Cabo Verde",
+			"nl": "Kaapverdië",
+			"hr": "Zelenortska Republika",
+			"fa": "کیپ ورد"
+		}
 	},
 	{
 		"id": "40",
 		"sortname": "KY",
 		"name": "Cayman Islands",
-		"phonecode": "1345"
+		"phonecode": "1345",
+		"translations": {
+			"de": "Kaimaninseln",
+			"es": "Islas Caimán",
+			"fr": "Îles Caïmans",
+			"ja": "ケイマン諸島",
+			"it": "Isole Cayman",
+			"br": "Ilhas Cayman",
+			"pt": "Ilhas Caimão",
+			"nl": "Caymaneilanden",
+			"hr": "Kajmanski otoci",
+			"fa": "جزایر کیمن"
+		}
 	},
 	{
 		"id": "41",
 		"sortname": "CF",
 		"name": "Central African Republic",
-		"phonecode": "236"
+		"phonecode": "236",
+		"translations": {
+			"de": "Zentralafrikanische Republik",
+			"es": "República Centroafricana",
+			"fr": "République centrafricaine",
+			"ja": "中央アフリカ共和国",
+			"it": "Repubblica Centrafricana",
+			"br": "República Centro-Africana",
+			"pt": "República Centro-Africana",
+			"nl": "Centraal-Afrikaanse Republiek",
+			"hr": "Srednjoafrička Republika",
+			"fa": "جمهوری آفریقای مرکزی"
+		}
 	},
 	{
 		"id": "42",
 		"sortname": "TD",
 		"name": "Chad",
-		"phonecode": "235"
+		"phonecode": "235",
+		"translations": {
+			"de": "Tschad",
+			"es": "Chad",
+			"fr": "Tchad",
+			"ja": "チャド",
+			"it": "Ciad",
+			"br": "Chade",
+			"pt": "Chade",
+			"nl": "Tsjaad",
+			"hr": "Čad",
+			"fa": "چاد"
+		}
 	},
 	{
 		"id": "43",
 		"sortname": "CL",
 		"name": "Chile",
-		"phonecode": "56"
+		"phonecode": "56",
+		"translations": {
+			"de": "Chile",
+			"es": "Chile",
+			"fr": "Chili",
+			"ja": "チリ",
+			"it": "Cile",
+			"br": "Chile",
+			"pt": "Chile",
+			"nl": "Chili",
+			"hr": "Čile",
+			"fa": "شیلی"
+		}
 	},
 	{
 		"id": "44",
 		"sortname": "CN",
 		"name": "China",
-		"phonecode": "86"
+		"phonecode": "86",
+		"translations": {
+			"de": "China",
+			"es": "China",
+			"fr": "Chine",
+			"ja": "中国",
+			"it": "Cina",
+			"br": "China",
+			"pt": "China",
+			"nl": "China",
+			"hr": "Kina",
+			"fa": "چین"
+		}
 	},
 	{
 		"id": "45",
 		"sortname": "CX",
 		"name": "Christmas Island",
-		"phonecode": "61"
+		"phonecode": "61",
+		"translations": {
+			"de": "Weihnachtsinsel",
+			"es": "Isla de Navidad",
+			"fr": "Île Christmas",
+			"ja": "クリスマス島",
+			"it": "Isola di Natale",
+			"br": "Ilha Christmas",
+			"pt": "Ilha do Natal",
+			"nl": "Christmaseiland",
+			"hr": "Božićni otok",
+			"fa": "جزیره کریسمس"
+		}
 	},
 	{
 		"id": "46",
 		"sortname": "CC",
 		"name": "Cocos (Keeling) Islands",
-		"phonecode": "672"
+		"phonecode": "672",
+		"translations": {
+			"de": "Kokosinseln",
+			"es": "Islas Cocos o Islas Keeling",
+			"fr": "Îles Cocos",
+			"ja": "ココス（キーリング）諸島",
+			"it": "Isole Cocos e Keeling",
+			"br": "Ilhas Cocos",
+			"pt": "Ilhas dos Cocos",
+			"nl": "Cocoseilanden",
+			"hr": "Kokosovi Otoci",
+			"fa": "جزایر کوکوس"
+		}
 	},
 	{
 		"id": "47",
 		"sortname": "CO",
 		"name": "Colombia",
-		"phonecode": "57"
+		"phonecode": "57",
+		"translations": {
+			"de": "Kolumbien",
+			"es": "Colombia",
+			"fr": "Colombie",
+			"ja": "コロンビア",
+			"it": "Colombia",
+			"br": "Colômbia",
+			"pt": "Colômbia",
+			"nl": "Colombia",
+			"hr": "Kolumbija",
+			"fa": "کلمبیا"
+		}
 	},
 	{
 		"id": "48",
 		"sortname": "KM",
 		"name": "Comoros",
-		"phonecode": "269"
+		"phonecode": "269",
+		"translations": {
+			"de": "Union der Komoren",
+			"es": "Comoras",
+			"fr": "Comores",
+			"ja": "コモロ",
+			"it": "Comore",
+			"br": "Comores",
+			"pt": "Comores",
+			"nl": "Comoren",
+			"hr": "Komori",
+			"fa": "کومور"
+		}
 	},
 	{
 		"id": "49",
 		"sortname": "CG",
 		"name": "Congo",
-		"phonecode": "242"
+		"phonecode": "242",
+		"translations": {
+			"de": "Kongo",
+			"es": "Congo",
+			"fr": "Congo",
+			"ja": "コンゴ共和国",
+			"it": "Congo",
+			"br": "Congo",
+			"pt": "Congo",
+			"nl": "Congo [Republiek]",
+			"hr": "Kongo",
+			"fa": "کنگو"
+		}
 	},
 	{
 		"id": "50",
 		"sortname": "CD",
 		"name": "Congo The Democratic Republic Of The",
-		"phonecode": "242"
+		"phonecode": "242",
+		"translations": {
+			"de": "Kongo (Dem. Rep.)",
+			"es": "Congo (Rep. Dem.)",
+			"fr": "Congo (Rép. dém.)",
+			"ja": "コンゴ民主共和国",
+			"it": "Congo (Rep. Dem.)",
+			"br": "RD Congo",
+			"pt": "RD Congo",
+			"nl": "Congo [DRC]",
+			"hr": "Kongo, Demokratska Republika",
+			"fa": "جمهوری کنگو"
+		}
 	},
 	{
 		"id": "51",
 		"sortname": "CK",
 		"name": "Cook Islands",
-		"phonecode": "682"
+		"phonecode": "682",
+		"translations": {
+			"de": "Cookinseln",
+			"es": "Islas Cook",
+			"fr": "Îles Cook",
+			"ja": "クック諸島",
+			"it": "Isole Cook",
+			"br": "Ilhas Cook",
+			"pt": "Ilhas Cook",
+			"nl": "Cookeilanden",
+			"hr": "Cookovo Otočje",
+			"fa": "جزایر کوک"
+		}
 	},
 	{
 		"id": "52",
 		"sortname": "CR",
 		"name": "Costa Rica",
-		"phonecode": "506"
+		"phonecode": "506",
+		"translations": {
+			"de": "Costa Rica",
+			"es": "Costa Rica",
+			"fr": "Costa Rica",
+			"ja": "コスタリカ",
+			"it": "Costa Rica",
+			"br": "Costa Rica",
+			"pt": "Costa Rica",
+			"nl": "Costa Rica",
+			"hr": "Kostarika",
+			"fa": "کاستاریکا"
+		}
 	},
 	{
 		"id": "53",
 		"sortname": "CI",
 		"name": "Cote D''Ivoire (Ivory Coast)",
-		"phonecode": "225"
+		"phonecode": "225",
+		"translations": {
+			"de": "Elfenbeinküste",
+			"es": "Costa de Marfil",
+			"fr": "Côte d'Ivoire",
+			"ja": "コートジボワール",
+			"it": "Costa D'Avorio",
+			"br": "Costa do Marfim",
+			"pt": "Costa do Marfim",
+			"nl": "Ivoorkust",
+			"hr": "Obala Bjelokosti",
+			"fa": "ساحل عاج"
+		}
 	},
 	{
 		"id": "54",
 		"sortname": "HR",
 		"name": "Croatia (Hrvatska)",
-		"phonecode": "385"
+		"phonecode": "385",
+		"translations": {
+			"de": "Kroatien",
+			"es": "Croacia",
+			"fr": "Croatie",
+			"ja": "クロアチア",
+			"it": "Croazia",
+			"br": "Croácia",
+			"pt": "Croácia",
+			"nl": "Kroatië",
+			"hr": "Hrvatska",
+			"fa": "کرواسی"
+		}
 	},
 	{
 		"id": "55",
 		"sortname": "CU",
 		"name": "Cuba",
-		"phonecode": "53"
+		"phonecode": "53",
+		"translations": {
+			"de": "Kuba",
+			"es": "Cuba",
+			"fr": "Cuba",
+			"ja": "キューバ",
+			"it": "Cuba",
+			"br": "Cuba",
+			"pt": "Cuba",
+			"nl": "Cuba",
+			"hr": "Kuba",
+			"fa": "کوبا"
+		}
 	},
 	{
 		"id": "56",
 		"sortname": "CY",
 		"name": "Cyprus",
-		"phonecode": "357"
+		"phonecode": "357",
+		"translations": {
+			"de": "Zypern",
+			"es": "Chipre",
+			"fr": "Chypre",
+			"ja": "キプロス",
+			"it": "Cipro",
+			"br": "Chipre",
+			"pt": "Chipre",
+			"nl": "Cyprus",
+			"hr": "Cipar",
+			"fa": "قبرس"
+		}
 	},
 	{
 		"id": "57",
 		"sortname": "CZ",
 		"name": "Czech Republic",
-		"phonecode": "420"
+		"phonecode": "420",
+		"translations": {
+			"de": "Tschechische Republik",
+			"es": "República Checa",
+			"fr": "République tchèque",
+			"ja": "チェコ",
+			"it": "Repubblica Ceca",
+			"br": "República Tcheca",
+			"pt": "República Checa",
+			"nl": "Tsjechië",
+			"hr": "Češka",
+			"fa": "جمهوری چک"
+		}
 	},
 	{
 		"id": "58",
 		"sortname": "DK",
 		"name": "Denmark",
-		"phonecode": "45"
+		"phonecode": "45",
+		"translations": {
+			"de": "Dänemark",
+			"es": "Dinamarca",
+			"fr": "Danemark",
+			"ja": "デンマーク",
+			"it": "Danimarca",
+			"br": "Dinamarca",
+			"pt": "Dinamarca",
+			"nl": "Denemarken",
+			"hr": "Danska",
+			"fa": "دانمارک"
+		}
 	},
 	{
 		"id": "59",
 		"sortname": "DJ",
 		"name": "Djibouti",
-		"phonecode": "253"
+		"phonecode": "253",
+		"translations": {
+			"de": "Dschibuti",
+			"es": "Yibuti",
+			"fr": "Djibouti",
+			"ja": "ジブチ",
+			"it": "Gibuti",
+			"br": "Djibuti",
+			"pt": "Djibuti",
+			"nl": "Djibouti",
+			"hr": "Džibuti",
+			"fa": "جیبوتی"
+		}
 	},
 	{
 		"id": "60",
 		"sortname": "DM",
 		"name": "Dominica",
-		"phonecode": "1767"
+		"phonecode": "1767",
+		"translations": {
+			"de": "Dominica",
+			"es": "Dominica",
+			"fr": "Dominique",
+			"ja": "ドミニカ国",
+			"it": "Dominica",
+			"br": "Dominica",
+			"pt": "Dominica",
+			"nl": "Dominica",
+			"hr": "Dominika",
+			"fa": "دومینیکا"
+		}
 	},
 	{
 		"id": "61",
 		"sortname": "DO",
 		"name": "Dominican Republic",
-		"phonecode": "1809"
+		"phonecode": "1809",
+		"translations": {
+			"de": "Dominikanische Republik",
+			"es": "República Dominicana",
+			"fr": "République dominicaine",
+			"ja": "ドミニカ共和国",
+			"it": "Repubblica Dominicana",
+			"br": "República Dominicana",
+			"pt": "República Dominicana",
+			"nl": "Dominicaanse Republiek",
+			"hr": "Dominikanska Republika",
+			"fa": "جمهوری دومینیکن"
+		}
 	},
 	{
 		"id": "62",
 		"sortname": "TP",
 		"name": "East Timor",
-		"phonecode": "670"
+		"phonecode": "670",
+		"translations": {
+			"br": "Timor Leste",
+			"pt": "Timor Leste",
+			"nl": "Oost-Timor",
+			"hr": "Istočni Timor",
+			"fa": "تیمور شرقی",
+			"de": "Timor-Leste",
+			"es": "Timor Oriental",
+			"fr": "Timor oriental",
+			"ja": "東ティモール",
+			"it": "Timor Est"
+		  }
 	},
 	{
 		"id": "63",
 		"sortname": "EC",
 		"name": "Ecuador",
-		"phonecode": "593"
+		"phonecode": "593",
+		"translations": {
+			"de": "Ecuador",
+			"es": "Ecuador",
+			"fr": "Équateur",
+			"ja": "エクアドル",
+			"it": "Ecuador",
+			"br": "Equador",
+			"pt": "Equador",
+			"nl": "Ecuador",
+			"hr": "Ekvador",
+			"fa": "اکوادور"
+		}
 	},
 	{
 		"id": "64",
 		"sortname": "EG",
 		"name": "Egypt",
-		"phonecode": "20"
+		"phonecode": "20",
+		"translations": {
+			"de": "Ägypten",
+			"es": "Egipto",
+			"fr": "Égypte",
+			"ja": "エジプト",
+			"it": "Egitto",
+			"br": "Egito",
+			"pt": "Egipto",
+			"nl": "Egypte",
+			"hr": "Egipat",
+			"fa": "مصر"
+		}
 	},
 	{
 		"id": "65",
 		"sortname": "SV",
 		"name": "El Salvador",
-		"phonecode": "503"
+		"phonecode": "503",
+		"translations": {
+			"de": "El Salvador",
+			"es": "El Salvador",
+			"fr": "Salvador",
+			"ja": "エルサルバドル",
+			"it": "El Salvador",
+			"br": "El Salvador",
+			"pt": "El Salvador",
+			"nl": "El Salvador",
+			"hr": "Salvador",
+			"fa": "السالوادور"
+		}
 	},
 	{
 		"id": "66",
 		"sortname": "GQ",
 		"name": "Equatorial Guinea",
-		"phonecode": "240"
+		"phonecode": "240",
+		"translations": {
+			"de": "Äquatorial-Guinea",
+			"es": "Guinea Ecuatorial",
+			"fr": "Guinée-Équatoriale",
+			"ja": "赤道ギニア",
+			"it": "Guinea Equatoriale",
+			"br": "Guiné Equatorial",
+			"pt": "Guiné Equatorial",
+			"nl": "Equatoriaal-Guinea",
+			"hr": "Ekvatorijalna Gvineja",
+			"fa": "گینه استوایی"
+		}
 	},
 	{
 		"id": "67",
 		"sortname": "ER",
 		"name": "Eritrea",
-		"phonecode": "291"
+		"phonecode": "291",
+		"translations": {
+			"de": "Eritrea",
+			"es": "Eritrea",
+			"fr": "Érythrée",
+			"ja": "エリトリア",
+			"it": "Eritrea",
+			"br": "Eritreia",
+			"pt": "Eritreia",
+			"nl": "Eritrea",
+			"hr": "Eritreja",
+			"fa": "اریتره"
+		}
 	},
 	{
 		"id": "68",
 		"sortname": "EE",
 		"name": "Estonia",
-		"phonecode": "372"
+		"phonecode": "372",
+		"translations": {
+			"de": "Estland",
+			"es": "Estonia",
+			"fr": "Estonie",
+			"ja": "エストニア",
+			"it": "Estonia",
+			"br": "Estônia",
+			"pt": "Estónia",
+			"nl": "Estland",
+			"hr": "Estonija",
+			"fa": "استونی"
+		}
 	},
 	{
 		"id": "69",
 		"sortname": "ET",
 		"name": "Ethiopia",
-		"phonecode": "251"
+		"phonecode": "251",
+		"translations": {
+			"de": "Äthiopien",
+			"es": "Etiopía",
+			"fr": "Éthiopie",
+			"ja": "エチオピア",
+			"it": "Etiopia",
+			"br": "Etiópia",
+			"pt": "Etiópia",
+			"nl": "Ethiopië",
+			"hr": "Etiopija",
+			"fa": "اتیوپی"
+		}
 	},
 	{
 		"id": "70",
 		"sortname": "XA",
 		"name": "External Territories of Australia",
-		"phonecode": "61"
+		"phonecode": "61",
+		"translations": {
+			"br": "Austrália",
+			"pt": "Austrália",
+			"nl": "Australië",
+			"hr": "Australija",
+			"fa": "استرالیا",
+			"de": "Australien",
+			"es": "Australia",
+			"fr": "Australie",
+			"ja": "オーストラリア",
+			"it": "Australia"
+		  }
 	},
 	{
 		"id": "71",
 		"sortname": "FK",
 		"name": "Falkland Islands",
-		"phonecode": "500"
+		"phonecode": "500",
+		"translations": {
+			"de": "Falklandinseln",
+			"es": "Islas Malvinas",
+			"fr": "Îles Malouines",
+			"ja": "フォークランド（マルビナス）諸島",
+			"it": "Isole Falkland o Isole Malvine",
+			"br": "Ilhas Malvinas",
+			"pt": "Ilhas Falkland",
+			"nl": "Falklandeilanden [Islas Malvinas]",
+			"hr": "Falklandski Otoci",
+			"fa": "جزایر فالکلند"
+		}
 	},
 	{
 		"id": "72",
 		"sortname": "FO",
 		"name": "Faroe Islands",
-		"phonecode": "298"
+		"phonecode": "298",
+		"translations": {
+			"de": "Färöer-Inseln",
+			"es": "Islas Faroe",
+			"fr": "Îles Féroé",
+			"ja": "フェロー諸島",
+			"it": "Isole Far Oer",
+			"br": "Ilhas Faroé",
+			"pt": "Ilhas Faroé",
+			"nl": "Faeröer",
+			"hr": "Farski Otoci",
+			"fa": "جزایر فارو"
+		}
 	},
 	{
 		"id": "73",
 		"sortname": "FJ",
 		"name": "Fiji Islands",
-		"phonecode": "679"
+		"phonecode": "679",
+		"translations": {
+			"de": "Fidschi",
+			"es": "Fiyi",
+			"fr": "Fidji",
+			"ja": "フィジー",
+			"it": "Figi",
+			"br": "Fiji",
+			"pt": "Fiji",
+			"nl": "Fiji",
+			"hr": "Fiđi",
+			"fa": "فیجی"
+		}
 	},
 	{
 		"id": "74",
 		"sortname": "FI",
 		"name": "Finland",
-		"phonecode": "358"
+		"phonecode": "358",
+		"translations": {
+			"de": "Finnland",
+			"es": "Finlandia",
+			"fr": "Finlande",
+			"ja": "フィンランド",
+			"it": "Finlandia",
+			"br": "Finlândia",
+			"pt": "Finlândia",
+			"nl": "Finland",
+			"hr": "Finska",
+			"fa": "فنلاند"
+		}
 	},
 	{
 		"id": "75",
 		"sortname": "FR",
 		"name": "France",
-		"phonecode": "33"
+		"phonecode": "33",
+		"translations": {
+			"de": "Frankreich",
+			"es": "Francia",
+			"fr": "France",
+			"ja": "フランス",
+			"it": "Francia",
+			"br": "França",
+			"pt": "França",
+			"nl": "Frankrijk",
+			"hr": "Francuska",
+			"fa": "فرانسه"
+		}
 	},
 	{
 		"id": "76",
 		"sortname": "GF",
 		"name": "French Guiana",
-		"phonecode": "594"
+		"phonecode": "594",
+		"translations": {
+			"de": "Französisch Guyana",
+			"es": "Guayana Francesa",
+			"fr": "Guayane",
+			"ja": "フランス領ギアナ",
+			"it": "Guyana francese",
+			"br": "Guiana Francesa",
+			"pt": "Guiana Francesa",
+			"nl": "Frans-Guyana",
+			"hr": "Francuska Gvajana",
+			"fa": "گویان فرانسه"
+		}
 	},
 	{
 		"id": "77",
 		"sortname": "PF",
 		"name": "French Polynesia",
-		"phonecode": "689"
+		"phonecode": "689",
+		"translations": {
+			"de": "Französisch-Polynesien",
+			"es": "Polinesia Francesa",
+			"fr": "Polynésie française",
+			"ja": "フランス領ポリネシア",
+			"it": "Polinesia Francese",
+			"br": "Polinésia Francesa",
+			"pt": "Polinésia Francesa",
+			"nl": "Frans-Polynesië",
+			"hr": "Francuska Polinezija",
+			"fa": "پلی‌نزی فرانسه"
+		}
 	},
 	{
 		"id": "78",
 		"sortname": "TF",
 		"name": "French Southern Territories",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Französische Süd- und Antarktisgebiete",
+			"es": "Tierras Australes y Antárticas Francesas",
+			"fr": "Terres australes et antarctiques françaises",
+			"ja": "フランス領南方・南極地域",
+			"it": "Territori Francesi del Sud",
+			"br": "Terras Austrais e Antárticas Francesas",
+			"pt": "Terras Austrais e Antárticas Francesas",
+			"nl": "Franse Gebieden in de zuidelijke Indische Oceaan",
+			"hr": "Francuski južni i antarktički teritoriji",
+			"fa": "سرزمین‌های جنوبی و جنوبگانی فرانسه"
+		}
 	},
 	{
 		"id": "79",
 		"sortname": "GA",
 		"name": "Gabon",
-		"phonecode": "241"
+		"phonecode": "241",
+		"translations": {
+			"de": "Gabun",
+			"es": "Gabón",
+			"fr": "Gabon",
+			"ja": "ガボン",
+			"it": "Gabon",
+			"br": "Gabão",
+			"pt": "Gabão",
+			"nl": "Gabon",
+			"hr": "Gabon",
+			"fa": "گابن"
+		}
 	},
 	{
 		"id": "80",
 		"sortname": "GM",
 		"name": "Gambia The",
-		"phonecode": "220"
+		"phonecode": "220",
+		"translations": {
+			"de": "Gambia",
+			"es": "Gambia",
+			"fr": "Gambie",
+			"ja": "ガンビア",
+			"it": "Gambia",
+			"br": "Gâmbia",
+			"pt": "Gâmbia",
+			"nl": "Gambia",
+			"hr": "Gambija",
+			"fa": "گامبیا"
+		}
 	},
 	{
 		"id": "81",
 		"sortname": "GE",
 		"name": "Georgia",
-		"phonecode": "995"
+		"phonecode": "995",
+		"translations": {
+			"de": "Georgien",
+			"es": "Georgia",
+			"fr": "Géorgie",
+			"ja": "グルジア",
+			"it": "Georgia",
+			"br": "Geórgia",
+			"pt": "Geórgia",
+			"nl": "Georgië",
+			"hr": "Gruzija",
+			"fa": "گرجستان"
+		}
 	},
 	{
 		"id": "82",
 		"sortname": "DE",
 		"name": "Germany",
-		"phonecode": "49"
+		"phonecode": "49",
+		"translations": {
+			"de": "Deutschland",
+			"es": "Alemania",
+			"fr": "Allemagne",
+			"ja": "ドイツ",
+			"it": "Germania",
+			"br": "Alemanha",
+			"pt": "Alemanha",
+			"nl": "Duitsland",
+			"hr": "Njemačka",
+			"fa": "آلمان"
+		}
 	},
 	{
 		"id": "83",
 		"sortname": "GH",
 		"name": "Ghana",
-		"phonecode": "233"
+		"phonecode": "233",
+		"translations": {
+			"de": "Ghana",
+			"es": "Ghana",
+			"fr": "Ghana",
+			"ja": "ガーナ",
+			"it": "Ghana",
+			"br": "Gana",
+			"pt": "Gana",
+			"nl": "Ghana",
+			"hr": "Gana",
+			"fa": "غنا"
+		}
 	},
 	{
 		"id": "84",
 		"sortname": "GI",
 		"name": "Gibraltar",
-		"phonecode": "350"
+		"phonecode": "350",
+		"translations": {
+			"de": "Gibraltar",
+			"es": "Gibraltar",
+			"fr": "Gibraltar",
+			"ja": "ジブラルタル",
+			"it": "Gibilterra",
+			"br": "Gibraltar",
+			"pt": "Gibraltar",
+			"nl": "Gibraltar",
+			"hr": "Gibraltar",
+			"fa": "جبل‌طارق"
+		}
 	},
 	{
 		"id": "85",
 		"sortname": "GR",
 		"name": "Greece",
-		"phonecode": "30"
+		"phonecode": "30",
+		"translations": {
+			"de": "Griechenland",
+			"es": "Grecia",
+			"fr": "Grèce",
+			"ja": "ギリシャ",
+			"it": "Grecia",
+			"br": "Grécia",
+			"pt": "Grécia",
+			"nl": "Griekenland",
+			"hr": "Grčka",
+			"fa": "یونان"
+		}
 	},
 	{
 		"id": "86",
 		"sortname": "GL",
 		"name": "Greenland",
-		"phonecode": "299"
+		"phonecode": "299",
+		"translations": {
+			"de": "Grönland",
+			"es": "Groenlandia",
+			"fr": "Groenland",
+			"ja": "グリーンランド",
+			"it": "Groenlandia",
+			"br": "Groelândia",
+			"pt": "Gronelândia",
+			"nl": "Groenland",
+			"hr": "Grenland",
+			"fa": "گرینلند"
+		}
 	},
 	{
 		"id": "87",
 		"sortname": "GD",
 		"name": "Grenada",
-		"phonecode": "1473"
+		"phonecode": "1473",
+		"translations": {
+			"de": "Grenada",
+			"es": "Grenada",
+			"fr": "Grenade",
+			"ja": "グレナダ",
+			"it": "Grenada",
+			"br": "Granada",
+			"pt": "Granada",
+			"nl": "Grenada",
+			"hr": "Grenada",
+			"fa": "گرنادا"
+		}
 	},
 	{
 		"id": "88",
 		"sortname": "GP",
 		"name": "Guadeloupe",
-		"phonecode": "590"
+		"phonecode": "590",
+		"translations": {
+			"de": "Guadeloupe",
+			"es": "Guadalupe",
+			"fr": "Guadeloupe",
+			"ja": "グアドループ",
+			"it": "Guadeloupa",
+			"br": "Guadalupe",
+			"pt": "Guadalupe",
+			"nl": "Guadeloupe",
+			"hr": "Gvadalupa",
+			"fa": "جزیره گوادلوپ"
+		}
 	},
 	{
 		"id": "89",
 		"sortname": "GU",
 		"name": "Guam",
-		"phonecode": "1671"
+		"phonecode": "1671",
+		"translations": {
+			"de": "Guam",
+			"es": "Guam",
+			"fr": "Guam",
+			"ja": "グアム",
+			"it": "Guam",
+			"br": "Guam",
+			"pt": "Guame",
+			"nl": "Guam",
+			"hr": "Guam",
+			"fa": "گوام"
+		}
 	},
 	{
 		"id": "90",
 		"sortname": "GT",
 		"name": "Guatemala",
-		"phonecode": "502"
+		"phonecode": "502",
+		"translations": {
+			"de": "Guatemala",
+			"es": "Guatemala",
+			"fr": "Guatemala",
+			"ja": "グアテマラ",
+			"it": "Guatemala",
+			"br": "Guatemala",
+			"pt": "Guatemala",
+			"nl": "Guatemala",
+			"hr": "Gvatemala",
+			"fa": "گواتمالا"
+		}
 	},
 	{
 		"id": "91",
 		"sortname": "XU",
 		"name": "Guernsey and Alderney",
-		"phonecode": "44"
+		"phonecode": "44",
+		"translations": {
+			"br": "Guernsey",
+			"pt": "Guernsey",
+			"nl": "Guernsey",
+			"hr": "Guernsey",
+			"fa": "گرنزی",
+			"de": "Guernsey",
+			"es": "Guernsey",
+			"fr": "Guernesey",
+			"ja": "ガーンジー",
+			"it": "Guernsey"
+		  }
 	},
 	{
 		"id": "92",
 		"sortname": "GN",
 		"name": "Guinea",
-		"phonecode": "224"
+		"phonecode": "224",
+		"translations": {
+			"de": "Guinea",
+			"es": "Guinea",
+			"fr": "Guinée",
+			"ja": "ギニア",
+			"it": "Guinea",
+			"br": "Guiné",
+			"pt": "Guiné",
+			"nl": "Guinee",
+			"hr": "Gvineja",
+			"fa": "گینه"
+		}
 	},
 	{
 		"id": "93",
 		"sortname": "GW",
 		"name": "Guinea-Bissau",
-		"phonecode": "245"
+		"phonecode": "245",
+		"translations": {
+			"de": "Guinea-Bissau",
+			"es": "Guinea-Bisáu",
+			"fr": "Guinée-Bissau",
+			"ja": "ギニアビサウ",
+			"it": "Guinea-Bissau",
+			"br": "Guiné-Bissau",
+			"pt": "Guiné-Bissau",
+			"nl": "Guinee-Bissau",
+			"hr": "Gvineja Bisau",
+			"fa": "گینه بیسائو"
+		}
 	},
 	{
 		"id": "94",
 		"sortname": "GY",
 		"name": "Guyana",
-		"phonecode": "592"
+		"phonecode": "592",
+		"translations": {
+			"de": "Guyana",
+			"es": "Guyana",
+			"fr": "Guyane",
+			"ja": "ガイアナ",
+			"it": "Guyana",
+			"br": "Guiana",
+			"pt": "Guiana",
+			"nl": "Guyana",
+			"hr": "Gvajana",
+			"fa": "گویان"
+		}
 	},
 	{
 		"id": "95",
 		"sortname": "HT",
 		"name": "Haiti",
-		"phonecode": "509"
+		"phonecode": "509",
+		"translations": {
+			"de": "Haiti",
+			"es": "Haiti",
+			"fr": "Haïti",
+			"ja": "ハイチ",
+			"it": "Haiti",
+			"br": "Haiti",
+			"pt": "Haiti",
+			"nl": "Haïti",
+			"hr": "Haiti",
+			"fa": "هائیتی"
+		}
 	},
 	{
 		"id": "96",
 		"sortname": "HM",
 		"name": "Heard and McDonald Islands",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Heard und die McDonaldinseln",
+			"es": "Islas Heard y McDonald",
+			"fr": "Îles Heard-et-MacDonald",
+			"ja": "ハード島とマクドナルド諸島",
+			"it": "Isole Heard e McDonald",
+			"br": "Ilha Heard e Ilhas McDonald",
+			"pt": "Ilha Heard e Ilhas McDonald",
+			"nl": "Heard- en McDonaldeilanden",
+			"hr": "Otok Heard i otočje McDonald",
+			"fa": "جزیره هرد و جزایر مک‌دونالد"
+		}
 	},
 	{
 		"id": "97",
 		"sortname": "HN",
 		"name": "Honduras",
-		"phonecode": "504"
+		"phonecode": "504",
+		"translations": {
+			"de": "Honduras",
+			"es": "Honduras",
+			"fr": "Honduras",
+			"ja": "ホンジュラス",
+			"it": "Honduras",
+			"br": "Honduras",
+			"pt": "Honduras",
+			"nl": "Honduras",
+			"hr": "Honduras",
+			"fa": "هندوراس"
+		}
 	},
 	{
 		"id": "98",
 		"sortname": "HK",
 		"name": "Hong Kong S.A.R.",
-		"phonecode": "852"
+		"phonecode": "852",
+		"translations": {
+			"de": "Hong Kong",
+			"es": "Hong Kong",
+			"fr": "Hong Kong",
+			"ja": "香港",
+			"it": "Hong Kong",
+			"br": "Hong Kong",
+			"pt": "Hong Kong",
+			"nl": "Hongkong",
+			"hr": "Hong Kong",
+			"fa": "هنگ‌کنگ"
+		}
 	},
 	{
 		"id": "99",
 		"sortname": "HU",
 		"name": "Hungary",
-		"phonecode": "36"
+		"phonecode": "36",
+		"translations": {
+			"de": "Ungarn",
+			"es": "Hungría",
+			"fr": "Hongrie",
+			"ja": "ハンガリー",
+			"it": "Ungheria",
+			"br": "Hungria",
+			"pt": "Hungria",
+			"nl": "Hongarije",
+			"hr": "Mađarska",
+			"fa": "مجارستان"
+		}
 	},
 	{
 		"id": "100",
 		"sortname": "IS",
 		"name": "Iceland",
-		"phonecode": "354"
+		"phonecode": "354",
+		"translations": {
+			"de": "Island",
+			"es": "Islandia",
+			"fr": "Islande",
+			"ja": "アイスランド",
+			"it": "Islanda",
+			"br": "Islândia",
+			"pt": "Islândia",
+			"nl": "IJsland",
+			"hr": "Island",
+			"fa": "ایسلند"
+		}
 	},
 	{
 		"id": "101",
 		"sortname": "IN",
 		"name": "India",
-		"phonecode": "91"
+		"phonecode": "91",
+		"translations": {
+			"de": "Indien",
+			"es": "India",
+			"fr": "Inde",
+			"ja": "インド",
+			"it": "India",
+			"br": "Índia",
+			"pt": "Índia",
+			"nl": "India",
+			"hr": "Indija",
+			"fa": "هند"
+		}
 	},
 	{
 		"id": "102",
 		"sortname": "ID",
 		"name": "Indonesia",
-		"phonecode": "62"
+		"phonecode": "62",
+		"translations": {
+			"de": "Indonesien",
+			"es": "Indonesia",
+			"fr": "Indonésie",
+			"ja": "インドネシア",
+			"it": "Indonesia",
+			"br": "Indonésia",
+			"pt": "Indonésia",
+			"nl": "Indonesië",
+			"hr": "Indonezija",
+			"fa": "اندونزی"
+		}
 	},
 	{
 		"id": "103",
 		"sortname": "IR",
 		"name": "Iran",
-		"phonecode": "98"
+		"phonecode": "98",
+		"translations": {
+			"de": "Iran",
+			"es": "Iran",
+			"fr": "Iran",
+			"ja": "イラン・イスラム共和国",
+			"it": null,
+			"br": "Irã",
+			"pt": "Irão",
+			"nl": "Iran",
+			"hr": "Iran",
+			"fa": "ایران"
+		}
 	},
 	{
 		"id": "104",
 		"sortname": "IQ",
 		"name": "Iraq",
-		"phonecode": "964"
+		"phonecode": "964",
+		"translations": {
+			"de": "Irak",
+			"es": "Irak",
+			"fr": "Irak",
+			"ja": "イラク",
+			"it": "Iraq",
+			"br": "Iraque",
+			"pt": "Iraque",
+			"nl": "Irak",
+			"hr": "Irak",
+			"fa": "عراق"
+		}
 	},
 	{
 		"id": "105",
 		"sortname": "IE",
 		"name": "Ireland",
-		"phonecode": "353"
+		"phonecode": "353",
+		"translations": {
+			"de": "Irland",
+			"es": "Irlanda",
+			"fr": "Irlande",
+			"ja": "アイルランド",
+			"it": "Irlanda",
+			"br": "Irlanda",
+			"pt": "Irlanda",
+			"nl": "Ierland",
+			"hr": "Irska",
+			"fa": "ایرلند"
+		}
 	},
 	{
 		"id": "106",
 		"sortname": "IL",
 		"name": "Israel",
-		"phonecode": "972"
+		"phonecode": "972",
+		"translations": {
+			"de": "Israel",
+			"es": "Israel",
+			"fr": "Israël",
+			"ja": "イスラエル",
+			"it": "Israele",
+			"br": "Israel",
+			"pt": "Israel",
+			"nl": "Israël",
+			"hr": "Izrael",
+			"fa": "اسرائیل"
+		}
 	},
 	{
 		"id": "107",
 		"sortname": "IT",
 		"name": "Italy",
-		"phonecode": "39"
+		"phonecode": "39",
+		"translations": {
+			"de": "Italien",
+			"es": "Italia",
+			"fr": "Italie",
+			"ja": "イタリア",
+			"it": "Italia",
+			"br": "Itália",
+			"pt": "Itália",
+			"nl": "Italië",
+			"hr": "Italija",
+			"fa": "ایتالیا"
+		}
 	},
 	{
 		"id": "108",
 		"sortname": "JM",
 		"name": "Jamaica",
-		"phonecode": "1876"
+		"phonecode": "1876",
+		"translations": {
+			"de": "Jamaika",
+			"es": "Jamaica",
+			"fr": "Jamaïque",
+			"ja": "ジャマイカ",
+			"it": "Giamaica",
+			"br": "Jamaica",
+			"pt": "Jamaica",
+			"nl": "Jamaica",
+			"hr": "Jamajka",
+			"fa": "جامائیکا"
+		}
 	},
 	{
 		"id": "109",
 		"sortname": "JP",
 		"name": "Japan",
-		"phonecode": "81"
+		"phonecode": "81",
+		"translations": {
+			"de": "Japan",
+			"es": "Japón",
+			"fr": "Japon",
+			"ja": "日本",
+			"it": "Giappone",
+			"br": "Japão",
+			"pt": "Japão",
+			"nl": "Japan",
+			"hr": "Japan",
+			"fa": "ژاپن"
+		}
 	},
 	{
 		"id": "110",
 		"sortname": "XJ",
 		"name": "Jersey",
-		"phonecode": "44"
+		"phonecode": "44",
+		"translations": {
+			"br": "Jersey",
+			"pt": "Jersey",
+			"nl": "Jersey",
+			"hr": "Jersey",
+			"fa": "جرزی",
+			"de": "Jersey",
+			"es": "Jersey",
+			"fr": "Jersey",
+			"ja": "ジャージー",
+			"it": "Isola di Jersey"
+		  }
 	},
 	{
 		"id": "111",
 		"sortname": "JO",
 		"name": "Jordan",
-		"phonecode": "962"
+		"phonecode": "962",
+		"translations": {
+			"de": "Jordanien",
+			"es": "Jordania",
+			"fr": "Jordanie",
+			"ja": "ヨルダン",
+			"it": "Giordania",
+			"br": "Jordânia",
+			"pt": "Jordânia",
+			"nl": "Jordanië",
+			"hr": "Jordan",
+			"fa": "اردن"
+		}
 	},
 	{
 		"id": "112",
 		"sortname": "KZ",
 		"name": "Kazakhstan",
-		"phonecode": "7"
+		"phonecode": "7",
+		"translations": {
+			"de": "Kasachstan",
+			"es": "Kazajistán",
+			"fr": "Kazakhstan",
+			"ja": "カザフスタン",
+			"it": "Kazakistan",
+			"br": "Cazaquistão",
+			"pt": "Cazaquistão",
+			"nl": "Kazachstan",
+			"hr": "Kazahstan",
+			"fa": "قزاقستان"
+		}
 	},
 	{
 		"id": "113",
 		"sortname": "KE",
 		"name": "Kenya",
-		"phonecode": "254"
+		"phonecode": "254",
+		"translations": {
+			"de": "Kenia",
+			"es": "Kenia",
+			"fr": "Kenya",
+			"ja": "ケニア",
+			"it": "Kenya",
+			"br": "Quênia",
+			"pt": "Quénia",
+			"nl": "Kenia",
+			"hr": "Kenija",
+			"fa": "کنیا"
+		}
 	},
 	{
 		"id": "114",
 		"sortname": "KI",
 		"name": "Kiribati",
-		"phonecode": "686"
+		"phonecode": "686",
+		"translations": {
+			"de": "Kiribati",
+			"es": "Kiribati",
+			"fr": "Kiribati",
+			"ja": "キリバス",
+			"it": "Kiribati",
+			"br": "Kiribati",
+			"pt": "Quiribáti",
+			"nl": "Kiribati",
+			"hr": "Kiribati",
+			"fa": "کیریباتی"
+		}
 	},
 	{
 		"id": "115",
 		"sortname": "KP",
 		"name": "Korea North",
-		"phonecode": "850"
+		"phonecode": "850",
+		"translations": {
+			"de": "Nordkorea",
+			"es": "Corea del Norte",
+			"fr": "Corée du Nord",
+			"ja": "朝鮮民主主義人民共和国",
+			"it": "Corea del Nord",
+			"br": "Coreia do Norte",
+			"pt": "Coreia do Norte",
+			"nl": "Noord-Korea",
+			"hr": "Sjeverna Koreja",
+			"fa": "کره جنوبی"
+		}
 	},
 	{
 		"id": "116",
 		"sortname": "KR",
 		"name": "Korea South",
-		"phonecode": "82"
+		"phonecode": "82",
+		"translations": {
+			"de": "Südkorea",
+			"es": "Corea del Sur",
+			"fr": "Corée du Sud",
+			"ja": "大韓民国",
+			"it": "Corea del Sud",
+			"br": "Coreia do Sul",
+			"pt": "Coreia do Sul",
+			"nl": "Zuid-Korea",
+			"hr": "Južna Koreja",
+			"fa": "کره شمالی"
+		}
 	},
 	{
 		"id": "117",
 		"sortname": "KW",
 		"name": "Kuwait",
-		"phonecode": "965"
+		"phonecode": "965",
+		"translations": {
+			"de": "Kuwait",
+			"es": "Kuwait",
+			"fr": "Koweït",
+			"ja": "クウェート",
+			"it": "Kuwait",
+			"br": "Kuwait",
+			"pt": "Kuwait",
+			"nl": "Koeweit",
+			"hr": "Kuvajt",
+			"fa": "کویت"
+		}
 	},
 	{
 		"id": "118",
 		"sortname": "KG",
 		"name": "Kyrgyzstan",
-		"phonecode": "996"
+		"phonecode": "996",
+		"translations": {
+			"de": "Kirgisistan",
+			"es": "Kirguizistán",
+			"fr": "Kirghizistan",
+			"ja": "キルギス",
+			"it": "Kirghizistan",
+			"br": "Quirguistão",
+			"pt": "Quirguizistão",
+			"nl": "Kirgizië",
+			"hr": "Kirgistan",
+			"fa": "قرقیزستان"
+		}
 	},
 	{
 		"id": "119",
 		"sortname": "LA",
 		"name": "Laos",
-		"phonecode": "856"
+		"phonecode": "856",
+		"translations": {
+			"de": "Laos",
+			"es": "Laos",
+			"fr": "Laos",
+			"ja": "ラオス人民民主共和国",
+			"it": "Laos",
+			"br": "Laos",
+			"pt": "Laos",
+			"nl": "Laos",
+			"hr": "Laos",
+			"fa": "لائوس"
+		}
 	},
 	{
 		"id": "120",
 		"sortname": "LV",
 		"name": "Latvia",
-		"phonecode": "371"
+		"phonecode": "371",
+		"translations": {
+			"de": "Lettland",
+			"es": "Letonia",
+			"fr": "Lettonie",
+			"ja": "ラトビア",
+			"it": "Lettonia",
+			"br": "Letônia",
+			"pt": "Letónia",
+			"nl": "Letland",
+			"hr": "Latvija",
+			"fa": "لتونی"
+		}
 	},
 	{
 		"id": "121",
 		"sortname": "LB",
 		"name": "Lebanon",
-		"phonecode": "961"
+		"phonecode": "961",
+		"translations": {
+			"de": "Libanon",
+			"es": "Líbano",
+			"fr": "Liban",
+			"ja": "レバノン",
+			"it": "Libano",
+			"br": "Líbano",
+			"pt": "Líbano",
+			"nl": "Libanon",
+			"hr": "Libanon",
+			"fa": "لبنان"
+		}
 	},
 	{
 		"id": "122",
 		"sortname": "LS",
 		"name": "Lesotho",
-		"phonecode": "266"
+		"phonecode": "266",
+		"translations": {
+			"de": "Lesotho",
+			"es": "Lesotho",
+			"fr": "Lesotho",
+			"ja": "レソト",
+			"it": "Lesotho",
+			"br": "Lesoto",
+			"pt": "Lesoto",
+			"nl": "Lesotho",
+			"hr": "Lesoto",
+			"fa": "لسوتو"
+		}
 	},
 	{
 		"id": "123",
 		"sortname": "LR",
 		"name": "Liberia",
-		"phonecode": "231"
+		"phonecode": "231",
+		"translations": {
+			"de": "Liberia",
+			"es": "Liberia",
+			"fr": "Liberia",
+			"ja": "リベリア",
+			"it": "Liberia",
+			"br": "Libéria",
+			"pt": "Libéria",
+			"nl": "Liberia",
+			"hr": "Liberija",
+			"fa": "لیبریا"
+		}
 	},
 	{
 		"id": "124",
 		"sortname": "LY",
 		"name": "Libya",
-		"phonecode": "218"
+		"phonecode": "218",
+		"translations": {
+			"de": "Libyen",
+			"es": "Libia",
+			"fr": "Libye",
+			"ja": "リビア",
+			"it": "Libia",
+			"br": "Líbia",
+			"pt": "Líbia",
+			"nl": "Libië",
+			"hr": "Libija",
+			"fa": "لیبی"
+		}
 	},
 	{
 		"id": "125",
 		"sortname": "LI",
 		"name": "Liechtenstein",
-		"phonecode": "423"
+		"phonecode": "423",
+		"translations": {
+			"de": "Liechtenstein",
+			"es": "Liechtenstein",
+			"fr": "Liechtenstein",
+			"ja": "リヒテンシュタイン",
+			"it": "Liechtenstein",
+			"br": "Liechtenstein",
+			"pt": "Listenstaine",
+			"nl": "Liechtenstein",
+			"hr": "Lihtenštajn",
+			"fa": "لیختن‌اشتاین"
+		}
 	},
 	{
 		"id": "126",
 		"sortname": "LT",
 		"name": "Lithuania",
-		"phonecode": "370"
+		"phonecode": "370",
+		"translations": {
+			"de": "Litauen",
+			"es": "Lituania",
+			"fr": "Lituanie",
+			"ja": "リトアニア",
+			"it": "Lituania",
+			"br": "Lituânia",
+			"pt": "Lituânia",
+			"nl": "Litouwen",
+			"hr": "Litva",
+			"fa": "لیتوانی"
+		}
 	},
 	{
 		"id": "127",
 		"sortname": "LU",
 		"name": "Luxembourg",
-		"phonecode": "352"
+		"phonecode": "352",
+		"translations": {
+			"de": "Luxemburg",
+			"es": "Luxemburgo",
+			"fr": "Luxembourg",
+			"ja": "ルクセンブルク",
+			"it": "Lussemburgo",
+			"br": "Luxemburgo",
+			"pt": "Luxemburgo",
+			"nl": "Luxemburg",
+			"hr": "Luksemburg",
+			"fa": "لوکزامبورگ"
+		}
 	},
 	{
 		"id": "128",
 		"sortname": "MO",
 		"name": "Macau S.A.R.",
-		"phonecode": "853"
+		"phonecode": "853",
+		"translations": {
+			"de": "Macao",
+			"es": "Macao",
+			"fr": "Macao",
+			"ja": "マカオ",
+			"it": "Macao",
+			"br": "Macau",
+			"pt": "Macau",
+			"nl": "Macao",
+			"hr": "Makao",
+			"fa": "مکائو"
+		}
 	},
 	{
 		"id": "129",
 		"sortname": "MK",
 		"name": "Macedonia",
-		"phonecode": "389"
+		"phonecode": "389",
+		"translations": {
+			"de": "Mazedonien",
+			"es": "Macedonia",
+			"fr": "Macédoine",
+			"ja": "マケドニア旧ユーゴスラビア共和国",
+			"it": "Macedonia",
+			"br": "Macedônia",
+			"pt": "Macedónia",
+			"nl": "Macedonië",
+			"hr": "Makedonija",
+			"fa": ""
+		}
 	},
 	{
 		"id": "130",
 		"sortname": "MG",
 		"name": "Madagascar",
-		"phonecode": "261"
+		"phonecode": "261",
+		"translations": {
+			"de": "Madagaskar",
+			"es": "Madagascar",
+			"fr": "Madagascar",
+			"ja": "マダガスカル",
+			"it": "Madagascar",
+			"br": "Madagascar",
+			"pt": "Madagáscar",
+			"nl": "Madagaskar",
+			"hr": "Madagaskar",
+			"fa": "ماداگاسکار"
+		}
 	},
 	{
 		"id": "131",
 		"sortname": "MW",
 		"name": "Malawi",
-		"phonecode": "265"
+		"phonecode": "265",
+		"translations": {
+			"de": "Malawi",
+			"es": "Malawi",
+			"fr": "Malawi",
+			"ja": "マラウイ",
+			"it": "Malawi",
+			"br": "Malawi",
+			"pt": "Malávi",
+			"nl": "Malawi",
+			"hr": "Malavi",
+			"fa": "مالاوی"
+		}
 	},
 	{
 		"id": "132",
 		"sortname": "MY",
 		"name": "Malaysia",
-		"phonecode": "60"
+		"phonecode": "60",
+		"translations": {
+			"de": "Malaysia",
+			"es": "Malasia",
+			"fr": "Malaisie",
+			"ja": "マレーシア",
+			"it": "Malesia",
+			"br": "Malásia",
+			"pt": "Malásia",
+			"nl": "Maleisië",
+			"hr": "Malezija",
+			"fa": "مالزی"
+		}
 	},
 	{
 		"id": "133",
 		"sortname": "MV",
 		"name": "Maldives",
-		"phonecode": "960"
+		"phonecode": "960",
+		"translations": {
+			"de": "Malediven",
+			"es": "Maldivas",
+			"fr": "Maldives",
+			"ja": "モルディブ",
+			"it": "Maldive",
+			"br": "Maldivas",
+			"pt": "Maldivas",
+			"nl": "Maldiven",
+			"hr": "Maldivi",
+			"fa": "مالدیو"
+		}
 	},
 	{
 		"id": "134",
 		"sortname": "ML",
 		"name": "Mali",
-		"phonecode": "223"
+		"phonecode": "223",
+		"translations": {
+			"de": "Mali",
+			"es": "Mali",
+			"fr": "Mali",
+			"ja": "マリ",
+			"it": "Mali",
+			"br": "Mali",
+			"pt": "Mali",
+			"nl": "Mali",
+			"hr": "Mali",
+			"fa": "مالی"
+		}
 	},
 	{
 		"id": "135",
 		"sortname": "MT",
 		"name": "Malta",
-		"phonecode": "356"
+		"phonecode": "356",
+		"translations": {
+			"de": "Malta",
+			"es": "Malta",
+			"fr": "Malte",
+			"ja": "マルタ",
+			"it": "Malta",
+			"br": "Malta",
+			"pt": "Malta",
+			"nl": "Malta",
+			"hr": "Malta",
+			"fa": "مالت"
+		}
 	},
 	{
 		"id": "136",
 		"sortname": "XM",
 		"name": "Man (Isle of)",
-		"phonecode": "44"
+		"phonecode": "44",
+		"translations": {
+			"br": "Ilha de Man",
+			"pt": "Ilha de Man",
+			"nl": "Isle of Man",
+			"hr": "Otok Man",
+			"fa": "جزیره من",
+			"de": "Insel Man",
+			"es": "Isla de Man",
+			"fr": "Île de Man",
+			"ja": "マン島",
+			"it": "Isola di Man"
+		  }
 	},
 	{
 		"id": "137",
 		"sortname": "MH",
 		"name": "Marshall Islands",
-		"phonecode": "692"
+		"phonecode": "692",
+		"translations": {
+			"de": "Marshallinseln",
+			"es": "Islas Marshall",
+			"fr": "Îles Marshall",
+			"ja": "マーシャル諸島",
+			"it": "Isole Marshall",
+			"br": "Ilhas Marshall",
+			"pt": "Ilhas Marshall",
+			"nl": "Marshalleilanden",
+			"hr": "Maršalovi Otoci",
+			"fa": "جزایر مارشال"
+		}
 	},
 	{
 		"id": "138",
 		"sortname": "MQ",
 		"name": "Martinique",
-		"phonecode": "596"
+		"phonecode": "596",
+		"translations": {
+			"de": "Martinique",
+			"es": "Martinica",
+			"fr": "Martinique",
+			"ja": "マルティニーク",
+			"it": "Martinica",
+			"br": "Martinica",
+			"pt": "Martinica",
+			"nl": "Martinique",
+			"hr": "Martinique",
+			"fa": "مونتسرات"
+		}
 	},
 	{
 		"id": "139",
 		"sortname": "MR",
 		"name": "Mauritania",
-		"phonecode": "222"
+		"phonecode": "222",
+		"translations": {
+			"de": "Mauretanien",
+			"es": "Mauritania",
+			"fr": "Mauritanie",
+			"ja": "モーリタニア",
+			"it": "Mauritania",
+			"br": "Mauritânia",
+			"pt": "Mauritânia",
+			"nl": "Mauritanië",
+			"hr": "Mauritanija",
+			"fa": "موریتانی"
+		}
 	},
 	{
 		"id": "140",
 		"sortname": "MU",
 		"name": "Mauritius",
-		"phonecode": "230"
+		"phonecode": "230",
+		"translations": {
+			"de": "Mauritius",
+			"es": "Mauricio",
+			"fr": "Île Maurice",
+			"ja": "モーリシャス",
+			"it": "Mauritius",
+			"br": "Maurício",
+			"pt": "Maurícia",
+			"nl": "Mauritius",
+			"hr": "Mauricijus",
+			"fa": "موریس"
+		}
 	},
 	{
 		"id": "141",
 		"sortname": "YT",
 		"name": "Mayotte",
-		"phonecode": "269"
+		"phonecode": "269",
+		"translations": {
+			"de": "Mayotte",
+			"es": "Mayotte",
+			"fr": "Mayotte",
+			"ja": "マヨット",
+			"it": "Mayotte",
+			"br": "Mayotte",
+			"pt": "Mayotte",
+			"nl": "Mayotte",
+			"hr": "Mayotte",
+			"fa": "مایوت"
+		}
 	},
 	{
 		"id": "142",
 		"sortname": "MX",
 		"name": "Mexico",
-		"phonecode": "52"
+		"phonecode": "52",
+		"translations": {
+			"de": "Mexiko",
+			"es": "México",
+			"fr": "Mexique",
+			"ja": "メキシコ",
+			"it": "Messico",
+			"br": "México",
+			"pt": "México",
+			"nl": "Mexico",
+			"hr": "Meksiko",
+			"fa": "مکزیک"
+		}
 	},
 	{
 		"id": "143",
 		"sortname": "FM",
 		"name": "Micronesia",
-		"phonecode": "691"
+		"phonecode": "691",
+		"translations": {
+			"de": "Mikronesien",
+			"es": "Micronesia",
+			"fr": "Micronésie",
+			"ja": "ミクロネシア連邦",
+			"it": "Micronesia",
+			"br": "Micronésia",
+			"pt": "Micronésia",
+			"nl": "Micronesië",
+			"hr": "Mikronezija",
+			"fa": "ایالات فدرال میکرونزی"
+		}
 	},
 	{
 		"id": "144",
 		"sortname": "MD",
 		"name": "Moldova",
-		"phonecode": "373"
+		"phonecode": "373",
+		"translations": {
+			"de": "Moldawie",
+			"es": "Moldavia",
+			"fr": "Moldavie",
+			"ja": "モルドバ共和国",
+			"it": "Moldavia",
+			"br": "Moldávia",
+			"pt": "Moldávia",
+			"nl": "Moldavië",
+			"hr": "Moldova",
+			"fa": "مولداوی"
+		}
 	},
 	{
 		"id": "145",
 		"sortname": "MC",
 		"name": "Monaco",
-		"phonecode": "377"
+		"phonecode": "377",
+		"translations": {
+			"de": "Monaco",
+			"es": "Mónaco",
+			"fr": "Monaco",
+			"ja": "モナコ",
+			"it": "Principato di Monaco",
+			"br": "Mônaco",
+			"pt": "Mónaco",
+			"nl": "Monaco",
+			"hr": "Monako",
+			"fa": "موناکو"
+		}
 	},
 	{
 		"id": "146",
 		"sortname": "MN",
 		"name": "Mongolia",
-		"phonecode": "976"
+		"phonecode": "976",
+		"translations": {
+			"de": "Mongolei",
+			"es": "Mongolia",
+			"fr": "Mongolie",
+			"ja": "モンゴル",
+			"it": "Mongolia",
+			"br": "Mongólia",
+			"pt": "Mongólia",
+			"nl": "Mongolië",
+			"hr": "Mongolija",
+			"fa": "مغولستان"
+		}
 	},
 	{
 		"id": "147",
 		"sortname": "MS",
 		"name": "Montserrat",
-		"phonecode": "1664"
+		"phonecode": "1664",
+		"translations": {
+			"de": "Montserrat",
+			"es": "Montserrat",
+			"fr": "Montserrat",
+			"ja": "モントセラト",
+			"it": "Montserrat",
+			"br": "Montserrat",
+			"pt": "Monserrate",
+			"nl": "Montserrat",
+			"hr": "Montserrat",
+			"fa": "مایوت"
+		}
 	},
 	{
 		"id": "148",
 		"sortname": "MA",
 		"name": "Morocco",
-		"phonecode": "212"
+		"phonecode": "212",
+		"translations": {
+			"de": "Marokko",
+			"es": "Marruecos",
+			"fr": "Maroc",
+			"ja": "モロッコ",
+			"it": "Marocco",
+			"br": "Marrocos",
+			"pt": "Marrocos",
+			"nl": "Marokko",
+			"hr": "Maroko",
+			"fa": "مراکش"
+		}
 	},
 	{
 		"id": "149",
 		"sortname": "MZ",
 		"name": "Mozambique",
-		"phonecode": "258"
+		"phonecode": "258",
+		"translations": {
+			"de": "Mosambik",
+			"es": "Mozambique",
+			"fr": "Mozambique",
+			"ja": "モザンビーク",
+			"it": "Mozambico",
+			"br": "Moçambique",
+			"pt": "Moçambique",
+			"nl": "Mozambique",
+			"hr": "Mozambik",
+			"fa": "موزامبیک"
+		}
 	},
 	{
 		"id": "150",
 		"sortname": "MM",
 		"name": "Myanmar",
-		"phonecode": "95"
+		"phonecode": "95",
+		"translations": {
+			"de": "Myanmar",
+			"es": "Myanmar",
+			"fr": "Myanmar",
+			"ja": "ミャンマー",
+			"it": "Birmania",
+			"br": "Myanmar",
+			"pt": "Myanmar",
+			"nl": "Myanmar",
+			"hr": "Mijanmar",
+			"fa": "میانمار"
+		}
 	},
 	{
 		"id": "151",
 		"sortname": "NA",
 		"name": "Namibia",
-		"phonecode": "264"
+		"phonecode": "264",
+		"translations": {
+			"de": "Namibia",
+			"es": "Namibia",
+			"fr": "Namibie",
+			"ja": "ナミビア",
+			"it": "Namibia",
+			"br": "Namíbia",
+			"pt": "Namíbia",
+			"nl": "Namibië",
+			"hr": "Namibija",
+			"fa": "نامیبیا"
+		}
 	},
 	{
 		"id": "152",
 		"sortname": "NR",
 		"name": "Nauru",
-		"phonecode": "674"
+		"phonecode": "674",
+		"translations": {
+			"de": "Nauru",
+			"es": "Nauru",
+			"fr": "Nauru",
+			"ja": "ナウル",
+			"it": "Nauru",
+			"br": "Nauru",
+			"pt": "Nauru",
+			"nl": "Nauru",
+			"hr": "Nauru",
+			"fa": "نائورو"
+		}
 	},
 	{
 		"id": "153",
 		"sortname": "NP",
 		"name": "Nepal",
-		"phonecode": "977"
+		"phonecode": "977",
+		"translations": {
+			"de": "Népal",
+			"es": "Nepal",
+			"fr": "Népal",
+			"ja": "ネパール",
+			"it": "Nepal",
+			"br": "Nepal",
+			"pt": "Nepal",
+			"nl": "Nepal",
+			"hr": "Nepal",
+			"fa": "نپال"
+		}
 	},
 	{
 		"id": "154",
 		"sortname": "AN",
 		"name": "Netherlands Antilles",
-		"phonecode": "599"
+		"phonecode": "599",
+		"translations": {
+			"br": "Holanda",
+			"pt": "Países Baixos",
+			"nl": "Nederland",
+			"hr": "Nizozemska",
+			"fa": "پادشاهی هلند",
+			"de": "Niederlande",
+			"es": "Países Bajos",
+			"fr": "Pays-Bas",
+			"ja": "オランダ",
+			"it": "Paesi Bassi"
+		  }
 	},
 	{
 		"id": "155",
 		"sortname": "NL",
 		"name": "Netherlands The",
-		"phonecode": "31"
+		"phonecode": "31",
+		"translations": {
+			"de": "Niederlande",
+			"es": "Países Bajos",
+			"fr": "Pays-Bas",
+			"ja": "オランダ",
+			"it": "Paesi Bassi",
+			"br": "Holanda",
+			"pt": "Países Baixos",
+			"nl": "Nederland",
+			"hr": "Nizozemska",
+			"fa": "پادشاهی هلند"
+		}
 	},
 	{
 		"id": "156",
 		"sortname": "NC",
 		"name": "New Caledonia",
-		"phonecode": "687"
+		"phonecode": "687",
+		"translations": {
+			"de": "Neukaledonien",
+			"es": "Nueva Caledonia",
+			"fr": "Nouvelle-Calédonie",
+			"ja": "ニューカレドニア",
+			"it": "Nuova Caledonia",
+			"br": "Nova Caledônia",
+			"pt": "Nova Caledónia",
+			"nl": "Nieuw-Caledonië",
+			"hr": "Nova Kaledonija",
+			"fa": "کالدونیای جدید"
+		}
 	},
 	{
 		"id": "157",
 		"sortname": "NZ",
 		"name": "New Zealand",
-		"phonecode": "64"
+		"phonecode": "64",
+		"translations": {
+			"de": "Neuseeland",
+			"es": "Nueva Zelanda",
+			"fr": "Nouvelle-Zélande",
+			"ja": "ニュージーランド",
+			"it": "Nuova Zelanda",
+			"br": "Nova Zelândia",
+			"pt": "Nova Zelândia",
+			"nl": "Nieuw-Zeeland",
+			"hr": "Novi Zeland",
+			"fa": "نیوزیلند"
+		}
 	},
 	{
 		"id": "158",
 		"sortname": "NI",
 		"name": "Nicaragua",
-		"phonecode": "505"
+		"phonecode": "505",
+		"translations": {
+			"de": "Nicaragua",
+			"es": "Nicaragua",
+			"fr": "Nicaragua",
+			"ja": "ニカラグア",
+			"it": "Nicaragua",
+			"br": "Nicarágua",
+			"pt": "Nicarágua",
+			"nl": "Nicaragua",
+			"hr": "Nikaragva",
+			"fa": "نیکاراگوئه"
+		}
 	},
 	{
 		"id": "159",
 		"sortname": "NE",
 		"name": "Niger",
-		"phonecode": "227"
+		"phonecode": "227",
+		"translations": {
+			"de": "Niger",
+			"es": "Níger",
+			"fr": "Niger",
+			"ja": "ニジェール",
+			"it": "Niger",
+			"br": "Níger",
+			"pt": "Níger",
+			"nl": "Niger",
+			"hr": "Niger",
+			"fa": "نیجر"
+		}
 	},
 	{
 		"id": "160",
 		"sortname": "NG",
 		"name": "Nigeria",
-		"phonecode": "234"
+		"phonecode": "234",
+		"translations": {
+			"de": "Nigeria",
+			"es": "Nigeria",
+			"fr": "Nigéria",
+			"ja": "ナイジェリア",
+			"it": "Nigeria",
+			"br": "Nigéria",
+			"pt": "Nigéria",
+			"nl": "Nigeria",
+			"hr": "Nigerija",
+			"fa": "نیجریه"
+		}
 	},
 	{
 		"id": "161",
 		"sortname": "NU",
 		"name": "Niue",
-		"phonecode": "683"
+		"phonecode": "683",
+		"translations": {
+			"de": "Niue",
+			"es": "Niue",
+			"fr": "Niue",
+			"ja": "ニウエ",
+			"it": "Niue",
+			"br": "Niue",
+			"pt": "Niue",
+			"nl": "Niue",
+			"hr": "Niue",
+			"fa": "نیووی"
+		}
 	},
 	{
 		"id": "162",
 		"sortname": "NF",
 		"name": "Norfolk Island",
-		"phonecode": "672"
+		"phonecode": "672",
+		"translations": {
+			"de": "Norfolkinsel",
+			"es": "Isla de Norfolk",
+			"fr": "Île de Norfolk",
+			"ja": "ノーフォーク島",
+			"it": "Isola Norfolk",
+			"br": "Ilha Norfolk",
+			"pt": "Ilha Norfolk",
+			"nl": "Norfolkeiland",
+			"hr": "Otok Norfolk",
+			"fa": "جزیره نورفک"
+		}
 	},
 	{
 		"id": "163",
 		"sortname": "MP",
 		"name": "Northern Mariana Islands",
-		"phonecode": "1670"
+		"phonecode": "1670",
+		"translations": {
+			"de": "Nördliche Marianen",
+			"es": "Islas Marianas del Norte",
+			"fr": "Îles Mariannes du Nord",
+			"ja": "北マリアナ諸島",
+			"it": "Isole Marianne Settentrionali",
+			"br": "Ilhas Marianas",
+			"pt": "Ilhas Marianas",
+			"nl": "Noordelijke Marianeneilanden",
+			"hr": "Sjevernomarijanski otoci",
+			"fa": "جزایر ماریانای شمالی"
+		}
 	},
 	{
 		"id": "164",
 		"sortname": "NO",
 		"name": "Norway",
-		"phonecode": "47"
+		"phonecode": "47",
+		"translations": {
+			"de": "Norwegen",
+			"es": "Noruega",
+			"fr": "Norvège",
+			"ja": "ノルウェー",
+			"it": "Norvegia",
+			"br": "Noruega",
+			"pt": "Noruega",
+			"nl": "Noorwegen",
+			"hr": "Norveška",
+			"fa": "نروژ"
+		}
 	},
 	{
 		"id": "165",
 		"sortname": "OM",
 		"name": "Oman",
-		"phonecode": "968"
+		"phonecode": "968",
+		"translations": {
+			"de": "Oman",
+			"es": "Omán",
+			"fr": "Oman",
+			"ja": "オマーン",
+			"it": "oman",
+			"br": "Omã",
+			"pt": "Omã",
+			"nl": "Oman",
+			"hr": "Oman",
+			"fa": "عمان"
+		}
 	},
 	{
 		"id": "166",
 		"sortname": "PK",
 		"name": "Pakistan",
-		"phonecode": "92"
+		"phonecode": "92",
+		"translations": {
+			"de": "Pakistan",
+			"es": "Pakistán",
+			"fr": "Pakistan",
+			"ja": "パキスタン",
+			"it": "Pakistan",
+			"br": "Paquistão",
+			"pt": "Paquistão",
+			"nl": "Pakistan",
+			"hr": "Pakistan",
+			"fa": "پاکستان"
+		}
 	},
 	{
 		"id": "167",
 		"sortname": "PW",
 		"name": "Palau",
-		"phonecode": "680"
+		"phonecode": "680",
+		"translations": {
+			"de": "Palau",
+			"es": "Palau",
+			"fr": "Palaos",
+			"ja": "パラオ",
+			"it": "Palau",
+			"br": "Palau",
+			"pt": "Palau",
+			"nl": "Palau",
+			"hr": "Palau",
+			"fa": "پالائو"
+		}
 	},
 	{
 		"id": "168",
 		"sortname": "PS",
 		"name": "Palestinian Territory Occupied",
-		"phonecode": "970"
+		"phonecode": "970",
+		"translations": {
+			"de": "Palästina",
+			"es": "Palestina",
+			"fr": "Palestine",
+			"ja": "パレスチナ",
+			"it": "Palestina",
+			"br": "Palestina",
+			"pt": "Palestina",
+			"nl": "Palestijnse gebieden",
+			"hr": "Palestina",
+			"fa": "فلسطین"
+		}
 	},
 	{
 		"id": "169",
 		"sortname": "PA",
 		"name": "Panama",
-		"phonecode": "507"
+		"phonecode": "507",
+		"translations": {
+			"de": "Panama",
+			"es": "Panamá",
+			"fr": "Panama",
+			"ja": "パナマ",
+			"it": "Panama",
+			"br": "Panamá",
+			"pt": "Panamá",
+			"nl": "Panama",
+			"hr": "Panama",
+			"fa": "پاناما"
+		}
 	},
 	{
 		"id": "170",
 		"sortname": "PG",
 		"name": "Papua new Guinea",
-		"phonecode": "675"
+		"phonecode": "675",
+		"translations": {
+			"de": "Papua-Neuguinea",
+			"es": "Papúa Nueva Guinea",
+			"fr": "Papouasie-Nouvelle-Guinée",
+			"ja": "パプアニューギニア",
+			"it": "Papua Nuova Guinea",
+			"br": "Papua Nova Guiné",
+			"pt": "Papua Nova Guiné",
+			"nl": "Papoea-Nieuw-Guinea",
+			"hr": "Papua Nova Gvineja",
+			"fa": "پاپوآ گینه نو"
+		}
 	},
 	{
 		"id": "171",
 		"sortname": "PY",
 		"name": "Paraguay",
-		"phonecode": "595"
+		"phonecode": "595",
+		"translations": {
+			"de": "Paraguay",
+			"es": "Paraguay",
+			"fr": "Paraguay",
+			"ja": "パラグアイ",
+			"it": "Paraguay",
+			"br": "Paraguai",
+			"pt": "Paraguai",
+			"nl": "Paraguay",
+			"hr": "Paragvaj",
+			"fa": "پاراگوئه"
+		}
 	},
 	{
 		"id": "172",
 		"sortname": "PE",
 		"name": "Peru",
-		"phonecode": "51"
+		"phonecode": "51",
+		"translations": {
+			"de": "Peru",
+			"es": "Perú",
+			"fr": "Pérou",
+			"ja": "ペルー",
+			"it": "Perù",
+			"br": "Peru",
+			"pt": "Peru",
+			"nl": "Peru",
+			"hr": "Peru",
+			"fa": "پرو"
+		}
 	},
 	{
 		"id": "173",
 		"sortname": "PH",
 		"name": "Philippines",
-		"phonecode": "63"
+		"phonecode": "63",
+		"translations": {
+			"de": "Philippinen",
+			"es": "Filipinas",
+			"fr": "Philippines",
+			"ja": "フィリピン",
+			"it": "Filippine",
+			"br": "Filipinas",
+			"pt": "Filipinas",
+			"nl": "Filipijnen",
+			"hr": "Filipini",
+			"fa": "جزایر الندفیلیپین"
+		}
 	},
 	{
 		"id": "174",
 		"sortname": "PN",
 		"name": "Pitcairn Island",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Pitcairn",
+			"es": "Islas Pitcairn",
+			"fr": "Îles Pitcairn",
+			"ja": "ピトケアン",
+			"it": "Isole Pitcairn",
+			"br": "Ilhas Pitcairn",
+			"pt": "Ilhas Picárnia",
+			"nl": "Pitcairneilanden",
+			"hr": "Pitcairnovo otočje",
+			"fa": "پیتکرن"
+		}
 	},
 	{
 		"id": "175",
 		"sortname": "PL",
 		"name": "Poland",
-		"phonecode": "48"
+		"phonecode": "48",
+		"translations": {
+			"de": "Polen",
+			"es": "Polonia",
+			"fr": "Pologne",
+			"ja": "ポーランド",
+			"it": "Polonia",
+			"br": "Polônia",
+			"pt": "Polónia",
+			"nl": "Polen",
+			"hr": "Poljska",
+			"fa": "لهستان"
+		}
 	},
 	{
 		"id": "176",
 		"sortname": "PT",
 		"name": "Portugal",
-		"phonecode": "351"
+		"phonecode": "351",
+		"translations": {
+			"de": "Portugal",
+			"es": "Portugal",
+			"fr": "Portugal",
+			"ja": "ポルトガル",
+			"it": "Portogallo",
+			"br": "Portugal",
+			"pt": "Portugal",
+			"nl": "Portugal",
+			"hr": "Portugal",
+			"fa": "پرتغال"
+		}
 	},
 	{
 		"id": "177",
 		"sortname": "PR",
 		"name": "Puerto Rico",
-		"phonecode": "1787"
+		"phonecode": "1787",
+		"translations": {
+			"de": "Puerto Rico",
+			"es": "Puerto Rico",
+			"fr": "Porto Rico",
+			"ja": "プエルトリコ",
+			"it": "Porto Rico",
+			"br": "Porto Rico",
+			"pt": "Porto Rico",
+			"nl": "Puerto Rico",
+			"hr": "Portoriko",
+			"fa": "پورتو ریکو"
+		}
 	},
 	{
 		"id": "178",
 		"sortname": "QA",
 		"name": "Qatar",
-		"phonecode": "974"
+		"phonecode": "974",
+		"translations": {
+			"de": "Katar",
+			"es": "Catar",
+			"fr": "Qatar",
+			"ja": "カタール",
+			"it": "Qatar",
+			"br": "Catar",
+			"pt": "Catar",
+			"nl": "Qatar",
+			"hr": "Katar",
+			"fa": "قطر"
+		}
 	},
 	{
 		"id": "179",
 		"sortname": "RE",
 		"name": "Reunion",
-		"phonecode": "262"
+		"phonecode": "262",
+		"translations": {
+			"de": "Réunion",
+			"es": "Reunión",
+			"fr": "Réunion",
+			"ja": "レユニオン",
+			"it": "Riunione",
+			"br": "Reunião",
+			"pt": "Reunião",
+			"nl": "Réunion",
+			"hr": "Réunion",
+			"fa": "رئونیون"
+		}
 	},
 	{
 		"id": "180",
 		"sortname": "RO",
 		"name": "Romania",
-		"phonecode": "40"
+		"phonecode": "40",
+		"translations": {
+			"de": "Rumänien",
+			"es": "Rumania",
+			"fr": "Roumanie",
+			"ja": "ルーマニア",
+			"it": "Romania",
+			"br": "Romênia",
+			"pt": "Roménia",
+			"nl": "Roemenië",
+			"hr": "Rumunjska",
+			"fa": "رومانی"
+		}
 	},
 	{
 		"id": "181",
 		"sortname": "RU",
 		"name": "Russia",
-		"phonecode": "70"
+		"phonecode": "70",
+		"translations": {
+			"de": "Russland",
+			"es": "Rusia",
+			"fr": "Russie",
+			"ja": "ロシア連邦",
+			"it": "Russia",
+			"br": "Rússia",
+			"pt": "Rússia",
+			"nl": "Rusland",
+			"hr": "Rusija",
+			"fa": "روسیه"
+		}
 	},
 	{
 		"id": "182",
 		"sortname": "RW",
 		"name": "Rwanda",
-		"phonecode": "250"
+		"phonecode": "250",
+		"translations": {
+			"de": "Ruanda",
+			"es": "Ruanda",
+			"fr": "Rwanda",
+			"ja": "ルワンダ",
+			"it": "Ruanda",
+			"br": "Ruanda",
+			"pt": "Ruanda",
+			"nl": "Rwanda",
+			"hr": "Ruanda",
+			"fa": "رواندا"
+		}
 	},
 	{
 		"id": "183",
 		"sortname": "SH",
 		"name": "Saint Helena",
-		"phonecode": "290"
+		"phonecode": "290",
+		"translations": {
+			"de": "Sankt Helena",
+			"es": "Santa Helena",
+			"fr": "Sainte-Hélène",
+			"ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+			"it": "Sant'Elena",
+			"br": "Santa Helena",
+			"pt": "Santa Helena",
+			"nl": "Sint-Helena",
+			"hr": "Sveta Helena",
+			"fa": "سنت هلنا، اسنشن و تریستان دا کونا"
+		}
 	},
 	{
 		"id": "184",
 		"sortname": "KN",
 		"name": "Saint Kitts And Nevis",
-		"phonecode": "1869"
+		"phonecode": "1869",
+		"translations": {
+			"de": "St. Kitts und Nevis",
+			"es": "San Cristóbal y Nieves",
+			"fr": "Saint-Christophe-et-Niévès",
+			"ja": "セントクリストファー・ネイビス",
+			"it": "Saint Kitts e Nevis",
+			"br": "São Cristóvão e Neves",
+			"pt": "São Cristóvão e Neves",
+			"nl": "Saint Kitts en Nevis",
+			"hr": "Sveti Kristof i Nevis",
+			"fa": "سنت کیتس و نویس"
+		}
 	},
 	{
 		"id": "185",
 		"sortname": "LC",
 		"name": "Saint Lucia",
-		"phonecode": "1758"
+		"phonecode": "1758",
+		"translations": {
+			"de": "Saint Lucia",
+			"es": "Santa Lucía",
+			"fr": "Saint-Lucie",
+			"ja": "セントルシア",
+			"it": "Santa Lucia",
+			"br": "Santa Lúcia",
+			"pt": "Santa Lúcia",
+			"nl": "Saint Lucia",
+			"hr": "Sveta Lucija",
+			"fa": "سنت لوسیا"
+		}
 	},
 	{
 		"id": "186",
 		"sortname": "PM",
 		"name": "Saint Pierre and Miquelon",
-		"phonecode": "508"
+		"phonecode": "508",
+		"translations": {
+			"de": "Saint-Pierre und Miquelon",
+			"es": "San Pedro y Miquelón",
+			"fr": "Saint-Pierre-et-Miquelon",
+			"ja": "サンピエール島・ミクロン島",
+			"it": "Saint-Pierre e Miquelon",
+			"br": "Saint-Pierre e Miquelon",
+			"pt": "São Pedro e Miquelon",
+			"nl": "Saint Pierre en Miquelon",
+			"hr": "Sveti Petar i Mikelon",
+			"fa": "سن پیر و میکلن"
+		}
 	},
 	{
 		"id": "187",
 		"sortname": "VC",
 		"name": "Saint Vincent And The Grenadines",
-		"phonecode": "1784"
+		"phonecode": "1784",
+		"translations": {
+			"de": "Saint Vincent und die Grenadinen",
+			"es": "San Vicente y Granadinas",
+			"fr": "Saint-Vincent-et-les-Grenadines",
+			"ja": "セントビンセントおよびグレナディーン諸島",
+			"it": "Saint Vincent e Grenadine",
+			"br": "São Vicente e Granadinas",
+			"pt": "São Vicente e Granadinas",
+			"nl": "Saint Vincent en de Grenadines",
+			"hr": "Sveti Vincent i Grenadini",
+			"fa": "سنت وینسنت و گرنادین‌ها"
+		}
 	},
 	{
 		"id": "188",
 		"sortname": "WS",
 		"name": "Samoa",
-		"phonecode": "684"
+		"phonecode": "684",
+		"translations": {
+			"de": "Samoa",
+			"es": "Samoa",
+			"fr": "Samoa",
+			"ja": "サモア",
+			"it": "Samoa",
+			"br": "Samoa",
+			"pt": "Samoa",
+			"nl": "Samoa",
+			"hr": "Samoa",
+			"fa": "ساموآ"
+		}
 	},
 	{
 		"id": "189",
 		"sortname": "SM",
 		"name": "San Marino",
-		"phonecode": "378"
+		"phonecode": "378",
+		"translations": {
+			"de": "San Marino",
+			"es": "San Marino",
+			"fr": "Saint-Marin",
+			"ja": "サンマリノ",
+			"it": "San Marino",
+			"br": "San Marino",
+			"pt": "São Marinho",
+			"nl": "San Marino",
+			"hr": "San Marino",
+			"fa": "سان مارینو"
+		}
 	},
 	{
 		"id": "190",
 		"sortname": "ST",
 		"name": "Sao Tome and Principe",
-		"phonecode": "239"
+		"phonecode": "239",
+		"translations": {
+			"de": "São Tomé und Príncipe",
+			"es": "Santo Tomé y Príncipe",
+			"fr": "Sao Tomé-et-Principe",
+			"ja": "サントメ・プリンシペ",
+			"it": "São Tomé e Príncipe",
+			"br": "São Tomé e Príncipe",
+			"pt": "São Tomé e Príncipe",
+			"nl": "Sao Tomé en Principe",
+			"hr": "Sveti Toma i Princip",
+			"fa": "کواترو دو فرویرو"
+		}
 	},
 	{
 		"id": "191",
 		"sortname": "SA",
 		"name": "Saudi Arabia",
-		"phonecode": "966"
+		"phonecode": "966",
+		"translations": {
+			"de": "Saudi-Arabien",
+			"es": "Arabia Saudí",
+			"fr": "Arabie Saoudite",
+			"ja": "サウジアラビア",
+			"it": "Arabia Saudita",
+			"br": "Arábia Saudita",
+			"pt": "Arábia Saudita",
+			"nl": "Saoedi-Arabië",
+			"hr": "Saudijska Arabija",
+			"fa": "عربستان سعودی"
+		}
 	},
 	{
 		"id": "192",
 		"sortname": "SN",
 		"name": "Senegal",
-		"phonecode": "221"
+		"phonecode": "221",
+		"translations": {
+			"de": "Senegal",
+			"es": "Senegal",
+			"fr": "Sénégal",
+			"ja": "セネガル",
+			"it": "Senegal",
+			"br": "Senegal",
+			"pt": "Senegal",
+			"nl": "Senegal",
+			"hr": "Senegal",
+			"fa": "سنگال"
+		}
 	},
 	{
 		"id": "193",
 		"sortname": "RS",
 		"name": "Serbia",
-		"phonecode": "381"
+		"phonecode": "381",
+		"translations": {
+			"de": "Serbien",
+			"es": "Serbia",
+			"fr": "Serbie",
+			"ja": "セルビア",
+			"it": "Serbia",
+			"br": "Sérvia",
+			"pt": "Sérvia",
+			"nl": "Servië",
+			"hr": "Srbija",
+			"fa": "صربستان"
+		}
 	},
 	{
 		"id": "194",
 		"sortname": "SC",
 		"name": "Seychelles",
-		"phonecode": "248"
+		"phonecode": "248",
+		"translations": {
+			"de": "Seychellen",
+			"es": "Seychelles",
+			"fr": "Seychelles",
+			"ja": "セーシェル",
+			"it": "Seychelles",
+			"br": "Seicheles",
+			"pt": "Seicheles",
+			"nl": "Seychellen",
+			"hr": "Sejšeli",
+			"fa": "سیشل"
+		}
 	},
 	{
 		"id": "195",
 		"sortname": "SL",
 		"name": "Sierra Leone",
-		"phonecode": "232"
+		"phonecode": "232",
+		"translations": {
+			"de": "Sierra Leone",
+			"es": "Sierra Leone",
+			"fr": "Sierra Leone",
+			"ja": "シエラレオネ",
+			"it": "Sierra Leone",
+			"br": "Serra Leoa",
+			"pt": "Serra Leoa",
+			"nl": "Sierra Leone",
+			"hr": "Sijera Leone",
+			"fa": "سیرالئون"
+		}
 	},
 	{
 		"id": "196",
 		"sortname": "SG",
 		"name": "Singapore",
-		"phonecode": "65"
+		"phonecode": "65",
+		"translations": {
+			"de": "Singapur",
+			"es": "Singapur",
+			"fr": "Singapour",
+			"ja": "シンガポール",
+			"it": "Singapore",
+			"br": "Singapura",
+			"pt": "Singapura",
+			"nl": "Singapore",
+			"hr": "Singapur",
+			"fa": "سنگاپور"
+		}
 	},
 	{
 		"id": "197",
 		"sortname": "SK",
 		"name": "Slovakia",
-		"phonecode": "421"
+		"phonecode": "421",
+		"translations": {
+			"de": "Slowakei",
+			"es": "República Eslovaca",
+			"fr": "Slovaquie",
+			"ja": "スロバキア",
+			"it": "Slovacchia",
+			"br": "Eslováquia",
+			"pt": "Eslováquia",
+			"nl": "Slowakije",
+			"hr": "Slovačka",
+			"fa": "اسلواکی"
+		}
 	},
 	{
 		"id": "198",
 		"sortname": "SI",
 		"name": "Slovenia",
-		"phonecode": "386"
+		"phonecode": "386",
+		"translations": {
+			"de": "Slowenien",
+			"es": "Eslovenia",
+			"fr": "Slovénie",
+			"ja": "スロベニア",
+			"it": "Slovenia",
+			"br": "Eslovênia",
+			"pt": "Eslovénia",
+			"nl": "Slovenië",
+			"hr": "Slovenija",
+			"fa": "اسلوونی"
+		}
 	},
 	{
 		"id": "199",
 		"sortname": "XG",
 		"name": "Smaller Territories of the UK",
-		"phonecode": "44"
+		"phonecode": "44",
+		"translations": {
+			"br": "Ilhas Menores Distantes dos Estados Unidos",
+			"pt": "Ilhas Menores Distantes dos Estados Unidos",
+			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"hr": "Mali udaljeni otoci SAD-a",
+			"fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+			"es": "Islas Ultramarinas Menores de Estados Unidos",
+			"fr": "Îles mineures éloignées des États-Unis",
+			"ja": "合衆国領有小離島",
+			"it": "Isole minori esterne degli Stati Uniti d'America"
+		  }
 	},
 	{
 		"id": "200",
 		"sortname": "SB",
 		"name": "Solomon Islands",
-		"phonecode": "677"
+		"phonecode": "677",
+		"translations": {
+			"de": "Salomonen",
+			"es": "Islas Salomón",
+			"fr": "Îles Salomon",
+			"ja": "ソロモン諸島",
+			"it": "Isole Salomone",
+			"br": "Ilhas Salomão",
+			"pt": "Ilhas Salomão",
+			"nl": "Salomonseilanden",
+			"hr": "Solomonski Otoci",
+			"fa": "جزایر سلیمان"
+		}
 	},
 	{
 		"id": "201",
 		"sortname": "SO",
 		"name": "Somalia",
-		"phonecode": "252"
+		"phonecode": "252",
+		"translations": {
+			"de": "Somalia",
+			"es": "Somalia",
+			"fr": "Somalie",
+			"ja": "ソマリア",
+			"it": "Somalia",
+			"br": "Somália",
+			"pt": "Somália",
+			"nl": "Somalië",
+			"hr": "Somalija",
+			"fa": "سومالی"
+		}
 	},
 	{
 		"id": "202",
 		"sortname": "ZA",
 		"name": "South Africa",
-		"phonecode": "27"
+		"phonecode": "27",
+		"translations": {
+			"de": "Republik Südafrika",
+			"es": "República de Sudáfrica",
+			"fr": "Afrique du Sud",
+			"ja": "南アフリカ",
+			"it": "Sud Africa",
+			"br": "República Sul-Africana",
+			"pt": "República Sul-Africana",
+			"nl": "Zuid-Afrika",
+			"hr": "Južnoafrička Republika",
+			"fa": "آفریقای جنوبی"
+		}
 	},
 	{
 		"id": "203",
 		"sortname": "GS",
 		"name": "South Georgia",
-		"phonecode": "0"
+		"phonecode": "0",
+		"translations": {
+			"de": "Südgeorgien und die Südlichen Sandwichinseln",
+			"es": "Islas Georgias del Sur y Sandwich del Sur",
+			"fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+			"ja": "サウスジョージア・サウスサンドウィッチ諸島",
+			"it": "Georgia del Sud e Isole Sandwich Meridionali",
+			"br": "Ilhas Geórgias do Sul e Sandwich do Sul",
+			"pt": "Ilhas Geórgia do Sul e Sanduíche do Sul",
+			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+			"hr": "Južna Georgija i otočje Južni Sandwich",
+			"fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی"
+		}
 	},
 	{
 		"id": "204",
 		"sortname": "SS",
 		"name": "South Sudan",
-		"phonecode": "211"
+		"phonecode": "211",
+		"translations": {
+			"de": "Südsudan",
+			"es": "Sudán del Sur",
+			"fr": "Soudan du Sud",
+			"ja": "南スーダン",
+			"it": "Sudan del sud",
+			"br": "Sudão do Sul",
+			"pt": "Sudão do Sul",
+			"nl": "Zuid-Soedan",
+			"hr": "Južni Sudan",
+			"fa": "سودان جنوبی"
+		}
 	},
 	{
 		"id": "205",
 		"sortname": "ES",
 		"name": "Spain",
-		"phonecode": "34"
+		"phonecode": "34",
+		"translations": {
+			"de": "Spanien",
+			"es": "España",
+			"fr": "Espagne",
+			"ja": "スペイン",
+			"it": "Spagna",
+			"br": "Espanha",
+			"pt": "Espanha",
+			"nl": "Spanje",
+			"hr": "Španjolska",
+			"fa": "اسپانیا"
+		}
 	},
 	{
 		"id": "206",
 		"sortname": "LK",
 		"name": "Sri Lanka",
-		"phonecode": "94"
+		"phonecode": "94",
+		"translations": {
+			"de": "Sri Lanka",
+			"es": "Sri Lanka",
+			"fr": "Sri Lanka",
+			"ja": "スリランカ",
+			"it": "Sri Lanka",
+			"br": "Sri Lanka",
+			"pt": "Sri Lanka",
+			"nl": "Sri Lanka",
+			"hr": "Šri Lanka",
+			"fa": "سری‌لانکا"
+		}
 	},
 	{
 		"id": "207",
 		"sortname": "SD",
 		"name": "Sudan",
-		"phonecode": "249"
+		"phonecode": "249",
+		"translations": {
+			"de": "Sudan",
+			"es": "Sudán",
+			"fr": "Soudan",
+			"ja": "スーダン",
+			"it": "Sudan",
+			"br": "Sudão",
+			"pt": "Sudão",
+			"nl": "Soedan",
+			"hr": "Sudan",
+			"fa": "سودان"
+		}
 	},
 	{
 		"id": "208",
 		"sortname": "SR",
 		"name": "Suriname",
-		"phonecode": "597"
+		"phonecode": "597",
+		"translations": {
+			"de": "Suriname",
+			"es": "Surinam",
+			"fr": "Surinam",
+			"ja": "スリナム",
+			"it": "Suriname",
+			"br": "Suriname",
+			"pt": "Suriname",
+			"nl": "Suriname",
+			"hr": "Surinam",
+			"fa": "سورینام"
+		}
 	},
 	{
 		"id": "209",
 		"sortname": "SJ",
 		"name": "Svalbard And Jan Mayen Islands",
-		"phonecode": "47"
+		"phonecode": "47",
+		"translations": {
+			"de": "Svalbard und Jan Mayen",
+			"es": "Islas Svalbard y Jan Mayen",
+			"fr": "Svalbard et Jan Mayen",
+			"ja": "スヴァールバル諸島およびヤンマイエン島",
+			"it": "Svalbard e Jan Mayen",
+			"br": "Svalbard",
+			"pt": "Svalbard",
+			"nl": "Svalbard en Jan Mayen",
+			"hr": "Svalbard i Jan Mayen",
+			"fa": "سوالبارد و یان ماین"
+		}
 	},
 	{
 		"id": "210",
 		"sortname": "SZ",
 		"name": "Swaziland",
-		"phonecode": "268"
+		"phonecode": "268",
+		"translations": {
+			"de": "Swasiland",
+			"es": "Suazilandia",
+			"fr": "Swaziland",
+			"ja": "スワジランド",
+			"it": "Swaziland",
+			"br": "Suazilândia",
+			"pt": "Suazilândia",
+			"nl": "Swaziland",
+			"hr": "Svazi",
+			"fa": "سوازیلند"
+		}
 	},
 	{
 		"id": "211",
 		"sortname": "SE",
 		"name": "Sweden",
-		"phonecode": "46"
+		"phonecode": "46",
+		"translations": {
+			"de": "Schweden",
+			"es": "Suecia",
+			"fr": "Suède",
+			"ja": "スウェーデン",
+			"it": "Svezia",
+			"br": "Suécia",
+			"pt": "Suécia",
+			"nl": "Zweden",
+			"hr": "Švedska",
+			"fa": "سوئد"
+		}
 	},
 	{
 		"id": "212",
 		"sortname": "CH",
 		"name": "Switzerland",
-		"phonecode": "41"
+		"phonecode": "41",
+		"translations": {
+			"de": "Schweiz",
+			"es": "Suiza",
+			"fr": "Suisse",
+			"ja": "スイス",
+			"it": "Svizzera",
+			"br": "Suíça",
+			"pt": "Suíça",
+			"nl": "Zwitserland",
+			"hr": "Švicarska",
+			"fa": "سوئیس"
+		}
 	},
 	{
 		"id": "213",
 		"sortname": "SY",
 		"name": "Syria",
-		"phonecode": "963"
+		"phonecode": "963",
+		"translations": {
+			"de": "Syrien",
+			"es": "Siria",
+			"fr": "Syrie",
+			"ja": "シリア・アラブ共和国",
+			"it": "Siria",
+			"br": "Síria",
+			"pt": "Síria",
+			"nl": "Syrië",
+			"hr": "Sirija",
+			"fa": "سوریه"
+		}
 	},
 	{
 		"id": "214",
 		"sortname": "TW",
 		"name": "Taiwan",
-		"phonecode": "886"
+		"phonecode": "886",
+		"translations": {
+			"de": "Taiwan",
+			"es": "Taiwán",
+			"fr": "Taïwan",
+			"ja": "台湾（中華民国）",
+			"it": "Taiwan",
+			"br": "Taiwan",
+			"pt": "Taiwan",
+			"nl": "Taiwan",
+			"hr": "Tajvan",
+			"fa": "تایوان"
+		}
 	},
 	{
 		"id": "215",
 		"sortname": "TJ",
 		"name": "Tajikistan",
-		"phonecode": "992"
+		"phonecode": "992",
+		"translations": {
+			"de": "Tadschikistan",
+			"es": "Tayikistán",
+			"fr": "Tadjikistan",
+			"ja": "タジキスタン",
+			"it": "Tagikistan",
+			"br": "Tajiquistão",
+			"pt": "Tajiquistão",
+			"nl": "Tadzjikistan",
+			"hr": "Tađikistan",
+			"fa": "تاجیکستان"
+		}
 	},
 	{
 		"id": "216",
 		"sortname": "TZ",
 		"name": "Tanzania",
-		"phonecode": "255"
+		"phonecode": "255",
+		"translations": {
+			"de": "Tansania",
+			"es": "Tanzania",
+			"fr": "Tanzanie",
+			"ja": "タンザニア",
+			"it": "Tanzania",
+			"br": "Tanzânia",
+			"pt": "Tanzânia",
+			"nl": "Tanzania",
+			"hr": "Tanzanija",
+			"fa": "تانزانیا"
+		}
 	},
 	{
 		"id": "217",
 		"sortname": "TH",
 		"name": "Thailand",
-		"phonecode": "66"
+		"phonecode": "66",
+		"translations": {
+			"de": "Thailand",
+			"es": "Tailandia",
+			"fr": "Thaïlande",
+			"ja": "タイ",
+			"it": "Tailandia",
+			"br": "Tailândia",
+			"pt": "Tailândia",
+			"nl": "Thailand",
+			"hr": "Tajland",
+			"fa": "تایلند"
+		}
 	},
 	{
 		"id": "218",
 		"sortname": "TG",
 		"name": "Togo",
-		"phonecode": "228"
+		"phonecode": "228",
+		"translations": {
+			"de": "Togo",
+			"es": "Togo",
+			"fr": "Togo",
+			"ja": "トーゴ",
+			"it": "Togo",
+			"br": "Togo",
+			"pt": "Togo",
+			"nl": "Togo",
+			"hr": "Togo",
+			"fa": "توگو"
+		}
 	},
 	{
 		"id": "219",
 		"sortname": "TK",
 		"name": "Tokelau",
-		"phonecode": "690"
+		"phonecode": "690",
+		"translations": {
+			"de": "Tokelau",
+			"es": "Islas Tokelau",
+			"fr": "Tokelau",
+			"ja": "トケラウ",
+			"it": "Isole Tokelau",
+			"br": "Tokelau",
+			"pt": "Toquelau",
+			"nl": "Tokelau",
+			"hr": "Tokelau",
+			"fa": "توکلائو"
+		}
 	},
 	{
 		"id": "220",
 		"sortname": "TO",
 		"name": "Tonga",
-		"phonecode": "676"
+		"phonecode": "676",
+		"translations": {
+			"de": "Tonga",
+			"es": "Tonga",
+			"fr": "Tonga",
+			"ja": "トンガ",
+			"it": "Tonga",
+			"br": "Tonga",
+			"pt": "Tonga",
+			"nl": "Tonga",
+			"hr": "Tonga",
+			"fa": "تونگا"
+		}
 	},
 	{
 		"id": "221",
 		"sortname": "TT",
 		"name": "Trinidad And Tobago",
-		"phonecode": "1868"
+		"phonecode": "1868",
+		"translations": {
+			"de": "Trinidad und Tobago",
+			"es": "Trinidad y Tobago",
+			"fr": "Trinité et Tobago",
+			"ja": "トリニダード・トバゴ",
+			"it": "Trinidad e Tobago",
+			"br": "Trinidad e Tobago",
+			"pt": "Trindade e Tobago",
+			"nl": "Trinidad en Tobago",
+			"hr": "Trinidad i Tobago",
+			"fa": "ترینیداد و توباگو"
+		}
 	},
 	{
 		"id": "222",
 		"sortname": "TN",
 		"name": "Tunisia",
-		"phonecode": "216"
+		"phonecode": "216",
+		"translations": {
+			"de": "Tunesien",
+			"es": "Túnez",
+			"fr": "Tunisie",
+			"ja": "チュニジア",
+			"it": "Tunisia",
+			"br": "Tunísia",
+			"pt": "Tunísia",
+			"nl": "Tunesië",
+			"hr": "Tunis",
+			"fa": "تونس"
+		}
 	},
 	{
 		"id": "223",
 		"sortname": "TR",
 		"name": "Turkey",
-		"phonecode": "90"
+		"phonecode": "90",
+		"translations": {
+			"de": "Türkei",
+			"es": "Turquía",
+			"fr": "Turquie",
+			"ja": "トルコ",
+			"it": "Turchia",
+			"br": "Turquia",
+			"pt": "Turquia",
+			"nl": "Turkije",
+			"hr": "Turska",
+			"fa": "ترکیه"
+		}
 	},
 	{
 		"id": "224",
 		"sortname": "TM",
 		"name": "Turkmenistan",
-		"phonecode": "7370"
+		"phonecode": "7370",
+		"translations": {
+			"de": "Turkmenistan",
+			"es": "Turkmenistán",
+			"fr": "Turkménistan",
+			"ja": "トルクメニスタン",
+			"it": "Turkmenistan",
+			"br": "Turcomenistão",
+			"pt": "Turquemenistão",
+			"nl": "Turkmenistan",
+			"hr": "Turkmenistan",
+			"fa": "ترکمنستان"
+		}
 	},
 	{
 		"id": "225",
 		"sortname": "TC",
 		"name": "Turks And Caicos Islands",
-		"phonecode": "1649"
+		"phonecode": "1649",
+		"translations": {
+			"de": "Turks- und Caicosinseln",
+			"es": "Islas Turks y Caicos",
+			"fr": "Îles Turques-et-Caïques",
+			"ja": "タークス・カイコス諸島",
+			"it": "Isole Turks e Caicos",
+			"br": "Ilhas Turcas e Caicos",
+			"pt": "Ilhas Turcas e Caicos",
+			"nl": "Turks- en Caicoseilanden",
+			"hr": "Otoci Turks i Caicos",
+			"fa": "جزایر تورکس و کایکوس"
+		}
 	},
 	{
 		"id": "226",
 		"sortname": "TV",
 		"name": "Tuvalu",
-		"phonecode": "688"
+		"phonecode": "688",
+		"translations": {
+			"de": "Tuvalu",
+			"es": "Tuvalu",
+			"fr": "Tuvalu",
+			"ja": "ツバル",
+			"it": "Tuvalu",
+			"br": "Tuvalu",
+			"pt": "Tuvalu",
+			"nl": "Tuvalu",
+			"hr": "Tuvalu",
+			"fa": "تووالو"
+		}
 	},
 	{
 		"id": "227",
 		"sortname": "UG",
 		"name": "Uganda",
-		"phonecode": "256"
+		"phonecode": "256",
+		"translations": {
+			"de": "Uganda",
+			"es": "Uganda",
+			"fr": "Uganda",
+			"ja": "ウガンダ",
+			"it": "Uganda",
+			"br": "Uganda",
+			"pt": "Uganda",
+			"nl": "Oeganda",
+			"hr": "Uganda",
+			"fa": "اوگاندا"
+		}
 	},
 	{
 		"id": "228",
 		"sortname": "UA",
 		"name": "Ukraine",
-		"phonecode": "380"
+		"phonecode": "380",
+		"translations": {
+			"de": "Ukraine",
+			"es": "Ucrania",
+			"fr": "Ukraine",
+			"ja": "ウクライナ",
+			"it": "Ucraina",
+			"br": "Ucrânia",
+			"pt": "Ucrânia",
+			"nl": "Oekraïne",
+			"hr": "Ukrajina",
+			"fa": "وکراین"
+		}
 	},
 	{
 		"id": "229",
 		"sortname": "AE",
 		"name": "United Arab Emirates",
-		"phonecode": "971"
+		"phonecode": "971",
+		"translations": {
+			"de": "Vereinigte Arabische Emirate",
+			"es": "Emiratos Árabes Unidos",
+			"fr": "Émirats arabes unis",
+			"ja": "アラブ首長国連邦",
+			"it": "Emirati Arabi Uniti",
+			"br": "Emirados árabes Unidos",
+			"pt": "Emirados árabes Unidos",
+			"nl": "Verenigde Arabische Emiraten",
+			"hr": "Ujedinjeni Arapski Emirati",
+			"fa": "امارات متحده عربی"
+		}
 	},
 	{
 		"id": "230",
 		"sortname": "GB",
 		"name": "United Kingdom",
-		"phonecode": "44"
+		"phonecode": "44",
+		"translations": {
+			"de": "Vereinigtes Königreich",
+			"es": "Reino Unido",
+			"fr": "Royaume-Uni",
+			"ja": "イギリス",
+			"it": "Regno Unito",
+			"br": "Reino Unido",
+			"pt": "Reino Unido",
+			"nl": "Verenigd Koninkrijk",
+			"hr": "Ujedinjeno Kraljevstvo",
+			"fa": "بریتانیای کبیر و ایرلند شمالی"
+		}
 	},
 	{
 		"id": "231",
 		"sortname": "US",
 		"name": "United States",
-		"phonecode": "1"
+		"phonecode": "1",
+		"translations": {
+			"de": "Vereinigte Staaten von Amerika",
+			"es": "Estados Unidos",
+			"fr": "États-Unis",
+			"ja": "アメリカ合衆国",
+			"it": "Stati Uniti D'America",
+			"br": "Estados Unidos",
+			"pt": "Estados Unidos",
+			"nl": "Verenigde Staten",
+			"hr": "Sjedinjene Američke Države",
+			"fa": "ایالات متحده آمریکا"
+		}
 	},
 	{
 		"id": "232",
 		"sortname": "UM",
 		"name": "United States Minor Outlying Islands",
-		"phonecode": "1"
+		"phonecode": "1",
+		"translations": {
+			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+			"es": "Islas Ultramarinas Menores de Estados Unidos",
+			"fr": "Îles mineures éloignées des États-Unis",
+			"ja": "合衆国領有小離島",
+			"it": "Isole minori esterne degli Stati Uniti d'America",
+			"br": "Ilhas Menores Distantes dos Estados Unidos",
+			"pt": "Ilhas Menores Distantes dos Estados Unidos",
+			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"hr": "Mali udaljeni otoci SAD-a",
+			"fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا"
+		}
 	},
 	{
 		"id": "233",
 		"sortname": "UY",
 		"name": "Uruguay",
-		"phonecode": "598"
+		"phonecode": "598",
+		"translations": {
+			"de": "Uruguay",
+			"es": "Uruguay",
+			"fr": "Uruguay",
+			"ja": "ウルグアイ",
+			"it": "Uruguay",
+			"br": "Uruguai",
+			"pt": "Uruguai",
+			"nl": "Uruguay",
+			"hr": "Urugvaj",
+			"fa": "اروگوئه"
+		}
 	},
 	{
 		"id": "234",
 		"sortname": "UZ",
 		"name": "Uzbekistan",
-		"phonecode": "998"
+		"phonecode": "998",
+		"translations": {
+			"de": "Usbekistan",
+			"es": "Uzbekistán",
+			"fr": "Ouzbékistan",
+			"ja": "ウズベキスタン",
+			"it": "Uzbekistan",
+			"br": "Uzbequistão",
+			"pt": "Usbequistão",
+			"nl": "Oezbekistan",
+			"hr": "Uzbekistan",
+			"fa": "ازبکستان"
+		}
 	},
 	{
 		"id": "235",
 		"sortname": "VU",
 		"name": "Vanuatu",
-		"phonecode": "678"
+		"phonecode": "678",
+		"translations": {
+			"de": "Vanuatu",
+			"es": "Vanuatu",
+			"fr": "Vanuatu",
+			"ja": "バヌアツ",
+			"it": "Vanuatu",
+			"br": "Vanuatu",
+			"pt": "Vanuatu",
+			"nl": "Vanuatu",
+			"hr": "Vanuatu",
+			"fa": "وانواتو"
+		}
 	},
 	{
 		"id": "236",
 		"sortname": "VA",
 		"name": "Vatican City State (Holy See)",
-		"phonecode": "39"
+		"phonecode": "39",
+		"translations": {
+			"de": "Heiliger Stuhl",
+			"es": "Santa Sede",
+			"fr": "voir Saint",
+			"ja": "聖座",
+			"it": "Santa Sede",
+			"br": "Vaticano",
+			"pt": "Vaticano",
+			"nl": "Heilige Stoel",
+			"hr": "Sveta Stolica",
+			"fa": "سریر مقدس"
+		}
 	},
 	{
 		"id": "237",
 		"sortname": "VE",
 		"name": "Venezuela",
-		"phonecode": "58"
+		"phonecode": "58",
+		"translations": {
+			"de": "Venezuela",
+			"es": "Venezuela",
+			"fr": "Venezuela",
+			"ja": "ベネズエラ・ボリバル共和国",
+			"it": "Venezuela",
+			"br": "Venezuela",
+			"pt": "Venezuela",
+			"nl": "Venezuela",
+			"hr": "Venezuela",
+			"fa": "ونزوئلا"
+		}
 	},
 	{
 		"id": "238",
 		"sortname": "VN",
 		"name": "Vietnam",
-		"phonecode": "84"
+		"phonecode": "84",
+		"translations": {
+			"de": "Vietnam",
+			"es": "Vietnam",
+			"fr": "Viêt Nam",
+			"ja": "ベトナム",
+			"it": "Vietnam",
+			"br": "Vietnã",
+			"pt": "Vietname",
+			"nl": "Vietnam",
+			"hr": "Vijetnam",
+			"fa": "ویتنام"
+		}
 	},
 	{
 		"id": "239",
 		"sortname": "VG",
 		"name": "Virgin Islands (British)",
-		"phonecode": "1284"
+		"phonecode": "1284",
+		"translations": {
+			"de": "Britische Jungferninseln",
+			"es": "Islas Vírgenes del Reino Unido",
+			"fr": "Îles Vierges britanniques",
+			"ja": "イギリス領ヴァージン諸島",
+			"it": "Isole Vergini Britanniche",
+			"br": "Ilhas Virgens Britânicas",
+			"pt": "Ilhas Virgens Britânicas",
+			"nl": "Britse Maagdeneilanden",
+			"hr": "Britanski Djevičanski Otoci",
+			"fa": "جزایر ویرجین بریتانیا"
+		}
 	},
 	{
 		"id": "240",
 		"sortname": "VI",
 		"name": "Virgin Islands (US)",
-		"phonecode": "1340"
+		"phonecode": "1340",
+		"translations": {
+			"de": "Amerikanische Jungferninseln",
+			"es": "Islas Vírgenes de los Estados Unidos",
+			"fr": "Îles Vierges des États-Unis",
+			"ja": "アメリカ領ヴァージン諸島",
+			"it": "Isole Vergini americane",
+			"br": "Ilhas Virgens Americanas",
+			"pt": "Ilhas Virgens Americanas",
+			"nl": "Verenigde Staten Maagdeneilanden",
+			"hr": null,
+			"fa": "جزایر ویرجین آمریکا"
+		}
 	},
 	{
 		"id": "241",
 		"sortname": "WF",
 		"name": "Wallis And Futuna Islands",
-		"phonecode": "681"
+		"phonecode": "681",
+		"translations": {
+			"de": "Wallis und Futuna",
+			"es": "Wallis y Futuna",
+			"fr": "Wallis-et-Futuna",
+			"ja": "ウォリス・フツナ",
+			"it": "Wallis e Futuna",
+			"br": "Wallis e Futuna",
+			"pt": "Wallis e Futuna",
+			"nl": "Wallis en Futuna",
+			"hr": "Wallis i Fortuna",
+			"fa": "والیس و فوتونا"
+		}
 	},
 	{
 		"id": "242",
 		"sortname": "EH",
 		"name": "Western Sahara",
-		"phonecode": "212"
+		"phonecode": "212",
+		"translations": {
+			"de": "Westsahara",
+			"es": "Sahara Occidental",
+			"fr": "Sahara Occidental",
+			"ja": "西サハラ",
+			"it": "Sahara Occidentale",
+			"br": "Saara Ocidental",
+			"pt": "Saara Ocidental",
+			"nl": "Westelijke Sahara",
+			"hr": "Zapadna Sahara",
+			"fa": "جمهوری دموکراتیک عربی صحرا"
+		}
 	},
 	{
 		"id": "243",
 		"sortname": "YE",
 		"name": "Yemen",
-		"phonecode": "967"
+		"phonecode": "967",
+		"translations": {
+			"de": "Jemen",
+			"es": "Yemen",
+			"fr": "Yémen",
+			"ja": "イエメン",
+			"it": "Yemen",
+			"br": "Iêmen",
+			"pt": "Iémen",
+			"nl": "Jemen",
+			"hr": "Jemen",
+			"fa": "یمن"
+		}
 	},
 	{
 		"id": "244",
 		"sortname": "YU",
 		"name": "Yugoslavia",
-		"phonecode": "38"
+		"phonecode": "38",
+		"translations": {
+			"br": "Yugoslavia",
+			"pt": "Yugoslavia",
+			"nl": "Yugoslavia",
+			"hr": "Yugoslavia",
+			"fa": "Yugoslavia",
+			"de": "Yugoslavia",
+			"es": "Yugoslavia",
+			"fr": "Yugoslavia",
+			"ja": "Yugoslavia",
+			"it": "Yugoslavia"
+		  }
 	},
 	{
 		"id": "245",
 		"sortname": "ZM",
 		"name": "Zambia",
-		"phonecode": "260"
+		"phonecode": "260",
+		"translations": {
+			"de": "Sambia",
+			"es": "Zambia",
+			"fr": "Zambie",
+			"ja": "ザンビア",
+			"it": "Zambia",
+			"br": "Zâmbia",
+			"pt": "Zâmbia",
+			"nl": "Zambia",
+			"hr": "Zambija",
+			"fa": "زامبیا"
+		}
 	},
 	{
 		"id": "246",
 		"sortname": "ZW",
 		"name": "Zimbabwe",
-		"phonecode": "263"
+		"phonecode": "263",
+		"translations": {
+			"de": "Simbabwe",
+			"es": "Zimbabue",
+			"fr": "Zimbabwe",
+			"ja": "ジンバブエ",
+			"it": "Zimbabwe",
+			"br": "Zimbabwe",
+			"pt": "Zimbabué",
+			"nl": "Zimbabwe",
+			"hr": "Zimbabve",
+			"fa": "زیمباوه"
+		}
 	}
 ]

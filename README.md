@@ -23,7 +23,19 @@ type: *json*
 	"id": "4",
 	"sortname": "AS",
 	"name": "American Samoa",
-	"phonecode": "1684"
+	"phonecode": "1684",
+	"translations": {
+		"de": "Amerikanisch-Samoa",
+		"es": "Samoa Americana",
+		"fr": "Samoa américaines",
+		"ja": "アメリカ領サモア",
+		"it": "Samoa Americane",
+		"br": "Samoa Americana",
+		"pt": "Samoa Americana",
+		"nl": "Amerikaans Samoa",
+		"hr": "Američka Samoa",
+		"fa": "ساموآی آمریکا"
+	}
 }
 ```
 
@@ -104,7 +116,19 @@ type: *array of json*
     "id": "4",
     "sortname": "AS",
     "name": "American Samoa",
-    "phonecode": "1684"
+    "phonecode": "1684",
+    "translations": {
+		"de": "Amerikanisch-Samoa",
+		"es": "Samoa Americana",
+		"fr": "Samoa américaines",
+		"ja": "アメリカ領サモア",
+		"it": "Samoa Americane",
+		"br": "Samoa Americana",
+		"pt": "Samoa Americana",
+		"nl": "Amerikaans Samoa",
+		"hr": "Američka Samoa",
+		"fa": "ساموآی آمریکا"
+	}
   }
 ]
 ```
