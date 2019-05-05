@@ -1,5 +1,4 @@
-const csc = require('../index.js');
-
+const csc = require('../dist/index.js');
 test('Check for Country By Id ', () => {
   const code = '38';
   let country = csc.getCountryById(code)
