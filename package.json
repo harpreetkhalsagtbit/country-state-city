@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "description": "Library for fetching Country, its States and Cities",
   "main": "dist/index.js",
-  "types": "index.d.ts",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest",
     "build": "tsc -p tsconfig.json"

@@ -2,7 +2,7 @@ import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
 
-var country_state_city = {
+ export default {
 	getCountryById: function (id: string) {
 		return _findEntry(countryList, id);
 	},
@@ -44,5 +44,3 @@ function compare(a:any, b:any) {
 		return 1;
 	return 0;
 }
-
-export = country_state_city;

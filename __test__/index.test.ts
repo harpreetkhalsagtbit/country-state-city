@@ -1,4 +1,5 @@
-const csc = require('../index.ts');
+import csc from '../index';
+
 test('Check for Country By Id ', () => {
   const code = '38';
   let country = csc.getCountryById(code)
