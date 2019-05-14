@@ -1,4 +1,4 @@
-const csc = require('../index.js');
+import csc from '../index';
 
 test('Check for Country By Id ', () => {
   const code = '38';
