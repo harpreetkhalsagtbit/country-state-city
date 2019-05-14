@@ -1,2 +1,6 @@
 lib
+index.ts
+jest.config.js
 node_modules
+test
+lib/test

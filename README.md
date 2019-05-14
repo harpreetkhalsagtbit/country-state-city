@@ -109,8 +109,16 @@ type: *array of json*
 ]
 ```
 
+Special Thanks
+---------------
+
+[@baywet](https://github.com/baywet) - For mentoring Javascript to Typescript Conversion
+
 Change Logs
 ---------------
+
+**V0.1.3**
+1. Development code - Javascript to Typescript conversion: [#12](https://github.com/harpreetkhalsagtbit/country-state-city/pull/12)
 
 **V0.1.0**
 1. Fix: [#2](https://github.com/harpreetkhalsagtbit/country-state-city/issues/2)
