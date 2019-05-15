@@ -2,7 +2,7 @@ import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
 
- export default {
+ export = {
 	getCountryById: function (id: string) {
 		return _findEntry(countryList, id);
 	},
