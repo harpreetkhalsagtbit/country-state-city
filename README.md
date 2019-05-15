@@ -117,7 +117,7 @@ Special Thanks
 Change Logs
 ---------------
 
-**V0.1.3**
+**V0.1.8**
 1. Development code - Javascript to Typescript conversion: [#12](https://github.com/harpreetkhalsagtbit/country-state-city/pull/12)
 
 **V0.1.0**
