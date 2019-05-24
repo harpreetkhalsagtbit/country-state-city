@@ -1,30 +1,31 @@
 import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
+import { ICountry, ICity, IState} from './src/interface';
 
  export = {
-	getCountryById: function (id: string) {
+	getCountryById: function (id: string): ICountry {
 		return _findEntry(countryList, id);
 	},
-	getStateById: function (id: string) {
+	getStateById: function (id: string): IState {
 		return _findEntry(stateList, id);
 	},
-	getCityById: function (id: string) {
+	getCityById: function (id: string): ICity {
 		return _findEntry(cityList, id);
 	},
-	getStatesOfCountry: function (countryId: string) {
+	getStatesOfCountry: function (countryId: string): IState[] {
 		var states = stateList.filter(function (value, index) {
 			return value.country_id === countryId
 		})
 		return states.sort(compare)
 	},
-	getCitiesOfState: function (stateId: string) {
+	getCitiesOfState: function (stateId: string): ICity[] {
 		var cities = cityList.filter(function (value, index) {
 			return value.state_id === stateId
 		})
 		return cities.sort(compare)
 	},
-	getAllCountries: function () {
+	getAllCountries: function (): ICountry[] {
 		return countryList;
 	}
 }
