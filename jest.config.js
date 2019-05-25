@@ -15,6 +15,7 @@ module.exports = {
     ],
     testPathIgnorePatterns: [
       '/node_modules/',
+      'dist'
     ],
     collectCoverage: true,
     "transform": {
