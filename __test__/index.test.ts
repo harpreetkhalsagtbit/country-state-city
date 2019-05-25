@@ -1,7 +1,7 @@
 import csc from '../index';
 import { ICountry, ICity, IState } from '../index';
 
-const allTests = function(csc: any) {
+const executeAllTests = function(csc: any) {
 
   test('Check for Country By Id ', () => {
     const code = '38';
@@ -171,5 +171,5 @@ const allTests = function(csc: any) {
   });
 
 }
-export default allTests;
-allTests(csc)
+export default executeAllTests;
+executeAllTests(csc)
