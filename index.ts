@@ -2,8 +2,9 @@ import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
 import { ICountry, ICity, IState} from './src/interface';
+export { ICountry, ICity, IState} from './src/interface';
 
- export = {
+ export default {
 	getCountryById: function (id: string): ICountry {
 		return _findEntry(countryList, id);
 	},
