@@ -9,6 +9,29 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 # Install
 `npm i country-state-city`
 
+# Usage
+
+## Latest Release : `v2.0` (Not backword compatible)
+  - ES6 Module usage
+   
+     `import csc from 'country-state-city'`
+
+  - AMD Module usage
+  
+    `let csc = require('country-state-city').default`
+
+
+## For versions `v1.8 and below`
+
+  - ES6 Module usage
+   
+     `import csc from 'country-state-city'`
+
+  - AMD Module usage
+  
+    `let csc = require('country-state-city')`
+
+
 # Docs
 
 getCountryById(id)

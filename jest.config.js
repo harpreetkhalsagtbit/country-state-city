@@ -10,7 +10,8 @@ module.exports = {
       'node',
     ],
     testMatch: [
-      '**/*.test.ts'
+      '**/*.test.ts',
+      '**/*.test.js'
     ],
     testPathIgnorePatterns: [
       '/node_modules/',
