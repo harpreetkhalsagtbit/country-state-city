@@ -39,7 +39,7 @@ getCountryById(id)
 
 It accepts a valid `CountryId` and   returns *Country Details*
 
-type: *json*
+type: **json | ICountry**
 
 ```js
 {
@@ -55,7 +55,7 @@ getStateById(id)
 
 It accepts a valid `StateId` and   returns *State Details*
 
-type: *json*
+type: **json | IState**
 
 ```js
 {
@@ -70,7 +70,7 @@ getCityById(id)
 
 It accepts a valid `CityId` and   returns *City Details*
 
-type: *json*
+type: **json | ICity**
 
 ```js
 {
@@ -85,7 +85,7 @@ getStatesOfCountry(countryId)
 
 It accepts a valid `CountryId` and   returns *all States* as Array of JSON
 
-type: *array of json*
+type: **array of json | IState**
 
 ```js
 [
@@ -102,7 +102,7 @@ getCitiesOfState(stateId)
 
 It accepts a valid `CityId` and   returns *all Cities* as Array of JSON
 
-type: *array of json*
+type: **array of json | ICity**
 
 ```js
 [
@@ -117,9 +117,9 @@ type: *array of json*
 
 getAllCountries
 ---------------
-It returns *all Countries*
+It returns **all Countries**
 
-type: *array of json*
+type: **array of json | ICountry**
 
 ```js
 [
@@ -139,6 +139,16 @@ Special Thanks
 
 Change Logs
 ---------------
+
+**V2.0.0**
+
+1. `export = {}` changed to `export default` in index.ts.
+2. `Interface` type `re-exported` from `index.ts`.
+3. `Compatible` with `ES6` module syntax.
+4. `Compatible` with `AMD` module - using `require('../index').default`.
+5. Add tests for Interface Re-Exports.
+6. Test cases for both AMD modules and ES6 modules usage.
+7. Common Test Cases are being shared between AMD and ES6 modules test files.
 
 **V0.1.8**
 1. Development code - Javascript to Typescript conversion: [#12](https://github.com/harpreetkhalsagtbit/country-state-city/pull/12)
