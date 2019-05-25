@@ -11,7 +11,7 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 
 # Usage
 
-## Latest Release : `v2.0` (Not backword compatible)
+## Latest Release : `v1.0.0` (First Major Version Release - Not backword compatible)
   - ES6 Module usage
    
      `import csc from 'country-state-city'`
@@ -21,7 +21,7 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
     `let csc = require('country-state-city').default`
 
 
-## For versions `v1.8 and below`
+## For versions `v0.1.8 and below`
 
   - ES6 Module usage
    
@@ -140,7 +140,7 @@ Special Thanks
 Change Logs
 ---------------
 
-**V2.0.0**
+**v1.0.0**
 
 1. `export = {}` changed to `export default` in index.ts.
 2. `Interface` type `re-exported` from `index.ts`.
@@ -150,10 +150,10 @@ Change Logs
 6. Test cases for both AMD modules and ES6 modules usage.
 7. Common Test Cases are being shared between AMD and ES6 modules test files.
 
-**V0.1.8**
+**v0.1.8**
 1. Development code - Javascript to Typescript conversion: [#12](https://github.com/harpreetkhalsagtbit/country-state-city/pull/12)
 
-**V0.1.0**
+**v0.1.0**
 1. Fix: [#2](https://github.com/harpreetkhalsagtbit/country-state-city/issues/2)
 2. Fix: [#3](https://github.com/harpreetkhalsagtbit/country-state-city/issues/3)
 3. Added some missing states and cities for Canada and US
