@@ -14,11 +14,17 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 ## Latest Release : `v1.0.0` (First Major Version Release - Not backword compatible)
   - ES6 Module usage
    
-     `import csc from 'country-state-city'`
+     ```js
+     import csc from 'country-state-city'
 
+     // Import Interfaces`
+     import { ICountry, IState, ICity } from 'country-state-city'
+     ```
   - AMD Module usage
   
-    `let csc = require('country-state-city').default`
+    ```js
+    let csc = require('country-state-city').default
+    ```
 
 
 ## For versions `v0.1.8 and below`
@@ -27,16 +33,13 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
    
      ```js
      import csc from 'country-state-city'
-
-     // Import Interface`
-     import { ICountry, IState, ICity } from 'country-state-city'
+     ```
 
   - AMD Module usage
   
     ```js
     let csc = require('country-state-city')
     ```
-
 
 # Docs
 
