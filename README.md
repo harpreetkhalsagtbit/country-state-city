@@ -25,11 +25,17 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 
   - ES6 Module usage
    
-     `import csc from 'country-state-city'`
+     ```js
+     import csc from 'country-state-city'
+
+     // Import Interface`
+     import { ICountry, IState, ICity } from 'country-state-city'
 
   - AMD Module usage
   
-    `let csc = require('country-state-city')`
+    ```js
+    let csc = require('country-state-city')
+    ```
 
 
 # Docs
