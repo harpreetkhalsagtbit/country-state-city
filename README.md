@@ -11,7 +11,7 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 
 # Usage
 
-## Latest Release : `v1.0.0` (First Major Version Release - Not backword compatible)
+## Latest Release : `v1.0.0` (First Major Version Release - Not backward compatible)
   - ES6 Module usage
    
      ```js
