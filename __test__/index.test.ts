@@ -9,6 +9,12 @@ const executeAllTests = function(csc: any) {
     expect(country).toEqual({ "id": "38", "name": "Canada", "phonecode": "1", "sortname": "CA" });
   });
 
+  test('Check for Country By Code ', () => {
+    const code = 'CA';
+    let country = csc.getCountryByCode(code)
+    expect(country).toEqual({ "id": "38", "name": "Canada", "phonecode": "1", "sortname": "CA" });
+  });
+
   test('Check for State By Id ', () => {
     const code = '32';
     let state = csc.getStateById(code)
