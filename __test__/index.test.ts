@@ -4,8 +4,8 @@ import { ICountry, ICity, IState } from '../index';
 const executeAllTests = function(csc: any) {
 
   test('Check for Country By Id ', () => {
-    const code = '38';
-    let country = csc.getCountryById(code)
+    const id = '38';
+    let country = csc.getCountryById(id)
     expect(country).toEqual({ "id": "38", "name": "Canada", "phonecode": "1", "sortname": "CA" });
   });
 
