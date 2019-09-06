@@ -46,7 +46,7 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 getCountryByCode(code)
 ---------------
 
-New Function - It accepts a valid `CountryCode` eg: `AS` and   returns *Country Details*
+It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
 
 type: **json | ICountry**
 
