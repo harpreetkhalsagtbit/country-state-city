@@ -6,13 +6,13 @@ export { ICountry, ICity, IState} from './src/interface';
 
  export default {
 	getCountryById: function (id: string): ICountry {
-		return _findEntry(countryList, id);
+		return _findEntryById(countryList, id);
 	},
 	getStateById: function (id: string): IState {
-		return _findEntry(stateList, id);
+		return _findEntryById(stateList, id);
 	},
 	getCityById: function (id: string): ICity {
-		return _findEntry(cityList, id);
+		return _findEntryById(cityList, id);
 	},
 	getStatesOfCountry: function (countryId: string): IState[] {
 		var states = stateList.filter(function (value, index) {
@@ -28,13 +28,24 @@ export { ICountry, ICity, IState} from './src/interface';
 	},
 	getAllCountries: function (): ICountry[] {
 		return countryList;
+	},
+	getCountryByCode: function (code: string): ICountry {
+		return _findEntryByCode(countryList, code);
 	}
 }
 
-let _findEntry = (source: any, id: string) => {
+let _findEntryById = (source: any, id: string) => {
 	if (id && source != null) {
 		let idx = source.findIndex((c:any) => c.id === id);
 		return (idx !== -1) ? source[idx] : "";
+	}
+	else return "";
+}
+
+let _findEntryByCode = (source: any, code: string) => {
+	if (code && source != null) {
+		let codex = source.findIndex((c:any) => c.sortname === code);
+		return (codex !== -1) ? source[codex] : "";
 	}
 	else return "";
 }

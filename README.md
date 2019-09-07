@@ -43,6 +43,22 @@ https://github.com/hiiamrohit/Countries-States-Cities-database
 
 # Docs
 
+getCountryByCode(code)
+---------------
+
+It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
+
+type: **json | ICountry**
+
+```js
+{
+	"id": "4",
+	"sortname": "AS",
+	"name": "American Samoa",
+	"phonecode": "1684"
+}
+```
+
 getCountryById(id)
 ---------------
 
