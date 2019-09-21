@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "jest",
+    "test": "npm run build && jest",
     "build": "tsc -p tsconfig.json"
   },
   "author": "harpreetkhalsagtbit@gmail.com",
@@ -42,5 +42,7 @@
     "ts-jest": "^24.0.2",
     "typescript": "^3.4.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@types/node": "^12.7.5"
+  }
 }

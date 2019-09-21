@@ -1,14 +1,25 @@
 import countryList from './lib/country.json';
-import stateList from './lib/state.json';
-import cityList from './lib/city.json';
+// import stateList from './lib/state.json';
+// import cityList from './lib/city.json';
 import { ICountry, ICity, IState} from './src/interface';
 export { ICountry, ICity, IState} from './src/interface';
 
- export default {
+let stateList:[IState];
+let cityList:[ICity];
+import('./lib/state.json').then((states:any) => {
+	stateList = states.default;
+});
+
+import('./lib/city.json').then((cities:any) => {
+	cityList = cities.default;
+});
+
+export default {
 	getCountryById: function (id: string): ICountry {
 		return _findEntryById(countryList, id);
 	},
 	getStateById: function (id: string): IState {
+		console.log(stateList, 'here...')
 		return _findEntryById(stateList, id);
 	},
 	getCityById: function (id: string): ICity {
@@ -36,6 +47,11 @@ export { ICountry, ICity, IState} from './src/interface';
 
 let _findEntryById = (source: any, id: string) => {
 	if (id && source != null) {
+		console.log(source, 'source')
+		console.log(source.prototype, 'source')
+		console.log(source.findIndex, 'source')
+		console.log(typeof source, 'source')
+		console.log(source instanceof Array, 'source')
 		let idx = source.findIndex((c:any) => c.id === id);
 		return (idx !== -1) ? source[idx] : "";
 	}
