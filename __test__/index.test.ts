@@ -140,7 +140,6 @@ const executeAllTests = function(csc: any) {
       'Jammu and Kashmir',
       'Jharkhand',
       'Karnataka',
-      'Kenmore',
       'Kerala',
       'Lakshadweep',
       'Madhya Pradesh',
@@ -149,10 +148,7 @@ const executeAllTests = function(csc: any) {
       'Meghalaya',
       'Mizoram',
       'Nagaland',
-      'Narora',
-      'Natwar',
       'Odisha',
-      'Paschim Medinipur',
       'Pondicherry',
       'Punjab',
       'Rajasthan',
@@ -162,7 +158,6 @@ const executeAllTests = function(csc: any) {
       'Tripura',
       'Uttar Pradesh',
       'Uttarakhand',
-      'Vaishali',
       'West Bengal']
     );
   });
