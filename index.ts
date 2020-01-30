@@ -1,10 +1,19 @@
 import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
-import { ICountry, ICity, IState} from './src/interface';
-export { ICountry, ICity, IState} from './src/interface';
+import { ICountry, ICity, IState } from './src/interface';
+export { ICountry, ICity, IState } from './src/interface';
 
- export default {
+export default {
+	getCountryByName: function (name: string): ICountry {
+		return _findEntryByName(countryList, name);
+	},
+	getStateByName: function (name: string): IState {
+		return _findEntryByName(countryList, name);
+	},
+	getCityByName: function (name: string): ICity {
+		return _findEntryByName(countryList, name);
+	},
 	getCountryById: function (id: string): ICountry {
 		return _findEntryById(countryList, id);
 	},
@@ -36,7 +45,7 @@ export { ICountry, ICity, IState} from './src/interface';
 
 let _findEntryById = (source: any, id: string) => {
 	if (id && source != null) {
-		let idx = source.findIndex((c:any) => c.id === id);
+		let idx = source.findIndex((c: any) => c.id === id);
 		return (idx !== -1) ? source[idx] : "";
 	}
 	else return "";
@@ -44,13 +53,21 @@ let _findEntryById = (source: any, id: string) => {
 
 let _findEntryByCode = (source: any, code: string) => {
 	if (code && source != null) {
-		let codex = source.findIndex((c:any) => c.sortname === code);
+		let codex = source.findIndex((c: any) => c.sortname === code);
 		return (codex !== -1) ? source[codex] : "";
 	}
 	else return "";
 }
 
-function compare(a:any, b:any) {
+let _findEntryByName = (source: any, name: string) => {
+	if (name && source != null) {
+		let codex = source.findIndex((c: any) => c.name === name);
+		return (codex !== -1) ? source[codex] : "";
+	}
+	else return "";
+}
+
+function compare(a: any, b: any) {
 	if (a.name < b.name)
 		return -1;
 	if (a.name > b.name)
