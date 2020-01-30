@@ -1,7 +1,7 @@
 import csc from '../index';
 import { ICountry, ICity, IState } from '../index';
 
-const executeAllTests = function(csc: any) {
+const executeAllTests = function (csc: any) {
 
   test('Check for Country By Id ', () => {
     const id = '38';
@@ -13,6 +13,24 @@ const executeAllTests = function(csc: any) {
     const code = 'CA';
     let country = csc.getCountryByCode(code)
     expect(country).toEqual({ "id": "38", "name": "Canada", "phonecode": "1", "sortname": "CA" });
+  });
+
+  test('Check for Country By Name ', () => {
+    const name = 'Canada';
+    let country = csc.getCountryByName(name)
+    expect(country).toEqual({ "id": "38", "name": "Canada", "phonecode": "1", "sortname": "CA" });
+  });
+
+  test('Check for State By Name ', () => {
+    const name = 'Punjab';
+    let country = csc.getStateByName(name)
+    expect(country).toEqual({ "country_id": "101", "id": "32", "name": "Punjab" });
+  });
+
+  test('Check for City By Name ', () => {
+    const name = 'Lahore';
+    let country = csc.getCityByName(name)
+    expect(country).toEqual({ "id": "31439", "name": "Lahore", "state_id": "2728" });
   });
 
   test('Check for State By Id ', () => {
