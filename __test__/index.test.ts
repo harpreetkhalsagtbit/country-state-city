@@ -1,46 +1,46 @@
-import csc from '../index'
-import { ICountry, ICity, IState } from '../index'
+import csc from '../index';
+import { ICountry, ICity, IState } from '../index';
 
 const executeAllTests = function(csc: any) {
   test('Check for Country By Id ', () => {
-    const id = '38'
-    let country = csc.getCountryById(id)
+    const id = '38';
+    let country = csc.getCountryById(id);
     expect(country).toEqual({
       id: '38',
       name: 'Canada',
       phonecode: '1',
-      sortname: 'CA',
+      sortname: 'CA'
     })
   })
 
   test('Check for Country By Code ', () => {
-    const code = 'CA'
-    let country = csc.getCountryByCode(code)
+    const code = 'CA';
+    let country = csc.getCountryByCode(code);
     expect(country).toEqual({
       id: '38',
       name: 'Canada',
       phonecode: '1',
-      sortname: 'CA',
+      sortname: 'CA'
     })
   })
 
   test('Check for State By Id ', () => {
-    const code = '32'
-    let state = csc.getStateById(code)
-    expect(state).toEqual({ country_id: '101', id: '32', name: 'Punjab' })
+    const code = '32';
+    let state = csc.getStateById(code);
+    expect(state).toEqual({ country_id: '101', id: '32', name: 'Punjab' });
   })
 
   test('Check for City By Id ', () => {
-    const code = '31439'
-    let city = csc.getCityById(code)
-    expect(city).toEqual({ id: '31439', name: 'Lahore', state_id: '2728' })
+    const code = '31439';
+    let city = csc.getCityById(code);
+    expect(city).toEqual({ id: '31439', name: 'Lahore', state_id: '2728' });
   })
 
   test('Check for Canada States', () => {
-    const code = '38'
-    let country = csc.getCountryById(code)
-    let states = csc.getStatesOfCountry(country.id)
-    let names = states.map((state: IState) => state.name)
+    const code = '38';
+    let country = csc.getCountryById(code);
+    let states = csc.getStatesOfCountry(country.id);
+    let names = states.map((state: IState) => state.name);
     expect(names).toEqual([
       'Alberta',
       'British Columbia',
@@ -54,15 +54,15 @@ const executeAllTests = function(csc: any) {
       'Prince Edward Island',
       'Quebec',
       'Saskatchewan',
-      'Yukon',
+      'Yukon'
     ])
   })
 
   test('Check All States for United States Of America', () => {
-    const code = '231'
-    let country = csc.getCountryById(code)
-    let states = csc.getStatesOfCountry(country.id)
-    let names = states.map((state: IState) => state.name)
+    const code = '231';
+    let country = csc.getCountryById(code);
+    let states = csc.getStatesOfCountry(country.id);
+    let names = states.map((state: IState) => state.name);
     expect(names).toEqual([
       'Alabama',
       'Alaska',
@@ -113,15 +113,15 @@ const executeAllTests = function(csc: any) {
       'Washington',
       'West Virginia',
       'Wisconsin',
-      'Wyoming',
+      'Wyoming'
     ])
   })
 
   test('Check States for India', () => {
-    const code = '101'
-    let country = csc.getCountryById(code)
-    let states = csc.getStatesOfCountry(country.id)
-    let names = states.map((state: IState) => state.name)
+    const code = '101';
+    let country = csc.getCountryById(code);
+    let states = csc.getStatesOfCountry(country.id);
+    let names = states.map((state: IState) => state.name);
 
     expect(names).toEqual([
       'Andaman and Nicobar Islands',
@@ -159,16 +159,16 @@ const executeAllTests = function(csc: any) {
       'Tripura',
       'Uttar Pradesh',
       'Uttarakhand',
-      'West Bengal',
+      'West Bengal'
     ])
   })
 
   test('Check Cities for Delhi', () => {
-    const code = '101'
-    let cities = csc.getCitiesOfState('10')
-    let names = cities.map((city: ICity) => city.name)
-    expect(names).toEqual(['Delhi', 'New Delhi'])
+    const code = '101';
+    let cities = csc.getCitiesOfState('10');
+    let names = cities.map((city: ICity) => city.name);
+    expect(names).toEqual(['Delhi', 'New Delhi']);
   })
 }
-export default executeAllTests
-executeAllTests(csc)
+export default executeAllTests;
+executeAllTests(csc);
