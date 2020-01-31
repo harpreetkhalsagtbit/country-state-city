@@ -9,10 +9,10 @@ export default {
 		return _findEntryByName(countryList, name);
 	},
 	getStateByName: function (name: string): IState {
-		return _findEntryByName(countryList, name);
+		return _findEntryByName(stateList, name);
 	},
 	getCityByName: function (name: string): ICity {
-		return _findEntryByName(countryList, name);
+		return _findEntryByName(cityList, name);
 	},
 	getCountryById: function (id: string): ICountry {
 		return _findEntryById(countryList, id);
