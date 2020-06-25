@@ -13581,7 +13581,7 @@
 	},
 	{
 		"id": "2723",
-		"name": "Baluchistan",
+		"name": "Balochistan",
 		"country_id": "166"
 	},
 	{
@@ -13596,7 +13596,7 @@
 	},
 	{
 		"id": "2726",
-		"name": "North-West Frontier",
+		"name": "Khyber Pakhtunkhwa",
 		"country_id": "166"
 	},
 	{
@@ -13611,7 +13611,7 @@
 	},
 	{
 		"id": "2729",
-		"name": "Sind",
+		"name": "Sindh",
 		"country_id": "166"
 	},
 	{
@@ -20488,5 +20488,14 @@
 		"id": "4121",
 		"name": "Federal Dependencies",
 		"country_id": "237"
+	},
+	{
+		"id": "4122",
+		"name": "Azad and Jammu Kashmir",
+		"country_id": "166"
 	}
+
+
+
+
 ]
