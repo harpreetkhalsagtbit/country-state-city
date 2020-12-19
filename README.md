@@ -2,9 +2,9 @@ country-state-city
 ==============================
 Basic library for Country, State and City
 
-Data taken from:
-
-https://github.com/hiiamrohit/Countries-States-Cities-database
+Data Source:<br>
+https://github.com/dr5hn/countries-states-cities-database<br>
+For any data related issue, you can raise a Issue [here](https://github.com/dr5hn/countries-states-cities-database/issues/new).
 
 # Install
 `npm i country-state-city`
@@ -51,90 +51,62 @@ It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
 type: **json | ICountry**
 
 ```js
-{
-	"id": "4",
-	"sortname": "AS",
-	"name": "American Samoa",
-	"phonecode": "1684"
+{ 
+  "name": "India",
+  "isoCode": "IN",
+  "phonecode": "+91",
+  "flag": "🇮🇳"
 }
 ```
 
-getCountryById(id)
+getStatesOfCountry(countryCode)
 ---------------
 
-It accepts a valid `CountryId` and   returns *Country Details*
-
-type: **json | ICountry**
-
-```js
-{
-	"id": "4",
-	"sortname": "AS",
-	"name": "American Samoa",
-	"phonecode": "1684"
-}
-```
-
-getStateById(id)
----------------
-
-It accepts a valid `StateId` and   returns *State Details*
-
-type: **json | IState**
-
-```js
-{
-	"id": 4119,
-	"name": "Midlands",
-	"country_id": "246"
-}
-```
-
-getCityById(id)
----------------
-
-It accepts a valid `CityId` and   returns *City Details*
-
-type: **json | ICity**
-
-```js
-{
-	"id": "3",
-	"name": "Port Blair",
-	"state_id": "1"
-}
-```
-
-getStatesOfCountry(countryId)
----------------
-
-It accepts a valid `CountryId` and   returns *all States* as Array of JSON
+It accepts a valid `CountryCode` and returns *all States* as Array of JSON
 
 type: **array of json | IState**
 
 ```js
 [
   {
-    "id": 4119,
-    "name": "Midlands",
-    "country_id": "246"
+    "name": "Delhi",
+    "isoCode": "DL",
+    "countryCode": "IN"
   }
 ]
 
 ```
-getCitiesOfState(stateId)
+getCitiesOfState(countryCode, stateCode)
 ---------------
 
-It accepts a valid `CityId` and   returns *all Cities* as Array of JSON
+It accepts a valid `CountryCode`, `StateCode` and returns *all Cities* as Array of JSON
 
 type: **array of json | ICity**
 
 ```js
 [
   {
-    "id": "3",
-    "name": "Port Blair",
-    "state_id": "1"
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "stateCode": "DL"
+  }
+]
+
+```
+
+getCitiesOfCountry(countryCode)
+---------------
+
+It accepts a valid `CountryCode` and returns *all Cities* as Array of JSON
+
+type: **array of json | ICity**
+
+```js
+[
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "stateCode": "DL"
   }
 ]
 
@@ -149,10 +121,42 @@ type: **array of json | ICountry**
 ```js
 [
   {
-    "id": "4",
-    "sortname": "AS",
-    "name": "American Samoa",
-    "phonecode": "1684"
+    "name": "India",
+    "isoCode": "IN",
+    "phonecode": "+91",
+    "flag": "🇮🇳"
+  }
+]
+```
+
+getAllStates
+---------------
+It returns **all States**
+
+type: **array of json | IState**
+
+```js
+[
+  {
+    "name": "Delhi",
+    "isoCode": "DL",
+    "countryCode": "IN"
+  }
+]
+```
+
+getAllCities
+---------------
+It returns **all Cities**
+
+type: **array of json | ICity**
+
+```js
+[
+  {
+    "name": "New Delhi",
+    "countryCode": "IN",
+    "stateCode": "DL"
   }
 ]
 ```
@@ -164,9 +168,14 @@ Special Thanks
 
 Change Logs
 ---------------
+**v2.0.0 (Backward Incompatible)** :: [Data Source (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
 
-**v1.0.0**
+1. ``
+2. ``
+3. ``
+4. ``
 
+**v1.0.0** :: [Data Source (hiiamrohit)](https://github.com/hiiamrohit/Countries-States-Cities-database)
 1. `export = {}` changed to `export default` in index.ts.
 2. `Interface` type `re-exported` from `index.ts`.
 3. `Compatible` with `ES6` module syntax.
@@ -175,7 +184,7 @@ Change Logs
 6. Test cases for both AMD modules and ES6 modules usage.
 7. Common Test Cases are being shared between AMD and ES6 modules test files.
 
-**v0.1.8**
+**v0.1.8** :: [Data Source (hiiamrohit)](https://github.com/hiiamrohit/Countries-States-Cities-database)
 1. Development code - Javascript to Typescript conversion: [#12](https://github.com/harpreetkhalsagtbit/country-state-city/pull/12)
 
 **v0.1.0**
