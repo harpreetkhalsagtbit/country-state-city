@@ -42,7 +42,7 @@ export { ICountry, ICity, IState} from './src/interface';
 
 let _findEntryByCode = (source: any, code: string) => {
     if (code && source != null) {
-        let codex = source.findIndex((c:any) => c.sortname === code);
+        let codex = source.findIndex((c:any) => c.isoCode === code);
         return (codex !== -1) ? source[codex] : "";
     }
     else return "";
