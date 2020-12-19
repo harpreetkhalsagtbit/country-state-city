@@ -2,44 +2,21 @@ import csc from '../index';
 import { ICountry, ICity, IState } from '../index';
 
 const executeAllTests = function(csc: any) {
-  test('Check for Country By Id ', () => {
-    const id = '38';
-    let country = csc.getCountryById(id);
-    expect(country).toEqual({
-      id: '38',
-      name: 'Canada',
-      phonecode: '1',
-      sortname: 'CA'
-    })
-  })
-
   test('Check for Country By Code ', () => {
     const code = 'CA';
     let country = csc.getCountryByCode(code);
     expect(country).toEqual({
-      id: '38',
       name: 'Canada',
       phonecode: '1',
-      sortname: 'CA'
+      isoCode: 'CA',
+      flag: '🇨🇦'
     })
   })
 
-  test('Check for State By Id ', () => {
-    const code = '32';
-    let state = csc.getStateById(code);
-    expect(state).toEqual({ country_id: '101', id: '32', name: 'Punjab' });
-  })
-
-  test('Check for City By Id ', () => {
-    const code = '31439';
-    let city = csc.getCityById(code);
-    expect(city).toEqual({ id: '31439', name: 'Lahore', state_id: '2728' });
-  })
-
   test('Check for Canada States', () => {
-    const code = '38';
-    let country = csc.getCountryById(code);
-    let states = csc.getStatesOfCountry(country.id);
+    const code = 'CA';
+    let country = csc.getCountryByCode(code);
+    let states = csc.getStatesOfCountry(country.isoCode);
     let names = states.map((state: IState) => state.name);
     expect(names).toEqual([
       'Alberta',
@@ -59,37 +36,47 @@ const executeAllTests = function(csc: any) {
   })
 
   test('Check All States for United States Of America', () => {
-    const code = '231';
-    let country = csc.getCountryById(code);
-    let states = csc.getStatesOfCountry(country.id);
+    const code = 'US';
+    let country = csc.getCountryByCode(code);
+    let states = csc.getStatesOfCountry(country.isoCode);
     let names = states.map((state: IState) => state.name);
     expect(names).toEqual([
       'Alabama',
       'Alaska',
+      'American Samoa',
       'Arizona',
       'Arkansas',
+      'Baker Island',
       'California',
       'Colorado',
       'Connecticut',
       'Delaware',
+      'District of Columbia',
       'Florida',
       'Georgia',
+      'Guam',
       'Hawaii',
+      'Howland Island',
       'Idaho',
       'Illinois',
       'Indiana',
       'Iowa',
+      'Jarvis Island',
+      'Johnston Atoll',
       'Kansas',
       'Kentucky',
+      'Kingman Reef',
       'Louisiana',
       'Maine',
       'Maryland',
       'Massachusetts',
       'Michigan',
+      'Midway Atoll',
       'Minnesota',
       'Mississippi',
       'Missouri',
       'Montana',
+      'Navassa Island',
       'Nebraska',
       'Nevada',
       'New Hampshire',
@@ -98,29 +85,35 @@ const executeAllTests = function(csc: any) {
       'New York',
       'North Carolina',
       'North Dakota',
+      'Northern Mariana Islands',
       'Ohio',
       'Oklahoma',
       'Oregon',
+      'Palmyra Atoll',
       'Pennsylvania',
+      'Puerto Rico',
       'Rhode Island',
       'South Carolina',
       'South Dakota',
       'Tennessee',
       'Texas',
+      'United States Minor Outlying Islands',
+      'United States Virgin Islands',
       'Utah',
       'Vermont',
       'Virginia',
+      'Wake Island',
       'Washington',
       'West Virginia',
       'Wisconsin',
-      'Wyoming'
+      'Wyoming',
     ])
   })
 
   test('Check States for India', () => {
-    const code = '101';
-    let country = csc.getCountryById(code);
-    let states = csc.getStatesOfCountry(country.id);
+    const code = 'IN';
+    let country = csc.getCountryByCode(code);
+    let states = csc.getStatesOfCountry(country.isoCode);
     let names = states.map((state: IState) => state.name);
 
     expect(names).toEqual([
@@ -142,6 +135,7 @@ const executeAllTests = function(csc: any) {
       'Jharkhand',
       'Karnataka',
       'Kerala',
+      'Ladakh',
       'Lakshadweep',
       'Madhya Pradesh',
       'Maharashtra',
@@ -150,7 +144,7 @@ const executeAllTests = function(csc: any) {
       'Mizoram',
       'Nagaland',
       'Odisha',
-      'Pondicherry',
+      'Puducherry',
       'Punjab',
       'Rajasthan',
       'Sikkim',
@@ -159,15 +153,36 @@ const executeAllTests = function(csc: any) {
       'Tripura',
       'Uttar Pradesh',
       'Uttarakhand',
-      'West Bengal'
+      'West Bengal',
     ])
   })
 
   test('Check Cities for Delhi', () => {
-    const code = '101';
-    let cities = csc.getCitiesOfState('10');
+    const countryCode = 'IN';
+    const stateCode = 'DL';
+    let cities = csc.getCitiesOfState(countryCode, stateCode);
     let names = cities.map((city: ICity) => city.name);
-    expect(names).toEqual(['Delhi', 'New Delhi']);
+    expect(names).toEqual([
+      'Alipur', 
+      'Bawana',
+      'Central Delhi',
+      'Delhi',
+      'Deoli',
+      'East Delhi',
+      'Karol Bagh',
+      'Najafgarh',
+      'Narela',
+      'New Delhi',
+      'North Delhi',
+      'North East Delhi',
+      'North West Delhi',
+      'Nangloi Jat',
+      'Pitampura',
+      'Rohini',
+      'South Delhi',
+      'South West Delhi',
+      'West Delhi',
+    ]);
   })
 }
 export default executeAllTests;
