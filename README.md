@@ -170,10 +170,12 @@ Change Logs
 ---------------
 **v2.0.0 (Backward Incompatible)** :: [Data Source (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
 
-1. ``
-2. ``
-3. ``
-4. ``
+1. Not backward compatible with previous versions.
+2. New and updated API functions.
+3. Removed proprietor Indexed Id's for uniquely identifying Country, State, City. Instead now using standard isoCodes.
+4. Data taken from more robust and accurate database.
+5. Countries with their respective flags, currencies, latitude, longitude & timezones.
+6. States & cities with their latitude & longitude.
 
 **v1.0.0** :: [Data Source (hiiamrohit)](https://github.com/hiiamrohit/Countries-States-Cities-database)
 1. `export = {}` changed to `export default` in index.ts.
