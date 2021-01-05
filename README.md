@@ -11,7 +11,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 # Usage
 
-## Latest Release : `v2.0.0` (First Major Version Release - Not backward compatible)
+## Latest Release : `v2.0.0` (Major Version Release - Not backward compatible)
   - ES6 Module usage
    
      ```js
@@ -81,11 +81,11 @@ type: **array of json | IState**
 ```js
 [
 	{
-        "name": "Delhi",
-        "isoCode": "DL",
-        "countryCode": "IN",
-        "latitude": "28.70405920",
-        "longitude": "77.10249020"
+		"name": "Delhi",
+		"isoCode": "DL",
+		"countryCode": "IN",
+		"latitude": "28.70405920",
+		"longitude": "77.10249020"
 	}
 ]
 
@@ -100,11 +100,11 @@ type: **array of json | ICity**
 ```js
 [
 	{
-        "name": "New Delhi",
-        "countryCode": "IN",
-        "stateCode": "DL",
-        "latitude": "28.63576000",
-        "longitude": "77.22445000"
+		"name": "New Delhi",
+		"countryCode": "IN",
+		"stateCode": "DL",
+		"latitude": "28.63576000",
+		"longitude": "77.22445000"
 	}
 ]
 
@@ -120,11 +120,11 @@ type: **array of json | ICity**
 ```js
 [
 	{
-        "name": "New Delhi",
-        "countryCode": "IN",
-        "stateCode": "DL",
-        "latitude": "28.63576000",
-        "longitude": "77.22445000"
+		"name": "New Delhi",
+		"countryCode": "IN",
+		"stateCode": "DL",
+		"latitude": "28.63576000",
+		"longitude": "77.22445000"
 	}
 ]
 
@@ -168,11 +168,11 @@ type: **array of json | IState**
 ```js
 [
 	{
-        "name": "Delhi",
-        "isoCode": "DL",
-        "countryCode": "IN",
-        "latitude": "28.70405920",
-        "longitude": "77.10249020"
+		"name": "Delhi",
+		"isoCode": "DL",
+		"countryCode": "IN",
+		"latitude": "28.70405920",
+		"longitude": "77.10249020"
 
 	}
 ]
@@ -187,11 +187,11 @@ type: **array of json | ICity**
 ```js
 [
 	{
-        "name": "Delhi",
-        "isoCode": "DL",
-        "countryCode": "IN",
-        "latitude": "28.70405920",
-        "longitude": "77.10249020"
+		"name": "Delhi",
+		"isoCode": "DL",
+		"countryCode": "IN",
+		"latitude": "28.70405920",
+		"longitude": "77.10249020"
 	}
 ]
 ```
@@ -200,6 +200,7 @@ Special Thanks
 ---------------
 
 [@baywet](https://github.com/baywet) - For mentoring Javascript to Typescript Conversion
+
 [@dr5hn](https://github.com/dr5hn) - For updated World Data Dictionary
 
 Change Logs
