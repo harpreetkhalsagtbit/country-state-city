@@ -1,59 +1,58 @@
 import countryList from './lib/country.json';
 import stateList from './lib/state.json';
 import cityList from './lib/city.json';
-import { ICountry, ICity, IState} from './src/interface';
-export { ICountry, ICity, IState} from './src/interface';
+import { ICountry, ICity, IState } from './src/interface';
 
- export default {
-	getCountryById: function (id: string): ICountry {
-		return _findEntryById(countryList, id);
+export { ICountry, ICity, IState } from './src/interface';
+
+const _findEntryByCode = (source: any, code: string) => {
+	if (code && source != null) {
+		const codex = source.findIndex((c: any) => {
+			return c.isoCode === code;
+		});
+		return codex !== -1 ? source[codex] : '';
+	}
+	return '';
+};
+
+const compare = (a: any, b: any) => {
+	if (a.name < b.name) return -1;
+	if (a.name > b.name) return 1;
+	return 0;
+};
+
+export default {
+	getStatesOfCountry(countryCode: string): IState[] {
+		const states = stateList.filter((value) => {
+			return value.countryCode === countryCode;
+		});
+		return states.sort(compare);
 	},
-	getStateById: function (id: string): IState {
-		return _findEntryById(stateList, id);
+	getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
+		const cities = cityList.filter((value: { countryCode: string; stateCode: string; }) => {
+			return value.countryCode === countryCode && value.stateCode === stateCode;
+		});
+		return cities.sort(compare);
 	},
-	getCityById: function (id: string): ICity {
-		return _findEntryById(cityList, id);
+	getCitiesOfCountry(countryCode: string): ICity[] {
+		const cities = cityList.filter((value: { countryCode: string; }) => {
+			return value.countryCode === countryCode;
+		});
+		return cities.sort(compare);
 	},
-	getStatesOfCountry: function (countryId: string): IState[] {
-		var states = stateList.filter(function (value, index) {
-			return value.country_id === countryId
-		})
-		return states.sort(compare)
-	},
-	getCitiesOfState: function (stateId: string): ICity[] {
-		var cities = cityList.filter(function (value, index) {
-			return value.state_id === stateId
-		})
-		return cities.sort(compare)
-	},
-	getAllCountries: function (): ICountry[] {
+	getAllCountries(): ICountry[] {
 		return countryList;
 	},
-	getCountryByCode: function (code: string): ICountry {
-		return _findEntryByCode(countryList, code);
-	}
-}
-
-let _findEntryById = (source: any, id: string) => {
-	if (id && source != null) {
-		let idx = source.findIndex((c:any) => c.id === id);
-		return (idx !== -1) ? source[idx] : "";
-	}
-	else return "";
-}
-
-let _findEntryByCode = (source: any, code: string) => {
-	if (code && source != null) {
-		let codex = source.findIndex((c:any) => c.sortname === code);
-		return (codex !== -1) ? source[codex] : "";
-	}
-	else return "";
-}
-
-function compare(a:any, b:any) {
-	if (a.name < b.name)
-		return -1;
-	if (a.name > b.name)
-		return 1;
-	return 0;
-}
+	getAllStates(): IState[] {
+		return stateList;
+	},
+	getAllCities(): ICity[] {
+		return cityList;
+	},
+	getCountryByCode(isoCode: string): ICountry {
+		return _findEntryByCode(countryList, isoCode);
+	},
+	getStateByCode(isoCode: string): IState {
+		return _findEntryByCode(stateList, isoCode);
+	},
+};
