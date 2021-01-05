@@ -11,7 +11,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 # Usage
 
-## Latest Release : `v1.0.0` (First Major Version Release - Not backward compatible)
+## Latest Release : `v2.0.0` (First Major Version Release - Not backward compatible)
   - ES6 Module usage
    
      ```js
@@ -51,11 +51,23 @@ It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
 type: **json | ICountry**
 
 ```js
-{ 
-  "name": "India",
-  "isoCode": "IN",
-  "phonecode": "+91",
-  "flag": "🇮🇳"
+{
+	"isoCode": "IN",
+	"name": "India",
+	"phonecode": "91",
+	"flag": "🇮🇳",
+	"currency": "INR",
+	"latitude": "20.00000000",
+	"longitude": "77.00000000",
+	"timezones": [
+		{
+			"zoneName": "Asia\/Kolkata",
+			"gmtOffset": 19800,
+			"gmtOffsetName": "UTC+05:30",
+			"abbreviation": "IST",
+			"tzName": "Indian Standard Time"
+		}
+	]
 }
 ```
 
@@ -68,11 +80,13 @@ type: **array of json | IState**
 
 ```js
 [
-  {
-    "name": "Delhi",
-    "isoCode": "DL",
-    "countryCode": "IN"
-  }
+	{
+        "name": "Delhi",
+        "isoCode": "DL",
+        "countryCode": "IN",
+        "latitude": "28.70405920",
+        "longitude": "77.10249020"
+	}
 ]
 
 ```
@@ -85,11 +99,13 @@ type: **array of json | ICity**
 
 ```js
 [
-  {
-    "name": "New Delhi",
-    "countryCode": "IN",
-    "stateCode": "DL"
-  }
+	{
+        "name": "New Delhi",
+        "countryCode": "IN",
+        "stateCode": "DL",
+        "latitude": "28.63576000",
+        "longitude": "77.22445000"
+	}
 ]
 
 ```
@@ -103,11 +119,13 @@ type: **array of json | ICity**
 
 ```js
 [
-  {
-    "name": "New Delhi",
-    "countryCode": "IN",
-    "stateCode": "DL"
-  }
+	{
+        "name": "New Delhi",
+        "countryCode": "IN",
+        "stateCode": "DL",
+        "latitude": "28.63576000",
+        "longitude": "77.22445000"
+	}
 ]
 
 ```
@@ -120,12 +138,24 @@ type: **array of json | ICountry**
 
 ```js
 [
-  {
-    "name": "India",
-    "isoCode": "IN",
-    "phonecode": "+91",
-    "flag": "🇮🇳"
-  }
+	{
+		"isoCode": "IN",
+		"name": "India",
+		"phonecode": "91",
+		"flag": "🇮🇳",
+		"currency": "INR",
+		"latitude": "20.00000000",
+		"longitude": "77.00000000",
+		"timezones": [
+			{
+				"zoneName": "Asia\/Kolkata",
+				"gmtOffset": 19800,
+				"gmtOffsetName": "UTC+05:30",
+				"abbreviation": "IST",
+				"tzName": "Indian Standard Time"
+			}
+		]
+	}
 ]
 ```
 
@@ -137,11 +167,14 @@ type: **array of json | IState**
 
 ```js
 [
-  {
-    "name": "Delhi",
-    "isoCode": "DL",
-    "countryCode": "IN"
-  }
+	{
+        "name": "Delhi",
+        "isoCode": "DL",
+        "countryCode": "IN",
+        "latitude": "28.70405920",
+        "longitude": "77.10249020"
+
+	}
 ]
 ```
 
@@ -153,11 +186,13 @@ type: **array of json | ICity**
 
 ```js
 [
-  {
-    "name": "New Delhi",
-    "countryCode": "IN",
-    "stateCode": "DL"
-  }
+	{
+        "name": "Delhi",
+        "isoCode": "DL",
+        "countryCode": "IN",
+        "latitude": "28.70405920",
+        "longitude": "77.10249020"
+	}
 ]
 ```
 
@@ -165,6 +200,7 @@ Special Thanks
 ---------------
 
 [@baywet](https://github.com/baywet) - For mentoring Javascript to Typescript Conversion
+[@dr5hn](https://github.com/dr5hn) - For updated World Data Dictionary
 
 Change Logs
 ---------------
@@ -174,7 +210,7 @@ Change Logs
 2. New and updated API functions.
 3. Removed proprietor Indexed Id's for uniquely identifying Country, State, City. Instead now using standard isoCodes.
 4. Data taken from more robust and accurate database.
-5. Countries with their respective flags, currencies, latitude, longitude & timezones.
+5. Countries with their respective flags, isoCode, currencies, latitude, longitude & timezones.
 6. States & cities with their latitude & longitude.
 
 **v1.0.0** :: [Data Source (hiiamrohit)](https://github.com/hiiamrohit/Countries-States-Cities-database)
