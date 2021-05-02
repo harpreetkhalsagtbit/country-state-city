@@ -43,7 +43,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 # Docs
 
-getCountryByCode(code)
+getCountryByCode(countryCode)
 ---------------
 
 It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
@@ -71,7 +71,7 @@ type: **json | ICountry**
 }
 ```
 
-getStateByCodeAndCountry(code, countryCode)
+getStateByCodeAndCountry(stateCode, countryCode)
 ---------------
 
 It accepts a valid `StateCode` eg: `'TG'` `CountryCode` eg: `'IN'` and   returns *State Details*
@@ -225,6 +225,8 @@ Change Logs
 **v2.1.0** :: 
 
 1. Fix [#53](https://github.com/harpreetkhalsagtbit/country-state-city/issues/53): returns wrong state as state codes can ne duplicate for different countries.
+2. **Deprecate warning**: `getStateByCode`
+3. New function - `getStateByCodeAndCountry`
 
 **v2.0.0 (Backward Incompatible)** :: [Data Source (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
 
