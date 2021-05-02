@@ -71,6 +71,23 @@ type: **json | ICountry**
 }
 ```
 
+getStateByCodeAndCountry(code, countryCode)
+---------------
+
+It accepts a valid `StateCode` eg: `'TG'` `CountryCode` eg: `'IN'` and   returns *State Details*
+
+type: **json | ICountry**
+
+```js
+{
+	"name": "Telangana",
+	"isoCode": "TG",
+	"countryCode": "IN",
+	"latitude": "18.11243720",
+	"longitude": "79.01929970"
+}
+```
+
 getStatesOfCountry(countryCode)
 ---------------
 
@@ -205,6 +222,10 @@ Special Thanks
 
 Change Logs
 ---------------
+**v2.1.0** :: 
+
+1. Fix [#53](https://github.com/harpreetkhalsagtbit/country-state-city/issues/53): returns wrong state as state codes can ne duplicate for different countries.
+
 **v2.0.0 (Backward Incompatible)** :: [Data Source (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
 
 1. Not backward compatible with previous versions.

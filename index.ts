@@ -64,6 +64,10 @@ export default {
 	},
 	// to be deprecate
 	getStateByCode(isoCode: string): IState {
+		// eslint-disable-next-line no-console
+		console.warn(
+			`WARNING! 'getStateByCode' has been deprecated, please use the new 'getStateByCodeAndCountry' function instead!`,
+		);
 		return _findEntryByCode(stateList, isoCode);
 	},
 	getStateByCodeAndCountry(isoCode: string, countryCode: string): IState {
