@@ -392,6 +392,13 @@ const executeAllTests = function (csc: any) {
 			'West Delhi',
 		]);
 	});
+
+	test('Get State by State ISOCode and Country Code', () => {
+		const countryCode = 'PK';
+		const stateCode = 'KP';
+		const state = csc.getStateByCodeAndCountry(stateCode, countryCode);
+		expect(state.name).toEqual('Khyber Pakhtunkhwa');
+	});
 };
 export default executeAllTests;
 executeAllTests(csc);
