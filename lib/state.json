@@ -7679,112 +7679,112 @@
         "longitude": "-7.46532170"
     },
     {
-        "name": "Djelfa Province",
+        "name": "Djelfa",
         "isoCode": "17",
         "countryCode": "DZ",
         "latitude": "34.67039560",
         "longitude": "3.25037610"
     },
     {
-        "name": "El Oued Province",
+        "name": "El Oued",
         "isoCode": "39",
         "countryCode": "DZ",
         "latitude": "33.36781100",
         "longitude": "6.85165110"
     },
     {
-        "name": "El Tarf Province",
+        "name": "El Tarf",
         "isoCode": "36",
         "countryCode": "DZ",
         "latitude": "36.75766780",
         "longitude": "8.30763430"
     },
     {
-        "name": "Oran Province",
+        "name": "Oran",
         "isoCode": "31",
         "countryCode": "DZ",
         "latitude": "35.60823510",
         "longitude": "-0.56360900"
     },
     {
-        "name": "Naama Province",
+        "name": "Naama",
         "isoCode": "45",
         "countryCode": "DZ",
         "latitude": "33.26673170",
         "longitude": "-0.31286590"
     },
     {
-        "name": "Annaba Province",
+        "name": "Annaba",
         "isoCode": "23",
         "countryCode": "DZ",
         "latitude": "36.80205080",
         "longitude": "7.52472430"
     },
     {
-        "name": "Bouïra Province",
+        "name": "Bouïra",
         "isoCode": "10",
         "countryCode": "DZ",
         "latitude": "36.36918460",
         "longitude": "3.90061940"
     },
     {
-        "name": "Chlef Province",
+        "name": "Chlef",
         "isoCode": "02",
         "countryCode": "DZ",
         "latitude": "36.16935150",
         "longitude": "1.28910360"
     },
     {
-        "name": "Tiaret Province",
+        "name": "Tiaret",
         "isoCode": "14",
         "countryCode": "DZ",
         "latitude": "35.37086890",
         "longitude": "1.32178520"
     },
     {
-        "name": "Tlemcen Province",
+        "name": "Tlemcen",
         "isoCode": "13",
         "countryCode": "DZ",
         "latitude": "34.67802840",
         "longitude": "-1.36621600"
     },
     {
-        "name": "Béchar Province",
+        "name": "Béchar",
         "isoCode": "08",
         "countryCode": "DZ",
         "latitude": "31.62380980",
         "longitude": "-2.21624430"
     },
     {
-        "name": "Médéa Province",
+        "name": "Médéa",
         "isoCode": "26",
         "countryCode": "DZ",
         "latitude": "36.26370780",
         "longitude": "2.75878570"
     },
     {
-        "name": "Skikda Province",
+        "name": "Skikda",
         "isoCode": "21",
         "countryCode": "DZ",
         "latitude": "36.67211980",
         "longitude": "6.83509990"
     },
     {
-        "name": "Blida Province",
+        "name": "Blida",
         "isoCode": "09",
         "countryCode": "DZ",
         "latitude": "36.53112300",
         "longitude": "2.89762540"
     },
     {
-        "name": "Illizi Province",
+        "name": "Illizi",
         "isoCode": "33",
         "countryCode": "DZ",
         "latitude": "26.16900050",
         "longitude": "8.48424650"
     },
     {
-        "name": "Jijel Province",
+        "name": "Jijel",
         "isoCode": "18",
         "countryCode": "DZ",
         "latitude": "36.71796810",
@@ -7798,221 +7798,214 @@
         "longitude": "5.72485670"
     },
     {
-        "name": "Tipasa Province",
+        "name": "Tipasa",
         "isoCode": "42",
         "countryCode": "DZ",
         "latitude": "36.54626500",
         "longitude": "2.18432850"
     },
     {
-        "name": "Bordj Bou Arréridj Province",
+        "name": "Bordj Bou Arréridj",
         "isoCode": "34",
         "countryCode": "DZ",
         "latitude": "36.07399250",
         "longitude": "4.76302710"
     },
     {
-        "name": "Tébessa Province",
+        "name": "Tébessa",
         "isoCode": "12",
         "countryCode": "DZ",
         "latitude": "35.12906910",
         "longitude": "7.95928630"
     },
     {
-        "name": "Adrar Province",
+        "name": "Adrar",
         "isoCode": "01",
         "countryCode": "DZ",
         "latitude": "26.41813100",
         "longitude": "-0.60147170"
     },
     {
-        "name": "Aïn Defla Province",
+        "name": "Aïn Defla",
         "isoCode": "44",
         "countryCode": "DZ",
         "latitude": "36.25094290",
         "longitude": "1.93938150"
     },
     {
-        "name": "Tindouf Province",
+        "name": "Tindouf",
         "isoCode": "37",
         "countryCode": "DZ",
         "latitude": "27.80631190",
         "longitude": "-5.72998210"
     },
     {
-        "name": "Constantine Province",
+        "name": "Constantine",
         "isoCode": "25",
         "countryCode": "DZ",
         "latitude": "36.33739110",
         "longitude": "6.66381200"
     },
     {
-        "name": "Aïn Témouchent Province",
+        "name": "Aïn Témouchent",
         "isoCode": "46",
         "countryCode": "DZ",
         "latitude": "35.29926980",
         "longitude": "-1.13927920"
     },
     {
-        "name": "Saïda Province",
+        "name": "Saïda",
         "isoCode": "20",
         "countryCode": "DZ",
         "latitude": "34.84152070",
         "longitude": "0.14560550"
     },
     {
-        "name": "Mascara Province",
+        "name": "Mascara",
         "isoCode": "29",
         "countryCode": "DZ",
         "latitude": "35.39041250",
         "longitude": "0.14949880"
     },
     {
-        "name": "Boumerdès Province",
+        "name": "Boumerdès",
         "isoCode": "35",
         "countryCode": "DZ",
         "latitude": "36.68395590",
         "longitude": "3.62178020"
     },
     {
-        "name": "Khenchela Province",
+        "name": "Khenchela",
         "isoCode": "40",
         "countryCode": "DZ",
         "latitude": "35.42694040",
         "longitude": "7.14601550"
     },
     {
-        "name": "Ghardaïa Province",
+        "name": "Ghardaïa",
         "isoCode": "47",
         "countryCode": "DZ",
         "latitude": "32.49437410",
         "longitude": "3.64446000"
     },
     {
-        "name": "Béjaïa Province",
+        "name": "Béjaïa",
         "isoCode": "06",
         "countryCode": "DZ",
         "latitude": "36.75152580",
         "longitude": "5.05568370"
     },
     {
-        "name": "El Bayadh Province",
+        "name": "El Bayadh",
         "isoCode": "32",
         "countryCode": "DZ",
         "latitude": "32.71488240",
         "longitude": "0.90566230"
     },
     {
-        "name": "Relizane Province",
+        "name": "Relizane",
         "isoCode": "48",
         "countryCode": "DZ",
         "latitude": "35.73834050",
         "longitude": "0.75328090"
     },
     {
-        "name": "Tizi Ouzou Province",
+        "name": "Tizi Ouzou",
         "isoCode": "15",
         "countryCode": "DZ",
         "latitude": "36.70691100",
         "longitude": "4.23333550"
     },
     {
-        "name": "Mila Province",
+        "name": "Mila",
         "isoCode": "43",
         "countryCode": "DZ",
         "latitude": "36.36479570",
         "longitude": "6.15269850"
     },
     {
-        "name": "Tissemsilt Province",
+        "name": "Tissemsilt",
         "isoCode": "38",
         "countryCode": "DZ",
         "latitude": "35.60537810",
         "longitude": "1.81309800"
     },
     {
-        "name": "M'Sila Province",
+        "name": "M'Sila",
         "isoCode": "28",
         "countryCode": "DZ",
         "latitude": "35.71866460",
         "longitude": "4.52334230"
     },
     {
-        "name": "Tamanghasset Province",
+        "name": "Tamanghasset",
         "isoCode": "11",
         "countryCode": "DZ",
         "latitude": "22.79029720",
         "longitude": "5.51932680"
     },
     {
-        "name": "Oum El Bouaghi Province",
+        "name": "Oum El Bouaghi",
         "isoCode": "04",
         "countryCode": "DZ",
         "latitude": "35.86887890",
         "longitude": "7.11082660"
     },
     {
-        "name": "Guelma Province",
+        "name": "Guelma",
         "isoCode": "24",
         "countryCode": "DZ",
         "latitude": "36.46274440",
         "longitude": "7.43308330"
     },
     {
-        "name": "Laghouat Province",
+        "name": "Laghouat",
         "isoCode": "03",
         "countryCode": "DZ",
         "latitude": "33.80783410",
         "longitude": "2.86282940"
     },
     {
-        "name": "Ouargla Province",
+        "name": "Ouargla",
         "isoCode": "30",
         "countryCode": "DZ",
         "latitude": "32.22648630",
         "longitude": "5.72998210"
     },
     {
-        "name": "Mostaganem Province",
+        "name": "Mostaganem",
         "isoCode": "27",
         "countryCode": "DZ",
         "latitude": "35.95830540",
         "longitude": "0.33718890"
     },
     {
-        "name": "Sétif Province",
+        "name": "Sétif",
         "isoCode": "19",
         "countryCode": "DZ",
         "latitude": "36.30733890",
         "longitude": "5.56172790"
     },
     {
-        "name": "Batna Province",
+        "name": "Batna",
         "isoCode": "05",
         "countryCode": "DZ",
         "latitude": "35.59659540",
         "longitude": "5.89871390"
     },
     {
-        "name": "Souk Ahras Province",
+        "name": "Souk Ahras",
         "isoCode": "41",
         "countryCode": "DZ",
         "latitude": "36.28010620",
         "longitude": "7.93840330"
     },
     {
-        "name": "Algiers Province",
+        "name": "Algiers",
         "isoCode": "16",
         "countryCode": "DZ",
         "latitude": "36.69972940",
         "longitude": "3.05761990"
-    },
-    {
-        "name": "Murcia Province",
-        "isoCode": "MU",
-        "countryCode": "ES",
-        "latitude": "37.99228050",
-        "longitude": "-1.13051690"
     },
     {
         "name": "Burgos Province",
@@ -8029,69 +8022,6 @@
         "longitude": "-6.23759470"
     },
     {
-        "name": "Araba \/ Álava",
-        "isoCode": "VI",
-        "countryCode": "ES",
-        "latitude": "42.90999890",
-        "longitude": "-2.69838680"
-    },
-    {
-        "name": "Madrid Province",
-        "isoCode": "M",
-        "countryCode": "ES",
-        "latitude": "40.41628830",
-        "longitude": "-3.70337250"
-    },
-    {
-        "name": "Ciudad Real Province",
-        "isoCode": "CR",
-        "countryCode": "ES",
-        "latitude": "38.98484350",
-        "longitude": "-3.92739820"
-    },
-    {
-        "name": "Almería Province",
-        "isoCode": "AL",
-        "countryCode": "ES",
-        "latitude": "37.10359290",
-        "longitude": "-2.30244600"
-    },
-    {
-        "name": "Valencia Province",
-        "isoCode": "V",
-        "countryCode": "ES",
-        "latitude": "39.48401080",
-        "longitude": "-0.75328090"
-    },
-    {
-        "name": "Badajoz Province",
-        "isoCode": "BA",
-        "countryCode": "ES",
-        "latitude": "38.88011360",
-        "longitude": "-6.97020930"
-    },
-    {
-        "name": "Pontevedra Province",
-        "isoCode": "PO",
-        "countryCode": "ES",
-        "latitude": "42.42990100",
-        "longitude": "-8.64462180"
-    },
-    {
-        "name": "Seville Province",
-        "isoCode": "SE",
-        "countryCode": "ES",
-        "latitude": "37.33768290",
-        "longitude": "-5.56172790"
-    },
-    {
-        "name": "Alicante Province",
-        "isoCode": "A",
-        "countryCode": "ES",
-        "latitude": "38.34606270",
-        "longitude": "-0.49079450"
-    },
-    {
         "name": "Palencia Province",
         "isoCode": "P",
         "countryCode": "ES",
@@ -8099,7 +8029,7 @@
         "longitude": "-4.52879490"
     },
     {
-        "name": "Community of Madrid",
+        "name": "Madrid",
         "isoCode": "MD",
         "countryCode": "ES",
         "latitude": "40.41675150",
@@ -8113,8 +8043,8 @@
         "longitude": "-2.93809730"
     },
     {
-        "name": "Province of Asturias",
-        "isoCode": "O",
+        "name": "Asturias",
+        "isoCode": "AS",
         "countryCode": "ES",
         "latitude": "43.36139530",
         "longitude": "-5.85932670"
@@ -8127,41 +8057,6 @@
         "longitude": "-5.89871390"
     },
     {
-        "name": "Zaragoza Province",
-        "isoCode": "Z",
-        "countryCode": "ES",
-        "latitude": "41.64882010",
-        "longitude": "-0.88906160"
-    },
-    {
-        "name": "Huesca Province",
-        "isoCode": "HU",
-        "countryCode": "ES",
-        "latitude": "42.13618420",
-        "longitude": "-0.40821910"
-    },
-    {
-        "name": "Tarragona Province",
-        "isoCode": "T",
-        "countryCode": "ES",
-        "latitude": "41.11883430",
-        "longitude": "1.24447740"
-    },
-    {
-        "name": "Toledo Province",
-        "isoCode": "TO",
-        "countryCode": "ES",
-        "latitude": "39.86281650",
-        "longitude": "-4.02732790"
-    },
-    {
-        "name": "Las Palmas Province",
-        "isoCode": "GC",
-        "countryCode": "ES",
-        "latitude": "28.25742210",
-        "longitude": "-14.14660460"
-    },
-    {
         "name": "Galicia",
         "isoCode": "GA",
         "countryCode": "ES",
@@ -8169,22 +8064,8 @@
         "longitude": "-8.13385580"
     },
     {
-        "name": "Albacete Province",
-        "isoCode": "AB",
-        "countryCode": "ES",
-        "latitude": "38.80369570",
-        "longitude": "-1.98815270"
-    },
-    {
-        "name": "Cuenca Province",
-        "isoCode": "CU",
-        "countryCode": "ES",
-        "latitude": "39.79399040",
-        "longitude": "-2.30244600"
-    },
-    {
         "name": "Cantabria",
-        "isoCode": "S",
+        "isoCode": "CB",
         "countryCode": "ES",
         "latitude": "43.18283960",
         "longitude": "-3.98784270"
@@ -8197,20 +8078,6 @@
         "longitude": "-2.53960300"
     },
     {
-        "name": "Guadalajara Province",
-        "isoCode": "GU",
-        "countryCode": "ES",
-        "latitude": "40.63247610",
-        "longitude": "-3.16017000"
-    },
-    {
-        "name": "Ourense Province",
-        "isoCode": "OR",
-        "countryCode": "ES",
-        "latitude": "42.33581750",
-        "longitude": "-7.86406310"
-    },
-    {
         "name": "Balearic Islands",
         "isoCode": "PM",
         "countryCode": "ES",
@@ -8218,14 +8085,14 @@
         "longitude": "2.73563280"
     },
     {
-        "name": "Valencian Community",
+        "name": "Valencia",
         "isoCode": "VC",
         "countryCode": "ES",
         "latitude": "39.48401080",
         "longitude": "-0.75328090"
     },
     {
-        "name": "Region of Murcia",
+        "name": "Murcia",
         "isoCode": "MC",
         "countryCode": "ES",
         "latitude": "38.13981410",
@@ -8237,41 +8104,6 @@
         "countryCode": "ES",
         "latitude": "41.59762750",
         "longitude": "-0.90566230"
-    },
-    {
-        "name": "Girona Province",
-        "isoCode": "GI",
-        "countryCode": "ES",
-        "latitude": "42.04070880",
-        "longitude": "2.93757390"
-    },
-    {
-        "name": "A Coruña Province",
-        "isoCode": "C",
-        "countryCode": "ES",
-        "latitude": "43.36233640",
-        "longitude": "-8.41159400"
-    },
-    {
-        "name": "Barcelona Province",
-        "isoCode": "B",
-        "countryCode": "ES",
-        "latitude": "41.38504770",
-        "longitude": "2.17331310"
-    },
-    {
-        "name": "Jaén Province",
-        "isoCode": "J",
-        "countryCode": "ES",
-        "latitude": "37.77955940",
-        "longitude": "-3.78497160"
-    },
-    {
-        "name": "Teruel Province",
-        "isoCode": "TE",
-        "countryCode": "ES",
-        "latitude": "40.34573500",
-        "longitude": "-1.10642420"
     },
     {
         "name": "Valladolid Province",
@@ -8295,28 +8127,7 @@
         "longitude": "-16.62913040"
     },
     {
-        "name": "Biscay",
-        "isoCode": "BI",
-        "countryCode": "ES",
-        "latitude": "43.22042860",
-        "longitude": "-2.69838680"
-    },
-    {
-        "name": "Lugo Province",
-        "isoCode": "LU",
-        "countryCode": "ES",
-        "latitude": "43.07643480",
-        "longitude": "-7.61142170"
-    },
-    {
-        "name": "Málaga Province",
-        "isoCode": "MA",
-        "countryCode": "ES",
-        "latitude": "36.72111130",
-        "longitude": "-4.42103060"
-    },
-    {
-        "name": "Province of Ávila",
+        "name": "Ávila",
         "isoCode": "AV",
         "countryCode": "ES",
         "latitude": "40.69345110",
@@ -8351,67 +8162,11 @@
         "longitude": "-4.72775280"
     },
     {
-        "name": "Granada Province",
-        "isoCode": "GR",
-        "countryCode": "ES",
-        "latitude": "37.17727940",
-        "longitude": "-3.59865250"
-    },
-    {
-        "name": "Lleida Province",
-        "isoCode": "L",
-        "countryCode": "ES",
-        "latitude": "42.07331500",
-        "longitude": "1.05861350"
-    },
-    {
-        "name": "Cáceres Province",
-        "isoCode": "CC",
-        "countryCode": "ES",
-        "latitude": "39.47529340",
-        "longitude": "-6.37250000"
-    },
-    {
-        "name": "Córdoba Province",
-        "isoCode": "CO",
-        "countryCode": "ES",
-        "latitude": "-31.43547270",
-        "longitude": "-64.20090180"
-    },
-    {
-        "name": "Santa Cruz de Tenerife Province",
-        "isoCode": "TF",
-        "countryCode": "ES",
-        "latitude": "28.46362960",
-        "longitude": "-16.25184670"
-    },
-    {
-        "name": "Huelva Province",
-        "isoCode": "H",
-        "countryCode": "ES",
-        "latitude": "37.60601220",
-        "longitude": "-6.92091350"
-    },
-    {
-        "name": "León Province",
+        "name": "Léon",
         "isoCode": "LE",
         "countryCode": "ES",
         "latitude": "42.59870410",
         "longitude": "-5.56708390"
-    },
-    {
-        "name": "Cádiz Province",
-        "isoCode": "CA",
-        "countryCode": "ES",
-        "latitude": "36.63618570",
-        "longitude": "-5.89871390"
-    },
-    {
-        "name": "Gipuzkoa",
-        "isoCode": "SS",
-        "countryCode": "ES",
-        "latitude": "43.07562990",
-        "longitude": "-2.22366670"
     },
     {
         "name": "Catalonia",
@@ -8421,14 +8176,14 @@
         "longitude": "1.52086240"
     },
     {
-        "name": "Navarre",
+        "name": "Navarra",
         "isoCode": "NC",
         "countryCode": "ES",
         "latitude": "42.69539090",
         "longitude": "-1.67606910"
     },
     {
-        "name": "Castile-La Mancha",
+        "name": "Castilla La Mancha",
         "isoCode": "CM",
         "countryCode": "ES",
         "latitude": "39.27956070",
@@ -8440,13 +8195,6 @@
         "countryCode": "ES",
         "latitude": "35.88938740",
         "longitude": "-5.32134550"
-    },
-    {
-        "name": "Castellón Province",
-        "isoCode": "CS",
-        "countryCode": "ES",
-        "latitude": "40.14517720",
-        "longitude": "-0.14949880"
     },
     {
         "name": "Soria Province",
@@ -11382,13 +11130,6 @@
         "longitude": "22.08956910"
     },
     {
-        "name": "Kielce",
-        "isoCode": "KI",
-        "countryCode": "PL",
-        "latitude": "50.86607730",
-        "longitude": "20.62856760"
-    },
-    {
         "name": "Warmian-Masurian Voivodeship",
         "isoCode": "WN",
         "countryCode": "PL",
@@ -13580,7 +13321,7 @@
         "longitude": "103.32562040"
     },
     {
-        "name": "Melaka",
+        "name": "Malacca",
         "isoCode": "04",
         "countryCode": "MY",
         "latitude": "2.18959400",
@@ -26040,6 +25781,13 @@
         "longitude": "21.93223310"
     },
     {
+        "name": "Prizren District",
+        "isoCode": "XPR",
+        "countryCode": "XK",
+        "latitude": "42.21525220",
+        "longitude": "20.74147720"
+    },
+    {
         "name": "Kolubara District",
         "isoCode": "09",
         "countryCode": "RS",
@@ -26122,6 +25870,13 @@
         "countryCode": "RS",
         "latitude": "43.95913790",
         "longitude": "21.27135300"
+    },
+    {
+        "name": "Peć District",
+        "isoCode": "XPE",
+        "countryCode": "XK",
+        "latitude": "42.65921550",
+        "longitude": "20.28876240"
     },
     {
         "name": "Srem District",
@@ -27357,98 +27112,98 @@
     },
     {
         "name": "Markazi Province",
-        "isoCode": "22",
+        "isoCode": "00",
         "countryCode": "IR",
         "latitude": "34.61230500",
         "longitude": "49.85472660"
     },
     {
         "name": "Khuzestan Province",
-        "isoCode": "10",
+        "isoCode": "06",
         "countryCode": "IR",
         "latitude": "31.43601490",
         "longitude": "49.04131200"
     },
     {
         "name": "Ilam Province",
-        "isoCode": "05",
+        "isoCode": "16",
         "countryCode": "IR",
         "latitude": "33.29576180",
         "longitude": "46.67053400"
     },
     {
         "name": "Kermanshah Province",
-        "isoCode": "17",
+        "isoCode": "05",
         "countryCode": "IR",
         "latitude": "34.45762330",
         "longitude": "46.67053400"
     },
     {
         "name": "Gilan Province",
-        "isoCode": "19",
+        "isoCode": "01",
         "countryCode": "IR",
         "latitude": "37.28094550",
         "longitude": "49.59241340"
     },
     {
         "name": "Chaharmahal and Bakhtiari Province",
-        "isoCode": "08",
+        "isoCode": "14",
         "countryCode": "IR",
         "latitude": "31.99704190",
         "longitude": "50.66138490"
     },
     {
         "name": "Qom Province",
-        "isoCode": "26",
+        "isoCode": "25",
         "countryCode": "IR",
         "latitude": "34.64157640",
         "longitude": "50.87460350"
     },
     {
         "name": "Isfahan Province",
-        "isoCode": "04",
+        "isoCode": "10",
         "countryCode": "IR",
         "latitude": "33.27710730",
         "longitude": "52.36133780"
     },
     {
         "name": "West Azarbaijan Province",
-        "isoCode": "02",
+        "isoCode": "04",
         "countryCode": "IR",
         "latitude": "37.45500620",
         "longitude": "45.00000000"
     },
     {
         "name": "Zanjan Province",
-        "isoCode": "11",
+        "isoCode": "19",
         "countryCode": "IR",
         "latitude": "36.50181850",
         "longitude": "48.39881860"
     },
     {
         "name": "Kohgiluyeh and Boyer-Ahmad Province",
-        "isoCode": "18",
+        "isoCode": "17",
         "countryCode": "IR",
         "latitude": "30.72458600",
         "longitude": "50.84563230"
     },
     {
         "name": "Razavi Khorasan Province",
-        "isoCode": "30",
+        "isoCode": "09",
         "countryCode": "IR",
         "latitude": "35.10202530",
         "longitude": "59.10417580"
     },
     {
         "name": "Lorestan Province",
-        "isoCode": "20",
+        "isoCode": "15",
         "countryCode": "IR",
         "latitude": "33.58183940",
         "longitude": "48.39881860"
     },
     {
         "name": "Alborz Province",
-        "isoCode": "32",
+        "isoCode": "30",
         "countryCode": "IR",
         "latitude": "35.99604670",
         "longitude": "50.92892460"
@@ -27462,14 +27217,14 @@
     },
     {
         "name": "Sistan and Baluchestan",
-        "isoCode": "13",
+        "isoCode": "11",
         "countryCode": "IR",
         "latitude": "27.52999060",
         "longitude": "60.58206760"
     },
     {
         "name": "Bushehr Province",
-        "isoCode": "06",
+        "isoCode": "18",
         "countryCode": "IR",
         "latitude": "28.76207390",
         "longitude": "51.51500770"
@@ -27483,84 +27238,84 @@
     },
     {
         "name": "Ardabil Province",
-        "isoCode": "03",
+        "isoCode": "24",
         "countryCode": "IR",
         "latitude": "38.48532760",
         "longitude": "47.89112090"
     },
     {
         "name": "Kurdistan Province",
-        "isoCode": "16",
+        "isoCode": "12",
         "countryCode": "IR",
         "latitude": "35.95535790",
         "longitude": "47.13621250"
     },
     {
         "name": "Yazd Province",
-        "isoCode": "25",
+        "isoCode": "21",
         "countryCode": "IR",
         "latitude": "32.10063870",
         "longitude": "54.43421380"
     },
     {
         "name": "Hormozgan Province",
-        "isoCode": "23",
+        "isoCode": "22",
         "countryCode": "IR",
         "latitude": "27.13872300",
         "longitude": "55.13758340"
     },
     {
         "name": "Mazandaran Province",
-        "isoCode": "21",
+        "isoCode": "02",
         "countryCode": "IR",
         "latitude": "36.22623930",
         "longitude": "52.53186040"
     },
     {
         "name": "Fars Province",
-        "isoCode": "14",
+        "isoCode": "07",
         "countryCode": "IR",
         "latitude": "29.10438130",
         "longitude": "53.04589300"
     },
     {
         "name": "Semnan Province",
-        "isoCode": "12",
+        "isoCode": "20",
         "countryCode": "IR",
         "latitude": "35.22555850",
         "longitude": "54.43421380"
     },
     {
         "name": "Qazvin Province",
-        "isoCode": "28",
+        "isoCode": "26",
         "countryCode": "IR",
         "latitude": "36.08813170",
         "longitude": "49.85472660"
     },
     {
         "name": "North Khorasan Province",
-        "isoCode": "31",
+        "isoCode": "28",
         "countryCode": "IR",
         "latitude": "37.47103530",
         "longitude": "57.10131880"
     },
     {
         "name": "Kerman Province",
-        "isoCode": "15",
+        "isoCode": "08",
         "countryCode": "IR",
         "latitude": "29.48500890",
         "longitude": "57.64390480"
     },
     {
         "name": "East Azerbaijan Province",
-        "isoCode": "01",
+        "isoCode": "03",
         "countryCode": "IR",
         "latitude": "37.90357330",
         "longitude": "46.26821090"
     },
     {
         "name": "Tehran Province",
-        "isoCode": "07",
+        "isoCode": "23",
         "countryCode": "IR",
         "latitude": "35.72484160",
         "longitude": "51.38165300"
@@ -28168,15 +27923,8 @@
         "longitude": "76.77941790"
     },
     {
-        "name": "Dadra and Nagar Haveli",
-        "isoCode": "DN",
-        "countryCode": "IN",
-        "latitude": "20.32287780",
-        "longitude": "72.96672540"
-    },
-    {
-        "name": "Daman and Diu",
-        "isoCode": "DD",
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
+        "isoCode": "DH",
         "countryCode": "IN",
         "latitude": "20.39737360",
         "longitude": "72.83279910"
@@ -33264,7 +33012,7 @@
         "longitude": "25.22258000"
     },
     {
-        "name": "Mureș County",
+        "name": "Maramureș County",
         "isoCode": "MM",
         "countryCode": "RO",
         "latitude": "46.55699040",
@@ -34048,6 +33796,41 @@
         "longitude": "-75.52766990"
     },
     {
+        "name": "Uroševac District (Ferizaj)",
+        "isoCode": "XUF",
+        "countryCode": "XK",
+        "latitude": "42.37018440",
+        "longitude": "21.14832810"
+    },
+    {
+        "name": "Đakovica District (Gjakove)",
+        "isoCode": "XDG",
+        "countryCode": "XK",
+        "latitude": "42.43757560",
+        "longitude": "20.37854380"
+    },
+    {
+        "name": "Gjilan District",
+        "isoCode": "XGJ",
+        "countryCode": "XK",
+        "latitude": "42.46352060",
+        "longitude": "21.46940110"
+    },
+    {
+        "name": "Kosovska Mitrovica District",
+        "isoCode": "XKM",
+        "countryCode": "XK",
+        "latitude": "42.89139090",
+        "longitude": "20.86599950"
+    },
+    {
+        "name": "Pristina (Priştine)",
+        "isoCode": "XPI",
+        "countryCode": "XK",
+        "latitude": "42.66291380",
+        "longitude": "21.16550280"
+    },
+    {
         "name": "Autonomous City Of Buenos Aires",
         "isoCode": "C",
         "countryCode": "AR",
@@ -34067,5 +33850,250 @@
         "countryCode": "BG",
         "latitude": "43.27123980",
         "longitude": "26.93612860"
+    },
+    {
+        "name": "Yuen Long District",
+        "isoCode": "NYL",
+        "countryCode": "HK",
+        "latitude": "22.44559000",
+        "longitude": "114.02218000"
+    },
+    {
+        "name": "Tsuen Wan District",
+        "isoCode": "NTW",
+        "countryCode": "HK",
+        "latitude": "22.36281000",
+        "longitude": "114.12907000"
+    },
+    {
+        "name": "Tai Po District",
+        "isoCode": "NTP",
+        "countryCode": "KH",
+        "latitude": "22.45085000",
+        "longitude": "114.16422000"
+    },
+    {
+        "name": "Sai Kung District",
+        "isoCode": "NSK",
+        "countryCode": "HK",
+        "latitude": "22.38143000",
+        "longitude": "114.27052000"
+    },
+    {
+        "name": "Islands District",
+        "isoCode": "NIS",
+        "countryCode": "HK",
+        "latitude": "22.26114000",
+        "longitude": "113.94608000"
+    },
+    {
+        "name": "Central and Western District",
+        "isoCode": "HCW",
+        "countryCode": "HK",
+        "latitude": "22.28666000",
+        "longitude": "114.15497000"
+    },
+    {
+        "name": "Wan Chai",
+        "isoCode": "HWC",
+        "countryCode": "HK",
+        "latitude": "22.27968000",
+        "longitude": "114.17168000"
+    },
+    {
+        "name": "Eastern",
+        "isoCode": "HEA",
+        "countryCode": "HK",
+        "latitude": "22.28411000",
+        "longitude": "114.22414000"
+    },
+    {
+        "name": "Southern",
+        "isoCode": "HSO",
+        "countryCode": "HK",
+        "latitude": "22.24725000",
+        "longitude": "114.15884000"
+    },
+    {
+        "name": "Yau Tsim Mong",
+        "isoCode": "KYT",
+        "countryCode": "HK",
+        "latitude": "22.32138000",
+        "longitude": "114.17260000"
+    },
+    {
+        "name": "Sham Shui Po",
+        "isoCode": "KSS",
+        "countryCode": "HK",
+        "latitude": "22.33074000",
+        "longitude": "114.16220000"
+    },
+    {
+        "name": "Kowloon City",
+        "isoCode": "KKC",
+        "countryCode": "HK",
+        "latitude": "22.32820000",
+        "longitude": "114.19155000"
+    },
+    {
+        "name": "Wong Tai Sin",
+        "isoCode": "KWT",
+        "countryCode": "HK",
+        "latitude": "22.33353000",
+        "longitude": "114.19686000"
+    },
+    {
+        "name": "Kwun Tong",
+        "isoCode": "KKT",
+        "countryCode": "HK",
+        "latitude": "22.31326000",
+        "longitude": "114.22581000"
+    },
+    {
+        "name": "Kwai Tsing",
+        "isoCode": "NKT",
+        "countryCode": "HK",
+        "latitude": "22.35488000",
+        "longitude": "114.08401000"
+    },
+    {
+        "name": "Tuen Mun",
+        "isoCode": "NTM",
+        "countryCode": "HK",
+        "latitude": "22.39163000",
+        "longitude": "113.97708850"
+    },
+    {
+        "name": "North",
+        "isoCode": "NNO",
+        "countryCode": "HK",
+        "latitude": "22.49471000",
+        "longitude": "114.13812000"
+    },
+    {
+        "name": "Sha Tin",
+        "isoCode": "NST",
+        "countryCode": "HK",
+        "latitude": "22.38715000",
+        "longitude": "114.19534000"
+    },
+    {
+        "name": "Sidi Bel Abbès",
+        "isoCode": "22",
+        "countryCode": "DZ",
+        "latitude": "34.68060240",
+        "longitude": "-1.09994950"
+    },
+    {
+        "name": "El M'ghair",
+        "isoCode": "49",
+        "countryCode": "DZ",
+        "latitude": "33.95405610",
+        "longitude": "5.13464180"
+    },
+    {
+        "name": "El Menia",
+        "isoCode": "50",
+        "countryCode": "DZ",
+        "latitude": "31.36422500",
+        "longitude": "2.57844950"
+    },
+    {
+        "name": "Ouled Djellal",
+        "isoCode": "51",
+        "countryCode": "DZ",
+        "latitude": "34.41782210",
+        "longitude": "4.96858430"
+    },
+    {
+        "name": "Bordj Baji Mokhtar",
+        "isoCode": "52",
+        "countryCode": "DZ",
+        "latitude": "22.96633500",
+        "longitude": "-3.94727320"
+    },
+    {
+        "name": "Béni Abbès",
+        "isoCode": "53",
+        "countryCode": "DZ",
+        "latitude": "30.08310420",
+        "longitude": "-2.83450520"
+    },
+    {
+        "name": "Timimoun",
+        "isoCode": "54",
+        "countryCode": "DZ",
+        "latitude": "29.67890600",
+        "longitude": "0.50046080"
+    },
+    {
+        "name": "Touggourt",
+        "isoCode": "55",
+        "countryCode": "DZ",
+        "latitude": "33.12484760",
+        "longitude": "5.78327150"
+    },
+    {
+        "name": "Djanet",
+        "isoCode": "56",
+        "countryCode": "DZ",
+        "latitude": "23.83108720",
+        "longitude": "8.70046720"
+    },
+    {
+        "name": "In Salah",
+        "isoCode": "57",
+        "countryCode": "DZ",
+        "latitude": "27.21492290",
+        "longitude": "1.84843960"
+    },
+    {
+        "name": "In Guezzam",
+        "isoCode": "58",
+        "countryCode": "DZ",
+        "latitude": "20.38643230",
+        "longitude": "4.77893940"
+    },
+    {
+        "name": "Mureș County",
+        "isoCode": "MS",
+        "countryCode": "RO",
+        "latitude": "46.55699040",
+        "longitude": "24.67232150"
+    },
+    {
+        "name": "Volgograd Oblast",
+        "isoCode": "VGG",
+        "countryCode": "RU",
+        "latitude": "49.25873930",
+        "longitude": "39.81544630"
+    },
+    {
+        "name": "La Colle",
+        "isoCode": "CL",
+        "countryCode": "MC",
+        "latitude": "43.73274650",
+        "longitude": "7.41372760"
+    },
+    {
+        "name": "La Condamine",
+        "isoCode": "CO",
+        "countryCode": "MC",
+        "latitude": "43.73506650",
+        "longitude": "7.41990600"
+    },
+    {
+        "name": "Moneghetti",
+        "isoCode": "MG",
+        "countryCode": "MC",
+        "latitude": "43.73649270",
+        "longitude": "7.41533830"
+    },
+    {
+        "name": "Hamadan Province",
+        "isoCode": "13",
+        "countryCode": "IR",
+        "latitude": "34.91936070",
+        "longitude": "47.48329250"
     }
 ]
