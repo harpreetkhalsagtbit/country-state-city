@@ -18,12 +18,6 @@
     "type": "git",
     "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm test"
-    }
-  },
   "keywords": [
     "Country",
     "State",
