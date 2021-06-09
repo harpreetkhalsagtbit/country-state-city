@@ -4,6 +4,7 @@
   "description": "Library for fetching Country, its States and Cities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "sideEffects": false,
   "scripts": {
     "test": "jest",
     "build": "tsc -p tsconfig.json",
