@@ -11,7 +11,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 # Usage
 
-## Latest Release : `v2.0.0` (Major Version Release - Not backward compatible)
+## Release : `v2.0.0` (Major Version Release - Not backward compatible)
   - ES6 Module usage
    
      ```js
@@ -222,6 +222,10 @@ Special Thanks
 
 Change Logs
 ---------------
+**v2.2.0** :: 
+
+1. State, City Database update by (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
+
 **v2.1.0** :: 
 
 1. Fix [#53](https://github.com/harpreetkhalsagtbit/country-state-city/issues/53): returns wrong state as state codes can ne duplicate for different countries.
