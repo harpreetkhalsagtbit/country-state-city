@@ -224,7 +224,7 @@ Change Logs
 ---------------
 **v2.2.0** :: 
 
-1. State, City Database update by (dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
+1. State, City Database update by [(dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
 
 **v2.1.0** :: 
 
