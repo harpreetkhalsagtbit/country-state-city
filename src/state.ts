@@ -1,4 +1,3 @@
-import Country from './country';
 import stateList from '../lib/state.json';
 
 export default class State {
@@ -16,16 +15,12 @@ export default class State {
 		return states.sort((a: State, b: State) => (a.name > b.name ? 1 : -1));
 	}
 
-	// Find a country by it's ISO code and the country in which it is contained.
-	static byIsoCodeAndCountry(isoCode: string, country: Country): State | null {
-		if (isoCode && country.isoCode && stateList != null) {
-			const codex = stateList.findIndex((c: any) => {
-				return c.isoCode === isoCode && c.countryCode === country.isoCode;
-			});
-			return codex !== -1 ? stateList[codex] : null;
-		}
-
-		return null;
+	// Find a state by it's ISO code and the country in which it is contained.
+	static byIsoCodeAndCountry(isoCode: string, countryIsoCode: string): State | null {
+		const codex = stateList.findIndex((c: any) => {
+			return c.isoCode === isoCode && c.countryCode === countryIsoCode;
+		});
+		return codex !== -1 ? stateList[codex] : null;
 	}
 
 	// Get a list of all states.

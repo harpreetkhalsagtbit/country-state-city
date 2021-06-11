@@ -14,15 +14,11 @@ export default class Country {
 	) {}
 
 	static byIsoCode(isoCode: string): Country | null {
-		if (isoCode && countryList != null) {
-			const codex = countryList.findIndex((c: any) => {
-				return c.isoCode === isoCode;
-			});
+		const codex = countryList.findIndex((c: any) => {
+			return c.isoCode === isoCode;
+		});
 
-			return codex !== -1 ? countryList[codex] : null;
-		}
-
-		return null;
+		return codex !== -1 ? countryList[codex] : null;
 	}
 
 	static all(): Country[] {
