@@ -1,5 +1,9 @@
-import Country from './src/country';
-import State from './src/state';
-import City from './src/city';
+import Country from './lib/country';
+import State from './lib/state';
+import City from './lib/city';
 
-export { Country, State, City };
+export { Country };
+export { State };
+export { City };
+
+export default { Country, State, City };
