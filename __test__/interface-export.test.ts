@@ -9,7 +9,7 @@ function isValidCountryObjectStructure(object: any): object is ICountry {
 }
 
 test('Check for Interface export when Type Structure is Same', () => {
-	const country: ICountry = {
+	const country = {
 		name: 'India',
 		phonecode: '+91',
 		isoCode: 'IN',
@@ -25,7 +25,7 @@ test('Check for Interface export when Type Structure is Same', () => {
 				abbreviation: 'IST',
 				tzName: 'Indian Standard Time',
 			},
-		],
+		]
 	};
 	const isCountry = isValidCountryObjectStructure(country);
 	expect(isCountry).toEqual(true);

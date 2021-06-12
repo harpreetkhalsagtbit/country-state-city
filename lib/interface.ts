@@ -14,8 +14,8 @@ export interface ICountry {
 	latitude: string;
 	longitude: string;
 	timezones?: Timezones[];
-	getAllCountries(): ICountry[];
-	getCountryByCode(): ICountry;
+	getAllCountries?(): ICountry[];
+	getCountryByCode?(): ICountry;
 }
 
 export interface IState {
@@ -24,9 +24,9 @@ export interface IState {
 	countryCode: string;
 	latitude?: string | null;
 	longitude?: string | null;
-	getStatesOfCountry(): IState[];
-	getStateByCodeAndCountry(): IState;
-	getStateByCode(): IState;
+	getStatesOfCountry?(): IState[];
+	getStateByCodeAndCountry?(): IState;
+	getStateByCode?(): IState;
 }
 export interface ICity {
 	name: string;
@@ -34,7 +34,7 @@ export interface ICity {
 	stateCode: string;
 	latitude?: string | null;
 	longitude?: string | null;
-	getAllCities: ICity[];
-	getCitiesOfState: ICity[];
-	getCitiesOfCountry: ICity[];
+	getAllCities?(): ICity[];
+	getCitiesOfState?(): ICity[];
+	getCitiesOfCountry?(): ICity[];
 }
