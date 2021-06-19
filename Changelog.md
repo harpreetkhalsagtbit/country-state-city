@@ -8,8 +8,8 @@ Change Logs
     - ES6 Module usage
     
         ```js
-            // Latest version - v3.0.0
-            import { Country, State, City }  from 'country-state-city';
+        // Latest version - v3.0.0
+        import { Country, State, City }  from 'country-state-city';
         ```
 
     - AMD Module usage
