@@ -5,5 +5,3 @@ import City from './lib/city';
 export { Country };
 export { State };
 export { City };
-
-export default { Country, State, City };
