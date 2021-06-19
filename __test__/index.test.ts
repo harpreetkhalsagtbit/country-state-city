@@ -1,9 +1,11 @@
-import csc, { ICountry, ICity, IState } from '../index';
+/* eslint-disable no-shadow */
+import { Country, State, City } from '../index';
+import { ICountry, ICity, IState } from '../lib/interface';
 
-const executeAllTests = function (csc: any) {
+const executeAllTests = function (Country: any, State: any, City: any) {
 	test('Check for Country By Code ', () => {
 		const code = 'CA';
-		const country = csc.getCountryByCode(code);
+		const country: ICountry = Country.getCountryByCode(code);
 		expect(country).toEqual({
 			name: 'Canada',
 			phonecode: '1',
@@ -215,8 +217,8 @@ const executeAllTests = function (csc: any) {
 
 	test('Check for Canada States', () => {
 		const code = 'CA';
-		const country = csc.getCountryByCode(code);
-		const states = csc.getStatesOfCountry(country.isoCode);
+		const country: any = Country.getCountryByCode(code);
+		const states = State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -239,8 +241,8 @@ const executeAllTests = function (csc: any) {
 
 	test('Check All States for United States Of America', () => {
 		const code = 'US';
-		const country = csc.getCountryByCode(code);
-		const states = csc.getStatesOfCountry(country.isoCode);
+		const country: any = Country.getCountryByCode(code);
+		const states = State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -316,8 +318,8 @@ const executeAllTests = function (csc: any) {
 
 	test('Check States for India', () => {
 		const code = 'IN';
-		const country = csc.getCountryByCode(code);
-		const states = csc.getStatesOfCountry(country.isoCode);
+		const country: any = Country.getCountryByCode(code);
+		const states = State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -365,7 +367,7 @@ const executeAllTests = function (csc: any) {
 	test('Check Cities for Delhi', () => {
 		const countryCode = 'IN';
 		const stateCode = 'DL';
-		const cities = csc.getCitiesOfState(countryCode, stateCode);
+		const cities: any = City.getCitiesOfState(countryCode, stateCode);
 		const names = cities.map((city: ICity) => {
 			return city.name;
 		});
@@ -395,9 +397,9 @@ const executeAllTests = function (csc: any) {
 	test('Get State by State ISOCode and Country Code', () => {
 		const countryCode = 'PK';
 		const stateCode = 'KP';
-		const state = csc.getStateByCodeAndCountry(stateCode, countryCode);
+		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
 		expect(state.name).toEqual('Khyber Pakhtunkhwa');
 	});
 };
 export default executeAllTests;
-executeAllTests(csc);
+executeAllTests(Country, State, City);
