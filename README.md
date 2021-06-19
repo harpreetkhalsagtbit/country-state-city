@@ -16,7 +16,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
    
      ```js
 	// Latest version - v3.0.0 with Tree Shaking to reduce bundle size
-	import { Country, State, City } from '../index';
+	import { Country, State, City }  from 'country-state-city';
 	console.log(Country.getAllCountries())
 	console.log(State.getAllStates())
 

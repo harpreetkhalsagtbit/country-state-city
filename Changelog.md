@@ -9,7 +9,7 @@ Change Logs
     
         ```js
             // Latest version - v3.0.0
-            import { Country, State, City } from '../index';
+            import { Country, State, City }  from 'country-state-city';
         ```
 
     - AMD Module usage
