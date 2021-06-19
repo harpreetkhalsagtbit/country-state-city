@@ -4,7 +4,6 @@ Change Logs
 1. Refactoring of complete package to make this package - Tree shakable [Fix:60](https://github.com/harpreetkhalsagtbit/country-state-city/issues/60).
 2. Change in usage:
 
-    ## Release : `v3.0.0` (Major Version Release - Not backward compatible)
     - ES6 Module usage
     
         ```js
