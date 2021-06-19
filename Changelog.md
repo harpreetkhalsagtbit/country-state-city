@@ -23,36 +23,6 @@ Change Logs
         console.log(State.getAllStates())
         ```
 
-    ## Release : `v2.0.0` (Major Version Release - Not backward compatible)
-    - ES6 Module usage
-    
-        ```js
-        import csc from 'country-state-city'
-
-        // Import Interfaces`
-        import { ICountry, IState, ICity } from 'country-state-city'
-        ```
-    - AMD Module usage
-    
-        ```js
-        let csc = require('country-state-city').default
-        ```
-
-
-    ## For versions `v0.1.8 and below`
-
-    - ES6 Module usage
-    
-        ```js
-        import csc from 'country-state-city'
-        ```
-
-    - AMD Module usage
-    
-        ```js
-        let csc = require('country-state-city')
-        ```
-
 **v2.2.0** :: 
 
 1. State, City Database update by [(dr5hn)](https://github.com/dr5hn/countries-states-cities-database)
