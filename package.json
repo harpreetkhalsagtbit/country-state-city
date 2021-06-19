@@ -1,6 +1,6 @@
 {
   "name": "country-state-city",
-  "version": "2.1.0-beta.2",
+  "version": "3.0.0",
   "description": "Library for fetching Country, its States and Cities",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
