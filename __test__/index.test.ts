@@ -215,6 +215,12 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		});
 	});
 
+	test('Check for Country By undefined Code ', () => {
+		let code;
+		const country: ICountry = Country.getCountryByCode();
+		expect(country).toEqual(code);
+	});
+
 	test('Check for Canada States', () => {
 		const code = 'CA';
 		const country: any = Country.getCountryByCode(code);
@@ -364,6 +370,12 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		]);
 	});
 
+	test('Check States for undefined code', () => {
+		let code;
+		const states = State.getStatesOfCountry(code);
+		expect(states.length).toEqual(0);
+	});
+
 	test('Check Cities for Delhi', () => {
 		const countryCode = 'IN';
 		const stateCode = 'DL';
@@ -394,12 +406,42 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		]);
 	});
 
+	test('Check Cities for undefined State', () => {
+		let countryCode;
+		const stateCode = 'DL';
+		const cities: any = City.getCitiesOfState(countryCode, stateCode);
+
+		expect(cities.length).toEqual(0);
+	});
+
+	test('Check Cities for undefined State', () => {
+		const countryCode = 'IN';
+		let stateCode;
+		const cities: any = City.getCitiesOfState(countryCode, stateCode);
+		expect(cities.length).toEqual(0);
+	});
+
 	test('Get State by State ISOCode and Country Code', () => {
 		const countryCode = 'PK';
 		const stateCode = 'KP';
 		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
 		expect(state.name).toEqual('Khyber Pakhtunkhwa');
 	});
+
+	test('Get State by State ISOCode undefined and Country Code', () => {
+		const countryCode = 'PK';
+		let stateCode;
+		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
+		expect(state).toEqual(undefined);
+	});
+
+	test('Get State by State and Country Code undefined', () => {
+		let countryCode;
+		const stateCode = 'KP';
+		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
+		expect(state).toEqual(undefined);
+	});
+
 };
 export default executeAllTests;
 executeAllTests(Country, State, City);

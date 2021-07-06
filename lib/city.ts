@@ -8,9 +8,9 @@ function getAllCities(): ICity[] {
 }
 
 // Get a list of cities belonging to a specific state and country.
-function getCitiesOfState(countryCode: string, stateCode: string): ICity[] | '' {
-	if (!stateCode) return '';
-	if (!countryCode) return '';
+function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
+	if (!stateCode) return [];
+	if (!countryCode) return [];
 
 	const cities = cityList.filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
@@ -19,8 +19,8 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] | '' 
 }
 
 // Get a list of cities belonging to a specific country.
-function getCitiesOfCountry(countryCode: string): ICity[] | '' {
-	if (!countryCode) return '';
+function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
+	if (!countryCode) return [];
 
 	const cities = cityList.filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;

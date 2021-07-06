@@ -1,5 +1,10 @@
 Change Logs
 ---------------
+
+**v3.0.1** :: 
+1. Return `undefined` instead of empty string for invalid inputs for functions like -  `State.getStateByCodeAndCountry()`, `State.getStateByCode()`(to be deprecate soon), `Country.getCountryByCode()`
+2. Return empty Array value - `[]` instead of undefined for invalid inputs for functions like - `City.getCitiesOfCountry()`, `City.getCitiesOfState()`, `State.getStatesOfCountry()`
+
 **v3.0.0** :: 
 1. Refactoring of complete package to make this package - Tree shakable [Fix:60](https://github.com/harpreetkhalsagtbit/country-state-city/issues/60).
 2. Change in usage:
