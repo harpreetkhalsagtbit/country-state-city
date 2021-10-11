@@ -1176,7 +1176,7 @@
         "longitude": "34.55837660"
     },
     {
-        "name": "Uasin Gishu District",
+        "name": "Uasin Gishu",
         "isoCode": "44",
         "countryCode": "KE",
         "latitude": "0.55276380",
@@ -1407,14 +1407,14 @@
         "longitude": "35.47819260"
     },
     {
-        "name": "Vihiga District",
+        "name": "Vihiga County",
         "isoCode": "45",
         "countryCode": "KE",
         "latitude": "0.07675530",
         "longitude": "34.70776650"
     },
     {
-        "name": "Nakuru District",
+        "name": "Nakuru County",
         "isoCode": "31",
         "countryCode": "KE",
         "latitude": "-0.30309880",
@@ -1456,7 +1456,7 @@
         "longitude": "35.39050460"
     },
     {
-        "name": "Nyamira District",
+        "name": "Nyamira County",
         "isoCode": "34",
         "countryCode": "KE",
         "latitude": "-0.56694050",
@@ -2009,126 +2009,126 @@
         "longitude": "-80.36586500"
     },
     {
-        "name": "Jigawa State",
+        "name": "Jigawa",
         "isoCode": "JI",
         "countryCode": "NG",
         "latitude": "12.22801200",
         "longitude": "9.56158670"
     },
     {
-        "name": "Enugu State",
+        "name": "Enugu",
         "isoCode": "EN",
         "countryCode": "NG",
         "latitude": "6.53635300",
         "longitude": "7.43561940"
     },
     {
-        "name": "Kebbi State",
+        "name": "Kebbi",
         "isoCode": "KE",
         "countryCode": "NG",
         "latitude": "11.49420030",
         "longitude": "4.23333550"
     },
     {
-        "name": "Benue State",
+        "name": "Benue",
         "isoCode": "BE",
         "countryCode": "NG",
         "latitude": "7.33690240",
         "longitude": "8.74036870"
     },
     {
-        "name": "Sokoto State",
+        "name": "Sokoto",
         "isoCode": "SO",
         "countryCode": "NG",
         "latitude": "13.05331430",
         "longitude": "5.32227220"
     },
     {
-        "name": "Federal Capital Territory",
+        "name": "Abuja Federal Capital Territory",
         "isoCode": "FC",
         "countryCode": "NG",
         "latitude": "8.89406910",
         "longitude": "7.18604020"
     },
     {
-        "name": "Kaduna State",
+        "name": "Kaduna",
         "isoCode": "KD",
         "countryCode": "NG",
         "latitude": "10.37640060",
         "longitude": "7.70945370"
     },
     {
-        "name": "Kwara State",
+        "name": "Kwara",
         "isoCode": "KW",
         "countryCode": "NG",
         "latitude": "8.96689610",
         "longitude": "4.38740510"
     },
     {
-        "name": "Oyo State",
+        "name": "Oyo",
         "isoCode": "OY",
         "countryCode": "NG",
         "latitude": "8.15738090",
         "longitude": "3.61465340"
     },
     {
-        "name": "Yobe State",
+        "name": "Yobe",
         "isoCode": "YO",
         "countryCode": "NG",
         "latitude": "12.29387600",
         "longitude": "11.43904110"
     },
     {
-        "name": "Kogi State",
+        "name": "Kogi",
         "isoCode": "KO",
         "countryCode": "NG",
         "latitude": "7.73373250",
         "longitude": "6.69058360"
     },
     {
-        "name": "Zamfara State",
+        "name": "Zamfara",
         "isoCode": "ZA",
         "countryCode": "NG",
         "latitude": "12.12218050",
         "longitude": "6.22358190"
     },
     {
-        "name": "Kano State",
+        "name": "Kano",
         "isoCode": "KN",
         "countryCode": "NG",
         "latitude": "11.74706980",
         "longitude": "8.52471070"
     },
     {
-        "name": "Nasarawa State",
+        "name": "Nasarawa",
         "isoCode": "NA",
         "countryCode": "NG",
         "latitude": "8.49979080",
         "longitude": "8.19969370"
     },
     {
-        "name": "Plateau State",
+        "name": "Plateau",
         "isoCode": "PL",
         "countryCode": "NG",
         "latitude": "9.21820930",
         "longitude": "9.51794880"
     },
     {
-        "name": "Abia State",
+        "name": "Abia",
         "isoCode": "AB",
         "countryCode": "NG",
         "latitude": "5.45273540",
         "longitude": "7.52484140"
     },
     {
-        "name": "Akwa Ibom State",
+        "name": "Akwa Ibom",
         "isoCode": "AK",
         "countryCode": "NG",
         "latitude": "4.90573710",
         "longitude": "7.85366750"
     },
     {
-        "name": "Bayelsa State",
+        "name": "Bayelsa",
         "isoCode": "BY",
         "countryCode": "NG",
         "latitude": "4.77190710",
@@ -2142,119 +2142,119 @@
         "longitude": "3.37920570"
     },
     {
-        "name": "Borno State",
+        "name": "Borno",
         "isoCode": "BO",
         "countryCode": "NG",
         "latitude": "11.88463560",
         "longitude": "13.15196650"
     },
     {
-        "name": "Imo State",
+        "name": "Imo",
         "isoCode": "IM",
         "countryCode": "NG",
         "latitude": "5.57201220",
         "longitude": "7.05882190"
     },
     {
-        "name": "Ekiti State",
+        "name": "Ekiti",
         "isoCode": "EK",
         "countryCode": "NG",
         "latitude": "7.71898620",
         "longitude": "5.31095050"
     },
     {
-        "name": "Gombe State",
+        "name": "Gombe",
         "isoCode": "GO",
         "countryCode": "NG",
         "latitude": "10.36377950",
         "longitude": "11.19275870"
     },
     {
-        "name": "Ebonyi State",
+        "name": "Ebonyi",
         "isoCode": "EB",
         "countryCode": "NG",
         "latitude": "6.26492320",
         "longitude": "8.01373020"
     },
     {
-        "name": "Bauchi State",
+        "name": "Bauchi",
         "isoCode": "BA",
         "countryCode": "NG",
         "latitude": "10.77606240",
         "longitude": "9.99919430"
     },
     {
-        "name": "Katsina State",
+        "name": "Katsina",
         "isoCode": "KT",
         "countryCode": "NG",
         "latitude": "12.37967070",
         "longitude": "7.63057480"
     },
     {
-        "name": "Cross River State",
+        "name": "Cross River",
         "isoCode": "CR",
         "countryCode": "NG",
         "latitude": "5.87017240",
         "longitude": "8.59880140"
     },
     {
-        "name": "Anambra State",
+        "name": "Anambra",
         "isoCode": "AN",
         "countryCode": "NG",
         "latitude": "6.22089970",
         "longitude": "6.93695590"
     },
     {
-        "name": "Delta State",
+        "name": "Delta",
         "isoCode": "DE",
         "countryCode": "NG",
         "latitude": "33.74537840",
         "longitude": "-90.73545080"
     },
     {
-        "name": "Niger State",
+        "name": "Niger",
         "isoCode": "NI",
         "countryCode": "NG",
         "latitude": "9.93092240",
         "longitude": "5.59832100"
     },
     {
-        "name": "Edo State",
+        "name": "Edo",
         "isoCode": "ED",
         "countryCode": "NG",
         "latitude": "6.63418310",
         "longitude": "5.93040560"
     },
     {
-        "name": "Taraba State",
+        "name": "Taraba",
         "isoCode": "TA",
         "countryCode": "NG",
         "latitude": "7.99936160",
         "longitude": "10.77398630"
     },
     {
-        "name": "Adamawa State",
+        "name": "Adamawa",
         "isoCode": "AD",
         "countryCode": "NG",
         "latitude": "9.32647510",
         "longitude": "12.39838530"
     },
     {
-        "name": "Ondo State",
+        "name": "Ondo",
         "isoCode": "ON",
         "countryCode": "NG",
         "latitude": "6.91486820",
         "longitude": "5.14781440"
     },
     {
-        "name": "Osun State",
+        "name": "Osun",
         "isoCode": "OS",
         "countryCode": "NG",
         "latitude": "7.56289640",
         "longitude": "4.51995930"
     },
     {
-        "name": "Ogun State",
+        "name": "Ogun",
         "isoCode": "OG",
         "countryCode": "NG",
         "latitude": "6.99797470",
@@ -9982,203 +9982,203 @@
         "longitude": "-120.74013850"
     },
     {
-        "name": "Shinyanga Region",
+        "name": "Shinyanga",
         "isoCode": "22",
         "countryCode": "TZ",
         "latitude": "-3.68099610",
         "longitude": "33.42714030"
     },
     {
-        "name": "Simiyu Region",
+        "name": "Simiyu",
         "isoCode": "30",
         "countryCode": "TZ",
         "latitude": "-2.83087380",
         "longitude": "34.15319470"
     },
     {
-        "name": "Kagera Region",
+        "name": "Kagera",
         "isoCode": "05",
         "countryCode": "TZ",
         "latitude": "-1.30011150",
         "longitude": "31.26263660"
     },
     {
-        "name": "Dodoma Region",
+        "name": "Dodoma",
         "isoCode": "03",
         "countryCode": "TZ",
         "latitude": "-6.57382280",
         "longitude": "36.26308460"
     },
     {
-        "name": "Kilimanjaro Region",
+        "name": "Kilimanjaro",
         "isoCode": "09",
         "countryCode": "TZ",
         "latitude": "-4.13369270",
         "longitude": "37.80876930"
     },
     {
-        "name": "Mara Region",
+        "name": "Mara",
         "isoCode": "13",
         "countryCode": "TZ",
         "latitude": "-1.77535380",
         "longitude": "34.15319470"
     },
     {
-        "name": "Tabora Region",
+        "name": "Tabora",
         "isoCode": "24",
         "countryCode": "TZ",
         "latitude": "-5.03421380",
         "longitude": "32.80844960"
     },
     {
-        "name": "Morogoro Region",
+        "name": "Morogoro",
         "isoCode": "16",
         "countryCode": "TZ",
         "latitude": "-8.81371730",
         "longitude": "36.95410700"
     },
     {
-        "name": "Zanzibar Central\/South Region",
+        "name": "Zanzibar South",
         "isoCode": "11",
         "countryCode": "TZ",
         "latitude": "-6.26428510",
         "longitude": "39.44502810"
     },
     {
-        "name": "South Pemba Region",
+        "name": "Pemba South",
         "isoCode": "10",
         "countryCode": "TZ",
         "latitude": "-5.31469610",
         "longitude": "39.75495110"
     },
     {
-        "name": "Zanzibar North Region",
+        "name": "Zanzibar North",
         "isoCode": "07",
         "countryCode": "TZ",
         "latitude": "-5.93950930",
         "longitude": "39.27910110"
     },
     {
-        "name": "Singida Region",
+        "name": "Singida",
         "isoCode": "23",
         "countryCode": "TZ",
         "latitude": "-6.74533520",
         "longitude": "34.15319470"
     },
     {
-        "name": "Zanzibar Urban\/West Region",
+        "name": "Zanzibar West",
         "isoCode": "15",
         "countryCode": "TZ",
         "latitude": "-6.22981360",
         "longitude": "39.25832930"
     },
     {
-        "name": "Mtwara Region",
+        "name": "Mtwara",
         "isoCode": "17",
         "countryCode": "TZ",
         "latitude": "-10.33984550",
         "longitude": "40.16574660"
     },
     {
-        "name": "Rukwa Region",
+        "name": "Rukwa",
         "isoCode": "20",
         "countryCode": "TZ",
         "latitude": "-8.01094440",
         "longitude": "31.44561790"
     },
     {
-        "name": "Kigoma Region",
+        "name": "Kigoma",
         "isoCode": "08",
         "countryCode": "TZ",
         "latitude": "-4.88240920",
         "longitude": "29.66150550"
     },
     {
-        "name": "Mwanza Region",
+        "name": "Mwanza",
         "isoCode": "18",
         "countryCode": "TZ",
         "latitude": "-2.46711970",
         "longitude": "32.89868120"
     },
     {
-        "name": "Njombe Region",
+        "name": "Njombe",
         "isoCode": "29",
         "countryCode": "TZ",
         "latitude": "-9.24226320",
         "longitude": "35.12687810"
     },
     {
-        "name": "Geita Region",
+        "name": "Geita",
         "isoCode": "27",
         "countryCode": "TZ",
         "latitude": "-2.82422570",
         "longitude": "32.26538870"
     },
     {
-        "name": "Katavi Region",
+        "name": "Katavi",
         "isoCode": "28",
         "countryCode": "TZ",
         "latitude": "-6.36771250",
         "longitude": "31.26263660"
     },
     {
-        "name": "Lindi Region",
+        "name": "Lindi",
         "isoCode": "12",
         "countryCode": "TZ",
         "latitude": "-9.23433940",
         "longitude": "38.31657250"
     },
     {
-        "name": "Manyara Region",
+        "name": "Manyara",
         "isoCode": "26",
         "countryCode": "TZ",
         "latitude": "-4.31500580",
         "longitude": "36.95410700"
     },
     {
-        "name": "Pwani Region",
+        "name": "Pwani",
         "isoCode": "19",
         "countryCode": "TZ",
         "latitude": "-7.32377140",
         "longitude": "38.82054540"
     },
     {
-        "name": "Ruvuma Region",
+        "name": "Ruvuma",
         "isoCode": "21",
         "countryCode": "TZ",
         "latitude": "-10.68787170",
         "longitude": "36.26308460"
     },
     {
-        "name": "Tanga Region",
+        "name": "Tanga",
         "isoCode": "25",
         "countryCode": "TZ",
         "latitude": "-5.30497890",
         "longitude": "38.31657250"
     },
     {
-        "name": "North Pemba Region",
+        "name": "Pemba North",
         "isoCode": "06",
         "countryCode": "TZ",
         "latitude": "-5.03193520",
         "longitude": "39.77555710"
     },
     {
-        "name": "Iringa Region",
+        "name": "Iringa",
         "isoCode": "04",
         "countryCode": "TZ",
         "latitude": "-7.78874420",
         "longitude": "35.56578620"
     },
     {
-        "name": "Dar es Salaam Region",
+        "name": "Dar es Salaam",
         "isoCode": "02",
         "countryCode": "TZ",
         "latitude": "-6.79235400",
         "longitude": "39.20832840"
     },
     {
-        "name": "Arusha Region",
+        "name": "Arusha",
         "isoCode": "01",
         "countryCode": "TZ",
         "latitude": "-3.38692540",
@@ -12278,7 +12278,7 @@
         "longitude": "9.76786870"
     },
     {
-        "name": "North Sumatra",
+        "name": "Sumatera Utara",
         "isoCode": "SU",
         "countryCode": "ID",
         "latitude": "2.11535470",
@@ -12292,32 +12292,25 @@
         "longitude": "102.26076410"
     },
     {
-        "name": "Central Kalimantan",
+        "name": "Kalimantan Tengah",
         "isoCode": "KT",
         "countryCode": "ID",
         "latitude": "-1.68148780",
         "longitude": "113.38235450"
     },
     {
-        "name": "South Sulawesi",
+        "name": "Sulawesi Selatan",
         "isoCode": "SN",
         "countryCode": "ID",
         "latitude": "-3.66879940",
         "longitude": "119.97405340"
     },
     {
-        "name": "Southeast Sulawesi",
+        "name": "Sulawesi Tenggara",
         "isoCode": "SG",
         "countryCode": "ID",
         "latitude": "-4.14491000",
         "longitude": "122.17460500"
-    },
-    {
-        "name": "Sumatra",
-        "isoCode": "SM",
-        "countryCode": "ID",
-        "latitude": "-0.58972400",
-        "longitude": "101.34310580"
     },
     {
         "name": "Papua",
@@ -12327,7 +12320,7 @@
         "longitude": "141.34701590"
     },
     {
-        "name": "West Papua",
+        "name": "Papua Barat",
         "isoCode": "PB",
         "countryCode": "ID",
         "latitude": "-1.33611540",
@@ -12341,56 +12334,49 @@
         "longitude": "130.14527340"
     },
     {
-        "name": "North Maluku",
+        "name": "Maluku Utara",
         "isoCode": "MU",
         "countryCode": "ID",
         "latitude": "1.57099930",
         "longitude": "127.80876930"
     },
     {
-        "name": "Central Java",
+        "name": "Jawa Tengah",
         "isoCode": "JT",
         "countryCode": "ID",
         "latitude": "-7.15097500",
         "longitude": "110.14025940"
     },
     {
-        "name": "Sulawesi",
-        "isoCode": "SL",
-        "countryCode": "ID",
-        "latitude": "-1.84790000",
-        "longitude": "120.52790000"
-    },
-    {
-        "name": "East Kalimantan",
+        "name": "Kalimantan Timur",
         "isoCode": "KI",
         "countryCode": "ID",
         "latitude": "0.53865860",
         "longitude": "116.41938900"
     },
     {
-        "name": "Jakarta",
+        "name": "DKI Jakarta",
         "isoCode": "JK",
         "countryCode": "ID",
         "latitude": "-6.20876340",
         "longitude": "106.84559900"
     },
     {
-        "name": "Kalimantan",
+        "name": "Kalimantan Barat",
         "isoCode": "KA",
         "countryCode": "ID",
         "latitude": "0.96188340",
         "longitude": "114.55484950"
     },
     {
-        "name": "Riau Islands",
+        "name": "Kepulauan Riau",
         "isoCode": "KR",
         "countryCode": "ID",
         "latitude": "3.94565140",
         "longitude": "108.14286690"
     },
     {
-        "name": "North Sulawesi",
+        "name": "Sulawesi Utara",
         "isoCode": "SA",
         "countryCode": "ID",
         "latitude": "0.62469320",
@@ -12425,14 +12411,14 @@
         "longitude": "123.05676930"
     },
     {
-        "name": "Central Sulawesi",
+        "name": "Sulawesi Tengah",
         "isoCode": "ST",
         "countryCode": "ID",
         "latitude": "-1.43002540",
         "longitude": "121.44561790"
     },
     {
-        "name": "West Nusa Tenggara",
+        "name": "Nusa Tenggara Barat",
         "isoCode": "NB",
         "countryCode": "ID",
         "latitude": "-8.65293340",
@@ -12446,46 +12432,39 @@
         "longitude": "103.61312030"
     },
     {
-        "name": "South Sumatra",
+        "name": "Sumatera Selatan",
         "isoCode": "SS",
         "countryCode": "ID",
         "latitude": "-3.31943740",
         "longitude": "103.91439900"
     },
     {
-        "name": "West Sulawesi",
+        "name": "Sulawesi Barat",
         "isoCode": "SR",
         "countryCode": "ID",
         "latitude": "-2.84413710",
         "longitude": "119.23207840"
     },
     {
-        "name": "East Nusa Tenggara",
+        "name": "Nusa Tenggara Timur",
         "isoCode": "NT",
         "countryCode": "ID",
         "latitude": "-8.65738190",
         "longitude": "121.07937050"
     },
     {
-        "name": "South Kalimantan",
+        "name": "Kalimantan Selatan",
         "isoCode": "KS",
         "countryCode": "ID",
         "latitude": "-3.09264150",
         "longitude": "115.28375850"
     },
     {
-        "name": "Bangka Belitung Islands",
+        "name": "Kepulauan Bangka Belitung",
         "isoCode": "BB",
         "countryCode": "ID",
         "latitude": "-2.74105130",
         "longitude": "106.44058720"
-    },
-    {
-        "name": "Lesser Sunda Islands",
-        "isoCode": "NU",
-        "countryCode": "ID",
-        "latitude": "-9.00000000",
-        "longitude": "120.00000000"
     },
     {
         "name": "Aceh",
@@ -12495,21 +12474,14 @@
         "longitude": "96.74939930"
     },
     {
-        "name": "Maluku Islands",
-        "isoCode": "ML",
-        "countryCode": "ID",
-        "latitude": "-2.86461660",
-        "longitude": "129.57659740"
-    },
-    {
-        "name": "North Kalimantan",
+        "name": "Kalimantan Utara",
         "isoCode": "KU",
         "countryCode": "ID",
         "latitude": "3.07309290",
         "longitude": "116.04138890"
     },
     {
-        "name": "West Java",
+        "name": "Jawa Barat",
         "isoCode": "JB",
         "countryCode": "ID",
         "latitude": "-7.09091100",
@@ -12523,21 +12495,21 @@
         "longitude": "115.09195090"
     },
     {
-        "name": "East Java",
+        "name": "Jawa Timur",
         "isoCode": "JI",
         "countryCode": "ID",
         "latitude": "-7.53606390",
         "longitude": "112.23840170"
     },
     {
-        "name": "West Sumatra",
+        "name": "Sumatera Barat",
         "isoCode": "SB",
         "countryCode": "ID",
         "latitude": "-0.73993970",
         "longitude": "100.80000510"
     },
     {
-        "name": "Special Region of Yogyakarta",
+        "name": "DI Yogyakarta",
         "isoCode": "YO",
         "countryCode": "ID",
         "latitude": "-7.87538490",
@@ -13853,7 +13825,7 @@
         "longitude": "-39.32062410"
     },
     {
-        "name": "Federal District",
+        "name": "Distrito Federal",
         "isoCode": "DF",
         "countryCode": "BR",
         "latitude": "-15.79976540",
@@ -15330,21 +15302,21 @@
         "longitude": "36.95410700"
     },
     {
-        "name": "Lisbon District",
+        "name": "Lisbon",
         "isoCode": "11",
         "countryCode": "PT",
         "latitude": "38.72232630",
         "longitude": "-9.13927140"
     },
     {
-        "name": "Bragança District",
+        "name": "Bragança",
         "isoCode": "04",
         "countryCode": "PT",
         "latitude": "41.80616520",
         "longitude": "-6.75674270"
     },
     {
-        "name": "Beja District",
+        "name": "Beja",
         "isoCode": "02",
         "countryCode": "PT",
         "latitude": "37.96877860",
@@ -15358,105 +15330,105 @@
         "longitude": "-16.95947230"
     },
     {
-        "name": "Portalegre District",
+        "name": "Portalegre",
         "isoCode": "12",
         "countryCode": "PT",
         "latitude": "39.29670860",
         "longitude": "-7.42847550"
     },
     {
-        "name": "Azores",
+        "name": "Açores",
         "isoCode": "20",
         "countryCode": "PT",
         "latitude": "37.74124880",
         "longitude": "-25.67559440"
     },
     {
-        "name": "Vila Real District",
+        "name": "Vila Real",
         "isoCode": "17",
         "countryCode": "PT",
         "latitude": "41.30035270",
         "longitude": "-7.74572740"
     },
     {
-        "name": "Aveiro District",
+        "name": "Aveiro",
         "isoCode": "01",
         "countryCode": "PT",
         "latitude": "40.72090230",
         "longitude": "-8.57210160"
     },
     {
-        "name": "Évora District",
+        "name": "Évora",
         "isoCode": "07",
         "countryCode": "PT",
         "latitude": "38.57444680",
         "longitude": "-7.90765530"
     },
     {
-        "name": "Viseu District",
+        "name": "Viseu",
         "isoCode": "18",
         "countryCode": "PT",
         "latitude": "40.65884240",
         "longitude": "-7.91475600"
     },
     {
-        "name": "Santarém District",
+        "name": "Santarém",
         "isoCode": "14",
         "countryCode": "PT",
         "latitude": "39.23666870",
         "longitude": "-8.68599440"
     },
     {
-        "name": "Faro District",
+        "name": "Faro",
         "isoCode": "08",
         "countryCode": "PT",
         "latitude": "37.01935480",
         "longitude": "-7.93043970"
     },
     {
-        "name": "Leiria District",
+        "name": "Leiria",
         "isoCode": "10",
         "countryCode": "PT",
         "latitude": "39.77095320",
         "longitude": "-8.79218360"
     },
     {
-        "name": "Castelo Branco District",
+        "name": "Castelo Branco",
         "isoCode": "05",
         "countryCode": "PT",
         "latitude": "39.86313230",
         "longitude": "-7.48141630"
     },
     {
-        "name": "Setúbal District",
+        "name": "Setúbal",
         "isoCode": "15",
         "countryCode": "PT",
         "latitude": "38.52409330",
         "longitude": "-8.89258760"
     },
     {
-        "name": "Porto District",
+        "name": "Porto",
         "isoCode": "13",
         "countryCode": "PT",
         "latitude": "41.14766290",
         "longitude": "-8.60789730"
     },
     {
-        "name": "Braga District",
+        "name": "Braga",
         "isoCode": "03",
         "countryCode": "PT",
         "latitude": "41.55038800",
         "longitude": "-8.42613010"
     },
     {
-        "name": "Viana do Castelo District",
+        "name": "Viana do Castelo",
         "isoCode": "16",
         "countryCode": "PT",
         "latitude": "41.69180460",
         "longitude": "-8.83445100"
     },
     {
-        "name": "Coimbra District",
+        "name": "Coimbra",
         "isoCode": "06",
         "countryCode": "PT",
         "latitude": "40.20579940",
@@ -18858,63 +18830,49 @@
         "longitude": "10.98070030"
     },
     {
-        "name": "Tshuapa District",
+        "name": "Tshuapa",
         "isoCode": "TU",
         "countryCode": "CD",
         "latitude": "-0.99030230",
         "longitude": "23.02888440"
     },
     {
-        "name": "Tanganyika Province",
+        "name": "Tanganyika",
         "isoCode": "TA",
         "countryCode": "CD",
         "latitude": "-6.27401180",
         "longitude": "27.92490020"
     },
     {
-        "name": "Haut-Uele",
+        "name": "Haut-Uélé",
         "isoCode": "HU",
         "countryCode": "CD",
         "latitude": "3.58451540",
         "longitude": "28.29943500"
     },
     {
-        "name": "Kasaï-Oriental",
+        "name": "Kasaï Oriental",
         "isoCode": "KE",
         "countryCode": "CD",
         "latitude": "-6.03362300",
         "longitude": "23.57285010"
     },
     {
-        "name": "Orientale Province",
-        "isoCode": "OR",
-        "countryCode": "CD",
-        "latitude": "1.64062960",
-        "longitude": "26.41938900"
-    },
-    {
-        "name": "Kasaï-Occidental",
-        "isoCode": "KW",
-        "countryCode": "CD",
-        "latitude": "-5.32054730",
-        "longitude": "21.85685860"
-    },
-    {
-        "name": "South Kivu",
+        "name": "Sud-Kivu",
         "isoCode": "SK",
         "countryCode": "CD",
         "latitude": "-3.01165800",
         "longitude": "28.29943500"
     },
     {
-        "name": "Nord-Ubangi District",
+        "name": "Nord-Ubangi",
         "isoCode": "NU",
         "countryCode": "CD",
         "latitude": "3.78787260",
         "longitude": "21.47528510"
     },
     {
-        "name": "Kwango District",
+        "name": "Kwango",
         "isoCode": "KG",
         "countryCode": "CD",
         "latitude": "-6.43374090",
@@ -18928,14 +18886,14 @@
         "longitude": "15.26629310"
     },
     {
-        "name": "Katanga Province",
-        "isoCode": "KA",
+        "name": "Kasaï Central",
+        "isoCode": "KC",
         "countryCode": "CD",
-        "latitude": "-8.88511450",
-        "longitude": "26.41938900"
+        "latitude": "-8.44045910",
+        "longitude": "20.41659340"
     },
     {
-        "name": "Sankuru District",
+        "name": "Sankuru",
         "isoCode": "SA",
         "countryCode": "CD",
         "latitude": "-2.84374530",
@@ -18956,14 +18914,14 @@
         "longitude": "26.04138890"
     },
     {
-        "name": "Bas-Congo province",
+        "name": "Kongo Central",
         "isoCode": "BC",
         "countryCode": "CD",
         "latitude": "-5.23656850",
         "longitude": "13.91439900"
     },
     {
-        "name": "Lomami Province",
+        "name": "Lomami",
         "isoCode": "LO",
         "countryCode": "CD",
         "latitude": "-6.14539310",
@@ -18977,77 +18935,70 @@
         "longitude": "19.18800470"
     },
     {
-        "name": "North Kivu",
+        "name": "Nord-Kivu",
         "isoCode": "NK",
         "countryCode": "CD",
         "latitude": "-0.79177290",
         "longitude": "29.04599270"
     },
     {
-        "name": "Haut-Katanga Province",
+        "name": "Haut-Katanga",
         "isoCode": "HK",
         "countryCode": "CD",
         "latitude": "-10.41020750",
         "longitude": "27.54958460"
     },
     {
-        "name": "Ituri Interim Administration",
+        "name": "Ituri",
         "isoCode": "IT",
         "countryCode": "CD",
         "latitude": "1.59576820",
         "longitude": "29.41793240"
     },
     {
-        "name": "Mongala District",
+        "name": "Mongala",
         "isoCode": "MO",
         "countryCode": "CD",
         "latitude": "1.99623240",
         "longitude": "21.47528510"
     },
     {
-        "name": "Bas-Uele",
+        "name": "Bas-Uélé",
         "isoCode": "BU",
         "countryCode": "CD",
         "latitude": "3.99010090",
         "longitude": "24.90422080"
     },
     {
-        "name": "Bandundu Province",
-        "isoCode": "BN",
-        "countryCode": "CD",
-        "latitude": "-4.16367900",
-        "longitude": "18.80761950"
-    },
-    {
-        "name": "Mai-Ndombe Province",
+        "name": "Mai-Ndombe",
         "isoCode": "MN",
         "countryCode": "CD",
         "latitude": "-2.63574340",
         "longitude": "18.42760470"
     },
     {
-        "name": "Tshopo District",
+        "name": "Tshopo",
         "isoCode": "TO",
         "countryCode": "CD",
         "latitude": "0.54554620",
         "longitude": "24.90422080"
     },
     {
-        "name": "Kasaï District",
+        "name": "Kasaï",
         "isoCode": "KS",
         "countryCode": "CD",
         "latitude": "-5.04719790",
         "longitude": "20.71224650"
     },
     {
-        "name": "Haut-Lomami District",
+        "name": "Haut-Lomami",
         "isoCode": "HL",
         "countryCode": "CD",
         "latitude": "-7.70527520",
         "longitude": "24.90422080"
     },
     {
-        "name": "Kwilu District",
+        "name": "Kwilu",
         "isoCode": "KL",
         "countryCode": "CD",
         "latitude": "-5.11888250",
@@ -19495,49 +19446,49 @@
         "longitude": "43.36807880"
     },
     {
-        "name": "Atacama Region",
+        "name": "Atacama",
         "isoCode": "AT",
         "countryCode": "CL",
         "latitude": "-27.56605580",
         "longitude": "-70.05031400"
     },
     {
-        "name": "Santiago Metropolitan Region",
+        "name": "Región Metropolitana de Santiago",
         "isoCode": "RM",
         "countryCode": "CL",
         "latitude": "-33.43755450",
         "longitude": "-70.65048960"
     },
     {
-        "name": "Coquimbo Region",
+        "name": "Coquimbo",
         "isoCode": "CO",
         "countryCode": "CL",
         "latitude": "-30.54018100",
         "longitude": "-70.81199530"
     },
     {
-        "name": "Araucanía Region",
+        "name": "La Araucanía",
         "isoCode": "AR",
         "countryCode": "CL",
         "latitude": "-38.94892100",
         "longitude": "-72.33111300"
     },
     {
-        "name": "Bío Bío Region",
+        "name": "Biobío",
         "isoCode": "BI",
         "countryCode": "CL",
         "latitude": "-37.44644280",
         "longitude": "-72.14161320"
     },
     {
-        "name": "Aysén Region",
+        "name": "Aisén del General Carlos Ibañez del Campo",
         "isoCode": "AI",
         "countryCode": "CL",
         "latitude": "-46.37834500",
         "longitude": "-72.30076230"
     },
     {
-        "name": "Arica y Parinacota Region",
+        "name": "Arica y Parinacota",
         "isoCode": "AP",
         "countryCode": "CL",
         "latitude": "-18.59404850",
@@ -19551,56 +19502,56 @@
         "longitude": "-71.61268850"
     },
     {
-        "name": "Ñuble Region",
+        "name": "Ñuble",
         "isoCode": "NB",
         "countryCode": "CL",
         "latitude": "-36.72257430",
         "longitude": "-71.76224810"
     },
     {
-        "name": "Antofagasta Region",
+        "name": "Antofagasta",
         "isoCode": "AN",
         "countryCode": "CL",
         "latitude": "-23.83691040",
         "longitude": "-69.28775350"
     },
     {
-        "name": "Maule Region",
+        "name": "Maule",
         "isoCode": "ML",
         "countryCode": "CL",
         "latitude": "-35.51636030",
         "longitude": "-71.57239530"
     },
     {
-        "name": "Los Ríos Region",
+        "name": "Los Ríos",
         "isoCode": "LR",
         "countryCode": "CL",
         "latitude": "-40.23102170",
         "longitude": "-72.33111300"
     },
     {
-        "name": "Los Lagos Region",
+        "name": "Los Lagos",
         "isoCode": "LL",
         "countryCode": "CL",
         "latitude": "-41.91977790",
         "longitude": "-72.14161320"
     },
     {
-        "name": "Magellan and the Chilean Antarctic Region",
+        "name": "Magallanes y de la Antártica Chilena",
         "isoCode": "MA",
         "countryCode": "CL",
         "latitude": "-52.20643160",
         "longitude": "-72.16850010"
     },
     {
-        "name": "Tarapacá Region",
+        "name": "Tarapacá",
         "isoCode": "TA",
         "countryCode": "CL",
         "latitude": "-20.20287990",
         "longitude": "-69.28775350"
     },
     {
-        "name": "O'Higgins",
+        "name": "Libertador General Bernardo O'Higgins",
         "isoCode": "LI",
         "countryCode": "CL",
         "latitude": "-34.57553740",
@@ -19677,49 +19628,49 @@
         "longitude": "-55.66896360"
     },
     {
-        "name": "Riyadh Region",
+        "name": "Riyadh",
         "isoCode": "01",
         "countryCode": "SA",
         "latitude": "22.75543850",
         "longitude": "46.20915470"
     },
     {
-        "name": "Makkah Region",
+        "name": "Makkah",
         "isoCode": "02",
         "countryCode": "SA",
         "latitude": "21.52355840",
         "longitude": "41.91964710"
     },
     {
-        "name": "Al Madinah Region",
+        "name": "Al Madinah",
         "isoCode": "03",
         "countryCode": "SA",
         "latitude": "24.84039770",
         "longitude": "39.32062410"
     },
     {
-        "name": "Tabuk Region",
+        "name": "Tabuk",
         "isoCode": "07",
         "countryCode": "SA",
         "latitude": "28.24533350",
         "longitude": "37.63866220"
     },
     {
-        "name": "'Asir Region",
+        "name": "'Asir",
         "isoCode": "14",
         "countryCode": "SA",
         "latitude": "19.09690620",
         "longitude": "42.86378750"
     },
     {
-        "name": "Northern Borders Region",
+        "name": "Northern Borders",
         "isoCode": "08",
         "countryCode": "SA",
         "latitude": "30.07991620",
         "longitude": "42.86378750"
     },
     {
-        "name": "Ha'il Region",
+        "name": "Ha'il",
         "isoCode": "06",
         "countryCode": "SA",
         "latitude": "27.70761430",
@@ -19729,39 +19680,39 @@
         "name": "Eastern Province",
         "isoCode": "04",
         "countryCode": "SA",
-        "latitude": null,
-        "longitude": null
+        "latitude": "24.04399320",
+        "longitude": "45.65892250"
     },
     {
-        "name": "Al Jawf Region",
+        "name": "Al Jawf",
         "isoCode": "12",
         "countryCode": "SA",
         "latitude": "29.88735600",
         "longitude": "39.32062410"
     },
     {
-        "name": "Jizan Region",
+        "name": "Jizan",
         "isoCode": "09",
         "countryCode": "SA",
         "latitude": "17.17381760",
         "longitude": "42.70761070"
     },
     {
-        "name": "Al Bahah Region",
+        "name": "Al Bahah",
         "isoCode": "11",
         "countryCode": "SA",
         "latitude": "20.27227390",
         "longitude": "41.44125100"
     },
     {
-        "name": "Najran Region",
+        "name": "Najran",
         "isoCode": "10",
         "countryCode": "SA",
         "latitude": "18.35146640",
         "longitude": "45.60071080"
     },
     {
-        "name": "Al-Qassim Region",
+        "name": "Al-Qassim",
         "isoCode": "05",
         "countryCode": "SA",
         "latitude": "26.20782600",
@@ -19852,28 +19803,28 @@
         "longitude": "14.84546190"
     },
     {
-        "name": "Quindío Department",
+        "name": "Quindío",
         "isoCode": "QUI",
         "countryCode": "CO",
         "latitude": "4.46101910",
         "longitude": "-75.66735600"
     },
     {
-        "name": "Cundinamarca Department",
+        "name": "Cundinamarca",
         "isoCode": "CUN",
         "countryCode": "CO",
         "latitude": "5.02600300",
         "longitude": "-74.03001220"
     },
     {
-        "name": "Chocó Department",
+        "name": "Chocó",
         "isoCode": "CHO",
         "countryCode": "CO",
         "latitude": "5.25280330",
         "longitude": "-76.82596520"
     },
     {
-        "name": "Norte de Santander Department",
+        "name": "Norte de Santander",
         "isoCode": "NSA",
         "countryCode": "CO",
         "latitude": "7.94628310",
@@ -19887,182 +19838,182 @@
         "longitude": "-104.97535950"
     },
     {
-        "name": "Risaralda Department",
+        "name": "Risaralda",
         "isoCode": "RIS",
         "countryCode": "CO",
         "latitude": "5.31584750",
         "longitude": "-75.99276520"
     },
     {
-        "name": "Atlántico Department",
+        "name": "Atlántico",
         "isoCode": "ATL",
         "countryCode": "CO",
         "latitude": "10.69661590",
         "longitude": "-74.87410450"
     },
     {
-        "name": "Arauca Department",
+        "name": "Arauca",
         "isoCode": "ARA",
         "countryCode": "CO",
         "latitude": "6.54730600",
         "longitude": "-71.00223110"
     },
     {
-        "name": "Guainía Department",
+        "name": "Guainía",
         "isoCode": "GUA",
         "countryCode": "CO",
         "latitude": "2.58539300",
         "longitude": "-68.52471490"
     },
     {
-        "name": "Tolima Department",
+        "name": "Tolima",
         "isoCode": "TOL",
         "countryCode": "CO",
         "latitude": "4.09251680",
         "longitude": "-75.15453810"
     },
     {
-        "name": "Cauca Department",
+        "name": "Cauca",
         "isoCode": "CAU",
         "countryCode": "CO",
         "latitude": "2.70498130",
         "longitude": "-76.82596520"
     },
     {
-        "name": "Vaupés Department",
+        "name": "Vaupés",
         "isoCode": "VAU",
         "countryCode": "CO",
         "latitude": "0.85535610",
         "longitude": "-70.81199530"
     },
     {
-        "name": "Magdalena Department",
+        "name": "Magdalena",
         "isoCode": "MAG",
         "countryCode": "CO",
         "latitude": "10.41130140",
         "longitude": "-74.40566120"
     },
     {
-        "name": "Caldas Department",
+        "name": "Caldas",
         "isoCode": "CAL",
         "countryCode": "CO",
         "latitude": "5.29826000",
         "longitude": "-75.24790610"
     },
     {
-        "name": "Guaviare Department",
+        "name": "Guaviare",
         "isoCode": "GUV",
         "countryCode": "CO",
         "latitude": "2.04392400",
         "longitude": "-72.33111300"
     },
     {
-        "name": "La Guajira Department",
+        "name": "La Guajira",
         "isoCode": "LAG",
         "countryCode": "CO",
         "latitude": "11.35477430",
         "longitude": "-72.52048270"
     },
     {
-        "name": "Antioquia Department",
+        "name": "Antioquia",
         "isoCode": "ANT",
         "countryCode": "CO",
         "latitude": "7.19860640",
         "longitude": "-75.34121790"
     },
     {
-        "name": "Caquetá Department",
+        "name": "Caquetá",
         "isoCode": "CAQ",
         "countryCode": "CO",
         "latitude": "0.86989200",
         "longitude": "-73.84190630"
     },
     {
-        "name": "Casanare Department",
+        "name": "Casanare",
         "isoCode": "CAS",
         "countryCode": "CO",
         "latitude": "5.75892690",
         "longitude": "-71.57239530"
     },
     {
-        "name": "Bolívar Department",
+        "name": "Bolívar",
         "isoCode": "BOL",
         "countryCode": "CO",
         "latitude": "8.67043820",
         "longitude": "-74.03001220"
     },
     {
-        "name": "Vichada Department",
+        "name": "Vichada",
         "isoCode": "VID",
         "countryCode": "CO",
         "latitude": "4.42344520",
         "longitude": "-69.28775350"
     },
     {
-        "name": "Amazonas Department",
+        "name": "Amazonas",
         "isoCode": "AMA",
         "countryCode": "CO",
         "latitude": "-1.44291230",
         "longitude": "-71.57239530"
     },
     {
-        "name": "Putumayo Department",
+        "name": "Putumayo",
         "isoCode": "PUT",
         "countryCode": "CO",
         "latitude": "0.43595060",
         "longitude": "-75.52766990"
     },
     {
-        "name": "Nariño Department",
+        "name": "Nariño",
         "isoCode": "NAR",
         "countryCode": "CO",
         "latitude": "1.28915100",
         "longitude": "-77.35794000"
     },
     {
-        "name": "Córdoba Department",
+        "name": "Córdoba",
         "isoCode": "COR",
         "countryCode": "CO",
         "latitude": "8.04929300",
         "longitude": "-75.57405000"
     },
     {
-        "name": "Cesar Department",
+        "name": "Cesar",
         "isoCode": "CES",
         "countryCode": "CO",
         "latitude": "9.33729480",
         "longitude": "-73.65362090"
     },
     {
-        "name": "Archipelago of Saint Andréws, Providence and Saint Catalina",
+        "name": "San Andrés, Providencia y Santa Catalina",
         "isoCode": "SAP",
         "countryCode": "CO",
         "latitude": "12.55673240",
         "longitude": "-81.71852530"
     },
     {
-        "name": "Santander Department",
+        "name": "Santander",
         "isoCode": "SAN",
         "countryCode": "CO",
         "latitude": "6.64370760",
         "longitude": "-73.65362090"
     },
     {
-        "name": "Sucre Department",
+        "name": "Sucre",
         "isoCode": "SUC",
         "countryCode": "CO",
         "latitude": "8.81397700",
         "longitude": "-74.72328300"
     },
     {
-        "name": "Boyacá Department",
+        "name": "Boyacá",
         "isoCode": "BOY",
         "countryCode": "CO",
         "latitude": "5.45451100",
         "longitude": "-73.36200300"
     },
     {
-        "name": "Valle del Cauca Department",
+        "name": "Valle del Cauca",
         "isoCode": "VAC",
         "countryCode": "CO",
         "latitude": "3.80088930",
@@ -22582,91 +22533,84 @@
         "longitude": "57.66657420"
     },
     {
-        "name": "Guelmim Province",
+        "name": "Guelmim",
         "isoCode": "GUE",
         "countryCode": "MA",
         "latitude": "28.98836590",
         "longitude": "-10.05274980"
     },
     {
-        "name": "Aousserd Province",
+        "name": "Aousserd (EH)",
         "isoCode": "AOU",
         "countryCode": "MA",
         "latitude": "22.55215380",
         "longitude": "-14.32973530"
     },
     {
-        "name": "Al Hoceïma Province",
+        "name": "Al Hoceïma",
         "isoCode": "HOC",
         "countryCode": "MA",
         "latitude": "35.24455890",
         "longitude": "-3.93174680"
     },
     {
-        "name": "Larache Province",
+        "name": "Larache",
         "isoCode": "LAR",
         "countryCode": "MA",
         "latitude": "35.17442710",
         "longitude": "-6.14739640"
     },
     {
-        "name": "Ouarzazate Province",
+        "name": "Ouarzazate",
         "isoCode": "OUA",
         "countryCode": "MA",
         "latitude": "30.93354360",
         "longitude": "-6.93701600"
     },
     {
-        "name": "Boulemane Province",
+        "name": "Boulemane",
         "isoCode": "BOM",
         "countryCode": "MA",
         "latitude": "33.36251590",
         "longitude": "-4.73033970"
     },
     {
-        "name": "Oriental",
+        "name": "L'Oriental",
         "isoCode": "02",
         "countryCode": "MA",
         "latitude": "37.06968300",
         "longitude": "-94.51227700"
     },
     {
-        "name": "Béni-Mellal Province",
+        "name": "Béni Mellal",
         "isoCode": "BEM",
         "countryCode": "MA",
         "latitude": "32.34244300",
         "longitude": "-6.37579900"
     },
     {
-        "name": "Sidi Youssef Ben Ali",
-        "isoCode": "SYB",
-        "countryCode": "MA",
-        "latitude": "31.60843730",
-        "longitude": "-7.96530670"
-    },
-    {
-        "name": "Chichaoua Province",
+        "name": "Chichaoua",
         "isoCode": "CHI",
         "countryCode": "MA",
         "latitude": "31.53835810",
         "longitude": "-8.76463880"
     },
     {
-        "name": "Boujdour Province",
+        "name": "Boujdour (EH)",
         "isoCode": "BOD",
         "countryCode": "MA",
         "latitude": "26.12524930",
         "longitude": "-14.48473470"
     },
     {
-        "name": "Khémisset Province",
+        "name": "Khémisset",
         "isoCode": "KHE",
         "countryCode": "MA",
         "latitude": "33.81537040",
         "longitude": "-6.05733020"
     },
     {
-        "name": "Tiznit Province",
+        "name": "Tiznit",
         "isoCode": "TIZ",
         "countryCode": "MA",
         "latitude": "29.69339200",
@@ -22680,63 +22624,63 @@
         "longitude": "-6.06791940"
     },
     {
-        "name": "Sidi Kacem Province",
+        "name": "Sidi Kacem",
         "isoCode": "SIK",
         "countryCode": "MA",
         "latitude": "34.22601720",
         "longitude": "-5.71291640"
     },
     {
-        "name": "El Jadida Province",
+        "name": "El Jadida",
         "isoCode": "JDI",
         "countryCode": "MA",
         "latitude": "33.23163260",
         "longitude": "-8.50071160"
     },
     {
-        "name": "Nador Province",
+        "name": "Nador",
         "isoCode": "NAD",
         "countryCode": "MA",
         "latitude": "34.91719260",
         "longitude": "-2.85771050"
     },
     {
-        "name": "Settat Province",
+        "name": "Settat",
         "isoCode": "SET",
         "countryCode": "MA",
         "latitude": "32.99242420",
         "longitude": "-7.62226650"
     },
     {
-        "name": "Zagora Province",
+        "name": "Zagora",
         "isoCode": "ZAG",
         "countryCode": "MA",
         "latitude": "30.57860930",
         "longitude": "-5.89871390"
     },
     {
-        "name": "Mediouna Province",
+        "name": "Médiouna",
         "isoCode": "MED",
         "countryCode": "MA",
         "latitude": "33.45409390",
         "longitude": "-7.51660200"
     },
     {
-        "name": "Berkane Province",
+        "name": "Berkane",
         "isoCode": "BER",
         "countryCode": "MA",
         "latitude": "34.88408760",
         "longitude": "-2.34188700"
     },
     {
-        "name": "Tan-Tan Province",
+        "name": "Tan-Tan (EH-partial)",
         "isoCode": "TNT",
         "countryCode": "MA",
         "latitude": "28.03012000",
         "longitude": "-11.16173560"
     },
     {
-        "name": "Nouaceur Province",
+        "name": "Nouaceur",
         "isoCode": "NOU",
         "countryCode": "MA",
         "latitude": "33.36703930",
@@ -22750,7 +22694,7 @@
         "longitude": "-8.13385580"
     },
     {
-        "name": "Sefrou Province",
+        "name": "Sefrou",
         "isoCode": "SEF",
         "countryCode": "MA",
         "latitude": "33.83052440",
@@ -22764,28 +22708,28 @@
         "longitude": "-5.39395510"
     },
     {
-        "name": "El Hajeb Province",
+        "name": "El Hajeb",
         "isoCode": "HAJ",
         "countryCode": "MA",
         "latitude": "33.68573500",
         "longitude": "-5.36778440"
     },
     {
-        "name": "Es Semara Province",
+        "name": "Es-Semara (EH-partial)",
         "isoCode": "ESM",
         "countryCode": "MA",
         "latitude": "26.74185600",
         "longitude": "-11.67836710"
     },
     {
-        "name": "Laâyoune Province",
+        "name": "Laâyoune (EH)",
         "isoCode": "LAA",
         "countryCode": "MA",
         "latitude": "27.15003840",
         "longitude": "-13.19907580"
     },
     {
-        "name": "Inezgane-Aït Melloul Prefecture",
+        "name": "Inezgane-Ait Melloul",
         "isoCode": "INE",
         "countryCode": "MA",
         "latitude": "30.35090980",
@@ -22799,49 +22743,49 @@
         "longitude": "-8.13385580"
     },
     {
-        "name": "Taza Province",
+        "name": "Taza",
         "isoCode": "TAZ",
         "countryCode": "MA",
         "latitude": "34.27889530",
         "longitude": "-3.58126920"
     },
     {
-        "name": "Assa-Zag Province",
+        "name": "Assa-Zag (EH-partial)",
         "isoCode": "ASZ",
         "countryCode": "MA",
         "latitude": "28.14023950",
         "longitude": "-9.72326730"
     },
     {
-        "name": "Laâyoune-Sakia El Hamra",
+        "name": "Laâyoune-Sakia El Hamra (EH-partial)",
         "isoCode": "11",
         "countryCode": "MA",
         "latitude": "27.86831940",
         "longitude": "-11.98046130"
     },
     {
-        "name": "Errachidia Province",
+        "name": "Errachidia",
         "isoCode": "ERR",
         "countryCode": "MA",
         "latitude": "31.90512750",
         "longitude": "-4.72775280"
     },
     {
-        "name": "Fahs Anjra Province",
+        "name": "Fahs-Anjra",
         "isoCode": "FAH",
         "countryCode": "MA",
         "latitude": "35.76019920",
         "longitude": "-5.66683060"
     },
     {
-        "name": "Figuig Province",
+        "name": "Figuig",
         "isoCode": "FIG",
         "countryCode": "MA",
         "latitude": "32.10926130",
         "longitude": "-1.22980600"
     },
     {
-        "name": "Shtouka Ait Baha Province",
+        "name": "Chtouka-Ait Baha",
         "isoCode": "CHT",
         "countryCode": "MA",
         "latitude": "30.10724220",
@@ -22855,63 +22799,63 @@
         "longitude": "-7.43813550"
     },
     {
-        "name": "Ben Slimane Province",
+        "name": "Benslimane",
         "isoCode": "BES",
         "countryCode": "MA",
         "latitude": "33.61896980",
         "longitude": "-7.13055360"
     },
     {
-        "name": "Guelmim-Oued Noun",
+        "name": "Guelmim-Oued Noun (EH-partial)",
         "isoCode": "10",
         "countryCode": "MA",
         "latitude": "28.48442810",
         "longitude": "-10.08072980"
     },
     {
-        "name": "Dakhla-Oued Ed-Dahab",
+        "name": "Dakhla-Oued Ed-Dahab (EH)",
         "isoCode": "12",
         "countryCode": "MA",
         "latitude": "22.73378920",
         "longitude": "-14.28611160"
     },
     {
-        "name": "Jerada Province",
+        "name": "Jerada",
         "isoCode": "JRA",
         "countryCode": "MA",
         "latitude": "34.30617910",
         "longitude": "-2.17941360"
     },
     {
-        "name": "Kénitra Province",
+        "name": "Kénitra",
         "isoCode": "KEN",
         "countryCode": "MA",
         "latitude": "34.25405030",
         "longitude": "-6.58901660"
     },
     {
-        "name": "Kelaat Sraghna Province",
+        "name": "El Kelâa des Sraghna",
         "isoCode": "KES",
         "countryCode": "MA",
         "latitude": "32.05227670",
         "longitude": "-7.35165580"
     },
     {
-        "name": "Chefchaouen Province",
+        "name": "Chefchaouen",
         "isoCode": "CHE",
         "countryCode": "MA",
         "latitude": "35.01817200",
         "longitude": "-5.14320680"
     },
     {
-        "name": "Safi Province",
+        "name": "Safi",
         "isoCode": "SAF",
         "countryCode": "MA",
         "latitude": "32.29898720",
         "longitude": "-9.10134980"
     },
     {
-        "name": "Tata Province",
+        "name": "Tata",
         "isoCode": "TAT",
         "countryCode": "MA",
         "latitude": "29.75087700",
@@ -22925,70 +22869,70 @@
         "longitude": "-4.72775280"
     },
     {
-        "name": "Taroudant Province",
+        "name": "Taroudannt",
         "isoCode": "TAR",
         "countryCode": "MA",
         "latitude": "30.47271260",
         "longitude": "-8.87487650"
     },
     {
-        "name": "Moulay Yacoub Province",
+        "name": "Moulay Yacoub",
         "isoCode": "MOU",
         "countryCode": "MA",
         "latitude": "34.08744790",
         "longitude": "-5.17840190"
     },
     {
-        "name": "Essaouira Province",
+        "name": "Essaouira",
         "isoCode": "ESI",
         "countryCode": "MA",
         "latitude": "31.50849260",
         "longitude": "-9.75950410"
     },
     {
-        "name": "Khénifra Province",
+        "name": "Khénifra",
         "isoCode": "KHN",
         "countryCode": "MA",
         "latitude": "32.93404710",
         "longitude": "-5.66157100"
     },
     {
-        "name": "Tétouan Province",
+        "name": "Tétouan",
         "isoCode": "TET",
         "countryCode": "MA",
         "latitude": "35.58889950",
         "longitude": "-5.36255160"
     },
     {
-        "name": "Oued Ed-Dahab Province",
+        "name": "Oued Ed-Dahab (EH)",
         "isoCode": "OUD",
         "countryCode": "MA",
         "latitude": "22.73378920",
         "longitude": "-14.28611160"
     },
     {
-        "name": "Al Haouz Province",
+        "name": "Al Haouz",
         "isoCode": "HAO",
         "countryCode": "MA",
         "latitude": "31.29567290",
         "longitude": "-7.87216000"
     },
     {
-        "name": "Azilal Province",
+        "name": "Azilal",
         "isoCode": "AZI",
         "countryCode": "MA",
         "latitude": "32.00426200",
         "longitude": "-6.57833870"
     },
     {
-        "name": "Taourirt Province",
+        "name": "Taourirt",
         "isoCode": "TAI",
         "countryCode": "MA",
         "latitude": "34.21259800",
         "longitude": "-2.69838680"
     },
     {
-        "name": "Taounate Province",
+        "name": "Taounate",
         "isoCode": "TAO",
         "countryCode": "MA",
         "latitude": "34.53691700",
@@ -23002,14 +22946,14 @@
         "longitude": "-5.56172790"
     },
     {
-        "name": "Ifrane Province",
+        "name": "Ifrane",
         "isoCode": "IFR",
         "countryCode": "MA",
         "latitude": "33.52280620",
         "longitude": "-5.11095520"
     },
     {
-        "name": "Khouribga Province",
+        "name": "Khouribga",
         "isoCode": "KHO",
         "countryCode": "MA",
         "latitude": "32.88602300",
@@ -24395,7 +24339,7 @@
         "longitude": "104.62577740"
     },
     {
-        "name": "Suphanburi",
+        "name": "Suphan Buri",
         "isoCode": "72",
         "countryCode": "TH",
         "latitude": "14.47448920",
@@ -24528,7 +24472,7 @@
         "longitude": "101.66008740"
     },
     {
-        "name": "Lopburi",
+        "name": "Lop Buri",
         "isoCode": "16",
         "countryCode": "TH",
         "latitude": "14.79950810",
@@ -24570,7 +24514,7 @@
         "longitude": "104.76955080"
     },
     {
-        "name": "Phang Nga",
+        "name": "Phangnga",
         "isoCode": "82",
         "countryCode": "TH",
         "latitude": "8.45014140",
@@ -26180,7 +26124,7 @@
         "longitude": "106.25221430"
     },
     {
-        "name": "Haiphong",
+        "name": "Hải Phòng",
         "isoCode": "HP",
         "countryCode": "VN",
         "latitude": "20.84491150",
@@ -26341,7 +26285,7 @@
         "longitude": "106.29929120"
     },
     {
-        "name": "Da Nang",
+        "name": "Đà Nẵng",
         "isoCode": "DN",
         "countryCode": "VN",
         "latitude": "16.05440680",
@@ -26369,14 +26313,14 @@
         "longitude": "106.34874740"
     },
     {
-        "name": "Hanoi",
+        "name": "Hà Nội",
         "isoCode": "HN",
         "countryCode": "VN",
         "latitude": "21.02776440",
         "longitude": "105.83415980"
     },
     {
-        "name": "Ho Chi Minh City",
+        "name": "Hồ Chí Minh",
         "isoCode": "SG",
         "countryCode": "VN",
         "latitude": "10.82309890",
@@ -26437,13 +26381,6 @@
         "countryCode": "VN",
         "latitude": "9.60252100",
         "longitude": "105.97390490"
-    },
-    {
-        "name": "Hà Tây",
-        "isoCode": "15",
-        "countryCode": "VN",
-        "latitude": "39.10956300",
-        "longitude": "117.22337100"
     },
     {
         "name": "Đồng Nai",
@@ -31486,749 +31423,623 @@
         "longitude": "134.55960890"
     },
     {
-        "name": "Břeclav District",
+        "name": "Břeclav",
         "isoCode": "644",
         "countryCode": "CZ",
         "latitude": "48.75314000",
         "longitude": "16.88251690"
     },
     {
-        "name": "Český Krumlov District",
+        "name": "Český Krumlov",
         "isoCode": "312",
         "countryCode": "CZ",
         "latitude": "48.81273540",
         "longitude": "14.31746570"
     },
     {
-        "name": "Plzeň-City District",
+        "name": "Plzeň-město",
         "isoCode": "323",
         "countryCode": "CZ",
         "latitude": "49.73843140",
         "longitude": "13.37363710"
     },
     {
-        "name": "Brno-Country District",
+        "name": "Brno-venkov",
         "isoCode": "643",
         "countryCode": "CZ",
         "latitude": "49.12501380",
         "longitude": "16.45588240"
     },
     {
-        "name": "Příbram District",
+        "name": "Příbram",
         "isoCode": "20B",
         "countryCode": "CZ",
         "latitude": "49.69479590",
         "longitude": "14.08238100"
     },
     {
-        "name": "Pardubice District",
+        "name": "Pardubice",
         "isoCode": "532",
         "countryCode": "CZ",
         "latitude": "49.94444790",
         "longitude": "16.28569160"
     },
     {
-        "name": "Nový Jičín District",
+        "name": "Nový Jičín",
         "isoCode": "804",
         "countryCode": "CZ",
         "latitude": "49.59432510",
         "longitude": "18.01353560"
     },
     {
-        "name": "Prague 12",
-        "isoCode": "112",
-        "countryCode": "CZ",
-        "latitude": "50.00393050",
-        "longitude": "14.41718750"
-    },
-    {
-        "name": "Náchod District",
+        "name": "Náchod",
         "isoCode": "523",
         "countryCode": "CZ",
         "latitude": "50.41457220",
         "longitude": "16.16563470"
     },
     {
-        "name": "Prostějov District",
+        "name": "Prostějov",
         "isoCode": "713",
         "countryCode": "CZ",
         "latitude": "49.44184010",
         "longitude": "17.12779040"
     },
     {
-        "name": "Zlín Region",
+        "name": "Zlínský kraj",
         "isoCode": "72",
         "countryCode": "CZ",
         "latitude": "49.21622960",
         "longitude": "17.77203530"
     },
     {
-        "name": "Chomutov District",
+        "name": "Chomutov",
         "isoCode": "422",
         "countryCode": "CZ",
         "latitude": "50.45838720",
         "longitude": "13.30179100"
     },
     {
-        "name": "Central Bohemian Region",
+        "name": "Středočeský kraj",
         "isoCode": "20",
         "countryCode": "CZ",
         "latitude": "49.87822230",
         "longitude": "14.93629550"
     },
     {
-        "name": "Prague 13",
-        "isoCode": "113",
-        "countryCode": "CZ",
-        "latitude": "50.05323400",
-        "longitude": "14.30963920"
-    },
-    {
-        "name": "České Budějovice District",
+        "name": "České Budějovice",
         "isoCode": "311",
         "countryCode": "CZ",
         "latitude": "48.97755530",
         "longitude": "14.51507470"
     },
     {
-        "name": "Prague 5",
-        "isoCode": "105",
-        "countryCode": "CZ",
-        "latitude": "50.06975890",
-        "longitude": "14.37779830"
-    },
-    {
-        "name": "Rakovník District",
+        "name": "Rakovník",
         "isoCode": "20C",
         "countryCode": "CZ",
         "latitude": "50.10612300",
         "longitude": "13.73966230"
     },
     {
-        "name": "Frýdek-Místek District",
+        "name": "Frýdek-Místek",
         "isoCode": "802",
         "countryCode": "CZ",
         "latitude": "49.68193050",
         "longitude": "18.36732160"
     },
     {
-        "name": "Písek District",
+        "name": "Písek",
         "isoCode": "314",
         "countryCode": "CZ",
         "latitude": "49.34199380",
         "longitude": "14.24697600"
     },
     {
-        "name": "Hodonín District",
+        "name": "Hodonín",
         "isoCode": "645",
         "countryCode": "CZ",
         "latitude": "48.85293910",
         "longitude": "17.12600250"
     },
     {
-        "name": "Prague 1",
-        "isoCode": "101",
-        "countryCode": "CZ",
-        "latitude": "50.08871010",
-        "longitude": "14.41559810"
-    },
-    {
-        "name": "Zlín District",
+        "name": "Zlín",
         "isoCode": "724",
         "countryCode": "CZ",
         "latitude": "49.16960520",
         "longitude": "17.80252200"
     },
     {
-        "name": "Plzeň-North District",
+        "name": "Plzeň-sever",
         "isoCode": "325",
         "countryCode": "CZ",
         "latitude": "49.87748930",
         "longitude": "13.25374280"
     },
     {
-        "name": "Tábor District",
+        "name": "Tábor",
         "isoCode": "317",
         "countryCode": "CZ",
         "latitude": "49.36462930",
         "longitude": "14.71912930"
     },
     {
-        "name": "Prague 9",
-        "isoCode": "109",
-        "countryCode": "CZ",
-        "latitude": "50.11129700",
-        "longitude": "14.50255070"
-    },
-    {
-        "name": "Prague 16",
-        "isoCode": "116",
-        "countryCode": "CZ",
-        "latitude": "49.98318670",
-        "longitude": "14.36171330"
-    },
-    {
-        "name": "Brno-City District",
+        "name": "Brno-město",
         "isoCode": "642",
         "countryCode": "CZ",
         "latitude": "49.19506020",
         "longitude": "16.60683710"
     },
     {
-        "name": "Prague 6",
-        "isoCode": "106",
-        "countryCode": "CZ",
-        "latitude": "50.10057850",
-        "longitude": "14.39543630"
-    },
-    {
-        "name": "Prague 11",
-        "isoCode": "111",
-        "countryCode": "CZ",
-        "latitude": "50.03116700",
-        "longitude": "14.50708170"
-    },
-    {
-        "name": "Svitavy District",
+        "name": "Svitavy",
         "isoCode": "533",
         "countryCode": "CZ",
         "latitude": "49.75516290",
         "longitude": "16.46918610"
     },
     {
-        "name": "Vsetín District",
+        "name": "Vsetín",
         "isoCode": "723",
         "countryCode": "CZ",
         "latitude": "49.37932500",
         "longitude": "18.06181620"
     },
     {
-        "name": "Cheb District",
+        "name": "Cheb",
         "isoCode": "411",
         "countryCode": "CZ",
         "latitude": "50.07953340",
         "longitude": "12.36986360"
     },
     {
-        "name": "Olomouc District",
+        "name": "Olomouc",
         "isoCode": "712",
         "countryCode": "CZ",
         "latitude": "49.59377800",
         "longitude": "17.25087870"
     },
     {
-        "name": "Vysočina Region",
+        "name": "Kraj Vysočina",
         "isoCode": "63",
         "countryCode": "CZ",
         "latitude": "49.44900520",
         "longitude": "15.64059340"
     },
     {
-        "name": "Ústí nad Labem Region",
+        "name": "Ústecký kraj",
         "isoCode": "42",
         "countryCode": "CZ",
         "latitude": "50.61190370",
         "longitude": "13.78700860"
     },
     {
-        "name": "Horní Počernice",
-        "isoCode": "120",
-        "countryCode": "CZ",
-        "latitude": "50.11271670",
-        "longitude": "14.59766850"
-    },
-    {
-        "name": "Prachatice District",
+        "name": "Prachatice",
         "isoCode": "315",
         "countryCode": "CZ",
         "latitude": "49.01091000",
         "longitude": "14.00000050"
     },
     {
-        "name": "Trutnov District",
+        "name": "Trutnov",
         "isoCode": "525",
         "countryCode": "CZ",
         "latitude": "50.56538380",
         "longitude": "15.90909230"
     },
     {
-        "name": "Hradec Králové District",
+        "name": "Hradec Králové",
         "isoCode": "521",
         "countryCode": "CZ",
         "latitude": "50.24148050",
         "longitude": "15.67430000"
     },
     {
-        "name": "Karlovy Vary Region",
+        "name": "Karlovarský kraj",
         "isoCode": "41",
         "countryCode": "CZ",
         "latitude": "50.14350000",
         "longitude": "12.75018990"
     },
     {
-        "name": "Nymburk District",
+        "name": "Nymburk",
         "isoCode": "208",
         "countryCode": "CZ",
         "latitude": "50.18558160",
         "longitude": "15.04366040"
     },
     {
-        "name": "Rokycany District",
+        "name": "Rokycany",
         "isoCode": "326",
         "countryCode": "CZ",
         "latitude": "49.82628270",
         "longitude": "13.68749430"
     },
     {
-        "name": "Ostrava-City District",
+        "name": "Ostrava-město",
         "isoCode": "806",
         "countryCode": "CZ",
         "latitude": "49.82092260",
         "longitude": "18.26252430"
     },
     {
-        "name": "Prague 14",
-        "isoCode": "114",
-        "countryCode": "CZ",
-        "latitude": "50.10600360",
-        "longitude": "14.55718370"
-    },
-    {
-        "name": "Karviná District",
+        "name": "Karviná",
         "isoCode": "803",
         "countryCode": "CZ",
         "latitude": "49.85665240",
         "longitude": "18.54321860"
     },
     {
-        "name": "Prague 4",
-        "isoCode": "104",
-        "countryCode": "CZ",
-        "latitude": "50.04330920",
-        "longitude": "14.43887410"
-    },
-    {
-        "name": "Pardubice Region",
+        "name": "Pardubický kraj",
         "isoCode": "53",
         "countryCode": "CZ",
         "latitude": "49.94444790",
         "longitude": "16.28569160"
     },
     {
-        "name": "Olomouc Region",
+        "name": "Olomoucký kraj",
         "isoCode": "71",
         "countryCode": "CZ",
         "latitude": "49.65865490",
         "longitude": "17.08114060"
     },
     {
-        "name": "Liberec District",
+        "name": "Liberec",
         "isoCode": "513",
         "countryCode": "CZ",
         "latitude": "50.75641010",
         "longitude": "14.99650410"
     },
     {
-        "name": "Klatovy District",
+        "name": "Klatovy",
         "isoCode": "322",
         "countryCode": "CZ",
         "latitude": "49.39555490",
         "longitude": "13.29509370"
     },
     {
-        "name": "Uherské Hradiště District",
+        "name": "Uherské Hradiště",
         "isoCode": "722",
         "countryCode": "CZ",
         "latitude": "49.05979690",
         "longitude": "17.49585010"
     },
     {
-        "name": "Kroměříž District",
+        "name": "Kroměříž",
         "isoCode": "721",
         "countryCode": "CZ",
         "latitude": "49.29165820",
         "longitude": "17.39938000"
     },
     {
-        "name": "Prague 8",
-        "isoCode": "108",
-        "countryCode": "CZ",
-        "latitude": "50.11765750",
-        "longitude": "14.46706680"
-    },
-    {
-        "name": "Sokolov District",
+        "name": "Sokolov",
         "isoCode": "413",
         "countryCode": "CZ",
         "latitude": "50.20134340",
         "longitude": "12.60546360"
     },
     {
-        "name": "Semily District",
+        "name": "Semily",
         "isoCode": "514",
         "countryCode": "CZ",
         "latitude": "50.60515760",
         "longitude": "15.32814090"
     },
     {
-        "name": "Třebíč District",
+        "name": "Třebíč",
         "isoCode": "634",
         "countryCode": "CZ",
         "latitude": "49.21478690",
         "longitude": "15.87955160"
     },
     {
-        "name": "Prague",
+        "name": "Praha, Hlavní město",
         "isoCode": "10",
         "countryCode": "CZ",
         "latitude": "50.07553810",
         "longitude": "14.43780050"
     },
     {
-        "name": "Ústí nad Labem District",
+        "name": "Ústí nad Labem",
         "isoCode": "427",
         "countryCode": "CZ",
         "latitude": "50.61190370",
         "longitude": "13.78700860"
     },
     {
-        "name": "Moravian-Silesian Region",
+        "name": "Moravskoslezský kraj",
         "isoCode": "80",
         "countryCode": "CZ",
         "latitude": "49.73053270",
         "longitude": "18.23326370"
     },
     {
-        "name": "Liberec Region",
+        "name": "Liberecký kraj",
         "isoCode": "51",
         "countryCode": "CZ",
         "latitude": "50.65942400",
         "longitude": "14.76324240"
     },
     {
-        "name": "South Moravian Region",
+        "name": "Jihomoravský kraj",
         "isoCode": "64",
         "countryCode": "CZ",
         "latitude": "48.95445280",
         "longitude": "16.76768990"
     },
     {
-        "name": "Prague 10",
-        "isoCode": "110",
-        "countryCode": "CZ",
-        "latitude": "50.07174660",
-        "longitude": "14.48716560"
-    },
-    {
-        "name": "Karlovy Vary District",
+        "name": "Karlovy Vary",
         "isoCode": "412",
         "countryCode": "CZ",
         "latitude": "50.14350000",
         "longitude": "12.75018990"
     },
     {
-        "name": "Litoměřice District",
+        "name": "Litoměřice",
         "isoCode": "423",
         "countryCode": "CZ",
         "latitude": "50.53841970",
         "longitude": "14.13054580"
     },
     {
-        "name": "Prague-East District",
+        "name": "Praha-východ",
         "isoCode": "209",
         "countryCode": "CZ",
         "latitude": "49.93893070",
         "longitude": "14.79244720"
     },
     {
-        "name": "Plzeň Region",
+        "name": "Plzeňský kraj",
         "isoCode": "32",
         "countryCode": "CZ",
         "latitude": "49.41348120",
         "longitude": "13.31572460"
     },
     {
-        "name": "Plzeň-South District",
+        "name": "Plzeň-jih",
         "isoCode": "324",
         "countryCode": "CZ",
         "latitude": "49.59048850",
         "longitude": "13.57158610"
     },
     {
-        "name": "Děčín District",
+        "name": "Děčín",
         "isoCode": "421",
         "countryCode": "CZ",
         "latitude": "50.77255630",
         "longitude": "14.21276120"
     },
     {
-        "name": "Prague 7",
-        "isoCode": "107",
-        "countryCode": "CZ",
-        "latitude": "50.10204900",
-        "longitude": "14.43295190"
-    },
-    {
-        "name": "Havlíčkův Brod District",
+        "name": "Havlíčkův Brod",
         "isoCode": "631",
         "countryCode": "CZ",
         "latitude": "49.60433640",
         "longitude": "15.57965520"
     },
     {
-        "name": "Jablonec nad Nisou District",
+        "name": "Jablonec nad Nisou",
         "isoCode": "512",
         "countryCode": "CZ",
         "latitude": "50.72205280",
         "longitude": "15.17031350"
     },
     {
-        "name": "Jihlava District",
+        "name": "Jihlava",
         "isoCode": "632",
         "countryCode": "CZ",
         "latitude": "49.39837820",
         "longitude": "15.58704150"
     },
     {
-        "name": "Hradec Králové Region",
+        "name": "Královéhradecký kraj",
         "isoCode": "52",
         "countryCode": "CZ",
         "latitude": "50.35124840",
         "longitude": "15.79764590"
     },
     {
-        "name": "Blansko District",
+        "name": "Blansko",
         "isoCode": "641",
         "countryCode": "CZ",
         "latitude": "49.36485020",
         "longitude": "16.64775520"
     },
     {
-        "name": "Prague 2",
-        "isoCode": "102",
-        "countryCode": "CZ",
-        "latitude": "50.07449580",
-        "longitude": "14.43552470"
-    },
-    {
-        "name": "Louny District",
+        "name": "Louny",
         "isoCode": "424",
         "countryCode": "CZ",
         "latitude": "50.35398120",
         "longitude": "13.80335510"
     },
     {
-        "name": "Kolín District",
+        "name": "Kolín",
         "isoCode": "204",
         "countryCode": "CZ",
         "latitude": "49.98832930",
         "longitude": "15.05519770"
     },
     {
-        "name": "Prague-West District",
+        "name": "Praha-západ",
         "isoCode": "20A",
         "countryCode": "CZ",
         "latitude": "49.89352350",
         "longitude": "14.32937790"
     },
     {
-        "name": "Beroun District",
+        "name": "Beroun",
         "isoCode": "202",
         "countryCode": "CZ",
         "latitude": "49.95734280",
         "longitude": "13.98407150"
     },
     {
-        "name": "Teplice District",
+        "name": "Teplice",
         "isoCode": "426",
         "countryCode": "CZ",
         "latitude": "50.65846050",
         "longitude": "13.75132270"
     },
     {
-        "name": "Vyškov District",
+        "name": "Vyškov",
         "isoCode": "646",
         "countryCode": "CZ",
         "latitude": "49.21274450",
         "longitude": "16.98559270"
     },
     {
-        "name": "Opava District",
+        "name": "Opava",
         "isoCode": "805",
         "countryCode": "CZ",
         "latitude": "49.90837570",
         "longitude": "17.91633800"
     },
     {
-        "name": "Jindřichův Hradec District",
+        "name": "Jindřichův Hradec",
         "isoCode": "313",
         "countryCode": "CZ",
         "latitude": "49.14448230",
         "longitude": "15.00613890"
     },
     {
-        "name": "Jeseník District",
+        "name": "Jeseník",
         "isoCode": "711",
         "countryCode": "CZ",
         "latitude": "50.22462490",
         "longitude": "17.19804710"
     },
     {
-        "name": "Přerov District",
+        "name": "Přerov",
         "isoCode": "714",
         "countryCode": "CZ",
         "latitude": "49.46713560",
         "longitude": "17.50773320"
     },
     {
-        "name": "Benešov District",
+        "name": "Benešov",
         "isoCode": "201",
         "countryCode": "CZ",
         "latitude": "49.69008280",
         "longitude": "14.77643990"
     },
     {
-        "name": "Strakonice District",
+        "name": "Strakonice",
         "isoCode": "316",
         "countryCode": "CZ",
         "latitude": "49.26040430",
         "longitude": "13.91030850"
     },
     {
-        "name": "Most District",
+        "name": "Most",
         "isoCode": "425",
         "countryCode": "CZ",
         "latitude": "37.15540830",
         "longitude": "-94.29488840"
     },
     {
-        "name": "Znojmo District",
+        "name": "Znojmo",
         "isoCode": "647",
         "countryCode": "CZ",
         "latitude": "48.92723270",
         "longitude": "16.10378080"
     },
     {
-        "name": "Kladno District",
+        "name": "Kladno",
         "isoCode": "203",
         "countryCode": "CZ",
         "latitude": "50.19402580",
         "longitude": "14.10436570"
     },
     {
-        "name": "Prague 21",
-        "isoCode": "121",
-        "countryCode": "CZ",
-        "latitude": "50.07455020",
-        "longitude": "14.66918540"
-    },
-    {
-        "name": "Česká Lípa District",
+        "name": "Česká Lípa",
         "isoCode": "511",
         "countryCode": "CZ",
         "latitude": "50.67852010",
         "longitude": "14.53969910"
     },
     {
-        "name": "Chrudim District",
+        "name": "Chrudim",
         "isoCode": "531",
         "countryCode": "CZ",
         "latitude": "49.88302160",
         "longitude": "15.82908660"
     },
     {
-        "name": "Prague 3",
-        "isoCode": "103",
-        "countryCode": "CZ",
-        "latitude": "50.08437390",
-        "longitude": "14.47072500"
-    },
-    {
-        "name": "Rychnov nad Kněžnou District",
+        "name": "Rychnov nad Kněžnou",
         "isoCode": "524",
         "countryCode": "CZ",
         "latitude": "50.16596510",
         "longitude": "16.27768420"
     },
     {
-        "name": "Prague 15",
-        "isoCode": "115",
-        "countryCode": "CZ",
-        "latitude": "50.05270830",
-        "longitude": "14.53066470"
-    },
-    {
-        "name": "Mělník District",
+        "name": "Mělník",
         "isoCode": "206",
         "countryCode": "CZ",
         "latitude": "50.31044150",
         "longitude": "14.51792230"
     },
     {
-        "name": "South Bohemian Region",
+        "name": "Jihočeský kraj",
         "isoCode": "31",
         "countryCode": "CZ",
         "latitude": "48.94577890",
         "longitude": "14.44160550"
     },
     {
-        "name": "Jičín District",
+        "name": "Jičín",
         "isoCode": "522",
         "countryCode": "CZ",
         "latitude": "50.43533250",
         "longitude": "15.36104400"
     },
     {
-        "name": "Domažlice District",
+        "name": "Domažlice",
         "isoCode": "321",
         "countryCode": "CZ",
         "latitude": "49.43970270",
         "longitude": "12.93114350"
     },
     {
-        "name": "Šumperk District",
+        "name": "Šumperk",
         "isoCode": "715",
         "countryCode": "CZ",
         "latitude": "49.97784070",
         "longitude": "16.97177540"
     },
     {
-        "name": "Mladá Boleslav District",
+        "name": "Mladá Boleslav",
         "isoCode": "207",
         "countryCode": "CZ",
         "latitude": "50.42523170",
         "longitude": "14.93624770"
     },
     {
-        "name": "Bruntál District",
+        "name": "Bruntál",
         "isoCode": "801",
         "countryCode": "CZ",
         "latitude": "49.98817670",
         "longitude": "17.46369410"
     },
     {
-        "name": "Pelhřimov District",
+        "name": "Pelhřimov",
         "isoCode": "633",
         "countryCode": "CZ",
         "latitude": "49.43062070",
         "longitude": "15.22298300"
     },
     {
-        "name": "Tachov District",
+        "name": "Tachov",
         "isoCode": "327",
         "countryCode": "CZ",
         "latitude": "49.79878030",
         "longitude": "12.63619210"
     },
     {
-        "name": "Ústí nad Orlicí District",
+        "name": "Ústí nad Orlicí",
         "isoCode": "534",
         "countryCode": "CZ",
         "latitude": "49.97218010",
         "longitude": "16.39966170"
     },
     {
-        "name": "Žďár nad Sázavou District",
+        "name": "Žďár nad Sázavou",
         "isoCode": "635",
         "countryCode": "CZ",
         "latitude": "49.56430120",
@@ -33705,7 +33516,7 @@
         "longitude": "-62.07509980"
     },
     {
-        "name": "Guarda District",
+        "name": "Guarda",
         "isoCode": "09",
         "countryCode": "PT",
         "latitude": "40.53859720",
@@ -33789,7 +33600,7 @@
         "longitude": "-64.80811980"
     },
     {
-        "name": "Huila Department",
+        "name": "Huila",
         "isoCode": "HUI",
         "countryCode": "CO",
         "latitude": "2.53593490",
@@ -34095,5 +33906,257 @@
         "countryCode": "IR",
         "latitude": "34.91936070",
         "longitude": "47.48329250"
+    },
+    {
+        "name": "Bogotá",
+        "isoCode": "DC",
+        "countryCode": "CO",
+        "latitude": "4.28204150",
+        "longitude": "-74.50270420"
+    },
+    {
+        "name": "Loreto",
+        "isoCode": "LOR",
+        "countryCode": "PE",
+        "latitude": "-4.37416430",
+        "longitude": "-76.13042640"
+    },
+    {
+        "name": "Kutná Hora",
+        "isoCode": "205",
+        "countryCode": "CZ",
+        "latitude": "49.94920890",
+        "longitude": "15.24704400"
+    },
+    {
+        "name": "Kōchi Prefecture",
+        "isoCode": "39",
+        "countryCode": "JP",
+        "latitude": "33.28791610",
+        "longitude": "132.27592620"
+    },
+    {
+        "name": "Cần Thơ",
+        "isoCode": "CT",
+        "countryCode": "VN",
+        "latitude": "10.03418510",
+        "longitude": "105.72255070"
+    },
+    {
+        "name": "Rivers",
+        "isoCode": "RI",
+        "countryCode": "NG",
+        "latitude": "5.02134200",
+        "longitude": "6.43760220"
+    },
+    {
+        "name": "Rabat-Salé-Kénitra",
+        "isoCode": "04",
+        "countryCode": "MA",
+        "latitude": "34.07686400",
+        "longitude": "-7.34544760"
+    },
+    {
+        "name": "Agadir-Ida-Ou-Tanane",
+        "isoCode": "AGD",
+        "countryCode": "MA",
+        "latitude": "30.64620910",
+        "longitude": "-9.83390610"
+    },
+    {
+        "name": "Berrechid",
+        "isoCode": "BRR",
+        "countryCode": "MA",
+        "latitude": "33.26025230",
+        "longitude": "-7.59848370"
+    },
+    {
+        "name": "Casablanca",
+        "isoCode": "CAS",
+        "countryCode": "MA",
+        "latitude": "33.57226780",
+        "longitude": "-7.65703260"
+    },
+    {
+        "name": "Driouch",
+        "isoCode": "DRI",
+        "countryCode": "MA",
+        "latitude": "34.97603200",
+        "longitude": "-3.39644930"
+    },
+    {
+        "name": "Fès",
+        "isoCode": "FES",
+        "countryCode": "MA",
+        "latitude": "34.02395790",
+        "longitude": "-5.03675990"
+    },
+    {
+        "name": "Fquih Ben Salah",
+        "isoCode": "FQH",
+        "countryCode": "MA",
+        "latitude": "32.50016800",
+        "longitude": "-6.71007170"
+    },
+    {
+        "name": "Guercif",
+        "isoCode": "GUF",
+        "countryCode": "MA",
+        "latitude": "34.23450360",
+        "longitude": "-3.38130050"
+    },
+    {
+        "name": "Marrakech",
+        "isoCode": "MAR",
+        "countryCode": "MA",
+        "latitude": "31.63460230",
+        "longitude": "-8.07789320"
+    },
+    {
+        "name": "M’diq-Fnideq",
+        "isoCode": "MDF",
+        "countryCode": "MA",
+        "latitude": "35.77330190",
+        "longitude": "-5.51433000"
+    },
+    {
+        "name": "Meknès",
+        "isoCode": "MEK",
+        "countryCode": "MA",
+        "latitude": "33.88100000",
+        "longitude": "-5.57303970"
+    },
+    {
+        "name": "Midelt",
+        "isoCode": "MID",
+        "countryCode": "MA",
+        "latitude": "32.68550790",
+        "longitude": "-4.75017090"
+    },
+    {
+        "name": "Mohammadia",
+        "isoCode": "MOH",
+        "countryCode": "MA",
+        "latitude": "33.68737490",
+        "longitude": "-7.42391420"
+    },
+    {
+        "name": "Oujda-Angad",
+        "isoCode": "OUJ",
+        "countryCode": "MA",
+        "latitude": "34.68375040",
+        "longitude": "-2.29932390"
+    },
+    {
+        "name": "Ouezzane",
+        "isoCode": "OUZ",
+        "countryCode": "MA",
+        "latitude": "34.80634500",
+        "longitude": "-5.59145050"
+    },
+    {
+        "name": "Rabat",
+        "isoCode": "RAB",
+        "countryCode": "MA",
+        "latitude": "33.96919900",
+        "longitude": "-6.92730290"
+    },
+    {
+        "name": "Rehamna",
+        "isoCode": "REH",
+        "countryCode": "MA",
+        "latitude": "32.20329050",
+        "longitude": "-8.56896710"
+    },
+    {
+        "name": "Salé",
+        "isoCode": "SAL",
+        "countryCode": "MA",
+        "latitude": "34.03775700",
+        "longitude": "-6.84270730"
+    },
+    {
+        "name": "Sidi Bennour",
+        "isoCode": "SIB",
+        "countryCode": "MA",
+        "latitude": "32.64926020",
+        "longitude": "-8.44714530"
+    },
+    {
+        "name": "Sidi Ifni",
+        "isoCode": "SIF",
+        "countryCode": "MA",
+        "latitude": "29.36657970",
+        "longitude": "-10.21084850"
+    },
+    {
+        "name": "Skhirate-Témara",
+        "isoCode": "SKH",
+        "countryCode": "MA",
+        "latitude": "33.76224250",
+        "longitude": "-7.04190520"
+    },
+    {
+        "name": "Tarfaya (EH-partial)",
+        "isoCode": "TAF",
+        "countryCode": "MA",
+        "latitude": "27.93777010",
+        "longitude": "-12.92940630"
+    },
+    {
+        "name": "Tinghir",
+        "isoCode": "TIN",
+        "countryCode": "MA",
+        "latitude": "31.48507940",
+        "longitude": "-6.20192980"
+    },
+    {
+        "name": "Tanger-Assilah",
+        "isoCode": "TNG",
+        "countryCode": "MA",
+        "latitude": "35.76325390",
+        "longitude": "-5.90450980"
+    },
+    {
+        "name": "Youssoufia",
+        "isoCode": "YUS",
+        "countryCode": "MA",
+        "latitude": "32.02006790",
+        "longitude": "-8.86926480"
+    },
+    {
+        "name": "Sidi Slimane",
+        "isoCode": "SIL",
+        "countryCode": "MA",
+        "latitude": "34.27378280",
+        "longitude": "-5.98059720"
+    },
+    {
+        "name": "Lualaba",
+        "isoCode": "LU",
+        "countryCode": "CD",
+        "latitude": "-10.48086980",
+        "longitude": "25.62978160"
+    },
+    {
+        "name": "Chaiyaphum",
+        "isoCode": "36",
+        "countryCode": "TH",
+        "latitude": "16.00749740",
+        "longitude": "101.61291720"
+    },
+    {
+        "name": "Mbeya",
+        "isoCode": "14",
+        "countryCode": "TZ",
+        "latitude": "-8.28661120",
+        "longitude": "32.81325370"
+    },
+    {
+        "name": "Songwe",
+        "isoCode": "31",
+        "countryCode": "TZ",
+        "latitude": "-8.27261200",
+        "longitude": "31.71131740"
     }
 ]

@@ -146,9 +146,9 @@
     {
         "isoCode": "AQ",
         "name": "Antarctica",
-        "phonecode": "",
+        "phonecode": "672",
         "flag": "🇦🇶",
-        "currency": "",
+        "currency": "AAD",
         "latitude": "-74.65000000",
         "longitude": "4.48000000",
         "timezones": [
@@ -1440,7 +1440,7 @@
     },
     {
         "isoCode": "CD",
-        "name": "Congo The Democratic Republic Of The",
+        "name": "Democratic Republic of the Congo",
         "phonecode": "243",
         "flag": "🇨🇩",
         "currency": "CDF",
@@ -1519,7 +1519,7 @@
     },
     {
         "isoCode": "HR",
-        "name": "Croatia (Hrvatska)",
+        "name": "Croatia",
         "phonecode": "385",
         "flag": "🇭🇷",
         "currency": "HRK",
@@ -1962,7 +1962,7 @@
     {
         "isoCode": "TF",
         "name": "French Southern Territories",
-        "phonecode": "",
+        "phonecode": "262",
         "flag": "🇹🇫",
         "currency": "EUR",
         "latitude": "-49.25000000",
@@ -2314,7 +2314,7 @@
     {
         "isoCode": "HM",
         "name": "Heard Island and McDonald Islands",
-        "phonecode": "",
+        "phonecode": "672",
         "flag": "🇭🇲",
         "currency": "AUD",
         "latitude": "-53.10000000",
@@ -2732,7 +2732,7 @@
     },
     {
         "isoCode": "KP",
-        "name": "Korea North",
+        "name": "North Korea",
         "phonecode": "850",
         "flag": "🇰🇵",
         "currency": "KPW",
@@ -2750,7 +2750,7 @@
     },
     {
         "isoCode": "KR",
-        "name": "Korea South",
+        "name": "South Korea",
         "phonecode": "82",
         "flag": "🇰🇷",
         "currency": "KRW",
@@ -3582,7 +3582,7 @@
     },
     {
         "isoCode": "NL",
-        "name": "Netherlands The",
+        "name": "Netherlands",
         "phonecode": "31",
         "flag": "🇳🇱",
         "currency": "EUR",
@@ -4675,7 +4675,7 @@
     {
         "isoCode": "GS",
         "name": "South Georgia",
-        "phonecode": "",
+        "phonecode": "500",
         "flag": "🇬🇸",
         "currency": "GBP",
         "latitude": "-54.50000000",
