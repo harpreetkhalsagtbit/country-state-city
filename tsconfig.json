@@ -2,10 +2,11 @@
   "compilerOptions": {
     "target": "es5",
     "declaration": true,
-    "module": "commonjs",
+    "module": "es6",
     "noImplicitAny": true,
     "lib": ["es5", "es2015", "es6"],
     "resolveJsonModule": true,
+    "moduleResolution": "node",
     "outDir": "./dist",
     "strict": true,
     "esModuleInterop": true  
