@@ -329,70 +329,70 @@
         "longitude": "23.95364660"
     },
     {
-        "name": "Ashanti Region",
+        "name": "Ashanti",
         "isoCode": "AH",
         "countryCode": "GH",
         "latitude": "6.74704360",
         "longitude": "-1.52086240"
     },
     {
-        "name": "Western Region",
+        "name": "Western",
         "isoCode": "WP",
         "countryCode": "GH",
-        "latitude": null,
-        "longitude": null
+        "latitude": "5.50000000",
+        "longitude": "-2.50000000"
     },
     {
-        "name": "Eastern Region",
+        "name": "Eastern",
         "isoCode": "EP",
         "countryCode": "GH",
-        "latitude": null,
-        "longitude": null
+        "latitude": "6.50000000",
+        "longitude": "-0.50000000"
     },
     {
-        "name": "Northern Region",
+        "name": "Northern",
         "isoCode": "NP",
         "countryCode": "GH",
-        "latitude": null,
-        "longitude": null
+        "latitude": "9.50000000",
+        "longitude": "-1.00000000"
     },
     {
-        "name": "Central Region",
+        "name": "Central",
         "isoCode": "CP",
         "countryCode": "GH",
-        "latitude": null,
-        "longitude": null
+        "latitude": "5.50000000",
+        "longitude": "-1.00000000"
     },
     {
-        "name": "Brong-Ahafo Region",
-        "isoCode": "BA",
+        "name": "Ahafo",
+        "isoCode": "AF",
         "countryCode": "GH",
-        "latitude": "7.95592470",
-        "longitude": "-1.67606910"
+        "latitude": "7.58213720",
+        "longitude": "-2.54974630"
     },
     {
-        "name": "Greater Accra Region",
+        "name": "Greater Accra",
         "isoCode": "AA",
         "countryCode": "GH",
         "latitude": "5.81428360",
         "longitude": "0.07467670"
     },
     {
-        "name": "Upper East Region",
+        "name": "Upper East",
         "isoCode": "UE",
         "countryCode": "GH",
         "latitude": "10.70824990",
         "longitude": "-0.98206680"
     },
     {
-        "name": "Volta Region",
+        "name": "Volta",
         "isoCode": "TV",
         "countryCode": "GH",
         "latitude": "6.57813730",
         "longitude": "0.45023680"
     },
     {
-        "name": "Upper West Region",
+        "name": "Upper West",
         "isoCode": "UW",
         "countryCode": "GH",
         "latitude": "10.25297570",
@@ -1099,77 +1099,63 @@
         "longitude": "64.04790730"
     },
     {
-        "name": "Kakamega County",
+        "name": "Kakamega",
         "isoCode": "11",
         "countryCode": "KE",
         "latitude": "0.30789400",
         "longitude": "34.77407930"
     },
     {
-        "name": "Kisii County",
+        "name": "Kisii",
         "isoCode": "16",
         "countryCode": "KE",
         "latitude": "-0.67733400",
         "longitude": "34.77960300"
     },
     {
-        "name": "Central Province",
-        "isoCode": "200",
-        "countryCode": "KE",
-        "latitude": null,
-        "longitude": null
-    },
-    {
-        "name": "Busia County",
+        "name": "Busia",
         "isoCode": "04",
         "countryCode": "KE",
         "latitude": "0.43465060",
         "longitude": "34.24215970"
     },
     {
-        "name": "North Eastern Province",
-        "isoCode": "500",
-        "countryCode": "KE",
-        "latitude": "7.78530510",
-        "longitude": "81.42789840"
-    },
-    {
-        "name": "Embu County",
+        "name": "Embu",
         "isoCode": "06",
         "countryCode": "KE",
         "latitude": "-0.65604770",
         "longitude": "37.72376780"
     },
     {
-        "name": "Laikipia County",
+        "name": "Laikipia",
         "isoCode": "20",
         "countryCode": "KE",
         "latitude": "0.36060630",
         "longitude": "36.78195050"
     },
     {
-        "name": "Nandi District",
+        "name": "Nandi",
         "isoCode": "32",
         "countryCode": "KE",
         "latitude": "0.18358670",
         "longitude": "35.12687810"
     },
     {
-        "name": "Lamu County",
+        "name": "Lamu",
         "isoCode": "21",
         "countryCode": "KE",
         "latitude": "-2.23550580",
         "longitude": "40.47200040"
     },
     {
-        "name": "Kirinyaga County",
+        "name": "Kirinyaga",
         "isoCode": "15",
         "countryCode": "KE",
         "latitude": "-0.65905650",
         "longitude": "37.38272340"
     },
     {
-        "name": "Bungoma County",
+        "name": "Bungoma",
         "isoCode": "03",
         "countryCode": "KE",
         "latitude": "0.56952520",
@@ -1183,294 +1169,259 @@
         "longitude": "35.30272260"
     },
     {
-        "name": "Isiolo County",
+        "name": "Isiolo",
         "isoCode": "09",
         "countryCode": "KE",
         "latitude": "0.35243520",
         "longitude": "38.48499230"
     },
     {
-        "name": "Kisumu County",
+        "name": "Kisumu",
         "isoCode": "17",
         "countryCode": "KE",
         "latitude": "-0.09170160",
         "longitude": "34.76795680"
     },
     {
-        "name": "Coast Province",
-        "isoCode": "300",
-        "countryCode": "KE",
-        "latitude": "39.13733050",
-        "longitude": "-76.72941440"
-    },
-    {
-        "name": "Kwale County",
+        "name": "Kwale",
         "isoCode": "19",
         "countryCode": "KE",
         "latitude": "-4.18161150",
         "longitude": "39.46056120"
     },
     {
-        "name": "Kilifi County",
+        "name": "Kilifi",
         "isoCode": "14",
         "countryCode": "KE",
         "latitude": "-3.51065080",
         "longitude": "39.90932690"
     },
     {
-        "name": "Narok County",
+        "name": "Narok",
         "isoCode": "33",
         "countryCode": "KE",
         "latitude": "-1.10411100",
         "longitude": "36.08934060"
     },
     {
-        "name": "Taita–Taveta County",
+        "name": "Taita–Taveta",
         "isoCode": "39",
         "countryCode": "KE",
         "latitude": "-3.31606870",
         "longitude": "38.48499230"
     },
     {
-        "name": "Western Province",
-        "isoCode": "800",
-        "countryCode": "KE",
-        "latitude": null,
-        "longitude": null
-    },
-    {
-        "name": "Muranga County",
+        "name": "Murang'a",
         "isoCode": "29",
         "countryCode": "KE",
         "latitude": "-0.78392810",
         "longitude": "37.04003390"
     },
     {
-        "name": "Rift Valley Province",
-        "isoCode": "700",
-        "countryCode": "KE",
-        "latitude": "11.40987370",
-        "longitude": "41.28085770"
-    },
-    {
-        "name": "Nyeri County",
+        "name": "Nyeri",
         "isoCode": "36",
         "countryCode": "KE",
         "latitude": "-0.41969150",
         "longitude": "37.04003390"
     },
     {
-        "name": "Baringo County",
+        "name": "Baringo",
         "isoCode": "01",
         "countryCode": "KE",
         "latitude": "0.85549880",
         "longitude": "36.08934060"
     },
     {
-        "name": "Wajir County",
+        "name": "Wajir",
         "isoCode": "46",
         "countryCode": "KE",
         "latitude": "1.63604750",
         "longitude": "40.30886260"
     },
     {
-        "name": "Trans-Nzoia District",
+        "name": "Trans Nzoia",
         "isoCode": "42",
         "countryCode": "KE",
         "latitude": "1.05666670",
         "longitude": "34.95066250"
     },
     {
-        "name": "Machakos County",
+        "name": "Machakos",
         "isoCode": "22",
         "countryCode": "KE",
         "latitude": "-1.51768370",
         "longitude": "37.26341460"
     },
     {
-        "name": "Tharaka Nithi County",
+        "name": "Tharaka-Nithi",
         "isoCode": "41",
         "countryCode": "KE",
         "latitude": "-0.29648510",
         "longitude": "37.72376780"
     },
     {
-        "name": "Siaya County",
+        "name": "Siaya",
         "isoCode": "38",
         "countryCode": "KE",
         "latitude": "-0.06173280",
         "longitude": "34.24215970"
     },
     {
-        "name": "Mandera County",
+        "name": "Mandera",
         "isoCode": "24",
         "countryCode": "KE",
         "latitude": "3.57379910",
         "longitude": "40.95868800"
     },
     {
-        "name": "Makueni County",
+        "name": "Makueni",
         "isoCode": "23",
         "countryCode": "KE",
         "latitude": "-2.25587340",
         "longitude": "37.89366630"
     },
     {
-        "name": "Eastern Province",
-        "isoCode": "400",
-        "countryCode": "KE",
-        "latitude": null,
-        "longitude": null
-    },
-    {
-        "name": "Migori County",
+        "name": "Migori",
         "isoCode": "27",
         "countryCode": "KE",
         "latitude": "-0.93657020",
         "longitude": "34.41982430"
     },
     {
-        "name": "Nairobi",
-        "isoCode": "110",
+        "name": "Nairobi City",
+        "isoCode": "30",
         "countryCode": "KE",
         "latitude": "-1.29206590",
         "longitude": "36.82194620"
     },
     {
-        "name": "Nyandarua County",
+        "name": "Nyandarua",
         "isoCode": "35",
         "countryCode": "KE",
         "latitude": "-0.18038550",
         "longitude": "36.52296410"
     },
     {
-        "name": "Kericho County",
+        "name": "Kericho",
         "isoCode": "12",
         "countryCode": "KE",
         "latitude": "-0.18279130",
         "longitude": "35.47819260"
     },
     {
-        "name": "Marsabit County",
+        "name": "Marsabit",
         "isoCode": "25",
         "countryCode": "KE",
         "latitude": "2.44264030",
         "longitude": "37.97845850"
     },
     {
-        "name": "Homa Bay County",
+        "name": "Homa Bay",
         "isoCode": "08",
         "countryCode": "KE",
         "latitude": "-0.62206550",
         "longitude": "34.33103640"
     },
     {
-        "name": "Garissa County",
+        "name": "Garissa",
         "isoCode": "07",
         "countryCode": "KE",
         "latitude": "-0.45322930",
         "longitude": "39.64609880"
     },
     {
-        "name": "Kajiado County",
+        "name": "Kajiado",
         "isoCode": "10",
         "countryCode": "KE",
         "latitude": "-2.09807510",
         "longitude": "36.78195050"
     },
     {
-        "name": "Meru County",
+        "name": "Meru",
         "isoCode": "26",
         "countryCode": "KE",
         "latitude": "0.35571740",
         "longitude": "37.80876930"
     },
     {
-        "name": "Kiambu County",
+        "name": "Kiambu",
         "isoCode": "13",
         "countryCode": "KE",
         "latitude": "-1.03137010",
         "longitude": "36.86807910"
     },
     {
-        "name": "Mombasa County",
+        "name": "Mombasa",
         "isoCode": "28",
         "countryCode": "KE",
         "latitude": "-3.97682910",
         "longitude": "39.71371810"
     },
     {
-        "name": "Elgeyo-Marakwet County",
+        "name": "Elgeyo-Marakwet",
         "isoCode": "05",
         "countryCode": "KE",
         "latitude": "1.04982370",
         "longitude": "35.47819260"
     },
     {
-        "name": "Vihiga County",
+        "name": "Vihiga",
         "isoCode": "45",
         "countryCode": "KE",
         "latitude": "0.07675530",
         "longitude": "34.70776650"
     },
     {
-        "name": "Nakuru County",
+        "name": "Nakuru",
         "isoCode": "31",
         "countryCode": "KE",
         "latitude": "-0.30309880",
         "longitude": "36.08002600"
     },
     {
-        "name": "Nyanza Province",
-        "isoCode": "600",
-        "countryCode": "KE",
-        "latitude": "-0.08898940",
-        "longitude": "34.77179120"
-    },
-    {
-        "name": "Tana River County",
+        "name": "Tana River",
         "isoCode": "40",
         "countryCode": "KE",
         "latitude": "-1.65184680",
         "longitude": "39.65181650"
     },
     {
-        "name": "Turkana County",
+        "name": "Turkana",
         "isoCode": "43",
         "countryCode": "KE",
         "latitude": "3.31224770",
         "longitude": "35.56578620"
     },
     {
-        "name": "Samburu County",
+        "name": "Samburu",
         "isoCode": "37",
         "countryCode": "KE",
         "latitude": "1.21545060",
         "longitude": "36.95410700"
     },
     {
-        "name": "West Pokot County",
+        "name": "West Pokot",
         "isoCode": "47",
         "countryCode": "KE",
         "latitude": "1.62100760",
         "longitude": "35.39050460"
     },
     {
-        "name": "Nyamira County",
+        "name": "Nyamira",
         "isoCode": "34",
         "countryCode": "KE",
         "latitude": "-0.56694050",
         "longitude": "34.93412340"
     },
     {
-        "name": "Bomet County",
+        "name": "Bomet",
         "isoCode": "02",
         "countryCode": "KE",
         "latitude": "-0.80150090",
         "longitude": "35.30272260"
     },
     {
-        "name": "Kitui County",
+        "name": "Kitui",
         "isoCode": "18",
         "countryCode": "KE",
         "latitude": "-1.68328220",
@@ -5201,42 +5152,42 @@
         "longitude": "13.90154200"
     },
     {
-        "name": "Kyrenia District",
+        "name": "Kyrenia District (Keryneia)",
         "isoCode": "06",
         "countryCode": "CY",
         "latitude": "35.29919400",
         "longitude": "33.23632460"
     },
     {
-        "name": "Nicosia District",
+        "name": "Nicosia District (Lefkoşa)",
         "isoCode": "01",
         "countryCode": "CY",
         "latitude": "35.18556590",
         "longitude": "33.38227640"
     },
     {
-        "name": "Paphos District",
+        "name": "Paphos District (Pafos)",
         "isoCode": "05",
         "countryCode": "CY",
         "latitude": "34.91645940",
         "longitude": "32.49200880"
     },
     {
-        "name": "Larnaca District",
+        "name": "Larnaca District (Larnaka)",
         "isoCode": "03",
         "countryCode": "CY",
         "latitude": "34.85072060",
         "longitude": "33.48319060"
     },
     {
-        "name": "Limassol District",
+        "name": "Limassol District (Leymasun)",
         "isoCode": "02",
         "countryCode": "CY",
         "latitude": "34.70713010",
         "longitude": "33.02261740"
     },
     {
-        "name": "Famagusta District",
+        "name": "Famagusta District (Mağusa)",
         "isoCode": "04",
         "countryCode": "CY",
         "latitude": "35.28570230",
@@ -6573,112 +6524,112 @@
         "longitude": "21.85685860"
     },
     {
-        "name": "Chontales Department",
+        "name": "Chontales",
         "isoCode": "CO",
         "countryCode": "NI",
         "latitude": "11.93947170",
         "longitude": "-85.18940450"
     },
     {
-        "name": "Managua Department",
+        "name": "Managua",
         "isoCode": "MN",
         "countryCode": "NI",
         "latitude": "12.13916990",
         "longitude": "-86.33767610"
     },
     {
-        "name": "Rivas Department",
+        "name": "Rivas",
         "isoCode": "RI",
         "countryCode": "NI",
         "latitude": "11.40234900",
         "longitude": "-85.68457800"
     },
     {
-        "name": "Granada Department",
+        "name": "Granada",
         "isoCode": "GR",
         "countryCode": "NI",
         "latitude": "11.93440730",
         "longitude": "-85.95600050"
     },
     {
-        "name": "León Department",
+        "name": "León",
         "isoCode": "LE",
         "countryCode": "NI",
         "latitude": "12.50920370",
         "longitude": "-86.66110830"
     },
     {
-        "name": "Estelí Department",
+        "name": "Estelí",
         "isoCode": "ES",
         "countryCode": "NI",
         "latitude": "13.08511390",
         "longitude": "-86.36301970"
     },
     {
-        "name": "Boaco Department",
+        "name": "Boaco",
         "isoCode": "BO",
         "countryCode": "NI",
         "latitude": "12.46928400",
         "longitude": "-85.66146820"
     },
     {
-        "name": "Matagalpa Department",
+        "name": "Matagalpa",
         "isoCode": "MT",
         "countryCode": "NI",
         "latitude": "12.94984360",
         "longitude": "-85.43755740"
     },
     {
-        "name": "Madriz Department",
+        "name": "Madriz",
         "isoCode": "MD",
         "countryCode": "NI",
         "latitude": "13.47260050",
         "longitude": "-86.45920910"
     },
     {
-        "name": "Río San Juan Department",
+        "name": "Río San Juan",
         "isoCode": "SJ",
         "countryCode": "NI",
         "latitude": "11.47816100",
         "longitude": "-84.77333250"
     },
     {
-        "name": "Carazo Department",
+        "name": "Carazo",
         "isoCode": "CA",
         "countryCode": "NI",
         "latitude": "11.72747290",
         "longitude": "-86.21584970"
     },
     {
-        "name": "North Caribbean Coast Autonomous Region",
+        "name": "North Caribbean Coast",
         "isoCode": "AN",
         "countryCode": "NI",
         "latitude": "13.83944560",
         "longitude": "-83.93208060"
     },
     {
-        "name": "South Caribbean Coast Autonomous Region",
+        "name": "South Caribbean Coast",
         "isoCode": "AS",
         "countryCode": "NI",
         "latitude": "12.19185020",
         "longitude": "-84.10128610"
     },
     {
-        "name": "Masaya Department",
+        "name": "Masaya",
         "isoCode": "MS",
         "countryCode": "NI",
         "latitude": "11.97593280",
         "longitude": "-86.07334980"
     },
     {
-        "name": "Chinandega Department",
+        "name": "Chinandega",
         "isoCode": "CI",
         "countryCode": "NI",
         "latitude": "12.88200620",
         "longitude": "-87.14228950"
     },
     {
-        "name": "Jinotega Department",
+        "name": "Jinotega",
         "isoCode": "JI",
         "countryCode": "NI",
         "latitude": "13.08839070",
@@ -7476,28 +7427,28 @@
         "longitude": "19.79998130"
     },
     {
-        "name": "County Tipperary",
+        "name": "Tipperary",
         "isoCode": "TA",
         "countryCode": "IE",
         "latitude": "52.47378940",
         "longitude": "-8.16185140"
     },
     {
-        "name": "County Sligo",
+        "name": "Sligo",
         "isoCode": "SO",
         "countryCode": "IE",
         "latitude": "54.15532770",
         "longitude": "-8.60645320"
     },
     {
-        "name": "County Donegal",
+        "name": "Donegal",
         "isoCode": "DL",
         "countryCode": "IE",
         "latitude": "54.65489930",
         "longitude": "-8.10409670"
     },
     {
-        "name": "County Dublin",
+        "name": "Dublin",
         "isoCode": "D",
         "countryCode": "IE",
         "latitude": "53.34980530",
@@ -7511,42 +7462,42 @@
         "longitude": "-7.51408410"
     },
     {
-        "name": "County Cork",
+        "name": "Cork",
         "isoCode": "CO",
         "countryCode": "IE",
         "latitude": "51.89851430",
         "longitude": "-8.47560350"
     },
     {
-        "name": "County Monaghan",
+        "name": "Monaghan",
         "isoCode": "MN",
         "countryCode": "IE",
         "latitude": "54.24920460",
         "longitude": "-6.96831320"
     },
     {
-        "name": "County Longford",
+        "name": "Longford",
         "isoCode": "LD",
         "countryCode": "IE",
         "latitude": "53.72749820",
         "longitude": "-7.79315270"
     },
     {
-        "name": "County Kerry",
+        "name": "Kerry",
         "isoCode": "KY",
         "countryCode": "IE",
         "latitude": "52.15446070",
         "longitude": "-9.56686330"
     },
     {
-        "name": "County Offaly",
+        "name": "Offaly",
         "isoCode": "OY",
         "countryCode": "IE",
         "latitude": "53.23568710",
         "longitude": "-7.71222290"
     },
     {
-        "name": "County Galway",
+        "name": "Galway",
         "isoCode": "G",
         "countryCode": "IE",
         "latitude": "53.35645090",
@@ -7560,35 +7511,35 @@
         "longitude": "7.58453200"
     },
     {
-        "name": "County Roscommon",
+        "name": "Roscommon",
         "isoCode": "RN",
         "countryCode": "IE",
         "latitude": "53.75926040",
         "longitude": "-8.26816210"
     },
     {
-        "name": "County Kildare",
+        "name": "Kildare",
         "isoCode": "KE",
         "countryCode": "IE",
         "latitude": "53.21204340",
         "longitude": "-6.81947080"
     },
     {
-        "name": "County Louth",
+        "name": "Louth",
         "isoCode": "LH",
         "countryCode": "IE",
         "latitude": "53.92523240",
         "longitude": "-6.48894230"
     },
     {
-        "name": "County Mayo",
+        "name": "Mayo",
         "isoCode": "MO",
         "countryCode": "IE",
         "latitude": "54.01526040",
         "longitude": "-9.42893690"
     },
     {
-        "name": "County Wicklow",
+        "name": "Wicklow",
         "isoCode": "WW",
         "countryCode": "IE",
         "latitude": "52.98623130",
@@ -7609,70 +7560,70 @@
         "longitude": "-8.95844810"
     },
     {
-        "name": "County Cavan",
+        "name": "Cavan",
         "isoCode": "CN",
         "countryCode": "IE",
         "latitude": "53.97654240",
         "longitude": "-7.29966230"
     },
     {
-        "name": "County Waterford",
+        "name": "Waterford",
         "isoCode": "WD",
         "countryCode": "IE",
         "latitude": "52.19435490",
         "longitude": "-7.62275120"
     },
     {
-        "name": "County Kilkenny",
+        "name": "Kilkenny",
         "isoCode": "KK",
         "countryCode": "IE",
         "latitude": "52.57769570",
         "longitude": "-7.21800200"
     },
     {
-        "name": "County Clare",
+        "name": "Clare",
         "isoCode": "CE",
         "countryCode": "IE",
         "latitude": "43.04664000",
         "longitude": "-87.89958100"
     },
     {
-        "name": "County Meath",
+        "name": "Meath",
         "isoCode": "MH",
         "countryCode": "IE",
         "latitude": "53.60554800",
         "longitude": "-6.65641690"
     },
     {
-        "name": "County Wexford",
+        "name": "Wexford",
         "isoCode": "WX",
         "countryCode": "IE",
         "latitude": "52.47936030",
         "longitude": "-6.58399130"
     },
     {
-        "name": "County Limerick",
+        "name": "Limerick",
         "isoCode": "LK",
         "countryCode": "IE",
         "latitude": "52.50905170",
         "longitude": "-8.74749550"
     },
     {
-        "name": "County Carlow",
+        "name": "Carlow",
         "isoCode": "CW",
         "countryCode": "IE",
         "latitude": "52.72322170",
         "longitude": "-6.81082950"
     },
     {
-        "name": "County Laois",
+        "name": "Laois",
         "isoCode": "LS",
         "countryCode": "IE",
         "latitude": "52.99429500",
         "longitude": "-7.33230070"
     },
     {
-        "name": "County Westmeath",
+        "name": "Westmeath",
         "isoCode": "WH",
         "countryCode": "IE",
         "latitude": "53.53453080",
@@ -11214,14 +11165,14 @@
         "longitude": "8.25542950"
     },
     {
-        "name": "Canton of Fribourg",
+        "name": "Fribourg",
         "isoCode": "FR",
         "countryCode": "CH",
         "latitude": "46.68167480",
         "longitude": "7.11726350"
     },
     {
-        "name": "Basel-Landschaft",
+        "name": "Basel-Land",
         "isoCode": "BL",
         "countryCode": "CH",
         "latitude": "47.44181220",
@@ -11242,35 +11193,35 @@
         "longitude": "8.80045290"
     },
     {
-        "name": "Canton of St. Gallen",
+        "name": "St. Gallen",
         "isoCode": "SG",
         "countryCode": "CH",
         "latitude": "47.14562540",
         "longitude": "9.35043320"
     },
     {
-        "name": "canton of Bern",
+        "name": "Bern",
         "isoCode": "BE",
         "countryCode": "CH",
         "latitude": "46.79886210",
         "longitude": "7.70807010"
     },
     {
-        "name": "Canton of Zug",
+        "name": "Zug",
         "isoCode": "ZG",
         "countryCode": "CH",
         "latitude": "47.16615050",
         "longitude": "8.51547490"
     },
     {
-        "name": "Canton of Geneva",
+        "name": "Geneva",
         "isoCode": "GE",
         "countryCode": "CH",
         "latitude": "46.21800730",
         "longitude": "6.12169250"
     },
     {
-        "name": "Canton of Valais",
+        "name": "Valais",
         "isoCode": "VS",
         "countryCode": "CH",
         "latitude": "46.19046140",
@@ -11291,7 +11242,7 @@
         "longitude": "8.25124900"
     },
     {
-        "name": "Canton of Vaud",
+        "name": "Vaud",
         "isoCode": "VD",
         "countryCode": "CH",
         "latitude": "46.56131350",
@@ -11312,7 +11263,7 @@
         "longitude": "8.65298840"
     },
     {
-        "name": "Canton of Schaffhausen",
+        "name": "Schaffhausen",
         "isoCode": "SH",
         "countryCode": "CH",
         "latitude": "47.70093640",
@@ -11326,7 +11277,7 @@
         "longitude": "9.30009160"
     },
     {
-        "name": "canton of Zürich",
+        "name": "Zürich",
         "isoCode": "ZH",
         "countryCode": "CH",
         "latitude": "47.35953600",
@@ -11340,14 +11291,14 @@
         "longitude": "9.05573710"
     },
     {
-        "name": "Canton of Jura",
+        "name": "Jura",
         "isoCode": "JU",
         "countryCode": "CH",
         "latitude": "47.34444740",
         "longitude": "7.14306080"
     },
     {
-        "name": "Canton of Neuchâtel",
+        "name": "Neuchâtel",
         "isoCode": "NE",
         "countryCode": "CH",
         "latitude": "46.98998740",
@@ -11368,14 +11319,14 @@
         "longitude": "9.06790000"
     },
     {
-        "name": "Canton of Solothurn",
+        "name": "Solothurn",
         "isoCode": "SO",
         "countryCode": "CH",
         "latitude": "47.33207170",
         "longitude": "7.63883850"
     },
     {
-        "name": "Canton of Lucerne",
+        "name": "Lucerne",
         "isoCode": "LU",
         "countryCode": "CH",
         "latitude": "47.07956710",
@@ -13723,8 +13674,8 @@
         "name": "Bahia",
         "isoCode": "BA",
         "countryCode": "BR",
-        "latitude": "26.11353900",
-        "longitude": "-80.10620400"
+        "latitude": "-11.40987400",
+        "longitude": "-41.28085700"
     },
     {
         "name": "Sergipe",
@@ -13737,8 +13688,8 @@
         "name": "Amazonas",
         "isoCode": "AM",
         "countryCode": "BR",
-        "latitude": null,
-        "longitude": null
+        "latitude": "-3.07000000",
+        "longitude": "-61.66000000"
     },
     {
         "name": "Paraíba",
@@ -13793,8 +13744,8 @@
         "name": "Acre",
         "isoCode": "AC",
         "countryCode": "BR",
-        "latitude": "32.93305200",
-        "longitude": "35.08267800"
+        "latitude": "-9.02379600",
+        "longitude": "-70.81199500"
     },
     {
         "name": "Rondônia",
@@ -13807,8 +13758,8 @@
         "name": "Santa Catarina",
         "isoCode": "SC",
         "countryCode": "BR",
-        "latitude": null,
-        "longitude": null
+        "latitude": "-27.33000000",
+        "longitude": "-49.44000000"
     },
     {
         "name": "Maranhão",
@@ -14091,7 +14042,7 @@
         "longitude": "-63.01475780"
     },
     {
-        "name": "Vargas",
+        "name": "La Guaira",
         "isoCode": "X",
         "countryCode": "VE",
         "latitude": "29.30522680",
@@ -14742,560 +14693,560 @@
         "longitude": "97.69822720"
     },
     {
-        "name": "Bartın Province",
+        "name": "Bartın",
         "isoCode": "74",
         "countryCode": "TR",
         "latitude": "41.58105090",
         "longitude": "32.46097940"
     },
     {
-        "name": "Kütahya Province",
+        "name": "Kütahya",
         "isoCode": "43",
         "countryCode": "TR",
         "latitude": "39.35813700",
         "longitude": "29.60354950"
     },
     {
-        "name": "Sakarya Province",
+        "name": "Sakarya",
         "isoCode": "54",
         "countryCode": "TR",
         "latitude": "40.78885500",
         "longitude": "30.40595400"
     },
     {
-        "name": "Edirne Province",
+        "name": "Edirne",
         "isoCode": "22",
         "countryCode": "TR",
         "latitude": "41.15172220",
         "longitude": "26.51379640"
     },
     {
-        "name": "Van Province",
+        "name": "Van",
         "isoCode": "65",
         "countryCode": "TR",
         "latitude": "38.36794170",
         "longitude": "43.71827870"
     },
     {
-        "name": "Bingöl Province",
+        "name": "Bingöl",
         "isoCode": "12",
         "countryCode": "TR",
         "latitude": "39.06263540",
         "longitude": "40.76960950"
     },
     {
-        "name": "Kilis Province",
+        "name": "Kilis",
         "isoCode": "79",
         "countryCode": "TR",
         "latitude": "36.82047750",
         "longitude": "37.16873390"
     },
     {
-        "name": "Adıyaman Province",
+        "name": "Adıyaman",
         "isoCode": "02",
         "countryCode": "TR",
         "latitude": "37.90782910",
         "longitude": "38.48499230"
     },
     {
-        "name": "Mersin Province",
+        "name": "Mersin",
         "isoCode": "33",
         "countryCode": "TR",
         "latitude": "36.81208580",
         "longitude": "34.64147500"
     },
     {
-        "name": "Denizli Province",
+        "name": "Denizli",
         "isoCode": "20",
         "countryCode": "TR",
         "latitude": "37.61283950",
         "longitude": "29.23207840"
     },
     {
-        "name": "Malatya Province",
+        "name": "Malatya",
         "isoCode": "44",
         "countryCode": "TR",
         "latitude": "38.40150570",
         "longitude": "37.95362980"
     },
     {
-        "name": "Elazığ Province",
+        "name": "Elazığ",
         "isoCode": "23",
         "countryCode": "TR",
         "latitude": "38.49648040",
         "longitude": "39.21990290"
     },
     {
-        "name": "Erzincan Province",
+        "name": "Erzincan",
         "isoCode": "24",
         "countryCode": "TR",
         "latitude": "39.76819140",
         "longitude": "39.05013060"
     },
     {
-        "name": "Amasya Province",
+        "name": "Amasya",
         "isoCode": "05",
         "countryCode": "TR",
         "latitude": "40.65166080",
         "longitude": "35.90379660"
     },
     {
-        "name": "Muş Province",
+        "name": "Muş",
         "isoCode": "49",
         "countryCode": "TR",
         "latitude": "38.94618880",
         "longitude": "41.75389310"
     },
     {
-        "name": "Bursa Province",
+        "name": "Bursa",
         "isoCode": "16",
         "countryCode": "TR",
         "latitude": "40.06554590",
         "longitude": "29.23207840"
     },
     {
-        "name": "Eskişehir Province",
+        "name": "Eskişehir",
         "isoCode": "26",
         "countryCode": "TR",
         "latitude": "39.63296570",
         "longitude": "31.26263660"
     },
     {
-        "name": "Erzurum Province",
+        "name": "Erzurum",
         "isoCode": "25",
         "countryCode": "TR",
         "latitude": "40.07467990",
         "longitude": "41.66945620"
     },
     {
-        "name": "Iğdır Province",
+        "name": "Iğdır",
         "isoCode": "76",
         "countryCode": "TR",
         "latitude": "39.88798410",
         "longitude": "44.00483650"
     },
     {
-        "name": "Tekirdağ Province",
+        "name": "Tekirdağ",
         "isoCode": "59",
         "countryCode": "TR",
         "latitude": "41.11212270",
         "longitude": "27.26761160"
     },
     {
-        "name": "Çankırı Province",
+        "name": "Çankırı",
         "isoCode": "18",
         "countryCode": "TR",
         "latitude": "40.53690730",
         "longitude": "33.58838930"
     },
     {
-        "name": "Antalya Province",
+        "name": "Antalya",
         "isoCode": "07",
         "countryCode": "TR",
         "latitude": "37.09516720",
         "longitude": "31.07937050"
     },
     {
-        "name": "Istanbul Province",
+        "name": "Istanbul",
         "isoCode": "34",
         "countryCode": "TR",
         "latitude": "41.16343020",
         "longitude": "28.76644080"
     },
     {
-        "name": "Konya Province",
+        "name": "Konya",
         "isoCode": "42",
         "countryCode": "TR",
         "latitude": "37.98381340",
         "longitude": "32.71813750"
     },
     {
-        "name": "Bolu Province",
+        "name": "Bolu",
         "isoCode": "14",
         "countryCode": "TR",
         "latitude": "40.57597660",
         "longitude": "31.57880860"
     },
     {
-        "name": "Çorum Province",
+        "name": "Çorum",
         "isoCode": "19",
         "countryCode": "TR",
         "latitude": "40.49982110",
         "longitude": "34.59862630"
     },
     {
-        "name": "Ordu Province",
+        "name": "Ordu",
         "isoCode": "52",
         "countryCode": "TR",
         "latitude": "40.79905800",
         "longitude": "37.38990050"
     },
     {
-        "name": "Balıkesir Province",
+        "name": "Balıkesir",
         "isoCode": "10",
         "countryCode": "TR",
         "latitude": "39.76167820",
         "longitude": "28.11226790"
     },
     {
-        "name": "Kırklareli Province",
+        "name": "Kırklareli",
         "isoCode": "39",
         "countryCode": "TR",
         "latitude": "41.72597950",
         "longitude": "27.48383900"
     },
     {
-        "name": "Bayburt Province",
+        "name": "Bayburt",
         "isoCode": "69",
         "countryCode": "TR",
         "latitude": "40.26032000",
         "longitude": "40.22804800"
     },
     {
-        "name": "Kırıkkale Province",
+        "name": "Kırıkkale",
         "isoCode": "71",
         "countryCode": "TR",
         "latitude": "39.88768780",
         "longitude": "33.75552480"
     },
     {
-        "name": "Afyonkarahisar Province",
+        "name": "Afyonkarahisar",
         "isoCode": "03",
         "countryCode": "TR",
         "latitude": "38.73910990",
         "longitude": "30.71200230"
     },
     {
-        "name": "Kırşehir Province",
+        "name": "Kırşehir",
         "isoCode": "40",
         "countryCode": "TR",
         "latitude": "39.22689050",
         "longitude": "33.97500180"
     },
     {
-        "name": "Sivas Province",
+        "name": "Sivas",
         "isoCode": "58",
         "countryCode": "TR",
         "latitude": "39.44880390",
         "longitude": "37.12944970"
     },
     {
-        "name": "Muğla Province",
+        "name": "Muğla",
         "isoCode": "48",
         "countryCode": "TR",
         "latitude": "37.18358190",
         "longitude": "28.48639630"
     },
     {
-        "name": "Şanlıurfa Province",
+        "name": "Şanlıurfa",
         "isoCode": "63",
         "countryCode": "TR",
         "latitude": "37.35691020",
         "longitude": "39.15436770"
     },
     {
-        "name": "Karaman Province",
+        "name": "Karaman",
         "isoCode": "70",
         "countryCode": "TR",
         "latitude": "37.24363360",
         "longitude": "33.61757700"
     },
     {
-        "name": "Ardahan Province",
+        "name": "Ardahan",
         "isoCode": "75",
         "countryCode": "TR",
         "latitude": "41.11129640",
         "longitude": "42.78316740"
     },
     {
-        "name": "Giresun Province",
+        "name": "Giresun",
         "isoCode": "28",
         "countryCode": "TR",
         "latitude": "40.64616720",
         "longitude": "38.59355110"
     },
     {
-        "name": "Aydın Province",
+        "name": "Aydın",
         "isoCode": "09",
         "countryCode": "TR",
         "latitude": "37.81170330",
         "longitude": "28.48639630"
     },
     {
-        "name": "Yozgat Province",
+        "name": "Yozgat",
         "isoCode": "66",
         "countryCode": "TR",
         "latitude": "39.72719790",
         "longitude": "35.10778580"
     },
     {
-        "name": "Niğde Province",
+        "name": "Niğde",
         "isoCode": "51",
         "countryCode": "TR",
         "latitude": "38.09930860",
         "longitude": "34.68565090"
     },
     {
-        "name": "Hakkâri Province",
+        "name": "Hakkâri",
         "isoCode": "30",
         "countryCode": "TR",
         "latitude": "37.44593190",
         "longitude": "43.74498410"
     },
     {
-        "name": "Artvin Province",
+        "name": "Artvin",
         "isoCode": "08",
         "countryCode": "TR",
         "latitude": "41.07866400",
         "longitude": "41.76282230"
     },
     {
-        "name": "Tunceli Province",
+        "name": "Tunceli",
         "isoCode": "62",
         "countryCode": "TR",
         "latitude": "39.30735540",
         "longitude": "39.43877780"
     },
     {
-        "name": "Ağrı Province",
+        "name": "Ağrı",
         "isoCode": "04",
         "countryCode": "TR",
         "latitude": "39.62692180",
         "longitude": "43.02159650"
     },
     {
-        "name": "Batman Province",
+        "name": "Batman",
         "isoCode": "72",
         "countryCode": "TR",
         "latitude": "37.83624960",
         "longitude": "41.36057390"
     },
     {
-        "name": "Kocaeli Province",
+        "name": "Kocaeli",
         "isoCode": "41",
         "countryCode": "TR",
         "latitude": "40.85327040",
         "longitude": "29.88152030"
     },
     {
-        "name": "Nevşehir Province",
+        "name": "Nevşehir",
         "isoCode": "50",
         "countryCode": "TR",
         "latitude": "38.69393990",
         "longitude": "34.68565090"
     },
     {
-        "name": "Kastamonu Province",
+        "name": "Kastamonu",
         "isoCode": "37",
         "countryCode": "TR",
         "latitude": "41.41038630",
         "longitude": "33.69983340"
     },
     {
-        "name": "Manisa Province",
+        "name": "Manisa",
         "isoCode": "45",
         "countryCode": "TR",
         "latitude": "38.84193730",
         "longitude": "28.11226790"
     },
     {
-        "name": "Tokat Province",
+        "name": "Tokat",
         "isoCode": "60",
         "countryCode": "TR",
         "latitude": "40.39027130",
         "longitude": "36.62518630"
     },
     {
-        "name": "Kayseri Province",
+        "name": "Kayseri",
         "isoCode": "38",
         "countryCode": "TR",
         "latitude": "38.62568540",
         "longitude": "35.74068820"
     },
     {
-        "name": "Uşak Province",
+        "name": "Uşak",
         "isoCode": "64",
         "countryCode": "TR",
         "latitude": "38.54313190",
         "longitude": "29.23207840"
     },
     {
-        "name": "Düzce Province",
+        "name": "Düzce",
         "isoCode": "81",
         "countryCode": "TR",
         "latitude": "40.87705310",
         "longitude": "31.31927130"
     },
     {
-        "name": "Gaziantep Province",
+        "name": "Gaziantep",
         "isoCode": "27",
         "countryCode": "TR",
         "latitude": "37.07638820",
         "longitude": "37.38272340"
     },
     {
-        "name": "Gümüşhane Province",
+        "name": "Gümüşhane",
         "isoCode": "29",
         "countryCode": "TR",
         "latitude": "40.28036730",
         "longitude": "39.31432530"
     },
     {
-        "name": "İzmir Province",
+        "name": "İzmir",
         "isoCode": "35",
         "countryCode": "TR",
         "latitude": "38.35916930",
         "longitude": "27.26761160"
     },
     {
-        "name": "Trabzon Province",
+        "name": "Trabzon",
         "isoCode": "61",
         "countryCode": "TR",
         "latitude": "40.79924100",
         "longitude": "39.58479440"
     },
     {
-        "name": "Siirt Province",
+        "name": "Siirt",
         "isoCode": "56",
         "countryCode": "TR",
         "latitude": "37.86588620",
         "longitude": "42.14945230"
     },
     {
-        "name": "Kars Province",
+        "name": "Kars",
         "isoCode": "36",
         "countryCode": "TR",
         "latitude": "40.28076360",
         "longitude": "42.99195270"
     },
     {
-        "name": "Burdur Province",
+        "name": "Burdur",
         "isoCode": "15",
         "countryCode": "TR",
         "latitude": "37.46126690",
         "longitude": "30.06652360"
     },
     {
-        "name": "Aksaray Province",
+        "name": "Aksaray",
         "isoCode": "68",
         "countryCode": "TR",
         "latitude": "38.33520430",
         "longitude": "33.97500180"
     },
     {
-        "name": "Hatay Province",
+        "name": "Hatay",
         "isoCode": "31",
         "countryCode": "TR",
         "latitude": "36.40184880",
         "longitude": "36.34980970"
     },
     {
-        "name": "Adana Province",
+        "name": "Adana",
         "isoCode": "01",
         "countryCode": "TR",
         "latitude": "37.26123150",
         "longitude": "35.39050460"
     },
     {
-        "name": "Zonguldak Province",
+        "name": "Zonguldak",
         "isoCode": "67",
         "countryCode": "TR",
         "latitude": "41.31249170",
         "longitude": "31.85982510"
     },
     {
-        "name": "Osmaniye Province",
+        "name": "Osmaniye",
         "isoCode": "80",
         "countryCode": "TR",
         "latitude": "37.21302580",
         "longitude": "36.17626150"
     },
     {
-        "name": "Bitlis Province",
+        "name": "Bitlis",
         "isoCode": "13",
         "countryCode": "TR",
         "latitude": "38.65231330",
         "longitude": "42.42020280"
     },
     {
-        "name": "Çanakkale Province",
+        "name": "Çanakkale",
         "isoCode": "17",
         "countryCode": "TR",
         "latitude": "40.05101040",
         "longitude": "26.98524220"
     },
     {
-        "name": "Ankara Province",
+        "name": "Ankara",
         "isoCode": "06",
         "countryCode": "TR",
         "latitude": "39.78052450",
         "longitude": "32.71813750"
     },
     {
-        "name": "Yalova Province",
+        "name": "Yalova",
         "isoCode": "77",
         "countryCode": "TR",
         "latitude": "40.57759860",
         "longitude": "29.20883030"
     },
     {
-        "name": "Rize Province",
+        "name": "Rize",
         "isoCode": "53",
         "countryCode": "TR",
         "latitude": "40.95814970",
         "longitude": "40.92269850"
     },
     {
-        "name": "Samsun Province",
+        "name": "Samsun",
         "isoCode": "55",
         "countryCode": "TR",
         "latitude": "41.18648590",
         "longitude": "36.13226780"
     },
     {
-        "name": "Bilecik Province",
+        "name": "Bilecik",
         "isoCode": "11",
         "countryCode": "TR",
         "latitude": "40.05665550",
         "longitude": "30.06652360"
     },
     {
-        "name": "Isparta Province",
+        "name": "Isparta",
         "isoCode": "32",
         "countryCode": "TR",
         "latitude": "38.02114640",
         "longitude": "31.07937050"
     },
     {
-        "name": "Karabük Province",
+        "name": "Karabük",
         "isoCode": "78",
         "countryCode": "TR",
         "latitude": "41.18748900",
         "longitude": "32.74174190"
     },
     {
-        "name": "Mardin Province",
+        "name": "Mardin",
         "isoCode": "47",
         "countryCode": "TR",
         "latitude": "37.34429290",
         "longitude": "40.61964870"
     },
     {
-        "name": "Şırnak Province",
+        "name": "Şırnak",
         "isoCode": "73",
         "countryCode": "TR",
         "latitude": "37.41874810",
         "longitude": "42.49183380"
     },
     {
-        "name": "Diyarbakır Province",
+        "name": "Diyarbakır",
         "isoCode": "21",
         "countryCode": "TR",
         "latitude": "38.10663720",
         "longitude": "40.54268960"
     },
     {
-        "name": "Kahramanmaraş Province",
+        "name": "Kahramanmaraş",
         "isoCode": "46",
         "countryCode": "TR",
         "latitude": "37.75030360",
@@ -15491,7 +15442,7 @@
         "longitude": "111.85685860"
     },
     {
-        "name": "Taiwan Province, People's Republic of China",
+        "name": "Taiwan",
         "isoCode": "TW",
         "countryCode": "CN",
         "latitude": "23.69781000",
@@ -15540,7 +15491,7 @@
         "longitude": "107.29028390"
     },
     {
-        "name": "Ningxia Hui Autonomous Region",
+        "name": "Ningxia Huizu",
         "isoCode": "NX",
         "countryCode": "CN",
         "latitude": "37.19873100",
@@ -15554,7 +15505,7 @@
         "longitude": "87.53958550"
     },
     {
-        "name": "Tibet Autonomous Region",
+        "name": "Xizang",
         "isoCode": "XZ",
         "countryCode": "CN",
         "latitude": "30.15336050",
@@ -15568,14 +15519,14 @@
         "longitude": "128.73823100"
     },
     {
-        "name": "Macau",
+        "name": "Macau SAR",
         "isoCode": "MO",
         "countryCode": "CN",
         "latitude": "22.19874500",
         "longitude": "113.54387300"
     },
     {
-        "name": "Hong Kong",
+        "name": "Hong Kong SAR",
         "isoCode": "HK",
         "countryCode": "CN",
         "latitude": "22.31930390",
@@ -15638,11 +15589,11 @@
         "longitude": "104.28611160"
     },
     {
-        "name": "Keelung",
-        "isoCode": "TW-KEE",
+        "name": "Tianjin",
+        "isoCode": "TJ",
         "countryCode": "CN",
-        "latitude": "25.12760330",
-        "longitude": "121.73918330"
+        "latitude": "39.12522910",
+        "longitude": "117.01534350"
     },
     {
         "name": "Sichuan",
@@ -15652,7 +15603,7 @@
         "longitude": "102.80547530"
     },
     {
-        "name": "Guangxi Zhuang Autonomous Region",
+        "name": "Guangxi Zhuang",
         "isoCode": "GX",
         "countryCode": "CN",
         "latitude": "23.72475990",
@@ -19985,7 +19936,7 @@
         "longitude": "-73.65362090"
     },
     {
-        "name": "San Andrés, Providencia y Santa Catalina",
+        "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
         "isoCode": "SAP",
         "countryCode": "CO",
         "latitude": "12.55673240",
@@ -20020,119 +19971,119 @@
         "longitude": "-76.64127120"
     },
     {
-        "name": "Galápagos Province",
+        "name": "Galápagos",
         "isoCode": "W",
         "countryCode": "EC",
         "latitude": "-0.95376910",
         "longitude": "-90.96560190"
     },
     {
-        "name": "Sucumbíos Province",
+        "name": "Sucumbíos",
         "isoCode": "U",
         "countryCode": "EC",
         "latitude": "0.08892310",
         "longitude": "-76.88975570"
     },
     {
-        "name": "Pastaza Province",
+        "name": "Pastaza",
         "isoCode": "Y",
         "countryCode": "EC",
         "latitude": "-1.48822650",
         "longitude": "-78.00310570"
     },
     {
-        "name": "Tungurahua Province",
+        "name": "Tungurahua",
         "isoCode": "T",
         "countryCode": "EC",
         "latitude": "-1.26352840",
         "longitude": "-78.56608520"
     },
     {
-        "name": "Zamora-Chinchipe Province",
+        "name": "Zamora Chinchipe",
         "isoCode": "Z",
         "countryCode": "EC",
         "latitude": "-4.06558920",
         "longitude": "-78.95035250"
     },
     {
-        "name": "Los Ríos Province",
+        "name": "Los Ríos",
         "isoCode": "R",
         "countryCode": "EC",
         "latitude": "-1.02306070",
         "longitude": "-79.46088970"
     },
     {
-        "name": "Imbabura Province",
+        "name": "Imbabura",
         "isoCode": "I",
         "countryCode": "EC",
         "latitude": "0.34997680",
         "longitude": "-78.12601290"
     },
     {
-        "name": "Santa Elena Province",
+        "name": "Santa Elena",
         "isoCode": "SE",
         "countryCode": "EC",
         "latitude": "-2.22671050",
         "longitude": "-80.85949900"
     },
     {
-        "name": "Manabí Province",
+        "name": "Manabí",
         "isoCode": "M",
         "countryCode": "EC",
         "latitude": "-1.05434340",
         "longitude": "-80.45264400"
     },
     {
-        "name": "Guayas Province",
+        "name": "Guayas",
         "isoCode": "G",
         "countryCode": "EC",
         "latitude": "-1.95748390",
         "longitude": "-79.91927020"
     },
     {
-        "name": "Carchi Province",
+        "name": "Carchi",
         "isoCode": "C",
         "countryCode": "EC",
         "latitude": "0.50269120",
         "longitude": "-77.90425210"
     },
     {
-        "name": "Napo Province",
+        "name": "Napo",
         "isoCode": "N",
         "countryCode": "EC",
         "latitude": "-0.99559640",
         "longitude": "-77.81296840"
     },
     {
-        "name": "Cañar Province",
+        "name": "Cañar",
         "isoCode": "F",
         "countryCode": "EC",
         "latitude": "-2.55893150",
         "longitude": "-78.93881910"
     },
     {
-        "name": "Morona-Santiago Province",
+        "name": "Morona-Santiago",
         "isoCode": "S",
         "countryCode": "EC",
         "latitude": "-2.30510620",
         "longitude": "-78.11468660"
     },
     {
-        "name": "Santo Domingo de los Tsáchilas Province",
+        "name": "Santo Domingo de los Tsáchilas",
         "isoCode": "SD",
         "countryCode": "EC",
         "latitude": "-0.25218820",
         "longitude": "-79.18793830"
     },
     {
-        "name": "Bolívar Province",
+        "name": "Bolívar",
         "isoCode": "B",
         "countryCode": "EC",
         "latitude": "-1.70958280",
         "longitude": "-79.04504290"
     },
     {
-        "name": "Cotopaxi Province",
+        "name": "Cotopaxi",
         "isoCode": "X",
         "countryCode": "EC",
         "latitude": "-0.83842060",
@@ -20146,35 +20097,35 @@
         "longitude": "-79.65172020"
     },
     {
-        "name": "Azuay Province",
+        "name": "Azuay",
         "isoCode": "A",
         "countryCode": "EC",
         "latitude": "-2.89430680",
         "longitude": "-78.99683440"
     },
     {
-        "name": "El Oro Province",
+        "name": "El Oro",
         "isoCode": "O",
         "countryCode": "EC",
         "latitude": "-3.25924130",
         "longitude": "-79.95835410"
     },
     {
-        "name": "Chimborazo Province",
+        "name": "Chimborazo",
         "isoCode": "H",
         "countryCode": "EC",
         "latitude": "-1.66479950",
         "longitude": "-78.65432550"
     },
     {
-        "name": "Orellana Province",
+        "name": "Orellana",
         "isoCode": "D",
         "countryCode": "EC",
         "latitude": "-0.45451630",
         "longitude": "-76.99502860"
     },
     {
-        "name": "Pichincha Province",
+        "name": "Pichincha",
         "isoCode": "P",
         "countryCode": "EC",
         "latitude": "-0.14648470",
@@ -22232,182 +22183,182 @@
         "longitude": "-55.98598870"
     },
     {
-        "name": "Kafr el-Sheikh Governorate",
+        "name": "Kafr el-Sheikh",
         "isoCode": "KFS",
         "countryCode": "EG",
         "latitude": "31.30854440",
         "longitude": "30.80394740"
     },
     {
-        "name": "Cairo Governorate",
+        "name": "Cairo",
         "isoCode": "C",
         "countryCode": "EG",
         "latitude": "29.95375640",
         "longitude": "31.53700030"
     },
     {
-        "name": "Damietta Governorate",
+        "name": "Damietta",
         "isoCode": "DT",
         "countryCode": "EG",
         "latitude": "31.36257990",
         "longitude": "31.67393710"
     },
     {
-        "name": "Aswan Governorate",
+        "name": "Aswan",
         "isoCode": "ASN",
         "countryCode": "EG",
         "latitude": "23.69664980",
         "longitude": "32.71813750"
     },
     {
-        "name": "Sohag Governorate",
+        "name": "Sohag",
         "isoCode": "SHG",
         "countryCode": "EG",
         "latitude": "26.69383400",
         "longitude": "32.17460500"
     },
     {
-        "name": "North Sinai Governorate",
+        "name": "North Sinai",
         "isoCode": "SIN",
         "countryCode": "EG",
         "latitude": "30.28236500",
         "longitude": "33.61757700"
     },
     {
-        "name": "Monufia Governorate",
+        "name": "Monufia",
         "isoCode": "MNF",
         "countryCode": "EG",
         "latitude": "30.59724550",
         "longitude": "30.98763210"
     },
     {
-        "name": "Port Said Governorate",
+        "name": "Port Said",
         "isoCode": "PTS",
         "countryCode": "EG",
         "latitude": "31.07586060",
         "longitude": "32.26538870"
     },
     {
-        "name": "Beni Suef Governorate",
+        "name": "Beni Suef",
         "isoCode": "BNS",
         "countryCode": "EG",
         "latitude": "28.89388370",
         "longitude": "31.44561790"
     },
     {
-        "name": "Matrouh Governorate",
+        "name": "Matrouh",
         "isoCode": "MT",
         "countryCode": "EG",
         "latitude": "29.56963500",
         "longitude": "26.41938900"
     },
     {
-        "name": "Qalyubia Governorate",
+        "name": "Qalyubia",
         "isoCode": "KB",
         "countryCode": "EG",
         "latitude": "30.32923680",
         "longitude": "31.21684660"
     },
     {
-        "name": "Suez Governorate",
+        "name": "Suez",
         "isoCode": "SUZ",
         "countryCode": "EG",
         "latitude": "29.36822550",
         "longitude": "32.17460500"
     },
     {
-        "name": "Gharbia Governorate",
+        "name": "Gharbia",
         "isoCode": "GH",
         "countryCode": "EG",
         "latitude": "30.87535560",
         "longitude": "31.03351000"
     },
     {
-        "name": "Alexandria Governorate",
+        "name": "Alexandria",
         "isoCode": "ALX",
         "countryCode": "EG",
         "latitude": "30.87605680",
         "longitude": "29.74260400"
     },
     {
-        "name": "Asyut Governorate",
+        "name": "Asyut",
         "isoCode": "AST",
         "countryCode": "EG",
         "latitude": "27.21338310",
         "longitude": "31.44561790"
     },
     {
-        "name": "South Sinai Governorate",
+        "name": "South Sinai",
         "isoCode": "JS",
         "countryCode": "EG",
         "latitude": "29.31018280",
         "longitude": "34.15319470"
     },
     {
-        "name": "Faiyum Governorate",
+        "name": "Faiyum",
         "isoCode": "FYM",
         "countryCode": "EG",
         "latitude": "29.30840210",
         "longitude": "30.84284970"
     },
     {
-        "name": "Giza Governorate",
+        "name": "Giza",
         "isoCode": "GZ",
         "countryCode": "EG",
         "latitude": "28.76662160",
         "longitude": "29.23207840"
     },
     {
-        "name": "Red Sea Governorate",
+        "name": "Red Sea",
         "isoCode": "BA",
         "countryCode": "EG",
         "latitude": "24.68263160",
         "longitude": "34.15319470"
     },
     {
-        "name": "Beheira Governorate",
+        "name": "Beheira",
         "isoCode": "BH",
         "countryCode": "EG",
         "latitude": "30.84809860",
         "longitude": "30.34355060"
     },
     {
-        "name": "Luxor Governorate",
+        "name": "Luxor",
         "isoCode": "LX",
         "countryCode": "EG",
         "latitude": "25.39444440",
         "longitude": "32.49200880"
     },
     {
-        "name": "Minya Governorate",
+        "name": "Minya",
         "isoCode": "MN",
         "countryCode": "EG",
         "latitude": "28.28472900",
         "longitude": "30.52790960"
     },
     {
-        "name": "Ismailia Governorate",
+        "name": "Ismailia",
         "isoCode": "IS",
         "countryCode": "EG",
         "latitude": "30.58309340",
         "longitude": "32.26538870"
     },
     {
-        "name": "Dakahlia Governorate",
+        "name": "Dakahlia",
         "isoCode": "DK",
         "countryCode": "EG",
         "latitude": "31.16560440",
         "longitude": "31.49131820"
     },
     {
-        "name": "New Valley Governorate",
+        "name": "New Valley",
         "isoCode": "WAD",
         "countryCode": "EG",
         "latitude": "24.54556380",
         "longitude": "27.17353160"
     },
     {
-        "name": "Qena Governorate",
+        "name": "Qena",
         "isoCode": "KN",
         "countryCode": "EG",
         "latitude": "26.23460330",
@@ -23478,35 +23429,28 @@
         "longitude": "69.09702300"
     },
     {
-        "name": "Tainan County",
-        "isoCode": "TNQ",
-        "countryCode": "TW",
-        "latitude": "22.99972810",
-        "longitude": "120.22702770"
-    },
-    {
-        "name": "Yilan County",
+        "name": "Yilan",
         "isoCode": "ILA",
         "countryCode": "TW",
         "latitude": "24.70210730",
         "longitude": "121.73775020"
     },
     {
-        "name": "Penghu County",
+        "name": "Penghu",
         "isoCode": "PEN",
         "countryCode": "TW",
         "latitude": "23.57118990",
         "longitude": "119.57931570"
     },
     {
-        "name": "Changhua County",
+        "name": "Changhua",
         "isoCode": "CHA",
         "countryCode": "TW",
         "latitude": "24.05179630",
         "longitude": "120.51613520"
     },
     {
-        "name": "Pingtung County",
+        "name": "Pingtung",
         "isoCode": "PIF",
         "countryCode": "TW",
         "latitude": "22.55197590",
@@ -23520,35 +23464,28 @@
         "longitude": "120.67364820"
     },
     {
-        "name": "Nantou County",
+        "name": "Nantou",
         "isoCode": "NAN",
         "countryCode": "TW",
         "latitude": "23.96099810",
         "longitude": "120.97186380"
     },
     {
-        "name": "Chiayi County",
+        "name": "Chiayi",
         "isoCode": "CYI",
         "countryCode": "TW",
         "latitude": "23.45184280",
         "longitude": "120.25546150"
     },
     {
-        "name": "Kaohsiung County",
-        "isoCode": "KHQ",
-        "countryCode": "TW",
-        "latitude": "22.62727840",
-        "longitude": "120.30143530"
-    },
-    {
-        "name": "Taitung County",
+        "name": "Taitung",
         "isoCode": "TTT",
         "countryCode": "TW",
         "latitude": "22.79724470",
         "longitude": "121.07137020"
     },
     {
-        "name": "Hualien County",
+        "name": "Hualien",
         "isoCode": "HUA",
         "countryCode": "TW",
         "latitude": "23.98715890",
@@ -23562,18 +23499,11 @@
         "longitude": "120.30143530"
     },
     {
-        "name": "Miaoli County",
+        "name": "Miaoli",
         "isoCode": "MIA",
         "countryCode": "TW",
         "latitude": "24.56015900",
         "longitude": "120.82142650"
-    },
-    {
-        "name": "Taichung County",
-        "isoCode": "TXQ",
-        "countryCode": "TW",
-        "latitude": "24.14773580",
-        "longitude": "120.67364820"
     },
     {
         "name": "Kinmen",
@@ -23583,7 +23513,7 @@
         "longitude": "118.32856440"
     },
     {
-        "name": "Yunlin County",
+        "name": "Yunlin",
         "isoCode": "YUN",
         "countryCode": "TW",
         "latitude": "23.70920330",
@@ -23597,21 +23527,21 @@
         "longitude": "120.96747980"
     },
     {
-        "name": "Chiayi City",
+        "name": "Chiayi",
         "isoCode": "CYQ",
         "countryCode": "TW",
         "latitude": "23.48007510",
         "longitude": "120.44911130"
     },
     {
-        "name": "Taoyuan City",
+        "name": "Taoyuan",
         "isoCode": "TAO",
         "countryCode": "TW",
         "latitude": "24.99362810",
         "longitude": "121.30097980"
     },
     {
-        "name": "Lienchiang County",
+        "name": "Lienchiang",
         "isoCode": "LIE",
         "countryCode": "TW",
         "latitude": "26.15055560",
@@ -23632,7 +23562,7 @@
         "longitude": "121.56541770"
     },
     {
-        "name": "Hsinchu County",
+        "name": "Hsinchu",
         "isoCode": "HSQ",
         "countryCode": "TW",
         "latitude": "24.83872260",
@@ -23821,7 +23751,7 @@
         "longitude": "-107.47951730"
     },
     {
-        "name": "México",
+        "name": "Estado de México",
         "isoCode": "MEX",
         "countryCode": "MX",
         "latitude": "23.63450100",
@@ -23919,7 +23849,7 @@
         "longitude": "-98.83627550"
     },
     {
-        "name": "Veracruz",
+        "name": "Veracruz de Ignacio de la Llave",
         "isoCode": "VER",
         "countryCode": "MX",
         "latitude": "19.17377300",
@@ -23968,7 +23898,7 @@
         "longitude": "-98.26306840"
     },
     {
-        "name": "Coahuila",
+        "name": "Coahuila de Zaragoza",
         "isoCode": "COA",
         "countryCode": "MX",
         "latitude": "27.05867600",
@@ -23982,14 +23912,14 @@
         "longitude": "-103.72408680"
     },
     {
-        "name": "Mexico City",
-        "isoCode": "CMX",
+        "name": "Ciudad de México",
+        "isoCode": "CDMX",
         "countryCode": "MX",
         "latitude": "19.43260770",
         "longitude": "-99.13320800"
     },
     {
-        "name": "Michoacán",
+        "name": "Michoacán de Ocampo",
         "isoCode": "MIC",
         "countryCode": "MX",
         "latitude": "19.56651920",
@@ -25109,28 +25039,28 @@
         "longitude": "-73.06413960"
     },
     {
-        "name": "San Juan Province",
+        "name": "San Juan",
         "isoCode": "J",
         "countryCode": "AR",
-        "latitude": null,
-        "longitude": null
+        "latitude": "-31.53169760",
+        "longitude": "-68.56769620"
     },
     {
-        "name": "Santiago del Estero Province",
+        "name": "Santiago del Estero",
         "isoCode": "G",
         "countryCode": "AR",
         "latitude": "-27.78335740",
         "longitude": "-64.26416700"
     },
     {
-        "name": "San Luis Province",
+        "name": "San Luis",
         "isoCode": "D",
         "countryCode": "AR",
         "latitude": "-33.29620420",
         "longitude": "-66.32949480"
     },
     {
-        "name": "Tucumán Province",
+        "name": "Tucumán",
         "isoCode": "T",
         "countryCode": "AR",
         "latitude": "-26.82211270",
@@ -25144,49 +25074,49 @@
         "longitude": "-58.83063490"
     },
     {
-        "name": "Río Negro Province",
+        "name": "Río Negro",
         "isoCode": "R",
         "countryCode": "AR",
         "latitude": "-40.82614340",
         "longitude": "-63.02663390"
     },
     {
-        "name": "Chaco Province",
+        "name": "Chaco",
         "isoCode": "H",
         "countryCode": "AR",
         "latitude": "-27.42571750",
         "longitude": "-59.02437840"
     },
     {
-        "name": "Santa Fe Province",
+        "name": "Santa Fe",
         "isoCode": "S",
         "countryCode": "AR",
         "latitude": "-31.58551090",
         "longitude": "-60.72380160"
     },
     {
-        "name": "Córdoba Province",
+        "name": "Córdoba",
         "isoCode": "X",
         "countryCode": "AR",
-        "latitude": null,
-        "longitude": null
+        "latitude": "-31.39928760",
+        "longitude": "-64.26438420"
     },
     {
-        "name": "Salta Province",
+        "name": "Salta",
         "isoCode": "A",
         "countryCode": "AR",
         "latitude": "-24.79976880",
         "longitude": "-65.41503670"
     },
     {
-        "name": "Misiones Province",
+        "name": "Misiones",
         "isoCode": "N",
         "countryCode": "AR",
         "latitude": "-27.42692550",
         "longitude": "-55.94670760"
     },
     {
-        "name": "Jujuy Province",
+        "name": "Jujuy",
         "isoCode": "Y",
         "countryCode": "AR",
         "latitude": "-24.18433970",
@@ -25200,56 +25130,56 @@
         "longitude": "-68.84583860"
     },
     {
-        "name": "Catamarca Province",
+        "name": "Catamarca",
         "isoCode": "K",
         "countryCode": "AR",
         "latitude": "-28.47158770",
         "longitude": "-65.78772090"
     },
     {
-        "name": "Neuquén Province",
+        "name": "Neuquén",
         "isoCode": "Q",
         "countryCode": "AR",
         "latitude": "-38.94587000",
         "longitude": "-68.07309250"
     },
     {
-        "name": "Santa Cruz Province",
+        "name": "Santa Cruz",
         "isoCode": "Z",
         "countryCode": "AR",
         "latitude": "-51.63528210",
         "longitude": "-69.24743530"
     },
     {
-        "name": "Tierra del Fuego Province",
+        "name": "Tierra del Fuego",
         "isoCode": "V",
         "countryCode": "AR",
         "latitude": "-54.80539980",
         "longitude": "-68.32420610"
     },
     {
-        "name": "Chubut Province",
+        "name": "Chubut",
         "isoCode": "U",
         "countryCode": "AR",
         "latitude": "-43.29342460",
         "longitude": "-65.11148180"
     },
     {
-        "name": "Formosa Province",
+        "name": "Formosa",
         "isoCode": "P",
         "countryCode": "AR",
         "latitude": "-26.18948040",
         "longitude": "-58.22428060"
     },
     {
-        "name": "La Rioja Province",
+        "name": "La Rioja",
         "isoCode": "F",
         "countryCode": "AR",
         "latitude": "-29.41937930",
         "longitude": "-66.85599320"
     },
     {
-        "name": "Entre Ríos Province",
+        "name": "Entre Ríos",
         "isoCode": "E",
         "countryCode": "AR",
         "latitude": "-31.77466540",
@@ -25263,7 +25193,7 @@
         "longitude": "-64.28392090"
     },
     {
-        "name": "Buenos Aires Province",
+        "name": "Buenos Aires",
         "isoCode": "B",
         "countryCode": "AR",
         "latitude": "-37.20172850",
@@ -26960,8 +26890,8 @@
         "name": "Victoria",
         "isoCode": "VIC",
         "countryCode": "AU",
-        "latitude": null,
-        "longitude": null
+        "latitude": "-36.48564230",
+        "longitude": "140.97794250"
     },
     {
         "name": "South Australia",
@@ -27048,105 +26978,105 @@
         "longitude": "-95.71289100"
     },
     {
-        "name": "Markazi Province",
+        "name": "Markazi",
         "isoCode": "00",
         "countryCode": "IR",
         "latitude": "34.61230500",
         "longitude": "49.85472660"
     },
     {
-        "name": "Khuzestan Province",
+        "name": "Khuzestan",
         "isoCode": "06",
         "countryCode": "IR",
         "latitude": "31.43601490",
         "longitude": "49.04131200"
     },
     {
-        "name": "Ilam Province",
+        "name": "Ilam",
         "isoCode": "16",
         "countryCode": "IR",
         "latitude": "33.29576180",
         "longitude": "46.67053400"
     },
     {
-        "name": "Kermanshah Province",
+        "name": "Kermanshah",
         "isoCode": "05",
         "countryCode": "IR",
         "latitude": "34.45762330",
         "longitude": "46.67053400"
     },
     {
-        "name": "Gilan Province",
+        "name": "Gilan",
         "isoCode": "01",
         "countryCode": "IR",
         "latitude": "37.28094550",
         "longitude": "49.59241340"
     },
     {
-        "name": "Chaharmahal and Bakhtiari Province",
+        "name": "Chaharmahal and Bakhtiari",
         "isoCode": "14",
         "countryCode": "IR",
         "latitude": "31.99704190",
         "longitude": "50.66138490"
     },
     {
-        "name": "Qom Province",
+        "name": "Qom",
         "isoCode": "25",
         "countryCode": "IR",
         "latitude": "34.64157640",
         "longitude": "50.87460350"
     },
     {
-        "name": "Isfahan Province",
+        "name": "Isfahan",
         "isoCode": "10",
         "countryCode": "IR",
         "latitude": "33.27710730",
         "longitude": "52.36133780"
     },
     {
-        "name": "West Azarbaijan Province",
+        "name": "West Azarbaijan",
         "isoCode": "04",
         "countryCode": "IR",
         "latitude": "37.45500620",
         "longitude": "45.00000000"
     },
     {
-        "name": "Zanjan Province",
+        "name": "Zanjan",
         "isoCode": "19",
         "countryCode": "IR",
         "latitude": "36.50181850",
         "longitude": "48.39881860"
     },
     {
-        "name": "Kohgiluyeh and Boyer-Ahmad Province",
+        "name": "Kohgiluyeh and Boyer-Ahmad",
         "isoCode": "17",
         "countryCode": "IR",
         "latitude": "30.72458600",
         "longitude": "50.84563230"
     },
     {
-        "name": "Razavi Khorasan Province",
+        "name": "Razavi Khorasan",
         "isoCode": "09",
         "countryCode": "IR",
         "latitude": "35.10202530",
         "longitude": "59.10417580"
     },
     {
-        "name": "Lorestan Province",
+        "name": "Lorestan",
         "isoCode": "15",
         "countryCode": "IR",
         "latitude": "33.58183940",
         "longitude": "48.39881860"
     },
     {
-        "name": "Alborz Province",
+        "name": "Alborz",
         "isoCode": "30",
         "countryCode": "IR",
         "latitude": "35.99604670",
         "longitude": "50.92892460"
     },
     {
-        "name": "South Khorasan Province",
+        "name": "South Khorasan",
         "isoCode": "29",
         "countryCode": "IR",
         "latitude": "32.51756430",
@@ -27160,98 +27090,98 @@
         "longitude": "60.58206760"
     },
     {
-        "name": "Bushehr Province",
+        "name": "Bushehr",
         "isoCode": "18",
         "countryCode": "IR",
         "latitude": "28.76207390",
         "longitude": "51.51500770"
     },
     {
-        "name": "Golestan Province",
+        "name": "Golestan",
         "isoCode": "27",
         "countryCode": "IR",
         "latitude": "37.28981230",
         "longitude": "55.13758340"
     },
     {
-        "name": "Ardabil Province",
+        "name": "Ardabil",
         "isoCode": "24",
         "countryCode": "IR",
         "latitude": "38.48532760",
         "longitude": "47.89112090"
     },
     {
-        "name": "Kurdistan Province",
+        "name": "Kurdistan",
         "isoCode": "12",
         "countryCode": "IR",
         "latitude": "35.95535790",
         "longitude": "47.13621250"
     },
     {
-        "name": "Yazd Province",
+        "name": "Yazd",
         "isoCode": "21",
         "countryCode": "IR",
         "latitude": "32.10063870",
         "longitude": "54.43421380"
     },
     {
-        "name": "Hormozgan Province",
+        "name": "Hormozgan",
         "isoCode": "22",
         "countryCode": "IR",
         "latitude": "27.13872300",
         "longitude": "55.13758340"
     },
     {
-        "name": "Mazandaran Province",
+        "name": "Mazandaran",
         "isoCode": "02",
         "countryCode": "IR",
         "latitude": "36.22623930",
         "longitude": "52.53186040"
     },
     {
-        "name": "Fars Province",
+        "name": "Fars",
         "isoCode": "07",
         "countryCode": "IR",
         "latitude": "29.10438130",
         "longitude": "53.04589300"
     },
     {
-        "name": "Semnan Province",
+        "name": "Semnan",
         "isoCode": "20",
         "countryCode": "IR",
         "latitude": "35.22555850",
         "longitude": "54.43421380"
     },
     {
-        "name": "Qazvin Province",
+        "name": "Qazvin",
         "isoCode": "26",
         "countryCode": "IR",
         "latitude": "36.08813170",
         "longitude": "49.85472660"
     },
     {
-        "name": "North Khorasan Province",
+        "name": "North Khorasan",
         "isoCode": "28",
         "countryCode": "IR",
         "latitude": "37.47103530",
         "longitude": "57.10131880"
     },
     {
-        "name": "Kerman Province",
+        "name": "Kerman",
         "isoCode": "08",
         "countryCode": "IR",
         "latitude": "29.48500890",
         "longitude": "57.64390480"
     },
     {
-        "name": "East Azerbaijan Province",
+        "name": "East Azerbaijan",
         "isoCode": "03",
         "countryCode": "IR",
         "latitude": "37.90357330",
         "longitude": "46.26821090"
     },
     {
-        "name": "Tehran Province",
+        "name": "Tehran",
         "isoCode": "23",
         "countryCode": "IR",
         "latitude": "35.72484160",
@@ -27440,154 +27370,154 @@
         "longitude": "43.94367880"
     },
     {
-        "name": "Svay Rieng Province",
+        "name": "Svay Rieng",
         "isoCode": "20",
         "countryCode": "KH",
         "latitude": "11.14272200",
         "longitude": "105.82902980"
     },
     {
-        "name": "Preah Vihear Province",
+        "name": "Preah Vihear",
         "isoCode": "13",
         "countryCode": "KH",
         "latitude": "14.00857970",
         "longitude": "104.84546190"
     },
     {
-        "name": "Prey Veng Province",
+        "name": "Prey Veng",
         "isoCode": "14",
         "countryCode": "KH",
         "latitude": "11.38024420",
         "longitude": "105.50054830"
     },
     {
-        "name": "Takéo Province",
+        "name": "Takeo",
         "isoCode": "21",
         "countryCode": "KH",
         "latitude": "10.93215190",
         "longitude": "104.79877100"
     },
     {
-        "name": "Battambang Province",
+        "name": "Battambang",
         "isoCode": "2",
         "countryCode": "KH",
         "latitude": "13.02869710",
         "longitude": "102.98961500"
     },
     {
-        "name": "Pursat Province",
+        "name": "Pursat",
         "isoCode": "15",
         "countryCode": "KH",
         "latitude": "12.27209560",
         "longitude": "103.72891670"
     },
     {
-        "name": "Kep Province",
+        "name": "Kep",
         "isoCode": "23",
         "countryCode": "KH",
         "latitude": "10.53608900",
         "longitude": "104.35591580"
     },
     {
-        "name": "Kampong Chhnang Province",
+        "name": "Kampong Chhnang",
         "isoCode": "4",
         "countryCode": "KH",
         "latitude": "12.13923520",
         "longitude": "104.56552730"
     },
     {
-        "name": "Pailin Province",
+        "name": "Pailin",
         "isoCode": "24",
         "countryCode": "KH",
         "latitude": "12.90929620",
         "longitude": "102.66755750"
     },
     {
-        "name": "Kampot Province",
+        "name": "Kampot",
         "isoCode": "7",
         "countryCode": "KH",
         "latitude": "10.73253510",
         "longitude": "104.37919120"
     },
     {
-        "name": "Koh Kong Province",
+        "name": "Koh Kong",
         "isoCode": "9",
         "countryCode": "KH",
         "latitude": "11.57628040",
         "longitude": "103.35872880"
     },
     {
-        "name": "Kandal Province",
+        "name": "Kandal",
         "isoCode": "8",
         "countryCode": "KH",
         "latitude": "11.22373830",
         "longitude": "105.12589550"
     },
     {
-        "name": "Banteay Meanchey Province",
+        "name": "Banteay Meanchey",
         "isoCode": "1",
         "countryCode": "KH",
         "latitude": "13.75319140",
         "longitude": "102.98961500"
     },
     {
-        "name": "Mondulkiri Province",
+        "name": "Mondulkiri",
         "isoCode": "11",
         "countryCode": "KH",
         "latitude": "12.78794270",
         "longitude": "107.10119310"
     },
     {
-        "name": "Kratié Province",
+        "name": "Kratie",
         "isoCode": "10",
         "countryCode": "KH",
         "latitude": "12.50436080",
         "longitude": "105.96998780"
     },
     {
-        "name": "Oddar Meanchey Province",
+        "name": "Oddar Meanchey",
         "isoCode": "22",
         "countryCode": "KH",
         "latitude": "14.16097380",
         "longitude": "103.82162610"
     },
     {
-        "name": "Kampong Speu Province",
+        "name": "Kampong Speu",
         "isoCode": "5",
         "countryCode": "KH",
         "latitude": "11.61551090",
         "longitude": "104.37919120"
     },
     {
-        "name": "Sihanoukville Province",
+        "name": "Sihanoukville",
         "isoCode": "18",
         "countryCode": "KH",
         "latitude": "10.75818990",
         "longitude": "103.82162610"
     },
     {
-        "name": "Ratanakiri Province",
+        "name": "Ratanakiri",
         "isoCode": "16",
         "countryCode": "KH",
         "latitude": "13.85766070",
         "longitude": "107.10119310"
     },
     {
-        "name": "Kampong Cham Province",
+        "name": "Kampong Cham",
         "isoCode": "3",
         "countryCode": "KH",
         "latitude": "12.09829180",
         "longitude": "105.31311850"
     },
     {
-        "name": "Siem Reap Province",
+        "name": "Siem Reap",
         "isoCode": "17",
         "countryCode": "KH",
         "latitude": "13.33026600",
         "longitude": "104.10013260"
     },
     {
-        "name": "Stung Treng Province",
+        "name": "Stung Treng",
         "isoCode": "19",
         "countryCode": "KH",
         "latitude": "13.57647300",
@@ -27744,8 +27674,8 @@
         "name": "Punjab",
         "isoCode": "PB",
         "countryCode": "IN",
-        "latitude": null,
-        "longitude": null
+        "latitude": "31.14713050",
+        "longitude": "75.34121790"
     },
     {
         "name": "Uttarakhand",
@@ -32179,147 +32109,147 @@
         "longitude": "166.94270060"
     },
     {
-        "name": "Zhytomyr Oblast",
+        "name": "Zhytomyrska oblast",
         "isoCode": "18",
         "countryCode": "UA",
         "latitude": "50.25465000",
         "longitude": "28.65866690"
     },
     {
-        "name": "Vinnytsia Oblast",
+        "name": "Vinnytska oblast",
         "isoCode": "05",
         "countryCode": "UA",
         "latitude": "49.23308300",
         "longitude": "28.46821690"
     },
     {
-        "name": "Zakarpattia Oblast",
+        "name": "Zakarpatska Oblast",
         "isoCode": "21",
         "countryCode": "UA",
         "latitude": "48.62080000",
         "longitude": "22.28788300"
     },
     {
-        "name": "Kyiv Oblast",
+        "name": "Kyivska oblast",
         "isoCode": "32",
         "countryCode": "UA",
         "latitude": "50.05295060",
         "longitude": "30.76671340"
     },
     {
-        "name": "Lviv Oblast",
+        "name": "Lvivska oblast",
         "isoCode": "46",
         "countryCode": "UA",
         "latitude": "49.83968300",
         "longitude": "24.02971700"
     },
     {
-        "name": "Luhansk Oblast",
+        "name": "Luhanska oblast",
         "isoCode": "09",
         "countryCode": "UA",
         "latitude": "48.57404100",
         "longitude": "39.30781500"
     },
     {
-        "name": "Ternopil Oblast",
+        "name": "Ternopilska oblast",
         "isoCode": "61",
         "countryCode": "UA",
         "latitude": "49.55351700",
         "longitude": "25.59476700"
     },
     {
-        "name": "Dnipropetrovsk Oblast",
+        "name": "Dnipropetrovska oblast",
         "isoCode": "12",
         "countryCode": "UA",
         "latitude": "48.46471700",
         "longitude": "35.04618300"
     },
     {
-        "name": "Kiev",
+        "name": "Kyiv",
         "isoCode": "30",
         "countryCode": "UA",
         "latitude": "50.45010000",
         "longitude": "30.52340000"
     },
     {
-        "name": "Kirovohrad Oblast",
+        "name": "Kirovohradska oblast",
         "isoCode": "35",
         "countryCode": "UA",
         "latitude": "48.50793300",
         "longitude": "32.26231700"
     },
     {
-        "name": "Chernivtsi Oblast",
+        "name": "Chernivetska oblast",
         "isoCode": "77",
         "countryCode": "UA",
         "latitude": "48.29168300",
         "longitude": "25.93521700"
     },
     {
-        "name": "Mykolaiv Oblast",
+        "name": "Mykolaivska oblast",
         "isoCode": "48",
         "countryCode": "UA",
         "latitude": "46.97503300",
         "longitude": "31.99458290"
     },
     {
-        "name": "Cherkasy Oblast",
+        "name": "Cherkaska oblast",
         "isoCode": "71",
         "countryCode": "UA",
         "latitude": "49.44443300",
         "longitude": "32.05976700"
     },
     {
-        "name": "Khmelnytsky Oblast",
+        "name": "Khmelnytska oblast",
         "isoCode": "68",
         "countryCode": "UA",
         "latitude": "49.42298300",
         "longitude": "26.98713310"
     },
     {
-        "name": "Ivano-Frankivsk Oblast",
+        "name": "Ivano-Frankivska oblast",
         "isoCode": "26",
         "countryCode": "UA",
         "latitude": "48.92263300",
         "longitude": "24.71111700"
     },
     {
-        "name": "Rivne Oblast",
+        "name": "Rivnenska oblast",
         "isoCode": "56",
         "countryCode": "UA",
         "latitude": "50.61990000",
         "longitude": "26.25161700"
     },
     {
-        "name": "Kherson Oblast",
+        "name": "Khersonska oblast",
         "isoCode": "65",
         "countryCode": "UA",
         "latitude": "46.63541700",
         "longitude": "32.61686700"
     },
     {
-        "name": "Sumy Oblast",
+        "name": "Sumska oblast",
         "isoCode": "59",
         "countryCode": "UA",
         "latitude": "50.90770000",
         "longitude": "34.79810000"
     },
     {
-        "name": "Kharkiv Oblast",
+        "name": "Kharkivska oblast",
         "isoCode": "63",
         "countryCode": "UA",
         "latitude": "49.99350000",
         "longitude": "36.23038300"
     },
     {
-        "name": "Zaporizhzhya Oblast",
+        "name": "Zaporizka oblast",
         "isoCode": "23",
         "countryCode": "UA",
         "latitude": "47.83880000",
         "longitude": "35.13956700"
     },
     {
-        "name": "Odessa Oblast",
+        "name": "Odeska oblast",
         "isoCode": "51",
         "countryCode": "UA",
         "latitude": "46.48458300",
@@ -32333,21 +32263,21 @@
         "longitude": "34.10241700"
     },
     {
-        "name": "Volyn Oblast",
+        "name": "Volynska oblast",
         "isoCode": "07",
         "countryCode": "UA",
         "latitude": "50.74723300",
         "longitude": "25.32538300"
     },
     {
-        "name": "Donetsk Oblast",
+        "name": "Donetska oblast",
         "isoCode": "14",
         "countryCode": "UA",
         "latitude": "48.01588300",
         "longitude": "37.80285000"
     },
     {
-        "name": "Chernihiv Oblast",
+        "name": "Chernihivska oblast",
         "isoCode": "74",
         "countryCode": "UA",
         "latitude": "51.49820000",
@@ -33019,49 +32949,7 @@
         "longitude": "160.16939490"
     },
     {
-        "name": "Burgundy",
-        "isoCode": "D",
-        "countryCode": "FR",
-        "latitude": "47.05250470",
-        "longitude": "4.38372150"
-    },
-    {
-        "name": "Auvergne",
-        "isoCode": "C",
-        "countryCode": "FR",
-        "latitude": "45.70326950",
-        "longitude": "3.34485360"
-    },
-    {
-        "name": "Picardy",
-        "isoCode": "S",
-        "countryCode": "FR",
-        "latitude": "49.66361270",
-        "longitude": "2.52807320"
-    },
-    {
-        "name": "Champagne-Ardenne",
-        "isoCode": "G",
-        "countryCode": "FR",
-        "latitude": "48.79340920",
-        "longitude": "4.47252490"
-    },
-    {
-        "name": "Limousin",
-        "isoCode": "L",
-        "countryCode": "FR",
-        "latitude": "45.89322310",
-        "longitude": "1.56960180"
-    },
-    {
-        "name": "Nord-Pas-de-Calais",
-        "isoCode": "O",
-        "countryCode": "FR",
-        "latitude": "50.48011530",
-        "longitude": "2.79372650"
-    },
-    {
-        "name": "Saint Barthélemy",
+        "name": "Saint-Barthélemy",
         "isoCode": "BL",
         "countryCode": "FR",
         "latitude": "17.90051340",
@@ -33083,7 +32971,7 @@
     },
     {
         "name": "Mayotte",
-        "isoCode": "YT",
+        "isoCode": "976",
         "countryCode": "FR",
         "latitude": "-12.82750000",
         "longitude": "45.16624400"
@@ -33096,77 +32984,42 @@
         "longitude": "4.38525070"
     },
     {
-        "name": "Occitania",
+        "name": "Occitanie",
         "isoCode": "OCC",
         "countryCode": "FR",
         "latitude": "43.89272320",
         "longitude": "3.28276250"
     },
     {
-        "name": "Alo",
-        "isoCode": "WF-AL",
-        "countryCode": "FR",
-        "latitude": "40.71583620",
-        "longitude": "-73.95963170"
-    },
-    {
-        "name": "Lorraine",
-        "isoCode": "M",
-        "countryCode": "FR",
-        "latitude": "48.87442330",
-        "longitude": "6.20809320"
-    },
-    {
-        "name": "Pays de la Loire",
+        "name": "Pays-de-la-Loire",
         "isoCode": "PDL",
         "countryCode": "FR",
         "latitude": "47.76328360",
         "longitude": "-0.32996870"
     },
     {
-        "name": "Languedoc-Roussillon",
-        "isoCode": "K",
-        "countryCode": "FR",
-        "latitude": "43.59123560",
-        "longitude": "3.25836260"
-    },
-    {
-        "name": "Normandy",
+        "name": "Normandie",
         "isoCode": "NOR",
         "countryCode": "FR",
         "latitude": "48.87987040",
         "longitude": "0.17125290"
     },
     {
-        "name": "Franche-Comté",
-        "isoCode": "I",
-        "countryCode": "FR",
-        "latitude": "47.13432070",
-        "longitude": "6.02230160"
-    },
-    {
-        "name": "Corsica",
-        "isoCode": "COR",
+        "name": "Corse",
+        "isoCode": "20R",
         "countryCode": "FR",
         "latitude": "42.03960420",
         "longitude": "9.01289260"
     },
     {
-        "name": "Brittany",
+        "name": "Bretagne",
         "isoCode": "BRE",
         "countryCode": "FR",
         "latitude": "48.20204710",
         "longitude": "-2.93264350"
     },
     {
-        "name": "Aquitaine",
-        "isoCode": "B",
-        "countryCode": "FR",
-        "latitude": "44.70022220",
-        "longitude": "-0.29957850"
-    },
-    {
-        "name": "Saint Martin",
+        "name": "Saint-Martin",
         "isoCode": "MF",
         "countryCode": "FR",
         "latitude": "18.07082980",
@@ -33181,52 +33034,24 @@
     },
     {
         "name": "Alsace",
-        "isoCode": "A",
+        "isoCode": "6AE",
         "countryCode": "FR",
         "latitude": "48.31817950",
         "longitude": "7.44162410"
     },
     {
-        "name": "Provence-Alpes-Côte d'Azur",
+        "name": "Provence-Alpes-Côte-d’Azur",
         "isoCode": "PAC",
         "countryCode": "FR",
         "latitude": "43.93516910",
         "longitude": "6.06791940"
     },
     {
-        "name": "Rhône-Alpes",
-        "isoCode": "V",
-        "countryCode": "FR",
-        "latitude": "45.64029050",
-        "longitude": "5.68649940"
-    },
-    {
-        "name": "Lower Normandy",
-        "isoCode": "P",
-        "countryCode": "FR",
-        "latitude": "48.87884720",
-        "longitude": "-0.51574920"
-    },
-    {
-        "name": "Poitou-Charentes",
-        "isoCode": "T",
-        "countryCode": "FR",
-        "latitude": "45.90355200",
-        "longitude": "-0.30918370"
-    },
-    {
         "name": "Paris",
-        "isoCode": "75",
+        "isoCode": "75C",
         "countryCode": "FR",
         "latitude": "48.85661400",
         "longitude": "2.35222190"
-    },
-    {
-        "name": "Uvea",
-        "isoCode": "WF-UV",
-        "countryCode": "FR",
-        "latitude": "41.98329800",
-        "longitude": "-87.66836200"
     },
     {
         "name": "Centre-Val de Loire",
@@ -33236,14 +33061,7 @@
         "longitude": "1.67506310"
     },
     {
-        "name": "Sigave",
-        "isoCode": "WF-SG",
-        "countryCode": "FR",
-        "latitude": "-14.27325920",
-        "longitude": "-178.16329000"
-    },
-    {
-        "name": "Grand Est",
+        "name": "Grand-Est",
         "isoCode": "GES",
         "countryCode": "FR",
         "latitude": "48.69980300",
@@ -33258,14 +33076,14 @@
     },
     {
         "name": "French Guiana",
-        "isoCode": "GF",
+        "isoCode": "973",
         "countryCode": "FR",
         "latitude": "3.93388900",
         "longitude": "-53.12578200"
     },
     {
-        "name": "Réunion",
-        "isoCode": "RE",
+        "name": "La Réunion",
+        "isoCode": "974",
         "countryCode": "FR",
         "latitude": "-21.11514100",
         "longitude": "55.53638400"
@@ -33285,15 +33103,8 @@
         "longitude": "4.99943720"
     },
     {
-        "name": "Upper Normandy",
-        "isoCode": "Q",
-        "countryCode": "FR",
-        "latitude": "49.52464100",
-        "longitude": "0.88283290"
-    },
-    {
         "name": "Martinique",
-        "isoCode": "MQ",
+        "isoCode": "972",
         "countryCode": "FR",
         "latitude": "14.64152800",
         "longitude": "-61.02417400"
@@ -33307,7 +33118,7 @@
     },
     {
         "name": "Guadeloupe",
-        "isoCode": "GP",
+        "isoCode": "971",
         "countryCode": "FR",
         "latitude": "16.26500000",
         "longitude": "-61.55100000"
@@ -33481,14 +33292,14 @@
         "longitude": "87.85497550"
     },
     {
-        "name": "Sinop Province",
+        "name": "Sinop",
         "isoCode": "57",
         "countryCode": "TR",
         "latitude": "41.55947490",
         "longitude": "34.85805320"
     },
     {
-        "name": "Capital District",
+        "name": "Distrito Capital",
         "isoCode": "A",
         "countryCode": "VE",
         "latitude": "41.26148460",
@@ -33537,13 +33348,6 @@
         "longitude": "-64.72365000"
     },
     {
-        "name": "Hamilton Municipality",
-        "isoCode": "HAM",
-        "countryCode": "BM",
-        "latitude": "43.32394400",
-        "longitude": "-79.90592190"
-    },
-    {
         "name": "Paget Parish",
         "isoCode": "PAG",
         "countryCode": "BM",
@@ -33556,13 +33360,6 @@
         "countryCode": "BM",
         "latitude": "32.30076720",
         "longitude": "-64.79626300"
-    },
-    {
-        "name": "Saint George's Municipality",
-        "isoCode": "SG",
-        "countryCode": "BM",
-        "latitude": "37.09652780",
-        "longitude": "-113.56841640"
     },
     {
         "name": "Saint George's Parish",
@@ -33642,7 +33439,7 @@
         "longitude": "21.16550280"
     },
     {
-        "name": "Autonomous City Of Buenos Aires",
+        "name": "Ciudad Autónoma de Buenos Aires",
         "isoCode": "C",
         "countryCode": "AR",
         "latitude": "-34.60368440",
@@ -33901,14 +33698,14 @@
         "longitude": "7.41533830"
     },
     {
-        "name": "Hamadan Province",
+        "name": "Hamadan",
         "isoCode": "13",
         "countryCode": "IR",
         "latitude": "34.91936070",
         "longitude": "47.48329250"
     },
     {
-        "name": "Bogotá",
+        "name": "Bogotá D.C.",
         "isoCode": "DC",
         "countryCode": "CO",
         "latitude": "4.28204150",
@@ -34158,5 +33955,796 @@
         "countryCode": "TZ",
         "latitude": "-8.27261200",
         "longitude": "31.71131740"
+    },
+    {
+        "name": "Basel-Stadt",
+        "isoCode": "BS",
+        "countryCode": "CH",
+        "latitude": "47.56666700",
+        "longitude": "7.60000000"
+    },
+    {
+        "name": "Bono East",
+        "isoCode": "BE",
+        "countryCode": "GH",
+        "latitude": "7.75000000",
+        "longitude": "-1.05000000"
+    },
+    {
+        "name": "Bono",
+        "isoCode": "BO",
+        "countryCode": "GH",
+        "latitude": "7.65000000",
+        "longitude": "-2.50000000"
+    },
+    {
+        "name": "North East",
+        "isoCode": "NE",
+        "countryCode": "GH",
+        "latitude": "10.51666700",
+        "longitude": "-0.36666700"
+    },
+    {
+        "name": "Oti",
+        "isoCode": "OT",
+        "countryCode": "GH",
+        "latitude": "7.90000000",
+        "longitude": "0.30000000"
+    },
+    {
+        "name": "Savannah",
+        "isoCode": "SV",
+        "countryCode": "GH",
+        "latitude": "9.08333300",
+        "longitude": "-1.81666700"
+    },
+    {
+        "name": "Western North",
+        "isoCode": "WN",
+        "countryCode": "GH",
+        "latitude": "6.30000000",
+        "longitude": "-2.80000000"
+    },
+    {
+        "name": "Nueva Segovia",
+        "isoCode": "NS",
+        "countryCode": "NI",
+        "latitude": "13.76570610",
+        "longitude": "-86.53700390"
+    },
+    {
+        "name": "Keelung",
+        "isoCode": "KEE",
+        "countryCode": "TW",
+        "latitude": "25.12418620",
+        "longitude": "121.64758340"
+    },
+    {
+        "name": "New Taipei",
+        "isoCode": "NWT",
+        "countryCode": "TW",
+        "latitude": "24.98752780",
+        "longitude": "121.36459470"
+    },
+    {
+        "name": "Ain",
+        "isoCode": "01",
+        "countryCode": "FR",
+        "latitude": "46.06508600",
+        "longitude": "4.88861500"
+    },
+    {
+        "name": "Aisne",
+        "isoCode": "02",
+        "countryCode": "FR",
+        "latitude": "49.45289210",
+        "longitude": "3.04651110"
+    },
+    {
+        "name": "Allier",
+        "isoCode": "03",
+        "countryCode": "FR",
+        "latitude": "46.36708630",
+        "longitude": "2.58082770"
+    },
+    {
+        "name": "Alpes-de-Haute-Provence",
+        "isoCode": "04",
+        "countryCode": "FR",
+        "latitude": "44.16377520",
+        "longitude": "5.67247800"
+    },
+    {
+        "name": "Hautes-Alpes",
+        "isoCode": "05",
+        "countryCode": "FR",
+        "latitude": "44.65626820",
+        "longitude": "5.68732110"
+    },
+    {
+        "name": "Alpes-Maritimes",
+        "isoCode": "06",
+        "countryCode": "FR",
+        "latitude": "43.92041700",
+        "longitude": "6.61678220"
+    },
+    {
+        "name": "Ardèche",
+        "isoCode": "07",
+        "countryCode": "FR",
+        "latitude": "44.81486950",
+        "longitude": "3.81334830"
+    },
+    {
+        "name": "Ardennes",
+        "isoCode": "08",
+        "countryCode": "FR",
+        "latitude": "49.69759510",
+        "longitude": "4.14895760"
+    },
+    {
+        "name": "Ariège",
+        "isoCode": "09",
+        "countryCode": "FR",
+        "latitude": "42.94347830",
+        "longitude": "0.94048640"
+    },
+    {
+        "name": "Aube",
+        "isoCode": "10",
+        "countryCode": "FR",
+        "latitude": "48.31975470",
+        "longitude": "3.56371040"
+    },
+    {
+        "name": "Aude",
+        "isoCode": "11",
+        "countryCode": "FR",
+        "latitude": "43.05411400",
+        "longitude": "1.90384760"
+    },
+    {
+        "name": "Aveyron",
+        "isoCode": "12",
+        "countryCode": "FR",
+        "latitude": "44.31563620",
+        "longitude": "2.08523790"
+    },
+    {
+        "name": "Bouches-du-Rhône",
+        "isoCode": "13",
+        "countryCode": "FR",
+        "latitude": "43.54038650",
+        "longitude": "4.46138290"
+    },
+    {
+        "name": "Calvados",
+        "isoCode": "14",
+        "countryCode": "FR",
+        "latitude": "49.09035140",
+        "longitude": "-0.91706480"
+    },
+    {
+        "name": "Cantal",
+        "isoCode": "15",
+        "countryCode": "FR",
+        "latitude": "45.04921770",
+        "longitude": "2.15672720"
+    },
+    {
+        "name": "Charente",
+        "isoCode": "16",
+        "countryCode": "FR",
+        "latitude": "45.66584790",
+        "longitude": "-0.31845770"
+    },
+    {
+        "name": "Charente-Maritime",
+        "isoCode": "17",
+        "countryCode": "FR",
+        "latitude": "45.72968280",
+        "longitude": "-1.33881160"
+    },
+    {
+        "name": "Cher",
+        "isoCode": "18",
+        "countryCode": "FR",
+        "latitude": "47.02436280",
+        "longitude": "1.86627320"
+    },
+    {
+        "name": "Corrèze",
+        "isoCode": "19",
+        "countryCode": "FR",
+        "latitude": "45.34237070",
+        "longitude": "1.31717330"
+    },
+    {
+        "name": "Côte-d'Or",
+        "isoCode": "21",
+        "countryCode": "FR",
+        "latitude": "47.46513020",
+        "longitude": "4.23154950"
+    },
+    {
+        "name": "Côtes-d'Armor",
+        "isoCode": "22",
+        "countryCode": "FR",
+        "latitude": "48.46633360",
+        "longitude": "-3.34789610"
+    },
+    {
+        "name": "Creuse",
+        "isoCode": "23",
+        "countryCode": "FR",
+        "latitude": "46.05903940",
+        "longitude": "1.43150500"
+    },
+    {
+        "name": "Dordogne",
+        "isoCode": "24",
+        "countryCode": "FR",
+        "latitude": "45.14234160",
+        "longitude": "0.14274080"
+    },
+    {
+        "name": "Doubs",
+        "isoCode": "25",
+        "countryCode": "FR",
+        "latitude": "46.93217740",
+        "longitude": "6.34762140"
+    },
+    {
+        "name": "Drôme",
+        "isoCode": "26",
+        "countryCode": "FR",
+        "latitude": "44.72933570",
+        "longitude": "4.67821580"
+    },
+    {
+        "name": "Eure",
+        "isoCode": "27",
+        "countryCode": "FR",
+        "latitude": "49.07540350",
+        "longitude": "0.48937320"
+    },
+    {
+        "name": "Eure-et-Loir",
+        "isoCode": "28",
+        "countryCode": "FR",
+        "latitude": "48.44697840",
+        "longitude": "0.81470250"
+    },
+    {
+        "name": "Finistère",
+        "isoCode": "29",
+        "countryCode": "FR",
+        "latitude": "48.22696100",
+        "longitude": "-4.82437330"
+    },
+    {
+        "name": "Corse-du-Sud",
+        "isoCode": "2A",
+        "countryCode": "FR",
+        "latitude": "41.85720550",
+        "longitude": "8.41091830"
+    },
+    {
+        "name": "Haute-Corse",
+        "isoCode": "2B",
+        "countryCode": "FR",
+        "latitude": "42.42958660",
+        "longitude": "8.50625610"
+    },
+    {
+        "name": "Gard",
+        "isoCode": "30",
+        "countryCode": "FR",
+        "latitude": "43.95952760",
+        "longitude": "3.49356810"
+    },
+    {
+        "name": "Haute-Garonne",
+        "isoCode": "31",
+        "countryCode": "FR",
+        "latitude": "43.30505550",
+        "longitude": "0.68455150"
+    },
+    {
+        "name": "Gers",
+        "isoCode": "32",
+        "countryCode": "FR",
+        "latitude": "43.69505340",
+        "longitude": "-0.09997280"
+    },
+    {
+        "name": "Gironde",
+        "isoCode": "33",
+        "countryCode": "FR",
+        "latitude": "44.89584690",
+        "longitude": "-1.59405320"
+    },
+    {
+        "name": "Hérault",
+        "isoCode": "34",
+        "countryCode": "FR",
+        "latitude": "43.59111200",
+        "longitude": "2.80661080"
+    },
+    {
+        "name": "Ille-et-Vilaine",
+        "isoCode": "35",
+        "countryCode": "FR",
+        "latitude": "48.17624840",
+        "longitude": "-2.21304010"
+    },
+    {
+        "name": "Indre",
+        "isoCode": "36",
+        "countryCode": "FR",
+        "latitude": "46.81175500",
+        "longitude": "0.97555230"
+    },
+    {
+        "name": "Indre-et-Loire",
+        "isoCode": "37",
+        "countryCode": "FR",
+        "latitude": "47.22285820",
+        "longitude": "0.14896190"
+    },
+    {
+        "name": "Isère",
+        "isoCode": "38",
+        "countryCode": "FR",
+        "latitude": "45.28922710",
+        "longitude": "4.99023550"
+    },
+    {
+        "name": "Jura",
+        "isoCode": "39",
+        "countryCode": "FR",
+        "latitude": "46.78287410",
+        "longitude": "5.16918440"
+    },
+    {
+        "name": "Landes",
+        "isoCode": "40",
+        "countryCode": "FR",
+        "latitude": "44.00950800",
+        "longitude": "-1.25385790"
+    },
+    {
+        "name": "Loir-et-Cher",
+        "isoCode": "41",
+        "countryCode": "FR",
+        "latitude": "47.65937600",
+        "longitude": "0.85376310"
+    },
+    {
+        "name": "Loire",
+        "isoCode": "42",
+        "countryCode": "FR",
+        "latitude": "46.35228120",
+        "longitude": "-1.17563390"
+    },
+    {
+        "name": "Haute-Loire",
+        "isoCode": "43",
+        "countryCode": "FR",
+        "latitude": "45.08538060",
+        "longitude": "3.22607070"
+    },
+    {
+        "name": "Loire-Atlantique",
+        "isoCode": "44",
+        "countryCode": "FR",
+        "latitude": "47.34757210",
+        "longitude": "-2.34663120"
+    },
+    {
+        "name": "Loiret",
+        "isoCode": "45",
+        "countryCode": "FR",
+        "latitude": "47.91354310",
+        "longitude": "1.76009900"
+    },
+    {
+        "name": "Lot",
+        "isoCode": "46",
+        "countryCode": "FR",
+        "latitude": "44.62460700",
+        "longitude": "1.03576310"
+    },
+    {
+        "name": "Lot-et-Garonne",
+        "isoCode": "47",
+        "countryCode": "FR",
+        "latitude": "44.36873140",
+        "longitude": "-0.09161690"
+    },
+    {
+        "name": "Lozère",
+        "isoCode": "48",
+        "countryCode": "FR",
+        "latitude": "44.54227790",
+        "longitude": "2.92934590"
+    },
+    {
+        "name": "Maine-et-Loire",
+        "isoCode": "49",
+        "countryCode": "FR",
+        "latitude": "47.38900340",
+        "longitude": "-1.12025270"
+    },
+    {
+        "name": "Manche",
+        "isoCode": "50",
+        "countryCode": "FR",
+        "latitude": "49.08817340",
+        "longitude": "-2.46272090"
+    },
+    {
+        "name": "Marne",
+        "isoCode": "51",
+        "countryCode": "FR",
+        "latitude": "48.96107450",
+        "longitude": "3.65737670"
+    },
+    {
+        "name": "Haute-Marne",
+        "isoCode": "52",
+        "countryCode": "FR",
+        "latitude": "48.13248210",
+        "longitude": "4.69834990"
+    },
+    {
+        "name": "Mayenne",
+        "isoCode": "53",
+        "countryCode": "FR",
+        "latitude": "48.30668420",
+        "longitude": "-0.64901820"
+    },
+    {
+        "name": "Meurthe-et-Moselle",
+        "isoCode": "54",
+        "countryCode": "FR",
+        "latitude": "48.95566150",
+        "longitude": "5.71423500"
+    },
+    {
+        "name": "Meuse",
+        "isoCode": "55",
+        "countryCode": "FR",
+        "latitude": "49.01246200",
+        "longitude": "4.81087340"
+    },
+    {
+        "name": "Morbihan",
+        "isoCode": "56",
+        "countryCode": "FR",
+        "latitude": "47.74395180",
+        "longitude": "-3.44555240"
+    },
+    {
+        "name": "Moselle",
+        "isoCode": "57",
+        "countryCode": "FR",
+        "latitude": "49.02045660",
+        "longitude": "6.20553220"
+    },
+    {
+        "name": "Nièvre",
+        "isoCode": "58",
+        "countryCode": "FR",
+        "latitude": "47.11921640",
+        "longitude": "2.97797130"
+    },
+    {
+        "name": "Nord",
+        "isoCode": "59",
+        "countryCode": "FR",
+        "latitude": "50.52854770",
+        "longitude": "2.60007760"
+    },
+    {
+        "name": "Oise",
+        "isoCode": "60",
+        "countryCode": "FR",
+        "latitude": "49.41173350",
+        "longitude": "1.86688250"
+    },
+    {
+        "name": "Orne",
+        "isoCode": "61",
+        "countryCode": "FR",
+        "latitude": "48.57576440",
+        "longitude": "-0.50242950"
+    },
+    {
+        "name": "Pas-de-Calais",
+        "isoCode": "62",
+        "countryCode": "FR",
+        "latitude": "50.51446990",
+        "longitude": "1.81149800"
+    },
+    {
+        "name": "Puy-de-Dôme",
+        "isoCode": "63",
+        "countryCode": "FR",
+        "latitude": "45.77141850",
+        "longitude": "2.62626760"
+    },
+    {
+        "name": "Pyrénées-Atlantiques",
+        "isoCode": "64",
+        "countryCode": "FR",
+        "latitude": "43.18681700",
+        "longitude": "-1.44170710"
+    },
+    {
+        "name": "Hautes-Pyrénées",
+        "isoCode": "65",
+        "countryCode": "FR",
+        "latitude": "43.14294620",
+        "longitude": "-0.40097360"
+    },
+    {
+        "name": "Pyrénées-Orientales",
+        "isoCode": "66",
+        "countryCode": "FR",
+        "latitude": "42.62541790",
+        "longitude": "1.88929580"
+    },
+    {
+        "name": "Bas-Rhin",
+        "isoCode": "67",
+        "countryCode": "FR",
+        "latitude": "48.59864440",
+        "longitude": "7.02666760"
+    },
+    {
+        "name": "Haut-Rhin",
+        "isoCode": "68",
+        "countryCode": "FR",
+        "latitude": "47.86537740",
+        "longitude": "6.67113810"
+    },
+    {
+        "name": "Rhône",
+        "isoCode": "69",
+        "countryCode": "FR",
+        "latitude": "44.93433000",
+        "longitude": "4.24093290"
+    },
+    {
+        "name": "Métropole de Lyon",
+        "isoCode": "69M",
+        "countryCode": "FR",
+        "latitude": "45.74826290",
+        "longitude": "4.59584040"
+    },
+    {
+        "name": "Haute-Saône",
+        "isoCode": "70",
+        "countryCode": "FR",
+        "latitude": "47.63789960",
+        "longitude": "5.53550550"
+    },
+    {
+        "name": "Saône-et-Loire",
+        "isoCode": "71",
+        "countryCode": "FR",
+        "latitude": "46.65548830",
+        "longitude": "3.98350500"
+    },
+    {
+        "name": "Sarthe",
+        "isoCode": "72",
+        "countryCode": "FR",
+        "latitude": "48.02627330",
+        "longitude": "-0.32613170"
+    },
+    {
+        "name": "Savoie",
+        "isoCode": "73",
+        "countryCode": "FR",
+        "latitude": "45.49469900",
+        "longitude": "5.84329840"
+    },
+    {
+        "name": "Haute-Savoie",
+        "isoCode": "74",
+        "countryCode": "FR",
+        "latitude": "46.04452770",
+        "longitude": "5.86413800"
+    },
+    {
+        "name": "Seine-Maritime",
+        "isoCode": "76",
+        "countryCode": "FR",
+        "latitude": "49.66096810",
+        "longitude": "0.36775610"
+    },
+    {
+        "name": "Seine-et-Marne",
+        "isoCode": "77",
+        "countryCode": "FR",
+        "latitude": "48.61853940",
+        "longitude": "2.41525610"
+    },
+    {
+        "name": "Yvelines",
+        "isoCode": "78",
+        "countryCode": "FR",
+        "latitude": "48.76153010",
+        "longitude": "1.27729490"
+    },
+    {
+        "name": "Deux-Sèvres",
+        "isoCode": "79",
+        "countryCode": "FR",
+        "latitude": "46.53868170",
+        "longitude": "-0.90199480"
+    },
+    {
+        "name": "Somme",
+        "isoCode": "80",
+        "countryCode": "FR",
+        "latitude": "49.96859220",
+        "longitude": "1.73106960"
+    },
+    {
+        "name": "Tarn",
+        "isoCode": "81",
+        "countryCode": "FR",
+        "latitude": "43.79149770",
+        "longitude": "1.67588930"
+    },
+    {
+        "name": "Tarn-et-Garonne",
+        "isoCode": "82",
+        "countryCode": "FR",
+        "latitude": "44.08089500",
+        "longitude": "1.08916570"
+    },
+    {
+        "name": "Var",
+        "isoCode": "83",
+        "countryCode": "FR",
+        "latitude": "43.39507300",
+        "longitude": "5.73424170"
+    },
+    {
+        "name": "Vaucluse",
+        "isoCode": "84",
+        "countryCode": "FR",
+        "latitude": "44.04475000",
+        "longitude": "4.64277180"
+    },
+    {
+        "name": "Vendée",
+        "isoCode": "85",
+        "countryCode": "FR",
+        "latitude": "46.67541030",
+        "longitude": "-2.02983920"
+    },
+    {
+        "name": "Vienne",
+        "isoCode": "86",
+        "countryCode": "FR",
+        "latitude": "45.52213140",
+        "longitude": "4.84531360"
+    },
+    {
+        "name": "Haute-Vienne",
+        "isoCode": "87",
+        "countryCode": "FR",
+        "latitude": "45.91868780",
+        "longitude": "0.70972060"
+    },
+    {
+        "name": "Vosges",
+        "isoCode": "88",
+        "countryCode": "FR",
+        "latitude": "48.16301730",
+        "longitude": "5.73556000"
+    },
+    {
+        "name": "Yonne",
+        "isoCode": "89",
+        "countryCode": "FR",
+        "latitude": "47.85476140",
+        "longitude": "3.03394040"
+    },
+    {
+        "name": "Territoire de Belfort",
+        "isoCode": "90",
+        "countryCode": "FR",
+        "latitude": "47.62930720",
+        "longitude": "6.66962000"
+    },
+    {
+        "name": "Essonne",
+        "isoCode": "91",
+        "countryCode": "FR",
+        "latitude": "48.53046150",
+        "longitude": "1.96990560"
+    },
+    {
+        "name": "Hauts-de-Seine",
+        "isoCode": "92",
+        "countryCode": "FR",
+        "latitude": "48.84030080",
+        "longitude": "2.10125590"
+    },
+    {
+        "name": "Seine-Saint-Denis",
+        "isoCode": "93",
+        "countryCode": "FR",
+        "latitude": "48.90993180",
+        "longitude": "2.30573790"
+    },
+    {
+        "name": "Val-de-Marne",
+        "isoCode": "94",
+        "countryCode": "FR",
+        "latitude": "48.77470040",
+        "longitude": "2.32210390"
+    },
+    {
+        "name": "Val-d'Oise",
+        "isoCode": "95",
+        "countryCode": "FR",
+        "latitude": "49.07518180",
+        "longitude": "1.82169140"
+    },
+    {
+        "name": "Clipperton",
+        "isoCode": "CP",
+        "countryCode": "FR",
+        "latitude": "10.28335410",
+        "longitude": "-109.22542150"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "isoCode": "TF",
+        "countryCode": "FR",
+        "latitude": "-47.54466040",
+        "longitude": "51.28375420"
+    },
+    {
+        "name": "Sharqia",
+        "isoCode": "SHR",
+        "countryCode": "EG",
+        "latitude": "30.67305450",
+        "longitude": "31.15932470"
+    },
+    {
+        "name": "Loja",
+        "isoCode": "L",
+        "countryCode": "EC",
+        "latitude": "-3.99313000",
+        "longitude": "-79.20422000"
+    },
+    {
+        "name": "Karlovac County",
+        "isoCode": "05",
+        "countryCode": "HR",
+        "latitude": "45.26133520",
+        "longitude": "15.52542016"
+    },
+    {
+        "name": "Kampong Thom",
+        "isoCode": "6",
+        "countryCode": "KH",
+        "latitude": "12.81674850",
+        "longitude": "103.84131040"
+    },
+    {
+        "name": "Poltavska oblast",
+        "isoCode": "53",
+        "countryCode": "UA",
+        "latitude": "49.64291960",
+        "longitude": "32.66753390"
     }
 ]
