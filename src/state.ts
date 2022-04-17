@@ -1,5 +1,5 @@
-import stateList from '../assets/state.json';
-import { findEntryByCode, findStateByCodeAndCountryCode, compare } from '../utils';
+import stateList from './assets/state.json';
+import { findEntryByCode, findStateByCodeAndCountryCode, compare } from './utils';
 import { IState } from './interface';
 
 // Get a list of all states.

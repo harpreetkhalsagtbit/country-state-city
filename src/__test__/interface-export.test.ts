@@ -1,5 +1,5 @@
 // importing interfaces from main index.ts file
-import { ICountry } from '../lib/interface';
+import { ICountry } from '../interface';
 
 // writing tests for Interfaces
 // https://stackoverflow.com/questions/14425568/interface-type-check-with-typescript

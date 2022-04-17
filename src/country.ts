@@ -1,5 +1,5 @@
-import countryList from '../assets/country.json';
-import { findEntryByCode } from '../utils';
+import countryList from './assets/country.json';
+import { findEntryByCode } from './utils';
 import { ICountry } from './interface';
 
 // Get a country by isoCode.

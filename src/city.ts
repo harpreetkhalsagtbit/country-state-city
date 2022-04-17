@@ -1,5 +1,5 @@
-import cityList from '../assets/city.json';
-import { compare } from '../utils';
+import cityList from './assets/city.json';
+import { compare } from './utils';
 import { ICity } from './interface';
 
 // Get a list of all cities.
