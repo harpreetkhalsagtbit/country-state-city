@@ -1,6 +1,6 @@
 /* eslint-disable no-shadow */
 import { Country, State, City } from '../index';
-import { ICountry, ICity, IState } from '../lib/interface';
+import { ICountry, ICity, IState } from '../interface';
 
 const executeAllTests = function (Country: any, State: any, City: any) {
 	test('Check for Country By Code ', () => {
