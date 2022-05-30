@@ -53,7 +53,7 @@ For any data related issue, you can raise a Issue [here](https://github.com/dr5h
 
 # Docs
 
-getCountryByCode(countryCode)
+City.getCountryByCode(countryCode)
 ---------------
 
 It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
@@ -81,7 +81,7 @@ type: **json | ICountry**
 }
 ```
 
-getStateByCodeAndCountry(stateCode, countryCode)
+State.getStateByCodeAndCountry(stateCode, countryCode)
 ---------------
 
 It accepts a valid `StateCode` eg: `'TG'` `CountryCode` eg: `'IN'` and   returns *State Details*
@@ -98,7 +98,7 @@ type: **json | ICountry**
 }
 ```
 
-getStatesOfCountry(countryCode)
+State.getStatesOfCountry(countryCode)
 ---------------
 
 It accepts a valid `CountryCode` and returns *all States* as Array of JSON
@@ -117,7 +117,7 @@ type: **array of json | IState**
 ]
 
 ```
-getCitiesOfState(countryCode, stateCode)
+City.getCitiesOfState(countryCode, stateCode)
 ---------------
 
 It accepts a valid `CountryCode`, `StateCode` and returns *all Cities* as Array of JSON
@@ -137,7 +137,7 @@ type: **array of json | ICity**
 
 ```
 
-getCitiesOfCountry(countryCode)
+City.getCitiesOfCountry(countryCode)
 ---------------
 
 It accepts a valid `CountryCode` and returns *all Cities* as Array of JSON
@@ -157,7 +157,7 @@ type: **array of json | ICity**
 
 ```
 
-getAllCountries
+Country.getAllCountries
 ---------------
 It returns **all Countries**
 
@@ -186,7 +186,7 @@ type: **array of json | ICountry**
 ]
 ```
 
-getAllStates
+State.getAllStates
 ---------------
 It returns **all States**
 
@@ -205,7 +205,7 @@ type: **array of json | IState**
 ]
 ```
 
-getAllCities
+City.getAllCities
 ---------------
 It returns **all Cities**
 
