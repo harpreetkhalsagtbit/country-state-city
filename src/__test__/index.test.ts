@@ -1,11 +1,11 @@
 /* eslint-disable no-shadow */
-import { Country, State, City } from '../index';
+import { Country as CountrySource, State as StateSource, City as CitySource } from '../index';
 import { ICountry, ICity, IState } from '../interface';
 
 const executeAllTests = function (Country: any, State: any, City: any) {
-	test('Check for Country By Code ', () => {
+	test('Check for Country By Code ', async () => {
 		const code = 'CA';
-		const country: ICountry = Country.getCountryByCode(code);
+		const country: ICountry = await Country.getCountryByCode(code);
 		expect(country).toEqual({
 			name: 'Canada',
 			phonecode: '1',
@@ -215,16 +215,16 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		});
 	});
 
-	test('Check for Country By undefined Code ', () => {
+	test('Check for Country By undefined Code ', async () => {
 		let code;
-		const country: ICountry = Country.getCountryByCode();
+		const country: ICountry = await Country.getCountryByCode();
 		expect(country).toEqual(code);
 	});
 
-	test('Check for Canada States', () => {
+	test('Check for Canada States', async () => {
 		const code = 'CA';
-		const country: any = Country.getCountryByCode(code);
-		const states = State.getStatesOfCountry(country.isoCode);
+		const country: any = await Country.getCountryByCode(code);
+		const states = await State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -245,10 +245,10 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		]);
 	});
 
-	test('Check All States for United States Of America', () => {
+	test('Check All States for United States Of America', async () => {
 		const code = 'US';
-		const country: any = Country.getCountryByCode(code);
-		const states = State.getStatesOfCountry(country.isoCode);
+		const country: any = await Country.getCountryByCode(code);
+		const states = await State.getStatesOfCountry(country.isoCode);
 		const names = states.map((state: IState) => {
 			return state.name;
 		});
@@ -322,126 +322,26 @@ const executeAllTests = function (Country: any, State: any, City: any) {
 		]);
 	});
 
-	test('Check States for India', () => {
-		const code = 'IN';
-		const country: any = Country.getCountryByCode(code);
-		const states = State.getStatesOfCountry(country.isoCode);
-		const names = states.map((state: IState) => {
-			return state.name;
-		});
-
-		expect(names).toEqual([
-			'Andaman and Nicobar Islands',
-			'Andhra Pradesh',
-			'Arunachal Pradesh',
-			'Assam',
-			'Bihar',
-			'Chandigarh',
-			'Chhattisgarh',
-			'Dadra and Nagar Haveli and Daman and Diu',
-			'Delhi',
-			'Goa',
-			'Gujarat',
-			'Haryana',
-			'Himachal Pradesh',
-			'Jammu and Kashmir',
-			'Jharkhand',
-			'Karnataka',
-			'Kerala',
-			'Ladakh',
-			'Lakshadweep',
-			'Madhya Pradesh',
-			'Maharashtra',
-			'Manipur',
-			'Meghalaya',
-			'Mizoram',
-			'Nagaland',
-			'Odisha',
-			'Puducherry',
-			'Punjab',
-			'Rajasthan',
-			'Sikkim',
-			'Tamil Nadu',
-			'Telangana',
-			'Tripura',
-			'Uttar Pradesh',
-			'Uttarakhand',
-			'West Bengal',
-		]);
-	});
-
-	test('Check States for undefined code', () => {
+	test('Check States for undefined code', async () => {
 		let code;
-		const states = State.getStatesOfCountry(code);
+		const states = await State.getStatesOfCountry(code);
 		expect(states.length).toEqual(0);
 	});
 
-	test('Check Cities for Delhi', () => {
-		const countryCode = 'IN';
-		const stateCode = 'DL';
-		const cities: any = City.getCitiesOfState(countryCode, stateCode);
-		const names = cities.map((city: ICity) => {
-			return city.name;
-		});
-		expect(names).toEqual([
-			'Alipur',
-			'Bawana',
-			'Central Delhi',
-			'Delhi',
-			'Deoli',
-			'East Delhi',
-			'Karol Bagh',
-			'Najafgarh',
-			'Nangloi Jat',
-			'Narela',
-			'New Delhi',
-			'North Delhi',
-			'North East Delhi',
-			'North West Delhi',
-			'Pitampura',
-			'Rohini',
-			'South Delhi',
-			'South West Delhi',
-			'West Delhi',
-		]);
-	});
-
-	test('Check Cities for undefined State', () => {
+	test('Check Cities for undefined State', async () => {
 		let countryCode;
 		const stateCode = 'DL';
-		const cities: any = City.getCitiesOfState(countryCode, stateCode);
+		const cities: any = await City.getCitiesOfState(countryCode, stateCode);
 
 		expect(cities.length).toEqual(0);
 	});
 
-	test('Check Cities for undefined State', () => {
+	test('Check Cities for undefined State', async () => {
 		const countryCode = 'IN';
 		let stateCode;
-		const cities: any = City.getCitiesOfState(countryCode, stateCode);
+		const cities: any = await City.getCitiesOfState(countryCode, stateCode);
 		expect(cities.length).toEqual(0);
 	});
-
-	test('Get State by State ISOCode and Country Code', () => {
-		const countryCode = 'PK';
-		const stateCode = 'KP';
-		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
-		expect(state.name).toEqual('Khyber Pakhtunkhwa');
-	});
-
-	test('Get State by State ISOCode undefined and Country Code', () => {
-		const countryCode = 'PK';
-		let stateCode;
-		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
-		expect(state).toEqual(undefined);
-	});
-
-	test('Get State by State and Country Code undefined', () => {
-		let countryCode;
-		const stateCode = 'KP';
-		const state: any = State.getStateByCodeAndCountry(stateCode, countryCode);
-		expect(state).toEqual(undefined);
-	});
-
 };
 export default executeAllTests;
-executeAllTests(Country, State, City);
+executeAllTests(CountrySource, StateSource, CitySource);

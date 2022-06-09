@@ -1,82 +1,83 @@
 {
-  "name": "country-state-city",
-  "version": "3.0.2",
-  "description": "Library for fetching Country, its States and Cities",
-  "main": "./lib/cjs/index.js",
-  "module": "./lib/index.js",
-  "types": "dist/index.d.ts",
-  "sideEffects": false,
-  "scripts": {
-    "test": "jest",
-    "build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
-    "prepublish": "npm run build",
-    "lint": "eslint index.ts __test__ --fix"
-  },
-  "author": "harpreetkhalsagtbit@gmail.com",
-  "license": "GPL-3.0",
-  "directories": {
-    "lib": "lib"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/harpreetkhalsagtbit/country-state-city.git"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm test",
-      "pre-push": "npm test"
-    }
-  },
-  "keywords": [
-    "Country",
-    "State",
-    "City",
-    "GeoLocation",
-    "Search",
-    "Filter"
-  ],
-  "bugs": {
-    "url": "https://github.com/harpreetkhalsagtbit/country-state-city/issues"
-  },
-  "homepage": "https://github.com/harpreetkhalsagtbit/country-state-city#readme",
-  "devDependencies": {
-    "@types/jest": "^26.0.19",
-    "@typescript-eslint/eslint-plugin": "^4.12.0",
-    "@typescript-eslint/parser": "^4.12.0",
-    "eslint": "^7.17.0",
-    "eslint-config-airbnb": "^18.2.1",
-    "eslint-config-prettier": "^7.1.0",
-    "eslint-plugin-import": "^2.22.1",
-    "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "eslint-plugin-react": "^7.22.0",
-    "husky": "^4.3.6",
-    "jest": "^26.6.3",
-    "json-minimizer-webpack-plugin": "^3.0.0",
-    "prettier": "^2.2.1",
-    "ts-jest": "^26.4.4",
-    "ts-loader": "^9.2.3",
-    "typescript": "^4.3.2",
-    "webpack": "^5.38.1",
-    "webpack-cli": "^4.7.2",
-    "@types/node": "^14.11.2"
-  },
-  "files": [
-    "lib/"
-  ],
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "jsx"
-    ],
-    "moduleDirectories": [
-      "node_modules",
-      "bower_components",
-      "src"
-    ]
-  },
-  "dependencies": {
-    "copy-webpack-plugin": "^9.0.0",
-    "ts-node": "^10.7.0"
-  }
+	"name": "@mgmresorts/country-state-city",
+	"version": "3.1.0",
+	"description": "Library for fetching Country, its States and Cities",
+	"main": "./lib/cjs/index.js",
+	"module": "./lib/index.js",
+	"types": "dist/index.d.ts",
+	"sideEffects": false,
+	"scripts": {
+		"test": "jest",
+		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+		"prepublish": "npm run build",
+		"lint": "eslint index.ts __test__ --fix"
+	},
+	"author": "harpreetkhalsagtbit@gmail.com",
+	"license": "GPL-3.0",
+	"directories": {
+		"lib": "lib"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MGMResorts/mgm-country-state-city.git"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm test",
+			"pre-push": "npm test"
+		}
+	},
+	"keywords": [
+		"Country",
+		"State",
+		"City",
+		"GeoLocation",
+		"Search",
+		"Filter"
+	],
+	"bugs": {
+		"url": "https://github.com/MGMResorts/mgm-country-state-city/issues"
+	},
+	"homepage": "https://github.com/MGMResorts/mgm-country-state-city#readme",
+	"devDependencies": {
+		"@types/jest": "^26.0.19",
+		"@types/node": "^14.11.2",
+		"@typescript-eslint/eslint-plugin": "^4.12.0",
+		"@typescript-eslint/parser": "^4.12.0",
+		"eslint": "^7.17.0",
+		"eslint-config-airbnb": "^18.2.1",
+		"eslint-config-prettier": "^7.1.0",
+		"eslint-plugin-import": "^2.22.1",
+		"eslint-plugin-jsx-a11y": "^6.4.1",
+		"eslint-plugin-prettier": "^3.3.1",
+		"eslint-plugin-react": "^7.22.0",
+		"husky": "^4.3.6",
+		"jest": "^26.6.3",
+		"jest-fetch-mock": "^3.0.3",
+		"json-minimizer-webpack-plugin": "^3.0.0",
+		"prettier": "^2.2.1",
+		"ts-jest": "^26.4.4",
+		"ts-loader": "^9.2.3",
+		"typescript": "^4.3.2",
+		"webpack": "^5.38.1",
+		"webpack-cli": "^4.7.2"
+	},
+	"files": [
+		"lib/"
+	],
+	"jest": {
+		"moduleFileExtensions": [
+			"js",
+			"jsx"
+		],
+		"moduleDirectories": [
+			"node_modules",
+			"bower_components",
+			"src"
+		]
+	},
+	"dependencies": {
+		"copy-webpack-plugin": "^9.0.0",
+		"ts-node": "^10.7.0"
+	}
 }

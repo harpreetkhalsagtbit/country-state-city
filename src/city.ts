@@ -1,17 +1,18 @@
-import cityList from './assets/city.json';
 import { compare } from './utils';
 import { ICity } from './interface';
+import { fetchAsset } from './utils/fetch-asset';
 
 // Get a list of all cities.
-function getAllCities(): ICity[] {
-	return cityList;
+async function getAllCities(): Promise<ICity[]> {
+	return await fetchAsset<ICity>('city');
 }
 
 // Get a list of cities belonging to a specific state and country.
-function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
+async function getCitiesOfState(countryCode: string, stateCode: string): Promise<ICity[]> {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
+	const cityList = await fetchAsset<ICity>('city');
 	const cities = cityList.filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
@@ -19,9 +20,10 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 }
 
 // Get a list of cities belonging to a specific country.
-function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
+async function getCitiesOfCountry(countryCode: string): Promise<ICity[] | undefined> {
 	if (!countryCode) return [];
 
+	const cityList = await fetchAsset<ICity>('city');
 	const cities = cityList.filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
