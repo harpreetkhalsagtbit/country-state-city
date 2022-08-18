@@ -1,9 +1,15 @@
 {
-	"extends": ["airbnb", "prettier"],
+	"extends": [
+		"airbnb",
+		"prettier"
+	],
 	// "plugins": ["prettier"],
-  "parser": "@typescript-eslint/parser",
-  "plugins": ["prettier", "@typescript-eslint"],
-  "rules": {
+	"parser": "@typescript-eslint/parser",
+	"plugins": [
+		"prettier",
+		"@typescript-eslint"
+	],
+	"rules": {
 		"linebreak-style": 0,
 		"no-underscore-dangle": 0,
 		"prettier/prettier": "error",
@@ -12,10 +18,39 @@
 			{
 				"allowTernary": true
 			}
-    ],
-    "arrow-body-style": ["error", "always"]
+		],
+		"import/extensions": [
+			"error",
+			"ignorePackages",
+			{
+				"js": "never",
+				"jsx": "never",
+				"ts": "never",
+				"tsx": "never"
+			}
+		],
+		"arrow-body-style": [
+			"error",
+			"always"
+		]
 	},
-	"settings": {},
+	"settings": {
+		"import/resolver": {
+			"node": {
+				"extensions": [
+					".js",
+					".jsx",
+					".ts",
+					".tsx"
+				]
+			}
+		}
+	},
+	"env": {
+		"browser": true,
+		"es6": true,
+		"jest": true
+	},
 	"globals": {
 		"alert": true,
 		"confirm": true,
