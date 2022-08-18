@@ -1,43 +1,43 @@
-import stateList from './assets/state.json';
-import { findEntryByCode, findStateByCodeAndCountryCode, compare } from './utils';
+import fs from 'fs';
+import path from 'path';
+import { compare } from './utils';
 import { IState } from './interface';
 
+// Array of Interface IState
+let stateList: Array<IState> = [];
+
 // Get a list of all states.
-export function getAllStates(): IState[] {
+export const getAllStates = (): IState[] => {
+	if (stateList.length === 0) {
+		const all: any = fs.readFileSync(path.join(__dirname, 'assets/state.json'), 'utf-8');
+		stateList = JSON.parse(all);
+	}
+
 	return stateList;
-}
+};
 
 // Get a list of states belonging to a specific country.
-export function getStatesOfCountry(countryCode: string): IState[] {
+export function getStatesOfCountry(countryCode: string = ''): IState[] {
 	if (!countryCode) return [];
-	const states = stateList.filter((value) => {
+	// get data from file or cache
+	const states = getAllStates().filter((value) => {
 		return value.countryCode === countryCode;
 	});
 	return states.sort(compare);
 }
 
 // Find a country by it's ISO code and the country in which it is contained.
-export function getStateByCodeAndCountry(stateCode: string, countryCode: string): IState | undefined {
-	if (!stateCode) return undefined;
-	if (!countryCode) return undefined;
+export const getStateByCodeAndCountry = (stateCode: string, countryCode: string) => {
+	// get data from file or cache
+	const state: any = getAllStates().filter((stateObj: any) => {
+		return stateObj.isoCode === stateCode && stateObj.countryCode === countryCode;
+	});
 
-	return findStateByCodeAndCountryCode(stateList, stateCode, countryCode);
-}
-
-// to be deprecate
-export function getStateByCode(isoCode: string): IState | undefined {
-	// eslint-disable-next-line no-console
-	console.warn(
-		`WARNING! 'getStateByCode' has been deprecated, please use the new 'getStateByCodeAndCountry' function instead!`,
-	);
-	if (!isoCode) return undefined;
-
-	return findEntryByCode(stateList, isoCode);
-}
+	return state;
+};
 
 export default {
 	getAllStates,
 	getStatesOfCountry,
 	getStateByCodeAndCountry,
-	getStateByCode,
 };

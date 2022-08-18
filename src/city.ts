@@ -1,20 +1,31 @@
-import cityList from './assets/city.json';
+import fs from 'fs';
+import path from 'path';
+
 import { compare } from './utils';
 import { ICity } from './interface';
 
-// Get a list of all cities.
-function getAllCities(): ICity[] {
+// Array of Interface ICity
+let cityList: Array<ICity> = [];
+
+// Get a list of all states.
+export const getAllCities = (): ICity[] => {
+	if (cityList.length === 0) {
+		const all: any = fs.readFileSync(path.join(__dirname, 'assets/city.json'), 'utf-8');
+		cityList = JSON.parse(all);
+	}
+
 	return cityList;
-}
+};
 
 // Get a list of cities belonging to a specific state and country.
 function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string; stateCode: string }) => {
+	const cities = getAllCities().filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
+
 	return cities.sort(compare);
 }
 
@@ -22,7 +33,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string }) => {
+	const cities = getAllCities().filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
 	return cities.sort(compare);
