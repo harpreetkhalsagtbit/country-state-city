@@ -1,12 +1,12 @@
 /* eslint-disable no-shadow */
 import { Country, State } from '../index';
-import { IState, ICountry } from '../interface';
+import { IState } from '../interface';
 
 const executeAllTests = (State: any) => {
 	describe('Check for State Module', () => {
 		test('Check for Canada States', () => {
 			const code = 'CA';
-			const country: ICountry = Country.getCountryByCode(code);
+			const country: any = Country.getCountryByCode(code);
 			const states: IState[] = State.getStatesOfCountry(country.isoCode);
 			const names: String[] = states.map(
 				(state: IState): String => {
@@ -32,7 +32,7 @@ const executeAllTests = (State: any) => {
 
 		test('Check All States for United States Of America', () => {
 			const code = 'US';
-			const country: ICountry = Country.getCountryByCode(code);
+			const country: any = Country.getCountryByCode(code);
 			const states: IState[] = State.getStatesOfCountry(country.isoCode);
 			const names: String[] = states.map(
 				(state: IState): String => {
@@ -111,7 +111,7 @@ const executeAllTests = (State: any) => {
 
 		test('Check States for India', () => {
 			const code = 'IN';
-			const country: ICountry = Country.getCountryByCode(code);
+			const country: any = Country.getCountryByCode(code);
 			const states: IState[] = State.getStatesOfCountry(country.isoCode);
 			const names: String[] = states.map(
 				(state: IState): String => {
@@ -167,7 +167,7 @@ const executeAllTests = (State: any) => {
 
 		test('Check All States for Burkina Faso', () => {
 			const code = 'BF';
-			const country: ICountry = Country.getCountryByCode(code);
+			const country: any = Country.getCountryByCode(code);
 			const states: IState[] = State.getStatesOfCountry(country.isoCode);
 			const names: String[] = states.map(
 				(state: IState): String => {
