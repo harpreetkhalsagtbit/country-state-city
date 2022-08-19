@@ -1,0 +1,512 @@
+[
+   {
+      "name": "Bavorov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Bechyně",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Benešov nad Černou",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Bernartice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Blatná",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Borek",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Borovany",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Borová Lada",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Brloh",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Chlum u Třeboně",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Chotoviny",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Chvalšiny",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Chyšky",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Chýnov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Dačice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Dolní Bukovsko",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Dolní Dvořiště",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Dubné",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Dřiteň",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Frymburk",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Hluboká nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Horní Planá",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Horní Stropnice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Hrdějovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Husinec",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Jarošov nad Nežárkou",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Jindřichův Hradec",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Jistebnice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kamenný Újezd",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kaplice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kardašova Řečice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Katovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kovářov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kunžak",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Kájov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Křemže",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Ledenice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Lhenice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Litvínovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Lišov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Lomnice nad Lužnicí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Loučovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Malonty",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Malšice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Milevsko",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Mirotice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Mirovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Mladá Vožice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Netolice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Nová Bystřice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Nová Včelnice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Nové Hrady",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Jindřichův Hradec",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Prachatice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Písek",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Strakonice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Tábor",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres České Budějovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Okres Český Krumlov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Opařany",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Planá nad Lužnicí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Prachatice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Protivín",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Písek",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Radomyšl",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Rudolfov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Sedlice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Sepekov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Sezimovo Ústí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Slavonice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Soběslav",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Srubec",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Stachy",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Strakonice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Strmilov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Strunkovice nad Blanicí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Studená",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Suchdol nad Lužnicí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Trhové Sviny",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Tábor",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Týn nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Třeboň",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Vacov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Velešín",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Veselí nad Lužnicí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Vimperk",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Vlachovo Březí",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Vodňany",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Volary",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Volyně",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Vyšší Brod",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Včelná",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Větřní",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Zdíkov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Zliv",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "České Budějovice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "České Velenice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Český Krumlov",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Český Rudolec",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Čimelice",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Čkyně",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   },
+   {
+      "name": "Ševětín",
+      "countryCode": "CZ",
+      "stateCode": "31"
+   }
+]

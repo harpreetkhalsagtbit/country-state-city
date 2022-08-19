@@ -1,0 +1,717 @@
+[
+   {
+      "name": "Alicia",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Aurora",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Balagon",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Barcelona",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Batu",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Bayog",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Binuatan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Bolong",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Buenavista",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Bunguiao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Buug",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Cabaluay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Calabasa",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Caracal",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Culianan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Curuan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dalangin",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Danlugan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dapitan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dawa-Dawa",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Del Monte",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dicayong",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dimataling",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Diplahan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dipolo",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dipolog",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Disod",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dulian",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dumalinao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Dumingag",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "East Migpulao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Ganyangan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Gubaan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Guiniculalay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Guipos",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Gutalac",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Ilaya",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Ipil",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Irasan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Josefina",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kabasalan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kagawasan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kalawit",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kalian",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Katipunan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kawayan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kipit",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Kumalarang",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "La Dicha",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Labangan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Labason",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Labuan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lamisahan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Landang Laum",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Langatian",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Laparay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lapuyan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Legrada",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Leon Postigo",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Liloy",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Limaong",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Limpapa",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Linay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lingasan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lintangan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lumbayan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Lumbog",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Mabuhay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Mahayag",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Malangas",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Malayal",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Malim",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Mandih",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Mangusu",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Manicahan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Manukan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Margos",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Margosatubig",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Mercedes",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Midsalip",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Molave",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Monching",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Muricay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Muti",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Naga",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Olingan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Olutanga",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Pagadian",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Palomoc",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Panubigan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Patawag",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Payao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Pitogo",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Polanco",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Ponot",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Province of  Zamboanga del Sur",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Province of Zamboanga Sibugay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Province of Zamboanga del Norte",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Quinipot",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Ramon Magsaysay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Rancheria Payau",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Recodo",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Robonkon",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sagacad",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Salug",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "San Miguel",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "San Pablo",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sangali",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Seres",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sergio Osmeña Sr",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Siari",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Siay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Siayan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sibuco",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sibulao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sibutao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sindangan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sinubong",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Siocon",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Siraway",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Sumalig",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tabina",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tagasilay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Taguitic",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Talabaan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Talisayan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Taluksangay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Talusan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tambulig",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tampilisan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tawagan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tigbao",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tigpalay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tigtabon",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tiguha",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Timonan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tiparak",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Titay",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tolosa",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tucuran",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Tungawan",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Vitali",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   },
+   {
+      "name": "Zamboanga",
+      "countryCode": "PH",
+      "stateCode": "ZSI"
+   }
+]

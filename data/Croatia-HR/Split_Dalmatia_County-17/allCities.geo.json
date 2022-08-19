@@ -1,0 +1,569 @@
+[
+   {
+      "name": "Baška Voda",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.35694000",
+      "longitude": "16.95028000"
+   },
+   {
+      "name": "Bol",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.26194000",
+      "longitude": "16.65500000"
+   },
+   {
+      "name": "Brela",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.36889000",
+      "longitude": "16.93417000"
+   },
+   {
+      "name": "Brnaze",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.68000000",
+      "longitude": "16.64972000"
+   },
+   {
+      "name": "Dicmo",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.63678000",
+      "longitude": "16.58978000"
+   },
+   {
+      "name": "Donji Vinjani",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.44613000",
+      "longitude": "17.24064000"
+   },
+   {
+      "name": "Dugi Rat Općina",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.44923000",
+      "longitude": "16.64738000"
+   },
+   {
+      "name": "Dugopolje",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.58056000",
+      "longitude": "16.60278000"
+   },
+   {
+      "name": "Duće",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.44278000",
+      "longitude": "16.66833000"
+   },
+   {
+      "name": "Gala",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.71500000",
+      "longitude": "16.72694000"
+   },
+   {
+      "name": "Grabovci",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.49278000",
+      "longitude": "17.20111000"
+   },
+   {
+      "name": "Grad Hvar",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.17263000",
+      "longitude": "16.44550000"
+   },
+   {
+      "name": "Grad Imotski",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.43333000",
+      "longitude": "17.16667000"
+   },
+   {
+      "name": "Grad Makarska",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.30000000",
+      "longitude": "17.03333000"
+   },
+   {
+      "name": "Grad Omiš",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.46667000",
+      "longitude": "16.70000000"
+   },
+   {
+      "name": "Grad Sinj",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.72285000",
+      "longitude": "16.65819000"
+   },
+   {
+      "name": "Grad Split",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.50000000",
+      "longitude": "16.50000000"
+   },
+   {
+      "name": "Grad Supetar",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.38444000",
+      "longitude": "16.55528000"
+   },
+   {
+      "name": "Grad Trogir",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.52061000",
+      "longitude": "16.25144000"
+   },
+   {
+      "name": "Grad Vis",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.05315000",
+      "longitude": "16.18698000"
+   },
+   {
+      "name": "Grad Vrgorac",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.20000000",
+      "longitude": "17.36667000"
+   },
+   {
+      "name": "Gradac",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.10583000",
+      "longitude": "17.34167000"
+   },
+   {
+      "name": "Greda",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.61528000",
+      "longitude": "16.69361000"
+   },
+   {
+      "name": "Grubine",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.42986000",
+      "longitude": "17.16292000"
+   },
+   {
+      "name": "Hrvace",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.76333000",
+      "longitude": "16.61500000"
+   },
+   {
+      "name": "Hvar",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.17250000",
+      "longitude": "16.44278000"
+   },
+   {
+      "name": "Imotski",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.44667000",
+      "longitude": "17.21667000"
+   },
+   {
+      "name": "Jelsa",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.16139000",
+      "longitude": "16.69306000"
+   },
+   {
+      "name": "Jesenice",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.46158000",
+      "longitude": "16.60197000"
+   },
+   {
+      "name": "Kamen",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.51417000",
+      "longitude": "16.51472000"
+   },
+   {
+      "name": "Kaštel Gomilica",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55000000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Kaštel Kambelovac",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55000000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Kaštel Lukšić",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55528000",
+      "longitude": "16.36750000"
+   },
+   {
+      "name": "Kaštel Novi",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55000000",
+      "longitude": "16.33333000"
+   },
+   {
+      "name": "Kaštel Stari",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55000000",
+      "longitude": "16.35000000"
+   },
+   {
+      "name": "Kaštel Štafilić",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55000000",
+      "longitude": "16.33333000"
+   },
+   {
+      "name": "Kaštela",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.53865000",
+      "longitude": "16.30740000"
+   },
+   {
+      "name": "Klis",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.55944000",
+      "longitude": "16.51944000"
+   },
+   {
+      "name": "Komiža",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.04306000",
+      "longitude": "16.09306000"
+   },
+   {
+      "name": "Košute",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.63083000",
+      "longitude": "16.69500000"
+   },
+   {
+      "name": "Lokvičići",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.46428000",
+      "longitude": "17.09142000"
+   },
+   {
+      "name": "Lovreć",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.48761000",
+      "longitude": "16.98632000"
+   },
+   {
+      "name": "Makarska",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.29694000",
+      "longitude": "17.01778000"
+   },
+   {
+      "name": "Milna",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.32667000",
+      "longitude": "16.45083000"
+   },
+   {
+      "name": "Mravince",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.53333000",
+      "longitude": "16.52194000"
+   },
+   {
+      "name": "Muć",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.69328000",
+      "longitude": "16.47267000"
+   },
+   {
+      "name": "Nerežišća",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.32959000",
+      "longitude": "16.57743000"
+   },
+   {
+      "name": "Okrug",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.49638000",
+      "longitude": "16.26732000"
+   },
+   {
+      "name": "Okrug Gornji",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.49473000",
+      "longitude": "16.26531000"
+   },
+   {
+      "name": "Omiš",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.44472000",
+      "longitude": "16.68861000"
+   },
+   {
+      "name": "Otok",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.68661000",
+      "longitude": "16.73488000"
+   },
+   {
+      "name": "Podstrana",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.48668000",
+      "longitude": "16.55013000"
+   },
+   {
+      "name": "Postira",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.37551000",
+      "longitude": "16.63091000"
+   },
+   {
+      "name": "Proložac",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.46690000",
+      "longitude": "17.15507000"
+   },
+   {
+      "name": "Pučišća",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.34778000",
+      "longitude": "16.73389000"
+   },
+   {
+      "name": "Runović",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.37667000",
+      "longitude": "17.23667000"
+   },
+   {
+      "name": "Runovići",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.38704000",
+      "longitude": "17.23892000"
+   },
+   {
+      "name": "Seget",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.54305000",
+      "longitude": "16.21222000"
+   },
+   {
+      "name": "Seget Vranjica",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.50999000",
+      "longitude": "16.18704000"
+   },
+   {
+      "name": "Selca",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.29722000",
+      "longitude": "16.85083000"
+   },
+   {
+      "name": "Sinj",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.70361000",
+      "longitude": "16.63944000"
+   },
+   {
+      "name": "Slatine",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.49944000",
+      "longitude": "16.33333000"
+   },
+   {
+      "name": "Solin",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.54320000",
+      "longitude": "16.49314000"
+   },
+   {
+      "name": "Split",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.50891000",
+      "longitude": "16.43915000"
+   },
+   {
+      "name": "Srinjine",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.48333000",
+      "longitude": "16.60000000"
+   },
+   {
+      "name": "Stari Grad",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.18472000",
+      "longitude": "16.59528000"
+   },
+   {
+      "name": "Stobreč",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.50250000",
+      "longitude": "16.52222000"
+   },
+   {
+      "name": "Supetar",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.38417000",
+      "longitude": "16.55083000"
+   },
+   {
+      "name": "Trilj",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.61833000",
+      "longitude": "16.72417000"
+   },
+   {
+      "name": "Trogir",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.51250000",
+      "longitude": "16.25167000"
+   },
+   {
+      "name": "Turjaci",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.65000000",
+      "longitude": "16.66917000"
+   },
+   {
+      "name": "Tučepi",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.27222000",
+      "longitude": "17.05444000"
+   },
+   {
+      "name": "Veliki Drvenik",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.45000000",
+      "longitude": "16.15000000"
+   },
+   {
+      "name": "Vis",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.06194000",
+      "longitude": "16.18306000"
+   },
+   {
+      "name": "Vranjic",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.53333000",
+      "longitude": "16.46667000"
+   },
+   {
+      "name": "Vrgorac",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.20583000",
+      "longitude": "17.37111000"
+   },
+   {
+      "name": "Vrlika",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.91098000",
+      "longitude": "16.39933000"
+   },
+   {
+      "name": "Zagvozd",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.39750000",
+      "longitude": "17.05694000"
+   },
+   {
+      "name": "Zmijavci",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.41083000",
+      "longitude": "17.20556000"
+   },
+   {
+      "name": "Šolta",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.38714000",
+      "longitude": "16.28865000"
+   },
+   {
+      "name": "Žrnovnica",
+      "countryCode": "HR",
+      "stateCode": "17",
+      "latitude": "43.52111000",
+      "longitude": "16.55917000"
+   }
+]

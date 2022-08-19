@@ -1,0 +1,842 @@
+[
+   {
+      "name": "Ahoghill",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.86667000",
+      "longitude": "-6.36667000"
+   },
+   {
+      "name": "Annahilt",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.43333000",
+      "longitude": "-6.00000000"
+   },
+   {
+      "name": "Annalong",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.10823000",
+      "longitude": "-5.89966000"
+   },
+   {
+      "name": "Antrim",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.70000000",
+      "longitude": "-6.20000000"
+   },
+   {
+      "name": "Antrim and Newtownabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.70177000",
+      "longitude": "-6.19770000"
+   },
+   {
+      "name": "Ardglass",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.26312000",
+      "longitude": "-5.60981000"
+   },
+   {
+      "name": "Ards and North Down",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.53439000",
+      "longitude": "-5.62947000"
+   },
+   {
+      "name": "Armagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.35000000",
+      "longitude": "-6.66667000"
+   },
+   {
+      "name": "Armagh City Banbridge and Craigavon",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.36922000",
+      "longitude": "-6.45651000"
+   },
+   {
+      "name": "Ballinamallard",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.40000000",
+      "longitude": "-7.58333000"
+   },
+   {
+      "name": "Ballintoy Harbour",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.24422000",
+      "longitude": "-6.36919000"
+   },
+   {
+      "name": "Ballycastle",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.20444000",
+      "longitude": "-6.24298000"
+   },
+   {
+      "name": "Ballyclare",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.75089000",
+      "longitude": "-5.99944000"
+   },
+   {
+      "name": "Ballygowan",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.50165000",
+      "longitude": "-5.79168000"
+   },
+   {
+      "name": "Ballykelly",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.04425000",
+      "longitude": "-7.01855000"
+   },
+   {
+      "name": "Ballymena",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.86357000",
+      "longitude": "-6.27628000"
+   },
+   {
+      "name": "Ballymoney",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.07080000",
+      "longitude": "-6.51009000"
+   },
+   {
+      "name": "Ballynahinch",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.40230000",
+      "longitude": "-5.89717000"
+   },
+   {
+      "name": "Ballypatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.18112000",
+      "longitude": "-6.15020000"
+   },
+   {
+      "name": "Ballywalter",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.54329000",
+      "longitude": "-5.48475000"
+   },
+   {
+      "name": "Banbridge",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.35000000",
+      "longitude": "-6.28333000"
+   },
+   {
+      "name": "Bangor",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.65338000",
+      "longitude": "-5.66895000"
+   },
+   {
+      "name": "Belfast",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.59682000",
+      "longitude": "-5.92541000"
+   },
+   {
+      "name": "Bellaghy",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.80870000",
+      "longitude": "-6.51918000"
+   },
+   {
+      "name": "Broughshane",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.89260000",
+      "longitude": "-6.20899000"
+   },
+   {
+      "name": "Bushmills",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.20493000",
+      "longitude": "-6.51918000"
+   },
+   {
+      "name": "Carnlough",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.99185000",
+      "longitude": "-5.99038000"
+   },
+   {
+      "name": "Carnmoney",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.68333000",
+      "longitude": "-5.95000000"
+   },
+   {
+      "name": "Carrickfergus",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.71580000",
+      "longitude": "-5.80580000"
+   },
+   {
+      "name": "Carryduff",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.51799000",
+      "longitude": "-5.88713000"
+   },
+   {
+      "name": "Castledawson",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.77723000",
+      "longitude": "-6.56227000"
+   },
+   {
+      "name": "Castlederg",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.70699000",
+      "longitude": "-7.59336000"
+   },
+   {
+      "name": "Castlereagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.57350000",
+      "longitude": "-5.88472000"
+   },
+   {
+      "name": "Castlerock",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.15000000",
+      "longitude": "-6.78333000"
+   },
+   {
+      "name": "Castlewellan",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.25690000",
+      "longitude": "-5.94446000"
+   },
+   {
+      "name": "Causeway Coast and Glens",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.06014000",
+      "longitude": "-6.59081000"
+   },
+   {
+      "name": "City of Belfast",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.58333000",
+      "longitude": "-5.91667000"
+   },
+   {
+      "name": "Coalisland",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.54180000",
+      "longitude": "-6.70166000"
+   },
+   {
+      "name": "Coleraine",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.13333000",
+      "longitude": "-6.66667000"
+   },
+   {
+      "name": "Comber",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.54937000",
+      "longitude": "-5.74379000"
+   },
+   {
+      "name": "Connor",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.80000000",
+      "longitude": "-6.20000000"
+   },
+   {
+      "name": "Cookstown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.64305000",
+      "longitude": "-6.74595000"
+   },
+   {
+      "name": "Craigavon",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.44709000",
+      "longitude": "-6.38700000"
+   },
+   {
+      "name": "Crossgar",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.39675000",
+      "longitude": "-5.76061000"
+   },
+   {
+      "name": "Crossmaglen",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.08333000",
+      "longitude": "-6.60000000"
+   },
+   {
+      "name": "Crumlin",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.62054000",
+      "longitude": "-6.21414000"
+   },
+   {
+      "name": "Cullybackey",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.88875000",
+      "longitude": "-6.34701000"
+   },
+   {
+      "name": "Culmore",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.05000000",
+      "longitude": "-7.26667000"
+   },
+   {
+      "name": "Cushendall",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.08033000",
+      "longitude": "-6.06291000"
+   },
+   {
+      "name": "Derry",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.99810000",
+      "longitude": "-7.30934000"
+   },
+   {
+      "name": "Derry City and Strabane",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.82045000",
+      "longitude": "-7.35958000"
+   },
+   {
+      "name": "Doagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.75000000",
+      "longitude": "-6.08333000"
+   },
+   {
+      "name": "Donaghadee",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.64126000",
+      "longitude": "-5.53591000"
+   },
+   {
+      "name": "Downpatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.32814000",
+      "longitude": "-5.71529000"
+   },
+   {
+      "name": "Draperstown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.80000000",
+      "longitude": "-6.76667000"
+   },
+   {
+      "name": "Dromore",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.51331000",
+      "longitude": "-7.45886000"
+   },
+   {
+      "name": "Dundonald",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.59196000",
+      "longitude": "-5.79803000"
+   },
+   {
+      "name": "Dundrum",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.25750000",
+      "longitude": "-5.84455000"
+   },
+   {
+      "name": "Dungannon",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.50344000",
+      "longitude": "-6.76723000"
+   },
+   {
+      "name": "Dungiven",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.93333000",
+      "longitude": "-6.91667000"
+   },
+   {
+      "name": "Dunloy",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.01100000",
+      "longitude": "-6.41087000"
+   },
+   {
+      "name": "Eglinton",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.01667000",
+      "longitude": "-7.18333000"
+   },
+   {
+      "name": "Enniskillen",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.34615000",
+      "longitude": "-7.64133000"
+   },
+   {
+      "name": "Fermanagh and Omagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.44257000",
+      "longitude": "-7.50299000"
+   },
+   {
+      "name": "Fintona",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.50000000",
+      "longitude": "-7.31667000"
+   },
+   {
+      "name": "Fivemiletown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.38333000",
+      "longitude": "-7.30000000"
+   },
+   {
+      "name": "Garvagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.98333000",
+      "longitude": "-6.66667000"
+   },
+   {
+      "name": "Gilford",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.37256000",
+      "longitude": "-6.36126000"
+   },
+   {
+      "name": "Glenariff",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.05000000",
+      "longitude": "-6.06667000"
+   },
+   {
+      "name": "Glenavy",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.59231000",
+      "longitude": "-6.21371000"
+   },
+   {
+      "name": "Greenisland",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.70081000",
+      "longitude": "-5.87479000"
+   },
+   {
+      "name": "Greyabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.53483000",
+      "longitude": "-5.56028000"
+   },
+   {
+      "name": "Hillsborough",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.46345000",
+      "longitude": "-6.07664000"
+   },
+   {
+      "name": "Holywood",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.63863000",
+      "longitude": "-5.82473000"
+   },
+   {
+      "name": "Irvinestown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.46667000",
+      "longitude": "-7.63333000"
+   },
+   {
+      "name": "Jordanstown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.68333000",
+      "longitude": "-5.90000000"
+   },
+   {
+      "name": "Keady",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.25000000",
+      "longitude": "-6.70000000"
+   },
+   {
+      "name": "Kilkeel",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.06196000",
+      "longitude": "-6.00308000"
+   },
+   {
+      "name": "Killyleagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.40135000",
+      "longitude": "-5.64800000"
+   },
+   {
+      "name": "Kilrea",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.95091000",
+      "longitude": "-6.55695000"
+   },
+   {
+      "name": "Kircubbin",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.48739000",
+      "longitude": "-5.53385000"
+   },
+   {
+      "name": "Larne",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.85000000",
+      "longitude": "-5.81667000"
+   },
+   {
+      "name": "Limavady",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.05045000",
+      "longitude": "-6.95074000"
+   },
+   {
+      "name": "Lisburn",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.52337000",
+      "longitude": "-6.03527000"
+   },
+   {
+      "name": "Lisburn and Castlereagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.50824000",
+      "longitude": "-6.05246000"
+   },
+   {
+      "name": "Lisnaskea",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.25000000",
+      "longitude": "-7.45000000"
+   },
+   {
+      "name": "Londonderry County Borough",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.99721000",
+      "longitude": "-7.30917000"
+   },
+   {
+      "name": "Maghera",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.84390000",
+      "longitude": "-6.67145000"
+   },
+   {
+      "name": "Magherafelt",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.75356000",
+      "longitude": "-6.60656000"
+   },
+   {
+      "name": "Magheralin",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.46695000",
+      "longitude": "-6.25980000"
+   },
+   {
+      "name": "Mid Ulster",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.62190000",
+      "longitude": "-6.79097000"
+   },
+   {
+      "name": "Mid and East Antrim",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.87436000",
+      "longitude": "-6.10141000"
+   },
+   {
+      "name": "Millisle",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.60638000",
+      "longitude": "-5.52973000"
+   },
+   {
+      "name": "Moira",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.48021000",
+      "longitude": "-6.22822000"
+   },
+   {
+      "name": "Moneymore",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.69229000",
+      "longitude": "-6.66956000"
+   },
+   {
+      "name": "Moy",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.45000000",
+      "longitude": "-6.66667000"
+   },
+   {
+      "name": "Newcastle",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.21804000",
+      "longitude": "-5.88979000"
+   },
+   {
+      "name": "Newry",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.17841000",
+      "longitude": "-6.33739000"
+   },
+   {
+      "name": "Newry Mourne and Down",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.23616000",
+      "longitude": "-6.06687000"
+   },
+   {
+      "name": "Newtownabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.65983000",
+      "longitude": "-5.90858000"
+   },
+   {
+      "name": "Newtownards",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.59236000",
+      "longitude": "-5.69092000"
+   },
+   {
+      "name": "Newtownstewart",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.71778000",
+      "longitude": "-7.37886000"
+   },
+   {
+      "name": "Omagh",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.60000000",
+      "longitude": "-7.30000000"
+   },
+   {
+      "name": "Portadown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.42302000",
+      "longitude": "-6.44434000"
+   },
+   {
+      "name": "Portaferry",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.38086000",
+      "longitude": "-5.54569000"
+   },
+   {
+      "name": "Portavogie",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.45916000",
+      "longitude": "-5.44304000"
+   },
+   {
+      "name": "Portglenone",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.87147000",
+      "longitude": "-6.47146000"
+   },
+   {
+      "name": "Portrush",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.19592000",
+      "longitude": "-6.64930000"
+   },
+   {
+      "name": "Portstewart",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "55.18132000",
+      "longitude": "-6.71402000"
+   },
+   {
+      "name": "Randalstown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.75000000",
+      "longitude": "-6.30000000"
+   },
+   {
+      "name": "Rathfriland",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.25000000",
+      "longitude": "-6.16667000"
+   },
+   {
+      "name": "Rostrevor",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.10000000",
+      "longitude": "-6.20000000"
+   },
+   {
+      "name": "Saintfield",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.46046000",
+      "longitude": "-5.83065000"
+   },
+   {
+      "name": "Sion Mills",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.78752000",
+      "longitude": "-7.47276000"
+   },
+   {
+      "name": "Strabane",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.82373000",
+      "longitude": "-7.46916000"
+   },
+   {
+      "name": "Tandragee",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.35486000",
+      "longitude": "-6.41396000"
+   },
+   {
+      "name": "Templepatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.68333000",
+      "longitude": "-6.08333000"
+   },
+   {
+      "name": "Waringstown",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.43431000",
+      "longitude": "-6.29929000"
+   },
+   {
+      "name": "Warrenpoint",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.10148000",
+      "longitude": "-6.25731000"
+   },
+   {
+      "name": "Whitehead",
+      "countryCode": "GB",
+      "stateCode": "NYK",
+      "latitude": "54.75371000",
+      "longitude": "-5.70933000"
+   }
+]

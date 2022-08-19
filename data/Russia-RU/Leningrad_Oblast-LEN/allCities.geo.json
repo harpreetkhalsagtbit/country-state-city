@@ -1,0 +1,989 @@
+[
+   {
+      "name": "Agalatovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.21950000",
+      "longitude": "30.27388000"
+   },
+   {
+      "name": "Akademicheskoe",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.01375000",
+      "longitude": "30.39471000"
+   },
+   {
+      "name": "Annino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.77056000",
+      "longitude": "30.05611000"
+   },
+   {
+      "name": "Begunitsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.58552000",
+      "longitude": "29.31757000"
+   },
+   {
+      "name": "Boksitogorsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.47405000",
+      "longitude": "33.84853000"
+   },
+   {
+      "name": "Boksitogorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.50000000",
+      "longitude": "34.00000000"
+   },
+   {
+      "name": "Bol’shaya Izhora",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.93796000",
+      "longitude": "29.57721000"
+   },
+   {
+      "name": "Borisova Griva",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.08936000",
+      "longitude": "30.97727000"
+   },
+   {
+      "name": "Budogoshch’",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.28158000",
+      "longitude": "32.47074000"
+   },
+   {
+      "name": "Bugry",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.07121000",
+      "longitude": "30.39225000"
+   },
+   {
+      "name": "Chernaya Rechka",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.98594000",
+      "longitude": "30.30338000"
+   },
+   {
+      "name": "Druzhnaya Gorka",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.28018000",
+      "longitude": "30.12709000"
+   },
+   {
+      "name": "Finlyandskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.96824000",
+      "longitude": "30.36415000"
+   },
+   {
+      "name": "Fornosovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.56889000",
+      "longitude": "30.55444000"
+   },
+   {
+      "name": "Fëdorovskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.66306000",
+      "longitude": "30.53222000"
+   },
+   {
+      "name": "Garbolovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.34127000",
+      "longitude": "30.49551000"
+   },
+   {
+      "name": "Gatchina",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.57639000",
+      "longitude": "30.12833000"
+   },
+   {
+      "name": "Glebychevo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.43868000",
+      "longitude": "28.71826000"
+   },
+   {
+      "name": "Gorbunki",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.81307000",
+      "longitude": "29.98478000"
+   },
+   {
+      "name": "Gorskaya",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.04640000",
+      "longitude": "29.97137000"
+   },
+   {
+      "name": "Gostilitsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.74832000",
+      "longitude": "29.62205000"
+   },
+   {
+      "name": "Il’ichëvo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.26808000",
+      "longitude": "29.75230000"
+   },
+   {
+      "name": "Imeni Morozova",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.97572000",
+      "longitude": "31.03762000"
+   },
+   {
+      "name": "Imeni Sverdlova",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.79611000",
+      "longitude": "30.66583000"
+   },
+   {
+      "name": "Issad",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.06743000",
+      "longitude": "32.34331000"
+   },
+   {
+      "name": "Ivangorod",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.37155000",
+      "longitude": "28.21625000"
+   },
+   {
+      "name": "Kalininskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.99675000",
+      "longitude": "30.38990000"
+   },
+   {
+      "name": "Kamenka",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.44639000",
+      "longitude": "29.08290000"
+   },
+   {
+      "name": "Kamennogorsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.95451000",
+      "longitude": "29.13391000"
+   },
+   {
+      "name": "Khvalovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.94774000",
+      "longitude": "32.73723000"
+   },
+   {
+      "name": "Kikerino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.46466000",
+      "longitude": "29.62729000"
+   },
+   {
+      "name": "Kingisepp",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.37331000",
+      "longitude": "28.61343000"
+   },
+   {
+      "name": "Kingiseppskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.50000000",
+      "longitude": "28.50000000"
+   },
+   {
+      "name": "Kipen’",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.67407000",
+      "longitude": "29.84977000"
+   },
+   {
+      "name": "Kirishi",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.44712000",
+      "longitude": "32.02049000"
+   },
+   {
+      "name": "Kirovsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.88101000",
+      "longitude": "30.99507000"
+   },
+   {
+      "name": "Kirovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.83333000",
+      "longitude": "31.00000000"
+   },
+   {
+      "name": "Kobrinskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.42250000",
+      "longitude": "30.12389000"
+   },
+   {
+      "name": "Kolchanovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.01647000",
+      "longitude": "32.58837000"
+   },
+   {
+      "name": "Koltushi",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.92969000",
+      "longitude": "30.64465000"
+   },
+   {
+      "name": "Kommunar",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.62056000",
+      "longitude": "30.39000000"
+   },
+   {
+      "name": "Kopor’ye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.71067000",
+      "longitude": "29.03488000"
+   },
+   {
+      "name": "Korobitsyno",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.51523000",
+      "longitude": "29.72437000"
+   },
+   {
+      "name": "Krasnyy Bor",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.68194000",
+      "longitude": "30.66806000"
+   },
+   {
+      "name": "Krestovskiy ostrov",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.97091000",
+      "longitude": "30.25789000"
+   },
+   {
+      "name": "Kurortnyy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.16562000",
+      "longitude": "29.90800000"
+   },
+   {
+      "name": "Kuyvozi",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.31931000",
+      "longitude": "30.43631000"
+   },
+   {
+      "name": "Kuznechnoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.11530000",
+      "longitude": "29.87535000"
+   },
+   {
+      "name": "Lebyazh’ye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.96124000",
+      "longitude": "29.41487000"
+   },
+   {
+      "name": "Leninskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.22021000",
+      "longitude": "29.84711000"
+   },
+   {
+      "name": "Leskolovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.26341000",
+      "longitude": "30.45462000"
+   },
+   {
+      "name": "Lesogorskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.04549000",
+      "longitude": "28.92938000"
+   },
+   {
+      "name": "Lodeynopol’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.50000000",
+      "longitude": "33.75000000"
+   },
+   {
+      "name": "Lodeynoye Pole",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.72600000",
+      "longitude": "33.55306000"
+   },
+   {
+      "name": "Lomonosovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.89721000",
+      "longitude": "29.73994000"
+   },
+   {
+      "name": "Luga",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "58.73722000",
+      "longitude": "29.84528000"
+   },
+   {
+      "name": "Luppolovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.15402000",
+      "longitude": "30.28034000"
+   },
+   {
+      "name": "Luzhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "58.75000000",
+      "longitude": "29.75000000"
+   },
+   {
+      "name": "Lyuban’",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.35000000",
+      "longitude": "31.21667000"
+   },
+   {
+      "name": "Maloye Verevo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.61361000",
+      "longitude": "30.17278000"
+   },
+   {
+      "name": "Mariyenburg",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.57139000",
+      "longitude": "30.06472000"
+   },
+   {
+      "name": "Mga",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.75000000",
+      "longitude": "31.06667000"
+   },
+   {
+      "name": "Michurinskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.56420000",
+      "longitude": "29.86232000"
+   },
+   {
+      "name": "Mshinskaya",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.01500000",
+      "longitude": "29.94333000"
+   },
+   {
+      "name": "Murino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.04796000",
+      "longitude": "30.45204000"
+   },
+   {
+      "name": "Nikol’skoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.70056000",
+      "longitude": "30.78472000"
+   },
+   {
+      "name": "Novaya Ladoga",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.10246000",
+      "longitude": "32.30191000"
+   },
+   {
+      "name": "Novoye Devyatkino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.06364000",
+      "longitude": "30.48328000"
+   },
+   {
+      "name": "Nurma",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.55000000",
+      "longitude": "31.01667000"
+   },
+   {
+      "name": "Ol’gino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.83702000",
+      "longitude": "29.92266000"
+   },
+   {
+      "name": "Osel’ki",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.20503000",
+      "longitude": "30.49667000"
+   },
+   {
+      "name": "Otradnoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.77750000",
+      "longitude": "30.81806000"
+   },
+   {
+      "name": "Parnas",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.06964000",
+      "longitude": "30.34870000"
+   },
+   {
+      "name": "Pasha",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.39546000",
+      "longitude": "33.04308000"
+   },
+   {
+      "name": "Pavlovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.80861000",
+      "longitude": "30.89667000"
+   },
+   {
+      "name": "Pervomayskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.35922000",
+      "longitude": "29.74240000"
+   },
+   {
+      "name": "Pikalëvo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.51833000",
+      "longitude": "34.16639000"
+   },
+   {
+      "name": "Podporozhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.00000000",
+      "longitude": "34.50000000"
+   },
+   {
+      "name": "Podporozh’ye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.91124000",
+      "longitude": "34.17064000"
+   },
+   {
+      "name": "Priladozhskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.85000000",
+      "longitude": "31.48333000"
+   },
+   {
+      "name": "Primorsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.36593000",
+      "longitude": "28.60737000"
+   },
+   {
+      "name": "Priozersky",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.03901000",
+      "longitude": "30.13515000"
+   },
+   {
+      "name": "Priozërsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.03928000",
+      "longitude": "30.12907000"
+   },
+   {
+      "name": "Romanovka",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.04430000",
+      "longitude": "30.71400000"
+   },
+   {
+      "name": "Roshchino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.25191000",
+      "longitude": "29.60850000"
+   },
+   {
+      "name": "Rozhdestveno",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.31812000",
+      "longitude": "29.94594000"
+   },
+   {
+      "name": "Russko-Vysotskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.69963000",
+      "longitude": "29.94404000"
+   },
+   {
+      "name": "Ryabovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.40000000",
+      "longitude": "31.13333000"
+   },
+   {
+      "name": "Rybatskoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.83930000",
+      "longitude": "30.49873000"
+   },
+   {
+      "name": "Sampsonievskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.98499000",
+      "longitude": "30.34295000"
+   },
+   {
+      "name": "Sapernoye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.71418000",
+      "longitude": "29.95525000"
+   },
+   {
+      "name": "Semiozerje",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.32018000",
+      "longitude": "29.29705000"
+   },
+   {
+      "name": "Sertolovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.14440000",
+      "longitude": "30.20165000"
+   },
+   {
+      "name": "Shcheglovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.02839000",
+      "longitude": "30.75289000"
+   },
+   {
+      "name": "Shlissel’burg",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.94730000",
+      "longitude": "31.03845000"
+   },
+   {
+      "name": "Sinyavino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.90781000",
+      "longitude": "31.07110000"
+   },
+   {
+      "name": "Sista-Palkino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.80042000",
+      "longitude": "28.91049000"
+   },
+   {
+      "name": "Siverskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.35444000",
+      "longitude": "30.07833000"
+   },
+   {
+      "name": "Slantsevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.08333000",
+      "longitude": "28.25000000"
+   },
+   {
+      "name": "Slantsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.11817000",
+      "longitude": "28.09137000"
+   },
+   {
+      "name": "Sosnovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.55145000",
+      "longitude": "30.21441000"
+   },
+   {
+      "name": "Sosnovyy Bor",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.89960000",
+      "longitude": "29.08574000"
+   },
+   {
+      "name": "Sovetskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.53945000",
+      "longitude": "28.67756000"
+   },
+   {
+      "name": "Staraya",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.92749000",
+      "longitude": "30.62765000"
+   },
+   {
+      "name": "Staraya Ladoga",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.99872000",
+      "longitude": "32.29413000"
+   },
+   {
+      "name": "Svetlanovskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.00276000",
+      "longitude": "30.33051000"
+   },
+   {
+      "name": "Svetogorsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.11213000",
+      "longitude": "28.86321000"
+   },
+   {
+      "name": "Syas’stroy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.13669000",
+      "longitude": "32.56906000"
+   },
+   {
+      "name": "Taytsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.66444000",
+      "longitude": "30.11472000"
+   },
+   {
+      "name": "Tikhvin",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.64511000",
+      "longitude": "33.52937000"
+   },
+   {
+      "name": "Tikhvinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.75000000",
+      "longitude": "33.33333000"
+   },
+   {
+      "name": "Toksovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.15323000",
+      "longitude": "30.51646000"
+   },
+   {
+      "name": "Tolmachevo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "58.85973000",
+      "longitude": "29.91091000"
+   },
+   {
+      "name": "Tosnenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.41667000",
+      "longitude": "31.00000000"
+   },
+   {
+      "name": "Tosno",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.54000000",
+      "longitude": "30.87750000"
+   },
+   {
+      "name": "Udel’naya",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.01636000",
+      "longitude": "30.31815000"
+   },
+   {
+      "name": "Ul’yanovka",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.63944000",
+      "longitude": "30.76472000"
+   },
+   {
+      "name": "Untolovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.01220000",
+      "longitude": "30.20897000"
+   },
+   {
+      "name": "Ust’-Luga",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.66755000",
+      "longitude": "28.28713000"
+   },
+   {
+      "name": "Vaskelovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.39571000",
+      "longitude": "30.35419000"
+   },
+   {
+      "name": "Vazhiny",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.96444000",
+      "longitude": "34.02222000"
+   },
+   {
+      "name": "Verkhniye Osel’ki",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.24948000",
+      "longitude": "30.44938000"
+   },
+   {
+      "name": "Veshchevo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.73107000",
+      "longitude": "29.18305000"
+   },
+   {
+      "name": "Vinnitsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.62867000",
+      "longitude": "34.77302000"
+   },
+   {
+      "name": "Vistino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.77558000",
+      "longitude": "28.47708000"
+   },
+   {
+      "name": "Volkhov",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.92580000",
+      "longitude": "32.33819000"
+   },
+   {
+      "name": "Volkhovskiy rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.75000000",
+      "longitude": "32.50000000"
+   },
+   {
+      "name": "Volosovo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.44525000",
+      "longitude": "29.48911000"
+   },
+   {
+      "name": "Volosovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.42105000",
+      "longitude": "29.47705000"
+   },
+   {
+      "name": "Voyskovitsy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.53266000",
+      "longitude": "29.93620000"
+   },
+   {
+      "name": "Voznesen’ye",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "61.01060000",
+      "longitude": "35.47813000"
+   },
+   {
+      "name": "Vsevolozhsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.01512000",
+      "longitude": "30.67314000"
+   },
+   {
+      "name": "Vsevolozhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.16667000",
+      "longitude": "30.50000000"
+   },
+   {
+      "name": "Vyborg",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.70763000",
+      "longitude": "28.75283000"
+   },
+   {
+      "name": "Vyritsa",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.40778000",
+      "longitude": "30.34806000"
+   },
+   {
+      "name": "Vysotsk",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.62879000",
+      "longitude": "28.57048000"
+   },
+   {
+      "name": "Yakovlevo",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.29409000",
+      "longitude": "29.48800000"
+   },
+   {
+      "name": "Yanino-1",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.94808000",
+      "longitude": "30.55914000"
+   },
+   {
+      "name": "Yaroslavichi",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "60.49275000",
+      "longitude": "34.50806000"
+   },
+   {
+      "name": "Yefimovskiy",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.49639000",
+      "longitude": "34.67222000"
+   },
+   {
+      "name": "Yelizavetino",
+      "countryCode": "RU",
+      "stateCode": "LEN",
+      "latitude": "59.49173000",
+      "longitude": "29.78153000"
+   }
+]

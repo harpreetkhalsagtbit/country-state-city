@@ -1,0 +1,857 @@
+[
+   {
+      "name": "Adamov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Blansko",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Blažovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Blučina",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Blížkovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Boskovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bořetice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bořitov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bošovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Božice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Brno",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bučovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bzenec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Bílovice nad Svitavou",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Břeclav",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Březí",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dambořice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dobšice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dolní Bojanovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dolní Dunajovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dolní Kounice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dolní Loućky",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Domanín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Doubravice nad Svitavou",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Drnholec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Drnovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Drásov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Dubňany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hevlín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hlohovec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hodonice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hodonín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hostěradice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hovorany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hroznová Lhota",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hrušky",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hrušovany nad Jevišovkou",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hrušovany u Brna",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Hustopeče",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ivanovice na Hané",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ivančice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Jaroslavice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Jedovnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Jevišovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Klobouky",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kněždub",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kobylí",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kostice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Krumvíř",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kunštát",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kuřim",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Kyjov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Křenovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Křepice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lanžhot",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lednice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lelekovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Letonice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Letovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lipov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lipovec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lipůvka",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lomnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Louka",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lužice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Lysice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Mikulov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Mikulčice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Milotice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Miroslav",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Modřice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Mokrá Hora",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moravany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moravská Nová Ves",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moravský Krumlov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moravský Písek",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moravský Žižkov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Moutnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Mutěnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Měnín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Město Brno",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Nedvědice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Nesovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Nosislav",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Novosedly",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Blansko",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Brno-venkov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Břeclav",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Hodonín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Vyškov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Okres Znojmo",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Olbramovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Olešnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Oslavany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ostopovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ostrov u Macochy",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Otnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ořechov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Petrov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Podivín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Podolí",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Pohořelice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Pozořice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Prušánky",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Pustiměř",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Předklášteří",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rajhrad",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rajhradice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rakvice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ratíškovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rohatec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rosice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rousínov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Rájec-Jestřebí",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ráječko",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Slavkov u Brna",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Sokolnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Strážnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Střelice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Suchohrdly",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Sudoměřice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Svitávka",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Tasovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Telnice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Tišnov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Troubsko",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Tvarožná",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Tvrdonice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Týnec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Těšany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vacenovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Valtice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Velká nad Veličkou",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Velké Bílovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Velké Němčice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Velké Opatovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Velké Pavlovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Veselí nad Moravou",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Veverská Bítýška",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Viničné Šumice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Višňové",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vlkoš",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vnorovy",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vojkovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vracov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vranovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vrbice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vrbovec",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Vyškov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Zaječí",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Zastávka",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Zbraslav",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Zbýšov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Znojmo",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Únanov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Čebín",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Čejkovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Čejč",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Černá Hora",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Říčany",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šakvice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šanov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šardice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šatov",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šitbořice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Šlapanice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Žabčice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Ždánice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Želešice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Žeravice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   },
+   {
+      "name": "Židlochovice",
+      "countryCode": "CZ",
+      "stateCode": "64"
+   }
+]

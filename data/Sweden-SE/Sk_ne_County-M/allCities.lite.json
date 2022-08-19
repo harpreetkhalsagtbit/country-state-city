@@ -1,0 +1,587 @@
+[
+   {
+      "name": "Anderslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Arlöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Asmundtorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bara",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Billeberga",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Billesholm",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bjuv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bjärnum",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bjärred",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Blentarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Broby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bromölla",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bunkeflostrand",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Bårslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Båstad",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Dalby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Degeberga",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ekeby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Eslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Fjälkinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Furulund",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Färlöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Förslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Gantofta",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Genarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Glimåkra",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Glumslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Gärsnäs",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hammar",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hanaskog",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Helsingborg",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hittarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hjärnarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hjärup",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hofterup",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hyllinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Häljarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hässleholm",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hästveda",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Höganäs",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hököpinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Höllviken",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Hörby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Höör",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Jonstorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Klippan",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Klågerup",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Knislinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Kristianstad",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Kvidinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Kävlinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Kågeröd",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Köpingebro",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Landskrona",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ljungbyhed",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ljunghusen",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Lomma",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Lund",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Löberöd",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Löddeköpinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Lönsboda",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Malmö",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Marieholm",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Munka-Ljungby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Mörarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Norra Åsum",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Näsum",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Osby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Oxie",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Perstorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Påarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Rydebäck",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Rydsgård",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Saxtorpsskogen",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Sibbhult",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Simrishamn",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Sjöbo",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Skanör med Falsterbo",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Skegrie",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Skivarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Skurup",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Skåre",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Smygehamn",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Staffanstorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Stehag",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Strövelstorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Stångby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Svalöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Svedala",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Sätofta",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Södra Sandby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Sösdala",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Teckomatorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tollarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tollarp1",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tomelilla",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Torekov",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tormestorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Trelleborg",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tygelsjö",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Tyringe",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Valje",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Veberöd",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Vejbystrand",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Vellinge",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Viken",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Vinslöv",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Vittsjö",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ystad",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ängelholm",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Åhus",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Åkarp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Åstorp",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Ödåkra",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Önnestad",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Örkelljunga",
+      "countryCode": "SE",
+      "stateCode": "M"
+   },
+   {
+      "name": "Östra Ljungby",
+      "countryCode": "SE",
+      "stateCode": "M"
+   }
+]

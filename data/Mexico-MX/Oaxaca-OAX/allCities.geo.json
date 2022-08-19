@@ -1,0 +1,4860 @@
+[
+   {
+      "name": "Acatlán de Pérez Figueroa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.53973000",
+      "longitude": "-96.60568000"
+   },
+   {
+      "name": "Agua del Espino",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.59095000",
+      "longitude": "-96.80204000"
+   },
+   {
+      "name": "Ahuehuetitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67130000",
+      "longitude": "-98.32024000"
+   },
+   {
+      "name": "Albarradas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06752000",
+      "longitude": "-96.20012000"
+   },
+   {
+      "name": "Almolonga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.60848000",
+      "longitude": "-96.66099000"
+   },
+   {
+      "name": "Animas Trujano",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99086000",
+      "longitude": "-96.71319000"
+   },
+   {
+      "name": "Apoala",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.64845000",
+      "longitude": "-97.13608000"
+   },
+   {
+      "name": "Arroyo Chical (Nuevo Arroyo Chicali)",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.21611000",
+      "longitude": "-96.33667000"
+   },
+   {
+      "name": "Arroyo Choápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.97028000",
+      "longitude": "-96.15722000"
+   },
+   {
+      "name": "Arroyo Limón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.90008000",
+      "longitude": "-95.96175000"
+   },
+   {
+      "name": "Arroyo Zapotillo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.07639000",
+      "longitude": "-96.54417000"
+   },
+   {
+      "name": "Arroyo de Banco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80312000",
+      "longitude": "-96.34794000"
+   },
+   {
+      "name": "Arroyo de Enmedio",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.49750000",
+      "longitude": "-96.54722000"
+   },
+   {
+      "name": "Asunción Cacalotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.03470000",
+      "longitude": "-95.93361000"
+   },
+   {
+      "name": "Asunción Ixtaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.50315000",
+      "longitude": "-95.06121000"
+   },
+   {
+      "name": "Asunción Nochixtlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.45916000",
+      "longitude": "-97.22605000"
+   },
+   {
+      "name": "Asunción Ocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.76195000",
+      "longitude": "-96.72137000"
+   },
+   {
+      "name": "Asunción Tlacolulita",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.22612000",
+      "longitude": "-95.76620000"
+   },
+   {
+      "name": "Ayoquezco de Aldama",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.68370000",
+      "longitude": "-96.84287000"
+   },
+   {
+      "name": "Ayotzintepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67261000",
+      "longitude": "-96.12855000"
+   },
+   {
+      "name": "Ayutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02756000",
+      "longitude": "-96.07632000"
+   },
+   {
+      "name": "Bajos de Chila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.92343000",
+      "longitude": "-97.12113000"
+   },
+   {
+      "name": "Barrio San Diego",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.27917000",
+      "longitude": "-97.67417000"
+   },
+   {
+      "name": "Benemérito Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.11944000",
+      "longitude": "-96.00194000"
+   },
+   {
+      "name": "Benito Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.88178000",
+      "longitude": "-96.32405000"
+   },
+   {
+      "name": "Benito Juárez II (San Martín)",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.14056000",
+      "longitude": "-96.46139000"
+   },
+   {
+      "name": "Bethania",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.91939000",
+      "longitude": "-96.00459000"
+   },
+   {
+      "name": "Brisas de Zicatela",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.83694000",
+      "longitude": "-97.04194000"
+   },
+   {
+      "name": "Cajonos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16801000",
+      "longitude": "-96.26174000"
+   },
+   {
+      "name": "Calihualá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.53134000",
+      "longitude": "-98.27792000"
+   },
+   {
+      "name": "Camelia Roja",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.02833000",
+      "longitude": "-96.20806000"
+   },
+   {
+      "name": "Camotinchan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.55873000",
+      "longitude": "-98.12433000"
+   },
+   {
+      "name": "Candelaria Loxicha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.92638000",
+      "longitude": "-96.49268000"
+   },
+   {
+      "name": "Capulálpam de Méndez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.30972000",
+      "longitude": "-96.44656000"
+   },
+   {
+      "name": "Cerro Armadillo Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.86611000",
+      "longitude": "-96.30861000"
+   },
+   {
+      "name": "Cerro Quemado",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.15417000",
+      "longitude": "-96.57500000"
+   },
+   {
+      "name": "Cerro del Aire",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.11012000",
+      "longitude": "-97.20438000"
+   },
+   {
+      "name": "Chahuite",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.30000000",
+      "longitude": "-94.18333000"
+   },
+   {
+      "name": "Chahuites",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.28842000",
+      "longitude": "-94.19478000"
+   },
+   {
+      "name": "Chicahua",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.63667000",
+      "longitude": "-97.19497000"
+   },
+   {
+      "name": "Chicapa de Castro",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.43844000",
+      "longitude": "-94.82206000"
+   },
+   {
+      "name": "Cieneguilla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32353000",
+      "longitude": "-97.31762000"
+   },
+   {
+      "name": "Ciudad de Huajuapan de León",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80787000",
+      "longitude": "-97.77956000"
+   },
+   {
+      "name": "Ciénega de Zimatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.89366000",
+      "longitude": "-96.76801000"
+   },
+   {
+      "name": "Coatecas Altas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.53926000",
+      "longitude": "-96.66878000"
+   },
+   {
+      "name": "Coixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.72021000",
+      "longitude": "-97.31880000"
+   },
+   {
+      "name": "Collantes",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.18810000",
+      "longitude": "-97.97184000"
+   },
+   {
+      "name": "Colonia Jordán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.38893000",
+      "longitude": "-95.20203000"
+   },
+   {
+      "name": "Colonia Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.20967000",
+      "longitude": "-95.02722000"
+   },
+   {
+      "name": "Colonia Progreso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80111000",
+      "longitude": "-95.07972000"
+   },
+   {
+      "name": "Colonia Rincón Viejo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.88678000",
+      "longitude": "-95.04731000"
+   },
+   {
+      "name": "Colonia San Luis",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.38000000",
+      "longitude": "-95.24111000"
+   },
+   {
+      "name": "Colonia la Central",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.08666000",
+      "longitude": "-96.51619000"
+   },
+   {
+      "name": "Concepción Pápalo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.85391000",
+      "longitude": "-96.84472000"
+   },
+   {
+      "name": "Constancia del Rosario",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.03820000",
+      "longitude": "-97.94125000"
+   },
+   {
+      "name": "Constitución Mexicana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34102000",
+      "longitude": "-95.37326000"
+   },
+   {
+      "name": "Corral de Piedra",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.24528000",
+      "longitude": "-96.30556000"
+   },
+   {
+      "name": "Corralero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.23846000",
+      "longitude": "-98.18952000"
+   },
+   {
+      "name": "Cosoltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.14255000",
+      "longitude": "-97.79084000"
+   },
+   {
+      "name": "Crucecita",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.76889000",
+      "longitude": "-96.13500000"
+   },
+   {
+      "name": "Cuapinolito (Azulillo)",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.82194000",
+      "longitude": "-96.31833000"
+   },
+   {
+      "name": "Cuauhtémoc",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.10149000",
+      "longitude": "-94.88532000"
+   },
+   {
+      "name": "Cuicatlan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80272000",
+      "longitude": "-96.95939000"
+   },
+   {
+      "name": "Cuilapan de Guerrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.97756000",
+      "longitude": "-96.78081000"
+   },
+   {
+      "name": "Donaji",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22950000",
+      "longitude": "-95.05295000"
+   },
+   {
+      "name": "Ejutla de Crespo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56623000",
+      "longitude": "-96.73123000"
+   },
+   {
+      "name": "El Arador",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.54111000",
+      "longitude": "-97.18194000"
+   },
+   {
+      "name": "El Bajío",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.88917000",
+      "longitude": "-95.03528000"
+   },
+   {
+      "name": "El Barrio de la Soledad",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80131000",
+      "longitude": "-95.03909000"
+   },
+   {
+      "name": "El Camalote",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.87250000",
+      "longitude": "-96.62361000"
+   },
+   {
+      "name": "El Camarón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.55745000",
+      "longitude": "-96.02868000"
+   },
+   {
+      "name": "El Capulín (La Nueva Pochota)",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.22972000",
+      "longitude": "-96.27806000"
+   },
+   {
+      "name": "El Carrizal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.06438000",
+      "longitude": "-95.39308000"
+   },
+   {
+      "name": "El Carrizo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.25453000",
+      "longitude": "-98.03080000"
+   },
+   {
+      "name": "El Chocolate",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93191000",
+      "longitude": "-95.08946000"
+   },
+   {
+      "name": "El Ciruelo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.31780000",
+      "longitude": "-98.25707000"
+   },
+   {
+      "name": "El Coyul",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.91472000",
+      "longitude": "-95.81028000"
+   },
+   {
+      "name": "El Espinal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.46751000",
+      "longitude": "-95.04198000"
+   },
+   {
+      "name": "El Molino",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.77536000",
+      "longitude": "-97.75227000"
+   },
+   {
+      "name": "El Morro",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.09745000",
+      "longitude": "-95.37906000"
+   },
+   {
+      "name": "El Porvenir",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.47446000",
+      "longitude": "-95.25596000"
+   },
+   {
+      "name": "El Rosario",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04271000",
+      "longitude": "-96.69209000"
+   },
+   {
+      "name": "Eloxochitlán de Flores Magón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.17724000",
+      "longitude": "-96.87538000"
+   },
+   {
+      "name": "Encinal Colorado",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00995000",
+      "longitude": "-95.10732000"
+   },
+   {
+      "name": "Estación Mogoñé",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99472000",
+      "longitude": "-95.03667000"
+   },
+   {
+      "name": "Flor Batavia",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.98475000",
+      "longitude": "-96.51880000"
+   },
+   {
+      "name": "Fraccionamiento Ciudad Yagul",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.97750000",
+      "longitude": "-96.46194000"
+   },
+   {
+      "name": "Fraccionamiento Ex-Hacienda Catano",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22750000",
+      "longitude": "-96.81556000"
+   },
+   {
+      "name": "Fraccionamiento Real del Valle",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93278000",
+      "longitude": "-96.76778000"
+   },
+   {
+      "name": "Fraccionamiento Riberas de San Jerónimo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.11250000",
+      "longitude": "-96.77722000"
+   },
+   {
+      "name": "Fraccionamiento San Miguel",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.21278000",
+      "longitude": "-96.78694000"
+   },
+   {
+      "name": "Francisco Ibarra Ramos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.97781000",
+      "longitude": "-97.91748000"
+   },
+   {
+      "name": "General Pascual Fentes",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.43472000",
+      "longitude": "-94.26270000"
+   },
+   {
+      "name": "Guadalupe Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.17268000",
+      "longitude": "-96.81022000"
+   },
+   {
+      "name": "Guadalupe Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.14950000",
+      "longitude": "-96.81109000"
+   },
+   {
+      "name": "Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.89627000",
+      "longitude": "-95.84981000"
+   },
+   {
+      "name": "Guamúchil",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.36937000",
+      "longitude": "-94.66863000"
+   },
+   {
+      "name": "Guixé",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.46991000",
+      "longitude": "-96.70271000"
+   },
+   {
+      "name": "Hacienda Blanca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.13994000",
+      "longitude": "-96.77590000"
+   },
+   {
+      "name": "Heroica Ciudad de Ejutla de Crespo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.57835000",
+      "longitude": "-96.73079000"
+   },
+   {
+      "name": "Heroica Ciudad de Juchitán de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.44873000",
+      "longitude": "-94.98619000"
+   },
+   {
+      "name": "Heroica Ciudad de Tlaxiaco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.26916000",
+      "longitude": "-97.68053000"
+   },
+   {
+      "name": "Huajintepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.61003000",
+      "longitude": "-98.23028000"
+   },
+   {
+      "name": "Huautepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.10138000",
+      "longitude": "-96.79590000"
+   },
+   {
+      "name": "Huazantlán del Río",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.21932000",
+      "longitude": "-95.12864000"
+   },
+   {
+      "name": "Ignacio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.53556000",
+      "longitude": "-95.89361000"
+   },
+   {
+      "name": "Isla Soyaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.20107000",
+      "longitude": "-96.48325000"
+   },
+   {
+      "name": "Ixpantepec Nieves",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.50690000",
+      "longitude": "-98.04264000"
+   },
+   {
+      "name": "Ixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56052000",
+      "longitude": "-95.10375000"
+   },
+   {
+      "name": "Ixtlán de Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33211000",
+      "longitude": "-96.48812000"
+   },
+   {
+      "name": "Jalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.50000000",
+      "longitude": "-95.46667000"
+   },
+   {
+      "name": "Jaltepec de Candayoc",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35495000",
+      "longitude": "-95.41428000"
+   },
+   {
+      "name": "Jaltepetongo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.68623000",
+      "longitude": "-97.03569000"
+   },
+   {
+      "name": "Jamiltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.28258000",
+      "longitude": "-97.82446000"
+   },
+   {
+      "name": "José María Morelos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.20389000",
+      "longitude": "-97.93000000"
+   },
+   {
+      "name": "Juchitán de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.43603000",
+      "longitude": "-95.01975000"
+   },
+   {
+      "name": "La Barra de Colotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.82546000",
+      "longitude": "-97.02882000"
+   },
+   {
+      "name": "La Blanca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.59482000",
+      "longitude": "-94.69256000"
+   },
+   {
+      "name": "La Candelaria",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.21833000",
+      "longitude": "-95.93306000"
+   },
+   {
+      "name": "La Cañada",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07000000",
+      "longitude": "-96.77806000"
+   },
+   {
+      "name": "La Erradura",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.83402000",
+      "longitude": "-96.33478000"
+   },
+   {
+      "name": "La Humedad",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.58222000",
+      "longitude": "-97.66724000"
+   },
+   {
+      "name": "La Junta",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.82778000",
+      "longitude": "-97.74556000"
+   },
+   {
+      "name": "La Luz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.11477000",
+      "longitude": "-97.59570000"
+   },
+   {
+      "name": "La Mina",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.98689000",
+      "longitude": "-96.09978000"
+   },
+   {
+      "name": "La Noria",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.25444000",
+      "longitude": "-95.22056000"
+   },
+   {
+      "name": "La Pe",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.63027000",
+      "longitude": "-96.79766000"
+   },
+   {
+      "name": "La Reforma",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.62414000",
+      "longitude": "-97.84544000"
+   },
+   {
+      "name": "La Tabaquera",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.33582000",
+      "longitude": "-96.45129000"
+   },
+   {
+      "name": "La Venta",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.57109000",
+      "longitude": "-94.81773000"
+   },
+   {
+      "name": "La Ventosa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.55188000",
+      "longitude": "-94.94762000"
+   },
+   {
+      "name": "Las Amilpas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.36667000",
+      "longitude": "-94.61667000"
+   },
+   {
+      "name": "Las Margaritas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.25501000",
+      "longitude": "-96.28421000"
+   },
+   {
+      "name": "Llano Suchiapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86611000",
+      "longitude": "-95.05389000"
+   },
+   {
+      "name": "Llano de Agua",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.10611000",
+      "longitude": "-96.81083000"
+   },
+   {
+      "name": "Loma Bonita",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.10721000",
+      "longitude": "-95.87904000"
+   },
+   {
+      "name": "Loma Chapultepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.11972000",
+      "longitude": "-96.83917000"
+   },
+   {
+      "name": "Los Naranjos Esquipulas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.98167000",
+      "longitude": "-96.45889000"
+   },
+   {
+      "name": "Los Ángeles",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.39485000",
+      "longitude": "-95.16540000"
+   },
+   {
+      "name": "Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.72818000",
+      "longitude": "-94.85981000"
+   },
+   {
+      "name": "Macuilxóchitl de Artigas Carranza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.01583000",
+      "longitude": "-96.54000000"
+   },
+   {
+      "name": "Macín Chico",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.06820000",
+      "longitude": "-96.27184000"
+   },
+   {
+      "name": "Magdalena Apasco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.24083000",
+      "longitude": "-96.82083000"
+   },
+   {
+      "name": "Magdalena Jaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.32318000",
+      "longitude": "-97.22122000"
+   },
+   {
+      "name": "Magdalena Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.89659000",
+      "longitude": "-96.90618000"
+   },
+   {
+      "name": "Magdalena Ocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.70865000",
+      "longitude": "-96.71010000"
+   },
+   {
+      "name": "Magdalena Teitipac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.90393000",
+      "longitude": "-96.55840000"
+   },
+   {
+      "name": "Magdalena Tequisistlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.39929000",
+      "longitude": "-95.60204000"
+   },
+   {
+      "name": "Magdalena Tlacotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.50416000",
+      "longitude": "-95.20248000"
+   },
+   {
+      "name": "Magdalena Yodocono de Porfirio Díaz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.38470000",
+      "longitude": "-97.35530000"
+   },
+   {
+      "name": "Magdalena Zahuatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.38978000",
+      "longitude": "-97.22747000"
+   },
+   {
+      "name": "Mancuernas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.38940000",
+      "longitude": "-98.11018000"
+   },
+   {
+      "name": "Mariscala de Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.85972000",
+      "longitude": "-98.14083000"
+   },
+   {
+      "name": "María Lombardo de Caso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.44931000",
+      "longitude": "-95.42821000"
+   },
+   {
+      "name": "Matías Romero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.87902000",
+      "longitude": "-95.03939000"
+   },
+   {
+      "name": "Mazatlán Villa de Flores",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.03264000",
+      "longitude": "-96.91404000"
+   },
+   {
+      "name": "Mazín Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.11630000",
+      "longitude": "-96.30956000"
+   },
+   {
+      "name": "Merced del Potrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.04679000",
+      "longitude": "-96.07048000"
+   },
+   {
+      "name": "Mesones Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92208000",
+      "longitude": "-97.99765000"
+   },
+   {
+      "name": "Miahuatlán de Porfirio Díaz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33276000",
+      "longitude": "-96.59562000"
+   },
+   {
+      "name": "Mixistlán de la Reforma",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.14669000",
+      "longitude": "-96.10669000"
+   },
+   {
+      "name": "Montenegro la Lana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.59296000",
+      "longitude": "-95.86510000"
+   },
+   {
+      "name": "Nanahuatípam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.13414000",
+      "longitude": "-97.12501000"
+   },
+   {
+      "name": "Nativitas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.66160000",
+      "longitude": "-97.33566000"
+   },
+   {
+      "name": "Nazareno Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.17667000",
+      "longitude": "-96.83264000"
+   },
+   {
+      "name": "Nejapa de Madero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.60571000",
+      "longitude": "-95.97855000"
+   },
+   {
+      "name": "Niltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56401000",
+      "longitude": "-94.61373000"
+   },
+   {
+      "name": "Nuevo Ixcatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.64145000",
+      "longitude": "-95.43807000"
+   },
+   {
+      "name": "Nuevo Paso Nazareno (Chichicazapa)",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.29667000",
+      "longitude": "-96.34722000"
+   },
+   {
+      "name": "Nuevo San Martín",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.57987000",
+      "longitude": "-95.52346000"
+   },
+   {
+      "name": "Oaxaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06542000",
+      "longitude": "-96.72365000"
+   },
+   {
+      "name": "Oaxaca de Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.11345000",
+      "longitude": "-96.73556000"
+   },
+   {
+      "name": "Ocotlán de Morelos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.79151000",
+      "longitude": "-96.67455000"
+   },
+   {
+      "name": "Palomares",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.13830000",
+      "longitude": "-95.06266000"
+   },
+   {
+      "name": "Papaloapan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.16087000",
+      "longitude": "-96.09383000"
+   },
+   {
+      "name": "Paso Canoa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.01274000",
+      "longitude": "-96.23786000"
+   },
+   {
+      "name": "Paso Real de Sarabia",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07389000",
+      "longitude": "-95.04667000"
+   },
+   {
+      "name": "Peña Colorada",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.47778000",
+      "longitude": "-97.79417000"
+   },
+   {
+      "name": "Piedra Blanca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.98861000",
+      "longitude": "-95.01278000"
+   },
+   {
+      "name": "Piedra de Amolar",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.12000000",
+      "longitude": "-96.45122000"
+   },
+   {
+      "name": "Pinotepa Nacional",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.34014000",
+      "longitude": "-98.05297000"
+   },
+   {
+      "name": "Pinotepa de Don Luis",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.42716000",
+      "longitude": "-97.97678000"
+   },
+   {
+      "name": "Playa Chica",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.06139000",
+      "longitude": "-96.51833000"
+   },
+   {
+      "name": "Pluma Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.92127000",
+      "longitude": "-96.42977000"
+   },
+   {
+      "name": "Praxedis de Guerrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.72000000",
+      "longitude": "-96.64000000"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04528000",
+      "longitude": "-97.57028000"
+   },
+   {
+      "name": "Pueblo Viejo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.90750000",
+      "longitude": "-96.05778000"
+   },
+   {
+      "name": "Puerto Escondido",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.87037000",
+      "longitude": "-97.07726000"
+   },
+   {
+      "name": "Puerto Ángel",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.66898000",
+      "longitude": "-96.49095000"
+   },
+   {
+      "name": "Putla Villa de Guerrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02630000",
+      "longitude": "-97.92854000"
+   },
+   {
+      "name": "Quelové",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.98273000",
+      "longitude": "-96.67890000"
+   },
+   {
+      "name": "Quinicuena",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.53101000",
+      "longitude": "-97.52385000"
+   },
+   {
+      "name": "Rancho Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.35389000",
+      "longitude": "-96.34944000"
+   },
+   {
+      "name": "Rancho Viejo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33966000",
+      "longitude": "-97.96399000"
+   },
+   {
+      "name": "Reforma de Pineda",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.40103000",
+      "longitude": "-94.45786000"
+   },
+   {
+      "name": "Reyes Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.20220000",
+      "longitude": "-96.81802000"
+   },
+   {
+      "name": "Reyes Mantecón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.90717000",
+      "longitude": "-96.72702000"
+   },
+   {
+      "name": "Rincón Moreno",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.23007000",
+      "longitude": "-95.31327000"
+   },
+   {
+      "name": "Rojas de Cuauhtémoc",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00861000",
+      "longitude": "-96.61944000"
+   },
+   {
+      "name": "Río Chiquito",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.61989000",
+      "longitude": "-95.93688000"
+   },
+   {
+      "name": "Río Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.01079000",
+      "longitude": "-97.43574000"
+   },
+   {
+      "name": "Río Pachiñe",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.96870000",
+      "longitude": "-95.06533000"
+   },
+   {
+      "name": "Salina Cruz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.17535000",
+      "longitude": "-95.19424000"
+   },
+   {
+      "name": "San Agustin de las Juntas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00389000",
+      "longitude": "-96.70806000"
+   },
+   {
+      "name": "San Agustín Amatengo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.51086000",
+      "longitude": "-96.78919000"
+   },
+   {
+      "name": "San Agustín Atenango",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.61150000",
+      "longitude": "-98.01095000"
+   },
+   {
+      "name": "San Agustín Chayuco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.40234000",
+      "longitude": "-97.80823000"
+   },
+   {
+      "name": "San Agustín Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.18654000",
+      "longitude": "-96.76661000"
+   },
+   {
+      "name": "San Agustín Loxicha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.01687000",
+      "longitude": "-96.61615000"
+   },
+   {
+      "name": "San Agustín Yatareni",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.08635000",
+      "longitude": "-96.67845000"
+   },
+   {
+      "name": "San Andrés Chicahuaxtla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.15698000",
+      "longitude": "-97.83703000"
+   },
+   {
+      "name": "San Andrés Dinicuiti",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.68812000",
+      "longitude": "-97.72669000"
+   },
+   {
+      "name": "San Andrés Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.13734000",
+      "longitude": "-96.80604000"
+   },
+   {
+      "name": "San Andrés Huaxpaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32952000",
+      "longitude": "-97.91647000"
+   },
+   {
+      "name": "San Andrés Huayápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.10264000",
+      "longitude": "-96.66556000"
+   },
+   {
+      "name": "San Andrés Ixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07112000",
+      "longitude": "-96.82635000"
+   },
+   {
+      "name": "San Andrés Paxtlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.21621000",
+      "longitude": "-96.50783000"
+   },
+   {
+      "name": "San Andrés Sinaxtla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.46928000",
+      "longitude": "-97.28298000"
+   },
+   {
+      "name": "San Andrés Solaga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.27254000",
+      "longitude": "-96.23610000"
+   },
+   {
+      "name": "San Andrés Teotilalpam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.95414000",
+      "longitude": "-96.65607000"
+   },
+   {
+      "name": "San Andrés Yaá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.29290000",
+      "longitude": "-96.15384000"
+   },
+   {
+      "name": "San Andrés Zabache",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.59917000",
+      "longitude": "-96.85889000"
+   },
+   {
+      "name": "San Andrés Zautla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.18697000",
+      "longitude": "-96.86419000"
+   },
+   {
+      "name": "San Antonino Castillo Velasco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80900000",
+      "longitude": "-96.69267000"
+   },
+   {
+      "name": "San Antonino Monte Verde",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.51869000",
+      "longitude": "-97.72654000"
+   },
+   {
+      "name": "San Antonino el Alto",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.81984000",
+      "longitude": "-97.02719000"
+   },
+   {
+      "name": "San Antonio Arrazola",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.03972000",
+      "longitude": "-96.79034000"
+   },
+   {
+      "name": "San Antonio Huitepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92888000",
+      "longitude": "-97.14670000"
+   },
+   {
+      "name": "San Antonio Ocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.64929000",
+      "longitude": "-98.16585000"
+   },
+   {
+      "name": "San Antonio Tepetlapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.54391000",
+      "longitude": "-98.06551000"
+   },
+   {
+      "name": "San Antonio de la Cal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02921000",
+      "longitude": "-96.70094000"
+   },
+   {
+      "name": "San Antonio las Palmas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67167000",
+      "longitude": "-96.09083000"
+   },
+   {
+      "name": "San Baltazar Chichicapam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.76151000",
+      "longitude": "-96.48970000"
+   },
+   {
+      "name": "San Baltazar Guelavila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.79638000",
+      "longitude": "-96.30542000"
+   },
+   {
+      "name": "San Baltazar Loxicha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.07670000",
+      "longitude": "-96.78740000"
+   },
+   {
+      "name": "San Baltazar Yatzachi el Bajo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22958000",
+      "longitude": "-96.22046000"
+   },
+   {
+      "name": "San Bartolo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.09222000",
+      "longitude": "-96.10750000"
+   },
+   {
+      "name": "San Bartolo Coyotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.94877000",
+      "longitude": "-96.70977000"
+   },
+   {
+      "name": "San Bartolo Coyotespec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95837000",
+      "longitude": "-96.70930000"
+   },
+   {
+      "name": "San Bartolo Yautepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.42935000",
+      "longitude": "-95.97438000"
+   },
+   {
+      "name": "San Bartolomé Ayautla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.03239000",
+      "longitude": "-96.67078000"
+   },
+   {
+      "name": "San Bartolomé Loxícha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.96981000",
+      "longitude": "-96.70957000"
+   },
+   {
+      "name": "San Bartolomé Quialana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.90302000",
+      "longitude": "-96.50169000"
+   },
+   {
+      "name": "San Benito Encinal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.98722000",
+      "longitude": "-95.91056000"
+   },
+   {
+      "name": "San Bernardo Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.82579000",
+      "longitude": "-96.89911000"
+   },
+   {
+      "name": "San Blas Atempa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33103000",
+      "longitude": "-95.22559000"
+   },
+   {
+      "name": "San Carlos Yautepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.49699000",
+      "longitude": "-96.10648000"
+   },
+   {
+      "name": "San Cristóbal Amatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.31713000",
+      "longitude": "-96.40785000"
+   },
+   {
+      "name": "San Cristóbal Amoltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.28428000",
+      "longitude": "-97.57216000"
+   },
+   {
+      "name": "San Cristóbal Honduras",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32528000",
+      "longitude": "-97.04111000"
+   },
+   {
+      "name": "San Cristóbal Lachirioag",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33582000",
+      "longitude": "-96.16503000"
+   },
+   {
+      "name": "San Dionisio Ocotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80457000",
+      "longitude": "-96.39334000"
+   },
+   {
+      "name": "San Dionisio Ocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.74704000",
+      "longitude": "-96.68002000"
+   },
+   {
+      "name": "San Dionisio del Mar",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32371000",
+      "longitude": "-94.75830000"
+   },
+   {
+      "name": "San Esteban Atatlahuca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06716000",
+      "longitude": "-97.67836000"
+   },
+   {
+      "name": "San Felipe Cihualtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.47763000",
+      "longitude": "-95.36767000"
+   },
+   {
+      "name": "San Felipe Jalapa de Díaz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.07120000",
+      "longitude": "-96.53562000"
+   },
+   {
+      "name": "San Felipe Tejalápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.11134000",
+      "longitude": "-96.85420000"
+   },
+   {
+      "name": "San Felipe Tílpam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.18889000",
+      "longitude": "-96.58639000"
+   },
+   {
+      "name": "San Felipe Usila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.88790000",
+      "longitude": "-96.52474000"
+   },
+   {
+      "name": "San Francisco Cajonos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.18086000",
+      "longitude": "-96.26465000"
+   },
+   {
+      "name": "San Francisco Chindúa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.42809000",
+      "longitude": "-97.31266000"
+   },
+   {
+      "name": "San Francisco Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.18175000",
+      "longitude": "-96.76099000"
+   },
+   {
+      "name": "San Francisco Cozoaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.81476000",
+      "longitude": "-96.72396000"
+   },
+   {
+      "name": "San Francisco Huehuetlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.19725000",
+      "longitude": "-96.94805000"
+   },
+   {
+      "name": "San Francisco Ixhuatan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.35109000",
+      "longitude": "-94.48402000"
+   },
+   {
+      "name": "San Francisco Jaltepetongo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.38579000",
+      "longitude": "-97.26481000"
+   },
+   {
+      "name": "San Francisco Javier",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02861000",
+      "longitude": "-96.77750000"
+   },
+   {
+      "name": "San Francisco Lachigoló",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.01624000",
+      "longitude": "-96.59947000"
+   },
+   {
+      "name": "San Francisco Logueche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.37576000",
+      "longitude": "-96.37907000"
+   },
+   {
+      "name": "San Francisco Loxicha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.90658000",
+      "longitude": "-96.61295000"
+   },
+   {
+      "name": "San Francisco Nuxaño",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.38173000",
+      "longitude": "-97.34262000"
+   },
+   {
+      "name": "San Francisco Ozolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.10079000",
+      "longitude": "-96.22181000"
+   },
+   {
+      "name": "San Francisco Sola",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.51584000",
+      "longitude": "-96.97488000"
+   },
+   {
+      "name": "San Francisco Telixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.29684000",
+      "longitude": "-96.90529000"
+   },
+   {
+      "name": "San Francisco Tutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07092000",
+      "longitude": "-96.66810000"
+   },
+   {
+      "name": "San Francisco del Mar",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33987000",
+      "longitude": "-94.51529000"
+   },
+   {
+      "name": "San Francisco del Mar Viejo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.23185000",
+      "longitude": "-94.63297000"
+   },
+   {
+      "name": "San Gabriel Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.09593000",
+      "longitude": "-97.08237000"
+   },
+   {
+      "name": "San Ildefonso Amatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33390000",
+      "longitude": "-96.49122000"
+   },
+   {
+      "name": "San Ildefonso Villa Alta",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33827000",
+      "longitude": "-96.15232000"
+   },
+   {
+      "name": "San Isidro Apango",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.80952000",
+      "longitude": "-96.35856000"
+   },
+   {
+      "name": "San Isidro Monjas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00167000",
+      "longitude": "-96.74861000"
+   },
+   {
+      "name": "San Jacinto Amilpas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.10188000",
+      "longitude": "-96.76228000"
+   },
+   {
+      "name": "San Jerónimo Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.23211000",
+      "longitude": "-96.87047000"
+   },
+   {
+      "name": "San Jerónimo Silacayoapilla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.81021000",
+      "longitude": "-97.84488000"
+   },
+   {
+      "name": "San Jerónimo Sosola",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.36685000",
+      "longitude": "-97.03291000"
+   },
+   {
+      "name": "San Jerónimo Taviche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.71468000",
+      "longitude": "-96.59360000"
+   },
+   {
+      "name": "San Jerónimo Tecóatl",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.16633000",
+      "longitude": "-96.91256000"
+   },
+   {
+      "name": "San Jerónimo Tlacochahuaya",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00843000",
+      "longitude": "-96.55522000"
+   },
+   {
+      "name": "San Jerónimo Yahuiche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.10861000",
+      "longitude": "-96.76972000"
+   },
+   {
+      "name": "San Jorge Nuchita",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.65921000",
+      "longitude": "-98.10153000"
+   },
+   {
+      "name": "San José Ayuquila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.94221000",
+      "longitude": "-97.96861000"
+   },
+   {
+      "name": "San José Chacalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.82957000",
+      "longitude": "-96.46390000"
+   },
+   {
+      "name": "San José Chiltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.94734000",
+      "longitude": "-96.16957000"
+   },
+   {
+      "name": "San José Estancia Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.36545000",
+      "longitude": "-98.25092000"
+   },
+   {
+      "name": "San José Lachiguirí",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.37784000",
+      "longitude": "-96.33589000"
+   },
+   {
+      "name": "San José Piedras Negras",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.83658000",
+      "longitude": "-96.59151000"
+   },
+   {
+      "name": "San José Río Manzo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67003000",
+      "longitude": "-95.88012000"
+   },
+   {
+      "name": "San José Tenango",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.15084000",
+      "longitude": "-96.71744000"
+   },
+   {
+      "name": "San José de las Flores",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35076000",
+      "longitude": "-95.39837000"
+   },
+   {
+      "name": "San José del Progreso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.69909000",
+      "longitude": "-96.68148000"
+   },
+   {
+      "name": "San José la Garzona",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.68029000",
+      "longitude": "-96.63853000"
+   },
+   {
+      "name": "San Juan Achiutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35019000",
+      "longitude": "-97.50804000"
+   },
+   {
+      "name": "San Juan Atepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.42819000",
+      "longitude": "-96.53968000"
+   },
+   {
+      "name": "San Juan Bautista Jayacatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.42458000",
+      "longitude": "-96.82639000"
+   },
+   {
+      "name": "San Juan Bautista Lo de Soto",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.51197000",
+      "longitude": "-98.34772000"
+   },
+   {
+      "name": "San Juan Bautista la Raya",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.98617000",
+      "longitude": "-96.72472000"
+   },
+   {
+      "name": "San Juan Cabeza del Río",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.75285000",
+      "longitude": "-97.88240000"
+   },
+   {
+      "name": "San Juan Cacahuatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.61532000",
+      "longitude": "-98.15501000"
+   },
+   {
+      "name": "San Juan Chilateca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.83042000",
+      "longitude": "-96.66915000"
+   },
+   {
+      "name": "San Juan Coatzospam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.04998000",
+      "longitude": "-96.76304000"
+   },
+   {
+      "name": "San Juan Colorado",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.46066000",
+      "longitude": "-97.95431000"
+   },
+   {
+      "name": "San Juan Cotzocón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16373000",
+      "longitude": "-95.78259000"
+   },
+   {
+      "name": "San Juan Diuxi",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.28597000",
+      "longitude": "-97.37005000"
+   },
+   {
+      "name": "San Juan Guelavía",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95507000",
+      "longitude": "-96.54359000"
+   },
+   {
+      "name": "San Juan Guichicovi",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.96231000",
+      "longitude": "-95.09418000"
+   },
+   {
+      "name": "San Juan Ihualtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.75656000",
+      "longitude": "-98.28518000"
+   },
+   {
+      "name": "San Juan Jaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35264000",
+      "longitude": "-95.66263000"
+   },
+   {
+      "name": "San Juan Jicayán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.47583000",
+      "longitude": "-98.01250000"
+   },
+   {
+      "name": "San Juan Juquila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93585000",
+      "longitude": "-95.91889000"
+   },
+   {
+      "name": "San Juan Juquila Vijanos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33734000",
+      "longitude": "-96.27421000"
+   },
+   {
+      "name": "San Juan Lachao",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.15891000",
+      "longitude": "-97.12449000"
+   },
+   {
+      "name": "San Juan Lagunas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99748000",
+      "longitude": "-97.93066000"
+   },
+   {
+      "name": "San Juan Mazatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02988000",
+      "longitude": "-95.44606000"
+   },
+   {
+      "name": "San Juan Metaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.17563000",
+      "longitude": "-95.91174000"
+   },
+   {
+      "name": "San Juan Mixtepec -Dto. 08 -",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.31676000",
+      "longitude": "-97.86147000"
+   },
+   {
+      "name": "San Juan Mixtepec -Dto. 26 -",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.27667000",
+      "longitude": "-96.29917000"
+   },
+   {
+      "name": "San Juan Ozolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.13320000",
+      "longitude": "-96.25925000"
+   },
+   {
+      "name": "San Juan Petlapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.46916000",
+      "longitude": "-96.03610000"
+   },
+   {
+      "name": "San Juan Quiahue",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.30220000",
+      "longitude": "-97.31729000"
+   },
+   {
+      "name": "San Juan Quiotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.60156000",
+      "longitude": "-96.58731000"
+   },
+   {
+      "name": "San Juan Sautla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.85800000",
+      "longitude": "-96.67445000"
+   },
+   {
+      "name": "San Juan Sayultepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.44736000",
+      "longitude": "-97.29375000"
+   },
+   {
+      "name": "San Juan Tabaá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.30495000",
+      "longitude": "-96.20718000"
+   },
+   {
+      "name": "San Juan Teitipac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92630000",
+      "longitude": "-96.60954000"
+   },
+   {
+      "name": "San Juan Teposcolula",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.58142000",
+      "longitude": "-97.41686000"
+   },
+   {
+      "name": "San Juan Yaee",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.43000000",
+      "longitude": "-96.28355000"
+   },
+   {
+      "name": "San Juan Yatzona",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.40184000",
+      "longitude": "-96.16878000"
+   },
+   {
+      "name": "San Juan Zapotitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80528000",
+      "longitude": "-96.60639000"
+   },
+   {
+      "name": "San Juan de los Cues",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.04654000",
+      "longitude": "-97.06020000"
+   },
+   {
+      "name": "San Juan del Estado",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.27430000",
+      "longitude": "-96.79912000"
+   },
+   {
+      "name": "San Juan del Río",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.49278000",
+      "longitude": "-95.76028000"
+   },
+   {
+      "name": "San Juan Ñumí",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.39734000",
+      "longitude": "-97.70624000"
+   },
+   {
+      "name": "San Juán Lachigalla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.58947000",
+      "longitude": "-96.55052000"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.39483000",
+      "longitude": "-97.87403000"
+   },
+   {
+      "name": "San Lorenzo Albarradas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.91129000",
+      "longitude": "-96.25826000"
+   },
+   {
+      "name": "San Lorenzo Cacaotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.12774000",
+      "longitude": "-96.80244000"
+   },
+   {
+      "name": "San Lorenzo Cuaunecuiltitla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.20694000",
+      "longitude": "-96.91139000"
+   },
+   {
+      "name": "San Lorenzo Victoria",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.63190000",
+      "longitude": "-98.12383000"
+   },
+   {
+      "name": "San Lorenzo Vista Hermosa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.95888000",
+      "longitude": "-98.06852000"
+   },
+   {
+      "name": "San Lucas Camotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.94473000",
+      "longitude": "-95.71382000"
+   },
+   {
+      "name": "San Lucas Ojitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.05767000",
+      "longitude": "-96.39825000"
+   },
+   {
+      "name": "San Lucas Quiavini",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.89555000",
+      "longitude": "-96.46813000"
+   },
+   {
+      "name": "San Lucas Zoquiápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.13669000",
+      "longitude": "-96.90545000"
+   },
+   {
+      "name": "San Luis Amatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.38652000",
+      "longitude": "-96.49824000"
+   },
+   {
+      "name": "San Marcial Ozolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.08903000",
+      "longitude": "-96.40561000"
+   },
+   {
+      "name": "San Marcos Arteaga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.72238000",
+      "longitude": "-97.86034000"
+   },
+   {
+      "name": "San Marcos Zacatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.14344000",
+      "longitude": "-97.35725000"
+   },
+   {
+      "name": "San Martín Itunyoso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22806000",
+      "longitude": "-97.88083000"
+   },
+   {
+      "name": "San Martín Lachila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.61186000",
+      "longitude": "-96.84882000"
+   },
+   {
+      "name": "San Martín Tilcajete",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86008000",
+      "longitude": "-96.69490000"
+   },
+   {
+      "name": "San Martín de los Canseco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.65655000",
+      "longitude": "-96.72777000"
+   },
+   {
+      "name": "San Mateo Cajonos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16147000",
+      "longitude": "-96.20777000"
+   },
+   {
+      "name": "San Mateo Etlatongo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.41609000",
+      "longitude": "-97.27389000"
+   },
+   {
+      "name": "San Mateo Nejápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.65604000",
+      "longitude": "-98.41662000"
+   },
+   {
+      "name": "San Mateo Piñas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.00049000",
+      "longitude": "-96.33449000"
+   },
+   {
+      "name": "San Mateo Sindihui",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00456000",
+      "longitude": "-97.35066000"
+   },
+   {
+      "name": "San Mateo Yoloxochitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.14157000",
+      "longitude": "-96.86417000"
+   },
+   {
+      "name": "San Mateo del Mar",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.21054000",
+      "longitude": "-94.98218000"
+   },
+   {
+      "name": "San Melchor Betaza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.25267000",
+      "longitude": "-96.15284000"
+   },
+   {
+      "name": "San Miguel Abejones",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.43684000",
+      "longitude": "-96.60866000"
+   },
+   {
+      "name": "San Miguel Achiutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.30900000",
+      "longitude": "-97.48392000"
+   },
+   {
+      "name": "San Miguel Aloápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.41136000",
+      "longitude": "-96.69154000"
+   },
+   {
+      "name": "San Miguel Chimalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.71424000",
+      "longitude": "-94.74811000"
+   },
+   {
+      "name": "San Miguel Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.19701000",
+      "longitude": "-96.69458000"
+   },
+   {
+      "name": "San Miguel Ejutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.58053000",
+      "longitude": "-96.73897000"
+   },
+   {
+      "name": "San Miguel Figueroa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.78639000",
+      "longitude": "-96.40417000"
+   },
+   {
+      "name": "San Miguel Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.77719000",
+      "longitude": "-96.95726000"
+   },
+   {
+      "name": "San Miguel Monteverde",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.53111000",
+      "longitude": "-97.79250000"
+   },
+   {
+      "name": "San Miguel Panixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.26012000",
+      "longitude": "-97.37710000"
+   },
+   {
+      "name": "San Miguel Peras",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93903000",
+      "longitude": "-97.01119000"
+   },
+   {
+      "name": "San Miguel Quetzaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.97380000",
+      "longitude": "-95.76045000"
+   },
+   {
+      "name": "San Miguel Suchixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.07765000",
+      "longitude": "-96.46299000"
+   },
+   {
+      "name": "San Miguel Tecomatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.39454000",
+      "longitude": "-97.26845000"
+   },
+   {
+      "name": "San Miguel Tenango",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.26659000",
+      "longitude": "-95.59532000"
+   },
+   {
+      "name": "San Miguel Tetepelcingo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.39789000",
+      "longitude": "-97.90127000"
+   },
+   {
+      "name": "San Miguel Tilquiapam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.78218000",
+      "longitude": "-96.58165000"
+   },
+   {
+      "name": "San Miguel Tlacamama",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.41547000",
+      "longitude": "-98.06301000"
+   },
+   {
+      "name": "San Miguel Tlacotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.45621000",
+      "longitude": "-98.00547000"
+   },
+   {
+      "name": "San Miguel del Puerto",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.92169000",
+      "longitude": "-96.17499000"
+   },
+   {
+      "name": "San Miguel del Valle",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02083000",
+      "longitude": "-96.41727000"
+   },
+   {
+      "name": "San Miguel el Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06466000",
+      "longitude": "-97.61547000"
+   },
+   {
+      "name": "San Miguel el Grande Villa Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04669000",
+      "longitude": "-97.62160000"
+   },
+   {
+      "name": "San Nicolás",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.42010000",
+      "longitude": "-96.74133000"
+   },
+   {
+      "name": "San Nicolás Quialana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.84335000",
+      "longitude": "-96.77892000"
+   },
+   {
+      "name": "San Pablo Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.22429000",
+      "longitude": "-96.78379000"
+   },
+   {
+      "name": "San Pablo Cuatro Venados",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.98120000",
+      "longitude": "-96.89103000"
+   },
+   {
+      "name": "San Pablo Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.14397000",
+      "longitude": "-96.74812000"
+   },
+   {
+      "name": "San Pablo Güilá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80324000",
+      "longitude": "-96.44025000"
+   },
+   {
+      "name": "San Pablo Huitzo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.27708000",
+      "longitude": "-96.88661000"
+   },
+   {
+      "name": "San Pablo Huixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.81948000",
+      "longitude": "-96.78128000"
+   },
+   {
+      "name": "San Pablo Macuiltianguis",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.53348000",
+      "longitude": "-96.55212000"
+   },
+   {
+      "name": "San Pablo Villa de Mitla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92283000",
+      "longitude": "-96.35990000"
+   },
+   {
+      "name": "San Pedro Amuzgos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.65388000",
+      "longitude": "-98.09175000"
+   },
+   {
+      "name": "San Pedro Apóstol",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.73657000",
+      "longitude": "-96.72509000"
+   },
+   {
+      "name": "San Pedro Atoyac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.49005000",
+      "longitude": "-97.98585000"
+   },
+   {
+      "name": "San Pedro Comitancillo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.49134000",
+      "longitude": "-95.15649000"
+   },
+   {
+      "name": "San Pedro Coxcaltepec Cántaros",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.49933000",
+      "longitude": "-97.13802000"
+   },
+   {
+      "name": "San Pedro Huamelula",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.02697000",
+      "longitude": "-95.66735000"
+   },
+   {
+      "name": "San Pedro Huilotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.24607000",
+      "longitude": "-95.15094000"
+   },
+   {
+      "name": "San Pedro Ixcatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.14575000",
+      "longitude": "-96.50953000"
+   },
+   {
+      "name": "San Pedro Ixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06360000",
+      "longitude": "-96.81841000"
+   },
+   {
+      "name": "San Pedro Jicayán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.45179000",
+      "longitude": "-98.01425000"
+   },
+   {
+      "name": "San Pedro Juchaltengo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.34530000",
+      "longitude": "-97.08954000"
+   },
+   {
+      "name": "San Pedro Martir",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.74317000",
+      "longitude": "-96.71118000"
+   },
+   {
+      "name": "San Pedro Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.27060000",
+      "longitude": "-96.28406000"
+   },
+   {
+      "name": "San Pedro Mártir Quiechapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.41516000",
+      "longitude": "-96.24451000"
+   },
+   {
+      "name": "San Pedro Mártir Yucuxaco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.43245000",
+      "longitude": "-97.61100000"
+   },
+   {
+      "name": "San Pedro Ocopetatillo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.18638000",
+      "longitude": "-96.91166000"
+   },
+   {
+      "name": "San Pedro Ocotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95501000",
+      "longitude": "-95.84563000"
+   },
+   {
+      "name": "San Pedro Ozumacín",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67861000",
+      "longitude": "-96.22556000"
+   },
+   {
+      "name": "San Pedro Pochutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.74587000",
+      "longitude": "-96.46601000"
+   },
+   {
+      "name": "San Pedro Quiatoni",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.78295000",
+      "longitude": "-96.03085000"
+   },
+   {
+      "name": "San Pedro Sochiápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.82803000",
+      "longitude": "-96.66274000"
+   },
+   {
+      "name": "San Pedro Tapanatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.37107000",
+      "longitude": "-94.19313000"
+   },
+   {
+      "name": "San Pedro Taviche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.63858000",
+      "longitude": "-96.53687000"
+   },
+   {
+      "name": "San Pedro Teutila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.97773000",
+      "longitude": "-96.70599000"
+   },
+   {
+      "name": "San Pedro Tidaá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34122000",
+      "longitude": "-97.37239000"
+   },
+   {
+      "name": "San Pedro Topiltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.43633000",
+      "longitude": "-97.34403000"
+   },
+   {
+      "name": "San Pedro Totolápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.66915000",
+      "longitude": "-96.30755000"
+   },
+   {
+      "name": "San Pedro Tulixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.53972000",
+      "longitude": "-98.03472000"
+   },
+   {
+      "name": "San Pedro Yólox",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.58907000",
+      "longitude": "-96.55235000"
+   },
+   {
+      "name": "San Pedro el Alto",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.01077000",
+      "longitude": "-96.47591000"
+   },
+   {
+      "name": "San Pedro y San Pablo Teposcolula",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.50179000",
+      "longitude": "-97.48836000"
+   },
+   {
+      "name": "San Pedro y San Pablo Tequistepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.06106000",
+      "longitude": "-97.71816000"
+   },
+   {
+      "name": "San Raymundo Jalpam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.97164000",
+      "longitude": "-96.75699000"
+   },
+   {
+      "name": "San Roque",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.78682000",
+      "longitude": "-96.46342000"
+   },
+   {
+      "name": "San Sebastian Teitipac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95192000",
+      "longitude": "-96.61427000"
+   },
+   {
+      "name": "San Sebastián Abasolo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99432000",
+      "longitude": "-96.58701000"
+   },
+   {
+      "name": "San Sebastián Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.20212000",
+      "longitude": "-96.82645000"
+   },
+   {
+      "name": "San Sebastián Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16437000",
+      "longitude": "-96.78343000"
+   },
+   {
+      "name": "San Sebastián Ixcapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.54548000",
+      "longitude": "-98.14478000"
+   },
+   {
+      "name": "San Sebastián Nicananduta",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.51657000",
+      "longitude": "-97.68370000"
+   },
+   {
+      "name": "San Sebastián Nopalera",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.94310000",
+      "longitude": "-97.77793000"
+   },
+   {
+      "name": "San Sebastián Río Hondo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.18380000",
+      "longitude": "-96.46535000"
+   },
+   {
+      "name": "San Sebastián Tecomaxtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34721000",
+      "longitude": "-98.03167000"
+   },
+   {
+      "name": "San Sebastián Tutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04755000",
+      "longitude": "-96.68158000"
+   },
+   {
+      "name": "San Sebastián del Monte",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67778000",
+      "longitude": "-98.02194000"
+   },
+   {
+      "name": "San Simón Almolongas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.40659000",
+      "longitude": "-96.71927000"
+   },
+   {
+      "name": "San Vicente Coatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.38852000",
+      "longitude": "-96.84390000"
+   },
+   {
+      "name": "San Vicente Lachixío",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.70502000",
+      "longitude": "-97.01864000"
+   },
+   {
+      "name": "San Vicente Nuñu",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.45648000",
+      "longitude": "-97.44319000"
+   },
+   {
+      "name": "San Vicente Piñas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.78527000",
+      "longitude": "-98.06041000"
+   },
+   {
+      "name": "Santa Ana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.05455000",
+      "longitude": "-95.08509000"
+   },
+   {
+      "name": "Santa Ana Tlapacoyan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.74340000",
+      "longitude": "-96.83688000"
+   },
+   {
+      "name": "Santa Ana Zegache",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.83706000",
+      "longitude": "-96.72948000"
+   },
+   {
+      "name": "Santa Ana del Valle",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99488000",
+      "longitude": "-96.47112000"
+   },
+   {
+      "name": "Santa Catalina Quierí",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.31972000",
+      "longitude": "-96.26694000"
+   },
+   {
+      "name": "Santa Catarina Cuixtla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.30616000",
+      "longitude": "-96.64236000"
+   },
+   {
+      "name": "Santa Catarina Juquila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.23819000",
+      "longitude": "-97.29161000"
+   },
+   {
+      "name": "Santa Catarina Loxicha",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.06327000",
+      "longitude": "-96.71942000"
+   },
+   {
+      "name": "Santa Catarina Mechoacán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33591000",
+      "longitude": "-97.83707000"
+   },
+   {
+      "name": "Santa Catarina Minas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.77969000",
+      "longitude": "-96.61536000"
+   },
+   {
+      "name": "Santa Catarina Quiané",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.88255000",
+      "longitude": "-96.74067000"
+   },
+   {
+      "name": "Santa Catarina Roatina",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.27917000",
+      "longitude": "-96.51778000"
+   },
+   {
+      "name": "Santa Catarina Tayata",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34715000",
+      "longitude": "-97.55822000"
+   },
+   {
+      "name": "Santa Cecilia Jalieza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.88383000",
+      "longitude": "-96.61558000"
+   },
+   {
+      "name": "Santa Cruz Acatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.16369000",
+      "longitude": "-96.87503000"
+   },
+   {
+      "name": "Santa Cruz Amilpas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.05833000",
+      "longitude": "-96.68333000"
+   },
+   {
+      "name": "Santa Cruz Lachixolana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22784000",
+      "longitude": "-96.85561000"
+   },
+   {
+      "name": "Santa Cruz Mixtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.79283000",
+      "longitude": "-96.88072000"
+   },
+   {
+      "name": "Santa Cruz Nundaco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.17109000",
+      "longitude": "-97.72382000"
+   },
+   {
+      "name": "Santa Cruz Ozolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.07041000",
+      "longitude": "-96.30246000"
+   },
+   {
+      "name": "Santa Cruz Papalutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95667000",
+      "longitude": "-96.58444000"
+   },
+   {
+      "name": "Santa Cruz Tacache de Mina",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.82898000",
+      "longitude": "-98.15297000"
+   },
+   {
+      "name": "Santa Cruz Tayata",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35718000",
+      "longitude": "-97.56843000"
+   },
+   {
+      "name": "Santa Cruz Xitla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32321000",
+      "longitude": "-96.67369000"
+   },
+   {
+      "name": "Santa Cruz Xoxocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02958000",
+      "longitude": "-96.73518000"
+   },
+   {
+      "name": "Santa Cruz de Bravo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.58096000",
+      "longitude": "-98.22378000"
+   },
+   {
+      "name": "Santa Cruz de Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.15045000",
+      "longitude": "-96.83541000"
+   },
+   {
+      "name": "Santa Fe y la Mar",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.76611000",
+      "longitude": "-96.31611000"
+   },
+   {
+      "name": "Santa Gertrudis",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.78580000",
+      "longitude": "-96.80024000"
+   },
+   {
+      "name": "Santa Inés Yatzeche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80444000",
+      "longitude": "-96.75486000"
+   },
+   {
+      "name": "Santa Inés de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.26946000",
+      "longitude": "-97.15120000"
+   },
+   {
+      "name": "Santa Inés del Monte",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92387000",
+      "longitude": "-96.86238000"
+   },
+   {
+      "name": "Santa Lucía",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.18860000",
+      "longitude": "-96.61404000"
+   },
+   {
+      "name": "Santa Lucía Ocotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.72986000",
+      "longitude": "-96.66514000"
+   },
+   {
+      "name": "Santa Lucía Teotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.14256000",
+      "longitude": "-97.20872000"
+   },
+   {
+      "name": "Santa Lucía del Camino",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06667000",
+      "longitude": "-96.68069000"
+   },
+   {
+      "name": "Santa Magdalena Jicotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80819000",
+      "longitude": "-97.47389000"
+   },
+   {
+      "name": "Santa Margarita Huitepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93817000",
+      "longitude": "-95.66944000"
+   },
+   {
+      "name": "Santa Martha Chichihualtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.64948000",
+      "longitude": "-96.77451000"
+   },
+   {
+      "name": "Santa María Acatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.14841000",
+      "longitude": "-97.51261000"
+   },
+   {
+      "name": "Santa María Alotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.09259000",
+      "longitude": "-95.85423000"
+   },
+   {
+      "name": "Santa María Apazco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.62226000",
+      "longitude": "-97.08524000"
+   },
+   {
+      "name": "Santa María Atzompa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.09835000",
+      "longitude": "-96.78495000"
+   },
+   {
+      "name": "Santa María Camotlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.89688000",
+      "longitude": "-97.69200000"
+   },
+   {
+      "name": "Santa María Chachoápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.52570000",
+      "longitude": "-97.28422000"
+   },
+   {
+      "name": "Santa María Chico Ometepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.17500000",
+      "longitude": "-97.96670000"
+   },
+   {
+      "name": "Santa María Chilapa de Díaz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.51667000",
+      "longitude": "-97.68333000"
+   },
+   {
+      "name": "Santa María Chimalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.90639000",
+      "longitude": "-94.68333000"
+   },
+   {
+      "name": "Santa María Colotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.89737000",
+      "longitude": "-96.93951000"
+   },
+   {
+      "name": "Santa María Cortijo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.45151000",
+      "longitude": "-98.28549000"
+   },
+   {
+      "name": "Santa María Coyotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.96663000",
+      "longitude": "-96.70513000"
+   },
+   {
+      "name": "Santa María Ecatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.28498000",
+      "longitude": "-95.87997000"
+   },
+   {
+      "name": "Santa María Guelacé",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00151000",
+      "longitude": "-96.60946000"
+   },
+   {
+      "name": "Santa María Guenagati",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.73862000",
+      "longitude": "-95.35440000"
+   },
+   {
+      "name": "Santa María Huamelula",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.99245000",
+      "longitude": "-95.70382000"
+   },
+   {
+      "name": "Santa María Huatulco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.83267000",
+      "longitude": "-96.32063000"
+   },
+   {
+      "name": "Santa María Huazolotitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.30359000",
+      "longitude": "-97.91293000"
+   },
+   {
+      "name": "Santa María Ipalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.63944000",
+      "longitude": "-98.03154000"
+   },
+   {
+      "name": "Santa María Jacatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.86068000",
+      "longitude": "-96.21174000"
+   },
+   {
+      "name": "Santa María Jalapa del Marqués",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.44027000",
+      "longitude": "-95.44454000"
+   },
+   {
+      "name": "Santa María Jicaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.37917000",
+      "longitude": "-98.04333000"
+   },
+   {
+      "name": "Santa María Lachixío",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.72694000",
+      "longitude": "-97.01889000"
+   },
+   {
+      "name": "Santa María Mixtequilla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.39111000",
+      "longitude": "-95.27798000"
+   },
+   {
+      "name": "Santa María Nativitas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.64714000",
+      "longitude": "-97.32925000"
+   },
+   {
+      "name": "Santa María Nduayaco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.40832000",
+      "longitude": "-97.50586000"
+   },
+   {
+      "name": "Santa María Petapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.82060000",
+      "longitude": "-95.11913000"
+   },
+   {
+      "name": "Santa María Puxmetacán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.26861000",
+      "longitude": "-95.62333000"
+   },
+   {
+      "name": "Santa María Pápalo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.78452000",
+      "longitude": "-96.79727000"
+   },
+   {
+      "name": "Santa María Quiegolani",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.28978000",
+      "longitude": "-96.04156000"
+   },
+   {
+      "name": "Santa María Sola",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56615000",
+      "longitude": "-97.01297000"
+   },
+   {
+      "name": "Santa María Temaxcalapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.38036000",
+      "longitude": "-96.16137000"
+   },
+   {
+      "name": "Santa María Temaxcaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.16552000",
+      "longitude": "-97.19710000"
+   },
+   {
+      "name": "Santa María Teopoxco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.16655000",
+      "longitude": "-96.95488000"
+   },
+   {
+      "name": "Santa María Tepantlali",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99663000",
+      "longitude": "-96.00883000"
+   },
+   {
+      "name": "Santa María Tiltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.06270000",
+      "longitude": "-97.17036000"
+   },
+   {
+      "name": "Santa María Tlalixtac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.93618000",
+      "longitude": "-96.73402000"
+   },
+   {
+      "name": "Santa María Tonameca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.74805000",
+      "longitude": "-96.54704000"
+   },
+   {
+      "name": "Santa María Velato",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.50421000",
+      "longitude": "-96.64514000"
+   },
+   {
+      "name": "Santa María Xadani",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.94825000",
+      "longitude": "-96.07364000"
+   },
+   {
+      "name": "Santa María Yavesía",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.23531000",
+      "longitude": "-96.43062000"
+   },
+   {
+      "name": "Santa María Yolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.88134000",
+      "longitude": "-97.48014000"
+   },
+   {
+      "name": "Santa María Yucuhiti",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.01873000",
+      "longitude": "-97.76951000"
+   },
+   {
+      "name": "Santa María Yucunicoco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.23754000",
+      "longitude": "-97.91698000"
+   },
+   {
+      "name": "Santa María Zacatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.76369000",
+      "longitude": "-97.99028000"
+   },
+   {
+      "name": "Santa María Zaniza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.65531000",
+      "longitude": "-97.33785000"
+   },
+   {
+      "name": "Santa María Zapotitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.12781000",
+      "longitude": "-95.85239000"
+   },
+   {
+      "name": "Santa María Zoquitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.55886000",
+      "longitude": "-96.35325000"
+   },
+   {
+      "name": "Santa María del Rosario",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34848000",
+      "longitude": "-97.60247000"
+   },
+   {
+      "name": "Santa María del Tule",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04712000",
+      "longitude": "-96.63573000"
+   },
+   {
+      "name": "Santa María la Asunción",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.10722000",
+      "longitude": "-96.81917000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.31655000",
+      "longitude": "-95.09944000"
+   },
+   {
+      "name": "Santa Rosa Caxtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.30306000",
+      "longitude": "-98.01694000"
+   },
+   {
+      "name": "Santa Rosa de Lima",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.07111000",
+      "longitude": "-97.62333000"
+   },
+   {
+      "name": "Santiago Amoltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.64263000",
+      "longitude": "-97.49674000"
+   },
+   {
+      "name": "Santiago Apostol",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.80381000",
+      "longitude": "-96.72046000"
+   },
+   {
+      "name": "Santiago Astata",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.98775000",
+      "longitude": "-95.67571000"
+   },
+   {
+      "name": "Santiago Ayuquililla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.93310000",
+      "longitude": "-97.95769000"
+   },
+   {
+      "name": "Santiago Cacaloxtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.73444000",
+      "longitude": "-97.74139000"
+   },
+   {
+      "name": "Santiago Chazumba",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.19012000",
+      "longitude": "-97.67983000"
+   },
+   {
+      "name": "Santiago Chilixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.90611000",
+      "longitude": "-97.89528000"
+   },
+   {
+      "name": "Santiago Choápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.36084000",
+      "longitude": "-95.92219000"
+   },
+   {
+      "name": "Santiago Comaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.56547000",
+      "longitude": "-96.54873000"
+   },
+   {
+      "name": "Santiago Cuixtla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.06196000",
+      "longitude": "-97.18586000"
+   },
+   {
+      "name": "Santiago Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.15250000",
+      "longitude": "-96.78972000"
+   },
+   {
+      "name": "Santiago Huajolotitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.82783000",
+      "longitude": "-97.73266000"
+   },
+   {
+      "name": "Santiago Huauclilla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.45179000",
+      "longitude": "-97.07277000"
+   },
+   {
+      "name": "Santiago Huaxolotipac",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.97383000",
+      "longitude": "-97.08610000"
+   },
+   {
+      "name": "Santiago Ihuitlán Plumas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.88057000",
+      "longitude": "-97.43215000"
+   },
+   {
+      "name": "Santiago Ixcuintepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93540000",
+      "longitude": "-95.62282000"
+   },
+   {
+      "name": "Santiago Ixtaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.68833000",
+      "longitude": "-94.90583000"
+   },
+   {
+      "name": "Santiago Ixtayutla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56649000",
+      "longitude": "-97.65285000"
+   },
+   {
+      "name": "Santiago Jicayán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.47884000",
+      "longitude": "-98.01018000"
+   },
+   {
+      "name": "Santiago Jocotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.12837000",
+      "longitude": "-97.43760000"
+   },
+   {
+      "name": "Santiago Juxtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33462000",
+      "longitude": "-98.01147000"
+   },
+   {
+      "name": "Santiago Lachiguiri",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.68706000",
+      "longitude": "-95.53067000"
+   },
+   {
+      "name": "Santiago Lalopa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.41786000",
+      "longitude": "-96.24893000"
+   },
+   {
+      "name": "Santiago Laollaga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.58418000",
+      "longitude": "-95.20707000"
+   },
+   {
+      "name": "Santiago Laxopa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.21842000",
+      "longitude": "-96.31099000"
+   },
+   {
+      "name": "Santiago Llano Grande",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.48833000",
+      "longitude": "-98.28972000"
+   },
+   {
+      "name": "Santiago Malacatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.01639000",
+      "longitude": "-95.60750000"
+   },
+   {
+      "name": "Santiago Matatlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86470000",
+      "longitude": "-96.38261000"
+   },
+   {
+      "name": "Santiago Miltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.98461000",
+      "longitude": "-97.69006000"
+   },
+   {
+      "name": "Santiago Nejapilla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.41983000",
+      "longitude": "-97.37411000"
+   },
+   {
+      "name": "Santiago Niltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.52438000",
+      "longitude": "-94.59337000"
+   },
+   {
+      "name": "Santiago Nundiche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.34392000",
+      "longitude": "-97.66988000"
+   },
+   {
+      "name": "Santiago Nuyoó",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.00937000",
+      "longitude": "-97.75000000"
+   },
+   {
+      "name": "Santiago Quiavicuzas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86297000",
+      "longitude": "-95.71616000"
+   },
+   {
+      "name": "Santiago Suchilquitongo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.25316000",
+      "longitude": "-96.87825000"
+   },
+   {
+      "name": "Santiago Tenango",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.32489000",
+      "longitude": "-97.00467000"
+   },
+   {
+      "name": "Santiago Tepextla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.34065000",
+      "longitude": "-98.44684000"
+   },
+   {
+      "name": "Santiago Tetepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32172000",
+      "longitude": "-97.74794000"
+   },
+   {
+      "name": "Santiago Texcalcingo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.21438000",
+      "longitude": "-96.97358000"
+   },
+   {
+      "name": "Santiago Textitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.69264000",
+      "longitude": "-97.25884000"
+   },
+   {
+      "name": "Santiago Tilantongo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.28464000",
+      "longitude": "-97.33879000"
+   },
+   {
+      "name": "Santiago Tillo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.46497000",
+      "longitude": "-97.32040000"
+   },
+   {
+      "name": "Santiago Xanica",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.01009000",
+      "longitude": "-96.22462000"
+   },
+   {
+      "name": "Santiago Yaitepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.22628000",
+      "longitude": "-97.26953000"
+   },
+   {
+      "name": "Santiago Yogana",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.46130000",
+      "longitude": "-96.78786000"
+   },
+   {
+      "name": "Santiago Yolomécatl",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.47237000",
+      "longitude": "-97.56981000"
+   },
+   {
+      "name": "Santiago Yosondúa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.87601000",
+      "longitude": "-97.57607000"
+   },
+   {
+      "name": "Santiago Zacatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16005000",
+      "longitude": "-95.91455000"
+   },
+   {
+      "name": "Santiago Zoochila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22000000",
+      "longitude": "-96.24167000"
+   },
+   {
+      "name": "Santiago del Río",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.44838000",
+      "longitude": "-98.09111000"
+   },
+   {
+      "name": "Santo Domingo Albarradas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07257000",
+      "longitude": "-96.19076000"
+   },
+   {
+      "name": "Santo Domingo Armenta",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.33194000",
+      "longitude": "-98.37778000"
+   },
+   {
+      "name": "Santo Domingo Chihuitán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.59135000",
+      "longitude": "-95.16331000"
+   },
+   {
+      "name": "Santo Domingo Jalieza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86848000",
+      "longitude": "-96.62919000"
+   },
+   {
+      "name": "Santo Domingo Ozolotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.17103000",
+      "longitude": "-96.32044000"
+   },
+   {
+      "name": "Santo Domingo Petapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.81869000",
+      "longitude": "-95.14072000"
+   },
+   {
+      "name": "Santo Domingo Roayaga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.33782000",
+      "longitude": "-96.11506000"
+   },
+   {
+      "name": "Santo Domingo Tehuantepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.32463000",
+      "longitude": "-95.24104000"
+   },
+   {
+      "name": "Santo Domingo Tepuxtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95584000",
+      "longitude": "-96.05823000"
+   },
+   {
+      "name": "Santo Domingo Tlatayapam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.40778000",
+      "longitude": "-97.34581000"
+   },
+   {
+      "name": "Santo Domingo Tomaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.06117000",
+      "longitude": "-96.62280000"
+   },
+   {
+      "name": "Santo Domingo Tonalá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67352000",
+      "longitude": "-97.96556000"
+   },
+   {
+      "name": "Santo Domingo Yanhuitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.53283000",
+      "longitude": "-97.35332000"
+   },
+   {
+      "name": "Santo Domingo Yodohino",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.61694000",
+      "longitude": "-97.68289000"
+   },
+   {
+      "name": "Santo Domingo Zanatepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.48307000",
+      "longitude": "-94.34754000"
+   },
+   {
+      "name": "Santo Domingo de Morelos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.83397000",
+      "longitude": "-96.66695000"
+   },
+   {
+      "name": "Santo Tomás",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.04194000",
+      "longitude": "-96.51389000"
+   },
+   {
+      "name": "Santo Tomás Jalieza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.84469000",
+      "longitude": "-96.67063000"
+   },
+   {
+      "name": "Santo Tomás Mazaltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.17222000",
+      "longitude": "-96.87083000"
+   },
+   {
+      "name": "Santo Tomás Ocotepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.12204000",
+      "longitude": "-97.77344000"
+   },
+   {
+      "name": "Santo Tomás Tamazulapam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.27064000",
+      "longitude": "-96.58193000"
+   },
+   {
+      "name": "Santos Reyes Nopala",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.10694000",
+      "longitude": "-97.14435000"
+   },
+   {
+      "name": "Santos Reyes Pápalo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80532000",
+      "longitude": "-96.86157000"
+   },
+   {
+      "name": "Santos Reyes Tepejillo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.43782000",
+      "longitude": "-97.93845000"
+   },
+   {
+      "name": "Santos Reyes Yucuná",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.77400000",
+      "longitude": "-98.00172000"
+   },
+   {
+      "name": "Sector H Tres",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.76611000",
+      "longitude": "-96.14694000"
+   },
+   {
+      "name": "Silacayoápam",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.50297000",
+      "longitude": "-98.13966000"
+   },
+   {
+      "name": "Sitio de Xitlapehua",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.35139000",
+      "longitude": "-96.53215000"
+   },
+   {
+      "name": "Soledad Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.16556000",
+      "longitude": "-96.82212000"
+   },
+   {
+      "name": "Soledad Salinas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.66229000",
+      "longitude": "-96.00266000"
+   },
+   {
+      "name": "Tamazola",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67020000",
+      "longitude": "-98.22084000"
+   },
+   {
+      "name": "Tamazulapam Villa del Progreso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.67710000",
+      "longitude": "-97.57315000"
+   },
+   {
+      "name": "Tamazulápam del Espíritu Santo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.05500000",
+      "longitude": "-96.06528000"
+   },
+   {
+      "name": "Tanetze de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.37616000",
+      "longitude": "-96.30111000"
+   },
+   {
+      "name": "Taniche",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.56860000",
+      "longitude": "-96.75514000"
+   },
+   {
+      "name": "Tapanalá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "15.96659000",
+      "longitude": "-95.72476000"
+   },
+   {
+      "name": "Tatahuicapá",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.55113000",
+      "longitude": "-95.64088000"
+   },
+   {
+      "name": "Tataltepec de Valdés",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.30549000",
+      "longitude": "-97.54615000"
+   },
+   {
+      "name": "Tecomavaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.95577000",
+      "longitude": "-97.02263000"
+   },
+   {
+      "name": "Temascal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.24285000",
+      "longitude": "-96.40165000"
+   },
+   {
+      "name": "Teococuilco de Marcos Pérez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.35270000",
+      "longitude": "-96.61528000"
+   },
+   {
+      "name": "Teojomulco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.59032000",
+      "longitude": "-97.22493000"
+   },
+   {
+      "name": "Teotitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.13179000",
+      "longitude": "-97.07056000"
+   },
+   {
+      "name": "Teotitlán del Valle",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.02975000",
+      "longitude": "-96.51926000"
+   },
+   {
+      "name": "Tepenixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.29236000",
+      "longitude": "-97.49184000"
+   },
+   {
+      "name": "Tepetlapa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.66601000",
+      "longitude": "-98.39188000"
+   },
+   {
+      "name": "Tetela",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.50887000",
+      "longitude": "-96.45880000"
+   },
+   {
+      "name": "Texcatitlán",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.71259000",
+      "longitude": "-97.06625000"
+   },
+   {
+      "name": "Texmelucan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.58510000",
+      "longitude": "-97.19907000"
+   },
+   {
+      "name": "Tezoatlán de Segura y Luna",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.65388000",
+      "longitude": "-97.81068000"
+   },
+   {
+      "name": "Tlachichilco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.62220000",
+      "longitude": "-98.34312000"
+   },
+   {
+      "name": "Tlacoatzintepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.85985000",
+      "longitude": "-96.58647000"
+   },
+   {
+      "name": "Tlacolula de Matamoros",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95471000",
+      "longitude": "-96.47590000"
+   },
+   {
+      "name": "Tlahuitoltepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.09746000",
+      "longitude": "-96.06279000"
+   },
+   {
+      "name": "Tlalixtac de Cabrera",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.07112000",
+      "longitude": "-96.64710000"
+   },
+   {
+      "name": "Totontepec Villa de Morelos",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.25679000",
+      "longitude": "-96.02786000"
+   },
+   {
+      "name": "Toxpalan",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.10125000",
+      "longitude": "-97.05869000"
+   },
+   {
+      "name": "Trinidad Zaachila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.92135000",
+      "longitude": "-96.76384000"
+   },
+   {
+      "name": "Trinidad de Viguera",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.13059000",
+      "longitude": "-96.75025000"
+   },
+   {
+      "name": "Tuxtepec",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.08830000",
+      "longitude": "-96.12535000"
+   },
+   {
+      "name": "Unión Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.47230000",
+      "longitude": "-94.82952000"
+   },
+   {
+      "name": "Valdeflores",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.76588000",
+      "longitude": "-96.82435000"
+   },
+   {
+      "name": "Valerio Trujano",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.78130000",
+      "longitude": "-96.97852000"
+   },
+   {
+      "name": "Valle Nacional",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.77579000",
+      "longitude": "-96.30174000"
+   },
+   {
+      "name": "Vega del Sol",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.80972000",
+      "longitude": "-96.21694000"
+   },
+   {
+      "name": "Vicente Camalote",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.51443000",
+      "longitude": "-96.52915000"
+   },
+   {
+      "name": "Vicente Guerrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93306000",
+      "longitude": "-96.70139000"
+   },
+   {
+      "name": "Villa Chalcatongo de Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.03247000",
+      "longitude": "-97.57057000"
+   },
+   {
+      "name": "Villa Díaz Ordaz",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.99578000",
+      "longitude": "-96.43231000"
+   },
+   {
+      "name": "Villa Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.18409000",
+      "longitude": "-96.17831000"
+   },
+   {
+      "name": "Villa Sola de Vega",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.51844000",
+      "longitude": "-96.97810000"
+   },
+   {
+      "name": "Villa Talea de Castro",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.36489000",
+      "longitude": "-96.24722000"
+   },
+   {
+      "name": "Villa Tejúpam de la Unión",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.66250000",
+      "longitude": "-97.47083000"
+   },
+   {
+      "name": "Villa de Etla",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.20615000",
+      "longitude": "-96.79890000"
+   },
+   {
+      "name": "Villa de Tamazulápam del Progreso",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.69300000",
+      "longitude": "-97.57366000"
+   },
+   {
+      "name": "Villa de Tututepec de Melchor Ocampo",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.04794000",
+      "longitude": "-97.53109000"
+   },
+   {
+      "name": "Villa de Zaachila",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.95098000",
+      "longitude": "-96.74938000"
+   },
+   {
+      "name": "Vista Hermosa",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.79639000",
+      "longitude": "-97.75694000"
+   },
+   {
+      "name": "Xaaga",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.90420000",
+      "longitude": "-96.32779000"
+   },
+   {
+      "name": "Xagacía",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.15436000",
+      "longitude": "-96.26753000"
+   },
+   {
+      "name": "Xochitonalco",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.09443000",
+      "longitude": "-96.84848000"
+   },
+   {
+      "name": "Yaganiza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.14495000",
+      "longitude": "-96.22960000"
+   },
+   {
+      "name": "Yalina",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.23969000",
+      "longitude": "-96.26233000"
+   },
+   {
+      "name": "Yatzachi",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.22588000",
+      "longitude": "-96.22137000"
+   },
+   {
+      "name": "Yaxe",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.72595000",
+      "longitude": "-96.47191000"
+   },
+   {
+      "name": "Yetla de Juárez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.66559000",
+      "longitude": "-97.99124000"
+   },
+   {
+      "name": "Yucuita",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.51073000",
+      "longitude": "-97.26965000"
+   },
+   {
+      "name": "Yutanduchi de Guerrero",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.04020000",
+      "longitude": "-97.29795000"
+   },
+   {
+      "name": "Zacatal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.93982000",
+      "longitude": "-95.20312000"
+   },
+   {
+      "name": "Zapotitlán Lagunas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.75621000",
+      "longitude": "-98.38958000"
+   },
+   {
+      "name": "Zapotitlán Palmas",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.88965000",
+      "longitude": "-97.81849000"
+   },
+   {
+      "name": "Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.66923000",
+      "longitude": "-97.79322000"
+   },
+   {
+      "name": "Zarzal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "17.01419000",
+      "longitude": "-95.03738000"
+   },
+   {
+      "name": "Zimatlán de Álvarez",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.86939000",
+      "longitude": "-96.78435000"
+   },
+   {
+      "name": "Zocoteaca de León",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.63818000",
+      "longitude": "-98.00276000"
+   },
+   {
+      "name": "Zona Urbana Ejidal",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "18.53250000",
+      "longitude": "-96.58917000"
+   },
+   {
+      "name": "Álvaro Obregón",
+      "countryCode": "MX",
+      "stateCode": "OAX",
+      "latitude": "16.29811000",
+      "longitude": "-95.08392000"
+   }
+]

@@ -1,0 +1,499 @@
+[
+   {
+      "name": "Adaúfe",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.58732000",
+      "longitude": "-8.39817000"
+   },
+   {
+      "name": "Amares",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.64718000",
+      "longitude": "-8.35558000"
+   },
+   {
+      "name": "Apúlia",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.48512000",
+      "longitude": "-8.76413000"
+   },
+   {
+      "name": "Apúlia e Fão",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.51194000",
+      "longitude": "-8.77288000"
+   },
+   {
+      "name": "Arcos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.52185000",
+      "longitude": "-8.42151000"
+   },
+   {
+      "name": "Arões",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.45553000",
+      "longitude": "-8.21419000"
+   },
+   {
+      "name": "Aveleda",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.52113000",
+      "longitude": "-8.46682000"
+   },
+   {
+      "name": "Barcelos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.53174000",
+      "longitude": "-8.61843000"
+   },
+   {
+      "name": "Barqueiros",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.49111000",
+      "longitude": "-8.73192000"
+   },
+   {
+      "name": "Braga",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.55032000",
+      "longitude": "-8.42005000"
+   },
+   {
+      "name": "Brito",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.45821000",
+      "longitude": "-8.36103000"
+   },
+   {
+      "name": "Cabeceiras de Basto",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.52079000",
+      "longitude": "-7.97198000"
+   },
+   {
+      "name": "Caldas das Taipas",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.48465000",
+      "longitude": "-8.34850000"
+   },
+   {
+      "name": "Caldas de Vizela",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.38212000",
+      "longitude": "-8.30890000"
+   },
+   {
+      "name": "Caldelas",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.67101000",
+      "longitude": "-8.38148000"
+   },
+   {
+      "name": "Calendário",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.40361000",
+      "longitude": "-8.52967000"
+   },
+   {
+      "name": "Candoso",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.42768000",
+      "longitude": "-8.32166000"
+   },
+   {
+      "name": "Celorico de Basto",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.40278000",
+      "longitude": "-8.03346000"
+   },
+   {
+      "name": "Chavão",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.45235000",
+      "longitude": "-8.60194000"
+   },
+   {
+      "name": "Cristelo",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.47964000",
+      "longitude": "-8.69785000"
+   },
+   {
+      "name": "Esporões",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.51006000",
+      "longitude": "-8.41729000"
+   },
+   {
+      "name": "Esposende",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.53610000",
+      "longitude": "-8.78201000"
+   },
+   {
+      "name": "Fafe",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.46837000",
+      "longitude": "-8.15863000"
+   },
+   {
+      "name": "Faria",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.48298000",
+      "longitude": "-8.67152000"
+   },
+   {
+      "name": "Ferreiros",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.35000000",
+      "longitude": "-8.55000000"
+   },
+   {
+      "name": "Fradelos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.36846000",
+      "longitude": "-8.59887000"
+   },
+   {
+      "name": "Frossos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.56590000",
+      "longitude": "-8.45134000"
+   },
+   {
+      "name": "Galegos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.56268000",
+      "longitude": "-8.57204000"
+   },
+   {
+      "name": "Gandra",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.52185000",
+      "longitude": "-8.76185000"
+   },
+   {
+      "name": "Gondizalves",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.54158000",
+      "longitude": "-8.45570000"
+   },
+   {
+      "name": "Gueral",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.45859000",
+      "longitude": "-8.62946000"
+   },
+   {
+      "name": "Guimarães",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.44384000",
+      "longitude": "-8.28918000"
+   },
+   {
+      "name": "Guisande",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.48264000",
+      "longitude": "-8.44564000"
+   },
+   {
+      "name": "Joane",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.43906000",
+      "longitude": "-8.40846000"
+   },
+   {
+      "name": "Lago",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.62148000",
+      "longitude": "-8.41258000"
+   },
+   {
+      "name": "Lordelo",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.37411000",
+      "longitude": "-8.38016000"
+   },
+   {
+      "name": "Macieira de Rates",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.44092000",
+      "longitude": "-8.63426000"
+   },
+   {
+      "name": "Marinhas",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.55906000",
+      "longitude": "-8.78297000"
+   },
+   {
+      "name": "Mariz",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.52823000",
+      "longitude": "-8.67081000"
+   },
+   {
+      "name": "Merelim",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.58568000",
+      "longitude": "-8.46555000"
+   },
+   {
+      "name": "Moreira de Conegos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.38680000",
+      "longitude": "-8.33940000"
+   },
+   {
+      "name": "Negreiros",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.43552000",
+      "longitude": "-8.61398000"
+   },
+   {
+      "name": "Oliveira",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.47819000",
+      "longitude": "-8.46965000"
+   },
+   {
+      "name": "Perelhal",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.53075000",
+      "longitude": "-8.68982000"
+   },
+   {
+      "name": "Ponte",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.47057000",
+      "longitude": "-8.32990000"
+   },
+   {
+      "name": "Prado",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.60246000",
+      "longitude": "-8.46297000"
+   },
+   {
+      "name": "Póvoa de Lanhoso",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.57599000",
+      "longitude": "-8.27008000"
+   },
+   {
+      "name": "Real",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.55841000",
+      "longitude": "-8.44330000"
+   },
+   {
+      "name": "Refojos de Basto",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.51318000",
+      "longitude": "-7.99517000"
+   },
+   {
+      "name": "Rendufe",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.62898000",
+      "longitude": "-8.40858000"
+   },
+   {
+      "name": "Riba de Ave",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.39648000",
+      "longitude": "-8.38685000"
+   },
+   {
+      "name": "Ribeirão",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.36081000",
+      "longitude": "-8.56774000"
+   },
+   {
+      "name": "Ronfe",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.44146000",
+      "longitude": "-8.38412000"
+   },
+   {
+      "name": "Sande",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.70190000",
+      "longitude": "-8.39246000"
+   },
+   {
+      "name": "Selho",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.41938000",
+      "longitude": "-8.34599000"
+   },
+   {
+      "name": "Semelhe",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.55437000",
+      "longitude": "-8.46281000"
+   },
+   {
+      "name": "Serzedelo",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.40128000",
+      "longitude": "-8.36888000"
+   },
+   {
+      "name": "Serzedo",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.40502000",
+      "longitude": "-8.22926000"
+   },
+   {
+      "name": "Tebosa",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.48253000",
+      "longitude": "-8.48399000"
+   },
+   {
+      "name": "Terras de Bouro",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.73914000",
+      "longitude": "-8.19109000"
+   },
+   {
+      "name": "Urgeses",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.42720000",
+      "longitude": "-8.29796000"
+   },
+   {
+      "name": "Vieira do Minho",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.63557000",
+      "longitude": "-8.13244000"
+   },
+   {
+      "name": "Vila Cova",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.55107000",
+      "longitude": "-8.71645000"
+   },
+   {
+      "name": "Vila Frescainha",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.53846000",
+      "longitude": "-8.63971000"
+   },
+   {
+      "name": "Vila Nova de Famalicão",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.40797000",
+      "longitude": "-8.51978000"
+   },
+   {
+      "name": "Vila Seca",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.50031000",
+      "longitude": "-8.68525000"
+   },
+   {
+      "name": "Vila Verde",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.64869000",
+      "longitude": "-8.43628000"
+   },
+   {
+      "name": "Vilar de Figos",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.47555000",
+      "longitude": "-8.65382000"
+   },
+   {
+      "name": "Vilaça",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.51787000",
+      "longitude": "-8.48357000"
+   },
+   {
+      "name": "Vizela",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.37529000",
+      "longitude": "-8.29310000"
+   },
+   {
+      "name": "Várzea",
+      "countryCode": "PT",
+      "stateCode": "03",
+      "latitude": "41.51512000",
+      "longitude": "-8.58400000"
+   }
+]

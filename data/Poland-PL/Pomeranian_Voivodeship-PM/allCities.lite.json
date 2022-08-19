@@ -1,0 +1,732 @@
+[
+   {
+      "name": "Banino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Bobowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Bojano",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Bolszewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Borzytuchom",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Brusy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Bytów",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Cedry Wielkie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Cewice",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Chmielno",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Choczewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Chojnice",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Chwaszczyno",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Chłapowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Czarna Dąbrówka",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Czarna Woda",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Czarne",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Czersk",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Człuchów",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Damnica",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Debrzno",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Dziemiany",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Dzierzgoń",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Dębnica Kaszubska",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Garcz",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gardeja",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gdańsk",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gdynia",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gniew",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gniewino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gnieżdżewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Gościcino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Grabowo Kościerskie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Główczyce",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Hel",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Jastarnia",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Jastrzębia Góra",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kaliska",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Karsin",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kartuzy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kobylnica",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Koczała",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kolbudy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Koleczkowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kosakowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kowale",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kołczygłowy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kościerzyna",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Krokowa",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Krynica Morska",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kwidzyn",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Kępice",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Linia",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Liniewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lipnica",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lipusz",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lisewo Malborskie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lubichowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lublewo Gdańskie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Luzino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Lębork",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Malbork",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Miastko",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Mikołajki Pomorskie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Miłoradz",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Mosty",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Mrzezino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Nowa Wieś Lęborska",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Nowy Dwór Gdański",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Nowy Staw",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Orle",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Osiek",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Ostaszewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Parchowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Pelplin",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Pogórze",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Potęgowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat bytowski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat chojnicki",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat człuchowski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat gdański",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat kartuski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat kościerski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat kwidzyński",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat lęborski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat malborski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat nowodworski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat pucki",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat starogardzki",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat sztumski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat słupski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat tczewski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Powiat wejherowski",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Prabuty",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Pruszcz Gdański",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Przechlewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Przodkowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Przywidz",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Pszczółki",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Puck",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Reda",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Rekowo Dolne",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Rotmanka",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Rumia",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Ryjewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Rzeczenica",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sadlinki",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sierakowice",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Skarszewy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Skórcz",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Smołdzino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Smętowo Graniczne",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Somonino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sopot",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Stara Kiszewa",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Stare Pole",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Starogard Gdański",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Stary Targ",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Stegna",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Straszyn",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Strzelno",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Studzienice",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Stężyca",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Subkowy",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Suchy Dąb",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sulęczyno",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Szemud",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Szlachta",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sztum",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Sztutowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Słupsk",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Tczew",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Trzebielino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Trąbki Wielkie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Tuchomie",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Ustka",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Wejherowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Wielki Kack",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Wierzchucino",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Władysławowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Zblewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Łeba",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Łęczyce",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Łęgowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Żelistrzewo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   },
+   {
+      "name": "Żukowo",
+      "countryCode": "PL",
+      "stateCode": "PM"
+   }
+]

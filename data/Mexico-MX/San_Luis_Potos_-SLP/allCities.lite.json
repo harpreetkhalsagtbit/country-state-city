@@ -1,0 +1,887 @@
+[
+   {
+      "name": "Agua Buena",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Agua Señora",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ahualulco del Sonido Trece",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ahuehueyo Primero Centro",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Alaquines",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Alberto Carrera Torres",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ampliación la Hincada",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Aquismón",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Arroyos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Aurelio Manrique",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Axtla de Terrazas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Bledos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Bocas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Carranco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cerrito de Jaral",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cerrito de Zavala",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cerritos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cerro Gordo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cerro de San Pedro",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Chalchocoyo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Charcas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Chiconamel",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ciudad Fernández",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ciudad Satélite",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ciudad Valles",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ciudad del Maíz",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Colonia Veinte de Noviembre",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Colonia Álvaro Obregón",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Corcovado",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Damian Carmona",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Derramaderos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Dulce Grande",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ejido Gogorrón (Ex-Hacienda de Gogorrón)",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ejido San José Xilatzén",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ejido el Saucillo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ejido la Pitahaya (Santo Domingo)",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ejido los Huastecos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Barril",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Capulín",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Carrizal",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Fuerte",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Huexco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Jabalí",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Jaralito",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Naranjo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Peñasco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Rosario",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "El Tepetate",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Enramadas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Enrique Estrada",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Entronque de Matehuala (El Huizache)",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Escalerillas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Estación Tamuín",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Estanzuela",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Fracción Milpillas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Granjenal",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Guadalcázar",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Hernández",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Higinio Olivo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Huichihuayan",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Illescas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Iztacapa",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Jalpilla",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Jesús María",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Esperanza",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Herradura",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Lima",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Mesa de los Conejos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Pila",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Reforma",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Subida",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "La Ventilla",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Laguna de San Vicente",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Laguna de Santa Rita",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Laguna del Mante",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Las Armas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Las Palmas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Los Zacatones",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Maitinez",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Maravillas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Martinez",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Matehuala",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Moctezuma",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Monte Obscuro",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Negritas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Norias del Refugio",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Nueva Primavera",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Nuevo Crucitas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Nuevo Tampaón",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ocuiltzapoyo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ojo Caliente",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ojo de Agua",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ojo de Agua de Solano",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Paisanos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Palma Pegada",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Palmar Primero",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Palo Seco (El Gato)",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Palomas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Pardo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Paso Blanco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Paso Bonito",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Pastora",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Pemucho",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Peotillos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Picholco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ponciano Arriaga",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Portezuelo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Pozuelos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Puerto de Providencia",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Pujal-Coy",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rancho Nuevo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rascón",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rayón",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Real de Catorce",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rinconada",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rincón del Porvenir",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rioverde",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Rodrigo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Salinas de Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Salitral de Carrera",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Ciro de Acosta",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Diego",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Francisco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Francisco Cuayalab",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San José del Tapanco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Luis Potosí",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Martín Chalchicuautla",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Nicolás",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Nicolás Tolentino",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "San Vicente Tancuayalab",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santa Catarina",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santa Martha",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santa María del Río",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santa Rita",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santiago Centro",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Sauz de Calera",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Socavón (El Carmen)",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Soledad de Graciano Sánchez",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Suspiro Picacho",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Sánchez",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamasopo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamazunchale",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tambaca",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamcuime",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tampacán",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tampate",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tampemoche",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamuín",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamán",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tamápatz",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tancanhuitz",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tandzumadz",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tanquián de Escobedo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tanute",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tazaquil",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Temalacaco",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tenexio",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tierra Nueva",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tlacuilola",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tlalnepantla",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Tocoy",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Vanegas",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Villa Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Villa Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Villa de Ramos",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Villa de Reyes",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Xilitla",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Yerbabuena",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Zamachihue",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Zapuyo",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   },
+   {
+      "name": "Ébano",
+      "countryCode": "MX",
+      "stateCode": "SLP"
+   }
+]

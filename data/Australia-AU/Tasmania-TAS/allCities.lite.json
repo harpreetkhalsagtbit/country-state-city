@@ -1,0 +1,712 @@
+[
+   {
+      "name": "Acton Park",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Austins Ferry",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Bagdad",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Battery Point",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Beaconsfield",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Beauty Point",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Bellerive",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Berriedale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Blackmans Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Blackstone Heights",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Break O'Day",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Bridgewater",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Bridport",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Brighton",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Burnie",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Cambridge",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Central Coast",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Central Highlands",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Chigwell",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Circular Head",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Claremont",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Clarence",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Clarendon Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Cressy",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Currie",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Cygnet",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Deloraine",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Derwent Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Devonport",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Dodges Ferry",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Dorset",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Dynnyrne",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "East Devonport",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "East Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Evandale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Flinders",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Franklin",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Gagebrook",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Geeveston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Geilston Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "George Town",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Glamorgan/Spring Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Glenorchy",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Goodwood",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Granton",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Hadspen",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Herdsmans Cove",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Hillcrest",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Hobart city centre",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Howrah",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Huon Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Huonville",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Invermay",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Kentish",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "King Island",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Kingborough",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Kings Meadows",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Kingston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Kingston Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Latrobe",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Lauderdale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Launceston city centre",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Legana",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Lenah Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Lindisfarne",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Longford",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Lutana",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Margate",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Mayfield",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Meander Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Miandetta",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Midway Point",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Montello",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Montrose",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Moonah",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Mornington",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Mount Nelson",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Mount Stuart",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Mowbray",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "New Norfolk",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "New Town",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Newnham",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Newstead",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "North Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Northern Midlands",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Norwood",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Oakdowns",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Old Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Park Grove",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Penguin",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Perth",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Port Sorell",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Prospect Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Queenstown",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Ranelagh",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Ravenswood",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Richmond",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Risdon Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Riverside",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Rocherlea",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Rokeby",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Romaine",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Rosetta",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Saint Leonards",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Sandford",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Sandy Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Scottsdale",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Seven Mile Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Shearwater",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Sheffield",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Shorewell Park",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Smithton",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Snug",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Somerset",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Sorell",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "South Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "South Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Southern Midlands",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Spreyton",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "St Helens",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Summerhill",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Taroona",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Tasman Peninsula",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Tranmere",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Trevallyn",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Turners Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Ulverstone",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Upper Burnie",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Waratah/Wynyard",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Warrane",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Waverley",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Coast",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Moonah",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Tamar",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "West Ulverstone",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Westbury",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Wynyard",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   },
+   {
+      "name": "Youngtown",
+      "countryCode": "AU",
+      "stateCode": "TAS"
+   }
+]

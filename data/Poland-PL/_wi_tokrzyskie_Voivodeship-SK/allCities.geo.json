@@ -1,0 +1,835 @@
+[
+   {
+      "name": "Baćkowice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.79194000",
+      "longitude": "21.23211000"
+   },
+   {
+      "name": "Bałtów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.01845000",
+      "longitude": "21.54385000"
+   },
+   {
+      "name": "Bejsce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.23903000",
+      "longitude": "20.59834000"
+   },
+   {
+      "name": "Bieliny",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.84947000",
+      "longitude": "20.94149000"
+   },
+   {
+      "name": "Bliżyn",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.10778000",
+      "longitude": "20.75935000"
+   },
+   {
+      "name": "Bodzentyn",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.94115000",
+      "longitude": "20.95719000"
+   },
+   {
+      "name": "Bogoria",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.65175000",
+      "longitude": "21.26000000"
+   },
+   {
+      "name": "Brody",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.02466000",
+      "longitude": "21.22147000"
+   },
+   {
+      "name": "Brzeziny",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.77273000",
+      "longitude": "20.57319000"
+   },
+   {
+      "name": "Busko-Zdrój",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.47078000",
+      "longitude": "20.71884000"
+   },
+   {
+      "name": "Chmielnik",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.61440000",
+      "longitude": "20.75206000"
+   },
+   {
+      "name": "Chęciny",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.80021000",
+      "longitude": "20.46229000"
+   },
+   {
+      "name": "Czarnocin",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.34080000",
+      "longitude": "20.51620000"
+   },
+   {
+      "name": "Daleszyce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.80229000",
+      "longitude": "20.80791000"
+   },
+   {
+      "name": "Domaszowice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.87488000",
+      "longitude": "20.68288000"
+   },
+   {
+      "name": "Dwikozy",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.73613000",
+      "longitude": "21.78864000"
+   },
+   {
+      "name": "Działoszyce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.36534000",
+      "longitude": "20.35226000"
+   },
+   {
+      "name": "Fałków",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.13606000",
+      "longitude": "20.10610000"
+   },
+   {
+      "name": "Gnojno",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.60263000",
+      "longitude": "20.84913000"
+   },
+   {
+      "name": "Gowarczów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.27845000",
+      "longitude": "20.43835000"
+   },
+   {
+      "name": "Grzybowa Góra",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.13326000",
+      "longitude": "20.96174000"
+   },
+   {
+      "name": "Górno",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.84774000",
+      "longitude": "20.82501000"
+   },
+   {
+      "name": "Imielno",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.58569000",
+      "longitude": "20.44813000"
+   },
+   {
+      "name": "Iwaniska",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.73146000",
+      "longitude": "21.28060000"
+   },
+   {
+      "name": "Jędrzejów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.63945000",
+      "longitude": "20.30454000"
+   },
+   {
+      "name": "Kaniów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.98577000",
+      "longitude": "20.66391000"
+   },
+   {
+      "name": "Kazimierza Wielka",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.26564000",
+      "longitude": "20.49358000"
+   },
+   {
+      "name": "Kielce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.87033000",
+      "longitude": "20.62752000"
+   },
+   {
+      "name": "Kije",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.60721000",
+      "longitude": "20.57121000"
+   },
+   {
+      "name": "Klimontów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.65588000",
+      "longitude": "21.45587000"
+   },
+   {
+      "name": "Koprzywnica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.59340000",
+      "longitude": "21.58380000"
+   },
+   {
+      "name": "Kostomłoty Drugie",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.92684000",
+      "longitude": "20.56529000"
+   },
+   {
+      "name": "Kostomłoty Pierwsze",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.92322000",
+      "longitude": "20.59490000"
+   },
+   {
+      "name": "Końskie",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.19166000",
+      "longitude": "20.40607000"
+   },
+   {
+      "name": "Krasocin",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.88874000",
+      "longitude": "20.11863000"
+   },
+   {
+      "name": "Kunów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.96156000",
+      "longitude": "21.28058000"
+   },
+   {
+      "name": "Lipnik",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.72977000",
+      "longitude": "21.49389000"
+   },
+   {
+      "name": "Masłów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.90065000",
+      "longitude": "20.72322000"
+   },
+   {
+      "name": "Małogoszcz",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.81214000",
+      "longitude": "20.26407000"
+   },
+   {
+      "name": "Michałów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.49541000",
+      "longitude": "20.46178000"
+   },
+   {
+      "name": "Miedziana Góra",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.93680000",
+      "longitude": "20.55096000"
+   },
+   {
+      "name": "Mirzec",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.13466000",
+      "longitude": "21.05710000"
+   },
+   {
+      "name": "Mniów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.01224000",
+      "longitude": "20.48427000"
+   },
+   {
+      "name": "Morawica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.74678000",
+      "longitude": "20.61756000"
+   },
+   {
+      "name": "Nagłowice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.67835000",
+      "longitude": "20.10661000"
+   },
+   {
+      "name": "Nowa Słupia",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.86432000",
+      "longitude": "21.09049000"
+   },
+   {
+      "name": "Nowy Korczyn",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.30124000",
+      "longitude": "20.80759000"
+   },
+   {
+      "name": "Obrazów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.69276000",
+      "longitude": "21.65045000"
+   },
+   {
+      "name": "Oksa",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.72874000",
+      "longitude": "20.10086000"
+   },
+   {
+      "name": "Oleśnica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.45357000",
+      "longitude": "21.06457000"
+   },
+   {
+      "name": "Opatowiec",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.24314000",
+      "longitude": "20.72348000"
+   },
+   {
+      "name": "Opatów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.80058000",
+      "longitude": "21.42538000"
+   },
+   {
+      "name": "Osiedle-Nowiny",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.81770000",
+      "longitude": "20.54117000"
+   },
+   {
+      "name": "Osiek",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.51996000",
+      "longitude": "21.44192000"
+   },
+   {
+      "name": "Ostrowiec Świętokrzyski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.92936000",
+      "longitude": "21.38525000"
+   },
+   {
+      "name": "Ożarów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.88798000",
+      "longitude": "21.66658000"
+   },
+   {
+      "name": "Pacanów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.40031000",
+      "longitude": "21.04148000"
+   },
+   {
+      "name": "Pawłów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.96216000",
+      "longitude": "21.12062000"
+   },
+   {
+      "name": "Piekoszów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.88035000",
+      "longitude": "20.46418000"
+   },
+   {
+      "name": "Pierzchnica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.69754000",
+      "longitude": "20.75489000"
+   },
+   {
+      "name": "Pińczów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.52052000",
+      "longitude": "20.52649000"
+   },
+   {
+      "name": "Powiat buski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.45583000",
+      "longitude": "20.87624000"
+   },
+   {
+      "name": "Powiat jędrzejowski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.65676000",
+      "longitude": "20.18655000"
+   },
+   {
+      "name": "Powiat kazimierski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.28811000",
+      "longitude": "20.53368000"
+   },
+   {
+      "name": "Powiat kielecki",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.80156000",
+      "longitude": "20.63322000"
+   },
+   {
+      "name": "Powiat konecki",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.15145000",
+      "longitude": "20.34186000"
+   },
+   {
+      "name": "Powiat opatowski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.79639000",
+      "longitude": "21.44531000"
+   },
+   {
+      "name": "Powiat ostrowiecki",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.94232000",
+      "longitude": "21.40739000"
+   },
+   {
+      "name": "Powiat pińczowski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.49968000",
+      "longitude": "20.47253000"
+   },
+   {
+      "name": "Powiat sandomierski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.69508000",
+      "longitude": "21.60900000"
+   },
+   {
+      "name": "Powiat skarżyski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.06496000",
+      "longitude": "20.79228000"
+   },
+   {
+      "name": "Powiat starachowicki",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.05365000",
+      "longitude": "21.14295000"
+   },
+   {
+      "name": "Powiat staszowski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.51737000",
+      "longitude": "21.19594000"
+   },
+   {
+      "name": "Powiat włoszczowski",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.83205000",
+      "longitude": "19.97696000"
+   },
+   {
+      "name": "Połaniec",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.43324000",
+      "longitude": "21.28120000"
+   },
+   {
+      "name": "Radoszyce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.07392000",
+      "longitude": "20.25836000"
+   },
+   {
+      "name": "Raków",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.67427000",
+      "longitude": "21.04517000"
+   },
+   {
+      "name": "Rogów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.20414000",
+      "longitude": "20.43483000"
+   },
+   {
+      "name": "Ruda Maleniecka",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.14592000",
+      "longitude": "20.22377000"
+   },
+   {
+      "name": "Rytwiany",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.52920000",
+      "longitude": "21.20636000"
+   },
+   {
+      "name": "Sadowie",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.85261000",
+      "longitude": "21.36884000"
+   },
+   {
+      "name": "Samborzec",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.64663000",
+      "longitude": "21.64822000"
+   },
+   {
+      "name": "Sandomierz",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.68265000",
+      "longitude": "21.74898000"
+   },
+   {
+      "name": "Secemin",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.76676000",
+      "longitude": "19.83599000"
+   },
+   {
+      "name": "Skalbmierz",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.31993000",
+      "longitude": "20.39929000"
+   },
+   {
+      "name": "Skarżysko Kościelne",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.13822000",
+      "longitude": "20.91196000"
+   },
+   {
+      "name": "Skarżysko-Kamienna",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.11311000",
+      "longitude": "20.87162000"
+   },
+   {
+      "name": "Smyków",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.04442000",
+      "longitude": "20.40032000"
+   },
+   {
+      "name": "Sobków",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.69999000",
+      "longitude": "20.45062000"
+   },
+   {
+      "name": "Solec-Zdrój",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.36594000",
+      "longitude": "20.88956000"
+   },
+   {
+      "name": "Starachowice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.03740000",
+      "longitude": "21.07126000"
+   },
+   {
+      "name": "Staszów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.56307000",
+      "longitude": "21.16593000"
+   },
+   {
+      "name": "Stopnica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.44018000",
+      "longitude": "20.93780000"
+   },
+   {
+      "name": "Strawczyn",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.94177000",
+      "longitude": "20.42135000"
+   },
+   {
+      "name": "Stąporków",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.13762000",
+      "longitude": "20.57173000"
+   },
+   {
+      "name": "Suchedniów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.04776000",
+      "longitude": "20.82922000"
+   },
+   {
+      "name": "Szydłów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.59114000",
+      "longitude": "21.00680000"
+   },
+   {
+      "name": "Sędziszów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.56590000",
+      "longitude": "20.05563000"
+   },
+   {
+      "name": "Słupia",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.60073000",
+      "longitude": "19.97435000"
+   },
+   {
+      "name": "Tarłów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.00160000",
+      "longitude": "21.71474000"
+   },
+   {
+      "name": "Tuczępy",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.51676000",
+      "longitude": "20.99187000"
+   },
+   {
+      "name": "Waśniów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.89914000",
+      "longitude": "21.22301000"
+   },
+   {
+      "name": "Wielka Wieś",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.07107000",
+      "longitude": "20.96655000"
+   },
+   {
+      "name": "Wilczyce",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.74694000",
+      "longitude": "21.65783000"
+   },
+   {
+      "name": "Wiślica",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.34891000",
+      "longitude": "20.67438000"
+   },
+   {
+      "name": "Wodzisław",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.52047000",
+      "longitude": "20.19150000"
+   },
+   {
+      "name": "Wojciechowice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.84226000",
+      "longitude": "21.58942000"
+   },
+   {
+      "name": "Wola Jachowa",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.84524000",
+      "longitude": "20.85814000"
+   },
+   {
+      "name": "Wąchock",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.07391000",
+      "longitude": "21.01243000"
+   },
+   {
+      "name": "Włoszczowa",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.85256000",
+      "longitude": "19.96593000"
+   },
+   {
+      "name": "Zagnańsk",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.98037000",
+      "longitude": "20.66314000"
+   },
+   {
+      "name": "Zawichost",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.80743000",
+      "longitude": "21.85408000"
+   },
+   {
+      "name": "Złota",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.38160000",
+      "longitude": "20.59361000"
+   },
+   {
+      "name": "Ćmielów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.89028000",
+      "longitude": "21.51426000"
+   },
+   {
+      "name": "Łagów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.77517000",
+      "longitude": "21.08431000"
+   },
+   {
+      "name": "Łoniów",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.56443000",
+      "longitude": "21.52599000"
+   },
+   {
+      "name": "Łopuszno",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.94864000",
+      "longitude": "20.25081000"
+   },
+   {
+      "name": "Łubnice",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "50.41164000",
+      "longitude": "21.15014000"
+   },
+   {
+      "name": "Łączna",
+      "countryCode": "PL",
+      "stateCode": "SK",
+      "latitude": "51.00231000",
+      "longitude": "20.79712000"
+   }
+]

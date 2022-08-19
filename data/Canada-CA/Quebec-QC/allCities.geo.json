@@ -1,0 +1,2459 @@
+[
+   {
+      "name": "Abitibi-Témiscamingue",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.10018000",
+      "longitude": "-77.78280000"
+   },
+   {
+      "name": "Acton Vale",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65007000",
+      "longitude": "-72.56582000"
+   },
+   {
+      "name": "Adstock",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.05007000",
+      "longitude": "-71.08235000"
+   },
+   {
+      "name": "Albanel",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.88324000",
+      "longitude": "-72.44867000"
+   },
+   {
+      "name": "Alma",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.55009000",
+      "longitude": "-71.64910000"
+   },
+   {
+      "name": "Amos",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.56688000",
+      "longitude": "-78.11624000"
+   },
+   {
+      "name": "Amqui",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.46382000",
+      "longitude": "-67.43134000"
+   },
+   {
+      "name": "Ange-Gardien",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.35008000",
+      "longitude": "-72.93244000"
+   },
+   {
+      "name": "Asbestos",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.76678000",
+      "longitude": "-71.93240000"
+   },
+   {
+      "name": "Baie-Comeau",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.21679000",
+      "longitude": "-68.14894000"
+   },
+   {
+      "name": "Baie-D'Urfé",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.41397000",
+      "longitude": "-73.91586000"
+   },
+   {
+      "name": "Baie-Saint-Paul",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.44109000",
+      "longitude": "-70.49858000"
+   },
+   {
+      "name": "Barraute",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.43349000",
+      "longitude": "-77.63279000"
+   },
+   {
+      "name": "Bas-Saint-Laurent",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.05030000",
+      "longitude": "-68.02266000"
+   },
+   {
+      "name": "Beaconsfield",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.43341000",
+      "longitude": "-73.86586000"
+   },
+   {
+      "name": "Beauceville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.21785000",
+      "longitude": "-70.77873000"
+   },
+   {
+      "name": "Beauharnois",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.31341000",
+      "longitude": "-73.87250000"
+   },
+   {
+      "name": "Beaupré",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.04428000",
+      "longitude": "-70.89529000"
+   },
+   {
+      "name": "Bedford",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.11678000",
+      "longitude": "-72.98244000"
+   },
+   {
+      "name": "Beloeil",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56839000",
+      "longitude": "-73.20568000"
+   },
+   {
+      "name": "Berthierville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.08336000",
+      "longitude": "-73.18245000"
+   },
+   {
+      "name": "Blainville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.66678000",
+      "longitude": "-73.88249000"
+   },
+   {
+      "name": "Bois-des-Filion",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.66678000",
+      "longitude": "-73.74918000"
+   },
+   {
+      "name": "Boisbriand",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.61678000",
+      "longitude": "-73.83249000"
+   },
+   {
+      "name": "Bonaventure",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.04573000",
+      "longitude": "-65.49259000"
+   },
+   {
+      "name": "Boucherville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.59104000",
+      "longitude": "-73.43605000"
+   },
+   {
+      "name": "Breakeyville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.68037000",
+      "longitude": "-71.22327000"
+   },
+   {
+      "name": "Bromont",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.31678000",
+      "longitude": "-72.64912000"
+   },
+   {
+      "name": "Brossard",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45008000",
+      "longitude": "-73.46583000"
+   },
+   {
+      "name": "Brownsburg-Chatham",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.68342000",
+      "longitude": "-74.41590000"
+   },
+   {
+      "name": "Buckingham",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.58563000",
+      "longitude": "-75.42080000"
+   },
+   {
+      "name": "Bécancour",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.34106000",
+      "longitude": "-72.43224000"
+   },
+   {
+      "name": "Cabano",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.68065000",
+      "longitude": "-68.87810000"
+   },
+   {
+      "name": "Cacouna",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.91657000",
+      "longitude": "-69.50054000"
+   },
+   {
+      "name": "Candiac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.38338000",
+      "longitude": "-73.51587000"
+   },
+   {
+      "name": "Cantley",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56680000",
+      "longitude": "-75.78265000"
+   },
+   {
+      "name": "Cap-Chat",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.10009000",
+      "longitude": "-66.68212000"
+   },
+   {
+      "name": "Cap-Santé",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.67159000",
+      "longitude": "-71.78812000"
+   },
+   {
+      "name": "Capitale-Nationale",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.37600000",
+      "longitude": "-71.12337000"
+   },
+   {
+      "name": "Carignan",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45008000",
+      "longitude": "-73.29916000"
+   },
+   {
+      "name": "Carleton",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.09838000",
+      "longitude": "-66.10036000"
+   },
+   {
+      "name": "Carleton-sur-Mer",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.10749000",
+      "longitude": "-66.12800000"
+   },
+   {
+      "name": "Centre-du-Québec",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.01985000",
+      "longitude": "-71.98242000"
+   },
+   {
+      "name": "Chambly",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45008000",
+      "longitude": "-73.28246000"
+   },
+   {
+      "name": "Chambord",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.43339000",
+      "longitude": "-72.06583000"
+   },
+   {
+      "name": "Chandler",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.34935000",
+      "longitude": "-64.67926000"
+   },
+   {
+      "name": "Chapais",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.78344000",
+      "longitude": "-74.84919000"
+   },
+   {
+      "name": "Charlemagne",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.71678000",
+      "longitude": "-73.48247000"
+   },
+   {
+      "name": "Chaudière-Appalaches",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.55500000",
+      "longitude": "-70.83080000"
+   },
+   {
+      "name": "Chertsey",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.07109000",
+      "longitude": "-73.89095000"
+   },
+   {
+      "name": "Chibougamau",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.91684000",
+      "longitude": "-74.36586000"
+   },
+   {
+      "name": "Chute-aux-Outardes",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.11679000",
+      "longitude": "-68.39896000"
+   },
+   {
+      "name": "Château-Richer",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.96031000",
+      "longitude": "-71.03219000"
+   },
+   {
+      "name": "Châteauguay",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.38338000",
+      "longitude": "-73.74919000"
+   },
+   {
+      "name": "Coaticook",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.13339000",
+      "longitude": "-71.79907000"
+   },
+   {
+      "name": "Contrecoeur",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.85008000",
+      "longitude": "-73.23245000"
+   },
+   {
+      "name": "Cookshire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.41536000",
+      "longitude": "-71.62962000"
+   },
+   {
+      "name": "Cookshire-Eaton",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.41675000",
+      "longitude": "-71.63240000"
+   },
+   {
+      "name": "Coteau-du-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.30008000",
+      "longitude": "-74.18253000"
+   },
+   {
+      "name": "Cowansville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.20008000",
+      "longitude": "-72.74913000"
+   },
+   {
+      "name": "Crabtree",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.96677000",
+      "longitude": "-73.46586000"
+   },
+   {
+      "name": "Côte-Nord",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.86683000",
+      "longitude": "-65.81541000"
+   },
+   {
+      "name": "Côte-Saint-Luc",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.46536000",
+      "longitude": "-73.66585000"
+   },
+   {
+      "name": "Danville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.78337000",
+      "longitude": "-72.01580000"
+   },
+   {
+      "name": "Daveluyville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.20006000",
+      "longitude": "-72.13239000"
+   },
+   {
+      "name": "Delson",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.36678000",
+      "longitude": "-73.54917000"
+   },
+   {
+      "name": "Deux-Montagnes",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53455000",
+      "longitude": "-73.90168000"
+   },
+   {
+      "name": "Disraeli",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.90007000",
+      "longitude": "-71.34907000"
+   },
+   {
+      "name": "Dolbeau-Mistassini",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.87860000",
+      "longitude": "-72.23142000"
+   },
+   {
+      "name": "Dollard-Des Ormeaux",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.49452000",
+      "longitude": "-73.82419000"
+   },
+   {
+      "name": "Donnacona",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.68042000",
+      "longitude": "-71.72390000"
+   },
+   {
+      "name": "Dorval",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.44730000",
+      "longitude": "-73.75335000"
+   },
+   {
+      "name": "Drummondville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.88336000",
+      "longitude": "-72.48241000"
+   },
+   {
+      "name": "Dunham",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.13338000",
+      "longitude": "-72.79913000"
+   },
+   {
+      "name": "East Angus",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.48338000",
+      "longitude": "-71.66577000"
+   },
+   {
+      "name": "East Broughton",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.21358000",
+      "longitude": "-71.07674000"
+   },
+   {
+      "name": "Farnham",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.28338000",
+      "longitude": "-72.98244000"
+   },
+   {
+      "name": "Ferme-Neuve",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.70011000",
+      "longitude": "-75.44929000"
+   },
+   {
+      "name": "Fermont",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "52.78345000",
+      "longitude": "-67.08204000"
+   },
+   {
+      "name": "Forestville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.73808000",
+      "longitude": "-69.08478000"
+   },
+   {
+      "name": "Fort-Coulonge",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.85011000",
+      "longitude": "-76.73272000"
+   },
+   {
+      "name": "Fossambault-sur-le-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.87662000",
+      "longitude": "-71.61541000"
+   },
+   {
+      "name": "Franklin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.03338000",
+      "longitude": "-73.91591000"
+   },
+   {
+      "name": "Gaspé",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.83341000",
+      "longitude": "-64.48194000"
+   },
+   {
+      "name": "Gaspésie-Îles-de-la-Madeleine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.87555000",
+      "longitude": "-65.40710000"
+   },
+   {
+      "name": "Gatineau",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.47723000",
+      "longitude": "-75.70164000"
+   },
+   {
+      "name": "Godefroy",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "51.75012000",
+      "longitude": "-68.08213000"
+   },
+   {
+      "name": "Granby",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40008000",
+      "longitude": "-72.73243000"
+   },
+   {
+      "name": "Hampstead",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.48064000",
+      "longitude": "-73.66307000"
+   },
+   {
+      "name": "Hauterive",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.19572000",
+      "longitude": "-68.25813000"
+   },
+   {
+      "name": "Havre-Saint-Pierre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.24342000",
+      "longitude": "-63.60264000"
+   },
+   {
+      "name": "Hudson",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45008000",
+      "longitude": "-74.14922000"
+   },
+   {
+      "name": "Huntingdon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.08339000",
+      "longitude": "-74.16593000"
+   },
+   {
+      "name": "Hérouxville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.66617000",
+      "longitude": "-72.62512000"
+   },
+   {
+      "name": "Joliette",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.01640000",
+      "longitude": "-73.42360000"
+   },
+   {
+      "name": "Jonquière",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.41648000",
+      "longitude": "-71.24884000"
+   },
+   {
+      "name": "Kingsey Falls",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.85007000",
+      "longitude": "-72.06580000"
+   },
+   {
+      "name": "Kirkland",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45008000",
+      "longitude": "-73.86586000"
+   },
+   {
+      "name": "L'Ancienne-Lorette",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.79392000",
+      "longitude": "-71.35191000"
+   },
+   {
+      "name": "L'Ange-Gardien",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.91976000",
+      "longitude": "-71.08253000"
+   },
+   {
+      "name": "L'Ascension-de-Notre-Seigneur",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.68339000",
+      "longitude": "-71.66580000"
+   },
+   {
+      "name": "L'Assomption",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.82318000",
+      "longitude": "-73.42940000"
+   },
+   {
+      "name": "L'Épiphanie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.85008000",
+      "longitude": "-73.48246000"
+   },
+   {
+      "name": "L'Île-Perrot",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.38338000",
+      "longitude": "-73.94920000"
+   },
+   {
+      "name": "La Conception",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.15009000",
+      "longitude": "-74.69925000"
+   },
+   {
+      "name": "La Haute-Saint-Charles",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.89028000",
+      "longitude": "-71.37222000"
+   },
+   {
+      "name": "La Malbaie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.65400000",
+      "longitude": "-70.15268000"
+   },
+   {
+      "name": "La Minerve",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.25009000",
+      "longitude": "-74.93257000"
+   },
+   {
+      "name": "La Pocatière",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.36733000",
+      "longitude": "-70.03484000"
+   },
+   {
+      "name": "La Prairie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.41678000",
+      "longitude": "-73.49917000"
+   },
+   {
+      "name": "La Sarre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.80019000",
+      "longitude": "-79.19964000"
+   },
+   {
+      "name": "La Tuque",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.43337000",
+      "longitude": "-72.78240000"
+   },
+   {
+      "name": "Labelle",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.28339000",
+      "longitude": "-74.73255000"
+   },
+   {
+      "name": "Lac-Alouette",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.81698000",
+      "longitude": "-73.95920000"
+   },
+   {
+      "name": "Lac-Brome",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.21678000",
+      "longitude": "-72.51581000"
+   },
+   {
+      "name": "Lac-Connelly",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.89788000",
+      "longitude": "-73.97230000"
+   },
+   {
+      "name": "Lac-Lapierre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.89837000",
+      "longitude": "-73.77308000"
+   },
+   {
+      "name": "Lac-Mégantic",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.58338000",
+      "longitude": "-70.88234000"
+   },
+   {
+      "name": "Lac-Simon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.15699000",
+      "longitude": "-74.74129000"
+   },
+   {
+      "name": "Lachute",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65008000",
+      "longitude": "-74.33253000"
+   },
+   {
+      "name": "Lacolle",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.08338000",
+      "longitude": "-73.36585000"
+   },
+   {
+      "name": "Lanoraie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.96677000",
+      "longitude": "-73.21585000"
+   },
+   {
+      "name": "Laval",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56995000",
+      "longitude": "-73.69200000"
+   },
+   {
+      "name": "Lavaltrie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.88338000",
+      "longitude": "-73.28245000"
+   },
+   {
+      "name": "Le Bic",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.37549000",
+      "longitude": "-68.69415000"
+   },
+   {
+      "name": "Lebel-sur-Quévillon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.05018000",
+      "longitude": "-76.98273000"
+   },
+   {
+      "name": "Leblanc",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.26683000",
+      "longitude": "-74.34914000"
+   },
+   {
+      "name": "Les Coteaux",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.28338000",
+      "longitude": "-74.23254000"
+   },
+   {
+      "name": "Les Cèdres",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.30008000",
+      "longitude": "-74.04922000"
+   },
+   {
+      "name": "Les Escoumins",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.35191000",
+      "longitude": "-69.40724000"
+   },
+   {
+      "name": "Linière",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.00007000",
+      "longitude": "-70.41572000"
+   },
+   {
+      "name": "Longueuil",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53121000",
+      "longitude": "-73.51806000"
+   },
+   {
+      "name": "Lorraine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.68338000",
+      "longitude": "-73.78249000"
+   },
+   {
+      "name": "Louiseville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.25594000",
+      "longitude": "-72.94145000"
+   },
+   {
+      "name": "Luceville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.54498000",
+      "longitude": "-68.39658000"
+   },
+   {
+      "name": "Lévis",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.80326000",
+      "longitude": "-71.17793000"
+   },
+   {
+      "name": "Macamic",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.75018000",
+      "longitude": "-78.99962000"
+   },
+   {
+      "name": "Magog",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.26678000",
+      "longitude": "-72.14909000"
+   },
+   {
+      "name": "Malartic",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.13348000",
+      "longitude": "-78.13283000"
+   },
+   {
+      "name": "Maliotenam",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.21119000",
+      "longitude": "-66.18164000"
+   },
+   {
+      "name": "Manawan",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.22029000",
+      "longitude": "-74.38606000"
+   },
+   {
+      "name": "Mandeville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.36677000",
+      "longitude": "-73.34915000"
+   },
+   {
+      "name": "Maniwaki",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.38341000",
+      "longitude": "-75.96605000"
+   },
+   {
+      "name": "Maria",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.17490000",
+      "longitude": "-65.98595000"
+   },
+   {
+      "name": "Marieville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.43338000",
+      "longitude": "-73.16585000"
+   },
+   {
+      "name": "Mascouche",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.74965000",
+      "longitude": "-73.59956000"
+   },
+   {
+      "name": "Maskinongé",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.22860000",
+      "longitude": "-73.01917000"
+   },
+   {
+      "name": "Matagami",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.75018000",
+      "longitude": "-77.63277000"
+   },
+   {
+      "name": "Matane",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.82857000",
+      "longitude": "-67.52197000"
+   },
+   {
+      "name": "Mauricie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.55009000",
+      "longitude": "-73.41583000"
+   },
+   {
+      "name": "Melocheville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.31726000",
+      "longitude": "-73.93710000"
+   },
+   {
+      "name": "Mercier",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.31678000",
+      "longitude": "-73.74919000"
+   },
+   {
+      "name": "Metabetchouan-Lac-a-la-Croix",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.41000000",
+      "longitude": "-71.78000000"
+   },
+   {
+      "name": "Mirabel",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65008000",
+      "longitude": "-74.08251000"
+   },
+   {
+      "name": "Mistissini",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.41667000",
+      "longitude": "-73.88333000"
+   },
+   {
+      "name": "Mont-Joli",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.58388000",
+      "longitude": "-68.19214000"
+   },
+   {
+      "name": "Mont-Laurier",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.55011000",
+      "longitude": "-75.49930000"
+   },
+   {
+      "name": "Mont-Royal",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.51675000",
+      "longitude": "-73.64918000"
+   },
+   {
+      "name": "Mont-Saint-Grégoire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.33338000",
+      "longitude": "-73.16585000"
+   },
+   {
+      "name": "Mont-Saint-Hilaire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56515000",
+      "longitude": "-73.18680000"
+   },
+   {
+      "name": "Mont-Tremblant",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.21274000",
+      "longitude": "-74.58438000"
+   },
+   {
+      "name": "Montmagny",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.98043000",
+      "longitude": "-70.55493000"
+   },
+   {
+      "name": "Montréal",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50008000",
+      "longitude": "-73.68248000"
+   },
+   {
+      "name": "Montréal-Est",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.63202000",
+      "longitude": "-73.50750000"
+   },
+   {
+      "name": "Montréal-Ouest",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.45286000",
+      "longitude": "-73.64918000"
+   },
+   {
+      "name": "Morin-Heights",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.90009000",
+      "longitude": "-74.24922000"
+   },
+   {
+      "name": "Métabetchouan",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.36679000",
+      "longitude": "-72.01583000"
+   },
+   {
+      "name": "Napierville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.18648000",
+      "longitude": "-73.40468000"
+   },
+   {
+      "name": "Neuville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.69823000",
+      "longitude": "-71.58275000"
+   },
+   {
+      "name": "New Carlisle",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.00956000",
+      "longitude": "-65.33621000"
+   },
+   {
+      "name": "New-Richmond",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.16059000",
+      "longitude": "-65.85823000"
+   },
+   {
+      "name": "Nicolet",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.21676000",
+      "longitude": "-72.61582000"
+   },
+   {
+      "name": "Nord-du-Québec",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "51.96200000",
+      "longitude": "-74.89610000"
+   },
+   {
+      "name": "Normandin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.83328000",
+      "longitude": "-72.53209000"
+   },
+   {
+      "name": "Notre-Dame-de-Grâce",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.47675000",
+      "longitude": "-73.61432000"
+   },
+   {
+      "name": "Notre-Dame-de-l'Île-Perrot",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.36678000",
+      "longitude": "-73.93250000"
+   },
+   {
+      "name": "Notre-Dame-des-Prairies",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.05007000",
+      "longitude": "-73.43245000"
+   },
+   {
+      "name": "Notre-Dame-du-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.75012000",
+      "longitude": "-79.04961000"
+   },
+   {
+      "name": "Notre-Dame-du-Mont-Carmel",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.01680000",
+      "longitude": "-75.08259000"
+   },
+   {
+      "name": "Oka",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.46489000",
+      "longitude": "-74.08892000"
+   },
+   {
+      "name": "Ormstown",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.13338000",
+      "longitude": "-73.99922000"
+   },
+   {
+      "name": "Otterburn Park",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53338000",
+      "longitude": "-73.21585000"
+   },
+   {
+      "name": "Outaouais",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.26681000",
+      "longitude": "-76.31606000"
+   },
+   {
+      "name": "Papineauville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.61680000",
+      "longitude": "-75.01599000"
+   },
+   {
+      "name": "Parc-Boutin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.29209000",
+      "longitude": "-73.26154000"
+   },
+   {
+      "name": "Piedmont",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.90008000",
+      "longitude": "-74.13251000"
+   },
+   {
+      "name": "Pierreville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.07034000",
+      "longitude": "-72.81125000"
+   },
+   {
+      "name": "Pincourt",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.38338000",
+      "longitude": "-73.98250000"
+   },
+   {
+      "name": "Plessisville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.21856000",
+      "longitude": "-71.76201000"
+   },
+   {
+      "name": "Pohénégamook",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.46315000",
+      "longitude": "-69.22666000"
+   },
+   {
+      "name": "Pointe-Calumet",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50008000",
+      "longitude": "-73.96590000"
+   },
+   {
+      "name": "Pointe-Claire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.44868000",
+      "longitude": "-73.81669000"
+   },
+   {
+      "name": "Pointe-du-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.50009000",
+      "longitude": "-71.78241000"
+   },
+   {
+      "name": "Pont Rouge",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.88332000",
+      "longitude": "-72.08247000"
+   },
+   {
+      "name": "Pont-Rouge",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.75468000",
+      "longitude": "-71.69566000"
+   },
+   {
+      "name": "Port-Cartier",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.03339000",
+      "longitude": "-66.86545000"
+   },
+   {
+      "name": "Portneuf",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.69058000",
+      "longitude": "-71.89011000"
+   },
+   {
+      "name": "Princeville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.17163000",
+      "longitude": "-71.87462000"
+   },
+   {
+      "name": "Prévost",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.86678000",
+      "longitude": "-74.08251000"
+   },
+   {
+      "name": "Québec",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.81228000",
+      "longitude": "-71.21454000"
+   },
+   {
+      "name": "Rawdon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.05007000",
+      "longitude": "-73.71587000"
+   },
+   {
+      "name": "Repentigny",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.74222000",
+      "longitude": "-73.45008000"
+   },
+   {
+      "name": "Richelieu",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.44336000",
+      "longitude": "-73.24602000"
+   },
+   {
+      "name": "Richmond",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.66677000",
+      "longitude": "-72.14910000"
+   },
+   {
+      "name": "Rigaud",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.47927000",
+      "longitude": "-74.30238000"
+   },
+   {
+      "name": "Rimouski",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.44879000",
+      "longitude": "-68.52396000"
+   },
+   {
+      "name": "Rivière-Rouge",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.41679000",
+      "longitude": "-74.86596000"
+   },
+   {
+      "name": "Rivière-du-Loup",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.82699000",
+      "longitude": "-69.54243000"
+   },
+   {
+      "name": "Roberval",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.51680000",
+      "longitude": "-72.23244000"
+   },
+   {
+      "name": "Rock Forest",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.35699000",
+      "longitude": "-71.99676000"
+   },
+   {
+      "name": "Rosemère",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.63338000",
+      "longitude": "-73.79919000"
+   },
+   {
+      "name": "Rougemont",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.43338000",
+      "longitude": "-73.04914000"
+   },
+   {
+      "name": "Rouyn-Noranda",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.23656000",
+      "longitude": "-79.02311000"
+   },
+   {
+      "name": "Sacré-Coeur",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.22970000",
+      "longitude": "-69.80061000"
+   },
+   {
+      "name": "Saguenay",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.41675000",
+      "longitude": "-71.06573000"
+   },
+   {
+      "name": "Saint-Adolphe-d'Howard",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.96679000",
+      "longitude": "-74.33253000"
+   },
+   {
+      "name": "Saint-Alexandre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50010000",
+      "longitude": "-75.74935000"
+   },
+   {
+      "name": "Saint-Amable",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65008000",
+      "longitude": "-73.29916000"
+   },
+   {
+      "name": "Saint-Ambroise",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.55009000",
+      "longitude": "-71.33238000"
+   },
+   {
+      "name": "Saint-André-Avellin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.71680000",
+      "longitude": "-75.06599000"
+   },
+   {
+      "name": "Saint-Anselme",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.62922000",
+      "longitude": "-70.97340000"
+   },
+   {
+      "name": "Saint-Antoine-de-Tilly",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.66346000",
+      "longitude": "-71.57335000"
+   },
+   {
+      "name": "Saint-Augustin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "51.22602000",
+      "longitude": "-58.65017000"
+   },
+   {
+      "name": "Saint-Augustin-de-Desmaures",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.74064000",
+      "longitude": "-71.45131000"
+   },
+   {
+      "name": "Saint-Barnabé-Sud",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.72977000",
+      "longitude": "-72.92244000"
+   },
+   {
+      "name": "Saint-Basile-le-Grand",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53338000",
+      "longitude": "-73.28246000"
+   },
+   {
+      "name": "Saint-Boniface",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.50011000",
+      "longitude": "-75.98264000"
+   },
+   {
+      "name": "Saint-Bruno",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.46679000",
+      "longitude": "-71.64910000"
+   },
+   {
+      "name": "Saint-Bruno-de-Guigues",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.46685000",
+      "longitude": "-79.43296000"
+   },
+   {
+      "name": "Saint-Bruno-de-Montarville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53341000",
+      "longitude": "-73.34916000"
+   },
+   {
+      "name": "Saint-Canut",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.71502000",
+      "longitude": "-74.08376000"
+   },
+   {
+      "name": "Saint-Charles",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.70288000",
+      "longitude": "-73.55417000"
+   },
+   {
+      "name": "Saint-Constant",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.36678000",
+      "longitude": "-73.56588000"
+   },
+   {
+      "name": "Saint-Cyrille-de-Wendover",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.93336000",
+      "longitude": "-72.43241000"
+   },
+   {
+      "name": "Saint-Césaire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.41678000",
+      "longitude": "-72.99914000"
+   },
+   {
+      "name": "Saint-Côme-Linière",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.06677000",
+      "longitude": "-70.51573000"
+   },
+   {
+      "name": "Saint-Damase",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53341000",
+      "longitude": "-72.99914000"
+   },
+   {
+      "name": "Saint-Denis-sur-Richelieu",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.78338000",
+      "longitude": "-73.14915000"
+   },
+   {
+      "name": "Saint-Donat-de-Montcalm",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.31868000",
+      "longitude": "-74.22171000"
+   },
+   {
+      "name": "Saint-Elzéar",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.60338000",
+      "longitude": "-73.72698000"
+   },
+   {
+      "name": "Saint-Eustache",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56500000",
+      "longitude": "-73.90554000"
+   },
+   {
+      "name": "Saint-Félicien",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.65007000",
+      "longitude": "-72.44906000"
+   },
+   {
+      "name": "Saint-Félix-de-Valois",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.16977000",
+      "longitude": "-73.42525000"
+   },
+   {
+      "name": "Saint-Gabriel",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.30007000",
+      "longitude": "-73.38245000"
+   },
+   {
+      "name": "Saint-Georges",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.11353000",
+      "longitude": "-70.66526000"
+   },
+   {
+      "name": "Saint-Germain-de-Grantham",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.83337000",
+      "longitude": "-72.56582000"
+   },
+   {
+      "name": "Saint-Gédéon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.50009000",
+      "longitude": "-71.76581000"
+   },
+   {
+      "name": "Saint-Henri",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.69314000",
+      "longitude": "-71.06927000"
+   },
+   {
+      "name": "Saint-Hippolyte",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.93338000",
+      "longitude": "-74.01590000"
+   },
+   {
+      "name": "Saint-Honoré",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.53338000",
+      "longitude": "-71.08236000"
+   },
+   {
+      "name": "Saint-Hyacinthe",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.63076000",
+      "longitude": "-72.95699000"
+   },
+   {
+      "name": "Saint-Isidore",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.43345000",
+      "longitude": "-79.29965000"
+   },
+   {
+      "name": "Saint-Jacques-le-Mineur",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.28338000",
+      "longitude": "-73.41587000"
+   },
+   {
+      "name": "Saint-Jean-Baptiste",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.38060000",
+      "longitude": "-74.01210000"
+   },
+   {
+      "name": "Saint-Jean-sur-Richelieu",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.30713000",
+      "longitude": "-73.26259000"
+   },
+   {
+      "name": "Saint-Joseph",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.95817000",
+      "longitude": "-73.22025000"
+   },
+   {
+      "name": "Saint-Joseph-de-Beauce",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.30000000",
+      "longitude": "-70.86667000"
+   },
+   {
+      "name": "Saint-Joseph-de-Coleraine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.96677000",
+      "longitude": "-71.36577000"
+   },
+   {
+      "name": "Saint-Joseph-du-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53338000",
+      "longitude": "-73.99920000"
+   },
+   {
+      "name": "Saint-Jérôme",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.78036000",
+      "longitude": "-74.00365000"
+   },
+   {
+      "name": "Saint-Lambert-de-Lauzon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.58624000",
+      "longitude": "-71.20892000"
+   },
+   {
+      "name": "Saint-Laurent",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50008000",
+      "longitude": "-73.66585000"
+   },
+   {
+      "name": "Saint-Lazare",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40008000",
+      "longitude": "-74.13256000"
+   },
+   {
+      "name": "Saint-Liboire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65068000",
+      "longitude": "-72.76348000"
+   },
+   {
+      "name": "Saint-Lin-Laurentides",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.85008000",
+      "longitude": "-73.76588000"
+   },
+   {
+      "name": "Saint-Léonard",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.58773000",
+      "longitude": "-73.59501000"
+   },
+   {
+      "name": "Saint-Léonard-d'Aston",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.10006000",
+      "longitude": "-72.36580000"
+   },
+   {
+      "name": "Saint-Marc-des-Carrières",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.68335000",
+      "longitude": "-72.04910000"
+   },
+   {
+      "name": "Saint-Mathieu",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.31678000",
+      "longitude": "-73.51587000"
+   },
+   {
+      "name": "Saint-Michel",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56758000",
+      "longitude": "-73.62168000"
+   },
+   {
+      "name": "Saint-Michel-des-Saints",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.67702000",
+      "longitude": "-73.91881000"
+   },
+   {
+      "name": "Saint-Nazaire",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.58944000",
+      "longitude": "-71.55247000"
+   },
+   {
+      "name": "Saint-Norbert",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.16949000",
+      "longitude": "-73.31494000"
+   },
+   {
+      "name": "Saint-Pacôme",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.40457000",
+      "longitude": "-69.95025000"
+   },
+   {
+      "name": "Saint-Pascal",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.51813000",
+      "longitude": "-69.80301000"
+   },
+   {
+      "name": "Saint-Philippe-de-La Prairie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.35723000",
+      "longitude": "-73.47706000"
+   },
+   {
+      "name": "Saint-Pie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50277000",
+      "longitude": "-72.90890000"
+   },
+   {
+      "name": "Saint-Pierre-les-Becquets",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.50005000",
+      "longitude": "-72.19910000"
+   },
+   {
+      "name": "Saint-Prime",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.58339000",
+      "longitude": "-72.33244000"
+   },
+   {
+      "name": "Saint-Raphaël",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.25011000",
+      "longitude": "-76.01605000"
+   },
+   {
+      "name": "Saint-Raymond",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.46698000",
+      "longitude": "-73.60948000"
+   },
+   {
+      "name": "Saint-Rémi",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.26678000",
+      "longitude": "-73.61588000"
+   },
+   {
+      "name": "Saint-Rémi-de-Tingwick",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.86677000",
+      "longitude": "-71.81581000"
+   },
+   {
+      "name": "Saint-Sauveur",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.88686000",
+      "longitude": "-74.17943000"
+   },
+   {
+      "name": "Saint-Sauveur-des-Monts",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.90008000",
+      "longitude": "-74.16591000"
+   },
+   {
+      "name": "Saint-Siméon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.84431000",
+      "longitude": "-69.87837000"
+   },
+   {
+      "name": "Saint-Thomas",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.01677000",
+      "longitude": "-73.34915000"
+   },
+   {
+      "name": "Saint-Tite",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.73336000",
+      "longitude": "-72.56581000"
+   },
+   {
+      "name": "Saint-Victor",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.61118000",
+      "longitude": "-73.51527000"
+   },
+   {
+      "name": "Saint-Zotique",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.25009000",
+      "longitude": "-74.24924000"
+   },
+   {
+      "name": "Saint-Édouard",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.23338000",
+      "longitude": "-73.51588000"
+   },
+   {
+      "name": "Saint-Éphrem-de-Beauce",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.06677000",
+      "longitude": "-70.94905000"
+   },
+   {
+      "name": "Sainte Catherine de la Jacques Cartier",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.85244000",
+      "longitude": "-71.62056000"
+   },
+   {
+      "name": "Sainte-Adèle",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.95008000",
+      "longitude": "-74.13251000"
+   },
+   {
+      "name": "Sainte-Agathe-des-Monts",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.05009000",
+      "longitude": "-74.28252000"
+   },
+   {
+      "name": "Sainte-Anne-de-Bellevue",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40618000",
+      "longitude": "-73.94560000"
+   },
+   {
+      "name": "Sainte-Anne-des-Monts",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.12402000",
+      "longitude": "-66.49243000"
+   },
+   {
+      "name": "Sainte-Anne-des-Plaines",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.76468000",
+      "longitude": "-73.81156000"
+   },
+   {
+      "name": "Sainte-Béatrix",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.20007000",
+      "longitude": "-73.61587000"
+   },
+   {
+      "name": "Sainte-Catherine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40008000",
+      "longitude": "-73.58248000"
+   },
+   {
+      "name": "Sainte-Croix",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.13368000",
+      "longitude": "-72.80083000"
+   },
+   {
+      "name": "Sainte-Julie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.58338000",
+      "longitude": "-73.33246000"
+   },
+   {
+      "name": "Sainte-Julienne",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.96677000",
+      "longitude": "-73.71587000"
+   },
+   {
+      "name": "Sainte-Madeleine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.60008000",
+      "longitude": "-73.09914000"
+   },
+   {
+      "name": "Sainte-Marie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.43401000",
+      "longitude": "-71.01168000"
+   },
+   {
+      "name": "Sainte-Marthe-sur-le-Lac",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.53338000",
+      "longitude": "-73.93250000"
+   },
+   {
+      "name": "Sainte-Martine",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.25008000",
+      "longitude": "-73.79919000"
+   },
+   {
+      "name": "Sainte-Sophie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.81678000",
+      "longitude": "-73.89919000"
+   },
+   {
+      "name": "Sainte-Thècle",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.81676000",
+      "longitude": "-72.49911000"
+   },
+   {
+      "name": "Sainte-Thérèse",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.63922000",
+      "longitude": "-73.82757000"
+   },
+   {
+      "name": "Sainte-Élisabeth",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.09502000",
+      "longitude": "-73.35176000"
+   },
+   {
+      "name": "Salaberry-de-Valleyfield",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.25008000",
+      "longitude": "-74.13253000"
+   },
+   {
+      "name": "Salluit",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "62.20411000",
+      "longitude": "-75.64344000"
+   },
+   {
+      "name": "Senneterre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.39302000",
+      "longitude": "-77.23951000"
+   },
+   {
+      "name": "Sept-Îles",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "50.20011000",
+      "longitude": "-66.38208000"
+   },
+   {
+      "name": "Shannon",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.88026000",
+      "longitude": "-71.51464000"
+   },
+   {
+      "name": "Shawinigan",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.56675000",
+      "longitude": "-72.74913000"
+   },
+   {
+      "name": "Shawville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.60011000",
+      "longitude": "-76.48270000"
+   },
+   {
+      "name": "Sherbrooke",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40008000",
+      "longitude": "-71.89908000"
+   },
+   {
+      "name": "Sorel-Tracy",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.04178000",
+      "longitude": "-73.11358000"
+   },
+   {
+      "name": "St-Jean-Port-Joli",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.21418000",
+      "longitude": "-70.26969000"
+   },
+   {
+      "name": "Sutton",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.10008000",
+      "longitude": "-72.61582000"
+   },
+   {
+      "name": "Terrasse-des-Pins",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.86449000",
+      "longitude": "-74.06627000"
+   },
+   {
+      "name": "Terrebonne",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.70004000",
+      "longitude": "-73.64732000"
+   },
+   {
+      "name": "Thetford-Mines",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.09371000",
+      "longitude": "-71.30539000"
+   },
+   {
+      "name": "Thurso",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.60010000",
+      "longitude": "-75.24931000"
+   },
+   {
+      "name": "Trois-Rivières",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.34515000",
+      "longitude": "-72.54770000"
+   },
+   {
+      "name": "Témiscaming",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.72122000",
+      "longitude": "-79.09712000"
+   },
+   {
+      "name": "Val-David",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.03338000",
+      "longitude": "-74.21592000"
+   },
+   {
+      "name": "Val-Morin",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.00008000",
+      "longitude": "-74.18251000"
+   },
+   {
+      "name": "Val-d'Or",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "48.09740000",
+      "longitude": "-77.79737000"
+   },
+   {
+      "name": "Val-des-Monts",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.65010000",
+      "longitude": "-75.66604000"
+   },
+   {
+      "name": "Valcourt",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.50008000",
+      "longitude": "-72.31581000"
+   },
+   {
+      "name": "Vallée-Jonction",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.37441000",
+      "longitude": "-70.91881000"
+   },
+   {
+      "name": "Varennes",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.68338000",
+      "longitude": "-73.43246000"
+   },
+   {
+      "name": "Vaudreuil-Dorion",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.40008000",
+      "longitude": "-74.03251000"
+   },
+   {
+      "name": "Venise-en-Québec",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.08338000",
+      "longitude": "-73.13245000"
+   },
+   {
+      "name": "Verchères",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.78338000",
+      "longitude": "-73.34916000"
+   },
+   {
+      "name": "Victoriaville",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.05007000",
+      "longitude": "-71.96579000"
+   },
+   {
+      "name": "Ville-Marie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.33345000",
+      "longitude": "-79.43297000"
+   },
+   {
+      "name": "Wakefield",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.66680000",
+      "longitude": "-75.83265000"
+   },
+   {
+      "name": "Warwick",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.95007000",
+      "longitude": "-71.98240000"
+   },
+   {
+      "name": "Waskaganish",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "51.48333000",
+      "longitude": "-78.75000000"
+   },
+   {
+      "name": "Waswanipi",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "49.73346000",
+      "longitude": "-76.16604000"
+   },
+   {
+      "name": "Waterloo",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.35008000",
+      "longitude": "-72.51582000"
+   },
+   {
+      "name": "Weedon Centre",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.70802000",
+      "longitude": "-71.45986000"
+   },
+   {
+      "name": "Westmount",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.48341000",
+      "longitude": "-73.59918000"
+   },
+   {
+      "name": "Weymontachie",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "47.89940000",
+      "longitude": "-73.77720000"
+   },
+   {
+      "name": "Windsor",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.56678000",
+      "longitude": "-71.99909000"
+   },
+   {
+      "name": "Yamachiche",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "46.26676000",
+      "longitude": "-72.83243000"
+   },
+   {
+      "name": "le Plateau",
+      "countryCode": "CA",
+      "stateCode": "QC",
+      "latitude": "45.43514000",
+      "longitude": "-75.78030000"
+   }
+]

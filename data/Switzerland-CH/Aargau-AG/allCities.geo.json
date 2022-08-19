@@ -1,0 +1,828 @@
+[
+   {
+      "name": "Aarau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.39254000",
+      "longitude": "8.04422000"
+   },
+   {
+      "name": "Aarburg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32067000",
+      "longitude": "7.89986000"
+   },
+   {
+      "name": "Aristau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.28692000",
+      "longitude": "8.36356000"
+   },
+   {
+      "name": "Auw",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.21082000",
+      "longitude": "8.36583000"
+   },
+   {
+      "name": "Bad Zurzach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.58764000",
+      "longitude": "8.29365000"
+   },
+   {
+      "name": "Baden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.47333000",
+      "longitude": "8.30592000"
+   },
+   {
+      "name": "Berikon",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35155000",
+      "longitude": "8.37232000"
+   },
+   {
+      "name": "Besenbüren",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.31439000",
+      "longitude": "8.34586000"
+   },
+   {
+      "name": "Bezirk Aarau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.37706000",
+      "longitude": "8.05235000"
+   },
+   {
+      "name": "Bezirk Baden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.45660000",
+      "longitude": "8.30059000"
+   },
+   {
+      "name": "Bezirk Bremgarten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.34927000",
+      "longitude": "8.33343000"
+   },
+   {
+      "name": "Bezirk Brugg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.47776000",
+      "longitude": "8.17798000"
+   },
+   {
+      "name": "Bezirk Kulm",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.28757000",
+      "longitude": "8.13302000"
+   },
+   {
+      "name": "Bezirk Laufenburg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.51844000",
+      "longitude": "8.03878000"
+   },
+   {
+      "name": "Bezirk Lenzburg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.37184000",
+      "longitude": "8.18910000"
+   },
+   {
+      "name": "Bezirk Muri",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.25233000",
+      "longitude": "8.35362000"
+   },
+   {
+      "name": "Bezirk Rheinfelden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.54048000",
+      "longitude": "7.83331000"
+   },
+   {
+      "name": "Bezirk Zofingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.28864000",
+      "longitude": "7.95697000"
+   },
+   {
+      "name": "Bezirk Zurzach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.56182000",
+      "longitude": "8.28020000"
+   },
+   {
+      "name": "Birmenstorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.46152000",
+      "longitude": "8.24816000"
+   },
+   {
+      "name": "Birr",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.43432000",
+      "longitude": "8.20891000"
+   },
+   {
+      "name": "Boniswil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.31725000",
+      "longitude": "8.18963000"
+   },
+   {
+      "name": "Bremgarten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35109000",
+      "longitude": "8.34214000"
+   },
+   {
+      "name": "Brittnau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.25954000",
+      "longitude": "7.94689000"
+   },
+   {
+      "name": "Brugg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.48096000",
+      "longitude": "8.20869000"
+   },
+   {
+      "name": "Buchs",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.39358000",
+      "longitude": "8.08233000"
+   },
+   {
+      "name": "Buttwil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.26828000",
+      "longitude": "8.31064000"
+   },
+   {
+      "name": "Densbüren",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.45260000",
+      "longitude": "8.05330000"
+   },
+   {
+      "name": "Dottikon",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.38437000",
+      "longitude": "8.23981000"
+   },
+   {
+      "name": "Dürrenäsch",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32094000",
+      "longitude": "8.15874000"
+   },
+   {
+      "name": "Egliswil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.34922000",
+      "longitude": "8.18553000"
+   },
+   {
+      "name": "Ehrendingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.50250000",
+      "longitude": "8.34729000"
+   },
+   {
+      "name": "Eiken",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.53361000",
+      "longitude": "7.98801000"
+   },
+   {
+      "name": "Endingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.53742000",
+      "longitude": "8.29036000"
+   },
+   {
+      "name": "Frick",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.51169000",
+      "longitude": "8.02471000"
+   },
+   {
+      "name": "Gebenstorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.48136000",
+      "longitude": "8.23949000"
+   },
+   {
+      "name": "Gipf-Oberfrick",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.49875000",
+      "longitude": "8.00497000"
+   },
+   {
+      "name": "Gontenschwil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.27166000",
+      "longitude": "8.14396000"
+   },
+   {
+      "name": "Gränichen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35930000",
+      "longitude": "8.10243000"
+   },
+   {
+      "name": "Hausen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.46396000",
+      "longitude": "8.20988000"
+   },
+   {
+      "name": "Hägglingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.38851000",
+      "longitude": "8.25285000"
+   },
+   {
+      "name": "Jonen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.29750000",
+      "longitude": "8.39282000"
+   },
+   {
+      "name": "Kaiseraugst",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.53966000",
+      "longitude": "7.72605000"
+   },
+   {
+      "name": "Kaisten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.54160000",
+      "longitude": "8.04337000"
+   },
+   {
+      "name": "Killwangen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.43223000",
+      "longitude": "8.35097000"
+   },
+   {
+      "name": "Klingnau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.58361000",
+      "longitude": "8.24880000"
+   },
+   {
+      "name": "Koblenz",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.60972000",
+      "longitude": "8.23750000"
+   },
+   {
+      "name": "Kölliken",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.33337000",
+      "longitude": "8.02237000"
+   },
+   {
+      "name": "Künten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.38887000",
+      "longitude": "8.33045000"
+   },
+   {
+      "name": "Küttigen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.41484000",
+      "longitude": "8.04979000"
+   },
+   {
+      "name": "Laufenburg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.55985000",
+      "longitude": "8.06225000"
+   },
+   {
+      "name": "Lauffohr (Brugg)",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.50154000",
+      "longitude": "8.23122000"
+   },
+   {
+      "name": "Leibstadt",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.58790000",
+      "longitude": "8.17611000"
+   },
+   {
+      "name": "Lenzburg",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.38853000",
+      "longitude": "8.17503000"
+   },
+   {
+      "name": "Magden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.52868000",
+      "longitude": "7.81128000"
+   },
+   {
+      "name": "Meisterschwanden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.29489000",
+      "longitude": "8.22867000"
+   },
+   {
+      "name": "Mellingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.41903000",
+      "longitude": "8.27331000"
+   },
+   {
+      "name": "Menziken",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.23965000",
+      "longitude": "8.18996000"
+   },
+   {
+      "name": "Merenschwand",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.25944000",
+      "longitude": "8.37633000"
+   },
+   {
+      "name": "Muhen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.33578000",
+      "longitude": "8.05536000"
+   },
+   {
+      "name": "Mumpf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.54563000",
+      "longitude": "7.92123000"
+   },
+   {
+      "name": "Murgenthal",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.27145000",
+      "longitude": "7.83935000"
+   },
+   {
+      "name": "Muri",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.27428000",
+      "longitude": "8.33854000"
+   },
+   {
+      "name": "Möhlin",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.55915000",
+      "longitude": "7.84329000"
+   },
+   {
+      "name": "Neuenhof",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.44985000",
+      "longitude": "8.32682000"
+   },
+   {
+      "name": "Niederlenz",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.40079000",
+      "longitude": "8.17640000"
+   },
+   {
+      "name": "Niederrohrdorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.42409000",
+      "longitude": "8.30404000"
+   },
+   {
+      "name": "Oberentfelden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35639000",
+      "longitude": "8.04594000"
+   },
+   {
+      "name": "Oberlunkhofen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.31244000",
+      "longitude": "8.39242000"
+   },
+   {
+      "name": "Oberrohrdorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.41833000",
+      "longitude": "8.31983000"
+   },
+   {
+      "name": "Oberrüti",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.16673000",
+      "longitude": "8.39441000"
+   },
+   {
+      "name": "Obersiggenthal",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.48750000",
+      "longitude": "8.29652000"
+   },
+   {
+      "name": "Oftringen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.31382000",
+      "longitude": "7.92533000"
+   },
+   {
+      "name": "Othmarsingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.40125000",
+      "longitude": "8.21383000"
+   },
+   {
+      "name": "Reinach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.25732000",
+      "longitude": "8.18091000"
+   },
+   {
+      "name": "Rheinfelden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.55437000",
+      "longitude": "7.79403000"
+   },
+   {
+      "name": "Rothrist",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.30508000",
+      "longitude": "7.89196000"
+   },
+   {
+      "name": "Rudolfstetten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.37101000",
+      "longitude": "8.38083000"
+   },
+   {
+      "name": "Rupperswil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.40131000",
+      "longitude": "8.12877000"
+   },
+   {
+      "name": "Safenwil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32163000",
+      "longitude": "7.98254000"
+   },
+   {
+      "name": "Sarmenstorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.31109000",
+      "longitude": "8.24950000"
+   },
+   {
+      "name": "Schafisheim",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.37664000",
+      "longitude": "8.14263000"
+   },
+   {
+      "name": "Schinznach Bad",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.44992000",
+      "longitude": "8.16833000"
+   },
+   {
+      "name": "Schinznach Dorf",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.44650000",
+      "longitude": "8.14089000"
+   },
+   {
+      "name": "Schwaderloch",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.58541000",
+      "longitude": "8.14455000"
+   },
+   {
+      "name": "Schöftland",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.30590000",
+      "longitude": "8.05119000"
+   },
+   {
+      "name": "Seengen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32503000",
+      "longitude": "8.20724000"
+   },
+   {
+      "name": "Seon",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.34848000",
+      "longitude": "8.16072000"
+   },
+   {
+      "name": "Sins",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.19296000",
+      "longitude": "8.39384000"
+   },
+   {
+      "name": "Spreitenbach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.42285000",
+      "longitude": "8.36792000"
+   },
+   {
+      "name": "Staffelbach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.28395000",
+      "longitude": "8.04208000"
+   },
+   {
+      "name": "Staufen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.38197000",
+      "longitude": "8.16681000"
+   },
+   {
+      "name": "Stein",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.54403000",
+      "longitude": "7.95256000"
+   },
+   {
+      "name": "Strengelbach",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.27917000",
+      "longitude": "7.92895000"
+   },
+   {
+      "name": "Suhr",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.37172000",
+      "longitude": "8.07967000"
+   },
+   {
+      "name": "Sulz",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.53602000",
+      "longitude": "8.09628000"
+   },
+   {
+      "name": "Tegerfelden",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.55809000",
+      "longitude": "8.28914000"
+   },
+   {
+      "name": "Teufenthal",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32896000",
+      "longitude": "8.11777000"
+   },
+   {
+      "name": "Turgi",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.49201000",
+      "longitude": "8.25412000"
+   },
+   {
+      "name": "Uerkheim",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.30353000",
+      "longitude": "8.02320000"
+   },
+   {
+      "name": "Unterkulm",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.30998000",
+      "longitude": "8.11371000"
+   },
+   {
+      "name": "Unterlunkhofen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.32120000",
+      "longitude": "8.38102000"
+   },
+   {
+      "name": "Untersiggenthal",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.50213000",
+      "longitude": "8.25554000"
+   },
+   {
+      "name": "Veltheim",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.43796000",
+      "longitude": "8.14722000"
+   },
+   {
+      "name": "Villigen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.52682000",
+      "longitude": "8.21486000"
+   },
+   {
+      "name": "Villmergen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35009000",
+      "longitude": "8.24762000"
+   },
+   {
+      "name": "Villnachern",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.47098000",
+      "longitude": "8.15975000"
+   },
+   {
+      "name": "Vordemwald",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.27585000",
+      "longitude": "7.90114000"
+   },
+   {
+      "name": "Waltenschwil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.33339000",
+      "longitude": "8.29791000"
+   },
+   {
+      "name": "Wegenstetten",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.49797000",
+      "longitude": "7.93141000"
+   },
+   {
+      "name": "Wettingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.47049000",
+      "longitude": "8.31636000"
+   },
+   {
+      "name": "Windisch",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.47899000",
+      "longitude": "8.21842000"
+   },
+   {
+      "name": "Wittnau",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.48139000",
+      "longitude": "7.97577000"
+   },
+   {
+      "name": "Wohlen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.35066000",
+      "longitude": "8.27517000"
+   },
+   {
+      "name": "Wölflinswil",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.46070000",
+      "longitude": "7.99835000"
+   },
+   {
+      "name": "Würenlingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.53356000",
+      "longitude": "8.25666000"
+   },
+   {
+      "name": "Würenlos",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.44205000",
+      "longitude": "8.36261000"
+   },
+   {
+      "name": "Zofingen",
+      "countryCode": "CH",
+      "stateCode": "AG",
+      "latitude": "47.28779000",
+      "longitude": "7.94586000"
+   }
+]

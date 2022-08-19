@@ -1,0 +1,569 @@
+[
+   {
+      "name": "Abashiri",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.02127000",
+      "longitude": "144.26971000"
+   },
+   {
+      "name": "Abashiri Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.98565000",
+      "longitude": "144.21051000"
+   },
+   {
+      "name": "Akabira",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.55139000",
+      "longitude": "142.05306000"
+   },
+   {
+      "name": "Akabira-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.56790000",
+      "longitude": "142.06281000"
+   },
+   {
+      "name": "Asahikawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.77063000",
+      "longitude": "142.36489000"
+   },
+   {
+      "name": "Ashibetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.50972000",
+      "longitude": "142.18556000"
+   },
+   {
+      "name": "Ashibetsu-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.42542000",
+      "longitude": "142.20161000"
+   },
+   {
+      "name": "Bibai",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.32472000",
+      "longitude": "141.85861000"
+   },
+   {
+      "name": "Chitose",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.81944000",
+      "longitude": "141.65222000"
+   },
+   {
+      "name": "Chitose Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.80048000",
+      "longitude": "141.50951000"
+   },
+   {
+      "name": "Date",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.46806000",
+      "longitude": "140.86806000"
+   },
+   {
+      "name": "Date-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.49337000",
+      "longitude": "140.89142000"
+   },
+   {
+      "name": "Ebetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.10806000",
+      "longitude": "141.55056000"
+   },
+   {
+      "name": "Eniwa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.88333000",
+      "longitude": "141.56667000"
+   },
+   {
+      "name": "Fukagawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.70806000",
+      "longitude": "142.03917000"
+   },
+   {
+      "name": "Fukagawa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.79334000",
+      "longitude": "142.09923000"
+   },
+   {
+      "name": "Furano-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.28182000",
+      "longitude": "142.47349000"
+   },
+   {
+      "name": "Hakodate",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.77583000",
+      "longitude": "140.73667000"
+   },
+   {
+      "name": "Hakodate Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.83754000",
+      "longitude": "140.92597000"
+   },
+   {
+      "name": "Hokuto",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.81626000",
+      "longitude": "140.63472000"
+   },
+   {
+      "name": "Hokuto-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.86411000",
+      "longitude": "140.55424000"
+   },
+   {
+      "name": "Honchō",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.89440000",
+      "longitude": "140.69386000"
+   },
+   {
+      "name": "Ishikari",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.23972000",
+      "longitude": "141.35389000"
+   },
+   {
+      "name": "Ishikari-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.46596000",
+      "longitude": "141.44298000"
+   },
+   {
+      "name": "Iwamizawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.20028000",
+      "longitude": "141.75972000"
+   },
+   {
+      "name": "Iwamizawa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.18086000",
+      "longitude": "141.79744000"
+   },
+   {
+      "name": "Iwanai",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.97444000",
+      "longitude": "140.50889000"
+   },
+   {
+      "name": "Kamiiso",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "41.82013000",
+      "longitude": "140.64482000"
+   },
+   {
+      "name": "Kamikawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.84000000",
+      "longitude": "142.77111000"
+   },
+   {
+      "name": "Kitahiroshima",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.97583000",
+      "longitude": "141.56722000"
+   },
+   {
+      "name": "Kitahiroshima-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.98581000",
+      "longitude": "141.55678000"
+   },
+   {
+      "name": "Kitami",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.80306000",
+      "longitude": "143.89083000"
+   },
+   {
+      "name": "Ktiami Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.85160000",
+      "longitude": "143.71520000"
+   },
+   {
+      "name": "Kushiro",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.97500000",
+      "longitude": "144.37472000"
+   },
+   {
+      "name": "Kushiro Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.15910000",
+      "longitude": "144.06647000"
+   },
+   {
+      "name": "Makubetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.37139000",
+      "longitude": "141.82111000"
+   },
+   {
+      "name": "Mikasa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.25581000",
+      "longitude": "141.88818000"
+   },
+   {
+      "name": "Mikasa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.23976000",
+      "longitude": "141.99273000"
+   },
+   {
+      "name": "Mombetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.35250000",
+      "longitude": "143.35250000"
+   },
+   {
+      "name": "Monbetsu Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.20323000",
+      "longitude": "143.29293000"
+   },
+   {
+      "name": "Motomachi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.82634000",
+      "longitude": "144.09638000"
+   },
+   {
+      "name": "Muroran",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.31722000",
+      "longitude": "140.98806000"
+   },
+   {
+      "name": "Muroran-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.36659000",
+      "longitude": "140.98845000"
+   },
+   {
+      "name": "Nayoro",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.35056000",
+      "longitude": "142.45778000"
+   },
+   {
+      "name": "Nayoro Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.33951000",
+      "longitude": "142.45932000"
+   },
+   {
+      "name": "Nemuro",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.32361000",
+      "longitude": "145.57500000"
+   },
+   {
+      "name": "Nemuro-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.33333000",
+      "longitude": "145.61667000"
+   },
+   {
+      "name": "Niseko Town",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.77871000",
+      "longitude": "140.66903000"
+   },
+   {
+      "name": "Noboribetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.45215000",
+      "longitude": "141.17914000"
+   },
+   {
+      "name": "Noboribetsu-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.46565000",
+      "longitude": "141.07578000"
+   },
+   {
+      "name": "Obihiro",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.91722000",
+      "longitude": "143.20444000"
+   },
+   {
+      "name": "Obihiro Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.75736000",
+      "longitude": "143.03061000"
+   },
+   {
+      "name": "Otaru",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.18944000",
+      "longitude": "141.00222000"
+   },
+   {
+      "name": "Otaru-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.15628000",
+      "longitude": "141.02572000"
+   },
+   {
+      "name": "Otofuke",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.99167000",
+      "longitude": "143.20028000"
+   },
+   {
+      "name": "Rebun Gun",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.38263000",
+      "longitude": "141.02839000"
+   },
+   {
+      "name": "Rishiri Gun",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.18244000",
+      "longitude": "141.22859000"
+   },
+   {
+      "name": "Rishiri Town",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.15928000",
+      "longitude": "141.19629000"
+   },
+   {
+      "name": "Rumoi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.93444000",
+      "longitude": "141.64278000"
+   },
+   {
+      "name": "Rumoi-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.88560000",
+      "longitude": "141.75567000"
+   },
+   {
+      "name": "Sapporo",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.06667000",
+      "longitude": "141.35000000"
+   },
+   {
+      "name": "Sapporo-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.06667000",
+      "longitude": "141.35000000"
+   },
+   {
+      "name": "Shibetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.65899000",
+      "longitude": "145.13197000"
+   },
+   {
+      "name": "Shibetsu Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "44.11522000",
+      "longitude": "142.54054000"
+   },
+   {
+      "name": "Shimo-furano",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.35000000",
+      "longitude": "142.38333000"
+   },
+   {
+      "name": "Shiraoi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.55000000",
+      "longitude": "141.35000000"
+   },
+   {
+      "name": "Shizunai-furukawachō",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.33389000",
+      "longitude": "142.36694000"
+   },
+   {
+      "name": "Sunagawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.48639000",
+      "longitude": "141.90556000"
+   },
+   {
+      "name": "Sunagawa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.50328000",
+      "longitude": "141.93274000"
+   },
+   {
+      "name": "Takikawa",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.55278000",
+      "longitude": "141.90639000"
+   },
+   {
+      "name": "Takikawa-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.60837000",
+      "longitude": "141.94988000"
+   },
+   {
+      "name": "Tomakomai",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.63694000",
+      "longitude": "141.60333000"
+   },
+   {
+      "name": "Tomakomai Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "42.68226000",
+      "longitude": "141.57948000"
+   },
+   {
+      "name": "Tōbetsu",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.21694000",
+      "longitude": "141.51694000"
+   },
+   {
+      "name": "Utashinai",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.51667000",
+      "longitude": "142.05000000"
+   },
+   {
+      "name": "Utashinai-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.49366000",
+      "longitude": "142.03878000"
+   },
+   {
+      "name": "Wakkanai",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.40944000",
+      "longitude": "141.67389000"
+   },
+   {
+      "name": "Wakkanai Shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "45.33243000",
+      "longitude": "141.82831000"
+   },
+   {
+      "name": "Yoichi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.20389000",
+      "longitude": "140.77028000"
+   },
+   {
+      "name": "Yūbari",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.03778000",
+      "longitude": "141.95778000"
+   },
+   {
+      "name": "Yūbari-shi",
+      "countryCode": "JP",
+      "stateCode": "01",
+      "latitude": "43.04336000",
+      "longitude": "142.11065000"
+   }
+]

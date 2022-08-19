@@ -1,0 +1,681 @@
+[
+   {
+      "name": "Adlershof",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43548000",
+      "longitude": "13.54825000"
+   },
+   {
+      "name": "Alt-Hohenschönhausen",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.54608000",
+      "longitude": "13.50130000"
+   },
+   {
+      "name": "Alt-Treptow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48863000",
+      "longitude": "13.45860000"
+   },
+   {
+      "name": "Altglienicke",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.41116000",
+      "longitude": "13.53550000"
+   },
+   {
+      "name": "Baumschulenweg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.46583000",
+      "longitude": "13.48523000"
+   },
+   {
+      "name": "Berlin",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.52437000",
+      "longitude": "13.41053000"
+   },
+   {
+      "name": "Berlin Köpenick",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.44254000",
+      "longitude": "13.58228000"
+   },
+   {
+      "name": "Berlin Treptow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.49376000",
+      "longitude": "13.44469000"
+   },
+   {
+      "name": "Biesdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.50906000",
+      "longitude": "13.55340000"
+   },
+   {
+      "name": "Blankenburg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.59293000",
+      "longitude": "13.45516000"
+   },
+   {
+      "name": "Blankenfelde",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.61863000",
+      "longitude": "13.39057000"
+   },
+   {
+      "name": "Bohnsdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.39434000",
+      "longitude": "13.57339000"
+   },
+   {
+      "name": "Britz",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.44293000",
+      "longitude": "13.43388000"
+   },
+   {
+      "name": "Buch",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.63470000",
+      "longitude": "13.49679000"
+   },
+   {
+      "name": "Buckow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43200000",
+      "longitude": "13.46018000"
+   },
+   {
+      "name": "Charlottenburg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51667000",
+      "longitude": "13.28333000"
+   },
+   {
+      "name": "Charlottenburg-Nord",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.53048000",
+      "longitude": "13.29371000"
+   },
+   {
+      "name": "Dahlem",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.45810000",
+      "longitude": "13.28702000"
+   },
+   {
+      "name": "Falkenberg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.56800000",
+      "longitude": "13.54597000"
+   },
+   {
+      "name": "Falkenhagener Feld",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.55191000",
+      "longitude": "13.16802000"
+   },
+   {
+      "name": "Fennpfuhl",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.52921000",
+      "longitude": "13.47267000"
+   },
+   {
+      "name": "Französisch Buchholz",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.60242000",
+      "longitude": "13.43019000"
+   },
+   {
+      "name": "Friedenau",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.47133000",
+      "longitude": "13.32813000"
+   },
+   {
+      "name": "Friedrichsfelde",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.50575000",
+      "longitude": "13.50812000"
+   },
+   {
+      "name": "Friedrichshagen",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.45052000",
+      "longitude": "13.62463000"
+   },
+   {
+      "name": "Friedrichshain",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51559000",
+      "longitude": "13.45482000"
+   },
+   {
+      "name": "Frohnau",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.63336000",
+      "longitude": "13.29024000"
+   },
+   {
+      "name": "Gatow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48324000",
+      "longitude": "13.18285000"
+   },
+   {
+      "name": "Gesundbrunnen",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.55035000",
+      "longitude": "13.39139000"
+   },
+   {
+      "name": "Gropiusstadt",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.42500000",
+      "longitude": "13.46667000"
+   },
+   {
+      "name": "Grunewald",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48338000",
+      "longitude": "13.26586000"
+   },
+   {
+      "name": "Grünau",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.41642000",
+      "longitude": "13.58039000"
+   },
+   {
+      "name": "Hakenfelde",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.55877000",
+      "longitude": "13.20831000"
+   },
+   {
+      "name": "Halensee",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.49005000",
+      "longitude": "13.29602000"
+   },
+   {
+      "name": "Hansaviertel",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51853000",
+      "longitude": "13.34178000"
+   },
+   {
+      "name": "Haselhorst",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.54409000",
+      "longitude": "13.23743000"
+   },
+   {
+      "name": "Heiligensee",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.61449000",
+      "longitude": "13.24501000"
+   },
+   {
+      "name": "Heinersdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.57173000",
+      "longitude": "13.43757000"
+   },
+   {
+      "name": "Hellersdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.53319000",
+      "longitude": "13.60880000"
+   },
+   {
+      "name": "Hermsdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.61421000",
+      "longitude": "13.30587000"
+   },
+   {
+      "name": "Johannisthal",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.44653000",
+      "longitude": "13.50660000"
+   },
+   {
+      "name": "Karlshorst",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48419000",
+      "longitude": "13.53185000"
+   },
+   {
+      "name": "Karow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.60904000",
+      "longitude": "13.48117000"
+   },
+   {
+      "name": "Kaulsdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51732000",
+      "longitude": "13.58871000"
+   },
+   {
+      "name": "Kladow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.45423000",
+      "longitude": "13.14445000"
+   },
+   {
+      "name": "Konradshöhe",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.58535000",
+      "longitude": "13.22758000"
+   },
+   {
+      "name": "Kreuzberg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.49973000",
+      "longitude": "13.40338000"
+   },
+   {
+      "name": "Köpenick",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.44550000",
+      "longitude": "13.57455000"
+   },
+   {
+      "name": "Lankwitz",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43623000",
+      "longitude": "13.34590000"
+   },
+   {
+      "name": "Lichtenberg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51395000",
+      "longitude": "13.49975000"
+   },
+   {
+      "name": "Lichtenrade",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.39844000",
+      "longitude": "13.40637000"
+   },
+   {
+      "name": "Lichterfelde",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43330000",
+      "longitude": "13.30762000"
+   },
+   {
+      "name": "Lübars",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.61591000",
+      "longitude": "13.35350000"
+   },
+   {
+      "name": "Mahlsdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.50935000",
+      "longitude": "13.61373000"
+   },
+   {
+      "name": "Mariendorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43780000",
+      "longitude": "13.38109000"
+   },
+   {
+      "name": "Marienfelde",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.41868000",
+      "longitude": "13.36723000"
+   },
+   {
+      "name": "Marzahn",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.54525000",
+      "longitude": "13.56983000"
+   },
+   {
+      "name": "Mitte",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.52003000",
+      "longitude": "13.40489000"
+   },
+   {
+      "name": "Moabit",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.52635000",
+      "longitude": "13.33903000"
+   },
+   {
+      "name": "Märkisches Viertel",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.59841000",
+      "longitude": "13.35766000"
+   },
+   {
+      "name": "Müggelheim",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.41137000",
+      "longitude": "13.66403000"
+   },
+   {
+      "name": "Neu-Hohenschönhausen",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.56681000",
+      "longitude": "13.51255000"
+   },
+   {
+      "name": "Neukölln",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.47719000",
+      "longitude": "13.43126000"
+   },
+   {
+      "name": "Niederschöneweide",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.45564000",
+      "longitude": "13.51554000"
+   },
+   {
+      "name": "Niederschönhausen",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.58483000",
+      "longitude": "13.40272000"
+   },
+   {
+      "name": "Nikolassee",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43440000",
+      "longitude": "13.20095000"
+   },
+   {
+      "name": "Oberschöneweide",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.46106000",
+      "longitude": "13.52108000"
+   },
+   {
+      "name": "Pankow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.56926000",
+      "longitude": "13.40186000"
+   },
+   {
+      "name": "Plänterwald",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48106000",
+      "longitude": "13.47276000"
+   },
+   {
+      "name": "Prenzlauer Berg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.53878000",
+      "longitude": "13.42443000"
+   },
+   {
+      "name": "Rahnsdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.44115000",
+      "longitude": "13.68708000"
+   },
+   {
+      "name": "Reinickendorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.56667000",
+      "longitude": "13.33333000"
+   },
+   {
+      "name": "Rosenthal",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.59976000",
+      "longitude": "13.37774000"
+   },
+   {
+      "name": "Rudow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.42407000",
+      "longitude": "13.48529000"
+   },
+   {
+      "name": "Rummelsburg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.50146000",
+      "longitude": "13.49340000"
+   },
+   {
+      "name": "Schmargendorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.47517000",
+      "longitude": "13.29071000"
+   },
+   {
+      "name": "Schmöckwitz",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.37513000",
+      "longitude": "13.64948000"
+   },
+   {
+      "name": "Schöneberg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.46667000",
+      "longitude": "13.35000000"
+   },
+   {
+      "name": "Siemensstadt",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.54053000",
+      "longitude": "13.26294000"
+   },
+   {
+      "name": "Spandau",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.55110000",
+      "longitude": "13.19921000"
+   },
+   {
+      "name": "Staaken",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.53661000",
+      "longitude": "13.15057000"
+   },
+   {
+      "name": "Stadtrandsiedlung Malchow",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.58295000",
+      "longitude": "13.47811000"
+   },
+   {
+      "name": "Steglitz",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.45606000",
+      "longitude": "13.33200000"
+   },
+   {
+      "name": "Tegel",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.57601000",
+      "longitude": "13.29389000"
+   },
+   {
+      "name": "Tempelhof",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.46667000",
+      "longitude": "13.40000000"
+   },
+   {
+      "name": "Tiergarten",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51667000",
+      "longitude": "13.36667000"
+   },
+   {
+      "name": "Waidmannslust",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.60691000",
+      "longitude": "13.31968000"
+   },
+   {
+      "name": "Wannsee",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.41915000",
+      "longitude": "13.15531000"
+   },
+   {
+      "name": "Wartenberg",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.57520000",
+      "longitude": "13.51559000"
+   },
+   {
+      "name": "Wedding",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.54734000",
+      "longitude": "13.35594000"
+   },
+   {
+      "name": "Weißensee",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.55632000",
+      "longitude": "13.46649000"
+   },
+   {
+      "name": "Westend",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.51708000",
+      "longitude": "13.27636000"
+   },
+   {
+      "name": "Wilhelmsruh",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.58710000",
+      "longitude": "13.36855000"
+   },
+   {
+      "name": "Wilhelmstadt",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.52462000",
+      "longitude": "13.17707000"
+   },
+   {
+      "name": "Wilmersdorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.48333000",
+      "longitude": "13.31667000"
+   },
+   {
+      "name": "Wittenau",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.59319000",
+      "longitude": "13.32127000"
+   },
+   {
+      "name": "Zehlendorf",
+      "countryCode": "DE",
+      "stateCode": "BE",
+      "latitude": "52.43333000",
+      "longitude": "13.25000000"
+   }
+]

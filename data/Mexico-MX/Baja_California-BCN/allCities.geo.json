@@ -1,0 +1,667 @@
+[
+   {
+      "name": "Alfonso Garzón [Granjas Familiares]",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.54667000",
+      "longitude": "-116.61722000"
+   },
+   {
+      "name": "Benito García (El Zorrillo)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.67111000",
+      "longitude": "-116.51139000"
+   },
+   {
+      "name": "Benito Juárez",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.56852000",
+      "longitude": "-114.99422000"
+   },
+   {
+      "name": "Buenos Aires",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.42278000",
+      "longitude": "-116.94111000"
+   },
+   {
+      "name": "Camalú",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.84222000",
+      "longitude": "-116.06328000"
+   },
+   {
+      "name": "Cereso del Hongo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.48417000",
+      "longitude": "-116.25056000"
+   },
+   {
+      "name": "Ciudad Coahuila (Kilómetro Cincuenta y Siete)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.19556000",
+      "longitude": "-115.00250000"
+   },
+   {
+      "name": "Ciudad Morelos",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.34389000",
+      "longitude": "-117.01056000"
+   },
+   {
+      "name": "Colinas del Sol",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.40306000",
+      "longitude": "-117.03056000"
+   },
+   {
+      "name": "Colonia Gómez Morín",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.88167000",
+      "longitude": "-116.54389000"
+   },
+   {
+      "name": "Colonia Lomas de San Ramón (Triquis)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.70167000",
+      "longitude": "-116.00278000"
+   },
+   {
+      "name": "Colonia Nueva Era",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.50667000",
+      "longitude": "-115.92250000"
+   },
+   {
+      "name": "Colonia Venustiano Carranza",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.23700000",
+      "longitude": "-115.16656000"
+   },
+   {
+      "name": "Delta",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.35497000",
+      "longitude": "-115.19617000"
+   },
+   {
+      "name": "Doctor Alberto Oviedo Mota",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.22756000",
+      "longitude": "-115.16792000"
+   },
+   {
+      "name": "Durango",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.24865000",
+      "longitude": "-115.25227000"
+   },
+   {
+      "name": "Ejido Doctor Alberto Oviedo Mota (El Indiviso)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.02444000",
+      "longitude": "-114.98361000"
+   },
+   {
+      "name": "Ejido General Leandro Valle",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.62167000",
+      "longitude": "-115.96583000"
+   },
+   {
+      "name": "Ejido Javier Rojo Gómez",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.49389000",
+      "longitude": "-116.82222000"
+   },
+   {
+      "name": "Ejido Jiquilpan",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.50131000",
+      "longitude": "-115.06382000"
+   },
+   {
+      "name": "Ejido Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.60794000",
+      "longitude": "-115.02076000"
+   },
+   {
+      "name": "Ejido Michoacán de Ocampo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.46512000",
+      "longitude": "-115.31003000"
+   },
+   {
+      "name": "Ejido Netzahualcóyotl",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.62444000",
+      "longitude": "-115.06222000"
+   },
+   {
+      "name": "Ejido Nuevo León",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.41103000",
+      "longitude": "-115.18827000"
+   },
+   {
+      "name": "Ejido Ojo de Agua",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.47556000",
+      "longitude": "-116.78917000"
+   },
+   {
+      "name": "Ejido Plan de Ayala",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.22023000",
+      "longitude": "-115.03158000"
+   },
+   {
+      "name": "Ejido Pátzcuaro",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.35139000",
+      "longitude": "-115.06583000"
+   },
+   {
+      "name": "Ejido Quintana Roo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.46844000",
+      "longitude": "-115.08250000"
+   },
+   {
+      "name": "Ejido Saltillo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.42430000",
+      "longitude": "-115.12480000"
+   },
+   {
+      "name": "Ejido Sinaloa",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.54734000",
+      "longitude": "-115.27041000"
+   },
+   {
+      "name": "Ejido Sonora",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.28749000",
+      "longitude": "-115.23134000"
+   },
+   {
+      "name": "Ejido Tabasco",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.56187000",
+      "longitude": "-114.92659000"
+   },
+   {
+      "name": "Ejido Toluca",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.43050000",
+      "longitude": "-115.08316000"
+   },
+   {
+      "name": "Ejido Vicente Guerrero",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.39593000",
+      "longitude": "-115.14026000"
+   },
+   {
+      "name": "Ejido Yucatán",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.60435000",
+      "longitude": "-115.09380000"
+   },
+   {
+      "name": "El Niño",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.50750000",
+      "longitude": "-116.79194000"
+   },
+   {
+      "name": "El Porvenir",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.07606000",
+      "longitude": "-116.62473000"
+   },
+   {
+      "name": "El Rosario de Arriba",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.05984000",
+      "longitude": "-115.72448000"
+   },
+   {
+      "name": "El Sauzal de Rodríguez",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.89329000",
+      "longitude": "-116.69256000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.75417000",
+      "longitude": "-116.00306000"
+   },
+   {
+      "name": "Ensenada",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.86667000",
+      "longitude": "-116.61666000"
+   },
+   {
+      "name": "Estación Coahuila",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.19304000",
+      "longitude": "-114.99933000"
+   },
+   {
+      "name": "Estación Pescaderos",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.31196000",
+      "longitude": "-115.13823000"
+   },
+   {
+      "name": "Fraccionamiento del Valle",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.91139000",
+      "longitude": "-116.26056000"
+   },
+   {
+      "name": "Francisco Zarco",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.09872000",
+      "longitude": "-116.56863000"
+   },
+   {
+      "name": "Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.28924000",
+      "longitude": "-115.10534000"
+   },
+   {
+      "name": "Guerrero Negro",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "27.96891000",
+      "longitude": "-114.04427000"
+   },
+   {
+      "name": "Hacienda Tecate",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.56500000",
+      "longitude": "-116.52500000"
+   },
+   {
+      "name": "Hermosillo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.51097000",
+      "longitude": "-114.92278000"
+   },
+   {
+      "name": "Islas Agrarias Grupo A",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.61096000",
+      "longitude": "-115.33151000"
+   },
+   {
+      "name": "Islas Agrarias Grupo B",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.60034000",
+      "longitude": "-115.27172000"
+   },
+   {
+      "name": "La Esperanza [Granjas Familiares]",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.46278000",
+      "longitude": "-117.10500000"
+   },
+   {
+      "name": "La Providencia",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.96889000",
+      "longitude": "-116.15861000"
+   },
+   {
+      "name": "Las Brisas",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.96056000",
+      "longitude": "-116.16444000"
+   },
+   {
+      "name": "Las Delicias",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.40889000",
+      "longitude": "-116.94361000"
+   },
+   {
+      "name": "Licenciado Gustavo Díaz Ordaz",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.97506000",
+      "longitude": "-116.15565000"
+   },
+   {
+      "name": "Lomas de Santa Anita",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.54278000",
+      "longitude": "-116.65139000"
+   },
+   {
+      "name": "Lomas de Tlatelolco",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.48306000",
+      "longitude": "-116.80167000"
+   },
+   {
+      "name": "Los Algodones",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.70000000",
+      "longitude": "-114.73333000"
+   },
+   {
+      "name": "Los Valles",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.39250000",
+      "longitude": "-116.95500000"
+   },
+   {
+      "name": "Luis Rodríguez (El Vergel)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.40722000",
+      "longitude": "-115.88722000"
+   },
+   {
+      "name": "Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.52815000",
+      "longitude": "-115.92617000"
+   },
+   {
+      "name": "Maclovio Herrera (Colonia Aviación)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.54194000",
+      "longitude": "-116.63611000"
+   },
+   {
+      "name": "Maclovio Rojas",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.47306000",
+      "longitude": "-116.80278000"
+   },
+   {
+      "name": "Mexicali",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.50513000",
+      "longitude": "-115.14771000"
+   },
+   {
+      "name": "Playas de Rosarito",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.34342000",
+      "longitude": "-117.03186000"
+   },
+   {
+      "name": "Poblado Chulavista (El Chorizo)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.74722000",
+      "longitude": "-116.00306000"
+   },
+   {
+      "name": "Poblado Lázaro Cárdenas (La Veintiocho)",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.37333000",
+      "longitude": "-115.06528000"
+   },
+   {
+      "name": "Primo Tapia",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.22226000",
+      "longitude": "-116.91390000"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.58039000",
+      "longitude": "-115.58479000"
+   },
+   {
+      "name": "Puebla",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.56654000",
+      "longitude": "-115.35340000"
+   },
+   {
+      "name": "Pueblo Benito García",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.51583000",
+      "longitude": "-115.93278000"
+   },
+   {
+      "name": "Pórticos de San Antonio",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.44250000",
+      "longitude": "-117.03417000"
+   },
+   {
+      "name": "Quinta del Cedro",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.43750000",
+      "longitude": "-117.06583000"
+   },
+   {
+      "name": "Rancho La Gloria",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.44619000",
+      "longitude": "-117.00103000"
+   },
+   {
+      "name": "Rancho Verde",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.91611000",
+      "longitude": "-116.58833000"
+   },
+   {
+      "name": "Rodolfo Sánchez Taboada",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.72099000",
+      "longitude": "-116.57184000"
+   },
+   {
+      "name": "Rosarito",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.36044000",
+      "longitude": "-117.04645000"
+   },
+   {
+      "name": "Rumorosa",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.52396000",
+      "longitude": "-116.05397000"
+   },
+   {
+      "name": "Salvador Rosas Magallón",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.90139000",
+      "longitude": "-116.54778000"
+   },
+   {
+      "name": "San Felipe",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.02468000",
+      "longitude": "-114.83919000"
+   },
+   {
+      "name": "San Luis",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.43167000",
+      "longitude": "-116.95361000"
+   },
+   {
+      "name": "San Quintín",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.57228000",
+      "longitude": "-115.94607000"
+   },
+   {
+      "name": "San Vicente",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "31.32518000",
+      "longitude": "-116.24662000"
+   },
+   {
+      "name": "Santa Anita",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.10083000",
+      "longitude": "-116.86917000"
+   },
+   {
+      "name": "Santa Fé",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.67984000",
+      "longitude": "-115.97653000"
+   },
+   {
+      "name": "Santa Isabel",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.63330000",
+      "longitude": "-115.57605000"
+   },
+   {
+      "name": "Tecate",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.55029000",
+      "longitude": "-116.63223000"
+   },
+   {
+      "name": "Tecolots",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.56667000",
+      "longitude": "-114.98333000"
+   },
+   {
+      "name": "Terrazas del Valle",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.48750000",
+      "longitude": "-116.82667000"
+   },
+   {
+      "name": "Tijuana",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.50223000",
+      "longitude": "-116.97212000"
+   },
+   {
+      "name": "Vicente Guerrero",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "30.73097000",
+      "longitude": "-115.99071000"
+   },
+   {
+      "name": "Villa del Campo",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.50750000",
+      "longitude": "-116.73833000"
+   },
+   {
+      "name": "Villa del Prado 2da Sección",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.42389000",
+      "longitude": "-116.97167000"
+   },
+   {
+      "name": "Viñas del Sol",
+      "countryCode": "MX",
+      "stateCode": "BCN",
+      "latitude": "32.62694000",
+      "longitude": "-115.54667000"
+   }
+]

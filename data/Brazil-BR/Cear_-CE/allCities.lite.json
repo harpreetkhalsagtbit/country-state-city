@@ -1,0 +1,937 @@
+[
+   {
+      "name": "Abaiara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Acarape",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Acaraú",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Acopiara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aiuaba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Alcântaras",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Altaneira",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Alto Santo",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Amontada",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Antonina do Norte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Apuiarés",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aquiraz",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aracati",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aracoiaba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ararendá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Araripe",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aratuba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Arneiroz",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Assaré",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Aurora",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Baixio",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Banabuiú",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Barbalha",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Barreira",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Barro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Barroquinha",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Baturité",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Beberibe",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Bela Cruz",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Boa Viagem",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Brejo Santo",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Camocim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Campos Sales",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Canindé",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Capistrano",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Caridade",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Caririaçu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Cariré",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Cariús",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Carnaubal",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Cascavel",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Catarina",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Catunda",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Caucaia",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Cedro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Chaval",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Chorozinho",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Choró",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Coreaú",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Crateús",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Crato",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Croatá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Cruz",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Deputado Irapuan Pinheiro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ererê",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Eusébio",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Farias Brito",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Forquilha",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Fortaleza",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Fortim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Frecheirinha",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "General Sampaio",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Granja",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Granjeiro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Graça",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Groaíras",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Guaiúba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Guaraciaba do Norte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Guaramiranga",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Hidrolândia",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Horizonte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ibaretama",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ibiapina",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ibicuitinga",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Icapuí",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Icó",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Iguatu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Independência",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ipaporanga",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ipaumirim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ipu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ipueiras",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Iracema",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Irauçuba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itaitinga",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itaiçaba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itapagé",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itapajé",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itapipoca",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itapiúna",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itarema",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Itatira",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jaguaretama",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jaguaribara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jaguaribe",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jaguaruana",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jardim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jati",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jijoca de Jericoacoara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Juazeiro do Norte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Jucás",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Juá dos Vieiras",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Lavras da Mangabeira",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Limoeiro do Norte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Madalena",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Maracanaú",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Maranguape",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Marco",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Martinópole",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Massapê",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Mauriti",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Meruoca",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Milagres",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Milhã",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Miraíma",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Missão Velha",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Mombaça",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Monsenhor Tabosa",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Morada Nova",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Moraújo",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Morrinhos",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Mucambo",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Mulungu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Nova Olinda",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Nova Russas",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Novo Oriente",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ocara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Orós",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pacajus",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pacatuba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pacoti",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pacujá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Palhano",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Palmácia",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Paracuru",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Paraipaba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Parambu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Paramoti",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pedra Branca",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Penaforte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pentecoste",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pereiro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pindoretama",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Piquet Carneiro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Pires Ferreira",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Poranga",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Porteiras",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Potengi",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Potiretama",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Quiterianópolis",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Quixadá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Quixelô",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Quixeramobim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Quixeré",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Redenção",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Reriutaba",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Russas",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Saboeiro",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Salitre",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Santa Quitéria",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Santana do Acaraú",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Santana do Cariri",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Senador Pompeu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Senador Sá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Sobral",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Solonópole",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "São Benedito",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "São Gonçalo do Amarante",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "São João do Jaguaribe",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "São João dos Inhamuns",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "São Luís do Curu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tabuleiro do Norte",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tamboril",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tarrafas",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tauá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tejuçuoca",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tianguá",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Trairi",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Tururu",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Ubajara",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Umari",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Umirim",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Uruburetama",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Uruoca",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Varjota",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Viçosa do Ceará",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   },
+   {
+      "name": "Várzea Alegre",
+      "countryCode": "BR",
+      "stateCode": "CE"
+   }
+]

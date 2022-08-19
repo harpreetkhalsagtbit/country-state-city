@@ -1,0 +1,557 @@
+[
+   {
+      "name": "Abasolo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Agua Nueva",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Albia",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Alejo González (Bilbao)",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Arteaga",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Boquilla de las Perlas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Candela",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Castaños",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Chula Vista",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ciudad Acuña",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ciudad Melchor Múzquiz",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Cloete",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Colonia Diana Laura Riojas de Colosio",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Colonia Venustiano Carranza",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Compuertas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Concordia",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Coyote",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Cuatro Ciénegas de Carranza",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ejido Venustiano Carranza",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Cambio",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Consuelo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Cuije",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Lequeitio",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Nilo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Perú",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Porvenir (El Porvenir de Arriba)",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "El Retiro",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Escuadrón Doscientos Uno",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Fraccionamiento la Noria",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Frontera",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "General Cepeda",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Gilita",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Granada",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Guerrero",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Hormiguero",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Huachichil",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Huitrón",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Hércules",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Jaboncillo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Jiménez",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Concha",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Cruz",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Esmeralda",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Esperanza",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Fe",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Florida",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Luz",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Palma",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Partida",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Paz",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Perla",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "La Pinta",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Laguna del Rey (Químicas del Rey)",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Lamadrid",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Las Mieleras",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Los Álamos",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Luchanas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Maravillas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Matamoros",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Mayran",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Minas de Barroterán",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Monclova",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Nadadores",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Nava",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Nueva Rosita",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Nuevo León",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ocampo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ocho de Enero",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Palau",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Paredón",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Parras de la Fuente",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Piedras Negras",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Primero de Mayo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Purísima",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ramos Arizpe",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Rancho Alegre",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Río Bravo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Sabinas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Sacramento",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Saltillo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Antonio de las Alazanas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Antonio del Coyote",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Buenaventura",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Carlos",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Esteban de Abajo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Francisco de Arriba",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Ignacio",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San José de Aura",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Juan de Sabinas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Juan de la Vaquería",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Marcos",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "San Miguel",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Santa Ana del Pilar",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Santa Fé",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Santo Niño Aguanaval",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Seis de Octubre (Santo Niño)",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Sierra Mojada",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Solima",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Tacubaya",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Torreón",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Veinte de Noviembre",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Veinte de Noviembre (Santa Lucía)",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Ventana",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Viesca",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Villa Las Esperanzas",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Villa Union",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Virginias",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   },
+   {
+      "name": "Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "COA"
+   }
+]

@@ -1,0 +1,436 @@
+[
+   {
+      "name": "Aguada de Cima",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.52291000",
+      "longitude": "-8.42700000"
+   },
+   {
+      "name": "Albergaria-a-Velha",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.68706000",
+      "longitude": "-8.50399000"
+   },
+   {
+      "name": "Anadia",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.43841000",
+      "longitude": "-8.43352000"
+   },
+   {
+      "name": "Aradas",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.62084000",
+      "longitude": "-8.64195000"
+   },
+   {
+      "name": "Arcos",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.44779000",
+      "longitude": "-8.44171000"
+   },
+   {
+      "name": "Argoncilhe",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "41.02541000",
+      "longitude": "-8.53885000"
+   },
+   {
+      "name": "Arouca",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.92658000",
+      "longitude": "-8.27251000"
+   },
+   {
+      "name": "Arrifana",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.91565000",
+      "longitude": "-8.49657000"
+   },
+   {
+      "name": "Avanca",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.80771000",
+      "longitude": "-8.57220000"
+   },
+   {
+      "name": "Aveiro",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.64427000",
+      "longitude": "-8.64554000"
+   },
+   {
+      "name": "Beduido",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.76427000",
+      "longitude": "-8.56110000"
+   },
+   {
+      "name": "Branca",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.76653000",
+      "longitude": "-8.48262000"
+   },
+   {
+      "name": "Castelo de Paiva",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "41.03353000",
+      "longitude": "-8.29822000"
+   },
+   {
+      "name": "Cortegaça",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.94883000",
+      "longitude": "-8.62130000"
+   },
+   {
+      "name": "Cucujães",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.87413000",
+      "longitude": "-8.50687000"
+   },
+   {
+      "name": "Eixo",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.62758000",
+      "longitude": "-8.56922000"
+   },
+   {
+      "name": "Esgueira",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.64899000",
+      "longitude": "-8.62943000"
+   },
+   {
+      "name": "Esmoriz",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.95773000",
+      "longitude": "-8.62753000"
+   },
+   {
+      "name": "Espargo",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.92462000",
+      "longitude": "-8.57495000"
+   },
+   {
+      "name": "Espinho",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "41.00763000",
+      "longitude": "-8.64125000"
+   },
+   {
+      "name": "Estarreja",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.75463000",
+      "longitude": "-8.57917000"
+   },
+   {
+      "name": "Feira",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.92535000",
+      "longitude": "-8.54277000"
+   },
+   {
+      "name": "Fiães",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.99446000",
+      "longitude": "-8.52537000"
+   },
+   {
+      "name": "Gafanha da Encarnação",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.61806000",
+      "longitude": "-8.73303000"
+   },
+   {
+      "name": "Gafanha da Nazaré",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.63621000",
+      "longitude": "-8.71338000"
+   },
+   {
+      "name": "Lamas",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.98597000",
+      "longitude": "-8.56923000"
+   },
+   {
+      "name": "Lobão",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.98664000",
+      "longitude": "-8.48566000"
+   },
+   {
+      "name": "Lourosa",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.98420000",
+      "longitude": "-8.55142000"
+   },
+   {
+      "name": "Luso",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.38429000",
+      "longitude": "-8.37845000"
+   },
+   {
+      "name": "Macieira de Cambra",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.85939000",
+      "longitude": "-8.37338000"
+   },
+   {
+      "name": "Mealhada",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.36273000",
+      "longitude": "-8.44781000"
+   },
+   {
+      "name": "Milheirós de Poiares",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.92163000",
+      "longitude": "-8.46788000"
+   },
+   {
+      "name": "Mosteirô",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.89843000",
+      "longitude": "-8.53196000"
+   },
+   {
+      "name": "Murtosa",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.74301000",
+      "longitude": "-8.64023000"
+   },
+   {
+      "name": "Nogueira da Regedoura",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "41.00530000",
+      "longitude": "-8.59195000"
+   },
+   {
+      "name": "Oiã",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.54264000",
+      "longitude": "-8.53856000"
+   },
+   {
+      "name": "Oliveira de Azemeis",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.84101000",
+      "longitude": "-8.47555000"
+   },
+   {
+      "name": "Oliveira do Bairro",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.50977000",
+      "longitude": "-8.56374000"
+   },
+   {
+      "name": "Oliveirinha",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.60715000",
+      "longitude": "-8.59198000"
+   },
+   {
+      "name": "Ovar",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.85862000",
+      "longitude": "-8.62513000"
+   },
+   {
+      "name": "Pampilhosa do Botão",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.33580000",
+      "longitude": "-8.42738000"
+   },
+   {
+      "name": "Pardilhó",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.79925000",
+      "longitude": "-8.62598000"
+   },
+   {
+      "name": "Paços de Brandão",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.97541000",
+      "longitude": "-8.58350000"
+   },
+   {
+      "name": "Rio Meão",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.95775000",
+      "longitude": "-8.57818000"
+   },
+   {
+      "name": "Salreu",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.73971000",
+      "longitude": "-8.55720000"
+   },
+   {
+      "name": "Sanfins",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.92979000",
+      "longitude": "-8.52563000"
+   },
+   {
+      "name": "Sangalhos",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.48678000",
+      "longitude": "-8.46968000"
+   },
+   {
+      "name": "Santa Maria da Feira",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.96043000",
+      "longitude": "-8.51545000"
+   },
+   {
+      "name": "Sever do Vouga",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.73156000",
+      "longitude": "-8.35493000"
+   },
+   {
+      "name": "Silvalde",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.99205000",
+      "longitude": "-8.62567000"
+   },
+   {
+      "name": "Souto",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.98496000",
+      "longitude": "-8.62185000"
+   },
+   {
+      "name": "São João",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.86802000",
+      "longitude": "-8.60672000"
+   },
+   {
+      "name": "São João da Madeira",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.90070000",
+      "longitude": "-8.49020000"
+   },
+   {
+      "name": "São João de Ver",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.95527000",
+      "longitude": "-8.55117000"
+   },
+   {
+      "name": "São Roque",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.87216000",
+      "longitude": "-8.47149000"
+   },
+   {
+      "name": "Vagos",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.49943000",
+      "longitude": "-8.67830000"
+   },
+   {
+      "name": "Vale de Cambra",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.84500000",
+      "longitude": "-8.36022000"
+   },
+   {
+      "name": "Valongo",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.61667000",
+      "longitude": "-8.45000000"
+   },
+   {
+      "name": "Vila Chã",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.86667000",
+      "longitude": "-8.46667000"
+   },
+   {
+      "name": "Válega",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.83629000",
+      "longitude": "-8.58061000"
+   },
+   {
+      "name": "Águeda",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.57720000",
+      "longitude": "-8.44442000"
+   },
+   {
+      "name": "Ílhavo",
+      "countryCode": "PT",
+      "stateCode": "01",
+      "latitude": "40.60188000",
+      "longitude": "-8.67021000"
+   }
+]

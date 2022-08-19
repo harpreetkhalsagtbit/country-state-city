@@ -1,0 +1,548 @@
+[
+   {
+      "name": "Altstätten",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.37766000",
+      "longitude": "9.54746000"
+   },
+   {
+      "name": "Amden",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.14888000",
+      "longitude": "9.14233000"
+   },
+   {
+      "name": "Andwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.43855000",
+      "longitude": "9.27436000"
+   },
+   {
+      "name": "Au",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.43093000",
+      "longitude": "9.63448000"
+   },
+   {
+      "name": "Bad Ragaz",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.00601000",
+      "longitude": "9.50266000"
+   },
+   {
+      "name": "Balgach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.40556000",
+      "longitude": "9.60702000"
+   },
+   {
+      "name": "Benken",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.19942000",
+      "longitude": "9.00735000"
+   },
+   {
+      "name": "Bronschhofen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47835000",
+      "longitude": "9.03454000"
+   },
+   {
+      "name": "Buchs",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.16743000",
+      "longitude": "9.47794000"
+   },
+   {
+      "name": "Bütschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.36022000",
+      "longitude": "9.07213000"
+   },
+   {
+      "name": "Degersheim",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.37429000",
+      "longitude": "9.20019000"
+   },
+   {
+      "name": "Diepoldsau",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.38600000",
+      "longitude": "9.65558000"
+   },
+   {
+      "name": "Ebnat-Kappel",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.26195000",
+      "longitude": "9.12473000"
+   },
+   {
+      "name": "Eggersriet",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.44202000",
+      "longitude": "9.46901000"
+   },
+   {
+      "name": "Eichberg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.34374000",
+      "longitude": "9.53140000"
+   },
+   {
+      "name": "Eschenbach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.23981000",
+      "longitude": "8.92156000"
+   },
+   {
+      "name": "Flawil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.41301000",
+      "longitude": "9.18324000"
+   },
+   {
+      "name": "Flums",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.09058000",
+      "longitude": "9.34301000"
+   },
+   {
+      "name": "Gams",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.20429000",
+      "longitude": "9.44172000"
+   },
+   {
+      "name": "Ganterschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.38103000",
+      "longitude": "9.09239000"
+   },
+   {
+      "name": "Goldach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47401000",
+      "longitude": "9.46711000"
+   },
+   {
+      "name": "Goldingen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.26477000",
+      "longitude": "8.96167000"
+   },
+   {
+      "name": "Gommiswald",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.23128000",
+      "longitude": "9.02355000"
+   },
+   {
+      "name": "Gossau",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.41551000",
+      "longitude": "9.25482000"
+   },
+   {
+      "name": "Grabs",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.18248000",
+      "longitude": "9.44395000"
+   },
+   {
+      "name": "Haag (Rheintal)",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.20989000",
+      "longitude": "9.48931000"
+   },
+   {
+      "name": "Horn",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.49425000",
+      "longitude": "9.46246000"
+   },
+   {
+      "name": "Häggenschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.49462000",
+      "longitude": "9.34487000"
+   },
+   {
+      "name": "Jona",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.22983000",
+      "longitude": "8.83884000"
+   },
+   {
+      "name": "Jonschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.42402000",
+      "longitude": "9.08689000"
+   },
+   {
+      "name": "Kaltbrunn",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.21367000",
+      "longitude": "9.02590000"
+   },
+   {
+      "name": "Kirchberg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.41159000",
+      "longitude": "9.04020000"
+   },
+   {
+      "name": "Krummenau",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.24755000",
+      "longitude": "9.17064000"
+   },
+   {
+      "name": "Lichtensteig",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.32381000",
+      "longitude": "9.08758000"
+   },
+   {
+      "name": "Lütisburg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.39451000",
+      "longitude": "9.08312000"
+   },
+   {
+      "name": "Mogelsberg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.36222000",
+      "longitude": "9.13541000"
+   },
+   {
+      "name": "Mosnang",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.36252000",
+      "longitude": "9.04296000"
+   },
+   {
+      "name": "Muolen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.52102000",
+      "longitude": "9.32484000"
+   },
+   {
+      "name": "Mörschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47097000",
+      "longitude": "9.42278000"
+   },
+   {
+      "name": "Niederbüren",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46547000",
+      "longitude": "9.20568000"
+   },
+   {
+      "name": "Niederhelfenschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47487000",
+      "longitude": "9.18543000"
+   },
+   {
+      "name": "Oberhelfenschwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.35673000",
+      "longitude": "9.11076000"
+   },
+   {
+      "name": "Oberriet",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.32088000",
+      "longitude": "9.56808000"
+   },
+   {
+      "name": "Oberuzwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.43076000",
+      "longitude": "9.12724000"
+   },
+   {
+      "name": "Quarten",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.10700000",
+      "longitude": "9.24199000"
+   },
+   {
+      "name": "Rapperswil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.22557000",
+      "longitude": "8.82228000"
+   },
+   {
+      "name": "Rebstein",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.39812000",
+      "longitude": "9.58503000"
+   },
+   {
+      "name": "Rheineck",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46630000",
+      "longitude": "9.59028000"
+   },
+   {
+      "name": "Rorschach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47800000",
+      "longitude": "9.49030000"
+   },
+   {
+      "name": "Rüthi",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.29480000",
+      "longitude": "9.53857000"
+   },
+   {
+      "name": "Sankt Gallen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.42391000",
+      "longitude": "9.37477000"
+   },
+   {
+      "name": "Sankt Gallenkappel",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.24368000",
+      "longitude": "8.96438000"
+   },
+   {
+      "name": "Sankt Margrethen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.45253000",
+      "longitude": "9.63741000"
+   },
+   {
+      "name": "Sankt Peterzell",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.31782000",
+      "longitude": "9.17599000"
+   },
+   {
+      "name": "Sargans",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.04896000",
+      "longitude": "9.44103000"
+   },
+   {
+      "name": "Schmerikon",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.22538000",
+      "longitude": "8.94836000"
+   },
+   {
+      "name": "Schänis",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.15995000",
+      "longitude": "9.04549000"
+   },
+   {
+      "name": "Sennwald",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.26063000",
+      "longitude": "9.50268000"
+   },
+   {
+      "name": "Sevelen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.12213000",
+      "longitude": "9.48601000"
+   },
+   {
+      "name": "Thal",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46677000",
+      "longitude": "9.56643000"
+   },
+   {
+      "name": "Uznach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.22421000",
+      "longitude": "8.98263000"
+   },
+   {
+      "name": "Uzwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.43653000",
+      "longitude": "9.13422000"
+   },
+   {
+      "name": "Wahlkreis Rheintal",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.37769000",
+      "longitude": "9.57903000"
+   },
+   {
+      "name": "Wahlkreis Rorschach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46647000",
+      "longitude": "9.44246000"
+   },
+   {
+      "name": "Wahlkreis Sarganserland",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.05000000",
+      "longitude": "9.43333000"
+   },
+   {
+      "name": "Wahlkreis See-Gaster",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.22459000",
+      "longitude": "9.01680000"
+   },
+   {
+      "name": "Wahlkreis St. Gallen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46342000",
+      "longitude": "9.39052000"
+   },
+   {
+      "name": "Wahlkreis Toggenburg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.29453000",
+      "longitude": "9.17283000"
+   },
+   {
+      "name": "Wahlkreis Werdenberg",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.17743000",
+      "longitude": "9.46299000"
+   },
+   {
+      "name": "Wahlkreis Wil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.42591000",
+      "longitude": "9.12451000"
+   },
+   {
+      "name": "Waldkirch",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46859000",
+      "longitude": "9.28665000"
+   },
+   {
+      "name": "Walenstadt",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.12411000",
+      "longitude": "9.31194000"
+   },
+   {
+      "name": "Wattwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.29955000",
+      "longitude": "9.08657000"
+   },
+   {
+      "name": "Weesen",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.13447000",
+      "longitude": "9.09644000"
+   },
+   {
+      "name": "Wil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46152000",
+      "longitude": "9.04552000"
+   },
+   {
+      "name": "Wildhaus",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.20583000",
+      "longitude": "9.35402000"
+   },
+   {
+      "name": "Wittenbach",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.46108000",
+      "longitude": "9.38601000"
+   },
+   {
+      "name": "Zuzwil",
+      "countryCode": "CH",
+      "stateCode": "SG",
+      "latitude": "47.47452000",
+      "longitude": "9.11196000"
+   }
+]

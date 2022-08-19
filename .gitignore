@@ -1,4 +1,11 @@
 node_modules
 lib
 coverage
-src/scripts
+# Ignore all the files inside the node_modules folder
+data/**/*.*
+
+# Allow only json files inside the node_modules folder
+!data/**/*.geo.json
+!data/**/*.lite.json
+!data/**/*.timezones.json
+!data/allCountries.json

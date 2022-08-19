@@ -1,0 +1,942 @@
+[
+   {
+      "name": "Ajalvir",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Alameda del Valle",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Alcalá de Henares",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Alcobendas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Alcorcón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Aldea del Fresno",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Algete",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Alpedrete",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Ambite",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Anchuelo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Aranjuez",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Arganda",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Arganzuela",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Arroyomolinos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Barajas de Madrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Batres",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Becerril de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Belmonte de Tajo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Berzosa del Lozoya",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Boadilla del Monte",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Boalo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Braojos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Brea de Tajo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Brunete",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Buitrago del Lozoya",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Bustarviejo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cabanillas de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cadalso de los Vidrios",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Camarma de Esteruelas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Campo Real",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Canencia",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Carabanchel",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Carabaña",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Casarrubuelos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cenicientos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cercedilla",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cervera de Buitrago",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Chamartín",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Chamberí",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Chapinería",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Chinchón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Ciempozuelos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "City Center",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Ciudad Lineal",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cobeña",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Collado Mediano",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Collado-Villalba",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Colmenar Viejo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Colmenar de Oreja",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Colmenar del Arroyo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Colmenarejo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Corpa",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Coslada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Cubas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Daganzo de Arriba",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "El Escorial",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "El Molar",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "El Pardo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "El Vellón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "El Álamo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Estremera",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fresnedillas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fresno de Torote",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fuencarral-El Pardo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fuenlabrada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fuente el Saz",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Fuentidueña de Tajo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Galapagar",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Garganta de los Montes",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Gascones",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Getafe",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Griñón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Guadalix de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Guadarrama",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Horcajo de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Horcajuelo de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Hortaleza",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Hoyo de Manzanares",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Humanes de Madrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "La Cabrera",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Las Matas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Las Rozas de Madrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Las Tablas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Latina",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Leganés",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Loeches",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Los Molinos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Los Santos de la Humosa",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Lozoya",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Madrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Majadahonda",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Manzanares el Real",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Meco",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Mejorada del Campo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Miraflores de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Moncloa-Aravaca",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Montejo de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Moraleja de Enmedio",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Moralzarzal",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Morata de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Moratalaz",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Móstoles",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navacerrada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navalafuente",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navalagamella",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navalcarnero",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navalquejigo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Navas del Rey",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Nuevo Baztán",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Paracuellos de Jarama",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Parla",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Patones",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pedrezuela",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pelayos de la Presa",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Perales de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pezuela de las Torres",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pinar de Chamartín",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pinilla del Valle",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pinto",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pozuelo de Alarcón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Pozuelo del Rey",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Provincia de Madrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Prádena del Rincón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Puente de Vallecas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Quijorna",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Rascafría",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Redueña",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Retiro",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Ribatejada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Rivas-Vaciamadrid",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Robledillo de la Jara",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Robledo de Chavela",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Rozas de Puerto Real",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Salamanca",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Agustín del Guadalix",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Blas-Canillejas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Fernando de Henares",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Lorenzo de El Escorial",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Martín de Valdeiglesias",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Martín de la Vega",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "San Sebastián de los Reyes",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Santa María de la Alameda",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Santorcaz",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Serranillos del Valle",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Sevilla La Nueva",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Talamanca de Jarama",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Tetuán de las Victorias",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Tielmes",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Titulcia",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torrejón de Ardoz",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torrejón de Velasco",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torrejón de la Calzada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torrelaguna",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torrelodones",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torremocha de Jarama",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Torres de la Alameda",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Tres Cantos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Usera",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdaracete",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdeavero",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdemanco",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdemaqueda",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdemorillo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdemoro",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdeolmos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdepiélagos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdetorres de Jarama",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valdilecha",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Valverde de Alcalá",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Velilla de San Antonio",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Venturada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Vicálvaro",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villa de Vallecas",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villa del Prado",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villaconejos",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villalbilla",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villamanrique de Tajo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villamanta",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villamantilla",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villanueva de Perales",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villanueva de la Cañada",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villanueva del Pardillo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villar del Olmo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villarejo de Salvanés",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villaverde",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villaviciosa de Odón",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Villavieja del Lozoya",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   },
+   {
+      "name": "Zarzalejo",
+      "countryCode": "ES",
+      "stateCode": "MD"
+   }
+]

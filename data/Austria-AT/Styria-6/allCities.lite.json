@@ -1,0 +1,2437 @@
+[
+   {
+      "name": "Abtissendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Admont",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Aflenz Kurort",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Aibl",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Aigen im Ennstal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Albersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Allerheiligen bei Wildon",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Allerheiligen im Mürztal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Altaussee",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Altenmarkt bei Fürstenfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Altenmarkt bei Sankt Gallen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Andritz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Anger",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Apfelberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ardning",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Arnfels",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Arzberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Attendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Auersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Aussee",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Blumau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Gams",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Gleichenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Radkersburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bad Waltersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Baierdorf-Umgebung",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bairisch Kölldorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Baumgarten bei Gnas",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Berndorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bierbaum am Auersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Birkfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Blaindorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Breitenfeld am Tannenriegel",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Breitenfeld an der Rittschein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bretstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bruck an der Mur",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Brunn",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Burgau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Bärnbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Dechantskirchen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Deuchendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Deutsch Goritz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Deutschfeistritz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Deutschlandsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Diemlach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Dienersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Dietersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Dietersdorf am Gnasbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Donawitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Donnersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Dürnstein in der Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ebersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Edelsbach bei Feldbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Edelschrott",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Edelsgrub",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Edelstauden",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eggenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eggersdorf bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ehrenhausen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eibiswald",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eichberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eichfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eisbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eisenerz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Empersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Eppenstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Falkenburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Farrach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fehring",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Feistritz bei Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Feldbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Feldkirchen bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fernitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fischbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fladnitz im Raabtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Flatschach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Floing",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fohnsdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Frannach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Frauenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Freidorf an der Laßnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Freiland bei Deutschlandsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Friedberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Frohnleiten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Fürstenfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gaal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gabersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gallmannsegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gamlitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gams bei Hieflau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ganz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Garanas",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gasen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Geidorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Geistthal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gersdorf an der Feistritz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gleinstätten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gleisdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Glojach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gnas",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gniebing",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gosdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gossendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Grabersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Grafendorf bei Hartberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gralla",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Grambach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gratkorn",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gratwein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Graz Stadt",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Greisdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gressenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gries",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Grosssulz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Groß Sankt Florian",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Großklein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Großlobming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Großsölk",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gröbming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gundersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Göss",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gössenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Gösting",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Göttelsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hafendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hainersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hainsdorf im Schwarzautal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Halbenrain",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hall bei Admont",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hart bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hartberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hartl",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hartmannsdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hatzendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Haus",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Haus im Ennstal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hausmannstätten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Heiligenkreuz am Waasen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Heimschuh",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hengsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hetzendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hieflau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hinterberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hirnsdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hitzendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hochtregist",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hof bei Straden",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hofstätten an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hohenau an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hohentauern",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hollenegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Höf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Hönigsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ilz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Innere Stadt",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Irdning",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Jagerberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Jakomini",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Johnsbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Judenburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Judendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kaibing",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kainach bei Voitsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kainbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kaindorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kaindorf an der Sulm",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kalsdorf bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kalwang",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kammern im Liesingtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kapellen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kapfenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kapfenstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kindberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kirchbach in Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kirchberg an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kirchenviertel",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kitzeck im Sausal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kleinlobming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kleinsöding",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kleinsölk",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kloster",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Klöch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kobenz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kohlberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kohlschwarz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krakaudorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krakauhintermühlen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krakauschatten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kraubath an der Mur",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krieglach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krottendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krottendorf bei Ligist",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krumegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Krusdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kulm am Zirbitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Kumberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Köflach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Labuch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lafnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Landl",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lang",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Langegg bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Langenwang",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lannach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lassnitzhöhe",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leibnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leitendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leitersdorf im Raabtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leitring",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lend",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leoben",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Leutschach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Liebenau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lieboch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Liesingtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Liezen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ligist",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Loipersdorf bei Fürstenfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Lödersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Maierdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Maria Lankowitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mariahof",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mariatrost",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mariazell",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mautern in Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mellach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Merkendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mettersdorf am Saßbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Michaelerberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mitterdorf an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mitterdorf im Mürztal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mitterlabill",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mitterndorf im Steirischen Salzkammergut",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Modriach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mooskirchen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mortantsch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Murau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mureck",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mönichwald",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mühldorf bei Feldbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mühlen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mürzhofen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mürzsteg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Mürzzuschlag",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Naas",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Nestelbach bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Nestelbach im Ilztal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Neuberg an der Mürz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Neudau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Neumarkt in Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Neutillmitsch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Niederschöckl",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Niederwölz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Niederöblarn",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Niklasdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Nitscha",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Obdach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberaich",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberdorf am Hochegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberhaag",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberkurzheim",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberpremstätten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberrettenbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberstorcha",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Obervogau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberweg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberwölz Stadt",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oberzeiring",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Oppenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ortgraben",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Osterwitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pack",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Paldau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Palfau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Parschlug",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Passail",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Peggau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Perchau am Sattel",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Perlsdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pernegg an der Mur",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pertlstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Piberegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pichling bei Köflach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pinggau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pirching am Traubenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pirka",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pischelsdorf in der Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pistorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pitschgau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Bruck-Mürzzuschlag",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Deutschlandsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Graz-Umgebung",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Hartberg-Fürstenfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Leibnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Leoben",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Liezen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Murau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Murtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Südoststeiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Voitsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Politischer Bezirk Weiz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Poppendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Preding",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Proleb",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pruggern",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Puch bei Weiz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Puntigam",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pusterwald",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pöllau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pöllauberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Pöls",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Raaba",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Raabau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rabenwald",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rachau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ragnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ramsau am Dachstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Raning",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ranten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rassach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ratsch an der Weinstraße",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ratschendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ratten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Reichendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Reifling",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rettenegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Retznei",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Riegersburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ries",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rohrbach an der Lafnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rosental an der Kainach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Rottenmann",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Röthelstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Salla",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Anna am Aigen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Bartholomä",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Blasen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Gallen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Georgen an der Stiefing",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Georgen ob Judenburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Georgen ob Murau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Ilgen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Jakob im Walde",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Jakob-Breitenau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Johann am Tauern",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Johann bei Herberstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Johann im Saggautal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Johann in der Haide",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Josef (Weststeiermark)",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Katharein an der Laming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Kathrein am Hauenstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Kathrein am Offenegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Lambrecht",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Leonhard",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Lorenzen am Wechsel",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Lorenzen bei Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Lorenzen bei Scheifling",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Lorenzen im Mürztal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Marein bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Marein bei Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Marein bei Neumarkt",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Marein im Mürztal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Margarethen an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Margarethen bei Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Martin",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Martin am Grimming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Martin im Sulmtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Michael in Obersteiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Nikolai im Sausal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Nikolai im Sölktal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Nikolai ob Draßling",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Oswald bei Plankenwarth",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Oswald ob Eibiswald",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter am Kammersberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter am Ottersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter im Sulmtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter ob Judenburg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Peter-Freienstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Radegund bei Graz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Ruprecht an der Raab",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Stefan im Rosental",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Stefan ob Leoben",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Stefan ob Stainz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Ulrich am Waasen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sankt Veit am Vogau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schachen bei Vorau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Scheifling",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schladming",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schrems bei Frohnleiten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schwanberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schwarzau im Schwarzautal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schäffern",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Schöder",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sebersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Seckau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Seggauberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Seiersberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Selzthal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Semriach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Siegersdorf bei Herberstein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sinabelkirchen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Soboth",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Spatenhof",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Spielberg bei Knittelfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Spielfeld",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Spital am Semmering",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stadl an der Mur",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stainach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stainz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stainz bei Straden",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stallhof",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stallhofen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stambach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stattegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stein",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stenzengreith",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stiwoll",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Straden",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Strallegg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Strassengel",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Straß in Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Straßgang",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Stubenberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Studenzen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Sulztal an der Weinstraße",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Söchau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Södingberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Tauplitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Teufenbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Thal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Thörl",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Tieschen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Tillmitsch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Tillmitsch Links der Laßnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Traboch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Trahütten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Trautmannsdorf in Oststeiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Treglwang",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Trieben",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Triebendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Trofaiach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Trössing",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Turnau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Ungerdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Unterauersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Unterbergla",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Unterfladnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Unterlamm",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Unterpremstätten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Utschtal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Vasoldsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Veitsch",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Vogau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Voitsberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Vorau",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Vordernberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wagna",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wagnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wald am Schoberpaß",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Waltendorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wartberg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Weinburg am Saßbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Weiz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Weißenbach bei Liezen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Weißkirchen in Steiermark",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Werndorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wernersdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wettmannstätten",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wetzelsdorf",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wies",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wildalpen",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wildon",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Winklern bei Oberwölz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wolfsberg im Schwarzautal",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wundschuh",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wörschach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Wörth an der Lafnitz",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Zeltweg",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Zerlach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Zettling",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Zeutschach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Öblarn",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Übelbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   },
+   {
+      "name": "Übersbach",
+      "countryCode": "AT",
+      "stateCode": "6"
+   }
+]

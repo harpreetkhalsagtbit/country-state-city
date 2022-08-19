@@ -1,0 +1,1787 @@
+[
+   {
+      "name": "Adjuntas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.16277778",
+      "longitude": "-66.72222222"
+   },
+   {
+      "name": "Aguada",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37944444",
+      "longitude": "-67.18833333"
+   },
+   {
+      "name": "Aguadilla",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42745000",
+      "longitude": "-67.15407000"
+   },
+   {
+      "name": "Aguas Buenas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.25694400",
+      "longitude": "-66.10305600"
+   },
+   {
+      "name": "Aguas Claras",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.24417000",
+      "longitude": "-65.66278000"
+   },
+   {
+      "name": "Aguilita",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.02333333",
+      "longitude": "-66.53472222"
+   },
+   {
+      "name": "Aibonito",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.14000000",
+      "longitude": "-66.26611100"
+   },
+   {
+      "name": "Animas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44555556",
+      "longitude": "-66.63500000"
+   },
+   {
+      "name": "Antón Ruiz",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.18527778",
+      "longitude": "-65.80861111"
+   },
+   {
+      "name": "Arecibo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.47055556",
+      "longitude": "-66.72083333"
+   },
+   {
+      "name": "Arroyo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.96583300",
+      "longitude": "-66.06138900"
+   },
+   {
+      "name": "Añasco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.31611111",
+      "longitude": "-67.13972222"
+   },
+   {
+      "name": "Bairoa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.25916667",
+      "longitude": "-66.04055556"
+   },
+   {
+      "name": "Bajadero",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42666667",
+      "longitude": "-66.68333333"
+   },
+   {
+      "name": "Bajandas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.16278000",
+      "longitude": "-65.78167000"
+   },
+   {
+      "name": "Barahona",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.35138889",
+      "longitude": "-66.44555556"
+   },
+   {
+      "name": "Barceloneta",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45633000",
+      "longitude": "-66.54128000"
+   },
+   {
+      "name": "Barranquitas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.20357000",
+      "longitude": "-66.31211000"
+   },
+   {
+      "name": "Bartolo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36138889",
+      "longitude": "-65.83861111"
+   },
+   {
+      "name": "Bayamon",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.17777778",
+      "longitude": "-66.11333333"
+   },
+   {
+      "name": "Benitez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.27361111",
+      "longitude": "-65.87916667"
+   },
+   {
+      "name": "Betances",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.02861111",
+      "longitude": "-67.13500000"
+   },
+   {
+      "name": "Boqueron",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.20750000",
+      "longitude": "-65.84861111"
+   },
+   {
+      "name": "Boquerón, Cabo Rojo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.02691000",
+      "longitude": "-67.16907000"
+   },
+   {
+      "name": "Brenas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.46722222",
+      "longitude": "-66.34111111"
+   },
+   {
+      "name": "Buena Vista",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99638889",
+      "longitude": "-66.05194444"
+   },
+   {
+      "name": "Bufalo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.41833333",
+      "longitude": "-66.57333333"
+   },
+   {
+      "name": "Caban",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44333333",
+      "longitude": "-67.13611111"
+   },
+   {
+      "name": "Cabo Rojo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08666667",
+      "longitude": "-67.14583333"
+   },
+   {
+      "name": "Cabo Rojo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05635000",
+      "longitude": "-67.14685000"
+   },
+   {
+      "name": "Cacao",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44028000",
+      "longitude": "-66.93861000"
+   },
+   {
+      "name": "Caguas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.23333333",
+      "longitude": "-66.03333333"
+   },
+   {
+      "name": "Campanilla",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42138889",
+      "longitude": "-66.23694444"
+   },
+   {
+      "name": "Campo Rico",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33722222",
+      "longitude": "-65.89805556"
+   },
+   {
+      "name": "Camuy",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.48388900",
+      "longitude": "-66.84500000"
+   },
+   {
+      "name": "Candelaria",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.40416667",
+      "longitude": "-66.20888889"
+   },
+   {
+      "name": "Candelaria Arenas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.41722222",
+      "longitude": "-66.21750000"
+   },
+   {
+      "name": "Candelero Arriba",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.10560000",
+      "longitude": "-65.83420000"
+   },
+   {
+      "name": "Canóvanas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37916700",
+      "longitude": "-65.90138900"
+   },
+   {
+      "name": "Capitanejo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01454000",
+      "longitude": "-66.53372000"
+   },
+   {
+      "name": "Carolina",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38888889",
+      "longitude": "-65.96666667"
+   },
+   {
+      "name": "Carrizales",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.48194444",
+      "longitude": "-66.79000000"
+   },
+   {
+      "name": "Cataño",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44134000",
+      "longitude": "-66.11822000"
+   },
+   {
+      "name": "Cayey",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.11500000",
+      "longitude": "-66.16139000"
+   },
+   {
+      "name": "Cayuco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.29194000",
+      "longitude": "-66.73528000"
+   },
+   {
+      "name": "Ceiba",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44638889",
+      "longitude": "-66.35083333"
+   },
+   {
+      "name": "Ceiba Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.26051000",
+      "longitude": "-65.67183000"
+   },
+   {
+      "name": "Celada",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.27166667",
+      "longitude": "-65.96611111"
+   },
+   {
+      "name": "Central Aguirre",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.95472000",
+      "longitude": "-66.22611000"
+   },
+   {
+      "name": "Ciales",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33611100",
+      "longitude": "-66.46888900"
+   },
+   {
+      "name": "Ciales Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.29162000",
+      "longitude": "-66.51628000"
+   },
+   {
+      "name": "Cidra",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.17583333",
+      "longitude": "-66.16138889"
+   },
+   {
+      "name": "Coamo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08000000",
+      "longitude": "-66.35805556"
+   },
+   {
+      "name": "Coco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00722222",
+      "longitude": "-66.25944444"
+   },
+   {
+      "name": "Comerío",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21801000",
+      "longitude": "-66.22600000"
+   },
+   {
+      "name": "Comerío Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.22718000",
+      "longitude": "-66.22183000"
+   },
+   {
+      "name": "Comunas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08722222",
+      "longitude": "-65.84388889"
+   },
+   {
+      "name": "Coquí",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.97416667",
+      "longitude": "-66.22722222"
+   },
+   {
+      "name": "Corazón",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99277778",
+      "longitude": "-66.08500000"
+   },
+   {
+      "name": "Corcovado",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45861111",
+      "longitude": "-66.77638889"
+   },
+   {
+      "name": "Corozal",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34166667",
+      "longitude": "-66.31694444"
+   },
+   {
+      "name": "Corozal Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.30912000",
+      "longitude": "-66.32600000"
+   },
+   {
+      "name": "Coto Laurel",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04969000",
+      "longitude": "-66.55128000"
+   },
+   {
+      "name": "Coto Norte",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43078000",
+      "longitude": "-66.43989000"
+   },
+   {
+      "name": "Culebra",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.31666667",
+      "longitude": "-65.29027778"
+   },
+   {
+      "name": "Culebra barrio-pueblo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.30646950",
+      "longitude": "-65.30258000"
+   },
+   {
+      "name": "Daguao",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.22638889",
+      "longitude": "-65.68333333"
+   },
+   {
+      "name": "Dorado",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45888900",
+      "longitude": "-66.26777800"
+   },
+   {
+      "name": "Dorado Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43967000",
+      "longitude": "-66.28295000"
+   },
+   {
+      "name": "El Mangó",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.23416667",
+      "longitude": "-65.87972222"
+   },
+   {
+      "name": "El Negro",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.03750000",
+      "longitude": "-65.85138889"
+   },
+   {
+      "name": "El Ojo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00388889",
+      "longitude": "-66.39166667"
+   },
+   {
+      "name": "Emajagua",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00055556",
+      "longitude": "-65.88277778"
+   },
+   {
+      "name": "Esperanza",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.09722222",
+      "longitude": "-65.47083333"
+   },
+   {
+      "name": "Espino",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.27638889",
+      "longitude": "-67.11944444"
+   },
+   {
+      "name": "Estancias de Florida",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36666667",
+      "longitude": "-66.56972222"
+   },
+   {
+      "name": "Fajardo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.32579000",
+      "longitude": "-65.65238000"
+   },
+   {
+      "name": "Fajardo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.31051000",
+      "longitude": "-65.67600000"
+   },
+   {
+      "name": "Florida",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36495300",
+      "longitude": "-66.56616100"
+   },
+   {
+      "name": "Franquez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34027778",
+      "longitude": "-66.42777778"
+   },
+   {
+      "name": "Fuig",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98777778",
+      "longitude": "-66.91611111"
+   },
+   {
+      "name": "G. L. Garcia",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.12750000",
+      "longitude": "-66.10416667"
+   },
+   {
+      "name": "Galateo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36250000",
+      "longitude": "-66.25888889"
+   },
+   {
+      "name": "Garrochales",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45361111",
+      "longitude": "-66.56638889"
+   },
+   {
+      "name": "Guayabal",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08138889",
+      "longitude": "-66.50138889"
+   },
+   {
+      "name": "Guayama",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99361111",
+      "longitude": "-66.13083333"
+   },
+   {
+      "name": "Guayama Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01663000",
+      "longitude": "-66.13072000"
+   },
+   {
+      "name": "Guayanilla",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01916667",
+      "longitude": "-66.79194444"
+   },
+   {
+      "name": "Guaynabo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36666667",
+      "longitude": "-66.10000000"
+   },
+   {
+      "name": "Gurabo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.25440000",
+      "longitude": "-65.97294000"
+   },
+   {
+      "name": "Gurabo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.27162000",
+      "longitude": "-65.97183000"
+   },
+   {
+      "name": "Guánica",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.97166667",
+      "longitude": "-66.90805556"
+   },
+   {
+      "name": "Guánica Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98830000",
+      "longitude": "-66.91212000"
+   },
+   {
+      "name": "H. Rivera Colon",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34777778",
+      "longitude": "-66.27388889"
+   },
+   {
+      "name": "Hatillo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.48633000",
+      "longitude": "-66.82545000"
+   },
+   {
+      "name": "Hatillo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.40773000",
+      "longitude": "-66.79323000"
+   },
+   {
+      "name": "Hato Arriba",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.35583333",
+      "longitude": "-67.03416667"
+   },
+   {
+      "name": "Hato Candal",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37444444",
+      "longitude": "-65.78722222"
+   },
+   {
+      "name": "Hormigueros",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.13968000",
+      "longitude": "-67.12740000"
+   },
+   {
+      "name": "Hormigueros Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.14162000",
+      "longitude": "-67.11629000"
+   },
+   {
+      "name": "Humacao",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.14972200",
+      "longitude": "-65.82750000"
+   },
+   {
+      "name": "Imbery",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43694444",
+      "longitude": "-66.55250000"
+   },
+   {
+      "name": "Indios",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99416667",
+      "longitude": "-66.81944444"
+   },
+   {
+      "name": "Ingenio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44222222",
+      "longitude": "-66.22611111"
+   },
+   {
+      "name": "Isabel Segunda",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.14916667",
+      "longitude": "-65.44277778"
+   },
+   {
+      "name": "Isabela",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.51305556",
+      "longitude": "-67.07000000"
+   },
+   {
+      "name": "Jagual",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.16166667",
+      "longitude": "-65.99555556"
+   },
+   {
+      "name": "Jauca",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.96916667",
+      "longitude": "-66.36583333"
+   },
+   {
+      "name": "Jayuya",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21861100",
+      "longitude": "-66.59166700"
+   },
+   {
+      "name": "Jobos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.95527778",
+      "longitude": "-66.16555556"
+   },
+   {
+      "name": "Juana Díaz",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05246000",
+      "longitude": "-66.50656000"
+   },
+   {
+      "name": "Juana Díaz Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04802000",
+      "longitude": "-66.49267000"
+   },
+   {
+      "name": "Juncal",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.31388889",
+      "longitude": "-66.91916667"
+   },
+   {
+      "name": "Juncos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.22750000",
+      "longitude": "-65.92111100"
+   },
+   {
+      "name": "La Alianza",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39750000",
+      "longitude": "-66.60250000"
+   },
+   {
+      "name": "La Dolores",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37555556",
+      "longitude": "-65.85583333"
+   },
+   {
+      "name": "La Fermina",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.17417000",
+      "longitude": "-65.85139000"
+   },
+   {
+      "name": "La Luisa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44888889",
+      "longitude": "-66.51000000"
+   },
+   {
+      "name": "La Parguera",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.97497000",
+      "longitude": "-67.04657000"
+   },
+   {
+      "name": "La Playa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.28750000",
+      "longitude": "-67.18694444"
+   },
+   {
+      "name": "La Plena",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04663000",
+      "longitude": "-66.20461000"
+   },
+   {
+      "name": "Lajas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05193889",
+      "longitude": "-67.05971944"
+   },
+   {
+      "name": "Lajas Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01330000",
+      "longitude": "-67.03990000"
+   },
+   {
+      "name": "Lamboglia",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98136000",
+      "longitude": "-65.98572000"
+   },
+   {
+      "name": "Lares",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.29467000",
+      "longitude": "-66.87712000"
+   },
+   {
+      "name": "Las Marias",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.29333333",
+      "longitude": "-67.14638889"
+   },
+   {
+      "name": "Las Marías Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.25087000",
+      "longitude": "-66.99240000"
+   },
+   {
+      "name": "Las Ochenta",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98469000",
+      "longitude": "-66.31795000"
+   },
+   {
+      "name": "Las Ollas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.03305556",
+      "longitude": "-66.42444444"
+   },
+   {
+      "name": "Las Piedras",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.18301000",
+      "longitude": "-65.86627000"
+   },
+   {
+      "name": "Las Piedras Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.18829000",
+      "longitude": "-65.87044000"
+   },
+   {
+      "name": "Levittown",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44861111",
+      "longitude": "-66.18027778"
+   },
+   {
+      "name": "Liborio Negron Torres",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04305556",
+      "longitude": "-66.94250000"
+   },
+   {
+      "name": "Lluveras",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.03833333",
+      "longitude": "-66.90472222"
+   },
+   {
+      "name": "Lomas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.26861111",
+      "longitude": "-65.90888889"
+   },
+   {
+      "name": "Los Llanos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05527778",
+      "longitude": "-66.40583333"
+   },
+   {
+      "name": "Loíza",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43134000",
+      "longitude": "-65.88016000"
+   },
+   {
+      "name": "Luis Lloréns Torres",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05691000",
+      "longitude": "-66.52684000"
+   },
+   {
+      "name": "Luis M. Cintron",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.29972222",
+      "longitude": "-65.63861111"
+   },
+   {
+      "name": "Luquillo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37250000",
+      "longitude": "-65.71666667"
+   },
+   {
+      "name": "Luquillo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33967000",
+      "longitude": "-65.72461000"
+   },
+   {
+      "name": "Luyando",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36444444",
+      "longitude": "-67.15750000"
+   },
+   {
+      "name": "Magas Arriba",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01750000",
+      "longitude": "-66.76916667"
+   },
+   {
+      "name": "Manatí",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43250000",
+      "longitude": "-66.48444444"
+   },
+   {
+      "name": "Maria Antonia",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.97833333",
+      "longitude": "-66.88944444"
+   },
+   {
+      "name": "Mariano Colón",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.02333333",
+      "longitude": "-66.33250000"
+   },
+   {
+      "name": "Maricao",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.18083300",
+      "longitude": "-66.98000000"
+   },
+   {
+      "name": "Maricao Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.17301000",
+      "longitude": "-66.94546000"
+   },
+   {
+      "name": "Martorell",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.07472000",
+      "longitude": "-65.89861000"
+   },
+   {
+      "name": "Marueño",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05772000",
+      "longitude": "-66.65603000"
+   },
+   {
+      "name": "Maunabo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00719000",
+      "longitude": "-65.89933000"
+   },
+   {
+      "name": "Maunabo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01691000",
+      "longitude": "-65.92738000"
+   },
+   {
+      "name": "Mayagüez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.20111111",
+      "longitude": "-67.13972222"
+   },
+   {
+      "name": "Miranda",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38666667",
+      "longitude": "-66.38388889"
+   },
+   {
+      "name": "Moca",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39467000",
+      "longitude": "-67.11324000"
+   },
+   {
+      "name": "Moca Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38550000",
+      "longitude": "-67.08435000"
+   },
+   {
+      "name": "Monserrate",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43694000",
+      "longitude": "-66.35639000"
+   },
+   {
+      "name": "Monte Grande",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08750000",
+      "longitude": "-67.10750000"
+   },
+   {
+      "name": "Mora",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.46305556",
+      "longitude": "-67.03277778"
+   },
+   {
+      "name": "Morovis",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33333333",
+      "longitude": "-66.41666667"
+   },
+   {
+      "name": "Mucarabones",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39083333",
+      "longitude": "-66.21611111"
+   },
+   {
+      "name": "Naguabo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21944444",
+      "longitude": "-65.73666667"
+   },
+   {
+      "name": "Naguabo Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.23135000",
+      "longitude": "-65.75988000"
+   },
+   {
+      "name": "Naranjito",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.30083300",
+      "longitude": "-66.24500000"
+   },
+   {
+      "name": "Naranjito Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.28968000",
+      "longitude": "-66.25517000"
+   },
+   {
+      "name": "Olimpo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00194444",
+      "longitude": "-66.10833333"
+   },
+   {
+      "name": "Orocovis",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.22694400",
+      "longitude": "-66.39111100"
+   },
+   {
+      "name": "Orocovis Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21885000",
+      "longitude": "-66.43712000"
+   },
+   {
+      "name": "Pajonal",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38222222",
+      "longitude": "-66.55583333"
+   },
+   {
+      "name": "Palmarejo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04027778",
+      "longitude": "-67.07694444"
+   },
+   {
+      "name": "Palmas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98722222",
+      "longitude": "-66.02555556"
+   },
+   {
+      "name": "Palmer",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37055556",
+      "longitude": "-65.77416667"
+   },
+   {
+      "name": "Palo Seco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00747000",
+      "longitude": "-65.93683000"
+   },
+   {
+      "name": "Palomas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01361111",
+      "longitude": "-66.87333333"
+   },
+   {
+      "name": "Parcelas La Milagrosa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.17083333",
+      "longitude": "-66.18833333"
+   },
+   {
+      "name": "Parcelas Nuevas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.14027778",
+      "longitude": "-66.17250000"
+   },
+   {
+      "name": "Parcelas Peñuelas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99888889",
+      "longitude": "-66.34138889"
+   },
+   {
+      "name": "Pastos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.11777778",
+      "longitude": "-66.25888889"
+   },
+   {
+      "name": "Patillas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00635000",
+      "longitude": "-66.01572000"
+   },
+   {
+      "name": "Patillas Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.04163000",
+      "longitude": "-66.01766000"
+   },
+   {
+      "name": "Peña Pobre",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21555556",
+      "longitude": "-65.82222222"
+   },
+   {
+      "name": "Peñuelas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05937500",
+      "longitude": "-66.72254400"
+   },
+   {
+      "name": "Piedra Gorda",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43416667",
+      "longitude": "-66.88777778"
+   },
+   {
+      "name": "Playa Fortuna",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37972222",
+      "longitude": "-65.74527778"
+   },
+   {
+      "name": "Playita",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.96055556",
+      "longitude": "-66.28972222"
+   },
+   {
+      "name": "Playita Cortada",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.98500000",
+      "longitude": "-66.43916667"
+   },
+   {
+      "name": "Pole Ojea",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.97500000",
+      "longitude": "-67.18527778"
+   },
+   {
+      "name": "Ponce",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.00000000",
+      "longitude": "-66.61666667"
+   },
+   {
+      "name": "Potala Pastillo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99138889",
+      "longitude": "-66.49666667"
+   },
+   {
+      "name": "Pueblito del Rio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.22805556",
+      "longitude": "-65.86305556"
+   },
+   {
+      "name": "Puerto Real",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.07500000",
+      "longitude": "-67.18722222"
+   },
+   {
+      "name": "Punta Santiago",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.16638889",
+      "longitude": "-65.74833333"
+   },
+   {
+      "name": "Pájaros",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.37592060",
+      "longitude": "-66.18625500"
+   },
+   {
+      "name": "Quebrada",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.35666667",
+      "longitude": "-66.83222222"
+   },
+   {
+      "name": "Quebradillas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.47388889",
+      "longitude": "-66.93861111"
+   },
+   {
+      "name": "Quebradillas Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43967000",
+      "longitude": "-66.92462000"
+   },
+   {
+      "name": "Rafael Capo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.40722222",
+      "longitude": "-66.78222222"
+   },
+   {
+      "name": "Rafael Gonzalez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42750000",
+      "longitude": "-66.78694444"
+   },
+   {
+      "name": "Rafael Hernandez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.47138889",
+      "longitude": "-67.07916667"
+   },
+   {
+      "name": "Ramos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33972222",
+      "longitude": "-65.71277778"
+   },
+   {
+      "name": "Rincón",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34023000",
+      "longitude": "-67.24990000"
+   },
+   {
+      "name": "Rincón Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33967000",
+      "longitude": "-67.23713000"
+   },
+   {
+      "name": "Rio Lajas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39719150",
+      "longitude": "-66.26453900"
+   },
+   {
+      "name": "Rosa Sanchez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.06166667",
+      "longitude": "-65.91361111"
+   },
+   {
+      "name": "Río Blanco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21833333",
+      "longitude": "-65.78861111"
+   },
+   {
+      "name": "Río Cañas Abajo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.03833333",
+      "longitude": "-66.46777778"
+   },
+   {
+      "name": "Río Grande",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38023000",
+      "longitude": "-65.83127000"
+   },
+   {
+      "name": "Río Grande Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34162000",
+      "longitude": "-65.81766000"
+   },
+   {
+      "name": "Río Piedras",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39972222",
+      "longitude": "-66.05000000"
+   },
+   {
+      "name": "Sabana",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.46083333",
+      "longitude": "-66.35861111"
+   },
+   {
+      "name": "Sabana Eneas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.08611111",
+      "longitude": "-67.08111111"
+   },
+   {
+      "name": "Sabana Grande",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.07972222",
+      "longitude": "-66.96083333"
+   },
+   {
+      "name": "Sabana Grande Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.09385000",
+      "longitude": "-66.94962000"
+   },
+   {
+      "name": "Sabana Hoyos",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43388889",
+      "longitude": "-66.61388889"
+   },
+   {
+      "name": "Sabana Seca",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42694444",
+      "longitude": "-66.18472222"
+   },
+   {
+      "name": "Salinas",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.01746000",
+      "longitude": "-66.25378000"
+   },
+   {
+      "name": "San Antonio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45166667",
+      "longitude": "-66.94972222"
+   },
+   {
+      "name": "San Germán Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.11468000",
+      "longitude": "-67.03573000"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39222222",
+      "longitude": "-65.88555556"
+   },
+   {
+      "name": "San José",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39833333",
+      "longitude": "-66.25583333"
+   },
+   {
+      "name": "San Juan",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.45000000",
+      "longitude": "-66.06666667"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.18988900",
+      "longitude": "-65.96869400"
+   },
+   {
+      "name": "San Sebastián",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.33722222",
+      "longitude": "-66.99055556"
+   },
+   {
+      "name": "Santa Barbara",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.39361111",
+      "longitude": "-65.91888889"
+   },
+   {
+      "name": "Santa Clara",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21861111",
+      "longitude": "-66.12888889"
+   },
+   {
+      "name": "Santa Isabel",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.96611100",
+      "longitude": "-66.40500000"
+   },
+   {
+      "name": "Santa Isabel Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99663000",
+      "longitude": "-66.38711000"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.06333333",
+      "longitude": "-66.75250000"
+   },
+   {
+      "name": "Santurce",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44083333",
+      "longitude": "-66.04722222"
+   },
+   {
+      "name": "Stella",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.32194444",
+      "longitude": "-67.24694444"
+   },
+   {
+      "name": "Sumidero",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.21861111",
+      "longitude": "-66.12888889"
+   },
+   {
+      "name": "Suárez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43027778",
+      "longitude": "-65.85361111"
+   },
+   {
+      "name": "Tallaboa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "17.99500000",
+      "longitude": "-66.71638889"
+   },
+   {
+      "name": "Tallaboa Alta",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05111111",
+      "longitude": "-66.70027778"
+   },
+   {
+      "name": "Tiburones",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.43166667",
+      "longitude": "-66.58083333"
+   },
+   {
+      "name": "Tierras Nuevas Poniente",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.46189000",
+      "longitude": "-66.48850000"
+   },
+   {
+      "name": "Toa Alta",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.38828000",
+      "longitude": "-66.24822000"
+   },
+   {
+      "name": "Toa Alta Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36606000",
+      "longitude": "-66.25378000"
+   },
+   {
+      "name": "Toa Baja",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44388900",
+      "longitude": "-66.25972200"
+   },
+   {
+      "name": "Trujillo Alto",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.36277800",
+      "longitude": "-66.01750000"
+   },
+   {
+      "name": "Trujillo Alto Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.34162000",
+      "longitude": "-66.00517000"
+   },
+   {
+      "name": "Utuado",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.27301000",
+      "longitude": "-66.69962000"
+   },
+   {
+      "name": "Utuado barrio-pueblo",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.26580000",
+      "longitude": "-66.70640000"
+   },
+   {
+      "name": "Vega Alta",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.41217000",
+      "longitude": "-66.33128000"
+   },
+   {
+      "name": "Vega Alta Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.41050000",
+      "longitude": "-66.33295000"
+   },
+   {
+      "name": "Vega Baja",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.44611111",
+      "longitude": "-66.38750000"
+   },
+   {
+      "name": "Vieques",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.42500000",
+      "longitude": "-65.83305556"
+   },
+   {
+      "name": "Vieques Municipality",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.12913000",
+      "longitude": "-65.43710000"
+   },
+   {
+      "name": "Villalba",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.12722200",
+      "longitude": "-66.49222200"
+   },
+   {
+      "name": "Villalba Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.12913000",
+      "longitude": "-66.47739000"
+   },
+   {
+      "name": "Vázquez",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.06583333",
+      "longitude": "-66.23861111"
+   },
+   {
+      "name": "Yabucoa",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.05052000",
+      "longitude": "-65.87933000"
+   },
+   {
+      "name": "Yabucoa Municipio",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.07302000",
+      "longitude": "-65.88711000"
+   },
+   {
+      "name": "Yauco",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.03694444",
+      "longitude": "-66.85027778"
+   },
+   {
+      "name": "Yaurel",
+      "countryCode": "US",
+      "stateCode": "PR",
+      "latitude": "18.02694444",
+      "longitude": "-66.05722222"
+   }
+]

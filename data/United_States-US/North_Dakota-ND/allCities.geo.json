@@ -1,0 +1,933 @@
+[
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.09684000",
+      "longitude": "-102.52853000"
+   },
+   {
+      "name": "Amidon",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.48223000",
+      "longitude": "-103.32185000"
+   },
+   {
+      "name": "Ashley",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.03414000",
+      "longitude": "-99.37150000"
+   },
+   {
+      "name": "Barnes County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.93611000",
+      "longitude": "-98.07158000"
+   },
+   {
+      "name": "Beach",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.91807000",
+      "longitude": "-104.00437000"
+   },
+   {
+      "name": "Belcourt",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.83917000",
+      "longitude": "-99.74487000"
+   },
+   {
+      "name": "Belfield",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.88529000",
+      "longitude": "-103.19962000"
+   },
+   {
+      "name": "Benson County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.06939000",
+      "longitude": "-99.36603000"
+   },
+   {
+      "name": "Beulah",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.26334000",
+      "longitude": "-101.77795000"
+   },
+   {
+      "name": "Billings County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.02345000",
+      "longitude": "-103.37643000"
+   },
+   {
+      "name": "Bismarck",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.80833000",
+      "longitude": "-100.78374000"
+   },
+   {
+      "name": "Bottineau",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.82723000",
+      "longitude": "-100.44570000"
+   },
+   {
+      "name": "Bottineau County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.79216000",
+      "longitude": "-100.83333000"
+   },
+   {
+      "name": "Bowbells",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.80308000",
+      "longitude": "-102.24600000"
+   },
+   {
+      "name": "Bowman",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.18306000",
+      "longitude": "-103.39491000"
+   },
+   {
+      "name": "Bowman County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.11261000",
+      "longitude": "-103.52067000"
+   },
+   {
+      "name": "Burke County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.79100000",
+      "longitude": "-102.51826000"
+   },
+   {
+      "name": "Burleigh County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.97739000",
+      "longitude": "-100.46873000"
+   },
+   {
+      "name": "Burlington",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.27529000",
+      "longitude": "-101.42878000"
+   },
+   {
+      "name": "Cando",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.48667000",
+      "longitude": "-99.20986000"
+   },
+   {
+      "name": "Carrington",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.44972000",
+      "longitude": "-99.12622000"
+   },
+   {
+      "name": "Carson",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.41778000",
+      "longitude": "-101.56487000"
+   },
+   {
+      "name": "Cass County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.93297000",
+      "longitude": "-97.24804000"
+   },
+   {
+      "name": "Casselton",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.90053000",
+      "longitude": "-97.21120000"
+   },
+   {
+      "name": "Cavalier",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.79388000",
+      "longitude": "-97.62231000"
+   },
+   {
+      "name": "Cavalier County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.77230000",
+      "longitude": "-98.46486000"
+   },
+   {
+      "name": "Center",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.11638000",
+      "longitude": "-101.29959000"
+   },
+   {
+      "name": "Cooperstown",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.44444000",
+      "longitude": "-98.12398000"
+   },
+   {
+      "name": "Crosby",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.91420000",
+      "longitude": "-103.29491000"
+   },
+   {
+      "name": "Devils Lake",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.11278000",
+      "longitude": "-98.86512000"
+   },
+   {
+      "name": "Dickey County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.11012000",
+      "longitude": "-98.50467000"
+   },
+   {
+      "name": "Dickinson",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.87918000",
+      "longitude": "-102.78962000"
+   },
+   {
+      "name": "Divide County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.81489000",
+      "longitude": "-103.48735000"
+   },
+   {
+      "name": "Dunn County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.35675000",
+      "longitude": "-102.61824000"
+   },
+   {
+      "name": "Eddy County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.71759000",
+      "longitude": "-98.90158000"
+   },
+   {
+      "name": "Ellendale",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.00275000",
+      "longitude": "-98.52705000"
+   },
+   {
+      "name": "Emmons County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.28502000",
+      "longitude": "-100.23878000"
+   },
+   {
+      "name": "Fargo",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.87719000",
+      "longitude": "-96.78980000"
+   },
+   {
+      "name": "Fessenden",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.64917000",
+      "longitude": "-99.62929000"
+   },
+   {
+      "name": "Finley",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.51416000",
+      "longitude": "-97.83593000"
+   },
+   {
+      "name": "Forman",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.10774000",
+      "longitude": "-97.63649000"
+   },
+   {
+      "name": "Fort Totten",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.98000000",
+      "longitude": "-98.99290000"
+   },
+   {
+      "name": "Fort Yates",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.08694000",
+      "longitude": "-100.63013000"
+   },
+   {
+      "name": "Foster County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.45708000",
+      "longitude": "-98.88302000"
+   },
+   {
+      "name": "Garrison",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.65222000",
+      "longitude": "-101.41572000"
+   },
+   {
+      "name": "Golden Valley County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.94022000",
+      "longitude": "-103.84670000"
+   },
+   {
+      "name": "Grafton",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.41221000",
+      "longitude": "-97.41063000"
+   },
+   {
+      "name": "Grand Forks",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.92526000",
+      "longitude": "-97.03285000"
+   },
+   {
+      "name": "Grand Forks Air Force Base",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.95493000",
+      "longitude": "-97.38664000"
+   },
+   {
+      "name": "Grand Forks County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.92192000",
+      "longitude": "-97.45693000"
+   },
+   {
+      "name": "Grant County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.35828000",
+      "longitude": "-101.63971000"
+   },
+   {
+      "name": "Griggs County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.45729000",
+      "longitude": "-98.23704000"
+   },
+   {
+      "name": "Harvey",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.76972000",
+      "longitude": "-99.93540000"
+   },
+   {
+      "name": "Hazen",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.29445000",
+      "longitude": "-101.62266000"
+   },
+   {
+      "name": "Hettinger",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.00139000",
+      "longitude": "-102.63682000"
+   },
+   {
+      "name": "Hettinger County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.43253000",
+      "longitude": "-102.46036000"
+   },
+   {
+      "name": "Hillsboro",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.40387000",
+      "longitude": "-97.06203000"
+   },
+   {
+      "name": "Horace",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.75886000",
+      "longitude": "-96.90370000"
+   },
+   {
+      "name": "Jamestown",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.91054000",
+      "longitude": "-98.70844000"
+   },
+   {
+      "name": "Kenmare",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.67475000",
+      "longitude": "-102.08266000"
+   },
+   {
+      "name": "Kidder County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.98014000",
+      "longitude": "-99.78009000"
+   },
+   {
+      "name": "Killdeer",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.37196000",
+      "longitude": "-102.75408000"
+   },
+   {
+      "name": "LaMoure County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.45691000",
+      "longitude": "-98.53546000"
+   },
+   {
+      "name": "Lakota",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.04278000",
+      "longitude": "-98.33621000"
+   },
+   {
+      "name": "Langdon",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.76000000",
+      "longitude": "-98.36817000"
+   },
+   {
+      "name": "Larimore",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.90666000",
+      "longitude": "-97.62675000"
+   },
+   {
+      "name": "Lincoln",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.76249000",
+      "longitude": "-100.70040000"
+   },
+   {
+      "name": "Linton",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.26666000",
+      "longitude": "-100.23289000"
+   },
+   {
+      "name": "Lisbon",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.44163000",
+      "longitude": "-97.68121000"
+   },
+   {
+      "name": "Logan County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.45736000",
+      "longitude": "-99.47747000"
+   },
+   {
+      "name": "Mandan",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.82666000",
+      "longitude": "-100.88958000"
+   },
+   {
+      "name": "Manning",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.23001000",
+      "longitude": "-102.77019000"
+   },
+   {
+      "name": "Mayville",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.49804000",
+      "longitude": "-97.32454000"
+   },
+   {
+      "name": "McClusky",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.48583000",
+      "longitude": "-100.44318000"
+   },
+   {
+      "name": "McHenry County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.23458000",
+      "longitude": "-100.63628000"
+   },
+   {
+      "name": "McIntosh County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.11179000",
+      "longitude": "-99.44120000"
+   },
+   {
+      "name": "McKenzie County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.74015000",
+      "longitude": "-103.39527000"
+   },
+   {
+      "name": "McLean County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.60696000",
+      "longitude": "-101.32183000"
+   },
+   {
+      "name": "Medora",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.91390000",
+      "longitude": "-103.52435000"
+   },
+   {
+      "name": "Mercer County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.30922000",
+      "longitude": "-101.83153000"
+   },
+   {
+      "name": "Minnewaukan",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.07139000",
+      "longitude": "-99.25236000"
+   },
+   {
+      "name": "Minot",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.23251000",
+      "longitude": "-101.29627000"
+   },
+   {
+      "name": "Minot Air Force Base",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.42087000",
+      "longitude": "-101.33914000"
+   },
+   {
+      "name": "Mohall",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.76336000",
+      "longitude": "-101.51322000"
+   },
+   {
+      "name": "Morton County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.71606000",
+      "longitude": "-101.28117000"
+   },
+   {
+      "name": "Mott",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.37250000",
+      "longitude": "-102.32711000"
+   },
+   {
+      "name": "Mountrail County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.20133000",
+      "longitude": "-102.35565000"
+   },
+   {
+      "name": "Napoleon",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.50831000",
+      "longitude": "-99.77122000"
+   },
+   {
+      "name": "Nelson County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.92169000",
+      "longitude": "-98.19204000"
+   },
+   {
+      "name": "New Rockford",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.68000000",
+      "longitude": "-99.13790000"
+   },
+   {
+      "name": "New Town",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.98085000",
+      "longitude": "-102.49018000"
+   },
+   {
+      "name": "Oakes",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.13858000",
+      "longitude": "-98.09038000"
+   },
+   {
+      "name": "Oliver County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.11528000",
+      "longitude": "-101.34036000"
+   },
+   {
+      "name": "Park River",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.39860000",
+      "longitude": "-97.74120000"
+   },
+   {
+      "name": "Parshall",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.95335000",
+      "longitude": "-102.13489000"
+   },
+   {
+      "name": "Pembina County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.76752000",
+      "longitude": "-97.55183000"
+   },
+   {
+      "name": "Pierce County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.24960000",
+      "longitude": "-99.97182000"
+   },
+   {
+      "name": "Ramsey County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.26893000",
+      "longitude": "-98.72014000"
+   },
+   {
+      "name": "Ransom County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.45616000",
+      "longitude": "-97.65745000"
+   },
+   {
+      "name": "Renville County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.71907000",
+      "longitude": "-101.65778000"
+   },
+   {
+      "name": "Richland County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.26466000",
+      "longitude": "-96.94828000"
+   },
+   {
+      "name": "Rolette County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.77245000",
+      "longitude": "-99.84099000"
+   },
+   {
+      "name": "Rolla",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.85778000",
+      "longitude": "-99.61792000"
+   },
+   {
+      "name": "Rugby",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.36889000",
+      "longitude": "-99.99625000"
+   },
+   {
+      "name": "Sargent County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.10794000",
+      "longitude": "-97.63072000"
+   },
+   {
+      "name": "Sheldon",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.58580000",
+      "longitude": "-97.49120000"
+   },
+   {
+      "name": "Shell Valley",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.79806000",
+      "longitude": "-99.86486000"
+   },
+   {
+      "name": "Sheridan County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.57541000",
+      "longitude": "-100.34566000"
+   },
+   {
+      "name": "Sioux County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.11265000",
+      "longitude": "-101.04034000"
+   },
+   {
+      "name": "Slope County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.44722000",
+      "longitude": "-103.45990000"
+   },
+   {
+      "name": "Stanley",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.31724000",
+      "longitude": "-102.39045000"
+   },
+   {
+      "name": "Stanton",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.32111000",
+      "longitude": "-101.38155000"
+   },
+   {
+      "name": "Stark County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.81068000",
+      "longitude": "-102.65513000"
+   },
+   {
+      "name": "Steele",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.85471000",
+      "longitude": "-99.91594000"
+   },
+   {
+      "name": "Steele County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.45615000",
+      "longitude": "-97.72467000"
+   },
+   {
+      "name": "Stutsman County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.97925000",
+      "longitude": "-98.95883000"
+   },
+   {
+      "name": "Surrey",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.23640000",
+      "longitude": "-101.13349000"
+   },
+   {
+      "name": "Thompson",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.77359000",
+      "longitude": "-97.10980000"
+   },
+   {
+      "name": "Tioga",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.39724000",
+      "longitude": "-102.93824000"
+   },
+   {
+      "name": "Towner",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.34583000",
+      "longitude": "-100.40541000"
+   },
+   {
+      "name": "Towner County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.68554000",
+      "longitude": "-99.24580000"
+   },
+   {
+      "name": "Traill County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.45418000",
+      "longitude": "-97.16158000"
+   },
+   {
+      "name": "Valley City",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.92331000",
+      "longitude": "-98.00315000"
+   },
+   {
+      "name": "Velva",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.05612000",
+      "longitude": "-100.92932000"
+   },
+   {
+      "name": "Wahpeton",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.26524000",
+      "longitude": "-96.60591000"
+   },
+   {
+      "name": "Walsh County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.36946000",
+      "longitude": "-97.72137000"
+   },
+   {
+      "name": "Ward County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.22175000",
+      "longitude": "-101.54183000"
+   },
+   {
+      "name": "Washburn",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.28916000",
+      "longitude": "-101.02903000"
+   },
+   {
+      "name": "Watford City",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.80224000",
+      "longitude": "-103.28325000"
+   },
+   {
+      "name": "Wells County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "47.58753000",
+      "longitude": "-99.66095000"
+   },
+   {
+      "name": "West Fargo",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "46.87497000",
+      "longitude": "-96.90036000"
+   },
+   {
+      "name": "Williams County",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.34368000",
+      "longitude": "-103.48021000"
+   },
+   {
+      "name": "Williston",
+      "countryCode": "US",
+      "stateCode": "ND",
+      "latitude": "48.14697000",
+      "longitude": "-103.61797000"
+   }
+]

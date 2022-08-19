@@ -1,0 +1,576 @@
+[
+   {
+      "name": "Alcinópolis",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-18.19955000",
+      "longitude": "-53.75814000"
+   },
+   {
+      "name": "Amambai",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.12710000",
+      "longitude": "-54.95790000"
+   },
+   {
+      "name": "Anastácio",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.76269000",
+      "longitude": "-55.73052000"
+   },
+   {
+      "name": "Anaurilândia",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.14199000",
+      "longitude": "-52.72011000"
+   },
+   {
+      "name": "Angélica",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.02780000",
+      "longitude": "-53.86668000"
+   },
+   {
+      "name": "Antônio João",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.20114000",
+      "longitude": "-55.93897000"
+   },
+   {
+      "name": "Aparecida do Taboado",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.00909000",
+      "longitude": "-51.34632000"
+   },
+   {
+      "name": "Aquidauana",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.45790000",
+      "longitude": "-55.83801000"
+   },
+   {
+      "name": "Aral Moreira",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.90946000",
+      "longitude": "-55.37007000"
+   },
+   {
+      "name": "Bandeirantes",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.80863000",
+      "longitude": "-54.33095000"
+   },
+   {
+      "name": "Bataguassu",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.78550000",
+      "longitude": "-52.56542000"
+   },
+   {
+      "name": "Bataiporã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.29528000",
+      "longitude": "-53.27111000"
+   },
+   {
+      "name": "Batayporã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.46496000",
+      "longitude": "-53.17683000"
+   },
+   {
+      "name": "Bela Vista",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.10889000",
+      "longitude": "-56.52111000"
+   },
+   {
+      "name": "Bodoquena",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.48226000",
+      "longitude": "-56.65893000"
+   },
+   {
+      "name": "Bonito",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.12111000",
+      "longitude": "-56.48194000"
+   },
+   {
+      "name": "Brasilândia",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.11993000",
+      "longitude": "-52.43829000"
+   },
+   {
+      "name": "Caarapó",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.63417000",
+      "longitude": "-54.82222000"
+   },
+   {
+      "name": "Camapuã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.05769000",
+      "longitude": "-53.85781000"
+   },
+   {
+      "name": "Campo Grande",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.44278000",
+      "longitude": "-54.64639000"
+   },
+   {
+      "name": "Campo Verde",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.41667000",
+      "longitude": "-54.06667000"
+   },
+   {
+      "name": "Caracol",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.96712000",
+      "longitude": "-57.12672000"
+   },
+   {
+      "name": "Cassilândia",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.11333000",
+      "longitude": "-51.73417000"
+   },
+   {
+      "name": "Chapadão do Sul",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.06696000",
+      "longitude": "-52.74056000"
+   },
+   {
+      "name": "Corguinho",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.81861000",
+      "longitude": "-55.00199000"
+   },
+   {
+      "name": "Coronel Sapucaia",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.33759000",
+      "longitude": "-55.38899000"
+   },
+   {
+      "name": "Corumbá",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.00917000",
+      "longitude": "-57.65333000"
+   },
+   {
+      "name": "Costa Rica",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-18.63739000",
+      "longitude": "-53.27361000"
+   },
+   {
+      "name": "Coxim",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-18.50667000",
+      "longitude": "-54.76000000"
+   },
+   {
+      "name": "Deodápolis",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.08040000",
+      "longitude": "-54.20322000"
+   },
+   {
+      "name": "Dois Irmãos do Buriti",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.57189000",
+      "longitude": "-55.36839000"
+   },
+   {
+      "name": "Douradina",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.98525000",
+      "longitude": "-54.58145000"
+   },
+   {
+      "name": "Dourados",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.22111000",
+      "longitude": "-54.80556000"
+   },
+   {
+      "name": "Eldorado",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.78694000",
+      "longitude": "-54.28361000"
+   },
+   {
+      "name": "Figueirão",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-18.67500000",
+      "longitude": "-53.64250000"
+   },
+   {
+      "name": "Fátima do Sul",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.34424000",
+      "longitude": "-54.37064000"
+   },
+   {
+      "name": "Glória de Dourados",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.48388000",
+      "longitude": "-54.09006000"
+   },
+   {
+      "name": "Guia Lopes da Laguna",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.61081000",
+      "longitude": "-55.93458000"
+   },
+   {
+      "name": "Iguatemi",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.42596000",
+      "longitude": "-54.55844000"
+   },
+   {
+      "name": "Inocência",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.67150000",
+      "longitude": "-52.04393000"
+   },
+   {
+      "name": "Itaporã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.92184000",
+      "longitude": "-54.81409000"
+   },
+   {
+      "name": "Itaquiraí",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.47080000",
+      "longitude": "-54.19281000"
+   },
+   {
+      "name": "Ivinhema",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.38076000",
+      "longitude": "-53.75565000"
+   },
+   {
+      "name": "Japorã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.79410000",
+      "longitude": "-54.54402000"
+   },
+   {
+      "name": "Jaraguari",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.27238000",
+      "longitude": "-54.23743000"
+   },
+   {
+      "name": "Jardim",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.48028000",
+      "longitude": "-56.13806000"
+   },
+   {
+      "name": "Jateí",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.73989000",
+      "longitude": "-53.81496000"
+   },
+   {
+      "name": "Juti",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.85356000",
+      "longitude": "-54.52155000"
+   },
+   {
+      "name": "Ladário",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.10505000",
+      "longitude": "-57.58416000"
+   },
+   {
+      "name": "Laguna Carapã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.71043000",
+      "longitude": "-55.08248000"
+   },
+   {
+      "name": "Maracaju",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.61444000",
+      "longitude": "-55.16833000"
+   },
+   {
+      "name": "Miranda",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.24056000",
+      "longitude": "-56.37833000"
+   },
+   {
+      "name": "Mundo Novo",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.92628000",
+      "longitude": "-54.25746000"
+   },
+   {
+      "name": "Naviraí",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.06500000",
+      "longitude": "-54.19056000"
+   },
+   {
+      "name": "Nioaque",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.18151000",
+      "longitude": "-55.75856000"
+   },
+   {
+      "name": "Nova Alvorada do Sul",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.48079000",
+      "longitude": "-54.15260000"
+   },
+   {
+      "name": "Nova Andradina",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.88205000",
+      "longitude": "-53.46637000"
+   },
+   {
+      "name": "Novo Horizonte do Sul",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.63068000",
+      "longitude": "-53.73643000"
+   },
+   {
+      "name": "Paranaíba",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.67722000",
+      "longitude": "-51.19083000"
+   },
+   {
+      "name": "Paranhos",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.89278000",
+      "longitude": "-55.43111000"
+   },
+   {
+      "name": "Paraíso das Águas",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.01750000",
+      "longitude": "-53.01222000"
+   },
+   {
+      "name": "Pedro Gomes",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-17.83882000",
+      "longitude": "-54.12943000"
+   },
+   {
+      "name": "Ponta Porã",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.53611000",
+      "longitude": "-55.72556000"
+   },
+   {
+      "name": "Porto Murtinho",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.69889000",
+      "longitude": "-57.88250000"
+   },
+   {
+      "name": "Pôrto Barra do Ivinheima",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.96667000",
+      "longitude": "-53.66667000"
+   },
+   {
+      "name": "Ribas do Rio Pardo",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.44306000",
+      "longitude": "-53.75917000"
+   },
+   {
+      "name": "Rio Brilhante",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.80194000",
+      "longitude": "-54.54639000"
+   },
+   {
+      "name": "Rio Negro",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.44620000",
+      "longitude": "-54.97947000"
+   },
+   {
+      "name": "Rio Verde de Mato Grosso",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-18.91806000",
+      "longitude": "-54.84417000"
+   },
+   {
+      "name": "Rochedo",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.98799000",
+      "longitude": "-54.78184000"
+   },
+   {
+      "name": "Santa Rita do Pardo",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-21.35479000",
+      "longitude": "-52.69315000"
+   },
+   {
+      "name": "Selvíria",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.24958000",
+      "longitude": "-51.83228000"
+   },
+   {
+      "name": "Sete Quedas",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.88066000",
+      "longitude": "-55.02727000"
+   },
+   {
+      "name": "Sidrolândia",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.93194000",
+      "longitude": "-54.96139000"
+   },
+   {
+      "name": "Sonora",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-17.67403000",
+      "longitude": "-54.45326000"
+   },
+   {
+      "name": "São Gabriel do Oeste",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.13170000",
+      "longitude": "-54.44865000"
+   },
+   {
+      "name": "Tacuru",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-23.68722000",
+      "longitude": "-54.91099000"
+   },
+   {
+      "name": "Taquarussu",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.73419000",
+      "longitude": "-53.48002000"
+   },
+   {
+      "name": "Terenos",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.42068000",
+      "longitude": "-55.10602000"
+   },
+   {
+      "name": "Três Lagoas",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-20.37964000",
+      "longitude": "-52.25961000"
+   },
+   {
+      "name": "Vicentina",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-22.49155000",
+      "longitude": "-54.46183000"
+   },
+   {
+      "name": "Água Clara",
+      "countryCode": "BR",
+      "stateCode": "MS",
+      "latitude": "-19.89787000",
+      "longitude": "-52.95089000"
+   }
+]

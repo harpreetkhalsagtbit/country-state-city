@@ -1,0 +1,765 @@
+[
+   {
+      "name": "Aabenraa",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.04434000",
+      "longitude": "9.41741000"
+   },
+   {
+      "name": "Aabenraa Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.98980000",
+      "longitude": "9.31282000"
+   },
+   {
+      "name": "Assens",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.27023000",
+      "longitude": "9.90081000"
+   },
+   {
+      "name": "Assens Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.29958000",
+      "longitude": "10.07952000"
+   },
+   {
+      "name": "Augustenborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.95201000",
+      "longitude": "9.87216000"
+   },
+   {
+      "name": "Bellinge",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.33535000",
+      "longitude": "10.32045000"
+   },
+   {
+      "name": "Billund",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.73349000",
+      "longitude": "9.10785000"
+   },
+   {
+      "name": "Billund Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.73079000",
+      "longitude": "8.96844000"
+   },
+   {
+      "name": "Bogense",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.56691000",
+      "longitude": "10.08863000"
+   },
+   {
+      "name": "Bramming",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.46946000",
+      "longitude": "8.70007000"
+   },
+   {
+      "name": "Brejning",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.66594000",
+      "longitude": "9.67217000"
+   },
+   {
+      "name": "Brenderup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.48407000",
+      "longitude": "9.97908000"
+   },
+   {
+      "name": "Broager",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.88940000",
+      "longitude": "9.67465000"
+   },
+   {
+      "name": "Brørup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.48194000",
+      "longitude": "9.01756000"
+   },
+   {
+      "name": "Bullerup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.42686000",
+      "longitude": "10.47137000"
+   },
+   {
+      "name": "Børkop",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.64195000",
+      "longitude": "9.64958000"
+   },
+   {
+      "name": "Christiansfeld",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.35817000",
+      "longitude": "9.48701000"
+   },
+   {
+      "name": "Dybbøl",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.91079000",
+      "longitude": "9.73601000"
+   },
+   {
+      "name": "Egtved",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.61613000",
+      "longitude": "9.30763000"
+   },
+   {
+      "name": "Ejby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.43010000",
+      "longitude": "9.92973000"
+   },
+   {
+      "name": "Esbjerg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.47028000",
+      "longitude": "8.45187000"
+   },
+   {
+      "name": "Esbjerg Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.46893000",
+      "longitude": "8.46222000"
+   },
+   {
+      "name": "Faaborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.09510000",
+      "longitude": "10.24226000"
+   },
+   {
+      "name": "Faaborg-Midtfyn Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.22667000",
+      "longitude": "10.40667000"
+   },
+   {
+      "name": "Fanø Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.41667000",
+      "longitude": "8.41667000"
+   },
+   {
+      "name": "Fredericia",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.56568000",
+      "longitude": "9.75257000"
+   },
+   {
+      "name": "Fredericia Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.57271000",
+      "longitude": "9.69489000"
+   },
+   {
+      "name": "Give",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.84523000",
+      "longitude": "9.23769000"
+   },
+   {
+      "name": "Glamsbjerg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.27237000",
+      "longitude": "10.10483000"
+   },
+   {
+      "name": "Gram",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.28948000",
+      "longitude": "9.04913000"
+   },
+   {
+      "name": "Grindsted",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.75726000",
+      "longitude": "8.92750000"
+   },
+   {
+      "name": "Gråsten",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.91918000",
+      "longitude": "9.59523000"
+   },
+   {
+      "name": "Guderup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.98978000",
+      "longitude": "9.87174000"
+   },
+   {
+      "name": "Haderslev",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.24943000",
+      "longitude": "9.48771000"
+   },
+   {
+      "name": "Haderslev Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.24441000",
+      "longitude": "9.32261000"
+   },
+   {
+      "name": "Holsted",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.51086000",
+      "longitude": "8.91872000"
+   },
+   {
+      "name": "Hårby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.22357000",
+      "longitude": "10.12268000"
+   },
+   {
+      "name": "Højby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.33177000",
+      "longitude": "10.43725000"
+   },
+   {
+      "name": "Høruphav",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.91017000",
+      "longitude": "9.89872000"
+   },
+   {
+      "name": "Jelling",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.75588000",
+      "longitude": "9.42580000"
+   },
+   {
+      "name": "Kerteminde",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.44903000",
+      "longitude": "10.65769000"
+   },
+   {
+      "name": "Kerteminde Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.45498000",
+      "longitude": "10.62220000"
+   },
+   {
+      "name": "Kolding",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.49040000",
+      "longitude": "9.47216000"
+   },
+   {
+      "name": "Kolding Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.45006000",
+      "longitude": "9.45807000"
+   },
+   {
+      "name": "Kruså",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.85097000",
+      "longitude": "9.40129000"
+   },
+   {
+      "name": "Langeland Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.90000000",
+      "longitude": "10.77222000"
+   },
+   {
+      "name": "Langeskov",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.35655000",
+      "longitude": "10.58447000"
+   },
+   {
+      "name": "Lunderskov",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.48375000",
+      "longitude": "9.29917000"
+   },
+   {
+      "name": "Løgumkloster",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.05941000",
+      "longitude": "8.95508000"
+   },
+   {
+      "name": "Løjt Kirkeby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.08959000",
+      "longitude": "9.46084000"
+   },
+   {
+      "name": "Marstal",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.85621000",
+      "longitude": "10.51726000"
+   },
+   {
+      "name": "Middelfart",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.50591000",
+      "longitude": "9.73054000"
+   },
+   {
+      "name": "Middelfart Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.45782000",
+      "longitude": "9.88100000"
+   },
+   {
+      "name": "Munkebo",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.45553000",
+      "longitude": "10.55433000"
+   },
+   {
+      "name": "Neder Holluf",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.36451000",
+      "longitude": "10.44824000"
+   },
+   {
+      "name": "Nordborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.05732000",
+      "longitude": "9.74080000"
+   },
+   {
+      "name": "Nordby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.44603000",
+      "longitude": "8.39786000"
+   },
+   {
+      "name": "Nordfyns Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.52222000",
+      "longitude": "10.22222000"
+   },
+   {
+      "name": "Nyborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.31274000",
+      "longitude": "10.78964000"
+   },
+   {
+      "name": "Nyborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.29473000",
+      "longitude": "10.70310000"
+   },
+   {
+      "name": "Nørre Åby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.46107000",
+      "longitude": "9.87940000"
+   },
+   {
+      "name": "Odense",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.39594000",
+      "longitude": "10.38831000"
+   },
+   {
+      "name": "Odense Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.39570000",
+      "longitude": "10.37761000"
+   },
+   {
+      "name": "Oksbøl",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.62680000",
+      "longitude": "8.28757000"
+   },
+   {
+      "name": "Otterup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.51527000",
+      "longitude": "10.39756000"
+   },
+   {
+      "name": "Padborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.82657000",
+      "longitude": "9.36247000"
+   },
+   {
+      "name": "Ribe",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.33051000",
+      "longitude": "8.76966000"
+   },
+   {
+      "name": "Ringe",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.23828000",
+      "longitude": "10.47860000"
+   },
+   {
+      "name": "Rudkøbing",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.93639000",
+      "longitude": "10.71019000"
+   },
+   {
+      "name": "Rødding",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.36569000",
+      "longitude": "9.06316000"
+   },
+   {
+      "name": "Rødekro",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.07076000",
+      "longitude": "9.33531000"
+   },
+   {
+      "name": "Seden",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.42648000",
+      "longitude": "10.44265000"
+   },
+   {
+      "name": "Skaerbaek",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.15735000",
+      "longitude": "8.76901000"
+   },
+   {
+      "name": "Snoghøj",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.52253000",
+      "longitude": "9.72125000"
+   },
+   {
+      "name": "Starup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.24097000",
+      "longitude": "9.53503000"
+   },
+   {
+      "name": "Stige",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.43941000",
+      "longitude": "10.40940000"
+   },
+   {
+      "name": "Strib",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.54021000",
+      "longitude": "9.76748000"
+   },
+   {
+      "name": "Svendborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.05982000",
+      "longitude": "10.60677000"
+   },
+   {
+      "name": "Svendborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.08410000",
+      "longitude": "10.61391000"
+   },
+   {
+      "name": "Sønder Bjert",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.45272000",
+      "longitude": "9.56741000"
+   },
+   {
+      "name": "Sønderborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.90896000",
+      "longitude": "9.78917000"
+   },
+   {
+      "name": "Sønderborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.91667000",
+      "longitude": "9.80000000"
+   },
+   {
+      "name": "Søndersø",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.48526000",
+      "longitude": "10.25540000"
+   },
+   {
+      "name": "Taulov",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.54582000",
+      "longitude": "9.61553000"
+   },
+   {
+      "name": "Thurø By",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.04740000",
+      "longitude": "10.66385000"
+   },
+   {
+      "name": "Tinglev",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.93788000",
+      "longitude": "9.25547000"
+   },
+   {
+      "name": "Tjæreborg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.46457000",
+      "longitude": "8.57968000"
+   },
+   {
+      "name": "Toftlund",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.18858000",
+      "longitude": "9.06925000"
+   },
+   {
+      "name": "Tommerup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.31952000",
+      "longitude": "10.20659000"
+   },
+   {
+      "name": "Tommerup Stationsby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.34535000",
+      "longitude": "10.17594000"
+   },
+   {
+      "name": "Tønder",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.93306000",
+      "longitude": "8.86674000"
+   },
+   {
+      "name": "Tønder Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.07304000",
+      "longitude": "8.87214000"
+   },
+   {
+      "name": "Ullerslev",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.36172000",
+      "longitude": "10.65190000"
+   },
+   {
+      "name": "Vamdrup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.42764000",
+      "longitude": "9.28435000"
+   },
+   {
+      "name": "Varde",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.62112000",
+      "longitude": "8.48069000"
+   },
+   {
+      "name": "Varde Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.61667000",
+      "longitude": "8.50000000"
+   },
+   {
+      "name": "Vejen",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.48117000",
+      "longitude": "9.13795000"
+   },
+   {
+      "name": "Vejen Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.46312000",
+      "longitude": "9.05004000"
+   },
+   {
+      "name": "Vejle",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.70927000",
+      "longitude": "9.53570000"
+   },
+   {
+      "name": "Vejle Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.74874000",
+      "longitude": "9.40421000"
+   },
+   {
+      "name": "Vester-Skerninge",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.07322000",
+      "longitude": "10.45536000"
+   },
+   {
+      "name": "Vindeby",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.04489000",
+      "longitude": "10.61309000"
+   },
+   {
+      "name": "Vissenbjerg",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.38482000",
+      "longitude": "10.13784000"
+   },
+   {
+      "name": "Vojens",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.24639000",
+      "longitude": "9.30603000"
+   },
+   {
+      "name": "Årslev",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.30353000",
+      "longitude": "10.46428000"
+   },
+   {
+      "name": "Årup",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.37315000",
+      "longitude": "10.04131000"
+   },
+   {
+      "name": "Ærø Kommune",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.85833000",
+      "longitude": "10.43333000"
+   },
+   {
+      "name": "Ærøskøbing",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "54.88803000",
+      "longitude": "10.41117000"
+   },
+   {
+      "name": "Ølgod",
+      "countryCode": "DK",
+      "stateCode": "83",
+      "latitude": "55.80682000",
+      "longitude": "8.62859000"
+   }
+]

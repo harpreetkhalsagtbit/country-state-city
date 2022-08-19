@@ -1,0 +1,527 @@
+[
+   {
+      "name": "Adeje",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Agaete",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Agulo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Agüimes",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Alajeró",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Antigua",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Arafo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Arona",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Arrecife",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Artenara",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Arucas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Barlovento",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Breña Alta",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Breña Baja",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Buenavista del Norte",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Candelaria",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Carrizal",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Corralejo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Costa Calma",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Costa Teguise",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Cruce de Arinaga",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "El Cotillo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "El Paso",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Fasnia",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Firgas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Frontera",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Fuencaliente de la Palma",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Garachico",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Garafía",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Granadilla de Abona",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Guia",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Guía de Isora",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Gáldar",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Güimar",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Haría",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Hermigua",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Icod de los Vinos",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Ingenio",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Guancha",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Laguna",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Matanza de Acentejo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Oliva",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Orotava",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "La Victoria de Acentejo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Las Palmas de Gran Canaria",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Las Rosas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Lomo de Arico",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Los Gigantes",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Los Llanos de Aridane",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Los Realejos",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Los Silos",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Maspalomas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Mazo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Mogán",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Moya",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Mácher",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Nazaret",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Playa Blanca",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Playa de las Américas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Playa del Ingles",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Provincia de Las Palmas",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Provincia de Santa Cruz de Tenerife",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puerto Rico",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puerto de la Cruz",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puerto del Carmen",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puerto del Rosario",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Punta de Mujeres",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puntagorda",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Puntallana",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Pájara",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Realejo Alto",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Bartolomé",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Bartolomé de Tirajana",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Juan de la Rambla",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Miguel De Abona",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Nicolás",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "San Sebastián de la Gomera",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santa Brígida",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santa Cruz de Tenerife",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santa Cruz de la Palma",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santa Lucía",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santa Úrsula",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Santiago del Teide",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Sauzal",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tacoronte",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tanque",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tazacorte",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tegueste",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Teguise",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tejeda",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Telde",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Teror",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tijarafe",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tinajo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tuineje",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Tías",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Vallehermosa",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Valleseco",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Valsequillo de Gran Canaria",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Valverde",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Vecindario",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Vega de San Mateo",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Vilaflor",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   },
+   {
+      "name": "Yaiza",
+      "countryCode": "ES",
+      "stateCode": "CN"
+   }
+]

@@ -1,0 +1,569 @@
+[
+   {
+      "name": "Augustów",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.84321000",
+      "longitude": "22.97979000"
+   },
+   {
+      "name": "Białowieża",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.70000000",
+      "longitude": "23.86667000"
+   },
+   {
+      "name": "Białystok",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.13333000",
+      "longitude": "23.16433000"
+   },
+   {
+      "name": "Bielsk Podlaski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.76512000",
+      "longitude": "23.18647000"
+   },
+   {
+      "name": "Boćki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.65155000",
+      "longitude": "23.04485000"
+   },
+   {
+      "name": "Brańsk",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.74440000",
+      "longitude": "22.83774000"
+   },
+   {
+      "name": "Choroszcz",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.14332000",
+      "longitude": "22.98889000"
+   },
+   {
+      "name": "Ciechanowiec",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.67828000",
+      "longitude": "22.49815000"
+   },
+   {
+      "name": "Czarna Białostocka",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.30509000",
+      "longitude": "23.28146000"
+   },
+   {
+      "name": "Czeremcha",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.51667000",
+      "longitude": "23.35000000"
+   },
+   {
+      "name": "Czyżew",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.79768000",
+      "longitude": "22.31237000"
+   },
+   {
+      "name": "Dobrzyniewo Duże",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.20022000",
+      "longitude": "23.01129000"
+   },
+   {
+      "name": "Drohiczyn",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.40011000",
+      "longitude": "22.65853000"
+   },
+   {
+      "name": "Dąbrowa Białostocka",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.65364000",
+      "longitude": "23.34792000"
+   },
+   {
+      "name": "Filipów",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.18037000",
+      "longitude": "22.62076000"
+   },
+   {
+      "name": "Goniadz",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.48953000",
+      "longitude": "22.73578000"
+   },
+   {
+      "name": "Grajewo",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.64728000",
+      "longitude": "22.45537000"
+   },
+   {
+      "name": "Grudki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.09488000",
+      "longitude": "23.66848000"
+   },
+   {
+      "name": "Hajnówka",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.74328000",
+      "longitude": "23.58122000"
+   },
+   {
+      "name": "Jedwabne",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.28554000",
+      "longitude": "22.30353000"
+   },
+   {
+      "name": "Kleszczele",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.57314000",
+      "longitude": "23.32539000"
+   },
+   {
+      "name": "Knyszyn",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.31406000",
+      "longitude": "22.91963000"
+   },
+   {
+      "name": "Kolno",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.41148000",
+      "longitude": "21.92905000"
+   },
+   {
+      "name": "Krasnopol",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.11613000",
+      "longitude": "23.20476000"
+   },
+   {
+      "name": "Krynki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.26444000",
+      "longitude": "23.77304000"
+   },
+   {
+      "name": "Kuźnica",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.51094000",
+      "longitude": "23.64953000"
+   },
+   {
+      "name": "Lipsk",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.73312000",
+      "longitude": "23.40225000"
+   },
+   {
+      "name": "Mały Płock",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.30385000",
+      "longitude": "22.02836000"
+   },
+   {
+      "name": "Michałowo",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.03492000",
+      "longitude": "23.60996000"
+   },
+   {
+      "name": "Milejczyce",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.51967000",
+      "longitude": "23.13206000"
+   },
+   {
+      "name": "Mońki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.40496000",
+      "longitude": "22.79791000"
+   },
+   {
+      "name": "Narew",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.91418000",
+      "longitude": "23.51984000"
+   },
+   {
+      "name": "Nowogród",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.22698000",
+      "longitude": "21.88210000"
+   },
+   {
+      "name": "Nurzec-Stacja",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.46249000",
+      "longitude": "23.08571000"
+   },
+   {
+      "name": "Orla",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.70546000",
+      "longitude": "23.33213000"
+   },
+   {
+      "name": "Piątnica",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.19657000",
+      "longitude": "22.09591000"
+   },
+   {
+      "name": "Powiat augustowski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.79742000",
+      "longitude": "23.14275000"
+   },
+   {
+      "name": "Powiat białostocki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.09897000",
+      "longitude": "23.59314000"
+   },
+   {
+      "name": "Powiat bielski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.74629000",
+      "longitude": "23.00669000"
+   },
+   {
+      "name": "Powiat grajewski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.55509000",
+      "longitude": "22.48995000"
+   },
+   {
+      "name": "Powiat hajnowski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.70845000",
+      "longitude": "23.55719000"
+   },
+   {
+      "name": "Powiat kolneński",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.39186000",
+      "longitude": "21.93631000"
+   },
+   {
+      "name": "Powiat moniecki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.44561000",
+      "longitude": "22.78144000"
+   },
+   {
+      "name": "Powiat sejneński",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.09561000",
+      "longitude": "23.30425000"
+   },
+   {
+      "name": "Powiat siemiatycki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.48842000",
+      "longitude": "22.88642000"
+   },
+   {
+      "name": "Powiat sokólski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.43511000",
+      "longitude": "23.41864000"
+   },
+   {
+      "name": "Powiat suwalski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.16655000",
+      "longitude": "22.81818000"
+   },
+   {
+      "name": "Powiat wysokomazowiecki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.86458000",
+      "longitude": "22.55541000"
+   },
+   {
+      "name": "Powiat zambrowski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.02256000",
+      "longitude": "22.28505000"
+   },
+   {
+      "name": "Powiat łomżyński",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.20686000",
+      "longitude": "22.08252000"
+   },
+   {
+      "name": "Puńsk",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.25114000",
+      "longitude": "23.18124000"
+   },
+   {
+      "name": "Raczki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.98749000",
+      "longitude": "22.78487000"
+   },
+   {
+      "name": "Radziłów",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.40994000",
+      "longitude": "22.40988000"
+   },
+   {
+      "name": "Rajgród",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.73102000",
+      "longitude": "22.70515000"
+   },
+   {
+      "name": "Rudka",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.72439000",
+      "longitude": "22.72676000"
+   },
+   {
+      "name": "Rutki-Kossaki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.08932000",
+      "longitude": "22.44011000"
+   },
+   {
+      "name": "Sejny",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.10802000",
+      "longitude": "23.34698000"
+   },
+   {
+      "name": "Siemiatycze",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.42719000",
+      "longitude": "22.86231000"
+   },
+   {
+      "name": "Sokoły",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.99314000",
+      "longitude": "22.70050000"
+   },
+   {
+      "name": "Sokółka",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.40715000",
+      "longitude": "23.50228000"
+   },
+   {
+      "name": "Stawiski",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.37987000",
+      "longitude": "22.15462000"
+   },
+   {
+      "name": "Suchowola",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.57753000",
+      "longitude": "23.10596000"
+   },
+   {
+      "name": "Supraśl",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.20526000",
+      "longitude": "23.33934000"
+   },
+   {
+      "name": "Suraż",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.94908000",
+      "longitude": "22.95653000"
+   },
+   {
+      "name": "Suwałki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "54.10272000",
+      "longitude": "22.92914000"
+   },
+   {
+      "name": "Szczuczyn",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.56330000",
+      "longitude": "22.28534000"
+   },
+   {
+      "name": "Szepietowo",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.87032000",
+      "longitude": "22.54392000"
+   },
+   {
+      "name": "Szumowo",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.91884000",
+      "longitude": "22.08449000"
+   },
+   {
+      "name": "Turośń Kościelna",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.01463000",
+      "longitude": "23.05532000"
+   },
+   {
+      "name": "Tykocin",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.20567000",
+      "longitude": "22.77457000"
+   },
+   {
+      "name": "Wasilków",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.19909000",
+      "longitude": "23.20776000"
+   },
+   {
+      "name": "Wizna",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.19518000",
+      "longitude": "22.38241000"
+   },
+   {
+      "name": "Wysokie Mazowieckie",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.91661000",
+      "longitude": "22.51712000"
+   },
+   {
+      "name": "Wyszki",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.84129000",
+      "longitude": "22.98119000"
+   },
+   {
+      "name": "Wąsosz",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.52209000",
+      "longitude": "22.31915000"
+   },
+   {
+      "name": "Zabłudów",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.01442000",
+      "longitude": "23.33831000"
+   },
+   {
+      "name": "Zambrów",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.98550000",
+      "longitude": "22.24319000"
+   },
+   {
+      "name": "Zbójna",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.24293000",
+      "longitude": "21.78812000"
+   },
+   {
+      "name": "Łapy",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "52.99110000",
+      "longitude": "22.88422000"
+   },
+   {
+      "name": "Łomża",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.17806000",
+      "longitude": "22.05935000"
+   },
+   {
+      "name": "Śniadowo",
+      "countryCode": "PL",
+      "stateCode": "PD",
+      "latitude": "53.03874000",
+      "longitude": "21.99077000"
+   }
+]

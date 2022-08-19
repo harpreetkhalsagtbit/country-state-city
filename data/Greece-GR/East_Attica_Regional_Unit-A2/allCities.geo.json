@@ -1,0 +1,562 @@
+[
+   {
+      "name": "Alexandroupoli",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.84995000",
+      "longitude": "25.87644000"
+   },
+   {
+      "name": "Amygdaleónas",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.96346000",
+      "longitude": "24.36007000"
+   },
+   {
+      "name": "Arrianá",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.08131000",
+      "longitude": "25.69494000"
+   },
+   {
+      "name": "Arísvi",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.07000000",
+      "longitude": "25.59041000"
+   },
+   {
+      "name": "Choristí",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.13056000",
+      "longitude": "24.20843000"
+   },
+   {
+      "name": "Chrysochóri",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.93328000",
+      "longitude": "24.71088000"
+   },
+   {
+      "name": "Chrysoúpolis",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.98556000",
+      "longitude": "24.69389000"
+   },
+   {
+      "name": "Didymóteicho",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.34806000",
+      "longitude": "26.49611000"
+   },
+   {
+      "name": "Dráma",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.15283000",
+      "longitude": "24.14730000"
+   },
+   {
+      "name": "Echínos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.27558000",
+      "longitude": "24.97237000"
+   },
+   {
+      "name": "Elaiochóri",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.82030000",
+      "longitude": "24.24373000"
+   },
+   {
+      "name": "Eleftheroúpolis",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.91389000",
+      "longitude": "24.25139000"
+   },
+   {
+      "name": "Eleftherés",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.84666000",
+      "longitude": "24.25431000"
+   },
+   {
+      "name": "Fillýra",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.11667000",
+      "longitude": "25.63333000"
+   },
+   {
+      "name": "Fotolívos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.06013000",
+      "longitude": "24.04724000"
+   },
+   {
+      "name": "Fteliá",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.08266000",
+      "longitude": "24.18968000"
+   },
+   {
+      "name": "Féres",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.89305000",
+      "longitude": "26.17234000"
+   },
+   {
+      "name": "Genisséa",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.06165000",
+      "longitude": "24.96248000"
+   },
+   {
+      "name": "Iliokentima",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.94931000",
+      "longitude": "24.78859000"
+   },
+   {
+      "name": "Kalampáki",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.05000000",
+      "longitude": "24.18333000"
+   },
+   {
+      "name": "Kallífytos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.17280000",
+      "longitude": "24.21527000"
+   },
+   {
+      "name": "Kalí Vrýsi",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.14653000",
+      "longitude": "23.90667000"
+   },
+   {
+      "name": "Kalós Agrós",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.10543000",
+      "longitude": "24.08570000"
+   },
+   {
+      "name": "Kamariótissa",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.47501000",
+      "longitude": "25.47456000"
+   },
+   {
+      "name": "Kastaniés",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.64551000",
+      "longitude": "26.47676000"
+   },
+   {
+      "name": "Kavála",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.93959000",
+      "longitude": "24.40687000"
+   },
+   {
+      "name": "Kavýli",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.56225000",
+      "longitude": "26.51470000"
+   },
+   {
+      "name": "Keramotí",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.85591000",
+      "longitude": "24.70595000"
+   },
+   {
+      "name": "Kimméria",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.14788000",
+      "longitude": "24.93869000"
+   },
+   {
+      "name": "Kokkinóchoma",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.92690000",
+      "longitude": "24.30805000"
+   },
+   {
+      "name": "Komotiní",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.11917000",
+      "longitude": "25.40535000"
+   },
+   {
+      "name": "Krinídes",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.01396000",
+      "longitude": "24.29647000"
+   },
+   {
+      "name": "Kyprínos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.57542000",
+      "longitude": "26.22905000"
+   },
+   {
+      "name": "Káto Nevrokópi",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.35000000",
+      "longitude": "23.86667000"
+   },
+   {
+      "name": "Kýria",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.09900000",
+      "longitude": "24.28915000"
+   },
+   {
+      "name": "Lagós",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.45102000",
+      "longitude": "26.46067000"
+   },
+   {
+      "name": "Limenária",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.62741000",
+      "longitude": "24.57650000"
+   },
+   {
+      "name": "Lávara",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.26957000",
+      "longitude": "26.38522000"
+   },
+   {
+      "name": "Lýkeio",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.06413000",
+      "longitude": "25.68570000"
+   },
+   {
+      "name": "Mikrópolis",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.19351000",
+      "longitude": "23.81570000"
+   },
+   {
+      "name": "Mýki",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.24384000",
+      "longitude": "24.92084000"
+   },
+   {
+      "name": "Neochóri",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.51131000",
+      "longitude": "26.45740000"
+   },
+   {
+      "name": "Nikísiani",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.94739000",
+      "longitude": "24.14311000"
+   },
+   {
+      "name": "Néa Iraklítsa",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.86442000",
+      "longitude": "24.31650000"
+   },
+   {
+      "name": "Néa Karváli",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.96148000",
+      "longitude": "24.51132000"
+   },
+   {
+      "name": "Néa Karyá",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.90621000",
+      "longitude": "24.70726000"
+   },
+   {
+      "name": "Néa Péramos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.83854000",
+      "longitude": "24.30130000"
+   },
+   {
+      "name": "Néa Výssa",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.58449000",
+      "longitude": "26.54318000"
+   },
+   {
+      "name": "Orestiáda",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.50306000",
+      "longitude": "26.52972000"
+   },
+   {
+      "name": "Palaiochóri",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.94338000",
+      "longitude": "24.17747000"
+   },
+   {
+      "name": "Palaió Tsiflíki",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.90495000",
+      "longitude": "24.35083000"
+   },
+   {
+      "name": "Paralía Ofryníou",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.76663000",
+      "longitude": "23.90039000"
+   },
+   {
+      "name": "Paranésti",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.26667000",
+      "longitude": "24.50000000"
+   },
+   {
+      "name": "Peteinós",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.10056000",
+      "longitude": "24.89847000"
+   },
+   {
+      "name": "Petrochóri",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.08742000",
+      "longitude": "24.84092000"
+   },
+   {
+      "name": "Petroússa",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.19470000",
+      "longitude": "24.01731000"
+   },
+   {
+      "name": "Potamiá",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.71633000",
+      "longitude": "24.72859000"
+   },
+   {
+      "name": "Prosotsáni",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.18333000",
+      "longitude": "23.96667000"
+   },
+   {
+      "name": "Prínos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.74090000",
+      "longitude": "24.57787000"
+   },
+   {
+      "name": "Páchni",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.30506000",
+      "longitude": "24.89438000"
+   },
+   {
+      "name": "Péplos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.95755000",
+      "longitude": "26.26577000"
+   },
+   {
+      "name": "Rízia",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.62490000",
+      "longitude": "26.42771000"
+   },
+   {
+      "name": "Samothráki",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.47333000",
+      "longitude": "25.52222000"
+   },
+   {
+      "name": "Sitagroí",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.11067000",
+      "longitude": "24.02755000"
+   },
+   {
+      "name": "Smínthi",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.23333000",
+      "longitude": "24.86667000"
+   },
+   {
+      "name": "Souflí",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.19194000",
+      "longitude": "26.29944000"
+   },
+   {
+      "name": "Sápes",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.02861000",
+      "longitude": "25.69306000"
+   },
+   {
+      "name": "Sélero",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.13382000",
+      "longitude": "24.99408000"
+   },
+   {
+      "name": "Thásos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.77806000",
+      "longitude": "24.70944000"
+   },
+   {
+      "name": "Tycheró",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.02878000",
+      "longitude": "26.29455000"
+   },
+   {
+      "name": "Vólakas",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.31661000",
+      "longitude": "24.00215000"
+   },
+   {
+      "name": "Xiropótamos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.19206000",
+      "longitude": "24.10385000"
+   },
+   {
+      "name": "Xylaganí",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.97437000",
+      "longitude": "25.42022000"
+   },
+   {
+      "name": "Xánthi",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.13488000",
+      "longitude": "24.88800000"
+   },
+   {
+      "name": "Zygós",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.01320000",
+      "longitude": "24.38132000"
+   },
+   {
+      "name": "Ágios Athanásios",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.07463000",
+      "longitude": "24.24545000"
+   },
+   {
+      "name": "Áratos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.08139000",
+      "longitude": "25.55186000"
+   },
+   {
+      "name": "Ávato",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.96279000",
+      "longitude": "24.80441000"
+   },
+   {
+      "name": "Évlalo",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "40.98333000",
+      "longitude": "24.80000000"
+   },
+   {
+      "name": "Íasmos",
+      "countryCode": "GR",
+      "stateCode": "A2",
+      "latitude": "41.12747000",
+      "longitude": "25.18573000"
+   }
+]

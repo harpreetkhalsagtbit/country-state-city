@@ -1,0 +1,667 @@
+[
+   {
+      "name": "Akutan",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "54.13350000",
+      "longitude": "-165.77686000"
+   },
+   {
+      "name": "Aleutians East Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "54.85000000",
+      "longitude": "-163.41667000"
+   },
+   {
+      "name": "Aleutians West Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "52.16298000",
+      "longitude": "-174.28505000"
+   },
+   {
+      "name": "Anchor Point",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.77667000",
+      "longitude": "-151.83139000"
+   },
+   {
+      "name": "Anchorage",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.21806000",
+      "longitude": "-149.90028000"
+   },
+   {
+      "name": "Anchorage Municipality",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.16667000",
+      "longitude": "-149.25056000"
+   },
+   {
+      "name": "Badger",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.80000000",
+      "longitude": "-147.53333000"
+   },
+   {
+      "name": "Barrow",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "71.29058000",
+      "longitude": "-156.78872000"
+   },
+   {
+      "name": "Bear Creek",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.16417000",
+      "longitude": "-149.39500000"
+   },
+   {
+      "name": "Bethel",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.79222000",
+      "longitude": "-161.75583000"
+   },
+   {
+      "name": "Bethel Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.75056000",
+      "longitude": "-160.50056000"
+   },
+   {
+      "name": "Big Lake",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.52139000",
+      "longitude": "-149.95444000"
+   },
+   {
+      "name": "Bristol Bay Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "58.75056000",
+      "longitude": "-156.83333000"
+   },
+   {
+      "name": "Butte",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.54222000",
+      "longitude": "-149.03333000"
+   },
+   {
+      "name": "Chevak",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.52778000",
+      "longitude": "-165.58639000"
+   },
+   {
+      "name": "City and Borough of Wrangell",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "56.41331000",
+      "longitude": "-132.32009000"
+   },
+   {
+      "name": "Cohoe",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.36861000",
+      "longitude": "-151.30639000"
+   },
+   {
+      "name": "College",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.85694000",
+      "longitude": "-147.80278000"
+   },
+   {
+      "name": "Cordova",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.54320000",
+      "longitude": "-145.75867000"
+   },
+   {
+      "name": "Craig",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.47639000",
+      "longitude": "-133.14833000"
+   },
+   {
+      "name": "Deltana",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "63.87217000",
+      "longitude": "-145.21773000"
+   },
+   {
+      "name": "Denali Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "63.78889000",
+      "longitude": "-150.19167000"
+   },
+   {
+      "name": "Diamond Ridge",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.67611000",
+      "longitude": "-151.55750000"
+   },
+   {
+      "name": "Dillingham",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.03972000",
+      "longitude": "-158.45750000"
+   },
+   {
+      "name": "Dillingham Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.76193000",
+      "longitude": "-158.31848000"
+   },
+   {
+      "name": "Dutch Harbor",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "53.88980000",
+      "longitude": "-166.54220000"
+   },
+   {
+      "name": "Eagle River",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.32139000",
+      "longitude": "-149.56778000"
+   },
+   {
+      "name": "Eielson Air Force Base",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.66327000",
+      "longitude": "-147.05442000"
+   },
+   {
+      "name": "Elmendorf Air Force Base",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.25703000",
+      "longitude": "-149.63139000"
+   },
+   {
+      "name": "Ester",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.84722000",
+      "longitude": "-148.01444000"
+   },
+   {
+      "name": "Fairbanks",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.83778000",
+      "longitude": "-147.71639000"
+   },
+   {
+      "name": "Fairbanks North Star Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.83333000",
+      "longitude": "-146.41667000"
+   },
+   {
+      "name": "Farm Loop",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.63891000",
+      "longitude": "-149.14215000"
+   },
+   {
+      "name": "Farmers Loop",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.90822000",
+      "longitude": "-147.69866000"
+   },
+   {
+      "name": "Fishhook",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.74402000",
+      "longitude": "-149.23613000"
+   },
+   {
+      "name": "Fritz Creek",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.73611000",
+      "longitude": "-151.29528000"
+   },
+   {
+      "name": "Gateway",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.57278000",
+      "longitude": "-149.24083000"
+   },
+   {
+      "name": "Girdwood",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.94250000",
+      "longitude": "-149.16639000"
+   },
+   {
+      "name": "Haines",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.23595000",
+      "longitude": "-135.44533000"
+   },
+   {
+      "name": "Haines Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.25056000",
+      "longitude": "-135.50056000"
+   },
+   {
+      "name": "Healy",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "63.85694000",
+      "longitude": "-148.96611000"
+   },
+   {
+      "name": "Homer",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.64250000",
+      "longitude": "-151.54940000"
+   },
+   {
+      "name": "Hoonah-Angoon Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.94807000",
+      "longitude": "-134.94153000"
+   },
+   {
+      "name": "Hooper Bay",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.53111000",
+      "longitude": "-166.09667000"
+   },
+   {
+      "name": "Houston",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.63028000",
+      "longitude": "-149.81806000"
+   },
+   {
+      "name": "Juneau",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "58.30194000",
+      "longitude": "-134.41972000"
+   },
+   {
+      "name": "Kalifornsky",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.41833000",
+      "longitude": "-151.29000000"
+   },
+   {
+      "name": "Kenai",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.55444000",
+      "longitude": "-151.25833000"
+   },
+   {
+      "name": "Kenai Peninsula Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.41667000",
+      "longitude": "-151.25056000"
+   },
+   {
+      "name": "Ketchikan",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.34180000",
+      "longitude": "-131.64757000"
+   },
+   {
+      "name": "Ketchikan Gateway Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.50056000",
+      "longitude": "-131.41667000"
+   },
+   {
+      "name": "King Cove",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.06087000",
+      "longitude": "-162.31853000"
+   },
+   {
+      "name": "Knik-Fairview",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.51262000",
+      "longitude": "-149.60012000"
+   },
+   {
+      "name": "Kodiak",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.78852000",
+      "longitude": "-152.40533000"
+   },
+   {
+      "name": "Kodiak Island Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.33333000",
+      "longitude": "-153.33333000"
+   },
+   {
+      "name": "Kodiak Station",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.76587000",
+      "longitude": "-152.60004000"
+   },
+   {
+      "name": "Kotzebue",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "66.89846000",
+      "longitude": "-162.59809000"
+   },
+   {
+      "name": "Lake and Peninsula Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.00056000",
+      "longitude": "-158.00056000"
+   },
+   {
+      "name": "Lakes",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.60713000",
+      "longitude": "-149.30861000"
+   },
+   {
+      "name": "Lazy Mountain",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.62611000",
+      "longitude": "-148.94556000"
+   },
+   {
+      "name": "Matanuska-Susitna Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "62.50056000",
+      "longitude": "-150.00556000"
+   },
+   {
+      "name": "Meadow Lakes",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.62472000",
+      "longitude": "-149.60111000"
+   },
+   {
+      "name": "Metlakatla",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.12848000",
+      "longitude": "-131.57519000"
+   },
+   {
+      "name": "Nikiski",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.69028000",
+      "longitude": "-151.28889000"
+   },
+   {
+      "name": "Nome",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.50111000",
+      "longitude": "-165.40639000"
+   },
+   {
+      "name": "Nome Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.83333000",
+      "longitude": "-163.75056000"
+   },
+   {
+      "name": "North Pole",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.75111000",
+      "longitude": "-147.34944000"
+   },
+   {
+      "name": "North Slope Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "69.25056000",
+      "longitude": "-152.00056000"
+   },
+   {
+      "name": "Northwest Arctic Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "66.83333000",
+      "longitude": "-161.00056000"
+   },
+   {
+      "name": "Palmer",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.59941000",
+      "longitude": "-149.11456000"
+   },
+   {
+      "name": "Petersburg",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "56.81250000",
+      "longitude": "-132.95556000"
+   },
+   {
+      "name": "Petersburg Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "56.76529000",
+      "longitude": "-133.19313000"
+   },
+   {
+      "name": "Prudhoe Bay",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "70.25528000",
+      "longitude": "-148.33722000"
+   },
+   {
+      "name": "Ridgeway",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.53194000",
+      "longitude": "-151.08528000"
+   },
+   {
+      "name": "Salcha",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "64.52399000",
+      "longitude": "-146.90210000"
+   },
+   {
+      "name": "Sand Point",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "55.33655000",
+      "longitude": "-160.49880000"
+   },
+   {
+      "name": "Seward",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.10426000",
+      "longitude": "-149.44350000"
+   },
+   {
+      "name": "Sitka",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.05315000",
+      "longitude": "-135.33088000"
+   },
+   {
+      "name": "Sitka City and Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "57.08255000",
+      "longitude": "-135.26917000"
+   },
+   {
+      "name": "Skagway Municipality",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.46852000",
+      "longitude": "-135.30596000"
+   },
+   {
+      "name": "Soldotna",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.48778000",
+      "longitude": "-151.05833000"
+   },
+   {
+      "name": "Southeast Fairbanks Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "63.75056000",
+      "longitude": "-143.25056000"
+   },
+   {
+      "name": "Sterling",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "60.53722000",
+      "longitude": "-150.76472000"
+   },
+   {
+      "name": "Sutton-Alpine",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.77789000",
+      "longitude": "-148.76450000"
+   },
+   {
+      "name": "Tanaina",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.62694000",
+      "longitude": "-149.42806000"
+   },
+   {
+      "name": "Tok",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "63.33667000",
+      "longitude": "-142.98556000"
+   },
+   {
+      "name": "Unalaska",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "53.87413000",
+      "longitude": "-166.53408000"
+   },
+   {
+      "name": "Valdez",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.13083000",
+      "longitude": "-146.34833000"
+   },
+   {
+      "name": "Valdez-Cordova Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.50056000",
+      "longitude": "-144.50056000"
+   },
+   {
+      "name": "Wasilla",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.58090000",
+      "longitude": "-149.44150000"
+   },
+   {
+      "name": "Willow",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "61.74722000",
+      "longitude": "-150.03750000"
+   },
+   {
+      "name": "Wrangell",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "56.47083000",
+      "longitude": "-132.37667000"
+   },
+   {
+      "name": "Y",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "62.16129000",
+      "longitude": "-149.85075000"
+   },
+   {
+      "name": "Yakutat City and Borough",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "59.66667000",
+      "longitude": "-139.13333000"
+   },
+   {
+      "name": "Yukon-Koyukuk Census Area",
+      "countryCode": "US",
+      "stateCode": "AK",
+      "latitude": "65.70000000",
+      "longitude": "-152.71667000"
+   }
+]

@@ -1,0 +1,835 @@
+[
+   {
+      "name": "Adilpur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.93677000",
+      "longitude": "69.31941000"
+   },
+   {
+      "name": "Badin",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.65600000",
+      "longitude": "68.83700000"
+   },
+   {
+      "name": "Bagarji",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.75431000",
+      "longitude": "68.75866000"
+   },
+   {
+      "name": "Bandhi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.58761000",
+      "longitude": "68.30215000"
+   },
+   {
+      "name": "Berani",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.78497000",
+      "longitude": "68.80754000"
+   },
+   {
+      "name": "Bhan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.55831000",
+      "longitude": "67.72139000"
+   },
+   {
+      "name": "Bhiria",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.91041000",
+      "longitude": "68.19466000"
+   },
+   {
+      "name": "Bhit Shah",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.80565000",
+      "longitude": "68.49143000"
+   },
+   {
+      "name": "Bozdar Wada",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.18300000",
+      "longitude": "68.63580000"
+   },
+   {
+      "name": "Bulri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.86667000",
+      "longitude": "68.33333000"
+   },
+   {
+      "name": "Chak",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.85838000",
+      "longitude": "68.83378000"
+   },
+   {
+      "name": "Chamber",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.29362000",
+      "longitude": "68.81176000"
+   },
+   {
+      "name": "Chhor",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.51260000",
+      "longitude": "69.78437000"
+   },
+   {
+      "name": "Chuhar Jamali",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.39440000",
+      "longitude": "67.99298000"
+   },
+   {
+      "name": "Dadu",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.73033000",
+      "longitude": "67.77690000"
+   },
+   {
+      "name": "Daromehar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.79382000",
+      "longitude": "68.17978000"
+   },
+   {
+      "name": "Darya Khan Marri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.67765000",
+      "longitude": "68.28666000"
+   },
+   {
+      "name": "Daulatpur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.50158000",
+      "longitude": "67.97079000"
+   },
+   {
+      "name": "Daur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.45528000",
+      "longitude": "68.31835000"
+   },
+   {
+      "name": "Dhoro Naro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.50484000",
+      "longitude": "69.57090000"
+   },
+   {
+      "name": "Digri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.15657000",
+      "longitude": "69.11098000"
+   },
+   {
+      "name": "Diplo",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.46688000",
+      "longitude": "69.58114000"
+   },
+   {
+      "name": "Dokri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.37421000",
+      "longitude": "68.09715000"
+   },
+   {
+      "name": "Gambat",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.35170000",
+      "longitude": "68.52150000"
+   },
+   {
+      "name": "Garhiyasin",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.90631000",
+      "longitude": "68.51210000"
+   },
+   {
+      "name": "Gharo",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.74182000",
+      "longitude": "67.58534000"
+   },
+   {
+      "name": "Ghauspur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.13882000",
+      "longitude": "69.08245000"
+   },
+   {
+      "name": "Ghotki",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.00437000",
+      "longitude": "69.31569000"
+   },
+   {
+      "name": "Goth Garelo",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.43521000",
+      "longitude": "68.07572000"
+   },
+   {
+      "name": "Goth Phulji",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.88099000",
+      "longitude": "67.68239000"
+   },
+   {
+      "name": "Goth Radhan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.19846000",
+      "longitude": "67.95348000"
+   },
+   {
+      "name": "Hala",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.81459000",
+      "longitude": "68.42198000"
+   },
+   {
+      "name": "Hingorja",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.21088000",
+      "longitude": "68.41598000"
+   },
+   {
+      "name": "Hyderabad",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.39242000",
+      "longitude": "68.37366000"
+   },
+   {
+      "name": "Islamkot",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.69904000",
+      "longitude": "70.17982000"
+   },
+   {
+      "name": "Jacobabad",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.28187000",
+      "longitude": "68.43761000"
+   },
+   {
+      "name": "Jamshoro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.43608000",
+      "longitude": "68.28017000"
+   },
+   {
+      "name": "Jati",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.35492000",
+      "longitude": "68.26732000"
+   },
+   {
+      "name": "Jhol",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.95533000",
+      "longitude": "68.88871000"
+   },
+   {
+      "name": "Johi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.69225000",
+      "longitude": "67.61431000"
+   },
+   {
+      "name": "Jām Sāhib",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.29583000",
+      "longitude": "68.62917000"
+   },
+   {
+      "name": "Kadhan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.48041000",
+      "longitude": "68.98551000"
+   },
+   {
+      "name": "Kambar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.58753000",
+      "longitude": "68.00066000"
+   },
+   {
+      "name": "Kandhkot",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.24574000",
+      "longitude": "69.17974000"
+   },
+   {
+      "name": "Kandiari",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.91550000",
+      "longitude": "68.52193000"
+   },
+   {
+      "name": "Kandiaro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.05918000",
+      "longitude": "68.21022000"
+   },
+   {
+      "name": "Karachi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.86080000",
+      "longitude": "67.01040000"
+   },
+   {
+      "name": "Karaundi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.89709000",
+      "longitude": "68.40643000"
+   },
+   {
+      "name": "Kario Ghanwar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.80817000",
+      "longitude": "68.60483000"
+   },
+   {
+      "name": "Kashmor",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.43260000",
+      "longitude": "69.58364000"
+   },
+   {
+      "name": "Keti Bandar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.14422000",
+      "longitude": "67.45094000"
+   },
+   {
+      "name": "Khadro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.14713000",
+      "longitude": "68.71777000"
+   },
+   {
+      "name": "Khairpur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.06437000",
+      "longitude": "69.70363000"
+   },
+   {
+      "name": "Khairpur Mir’s",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.52948000",
+      "longitude": "68.75915000"
+   },
+   {
+      "name": "Khairpur Nathan Shah",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.09064000",
+      "longitude": "67.73489000"
+   },
+   {
+      "name": "Khanpur Mahar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.84088000",
+      "longitude": "69.41302000"
+   },
+   {
+      "name": "Kot Diji",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.34156000",
+      "longitude": "68.70821000"
+   },
+   {
+      "name": "Kotri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.36566000",
+      "longitude": "68.30831000"
+   },
+   {
+      "name": "Kunri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.17874000",
+      "longitude": "69.56572000"
+   },
+   {
+      "name": "Lakhi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.84884000",
+      "longitude": "68.69972000"
+   },
+   {
+      "name": "Larkana",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.55898000",
+      "longitude": "68.21204000"
+   },
+   {
+      "name": "Madeji",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.75314000",
+      "longitude": "68.45166000"
+   },
+   {
+      "name": "Malir Cantonment",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.94343000",
+      "longitude": "67.20591000"
+   },
+   {
+      "name": "Matiari",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.59709000",
+      "longitude": "68.44670000"
+   },
+   {
+      "name": "Matli",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.04290000",
+      "longitude": "68.65591000"
+   },
+   {
+      "name": "Mehar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.18027000",
+      "longitude": "67.82051000"
+   },
+   {
+      "name": "Miro Khan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.75985000",
+      "longitude": "68.09195000"
+   },
+   {
+      "name": "Mirpur Bhtoro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.72852000",
+      "longitude": "68.26010000"
+   },
+   {
+      "name": "Mirpur Khas",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.52760000",
+      "longitude": "69.01255000"
+   },
+   {
+      "name": "Mirpur Mathelo",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.02136000",
+      "longitude": "69.54914000"
+   },
+   {
+      "name": "Mirpur Sakro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.54692000",
+      "longitude": "67.62797000"
+   },
+   {
+      "name": "Mirwah Gorchani",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.30981000",
+      "longitude": "69.05019000"
+   },
+   {
+      "name": "Mithi",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.73701000",
+      "longitude": "69.79707000"
+   },
+   {
+      "name": "Moro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.66317000",
+      "longitude": "68.00016000"
+   },
+   {
+      "name": "Nabisar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.06717000",
+      "longitude": "69.64340000"
+   },
+   {
+      "name": "Nasirabad",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.38137000",
+      "longitude": "67.91644000"
+   },
+   {
+      "name": "Naudero",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.66684000",
+      "longitude": "68.36090000"
+   },
+   {
+      "name": "Naukot",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.85822000",
+      "longitude": "69.40153000"
+   },
+   {
+      "name": "Naushahro Firoz",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.84010000",
+      "longitude": "68.12265000"
+   },
+   {
+      "name": "Nawabshah",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.23939000",
+      "longitude": "68.40369000"
+   },
+   {
+      "name": "New Bādāh",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.34167000",
+      "longitude": "68.03194000"
+   },
+   {
+      "name": "Pad Idan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.77455000",
+      "longitude": "68.30094000"
+   },
+   {
+      "name": "Pano Aqil",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.85619000",
+      "longitude": "69.11111000"
+   },
+   {
+      "name": "Pir Jo Goth",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.59178000",
+      "longitude": "68.61848000"
+   },
+   {
+      "name": "Pithoro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.51122000",
+      "longitude": "69.37803000"
+   },
+   {
+      "name": "Rajo Khanani",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.98391000",
+      "longitude": "68.85370000"
+   },
+   {
+      "name": "Ranipur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.28720000",
+      "longitude": "68.50623000"
+   },
+   {
+      "name": "Ratodero",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.80227000",
+      "longitude": "68.28902000"
+   },
+   {
+      "name": "Rohri",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.69203000",
+      "longitude": "68.89503000"
+   },
+   {
+      "name": "Rustam",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.96705000",
+      "longitude": "68.80386000"
+   },
+   {
+      "name": "Sakrand",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.13845000",
+      "longitude": "68.27444000"
+   },
+   {
+      "name": "Samaro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.28143000",
+      "longitude": "69.39623000"
+   },
+   {
+      "name": "Sanghar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.04694000",
+      "longitude": "68.94917000"
+   },
+   {
+      "name": "Sann",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.04030000",
+      "longitude": "68.13763000"
+   },
+   {
+      "name": "Sehwan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.42495000",
+      "longitude": "67.86126000"
+   },
+   {
+      "name": "Setharja Old",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.21270000",
+      "longitude": "68.46883000"
+   },
+   {
+      "name": "Shahdad Kot",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.84726000",
+      "longitude": "67.90679000"
+   },
+   {
+      "name": "Shahdadpur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.92539000",
+      "longitude": "68.62280000"
+   },
+   {
+      "name": "Shahpur Chakar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.15411000",
+      "longitude": "68.65013000"
+   },
+   {
+      "name": "Shikarpur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.95558000",
+      "longitude": "68.63823000"
+   },
+   {
+      "name": "Sinjhoro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.03008000",
+      "longitude": "68.80867000"
+   },
+   {
+      "name": "Sobhodero",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.30475000",
+      "longitude": "68.39715000"
+   },
+   {
+      "name": "Sukkur",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.70323000",
+      "longitude": "68.85889000"
+   },
+   {
+      "name": "Sīta Road",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.03333000",
+      "longitude": "67.85000000"
+   },
+   {
+      "name": "Talhar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.88454000",
+      "longitude": "68.81437000"
+   },
+   {
+      "name": "Tando Adam",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.76818000",
+      "longitude": "68.66196000"
+   },
+   {
+      "name": "Tando Allahyar",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.46050000",
+      "longitude": "68.71745000"
+   },
+   {
+      "name": "Tando Bago",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.78914000",
+      "longitude": "68.96535000"
+   },
+   {
+      "name": "Tando Jam",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.42813000",
+      "longitude": "68.52923000"
+   },
+   {
+      "name": "Tando Mitha Khan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.99625000",
+      "longitude": "69.20251000"
+   },
+   {
+      "name": "Tando Muhammad Khan",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.12384000",
+      "longitude": "68.53677000"
+   },
+   {
+      "name": "Tangwani",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.27886000",
+      "longitude": "68.99760000"
+   },
+   {
+      "name": "Tharu Shah",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "26.94230000",
+      "longitude": "68.11759000"
+   },
+   {
+      "name": "Thatta",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "24.74745000",
+      "longitude": "67.92353000"
+   },
+   {
+      "name": "Thul",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.24030000",
+      "longitude": "68.77550000"
+   },
+   {
+      "name": "Ubauro",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "28.16429000",
+      "longitude": "69.73114000"
+   },
+   {
+      "name": "Umarkot",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.36329000",
+      "longitude": "69.74184000"
+   },
+   {
+      "name": "Umerkot District",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "25.37000000",
+      "longitude": "69.73000000"
+   },
+   {
+      "name": "Warah",
+      "countryCode": "PK",
+      "stateCode": "SD",
+      "latitude": "27.44805000",
+      "longitude": "67.79654000"
+   }
+]

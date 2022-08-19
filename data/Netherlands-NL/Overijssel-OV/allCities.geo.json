@@ -1,0 +1,632 @@
+[
+   {
+      "name": "Almelo",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.35667000",
+      "longitude": "6.66250000"
+   },
+   {
+      "name": "Baalder",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.58579000",
+      "longitude": "6.65299000"
+   },
+   {
+      "name": "Berkum",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.52395000",
+      "longitude": "6.13655000"
+   },
+   {
+      "name": "Blokzijl",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.72667000",
+      "longitude": "5.96111000"
+   },
+   {
+      "name": "Borgele",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.27630000",
+      "longitude": "6.14926000"
+   },
+   {
+      "name": "Borne",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.30136000",
+      "longitude": "6.74820000"
+   },
+   {
+      "name": "Boskamp",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.33083000",
+      "longitude": "6.12778000"
+   },
+   {
+      "name": "Brunnepe",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.56185000",
+      "longitude": "5.90343000"
+   },
+   {
+      "name": "Dalfsen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.51167000",
+      "longitude": "6.25694000"
+   },
+   {
+      "name": "De Hoven",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.24901000",
+      "longitude": "6.14367000"
+   },
+   {
+      "name": "Delden",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26000000",
+      "longitude": "6.71111000"
+   },
+   {
+      "name": "Den Ham",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.46583000",
+      "longitude": "6.49583000"
+   },
+   {
+      "name": "Deventer",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.25500000",
+      "longitude": "6.16389000"
+   },
+   {
+      "name": "Diepenheim",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.20000000",
+      "longitude": "6.55556000"
+   },
+   {
+      "name": "Enschede",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.21833000",
+      "longitude": "6.89583000"
+   },
+   {
+      "name": "Flevowijk",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.54583000",
+      "longitude": "5.91338000"
+   },
+   {
+      "name": "Frankhuis",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.52500000",
+      "longitude": "6.06806000"
+   },
+   {
+      "name": "Gemeente Almelo",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.34463000",
+      "longitude": "6.65942000"
+   },
+   {
+      "name": "Gemeente Borne",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.31120000",
+      "longitude": "6.74404000"
+   },
+   {
+      "name": "Gemeente Dalfsen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.52461000",
+      "longitude": "6.27214000"
+   },
+   {
+      "name": "Gemeente Deventer",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26927000",
+      "longitude": "6.23795000"
+   },
+   {
+      "name": "Gemeente Dinkelland",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.37108000",
+      "longitude": "6.89294000"
+   },
+   {
+      "name": "Gemeente Enschede",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.21909000",
+      "longitude": "6.88041000"
+   },
+   {
+      "name": "Gemeente Haaksbergen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.15514000",
+      "longitude": "6.75404000"
+   },
+   {
+      "name": "Gemeente Hardenberg",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.59312000",
+      "longitude": "6.53476000"
+   },
+   {
+      "name": "Gemeente Hellendoorn",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.39022000",
+      "longitude": "6.46434000"
+   },
+   {
+      "name": "Gemeente Hengelo",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.25910000",
+      "longitude": "6.77876000"
+   },
+   {
+      "name": "Gemeente Hof van Twente",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.24341000",
+      "longitude": "6.59749000"
+   },
+   {
+      "name": "Gemeente Kampen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.56181000",
+      "longitude": "5.91535000"
+   },
+   {
+      "name": "Gemeente Losser",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.29819000",
+      "longitude": "7.00106000"
+   },
+   {
+      "name": "Gemeente Oldenzaal",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.30750000",
+      "longitude": "6.90750000"
+   },
+   {
+      "name": "Gemeente Olst-Wijhe",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.35734000",
+      "longitude": "6.13481000"
+   },
+   {
+      "name": "Gemeente Ommen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.51659000",
+      "longitude": "6.45631000"
+   },
+   {
+      "name": "Gemeente Raalte",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.40299000",
+      "longitude": "6.28773000"
+   },
+   {
+      "name": "Gemeente Rijssen-Holten",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.29000000",
+      "longitude": "6.42515000"
+   },
+   {
+      "name": "Gemeente Staphorst",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.63241000",
+      "longitude": "6.20737000"
+   },
+   {
+      "name": "Gemeente Steenwijkerland",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.75587000",
+      "longitude": "6.04028000"
+   },
+   {
+      "name": "Gemeente Tubbergen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.40451000",
+      "longitude": "6.78241000"
+   },
+   {
+      "name": "Gemeente Twenterand",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.44974000",
+      "longitude": "6.56122000"
+   },
+   {
+      "name": "Gemeente Wierden",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.34247000",
+      "longitude": "6.55795000"
+   },
+   {
+      "name": "Gemeente Zwartewaterland",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.60240000",
+      "longitude": "6.07402000"
+   },
+   {
+      "name": "Gemeente Zwolle",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.51264000",
+      "longitude": "6.09359000"
+   },
+   {
+      "name": "Giethoorn",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.74000000",
+      "longitude": "6.07917000"
+   },
+   {
+      "name": "Goor",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.23333000",
+      "longitude": "6.58611000"
+   },
+   {
+      "name": "Grafhorst",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.58250000",
+      "longitude": "5.93333000"
+   },
+   {
+      "name": "Haaksbergen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.15667000",
+      "longitude": "6.73889000"
+   },
+   {
+      "name": "Haarle",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.35917000",
+      "longitude": "6.38056000"
+   },
+   {
+      "name": "Hardenberg",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.57583000",
+      "longitude": "6.61944000"
+   },
+   {
+      "name": "Hasselt",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.59267000",
+      "longitude": "6.09527000"
+   },
+   {
+      "name": "Heino",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.43661000",
+      "longitude": "6.23282000"
+   },
+   {
+      "name": "Hengelo",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26583000",
+      "longitude": "6.79306000"
+   },
+   {
+      "name": "Hengevelde",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.19917000",
+      "longitude": "6.63611000"
+   },
+   {
+      "name": "Het Oostrik",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.25000000",
+      "longitude": "6.21667000"
+   },
+   {
+      "name": "Kampen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.55500000",
+      "longitude": "5.91111000"
+   },
+   {
+      "name": "Klein Driene",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26935000",
+      "longitude": "6.81613000"
+   },
+   {
+      "name": "Losser",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26083000",
+      "longitude": "7.00417000"
+   },
+   {
+      "name": "Magele",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.46917000",
+      "longitude": "6.52083000"
+   },
+   {
+      "name": "Markelo",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.23500000",
+      "longitude": "6.49861000"
+   },
+   {
+      "name": "Mekkelholt",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.23645000",
+      "longitude": "6.89058000"
+   },
+   {
+      "name": "Nieuwoord",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.46667000",
+      "longitude": "6.55000000"
+   },
+   {
+      "name": "Nijrees",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.33500000",
+      "longitude": "6.66389000"
+   },
+   {
+      "name": "Oldemarkt",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.82083000",
+      "longitude": "5.97500000"
+   },
+   {
+      "name": "Oldenzaal",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.31333000",
+      "longitude": "6.92917000"
+   },
+   {
+      "name": "Olst",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.33750000",
+      "longitude": "6.10972000"
+   },
+   {
+      "name": "Ommen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.52083000",
+      "longitude": "6.42083000"
+   },
+   {
+      "name": "Oosterholt",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.55917000",
+      "longitude": "5.95556000"
+   },
+   {
+      "name": "Oostermeenthe",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.79319000",
+      "longitude": "6.13138000"
+   },
+   {
+      "name": "Ootmarsum",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.40833000",
+      "longitude": "6.90139000"
+   },
+   {
+      "name": "Pathmos",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.21397000",
+      "longitude": "6.87555000"
+   },
+   {
+      "name": "Pierik",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.50141000",
+      "longitude": "6.11170000"
+   },
+   {
+      "name": "Raalte",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.38583000",
+      "longitude": "6.27500000"
+   },
+   {
+      "name": "Rossum",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.35167000",
+      "longitude": "6.92222000"
+   },
+   {
+      "name": "Schalkhaar",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.26833000",
+      "longitude": "6.19444000"
+   },
+   {
+      "name": "Sint Jansklooster",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.67750000",
+      "longitude": "6.00556000"
+   },
+   {
+      "name": "Staphorst",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.64500000",
+      "longitude": "6.21111000"
+   },
+   {
+      "name": "Steenwijk",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.78750000",
+      "longitude": "6.12083000"
+   },
+   {
+      "name": "Steenwijkerwold",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.80417000",
+      "longitude": "6.06389000"
+   },
+   {
+      "name": "Tubbergen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.40750000",
+      "longitude": "6.78472000"
+   },
+   {
+      "name": "Tuk",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.79667000",
+      "longitude": "6.09444000"
+   },
+   {
+      "name": "Twekkelerveld",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.23064000",
+      "longitude": "6.86004000"
+   },
+   {
+      "name": "Vollenhove",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.68083000",
+      "longitude": "5.95417000"
+   },
+   {
+      "name": "Vriezenveen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.40833000",
+      "longitude": "6.62222000"
+   },
+   {
+      "name": "Vroomshoop",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.46083000",
+      "longitude": "6.56528000"
+   },
+   {
+      "name": "Westerhaar-Vriezenveensewijk",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.45583000",
+      "longitude": "6.62361000"
+   },
+   {
+      "name": "Wierden",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.35917000",
+      "longitude": "6.59306000"
+   },
+   {
+      "name": "Wijhe",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.38667000",
+      "longitude": "6.13472000"
+   },
+   {
+      "name": "Woolde",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.27210000",
+      "longitude": "6.75891000"
+   },
+   {
+      "name": "Wooldrik",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.21667000",
+      "longitude": "6.91667000"
+   },
+   {
+      "name": "Zuid-Berghuizen",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.30083000",
+      "longitude": "6.93333000"
+   },
+   {
+      "name": "Zwolle",
+      "countryCode": "NL",
+      "stateCode": "OV",
+      "latitude": "52.51250000",
+      "longitude": "6.09444000"
+   }
+]

@@ -1,0 +1,877 @@
+[
+   {
+      "name": "Agua Gorda",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Altamira",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Apozol",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Atolinga",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Bajío de San Nicolás",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Buenavista de Trujillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cantuna",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Carrillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Casa de Cerros",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cañas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cañitas de Felipe Pescador",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cedros",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cerrito de la Cruz",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Chalchihuites",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Chaparrosa",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Charco Blanco",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Chichimequillas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Chupaderos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cicacalco",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cieneguillas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Cieneguitas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia Felipe Ángeles",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia Francisco García Salinas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia Hidalgo (El Tecolote)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia José María Morelos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia Montemariana (Colonia Mariana)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia Plenitud",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Colonia San Francisco (San Francisco)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Concepción del Oro",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Crisóstomos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Ejido Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Ejido Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Cazadero",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Copetillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Fuerte",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Lampotal",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Nigromante",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Obraje",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Plateado de Joaquín Amaro",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Refugio",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Rucio",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Salto",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Salvador",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Saucito (El Horno)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Sitio",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "El Tule",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Emilio Carranza",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Ermita de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Estación Camacho",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Estación San José",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Estancia de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Estancia de Ánimas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Florencia",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Fresnillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "General Enrique Estrada",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "General Juan José Ríos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "General Lauro G. Caloca (El Rascón)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "General Pánfilo Natera",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Gonzales Ortega",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Granadas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Guanajuatillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Hacienda Nueva",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Hacienda Toribio",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Ignacio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "J. Jesús González Ortega (San Mateo)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Jalpa",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Jaula de Abajo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Jerez de García Salinas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Jiménez del Teul",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "José María Morelos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "José María Morelos (Santa Mónica)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "José María Morelos y Pavón",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Juan Aldama",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Juchipila",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Ballena",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Capilla",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Concepción",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Florida",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Laguna",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Luz",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Pendencia",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Tesorera",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Victoria",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "La Zacatecana",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Laguna Seca",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Las Catarinas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Las Esperanzas (El Ranchito)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Las Pilas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Lobatos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Loreto",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Los Condes",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Los Ramírez",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Luis Moya",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Lázaro Cárdenas (Rancho Grande)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Malpaso",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Maravillas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Martínez Domínguez",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Mazapil",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Mezquital del Oro",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Miguel Auza",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Milagros",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Momax",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Monte Escobedo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Morelos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Moyahua de Estrada",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Nieves",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Nochistlán de Mejía",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Noria de Ángeles",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Ojitos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Paso de Méndez",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pastelera",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pastoría",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pedregoso",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Piedra Gorda",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pinos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Plateros",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pozo de Jarillas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Pozos de Gamboa",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Rafael Yáñez Sosa (El Mezquite)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Rancho Nuevo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Rancho Nuevo de Morelos (De Guadalupe)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Rio de Medina",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Río Florido",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Río Grande",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Sain Alto",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Sain Bajo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Antonio del Cipres",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Blas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Cristóbal",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Jerónimo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Jose de Lourdes",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San José de Castellanos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San José de la Era",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San José el Saladillo (El Saladillo)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Marcos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Martin",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Pablo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "San Pedro Piedra Gorda",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santa Ana",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santa Elena",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santa María de los Ángeles",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santa Mónica",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santa Rita",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santiago",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Santiaguillo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Sauceda de La Borda",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Seis de Enero",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Susticacán",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tabasco",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tacoaleche",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tapias de Santa Cruz (Pedro Ruiz González)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tayahua",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tepechitlán",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tepetongo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Terminal de Providencia",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tetillas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Teúl de González Ortega",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tierra Blanca",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tlachichila",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Tlaltenango de Sánchez Román",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Trancoso",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Trinidad García de la Cadena",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Valparaíso",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villa García",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villa González Ortega",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villa Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villa Insurgentes (El Calabazal)",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villa de Cos",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Villanueva",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Víctor Rosales",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Zacatecas",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   },
+   {
+      "name": "Zoquite",
+      "countryCode": "MX",
+      "stateCode": "ZAC"
+   }
+]

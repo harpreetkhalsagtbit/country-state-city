@@ -1,0 +1,464 @@
+[
+   {
+      "name": "Aleksandrov",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.39516000",
+      "longitude": "38.71216000"
+   },
+   {
+      "name": "Aleksandrovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.41667000",
+      "longitude": "38.58333000"
+   },
+   {
+      "name": "Andreyevo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.94650000",
+      "longitude": "41.15050000"
+   },
+   {
+      "name": "Anopino",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.69809000",
+      "longitude": "40.66707000"
+   },
+   {
+      "name": "Arsaki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.38333000",
+      "longitude": "38.48333000"
+   },
+   {
+      "name": "Balakirevo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.50588000",
+      "longitude": "38.84324000"
+   },
+   {
+      "name": "Bavleny",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.39448000",
+      "longitude": "39.56504000"
+   },
+   {
+      "name": "Belaya Rechka",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.28491000",
+      "longitude": "39.40665000"
+   },
+   {
+      "name": "Bogolyubovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.19052000",
+      "longitude": "40.52313000"
+   },
+   {
+      "name": "Dobryatino",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.50550000",
+      "longitude": "41.31950000"
+   },
+   {
+      "name": "Galitsy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.17759000",
+      "longitude": "42.84588000"
+   },
+   {
+      "name": "Golovino",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.96128000",
+      "longitude": "40.42511000"
+   },
+   {
+      "name": "Gorokhovets",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.20152000",
+      "longitude": "42.69351000"
+   },
+   {
+      "name": "Gusevskiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.66199000",
+      "longitude": "40.56267000"
+   },
+   {
+      "name": "Gus’-Khrustal’nyy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.61113000",
+      "longitude": "40.65186000"
+   },
+   {
+      "name": "Imeni Vorovskogo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.72370000",
+      "longitude": "41.11900000"
+   },
+   {
+      "name": "Ivanishchi",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.77417000",
+      "longitude": "40.42731000"
+   },
+   {
+      "name": "Kameshkovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.35305000",
+      "longitude": "41.00941000"
+   },
+   {
+      "name": "Karabanovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.31667000",
+      "longitude": "38.70000000"
+   },
+   {
+      "name": "Kideksha",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.42381000",
+      "longitude": "40.52146000"
+   },
+   {
+      "name": "Kirzhach",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.15273000",
+      "longitude": "38.85509000"
+   },
+   {
+      "name": "Kol’chugino",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.29929000",
+      "longitude": "39.38304000"
+   },
+   {
+      "name": "Kol’chuginskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.25000000",
+      "longitude": "39.41667000"
+   },
+   {
+      "name": "Kommunar",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.11222000",
+      "longitude": "40.44666000"
+   },
+   {
+      "name": "Kosterevo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.92990000",
+      "longitude": "39.61438000"
+   },
+   {
+      "name": "Kovrov",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.35722000",
+      "longitude": "41.31917000"
+   },
+   {
+      "name": "Krasnaya Gorbatka",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.87030000",
+      "longitude": "41.76410000"
+   },
+   {
+      "name": "Krasnyy Bogatyr’",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.01453000",
+      "longitude": "41.12958000"
+   },
+   {
+      "name": "Krasnyy Oktyabr’",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.11667000",
+      "longitude": "38.88333000"
+   },
+   {
+      "name": "Kurlovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.43252000",
+      "longitude": "40.48539000"
+   },
+   {
+      "name": "Lakinsk",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.01931000",
+      "longitude": "39.94848000"
+   },
+   {
+      "name": "Luknovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.18045000",
+      "longitude": "42.03987000"
+   },
+   {
+      "name": "Melekhovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.27730000",
+      "longitude": "41.29346000"
+   },
+   {
+      "name": "Melenki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.33430000",
+      "longitude": "41.62950000"
+   },
+   {
+      "name": "Melenkovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.33333000",
+      "longitude": "41.50000000"
+   },
+   {
+      "name": "Mezinovskiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.50420000",
+      "longitude": "40.35932000"
+   },
+   {
+      "name": "Mstera",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.37889000",
+      "longitude": "41.92000000"
+   },
+   {
+      "name": "Murom",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.57500000",
+      "longitude": "42.04260000"
+   },
+   {
+      "name": "Muromskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.58333000",
+      "longitude": "41.91667000"
+   },
+   {
+      "name": "Muromtsevo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.93096000",
+      "longitude": "40.90738000"
+   },
+   {
+      "name": "Nikologory",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.14130000",
+      "longitude": "41.99218000"
+   },
+   {
+      "name": "Novki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.36386000",
+      "longitude": "41.08655000"
+   },
+   {
+      "name": "Novovyazniki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.19750000",
+      "longitude": "42.17111000"
+   },
+   {
+      "name": "Oktyabr’skiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.21887000",
+      "longitude": "42.04069000"
+   },
+   {
+      "name": "Orgtrud",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.18320000",
+      "longitude": "40.61490000"
+   },
+   {
+      "name": "Petushinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.91667000",
+      "longitude": "40.00000000"
+   },
+   {
+      "name": "Petushki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.92639000",
+      "longitude": "39.46104000"
+   },
+   {
+      "name": "Pokrov",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.91797000",
+      "longitude": "39.17242000"
+   },
+   {
+      "name": "Raduzhnyy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.00380000",
+      "longitude": "40.33905000"
+   },
+   {
+      "name": "Sobinka",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.98553000",
+      "longitude": "40.01111000"
+   },
+   {
+      "name": "Sobinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.16667000",
+      "longitude": "40.00000000"
+   },
+   {
+      "name": "Stavrovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.13311000",
+      "longitude": "40.01295000"
+   },
+   {
+      "name": "Stepantsevo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.13143000",
+      "longitude": "41.70320000"
+   },
+   {
+      "name": "Strunino",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.37328000",
+      "longitude": "38.58321000"
+   },
+   {
+      "name": "Sudogda",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.95394000",
+      "longitude": "40.86291000"
+   },
+   {
+      "name": "Sudogodskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.00000000",
+      "longitude": "41.00000000"
+   },
+   {
+      "name": "Suzdal’",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.42274000",
+      "longitude": "40.44668000"
+   },
+   {
+      "name": "Suzdal’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.08333000",
+      "longitude": "40.50000000"
+   },
+   {
+      "name": "Urshel’skiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.67833000",
+      "longitude": "40.21692000"
+   },
+   {
+      "name": "Velikodvorskiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.24996000",
+      "longitude": "40.66780000"
+   },
+   {
+      "name": "Vladimir",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.13655000",
+      "longitude": "40.39658000"
+   },
+   {
+      "name": "Vorsha",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.04910000",
+      "longitude": "40.07966000"
+   },
+   {
+      "name": "Vyazniki",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.24057000",
+      "longitude": "42.15563000"
+   },
+   {
+      "name": "Yur’yev-Pol’skiy",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.50339000",
+      "longitude": "39.67911000"
+   },
+   {
+      "name": "Yur’yev-Pol’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "56.58333000",
+      "longitude": "39.58333000"
+   },
+   {
+      "name": "Zolotkovo",
+      "countryCode": "RU",
+      "stateCode": "VLA",
+      "latitude": "55.52810000",
+      "longitude": "41.10530000"
+   }
+]

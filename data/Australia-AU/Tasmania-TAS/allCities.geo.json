@@ -1,0 +1,996 @@
+[
+   {
+      "name": "Acton Park",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87932000",
+      "longitude": "147.48459000"
+   },
+   {
+      "name": "Austins Ferry",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.76667000",
+      "longitude": "147.25000000"
+   },
+   {
+      "name": "Bagdad",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.62968000",
+      "longitude": "147.22339000"
+   },
+   {
+      "name": "Battery Point",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.88995000",
+      "longitude": "147.33324000"
+   },
+   {
+      "name": "Beaconsfield",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.20227000",
+      "longitude": "146.81723000"
+   },
+   {
+      "name": "Beauty Point",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.16216000",
+      "longitude": "146.82146000"
+   },
+   {
+      "name": "Bellerive",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87551000",
+      "longitude": "147.37030000"
+   },
+   {
+      "name": "Berriedale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.81667000",
+      "longitude": "147.25000000"
+   },
+   {
+      "name": "Blackmans Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.00311000",
+      "longitude": "147.31694000"
+   },
+   {
+      "name": "Blackstone Heights",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.45977000",
+      "longitude": "147.08407000"
+   },
+   {
+      "name": "Break O'Day",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.39069000",
+      "longitude": "147.97477000"
+   },
+   {
+      "name": "Bridgewater",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.73719000",
+      "longitude": "147.22784000"
+   },
+   {
+      "name": "Bridport",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.00046000",
+      "longitude": "147.39175000"
+   },
+   {
+      "name": "Brighton",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.72673000",
+      "longitude": "147.24233000"
+   },
+   {
+      "name": "Burnie",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.19650000",
+      "longitude": "145.81136000"
+   },
+   {
+      "name": "Cambridge",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.83333000",
+      "longitude": "147.45000000"
+   },
+   {
+      "name": "Central Coast",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.26999000",
+      "longitude": "146.05916000"
+   },
+   {
+      "name": "Central Highlands",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.19653000",
+      "longitude": "146.63934000"
+   },
+   {
+      "name": "Chigwell",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.80912000",
+      "longitude": "147.24480000"
+   },
+   {
+      "name": "Circular Head",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.01991000",
+      "longitude": "145.08366000"
+   },
+   {
+      "name": "Claremont",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.78333000",
+      "longitude": "147.25000000"
+   },
+   {
+      "name": "Clarence",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87369000",
+      "longitude": "147.44725000"
+   },
+   {
+      "name": "Clarendon Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.88988000",
+      "longitude": "147.44368000"
+   },
+   {
+      "name": "Cressy",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.68561000",
+      "longitude": "147.07792000"
+   },
+   {
+      "name": "Currie",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-39.92976000",
+      "longitude": "143.85385000"
+   },
+   {
+      "name": "Cygnet",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.15333000",
+      "longitude": "147.07253000"
+   },
+   {
+      "name": "Deloraine",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.52477000",
+      "longitude": "146.65701000"
+   },
+   {
+      "name": "Derwent Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.80383000",
+      "longitude": "146.52970000"
+   },
+   {
+      "name": "Devonport",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.21296000",
+      "longitude": "146.32401000"
+   },
+   {
+      "name": "Dodges Ferry",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.85315000",
+      "longitude": "147.62263000"
+   },
+   {
+      "name": "Dorset",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.04789000",
+      "longitude": "147.73167000"
+   },
+   {
+      "name": "Dynnyrne",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.90541000",
+      "longitude": "147.31576000"
+   },
+   {
+      "name": "East Devonport",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.18792000",
+      "longitude": "146.38660000"
+   },
+   {
+      "name": "East Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.43843000",
+      "longitude": "147.15101000"
+   },
+   {
+      "name": "Evandale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.56858000",
+      "longitude": "147.25271000"
+   },
+   {
+      "name": "Flinders",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-40.03799000",
+      "longitude": "148.13965000"
+   },
+   {
+      "name": "Franklin",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.08884000",
+      "longitude": "147.00906000"
+   },
+   {
+      "name": "Gagebrook",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.74770000",
+      "longitude": "147.26984000"
+   },
+   {
+      "name": "Geeveston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.16337000",
+      "longitude": "146.92549000"
+   },
+   {
+      "name": "Geilston Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.82955000",
+      "longitude": "147.34630000"
+   },
+   {
+      "name": "George Town",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.11982000",
+      "longitude": "147.01731000"
+   },
+   {
+      "name": "Glamorgan/Spring Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.27832000",
+      "longitude": "147.96675000"
+   },
+   {
+      "name": "Glenorchy",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.83188000",
+      "longitude": "147.22954000"
+   },
+   {
+      "name": "Goodwood",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.82822000",
+      "longitude": "147.29301000"
+   },
+   {
+      "name": "Granton",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.75149000",
+      "longitude": "147.22795000"
+   },
+   {
+      "name": "Hadspen",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.50059000",
+      "longitude": "147.07359000"
+   },
+   {
+      "name": "Herdsmans Cove",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.75066000",
+      "longitude": "147.26483000"
+   },
+   {
+      "name": "Hillcrest",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.06324000",
+      "longitude": "145.89437000"
+   },
+   {
+      "name": "Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87936000",
+      "longitude": "147.32941000"
+   },
+   {
+      "name": "Hobart city centre",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.88280000",
+      "longitude": "147.32582000"
+   },
+   {
+      "name": "Howrah",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.88728000",
+      "longitude": "147.40554000"
+   },
+   {
+      "name": "Huon Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.29385000",
+      "longitude": "146.56555000"
+   },
+   {
+      "name": "Huonville",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.03124000",
+      "longitude": "147.04813000"
+   },
+   {
+      "name": "Invermay",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.42036000",
+      "longitude": "147.13358000"
+   },
+   {
+      "name": "Kentish",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.46341000",
+      "longitude": "146.17726000"
+   },
+   {
+      "name": "King Island",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-39.87215000",
+      "longitude": "143.99153000"
+   },
+   {
+      "name": "Kingborough",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.97451000",
+      "longitude": "147.25113000"
+   },
+   {
+      "name": "Kings Meadows",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.47041000",
+      "longitude": "147.16196000"
+   },
+   {
+      "name": "Kingston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.97638000",
+      "longitude": "147.30351000"
+   },
+   {
+      "name": "Kingston Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.98021000",
+      "longitude": "147.31941000"
+   },
+   {
+      "name": "Latrobe",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.21551000",
+      "longitude": "146.40656000"
+   },
+   {
+      "name": "Lauderdale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.91364000",
+      "longitude": "147.48747000"
+   },
+   {
+      "name": "Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.43876000",
+      "longitude": "147.13467000"
+   },
+   {
+      "name": "Launceston city centre",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.43352000",
+      "longitude": "147.13780000"
+   },
+   {
+      "name": "Legana",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.36572000",
+      "longitude": "147.04584000"
+   },
+   {
+      "name": "Lenah Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87146000",
+      "longitude": "147.27514000"
+   },
+   {
+      "name": "Lindisfarne",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.84837000",
+      "longitude": "147.36192000"
+   },
+   {
+      "name": "Longford",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.60512000",
+      "longitude": "147.11887000"
+   },
+   {
+      "name": "Lutana",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.83475000",
+      "longitude": "147.31152000"
+   },
+   {
+      "name": "Margate",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.02814000",
+      "longitude": "147.26256000"
+   },
+   {
+      "name": "Mayfield",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.38760000",
+      "longitude": "147.13052000"
+   },
+   {
+      "name": "Meander Valley",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.64952000",
+      "longitude": "146.54572000"
+   },
+   {
+      "name": "Miandetta",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.19550000",
+      "longitude": "146.35322000"
+   },
+   {
+      "name": "Midway Point",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.79480000",
+      "longitude": "147.52883000"
+   },
+   {
+      "name": "Montello",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.05762000",
+      "longitude": "145.89626000"
+   },
+   {
+      "name": "Montrose",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.82895000",
+      "longitude": "147.24735000"
+   },
+   {
+      "name": "Moonah",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.84617000",
+      "longitude": "147.30228000"
+   },
+   {
+      "name": "Mornington",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.86267000",
+      "longitude": "147.39819000"
+   },
+   {
+      "name": "Mount Nelson",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.92073000",
+      "longitude": "147.32069000"
+   },
+   {
+      "name": "Mount Stuart",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87157000",
+      "longitude": "147.30164000"
+   },
+   {
+      "name": "Mowbray",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.40243000",
+      "longitude": "147.15059000"
+   },
+   {
+      "name": "New Norfolk",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.78261000",
+      "longitude": "147.05870000"
+   },
+   {
+      "name": "New Town",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.85758000",
+      "longitude": "147.30869000"
+   },
+   {
+      "name": "Newnham",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.38969000",
+      "longitude": "147.11397000"
+   },
+   {
+      "name": "Newstead",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.44108000",
+      "longitude": "147.16183000"
+   },
+   {
+      "name": "North Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87406000",
+      "longitude": "147.31597000"
+   },
+   {
+      "name": "Northern Midlands",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.87988000",
+      "longitude": "147.45776000"
+   },
+   {
+      "name": "Norwood",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.45920000",
+      "longitude": "147.18077000"
+   },
+   {
+      "name": "Oakdowns",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.90178000",
+      "longitude": "147.45595000"
+   },
+   {
+      "name": "Old Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.77758000",
+      "longitude": "147.26659000"
+   },
+   {
+      "name": "Park Grove",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.05478000",
+      "longitude": "145.88201000"
+   },
+   {
+      "name": "Penguin",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.12258000",
+      "longitude": "146.07318000"
+   },
+   {
+      "name": "Perth",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.57231000",
+      "longitude": "147.17096000"
+   },
+   {
+      "name": "Port Sorell",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.16652000",
+      "longitude": "146.55283000"
+   },
+   {
+      "name": "Prospect Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.48100000",
+      "longitude": "147.10406000"
+   },
+   {
+      "name": "Queenstown",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.08050000",
+      "longitude": "145.55646000"
+   },
+   {
+      "name": "Ranelagh",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.00977000",
+      "longitude": "147.03764000"
+   },
+   {
+      "name": "Ravenswood",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.41593000",
+      "longitude": "147.18250000"
+   },
+   {
+      "name": "Richmond",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.73554000",
+      "longitude": "147.43833000"
+   },
+   {
+      "name": "Risdon Vale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.81242000",
+      "longitude": "147.35654000"
+   },
+   {
+      "name": "Riverside",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.42105000",
+      "longitude": "147.05086000"
+   },
+   {
+      "name": "Rocherlea",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.38083000",
+      "longitude": "147.15738000"
+   },
+   {
+      "name": "Rokeby",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.89875000",
+      "longitude": "147.44917000"
+   },
+   {
+      "name": "Romaine",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.09944000",
+      "longitude": "145.89376000"
+   },
+   {
+      "name": "Rosetta",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.82105000",
+      "longitude": "147.25258000"
+   },
+   {
+      "name": "Saint Leonards",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.45672000",
+      "longitude": "147.19952000"
+   },
+   {
+      "name": "Sandford",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.93333000",
+      "longitude": "147.50000000"
+   },
+   {
+      "name": "Sandy Bay",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.89449000",
+      "longitude": "147.32439000"
+   },
+   {
+      "name": "Scottsdale",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.15780000",
+      "longitude": "147.51727000"
+   },
+   {
+      "name": "Seven Mile Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.85863000",
+      "longitude": "147.50532000"
+   },
+   {
+      "name": "Shearwater",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.15673000",
+      "longitude": "146.53178000"
+   },
+   {
+      "name": "Sheffield",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.39947000",
+      "longitude": "146.33897000"
+   },
+   {
+      "name": "Shorewell Park",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.06990000",
+      "longitude": "145.87689000"
+   },
+   {
+      "name": "Smithton",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-40.84587000",
+      "longitude": "145.12498000"
+   },
+   {
+      "name": "Snug",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.06669000",
+      "longitude": "147.25468000"
+   },
+   {
+      "name": "Somerset",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.04065000",
+      "longitude": "145.83055000"
+   },
+   {
+      "name": "Sorell",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.78908000",
+      "longitude": "147.69488000"
+   },
+   {
+      "name": "South Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.89459000",
+      "longitude": "147.30924000"
+   },
+   {
+      "name": "South Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.45506000",
+      "longitude": "147.14556000"
+   },
+   {
+      "name": "Southern Midlands",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.41785000",
+      "longitude": "147.43414000"
+   },
+   {
+      "name": "Spreyton",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.23524000",
+      "longitude": "146.35108000"
+   },
+   {
+      "name": "St Helens",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.32028000",
+      "longitude": "148.23889000"
+   },
+   {
+      "name": "Summerhill",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.46747000",
+      "longitude": "147.12796000"
+   },
+   {
+      "name": "Taroona",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.94520000",
+      "longitude": "147.34840000"
+   },
+   {
+      "name": "Tasman Peninsula",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-43.16245000",
+      "longitude": "147.94739000"
+   },
+   {
+      "name": "Tranmere",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.92179000",
+      "longitude": "147.41701000"
+   },
+   {
+      "name": "Trevallyn",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.44246000",
+      "longitude": "147.10484000"
+   },
+   {
+      "name": "Turners Beach",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.16060000",
+      "longitude": "146.23193000"
+   },
+   {
+      "name": "Ulverstone",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.16026000",
+      "longitude": "146.18242000"
+   },
+   {
+      "name": "Upper Burnie",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.07139000",
+      "longitude": "145.89960000"
+   },
+   {
+      "name": "Waratah/Wynyard",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.30709000",
+      "longitude": "145.45831000"
+   },
+   {
+      "name": "Warrane",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.85546000",
+      "longitude": "147.38297000"
+   },
+   {
+      "name": "Waverley",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.43602000",
+      "longitude": "147.18588000"
+   },
+   {
+      "name": "West Coast",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.45246000",
+      "longitude": "145.52264000"
+   },
+   {
+      "name": "West Hobart",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.87658000",
+      "longitude": "147.30688000"
+   },
+   {
+      "name": "West Launceston",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.45092000",
+      "longitude": "147.13114000"
+   },
+   {
+      "name": "West Moonah",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-42.84996000",
+      "longitude": "147.28181000"
+   },
+   {
+      "name": "West Tamar",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.26441000",
+      "longitude": "146.89123000"
+   },
+   {
+      "name": "West Ulverstone",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.14744000",
+      "longitude": "146.12670000"
+   },
+   {
+      "name": "Westbury",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.52914000",
+      "longitude": "146.83914000"
+   },
+   {
+      "name": "Wynyard",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-40.98970000",
+      "longitude": "145.72617000"
+   },
+   {
+      "name": "Youngtown",
+      "countryCode": "AU",
+      "stateCode": "TAS",
+      "latitude": "-41.48332000",
+      "longitude": "147.17067000"
+   }
+]

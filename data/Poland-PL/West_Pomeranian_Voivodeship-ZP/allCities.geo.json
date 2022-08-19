@@ -1,0 +1,842 @@
+[
+   {
+      "name": "Banie",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.10031000",
+      "longitude": "14.66228000"
+   },
+   {
+      "name": "Barlinek",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.99464000",
+      "longitude": "15.21864000"
+   },
+   {
+      "name": "Barwice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.74490000",
+      "longitude": "16.35530000"
+   },
+   {
+      "name": "Białogard",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.00696000",
+      "longitude": "15.98751000"
+   },
+   {
+      "name": "Biały Bór",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.89670000",
+      "longitude": "16.83543000"
+   },
+   {
+      "name": "Bielice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.20022000",
+      "longitude": "14.72760000"
+   },
+   {
+      "name": "Bierzwnik",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.03567000",
+      "longitude": "15.66500000"
+   },
+   {
+      "name": "Bobolice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.95508000",
+      "longitude": "16.58893000"
+   },
+   {
+      "name": "Boleszkowice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.72493000",
+      "longitude": "14.56901000"
+   },
+   {
+      "name": "Borne Sulinowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.57661000",
+      "longitude": "16.53395000"
+   },
+   {
+      "name": "Brojce",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.95705000",
+      "longitude": "15.35975000"
+   },
+   {
+      "name": "Cedynia",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.87931000",
+      "longitude": "14.20249000"
+   },
+   {
+      "name": "Cerkwica",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.00777000",
+      "longitude": "15.10903000"
+   },
+   {
+      "name": "Chociwel",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.46696000",
+      "longitude": "15.33342000"
+   },
+   {
+      "name": "Chojna",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.96389000",
+      "longitude": "14.42797000"
+   },
+   {
+      "name": "Choszczno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.16905000",
+      "longitude": "15.42054000"
+   },
+   {
+      "name": "Czaplinek",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.55775000",
+      "longitude": "16.23333000"
+   },
+   {
+      "name": "Człopa",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.08856000",
+      "longitude": "16.12098000"
+   },
+   {
+      "name": "Darłowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.42095000",
+      "longitude": "16.41070000"
+   },
+   {
+      "name": "Dobra",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.58625000",
+      "longitude": "15.30977000"
+   },
+   {
+      "name": "Dobrzany",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.35914000",
+      "longitude": "15.42886000"
+   },
+   {
+      "name": "Dolice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.19081000",
+      "longitude": "15.20267000"
+   },
+   {
+      "name": "Drawno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.21986000",
+      "longitude": "15.75946000"
+   },
+   {
+      "name": "Drawsko Pomorskie",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.53056000",
+      "longitude": "15.80967000"
+   },
+   {
+      "name": "Dygowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.13031000",
+      "longitude": "15.71993000"
+   },
+   {
+      "name": "Dziwnów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.02819000",
+      "longitude": "14.76691000"
+   },
+   {
+      "name": "Dębno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.73901000",
+      "longitude": "14.69800000"
+   },
+   {
+      "name": "Golczewo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.82426000",
+      "longitude": "14.97847000"
+   },
+   {
+      "name": "Goleniów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.56392000",
+      "longitude": "14.82854000"
+   },
+   {
+      "name": "Gościno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.05123000",
+      "longitude": "15.65256000"
+   },
+   {
+      "name": "Gryfice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.91650000",
+      "longitude": "15.20027000"
+   },
+   {
+      "name": "Gryfino",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.25243000",
+      "longitude": "14.48831000"
+   },
+   {
+      "name": "Grzmiąca",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.83734000",
+      "longitude": "16.43512000"
+   },
+   {
+      "name": "Grzybowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.15892000",
+      "longitude": "15.48557000"
+   },
+   {
+      "name": "Ińsko",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.43613000",
+      "longitude": "15.55020000"
+   },
+   {
+      "name": "Kalisz Pomorski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.29908000",
+      "longitude": "15.90631000"
+   },
+   {
+      "name": "Kamień Pomorski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.96849000",
+      "longitude": "14.77262000"
+   },
+   {
+      "name": "Karlino",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.03515000",
+      "longitude": "15.87739000"
+   },
+   {
+      "name": "Karnice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.03001000",
+      "longitude": "15.05496000"
+   },
+   {
+      "name": "Kobylanka",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.34492000",
+      "longitude": "14.87143000"
+   },
+   {
+      "name": "Koszalin",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.19438000",
+      "longitude": "16.17222000"
+   },
+   {
+      "name": "Kołbaskowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.33641000",
+      "longitude": "14.43835000"
+   },
+   {
+      "name": "Kołobrzeg",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.17565000",
+      "longitude": "15.58342000"
+   },
+   {
+      "name": "Krzęcin",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.08160000",
+      "longitude": "15.49008000"
+   },
+   {
+      "name": "Lipiany",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.00336000",
+      "longitude": "14.96919000"
+   },
+   {
+      "name": "Marianowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.38287000",
+      "longitude": "15.26645000"
+   },
+   {
+      "name": "Maszewo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.49615000",
+      "longitude": "15.06166000"
+   },
+   {
+      "name": "Mielno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.26086000",
+      "longitude": "16.06210000"
+   },
+   {
+      "name": "Mieszkowice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.78730000",
+      "longitude": "14.49346000"
+   },
+   {
+      "name": "Mirosławiec",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.34071000",
+      "longitude": "16.08793000"
+   },
+   {
+      "name": "Międzyzdroje",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.92921000",
+      "longitude": "14.45097000"
+   },
+   {
+      "name": "Moryń",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.85769000",
+      "longitude": "14.39297000"
+   },
+   {
+      "name": "Mosty",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.54796000",
+      "longitude": "14.95634000"
+   },
+   {
+      "name": "Mrzeżyno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.14384000",
+      "longitude": "15.29142000"
+   },
+   {
+      "name": "Myślibórz",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.92382000",
+      "longitude": "14.86785000"
+   },
+   {
+      "name": "Nowe Warpno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.72256000",
+      "longitude": "14.28961000"
+   },
+   {
+      "name": "Nowogard",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.67437000",
+      "longitude": "15.11630000"
+   },
+   {
+      "name": "Nowogródek Pomorski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.91149000",
+      "longitude": "15.02947000"
+   },
+   {
+      "name": "Osina",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.60473000",
+      "longitude": "15.01230000"
+   },
+   {
+      "name": "Pełczyce",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.04354000",
+      "longitude": "15.30447000"
+   },
+   {
+      "name": "Pobierowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.06100000",
+      "longitude": "14.93282000"
+   },
+   {
+      "name": "Polanów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.11930000",
+      "longitude": "16.68512000"
+   },
+   {
+      "name": "Police",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.55214000",
+      "longitude": "14.57182000"
+   },
+   {
+      "name": "Powiat białogardzki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.97686000",
+      "longitude": "16.08855000"
+   },
+   {
+      "name": "Powiat choszczeński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.14277000",
+      "longitude": "15.62112000"
+   },
+   {
+      "name": "Powiat drawski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.44743000",
+      "longitude": "16.02132000"
+   },
+   {
+      "name": "Powiat goleniowski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.61035000",
+      "longitude": "14.85421000"
+   },
+   {
+      "name": "Powiat gryficki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.94293000",
+      "longitude": "15.19082000"
+   },
+   {
+      "name": "Powiat gryfiński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.02298000",
+      "longitude": "14.49912000"
+   },
+   {
+      "name": "Powiat kamieński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.91096000",
+      "longitude": "14.74420000"
+   },
+   {
+      "name": "Powiat koszaliński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.10970000",
+      "longitude": "16.30231000"
+   },
+   {
+      "name": "Powiat kołobrzeski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.05013000",
+      "longitude": "15.61394000"
+   },
+   {
+      "name": "Powiat myśliborski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.85474000",
+      "longitude": "14.88454000"
+   },
+   {
+      "name": "Powiat policki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.53114000",
+      "longitude": "14.45104000"
+   },
+   {
+      "name": "Powiat pyrzycki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.12558000",
+      "longitude": "14.94045000"
+   },
+   {
+      "name": "Powiat stargardzki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.31520000",
+      "longitude": "15.22684000"
+   },
+   {
+      "name": "Powiat szczecinecki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.73766000",
+      "longitude": "16.58957000"
+   },
+   {
+      "name": "Powiat sławieński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.37910000",
+      "longitude": "16.53986000"
+   },
+   {
+      "name": "Powiat wałecki",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.23633000",
+      "longitude": "16.33851000"
+   },
+   {
+      "name": "Powiat łobeski",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.67294000",
+      "longitude": "15.47237000"
+   },
+   {
+      "name": "Powiat świdwiński",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.80758000",
+      "longitude": "15.89859000"
+   },
+   {
+      "name": "Połczyn-Zdrój",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.76424000",
+      "longitude": "16.09574000"
+   },
+   {
+      "name": "Przecław",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.37447000",
+      "longitude": "14.47251000"
+   },
+   {
+      "name": "Przelewice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.10413000",
+      "longitude": "15.07625000"
+   },
+   {
+      "name": "Przybiernów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.75780000",
+      "longitude": "14.78529000"
+   },
+   {
+      "name": "Pyrzyce",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.14620000",
+      "longitude": "14.89257000"
+   },
+   {
+      "name": "Płoty",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.80182000",
+      "longitude": "15.26670000"
+   },
+   {
+      "name": "Radowo Małe",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.66575000",
+      "longitude": "15.44789000"
+   },
+   {
+      "name": "Recz",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.25989000",
+      "longitude": "15.54713000"
+   },
+   {
+      "name": "Resko",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.77307000",
+      "longitude": "15.40607000"
+   },
+   {
+      "name": "Rewal",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.08120000",
+      "longitude": "15.01471000"
+   },
+   {
+      "name": "Rymań",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.94391000",
+      "longitude": "15.52866000"
+   },
+   {
+      "name": "Rąbino",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.86630000",
+      "longitude": "15.94485000"
+   },
+   {
+      "name": "Sianów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.22646000",
+      "longitude": "16.29127000"
+   },
+   {
+      "name": "Stara Dąbrowa",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.42191000",
+      "longitude": "15.14405000"
+   },
+   {
+      "name": "Stare Czarnowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.27861000",
+      "longitude": "14.77906000"
+   },
+   {
+      "name": "Stargard",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.33672000",
+      "longitude": "15.04990000"
+   },
+   {
+      "name": "Stepnica",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.65187000",
+      "longitude": "14.62555000"
+   },
+   {
+      "name": "Suchań",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.28003000",
+      "longitude": "15.32541000"
+   },
+   {
+      "name": "Szczecin",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.42894000",
+      "longitude": "14.55302000"
+   },
+   {
+      "name": "Szczecinek",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.70791000",
+      "longitude": "16.69937000"
+   },
+   {
+      "name": "Sławno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.36276000",
+      "longitude": "16.67888000"
+   },
+   {
+      "name": "Sławoborze",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.88992000",
+      "longitude": "15.70667000"
+   },
+   {
+      "name": "Trzcińsko Zdrój",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "52.96487000",
+      "longitude": "14.60667000"
+   },
+   {
+      "name": "Trzebiatów",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.06147000",
+      "longitude": "15.26475000"
+   },
+   {
+      "name": "Tuczno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.19374000",
+      "longitude": "16.15368000"
+   },
+   {
+      "name": "Tychowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.92774000",
+      "longitude": "16.25771000"
+   },
+   {
+      "name": "Ustronie Morskie",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "54.21517000",
+      "longitude": "15.75568000"
+   },
+   {
+      "name": "Warnice",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.25376000",
+      "longitude": "14.99402000"
+   },
+   {
+      "name": "Wałcz",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.27787000",
+      "longitude": "16.47122000"
+   },
+   {
+      "name": "Widuchowa",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.12693000",
+      "longitude": "14.39074000"
+   },
+   {
+      "name": "Wierzchowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.46013000",
+      "longitude": "16.09961000"
+   },
+   {
+      "name": "Wolin",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.84214000",
+      "longitude": "14.61465000"
+   },
+   {
+      "name": "Węgorzyno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.54101000",
+      "longitude": "15.55964000"
+   },
+   {
+      "name": "Złocieniec",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.53286000",
+      "longitude": "16.01132000"
+   },
+   {
+      "name": "Łobez",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.63918000",
+      "longitude": "15.62129000"
+   },
+   {
+      "name": "Łubowo",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.58634000",
+      "longitude": "16.39177000"
+   },
+   {
+      "name": "Świdwin",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.77464000",
+      "longitude": "15.77671000"
+   },
+   {
+      "name": "Świerzno",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.96497000",
+      "longitude": "14.96544000"
+   },
+   {
+      "name": "Świnoujście",
+      "countryCode": "PL",
+      "stateCode": "ZP",
+      "latitude": "53.91053000",
+      "longitude": "14.24712000"
+   }
+]

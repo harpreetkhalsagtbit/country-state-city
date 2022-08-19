@@ -1,0 +1,4027 @@
+[
+   {
+      "name": "Absdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40021000",
+      "longitude": "15.97874000"
+   },
+   {
+      "name": "Achau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08026000",
+      "longitude": "16.38611000"
+   },
+   {
+      "name": "Aderklaa",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.28333000",
+      "longitude": "16.53333000"
+   },
+   {
+      "name": "Aggsbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29404000",
+      "longitude": "15.40382000"
+   },
+   {
+      "name": "Alland",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05829000",
+      "longitude": "16.07901000"
+   },
+   {
+      "name": "Allentsteig",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.69725000",
+      "longitude": "15.32756000"
+   },
+   {
+      "name": "Allhartsberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02633000",
+      "longitude": "14.79009000"
+   },
+   {
+      "name": "Altenburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.64765000",
+      "longitude": "15.59295000"
+   },
+   {
+      "name": "Altendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.65000000",
+      "longitude": "16.01667000"
+   },
+   {
+      "name": "Altenmarkt an der Triesting",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01553000",
+      "longitude": "15.99661000"
+   },
+   {
+      "name": "Altlengbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15355000",
+      "longitude": "15.92606000"
+   },
+   {
+      "name": "Altlichtenwarth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.64442000",
+      "longitude": "16.79664000"
+   },
+   {
+      "name": "Altmelon",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46222000",
+      "longitude": "14.96552000"
+   },
+   {
+      "name": "Amstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12290000",
+      "longitude": "14.87206000"
+   },
+   {
+      "name": "Andlersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "16.66667000"
+   },
+   {
+      "name": "Angern an der March",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.37778000",
+      "longitude": "16.82806000"
+   },
+   {
+      "name": "Arbesbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.49337000",
+      "longitude": "14.95308000"
+   },
+   {
+      "name": "Ardagger Stift",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15000000",
+      "longitude": "14.83333000"
+   },
+   {
+      "name": "Aschbach Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07234000",
+      "longitude": "14.75395000"
+   },
+   {
+      "name": "Aspang Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.55000000",
+      "longitude": "16.08333000"
+   },
+   {
+      "name": "Asparn an der Zaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.58333000",
+      "longitude": "16.50000000"
+   },
+   {
+      "name": "Asperhofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24583000",
+      "longitude": "15.92606000"
+   },
+   {
+      "name": "Atzenbrugg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29119000",
+      "longitude": "15.90614000"
+   },
+   {
+      "name": "Au am Leithaberge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.92296000",
+      "longitude": "16.55794000"
+   },
+   {
+      "name": "Auersthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.37373000",
+      "longitude": "16.63596000"
+   },
+   {
+      "name": "Bad Deutsch-Altenburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13425000",
+      "longitude": "16.90624000"
+   },
+   {
+      "name": "Bad Erlach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.72722000",
+      "longitude": "16.21444000"
+   },
+   {
+      "name": "Bad Fischau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.83137000",
+      "longitude": "16.16707000"
+   },
+   {
+      "name": "Bad Pirawarth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.45194000",
+      "longitude": "16.59833000"
+   },
+   {
+      "name": "Bad Schönau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.49473000",
+      "longitude": "16.23410000"
+   },
+   {
+      "name": "Bad Traunstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43850000",
+      "longitude": "15.11712000"
+   },
+   {
+      "name": "Bad Vöslau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.96533000",
+      "longitude": "16.21359000"
+   },
+   {
+      "name": "Baden",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00543000",
+      "longitude": "16.23264000"
+   },
+   {
+      "name": "Behamberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01667000",
+      "longitude": "14.48333000"
+   },
+   {
+      "name": "Berg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10147000",
+      "longitude": "17.03842000"
+   },
+   {
+      "name": "Bergland",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15595000",
+      "longitude": "15.18553000"
+   },
+   {
+      "name": "Berndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.94567000",
+      "longitude": "16.10973000"
+   },
+   {
+      "name": "Bernhardsthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.69158000",
+      "longitude": "16.86951000"
+   },
+   {
+      "name": "Biberbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03006000",
+      "longitude": "14.70795000"
+   },
+   {
+      "name": "Biedermannsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08393000",
+      "longitude": "16.34542000"
+   },
+   {
+      "name": "Bisamberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33333000",
+      "longitude": "16.35000000"
+   },
+   {
+      "name": "Bischofstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12222000",
+      "longitude": "15.46909000"
+   },
+   {
+      "name": "Blindenmarkt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12749000",
+      "longitude": "14.98647000"
+   },
+   {
+      "name": "Bockfließ",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36000000",
+      "longitude": "16.60389000"
+   },
+   {
+      "name": "Breitenau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.73355000",
+      "longitude": "16.14338000"
+   },
+   {
+      "name": "Breitenfurt bei Wien",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13333000",
+      "longitude": "16.15000000"
+   },
+   {
+      "name": "Bromberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.66539000",
+      "longitude": "16.20990000"
+   },
+   {
+      "name": "Bruck an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01667000",
+      "longitude": "16.76667000"
+   },
+   {
+      "name": "Brunn am Gebirge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10697000",
+      "longitude": "16.28466000"
+   },
+   {
+      "name": "Brunn an der Schneebergbahn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.82376000",
+      "longitude": "16.15934000"
+   },
+   {
+      "name": "Brunn an der Wild",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.69425000",
+      "longitude": "15.52008000"
+   },
+   {
+      "name": "Buchbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69648000",
+      "longitude": "15.98425000"
+   },
+   {
+      "name": "Bärnkopf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39046000",
+      "longitude": "15.00479000"
+   },
+   {
+      "name": "Böheimkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.19779000",
+      "longitude": "15.76178000"
+   },
+   {
+      "name": "Deutsch-Wagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29972000",
+      "longitude": "16.56667000"
+   },
+   {
+      "name": "Dobersberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.91510000",
+      "longitude": "15.32188000"
+   },
+   {
+      "name": "Dorfstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.32573000",
+      "longitude": "14.98218000"
+   },
+   {
+      "name": "Drasenhofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.75000000",
+      "longitude": "16.65000000"
+   },
+   {
+      "name": "Droß",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46393000",
+      "longitude": "15.57561000"
+   },
+   {
+      "name": "Drösing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.53900000",
+      "longitude": "16.90264000"
+   },
+   {
+      "name": "Dürnkrut",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.47315000",
+      "longitude": "16.85062000"
+   },
+   {
+      "name": "Dürnstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39582000",
+      "longitude": "15.51973000"
+   },
+   {
+      "name": "Ebenfurth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87738000",
+      "longitude": "16.36731000"
+   },
+   {
+      "name": "Ebenthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43333000",
+      "longitude": "16.78333000"
+   },
+   {
+      "name": "Ebergassing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04567000",
+      "longitude": "16.51709000"
+   },
+   {
+      "name": "Ebreichsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95579000",
+      "longitude": "16.40705000"
+   },
+   {
+      "name": "Echsenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.71667000",
+      "longitude": "15.21667000"
+   },
+   {
+      "name": "Eckartsau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14507000",
+      "longitude": "16.79737000"
+   },
+   {
+      "name": "Edlitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.59797000",
+      "longitude": "16.14052000"
+   },
+   {
+      "name": "Eggenburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.63892000",
+      "longitude": "15.81903000"
+   },
+   {
+      "name": "Eggendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.85809000",
+      "longitude": "16.32182000"
+   },
+   {
+      "name": "Eggern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.90829000",
+      "longitude": "15.14877000"
+   },
+   {
+      "name": "Eichgraben",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.17204000",
+      "longitude": "15.98391000"
+   },
+   {
+      "name": "Eisgarn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.91675000",
+      "longitude": "15.10320000"
+   },
+   {
+      "name": "Emmersdorf an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24140000",
+      "longitude": "15.33721000"
+   },
+   {
+      "name": "Engelhartstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18160000",
+      "longitude": "16.88367000"
+   },
+   {
+      "name": "Ennsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21181000",
+      "longitude": "14.50290000"
+   },
+   {
+      "name": "Enzenreith",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.66839000",
+      "longitude": "15.95249000"
+   },
+   {
+      "name": "Enzersdorf an der Fischa",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08502000",
+      "longitude": "16.60832000"
+   },
+   {
+      "name": "Enzersfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36338000",
+      "longitude": "16.42387000"
+   },
+   {
+      "name": "Erlauf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "15.18333000"
+   },
+   {
+      "name": "Ernstbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.53333000",
+      "longitude": "16.35000000"
+   },
+   {
+      "name": "Ernsthofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12915000",
+      "longitude": "14.48058000"
+   },
+   {
+      "name": "Erpersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.34210000",
+      "longitude": "15.91747000"
+   },
+   {
+      "name": "Ertl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97704000",
+      "longitude": "14.63134000"
+   },
+   {
+      "name": "Eschenau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04825000",
+      "longitude": "15.56694000"
+   },
+   {
+      "name": "Euratsfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08181000",
+      "longitude": "14.93154000"
+   },
+   {
+      "name": "Falkenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.71667000",
+      "longitude": "16.58333000"
+   },
+   {
+      "name": "Fallbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65000000",
+      "longitude": "16.41667000"
+   },
+   {
+      "name": "Feistritz am Wechsel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.60000000",
+      "longitude": "16.05000000"
+   },
+   {
+      "name": "Felixdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.88159000",
+      "longitude": "16.24208000"
+   },
+   {
+      "name": "Fels am Wagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43333000",
+      "longitude": "15.81667000"
+   },
+   {
+      "name": "Ferschnitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09419000",
+      "longitude": "14.98454000"
+   },
+   {
+      "name": "Fischamend-Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11667000",
+      "longitude": "16.60000000"
+   },
+   {
+      "name": "Frankenfels",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98234000",
+      "longitude": "15.32593000"
+   },
+   {
+      "name": "Frohsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.73333000",
+      "longitude": "16.25000000"
+   },
+   {
+      "name": "Furth an der Triesting",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97326000",
+      "longitude": "15.97326000"
+   },
+   {
+      "name": "Furth bei Göttweig",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.37385000",
+      "longitude": "15.61408000"
+   },
+   {
+      "name": "Gaaden",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05364000",
+      "longitude": "16.20003000"
+   },
+   {
+      "name": "Gablitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22856000",
+      "longitude": "16.15437000"
+   },
+   {
+      "name": "Gainfarn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.96280000",
+      "longitude": "16.19368000"
+   },
+   {
+      "name": "Gaming",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.92900000",
+      "longitude": "15.08818000"
+   },
+   {
+      "name": "Gars am Kamp",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.58899000",
+      "longitude": "15.65363000"
+   },
+   {
+      "name": "Gastern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.89446000",
+      "longitude": "15.22027000"
+   },
+   {
+      "name": "Gaubitsch",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65000000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Gaweinstal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.48003000",
+      "longitude": "16.58790000"
+   },
+   {
+      "name": "Gedersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43319000",
+      "longitude": "15.68865000"
+   },
+   {
+      "name": "Geras",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.79725000",
+      "longitude": "15.67268000"
+   },
+   {
+      "name": "Gerasdorf bei Wien",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29447000",
+      "longitude": "16.46765000"
+   },
+   {
+      "name": "Gerersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20088000",
+      "longitude": "15.55613000"
+   },
+   {
+      "name": "Gerolding",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25000000",
+      "longitude": "15.41667000"
+   },
+   {
+      "name": "Gföhl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.51667000",
+      "longitude": "15.48333000"
+   },
+   {
+      "name": "Gießhübl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09780000",
+      "longitude": "16.23479000"
+   },
+   {
+      "name": "Glinzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24605000",
+      "longitude": "16.64060000"
+   },
+   {
+      "name": "Gloggnitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.67487000",
+      "longitude": "15.93893000"
+   },
+   {
+      "name": "Gmünd",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.76830000",
+      "longitude": "14.98080000"
+   },
+   {
+      "name": "Gnadendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.61667000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Gneixendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43751000",
+      "longitude": "15.61810000"
+   },
+   {
+      "name": "Grafenegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43040000",
+      "longitude": "15.74907000"
+   },
+   {
+      "name": "Grafenschlag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.50000000",
+      "longitude": "15.16667000"
+   },
+   {
+      "name": "Grafenwörth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40790000",
+      "longitude": "15.77826000"
+   },
+   {
+      "name": "Gramatneusiedl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03040000",
+      "longitude": "16.48936000"
+   },
+   {
+      "name": "Greinsfurth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10846000",
+      "longitude": "14.84390000"
+   },
+   {
+      "name": "Gresten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98521000",
+      "longitude": "15.02552000"
+   },
+   {
+      "name": "Grimmenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.61635000",
+      "longitude": "16.12724000"
+   },
+   {
+      "name": "Groß-Engersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35873000",
+      "longitude": "16.56610000"
+   },
+   {
+      "name": "Groß-Enzersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20278000",
+      "longitude": "16.55083000"
+   },
+   {
+      "name": "Groß-Gerungs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57422000",
+      "longitude": "14.95789000"
+   },
+   {
+      "name": "Groß-Schweinbarth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41472000",
+      "longitude": "16.63194000"
+   },
+   {
+      "name": "Groß-Siegharts",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.79180000",
+      "longitude": "15.40429000"
+   },
+   {
+      "name": "Großebersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36405000",
+      "longitude": "16.47076000"
+   },
+   {
+      "name": "Großharras",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.66389000",
+      "longitude": "16.24556000"
+   },
+   {
+      "name": "Großhofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25834000",
+      "longitude": "16.61940000"
+   },
+   {
+      "name": "Großkrut",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.64389000",
+      "longitude": "16.72361000"
+   },
+   {
+      "name": "Großmugl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.49917000",
+      "longitude": "16.23056000"
+   },
+   {
+      "name": "Großriedenthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.48333000",
+      "longitude": "15.86667000"
+   },
+   {
+      "name": "Großrußbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.47412000",
+      "longitude": "16.41649000"
+   },
+   {
+      "name": "Großweikersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.47123000",
+      "longitude": "15.98251000"
+   },
+   {
+      "name": "Grünbach am Schneeberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.79747000",
+      "longitude": "15.98785000"
+   },
+   {
+      "name": "Gugging",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.31385000",
+      "longitude": "16.24852000"
+   },
+   {
+      "name": "Gumpoldskirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04538000",
+      "longitude": "16.27710000"
+   },
+   {
+      "name": "Guntersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65000000",
+      "longitude": "16.05000000"
+   },
+   {
+      "name": "Guntramsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04687000",
+      "longitude": "16.31384000"
+   },
+   {
+      "name": "Gutenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36520000",
+      "longitude": "15.11899000"
+   },
+   {
+      "name": "Gutenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87600000",
+      "longitude": "15.88881000"
+   },
+   {
+      "name": "Gänserndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33925000",
+      "longitude": "16.72016000"
+   },
+   {
+      "name": "Göllersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.49357000",
+      "longitude": "16.11943000"
+   },
+   {
+      "name": "Göpfritz an der Wild",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.72497000",
+      "longitude": "15.40236000"
+   },
+   {
+      "name": "Göstling an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.80664000",
+      "longitude": "14.93797000"
+   },
+   {
+      "name": "Götzendorf an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01667000",
+      "longitude": "16.58333000"
+   },
+   {
+      "name": "Günselsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.94395000",
+      "longitude": "16.26062000"
+   },
+   {
+      "name": "Haag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11362000",
+      "longitude": "14.56753000"
+   },
+   {
+      "name": "Hadersdorf am Kamp",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.45000000",
+      "longitude": "15.71667000"
+   },
+   {
+      "name": "Hadres",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70965000",
+      "longitude": "16.13038000"
+   },
+   {
+      "name": "Hafnerbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21667000",
+      "longitude": "15.48333000"
+   },
+   {
+      "name": "Hagenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33333000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Haidershofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07579000",
+      "longitude": "14.46131000"
+   },
+   {
+      "name": "Hainburg an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14627000",
+      "longitude": "16.94504000"
+   },
+   {
+      "name": "Hainfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03390000",
+      "longitude": "15.77414000"
+   },
+   {
+      "name": "Hardegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.85000000",
+      "longitude": "15.85000000"
+   },
+   {
+      "name": "Haringsee",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.19270000",
+      "longitude": "16.78741000"
+   },
+   {
+      "name": "Harland",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16162000",
+      "longitude": "15.63835000"
+   },
+   {
+      "name": "Harmannsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39724000",
+      "longitude": "16.37220000"
+   },
+   {
+      "name": "Hart",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15320000",
+      "longitude": "15.61569000"
+   },
+   {
+      "name": "Haugschlag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.98333000",
+      "longitude": "15.05000000"
+   },
+   {
+      "name": "Haugsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70762000",
+      "longitude": "16.07656000"
+   },
+   {
+      "name": "Haunoldstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.45000000"
+   },
+   {
+      "name": "Hausbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.62602000",
+      "longitude": "16.82844000"
+   },
+   {
+      "name": "Hauskirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.60000000",
+      "longitude": "16.76667000"
+   },
+   {
+      "name": "Hausleiten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38333000",
+      "longitude": "16.10000000"
+   },
+   {
+      "name": "Hausmening",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07074000",
+      "longitude": "14.81438000"
+   },
+   {
+      "name": "Heidenreichstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.86667000",
+      "longitude": "15.11667000"
+   },
+   {
+      "name": "Heiligeneich",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29964000",
+      "longitude": "15.89413000"
+   },
+   {
+      "name": "Heiligenkreuz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05559000",
+      "longitude": "16.12493000"
+   },
+   {
+      "name": "Hennersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11173000",
+      "longitude": "16.36311000"
+   },
+   {
+      "name": "Hernstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.89465000",
+      "longitude": "16.10561000"
+   },
+   {
+      "name": "Herrnbaumgarten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.69606000",
+      "longitude": "16.68283000"
+   },
+   {
+      "name": "Herzogenburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.28137000",
+      "longitude": "15.69431000"
+   },
+   {
+      "name": "Himberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08333000",
+      "longitude": "16.43333000"
+   },
+   {
+      "name": "Hinterbrühl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08611000",
+      "longitude": "16.24809000"
+   },
+   {
+      "name": "Hinterleiten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16513000",
+      "longitude": "15.96654000"
+   },
+   {
+      "name": "Hirschbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.74329000",
+      "longitude": "15.12521000"
+   },
+   {
+      "name": "Hirtenberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.93095000",
+      "longitude": "16.17908000"
+   },
+   {
+      "name": "Hochleithen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.45317000",
+      "longitude": "16.53090000"
+   },
+   {
+      "name": "Hochwolkersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.66127000",
+      "longitude": "16.28072000"
+   },
+   {
+      "name": "Hof am Leithaberge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95000000",
+      "longitude": "16.58333000"
+   },
+   {
+      "name": "Hofamt Priel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.19581000",
+      "longitude": "15.07746000"
+   },
+   {
+      "name": "Hofstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09711000",
+      "longitude": "15.51149000"
+   },
+   {
+      "name": "Hohenau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.60420000",
+      "longitude": "16.90470000"
+   },
+   {
+      "name": "Hohenberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.90679000",
+      "longitude": "15.61998000"
+   },
+   {
+      "name": "Hoheneich",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.77195000",
+      "longitude": "15.02857000"
+   },
+   {
+      "name": "Hohenruppersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46439000",
+      "longitude": "16.65244000"
+   },
+   {
+      "name": "Hollabrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.55000000",
+      "longitude": "16.08333000"
+   },
+   {
+      "name": "Hollenstein an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.80305000",
+      "longitude": "14.77312000"
+   },
+   {
+      "name": "Hollenthon",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.58938000",
+      "longitude": "16.26131000"
+   },
+   {
+      "name": "Horn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.66274000",
+      "longitude": "15.65663000"
+   },
+   {
+      "name": "Hundsheim",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11749000",
+      "longitude": "16.93581000"
+   },
+   {
+      "name": "Hutten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.17856000",
+      "longitude": "15.98579000"
+   },
+   {
+      "name": "Höflein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06667000",
+      "longitude": "16.78333000"
+   },
+   {
+      "name": "Höfling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05444000",
+      "longitude": "15.03672000"
+   },
+   {
+      "name": "Hürm",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15601000",
+      "longitude": "15.41262000"
+   },
+   {
+      "name": "Jaidhof",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.53333000",
+      "longitude": "15.48333000"
+   },
+   {
+      "name": "Japons",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.79250000",
+      "longitude": "15.56831000"
+   },
+   {
+      "name": "Jedenspeigen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.49807000",
+      "longitude": "16.87225000"
+   },
+   {
+      "name": "Kaltenleutgeben",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11646000",
+      "longitude": "16.19956000"
+   },
+   {
+      "name": "Kapelln",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25817000",
+      "longitude": "15.75731000"
+   },
+   {
+      "name": "Karlstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25920000",
+      "longitude": "15.56544000"
+   },
+   {
+      "name": "Kasten bei Böheimkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15320000",
+      "longitude": "15.77946000"
+   },
+   {
+      "name": "Katzelsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.78055000",
+      "longitude": "16.26985000"
+   },
+   {
+      "name": "Kaumberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02415000",
+      "longitude": "15.89842000"
+   },
+   {
+      "name": "Kautzen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.93000000",
+      "longitude": "15.23932000"
+   },
+   {
+      "name": "Kematen an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02541000",
+      "longitude": "14.76468000"
+   },
+   {
+      "name": "Kierling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30997000",
+      "longitude": "16.27616000"
+   },
+   {
+      "name": "Kilb",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10101000",
+      "longitude": "15.40850000"
+   },
+   {
+      "name": "Kirchberg am Wagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43182000",
+      "longitude": "15.89692000"
+   },
+   {
+      "name": "Kirchberg am Walde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.72477000",
+      "longitude": "15.08826000"
+   },
+   {
+      "name": "Kirchberg am Wechsel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.60738000",
+      "longitude": "15.99103000"
+   },
+   {
+      "name": "Kirchberg an der Pielach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02690000",
+      "longitude": "15.42875000"
+   },
+   {
+      "name": "Kirchschlag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39345000",
+      "longitude": "15.22285000"
+   },
+   {
+      "name": "Kirchschlag in der Buckligen Welt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.50000000",
+      "longitude": "16.28333000"
+   },
+   {
+      "name": "Kirchstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "15.81667000"
+   },
+   {
+      "name": "Kirnberg an der Mank",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07246000",
+      "longitude": "15.32232000"
+   },
+   {
+      "name": "Klausen-Leopoldsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08771000",
+      "longitude": "16.01686000"
+   },
+   {
+      "name": "Klein-Neusiedl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09379000",
+      "longitude": "16.60661000"
+   },
+   {
+      "name": "Klein-Pöchlarn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21667000",
+      "longitude": "15.21667000"
+   },
+   {
+      "name": "Kleinzell",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97993000",
+      "longitude": "15.73620000"
+   },
+   {
+      "name": "Klosterneuburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30521000",
+      "longitude": "16.32522000"
+   },
+   {
+      "name": "Korneuburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35000000",
+      "longitude": "16.33333000"
+   },
+   {
+      "name": "Kottingbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95096000",
+      "longitude": "16.22715000"
+   },
+   {
+      "name": "Krems an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40921000",
+      "longitude": "15.61415000"
+   },
+   {
+      "name": "Krems an der Donau Stadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41040000",
+      "longitude": "15.60574000"
+   },
+   {
+      "name": "Kritzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.32932000",
+      "longitude": "16.30011000"
+   },
+   {
+      "name": "Krumau am Kamp",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.58879000",
+      "longitude": "15.44914000"
+   },
+   {
+      "name": "Krumbach Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.51667000",
+      "longitude": "16.18333000"
+   },
+   {
+      "name": "Krumnussbaum",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20877000",
+      "longitude": "15.16212000"
+   },
+   {
+      "name": "Königstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30198000",
+      "longitude": "16.14492000"
+   },
+   {
+      "name": "Laa an der Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.71667000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Laab im Walde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15486000",
+      "longitude": "16.17359000"
+   },
+   {
+      "name": "Ladendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.53333000",
+      "longitude": "16.48333000"
+   },
+   {
+      "name": "Landegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.90000000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Langau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.83207000",
+      "longitude": "15.71560000"
+   },
+   {
+      "name": "Langenlebarn-Oberaigen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33023000",
+      "longitude": "16.11059000"
+   },
+   {
+      "name": "Langenlois",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46667000",
+      "longitude": "15.66667000"
+   },
+   {
+      "name": "Langenrohr",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30489000",
+      "longitude": "16.01034000"
+   },
+   {
+      "name": "Langenzersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30432000",
+      "longitude": "16.36143000"
+   },
+   {
+      "name": "Langschlag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57448000",
+      "longitude": "14.88459000"
+   },
+   {
+      "name": "Lanzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11056000",
+      "longitude": "16.44500000"
+   },
+   {
+      "name": "Lanzenkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.73621000",
+      "longitude": "16.21985000"
+   },
+   {
+      "name": "Lassee",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22479000",
+      "longitude": "16.82230000"
+   },
+   {
+      "name": "Laxenburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06833000",
+      "longitude": "16.35607000"
+   },
+   {
+      "name": "Leiben",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24628000",
+      "longitude": "15.27460000"
+   },
+   {
+      "name": "Leitzersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41918000",
+      "longitude": "16.24513000"
+   },
+   {
+      "name": "Lengenfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.47187000",
+      "longitude": "15.59870000"
+   },
+   {
+      "name": "Leobendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38333000",
+      "longitude": "16.31667000"
+   },
+   {
+      "name": "Leobersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.92796000",
+      "longitude": "16.21651000"
+   },
+   {
+      "name": "Leopoldsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11557000",
+      "longitude": "16.39126000"
+   },
+   {
+      "name": "Leopoldsdorf im Marchfelde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22261000",
+      "longitude": "16.68858000"
+   },
+   {
+      "name": "Lerchenfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41234000",
+      "longitude": "15.63183000"
+   },
+   {
+      "name": "Lichtenegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.60000000",
+      "longitude": "16.20000000"
+   },
+   {
+      "name": "Lichtenwörth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.82756000",
+      "longitude": "16.29873000"
+   },
+   {
+      "name": "Lilienfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01312000",
+      "longitude": "15.59664000"
+   },
+   {
+      "name": "Litschau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.94409000",
+      "longitude": "15.04483000"
+   },
+   {
+      "name": "Loich",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.99578000",
+      "longitude": "15.40163000"
+   },
+   {
+      "name": "Loosdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.40000000"
+   },
+   {
+      "name": "Lunz am See",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.86120000",
+      "longitude": "15.02998000"
+   },
+   {
+      "name": "Mailberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.67379000",
+      "longitude": "16.18132000"
+   },
+   {
+      "name": "Maissau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57300000",
+      "longitude": "15.83005000"
+   },
+   {
+      "name": "Mank",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11024000",
+      "longitude": "15.33915000"
+   },
+   {
+      "name": "Mannersdorf am Leithagebirge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.96667000",
+      "longitude": "16.60000000"
+   },
+   {
+      "name": "Mannsdorf an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15200000",
+      "longitude": "16.66506000"
+   },
+   {
+      "name": "Mannswörth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14547000",
+      "longitude": "16.51374000"
+   },
+   {
+      "name": "Marbach an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21667000",
+      "longitude": "15.15000000"
+   },
+   {
+      "name": "Marchegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.26217000",
+      "longitude": "16.91045000"
+   },
+   {
+      "name": "Margarethen am Moos",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "16.60000000"
+   },
+   {
+      "name": "Maria Ellend",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10000000",
+      "longitude": "16.68333000"
+   },
+   {
+      "name": "Maria Enzersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10000000",
+      "longitude": "16.28333000"
+   },
+   {
+      "name": "Maria Laach am Jauerling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30412000",
+      "longitude": "15.34472000"
+   },
+   {
+      "name": "Maria Lanzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09923000",
+      "longitude": "16.41984000"
+   },
+   {
+      "name": "Maria Taferl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22702000",
+      "longitude": "15.15954000"
+   },
+   {
+      "name": "Maria-Anzbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.19012000",
+      "longitude": "15.93155000"
+   },
+   {
+      "name": "Markersdorf an der Pielach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "15.50000000"
+   },
+   {
+      "name": "Markgrafneusiedl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.26667000",
+      "longitude": "16.63333000"
+   },
+   {
+      "name": "Markt Piesting",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87358000",
+      "longitude": "16.12510000"
+   },
+   {
+      "name": "Martinsberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.37549000",
+      "longitude": "15.14997000"
+   },
+   {
+      "name": "Matzen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40000000",
+      "longitude": "16.70000000"
+   },
+   {
+      "name": "Matzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.89137000",
+      "longitude": "16.21393000"
+   },
+   {
+      "name": "Mauer bei Amstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09643000",
+      "longitude": "14.80060000"
+   },
+   {
+      "name": "Mauerbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24514000",
+      "longitude": "16.16793000"
+   },
+   {
+      "name": "Mautern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39319000",
+      "longitude": "15.57793000"
+   },
+   {
+      "name": "Melk",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22737000",
+      "longitude": "15.33186000"
+   },
+   {
+      "name": "Michelhausen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29085000",
+      "longitude": "15.93893000"
+   },
+   {
+      "name": "Miesenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.84035000",
+      "longitude": "15.98236000"
+   },
+   {
+      "name": "Mistelbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57000000",
+      "longitude": "16.57667000"
+   },
+   {
+      "name": "Mitterbach am Erlaufsee",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.81396000",
+      "longitude": "15.29537000"
+   },
+   {
+      "name": "Mitterndorf an der Fischa",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.99739000",
+      "longitude": "16.47357000"
+   },
+   {
+      "name": "Moosbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01667000",
+      "longitude": "16.45000000"
+   },
+   {
+      "name": "Muckendorf an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33183000",
+      "longitude": "16.15540000"
+   },
+   {
+      "name": "Muggendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.91059000",
+      "longitude": "15.93533000"
+   },
+   {
+      "name": "Mödling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08605000",
+      "longitude": "16.28921000"
+   },
+   {
+      "name": "Möllersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02575000",
+      "longitude": "16.30508000"
+   },
+   {
+      "name": "Mönichkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.51062000",
+      "longitude": "16.03425000"
+   },
+   {
+      "name": "Mühldorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.37432000",
+      "longitude": "15.34672000"
+   },
+   {
+      "name": "Münchendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Neidling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24005000",
+      "longitude": "15.55591000"
+   },
+   {
+      "name": "Neu-Guntramsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06420000",
+      "longitude": "16.31573000"
+   },
+   {
+      "name": "Neudorf bei Staatz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.72083000",
+      "longitude": "16.49139000"
+   },
+   {
+      "name": "Neufurth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07894000",
+      "longitude": "14.81180000"
+   },
+   {
+      "name": "Neuhofen an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05795000",
+      "longitude": "14.85489000"
+   },
+   {
+      "name": "Neulengbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.19745000",
+      "longitude": "15.90219000"
+   },
+   {
+      "name": "Neumarkt an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14103000",
+      "longitude": "15.05758000"
+   },
+   {
+      "name": "Neunkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.72096000",
+      "longitude": "16.08107000"
+   },
+   {
+      "name": "Neusiedl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.88769000",
+      "longitude": "15.96313000"
+   },
+   {
+      "name": "Neusiedl an der Zaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.59920000",
+      "longitude": "16.77990000"
+   },
+   {
+      "name": "Niederhollabrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43333000",
+      "longitude": "16.30000000"
+   },
+   {
+      "name": "Niederleis",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.55000000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Nöchling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22433000",
+      "longitude": "14.98123000"
+   },
+   {
+      "name": "Ober-Grafendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15040000",
+      "longitude": "15.54531000"
+   },
+   {
+      "name": "Oberhausen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.17690000",
+      "longitude": "16.58506000"
+   },
+   {
+      "name": "Oberndorf an der Melk",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06386000",
+      "longitude": "15.22430000"
+   },
+   {
+      "name": "Oberndorf in der Ebene",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.27040000",
+      "longitude": "15.68985000"
+   },
+   {
+      "name": "Obersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36667000",
+      "longitude": "16.51667000"
+   },
+   {
+      "name": "Obersiebenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.26537000",
+      "longitude": "16.71076000"
+   },
+   {
+      "name": "Oberwagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20157000",
+      "longitude": "15.64917000"
+   },
+   {
+      "name": "Oberwaltersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97567000",
+      "longitude": "16.32191000"
+   },
+   {
+      "name": "Oberwölbling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.31719000",
+      "longitude": "15.59166000"
+   },
+   {
+      "name": "Oehling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10000000",
+      "longitude": "14.80000000"
+   },
+   {
+      "name": "Oeynhausen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98533000",
+      "longitude": "16.29187000"
+   },
+   {
+      "name": "Opponitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87776000",
+      "longitude": "14.82283000"
+   },
+   {
+      "name": "Orth an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14524000",
+      "longitude": "16.70089000"
+   },
+   {
+      "name": "Ottenschlag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.42393000",
+      "longitude": "15.21924000"
+   },
+   {
+      "name": "Ottenthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.76100000",
+      "longitude": "16.57914000"
+   },
+   {
+      "name": "Otterthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.61667000",
+      "longitude": "15.93333000"
+   },
+   {
+      "name": "Parbasdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.28333000",
+      "longitude": "16.60000000"
+   },
+   {
+      "name": "Paudorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35416000",
+      "longitude": "15.61853000"
+   },
+   {
+      "name": "Payerbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69209000",
+      "longitude": "15.86340000"
+   },
+   {
+      "name": "Penz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "14.48333000"
+   },
+   {
+      "name": "Perchtoldsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11935000",
+      "longitude": "16.26607000"
+   },
+   {
+      "name": "Pernegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.73333000",
+      "longitude": "15.61667000"
+   },
+   {
+      "name": "Pernersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70000000",
+      "longitude": "16.01667000"
+   },
+   {
+      "name": "Pernitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.89759000",
+      "longitude": "15.96022000"
+   },
+   {
+      "name": "Persenbeug",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18733000",
+      "longitude": "15.08809000"
+   },
+   {
+      "name": "Petronell-Carnuntum",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11296000",
+      "longitude": "16.86582000"
+   },
+   {
+      "name": "Petzenkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14693000",
+      "longitude": "15.15465000"
+   },
+   {
+      "name": "Pfaffstätten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01737000",
+      "longitude": "16.26354000"
+   },
+   {
+      "name": "Pillichsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35000000",
+      "longitude": "16.53333000"
+   },
+   {
+      "name": "Pitten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.71667000",
+      "longitude": "16.18333000"
+   },
+   {
+      "name": "Politischer Bezirk Amstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00000000",
+      "longitude": "14.76667000"
+   },
+   {
+      "name": "Politischer Bezirk Baden",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97729000",
+      "longitude": "16.19845000"
+   },
+   {
+      "name": "Politischer Bezirk Bruck an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06781000",
+      "longitude": "16.77284000"
+   },
+   {
+      "name": "Politischer Bezirk Gmünd",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.74732000",
+      "longitude": "14.98166000"
+   },
+   {
+      "name": "Politischer Bezirk Gänserndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39340000",
+      "longitude": "16.73892000"
+   },
+   {
+      "name": "Politischer Bezirk Hollabrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65286000",
+      "longitude": "15.99701000"
+   },
+   {
+      "name": "Politischer Bezirk Horn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.71341000",
+      "longitude": "15.68712000"
+   },
+   {
+      "name": "Politischer Bezirk Korneuburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.44343000",
+      "longitude": "16.24120000"
+   },
+   {
+      "name": "Politischer Bezirk Krems",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46582000",
+      "longitude": "15.52093000"
+   },
+   {
+      "name": "Politischer Bezirk Lilienfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.91667000",
+      "longitude": "15.60000000"
+   },
+   {
+      "name": "Politischer Bezirk Melk",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21314000",
+      "longitude": "15.24282000"
+   },
+   {
+      "name": "Politischer Bezirk Mistelbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.59436000",
+      "longitude": "16.54730000"
+   },
+   {
+      "name": "Politischer Bezirk Mödling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08517000",
+      "longitude": "16.24118000"
+   },
+   {
+      "name": "Politischer Bezirk Neunkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69424000",
+      "longitude": "15.93783000"
+   },
+   {
+      "name": "Politischer Bezirk Sankt Pölten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16905000",
+      "longitude": "15.66508000"
+   },
+   {
+      "name": "Politischer Bezirk Scheibbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.92316000",
+      "longitude": "15.10376000"
+   },
+   {
+      "name": "Politischer Bezirk Tulln",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30000000",
+      "longitude": "16.00000000"
+   },
+   {
+      "name": "Politischer Bezirk Waidhofen an der Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.85925000",
+      "longitude": "15.35814000"
+   },
+   {
+      "name": "Politischer Bezirk Wiener Neustadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.83203000",
+      "longitude": "16.14291000"
+   },
+   {
+      "name": "Politischer Bezirk Zwettl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57435000",
+      "longitude": "15.17159000"
+   },
+   {
+      "name": "Pottenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.23333000",
+      "longitude": "15.70000000"
+   },
+   {
+      "name": "Pottendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.90000000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Pottenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95820000",
+      "longitude": "16.09480000"
+   },
+   {
+      "name": "Pottschach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69856000",
+      "longitude": "16.00725000"
+   },
+   {
+      "name": "Poysdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.66667000",
+      "longitude": "16.63333000"
+   },
+   {
+      "name": "Prellenkirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07401000",
+      "longitude": "16.95233000"
+   },
+   {
+      "name": "Pressbaum",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "16.08333000"
+   },
+   {
+      "name": "Prigglitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.70318000",
+      "longitude": "15.92794000"
+   },
+   {
+      "name": "Prinzersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.51667000"
+   },
+   {
+      "name": "Prottes",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38680000",
+      "longitude": "16.73890000"
+   },
+   {
+      "name": "Puchberg am Schneeberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.78709000",
+      "longitude": "15.91352000"
+   },
+   {
+      "name": "Puchenstuben",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.92819000",
+      "longitude": "15.28748000"
+   },
+   {
+      "name": "Pulkau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70484000",
+      "longitude": "15.86031000"
+   },
+   {
+      "name": "Purgstall",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05841000",
+      "longitude": "15.13478000"
+   },
+   {
+      "name": "Purkersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20769000",
+      "longitude": "16.17539000"
+   },
+   {
+      "name": "Pyhra",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15910000",
+      "longitude": "15.68624000"
+   },
+   {
+      "name": "Pöchlarn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.20000000"
+   },
+   {
+      "name": "Pöggstall",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.31734000",
+      "longitude": "15.20405000"
+   },
+   {
+      "name": "Raabs an der Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.85000000",
+      "longitude": "15.50000000"
+   },
+   {
+      "name": "Raach am Hochgebirge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.63333000",
+      "longitude": "15.93333000"
+   },
+   {
+      "name": "Raasdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.24657000",
+      "longitude": "16.56532000"
+   },
+   {
+      "name": "Rabensburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65000000",
+      "longitude": "16.90000000"
+   },
+   {
+      "name": "Rabenstein an der Pielach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06535000",
+      "longitude": "15.46772000"
+   },
+   {
+      "name": "Ramsau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00313000",
+      "longitude": "15.80332000"
+   },
+   {
+      "name": "Randegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01198000",
+      "longitude": "14.97334000"
+   },
+   {
+      "name": "Rannersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12772000",
+      "longitude": "16.46379000"
+   },
+   {
+      "name": "Rappottenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.52161000",
+      "longitude": "15.07925000"
+   },
+   {
+      "name": "Rastenfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.57348000",
+      "longitude": "15.33176000"
+   },
+   {
+      "name": "Ratzersdorf an der Traisen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.22639000",
+      "longitude": "15.66629000"
+   },
+   {
+      "name": "Rauchenwarth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08330000",
+      "longitude": "16.52794000"
+   },
+   {
+      "name": "Ravelsbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.55000000",
+      "longitude": "15.85000000"
+   },
+   {
+      "name": "Raxendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.34108000",
+      "longitude": "15.27666000"
+   },
+   {
+      "name": "Rehberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43114000",
+      "longitude": "15.58702000"
+   },
+   {
+      "name": "Reichenau an der Rax",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69509000",
+      "longitude": "15.84572000"
+   },
+   {
+      "name": "Reingers",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.96667000",
+      "longitude": "15.13333000"
+   },
+   {
+      "name": "Reinsberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98567000",
+      "longitude": "15.07067000"
+   },
+   {
+      "name": "Reisenberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.99406000",
+      "longitude": "16.52018000"
+   },
+   {
+      "name": "Retz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.75712000",
+      "longitude": "15.95485000"
+   },
+   {
+      "name": "Rohr im Gebirge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.89471000",
+      "longitude": "15.73603000"
+   },
+   {
+      "name": "Rohrau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06667000",
+      "longitude": "16.85000000"
+   },
+   {
+      "name": "Rohrbach an der Gölsen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04699000",
+      "longitude": "15.74169000"
+   },
+   {
+      "name": "Rohrendorf bei Krems",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41935000",
+      "longitude": "15.65772000"
+   },
+   {
+      "name": "Rosenau am Sonntagberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00778000",
+      "longitude": "14.73927000"
+   },
+   {
+      "name": "Ruprechtshofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13648000",
+      "longitude": "15.27675000"
+   },
+   {
+      "name": "Röhrenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65000000",
+      "longitude": "15.50000000"
+   },
+   {
+      "name": "Röschitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.64312000",
+      "longitude": "15.81774000"
+   },
+   {
+      "name": "Sallingberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46667000",
+      "longitude": "15.23333000"
+   },
+   {
+      "name": "Sankt Aegyd am Neuwalde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.85383000",
+      "longitude": "15.56969000"
+   },
+   {
+      "name": "Sankt Andrä vor dem Hagenthale",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.32202000",
+      "longitude": "16.20724000"
+   },
+   {
+      "name": "Sankt Corona am Wechsel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.58333000",
+      "longitude": "16.00000000"
+   },
+   {
+      "name": "Sankt Georgen am Ybbsfelde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12892000",
+      "longitude": "14.95364000"
+   },
+   {
+      "name": "Sankt Georgen an der Leys",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03149000",
+      "longitude": "15.22722000"
+   },
+   {
+      "name": "Sankt Leonhard am Forst",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14232000",
+      "longitude": "15.28464000"
+   },
+   {
+      "name": "Sankt Leonhard am Hornerwald",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.60000000",
+      "longitude": "15.53333000"
+   },
+   {
+      "name": "Sankt Margarethen an der Sierning",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15910000",
+      "longitude": "15.49055000"
+   },
+   {
+      "name": "Sankt Martin am Ybbsfelde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16425000",
+      "longitude": "15.02076000"
+   },
+   {
+      "name": "Sankt Pantaleon",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21058000",
+      "longitude": "14.56804000"
+   },
+   {
+      "name": "Sankt Peter in der Au Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04400000",
+      "longitude": "14.62182000"
+   },
+   {
+      "name": "Sankt Pölten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.63333000"
+   },
+   {
+      "name": "Sankt Pölten Stadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.20000000",
+      "longitude": "15.61667000"
+   },
+   {
+      "name": "Sankt Valentin",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16667000",
+      "longitude": "14.51667000"
+   },
+   {
+      "name": "Sankt Veit an der Gölsen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04320000",
+      "longitude": "15.66942000"
+   },
+   {
+      "name": "Scharndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09399000",
+      "longitude": "16.79883000"
+   },
+   {
+      "name": "Scheibbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00474000",
+      "longitude": "15.16817000"
+   },
+   {
+      "name": "Schleinbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.41667000",
+      "longitude": "16.46667000"
+   },
+   {
+      "name": "Schottwien",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.65683000",
+      "longitude": "15.87250000"
+   },
+   {
+      "name": "Schrattenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.77902000",
+      "longitude": "15.99060000"
+   },
+   {
+      "name": "Schrattenberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.72359000",
+      "longitude": "16.72201000"
+   },
+   {
+      "name": "Schrattenthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70000000",
+      "longitude": "15.90000000"
+   },
+   {
+      "name": "Schrems",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.78333000",
+      "longitude": "15.06667000"
+   },
+   {
+      "name": "Schwadorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06936000",
+      "longitude": "16.57957000"
+   },
+   {
+      "name": "Schwarzau am Steinfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.73183000",
+      "longitude": "16.17094000"
+   },
+   {
+      "name": "Schwarzau im Gebirge",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.81223000",
+      "longitude": "15.70581000"
+   },
+   {
+      "name": "Schwarzenau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.74436000",
+      "longitude": "15.25838000"
+   },
+   {
+      "name": "Schwarzenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.63547000",
+      "longitude": "16.35109000"
+   },
+   {
+      "name": "Schwarzenbach an der Pielach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.93333000",
+      "longitude": "15.38333000"
+   },
+   {
+      "name": "Schwechat",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13333000",
+      "longitude": "16.46667000"
+   },
+   {
+      "name": "Schweiggers",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.66667000",
+      "longitude": "15.06667000"
+   },
+   {
+      "name": "Schönau an der Triesting",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.93452000",
+      "longitude": "16.25376000"
+   },
+   {
+      "name": "Schönbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.45000000",
+      "longitude": "15.03333000"
+   },
+   {
+      "name": "Schönkirchen-Reyersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35477000",
+      "longitude": "16.69115000"
+   },
+   {
+      "name": "Seebenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69936000",
+      "longitude": "16.14484000"
+   },
+   {
+      "name": "Seibersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95858000",
+      "longitude": "16.51842000"
+   },
+   {
+      "name": "Seitenstetten Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "14.65000000"
+   },
+   {
+      "name": "Semmering",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.63347000",
+      "longitude": "15.82993000"
+   },
+   {
+      "name": "Senftenberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43333000",
+      "longitude": "15.55000000"
+   },
+   {
+      "name": "Seyring",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33333000",
+      "longitude": "16.48333000"
+   },
+   {
+      "name": "Sieghartskirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25531000",
+      "longitude": "16.01223000"
+   },
+   {
+      "name": "Sierndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43024000",
+      "longitude": "16.16658000"
+   },
+   {
+      "name": "Sigmundsherberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.68333000",
+      "longitude": "15.75000000"
+   },
+   {
+      "name": "Sitzendorf an der Schmida",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.59841000",
+      "longitude": "15.94254000"
+   },
+   {
+      "name": "Sollenau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.89834000",
+      "longitude": "16.24833000"
+   },
+   {
+      "name": "Sommerein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98333000",
+      "longitude": "16.65000000"
+   },
+   {
+      "name": "Sonntagberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.99561000",
+      "longitude": "14.76065000"
+   },
+   {
+      "name": "Sooss",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98464000",
+      "longitude": "16.21737000"
+   },
+   {
+      "name": "Spannberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46393000",
+      "longitude": "16.73647000"
+   },
+   {
+      "name": "Spillern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38333000",
+      "longitude": "16.25000000"
+   },
+   {
+      "name": "Spitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36560000",
+      "longitude": "15.41416000"
+   },
+   {
+      "name": "Spratzern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.17044000",
+      "longitude": "15.61844000"
+   },
+   {
+      "name": "Staatz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.67617000",
+      "longitude": "16.48726000"
+   },
+   {
+      "name": "Stattersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18333000",
+      "longitude": "15.63333000"
+   },
+   {
+      "name": "Statzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.30752000",
+      "longitude": "15.64127000"
+   },
+   {
+      "name": "Stein an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40163000",
+      "longitude": "15.58102000"
+   },
+   {
+      "name": "Steinabrückl",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87053000",
+      "longitude": "16.20277000"
+   },
+   {
+      "name": "Steinakirchen am Forst",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06965000",
+      "longitude": "15.04801000"
+   },
+   {
+      "name": "Stephanshart",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15000000",
+      "longitude": "14.81667000"
+   },
+   {
+      "name": "Stetteldorf am Wagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40815000",
+      "longitude": "16.01862000"
+   },
+   {
+      "name": "Stetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.36667000",
+      "longitude": "16.38333000"
+   },
+   {
+      "name": "Stockerau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38333000",
+      "longitude": "16.21667000"
+   },
+   {
+      "name": "Stollhofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35226000",
+      "longitude": "15.75963000"
+   },
+   {
+      "name": "Strass",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.46667000",
+      "longitude": "15.73333000"
+   },
+   {
+      "name": "Strasshof an der Nordbahn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.31667000",
+      "longitude": "16.66667000"
+   },
+   {
+      "name": "Stratzing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.45000000",
+      "longitude": "15.60000000"
+   },
+   {
+      "name": "Strengberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.14685000",
+      "longitude": "14.65147000"
+   },
+   {
+      "name": "Stronsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.65157000",
+      "longitude": "16.29890000"
+   },
+   {
+      "name": "Stössing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12267000",
+      "longitude": "15.81379000"
+   },
+   {
+      "name": "Tattendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95000000",
+      "longitude": "16.30000000"
+   },
+   {
+      "name": "Teesdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95000000",
+      "longitude": "16.28333000"
+   },
+   {
+      "name": "Ternitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.71565000",
+      "longitude": "16.03575000"
+   },
+   {
+      "name": "Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.85489000",
+      "longitude": "15.28902000"
+   },
+   {
+      "name": "Theresienfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.85000000",
+      "longitude": "16.23333000"
+   },
+   {
+      "name": "Thomasberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.56667000",
+      "longitude": "16.13333000"
+   },
+   {
+      "name": "Tiefenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.53540000",
+      "longitude": "16.21346000"
+   },
+   {
+      "name": "Traisen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "15.60000000"
+   },
+   {
+      "name": "Traiskirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01485000",
+      "longitude": "16.29324000"
+   },
+   {
+      "name": "Traismauer",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.35000000",
+      "longitude": "15.73333000"
+   },
+   {
+      "name": "Trattenbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.60000000",
+      "longitude": "15.86667000"
+   },
+   {
+      "name": "Trautmannsdorf an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.02357000",
+      "longitude": "16.63266000"
+   },
+   {
+      "name": "Tribuswinkel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00623000",
+      "longitude": "16.27075000"
+   },
+   {
+      "name": "Trumau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.99348000",
+      "longitude": "16.34268000"
+   },
+   {
+      "name": "Tulbing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29336000",
+      "longitude": "16.12226000"
+   },
+   {
+      "name": "Tulln",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.32829000",
+      "longitude": "16.05858000"
+   },
+   {
+      "name": "Tullnerbach-Lawies",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.18912000",
+      "longitude": "16.09117000"
+   },
+   {
+      "name": "Türnitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.93095000",
+      "longitude": "15.49295000"
+   },
+   {
+      "name": "Ulrichskirchen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40000000",
+      "longitude": "16.48333000"
+   },
+   {
+      "name": "Untersiebenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25000000",
+      "longitude": "16.73333000"
+   },
+   {
+      "name": "Unterstinkenbrunn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.66770000",
+      "longitude": "16.34607000"
+   },
+   {
+      "name": "Unterwagram",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21243000",
+      "longitude": "15.64951000"
+   },
+   {
+      "name": "Unterwaltersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95000000",
+      "longitude": "16.41667000"
+   },
+   {
+      "name": "Velm",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.03333000",
+      "longitude": "16.43333000"
+   },
+   {
+      "name": "Viehofen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.21667000",
+      "longitude": "15.61667000"
+   },
+   {
+      "name": "Vitis",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.75964000",
+      "longitude": "15.18259000"
+   },
+   {
+      "name": "Vösendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.12107000",
+      "longitude": "16.34036000"
+   },
+   {
+      "name": "Waidhofen an der Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.81667000",
+      "longitude": "15.28333000"
+   },
+   {
+      "name": "Waidhofen an der Ybbs",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.96004000",
+      "longitude": "14.77361000"
+   },
+   {
+      "name": "Waidhofen an der Ybbs Stadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95999000",
+      "longitude": "14.77438000"
+   },
+   {
+      "name": "Waidmannsfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.87042000",
+      "longitude": "15.98116000"
+   },
+   {
+      "name": "Waldegg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.86852000",
+      "longitude": "16.05154000"
+   },
+   {
+      "name": "Waldenstein",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.72845000",
+      "longitude": "15.01419000"
+   },
+   {
+      "name": "Waldhausen",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.52183000",
+      "longitude": "15.26250000"
+   },
+   {
+      "name": "Waldkirchen an der Thaya",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.93333000",
+      "longitude": "15.35000000"
+   },
+   {
+      "name": "Wallsee",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16667000",
+      "longitude": "14.71667000"
+   },
+   {
+      "name": "Walpersbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.71667000",
+      "longitude": "16.23333000"
+   },
+   {
+      "name": "Wang",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.04538000",
+      "longitude": "15.02672000"
+   },
+   {
+      "name": "Warth",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.65000000",
+      "longitude": "16.11667000"
+   },
+   {
+      "name": "Wartmannstetten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.69359000",
+      "longitude": "16.07506000"
+   },
+   {
+      "name": "Weidling",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29100000",
+      "longitude": "16.30865000"
+   },
+   {
+      "name": "Weigelsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95000000",
+      "longitude": "16.40000000"
+   },
+   {
+      "name": "Weikendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.34438000",
+      "longitude": "16.76651000"
+   },
+   {
+      "name": "Weikersdorf am Steinfelde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.80612000",
+      "longitude": "16.14389000"
+   },
+   {
+      "name": "Weinburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.11351000",
+      "longitude": "15.53295000"
+   },
+   {
+      "name": "Weinzierl am Walde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.43211000",
+      "longitude": "15.43210000"
+   },
+   {
+      "name": "Weinzierl bei Krems",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.40000000",
+      "longitude": "15.60000000"
+   },
+   {
+      "name": "Weissenbach an der Triesting",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.98211000",
+      "longitude": "16.03935000"
+   },
+   {
+      "name": "Weistrach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.05000000",
+      "longitude": "14.58333000"
+   },
+   {
+      "name": "Weiten",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.29564000",
+      "longitude": "15.26010000"
+   },
+   {
+      "name": "Weitersfeld",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.78097000",
+      "longitude": "15.81345000"
+   },
+   {
+      "name": "Weitra",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.70000000",
+      "longitude": "14.88333000"
+   },
+   {
+      "name": "Weißenkirchen in der Wachau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.39790000",
+      "longitude": "15.46931000"
+   },
+   {
+      "name": "Wiener Neudorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.08278000",
+      "longitude": "16.31384000"
+   },
+   {
+      "name": "Wiener Neustadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.80485000",
+      "longitude": "16.23196000"
+   },
+   {
+      "name": "Wiener Neustadt Stadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.80000000",
+      "longitude": "16.25000000"
+   },
+   {
+      "name": "Wienersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.00819000",
+      "longitude": "16.29169000"
+   },
+   {
+      "name": "Wieselburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13333000",
+      "longitude": "15.13333000"
+   },
+   {
+      "name": "Wiesmath",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.61667000",
+      "longitude": "16.28333000"
+   },
+   {
+      "name": "Wilfersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.58333000",
+      "longitude": "16.63333000"
+   },
+   {
+      "name": "Wilfleinsdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.01667000",
+      "longitude": "16.71667000"
+   },
+   {
+      "name": "Wilhelmsburg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10571000",
+      "longitude": "15.60539000"
+   },
+   {
+      "name": "Willendorf am Steinfelde",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.78929000",
+      "longitude": "16.05686000"
+   },
+   {
+      "name": "Wimpassing im Schwarzatale",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.70295000",
+      "longitude": "16.03334000"
+   },
+   {
+      "name": "Windhag",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.97906000",
+      "longitude": "14.80245000"
+   },
+   {
+      "name": "Windigsteig",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.76667000",
+      "longitude": "15.28333000"
+   },
+   {
+      "name": "Winklarn",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.09135000",
+      "longitude": "14.84819000"
+   },
+   {
+      "name": "Winzendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.81154000",
+      "longitude": "16.11300000"
+   },
+   {
+      "name": "Wolfpassing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.07785000",
+      "longitude": "15.06453000"
+   },
+   {
+      "name": "Wolfsbach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.06667000",
+      "longitude": "14.66667000"
+   },
+   {
+      "name": "Wolfsgraben",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.15870000",
+      "longitude": "16.12098000"
+   },
+   {
+      "name": "Wolfsthal",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13333000",
+      "longitude": "17.00000000"
+   },
+   {
+      "name": "Wolkersdorf im Weinviertel",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.38333000",
+      "longitude": "16.51667000"
+   },
+   {
+      "name": "Wullersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.62792000",
+      "longitude": "16.10089000"
+   },
+   {
+      "name": "Wöllersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.86500000",
+      "longitude": "16.17119000"
+   },
+   {
+      "name": "Wördern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.33400000",
+      "longitude": "16.21016000"
+   },
+   {
+      "name": "Würflach",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.77648000",
+      "longitude": "16.05463000"
+   },
+   {
+      "name": "Würmla",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.25497000",
+      "longitude": "15.86031000"
+   },
+   {
+      "name": "Ybbs an der Donau",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.16667000",
+      "longitude": "15.08333000"
+   },
+   {
+      "name": "Ybbsitz",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.94745000",
+      "longitude": "14.89180000"
+   },
+   {
+      "name": "Ysper",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.28865000",
+      "longitude": "15.06131000"
+   },
+   {
+      "name": "Zeillern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.13029000",
+      "longitude": "14.80760000"
+   },
+   {
+      "name": "Zeiselmauer",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.32852000",
+      "longitude": "16.17565000"
+   },
+   {
+      "name": "Zell-Arzberg",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95191000",
+      "longitude": "14.79322000"
+   },
+   {
+      "name": "Zell-Markt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.95878000",
+      "longitude": "14.78318000"
+   },
+   {
+      "name": "Zellerndorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.69657000",
+      "longitude": "15.95841000"
+   },
+   {
+      "name": "Ziersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.53030000",
+      "longitude": "15.92691000"
+   },
+   {
+      "name": "Zillingdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.85000000",
+      "longitude": "16.33333000"
+   },
+   {
+      "name": "Zistersdorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.54252000",
+      "longitude": "16.76136000"
+   },
+   {
+      "name": "Zwentendorf",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.34530000",
+      "longitude": "15.91026000"
+   },
+   {
+      "name": "Zwettl Stadt",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.60726000",
+      "longitude": "15.16714000"
+   },
+   {
+      "name": "Zwölfaxing",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "48.10990000",
+      "longitude": "16.46267000"
+   },
+   {
+      "name": "Zöbern",
+      "countryCode": "AT",
+      "stateCode": "3",
+      "latitude": "47.51459000",
+      "longitude": "16.13111000"
+   }
+]

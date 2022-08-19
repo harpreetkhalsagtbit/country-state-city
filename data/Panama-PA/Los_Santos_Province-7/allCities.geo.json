@@ -1,0 +1,541 @@
+[
+   {
+      "name": "Agua Buena",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.83465000",
+      "longitude": "-80.39405000"
+   },
+   {
+      "name": "Ave María",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.32481000",
+      "longitude": "-80.45361000"
+   },
+   {
+      "name": "Bahía Honda",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.70517000",
+      "longitude": "-80.45342000"
+   },
+   {
+      "name": "Bajo Corral",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.60463000",
+      "longitude": "-80.26016000"
+   },
+   {
+      "name": "Bayano",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.63014000",
+      "longitude": "-80.38201000"
+   },
+   {
+      "name": "Bella Vista",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.75000000",
+      "longitude": "-80.23333000"
+   },
+   {
+      "name": "Cambutal",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.26534000",
+      "longitude": "-80.49105000"
+   },
+   {
+      "name": "Cañas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.44713000",
+      "longitude": "-80.26480000"
+   },
+   {
+      "name": "Cedro Arriba",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.78097000",
+      "longitude": "-80.53057000"
+   },
+   {
+      "name": "Distrito de Guararé",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.77021000",
+      "longitude": "-80.37515000"
+   },
+   {
+      "name": "Distrito de Las Tablas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.64843000",
+      "longitude": "-80.29933000"
+   },
+   {
+      "name": "Distrito de Los Santos",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.88333000",
+      "longitude": "-80.45000000"
+   },
+   {
+      "name": "Distrito de Macaracas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.65817000",
+      "longitude": "-80.53526000"
+   },
+   {
+      "name": "Distrito de Pedasí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.48528000",
+      "longitude": "-80.12747000"
+   },
+   {
+      "name": "Distrito de Pocrí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.63721000",
+      "longitude": "-80.16470000"
+   },
+   {
+      "name": "Distrito de Tonosí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.43597000",
+      "longitude": "-80.45828000"
+   },
+   {
+      "name": "El Cacao",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.44570000",
+      "longitude": "-80.40938000"
+   },
+   {
+      "name": "El Carate",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73124000",
+      "longitude": "-80.29691000"
+   },
+   {
+      "name": "El Cañafístulo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.61768000",
+      "longitude": "-80.23322000"
+   },
+   {
+      "name": "El Cocal",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73697000",
+      "longitude": "-80.27980000"
+   },
+   {
+      "name": "El Cortezo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.42661000",
+      "longitude": "-80.63311000"
+   },
+   {
+      "name": "El Ejido",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.91634000",
+      "longitude": "-80.38686000"
+   },
+   {
+      "name": "El Guásimo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.80640000",
+      "longitude": "-80.52991000"
+   },
+   {
+      "name": "El Hato",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.79316000",
+      "longitude": "-80.38267000"
+   },
+   {
+      "name": "El Macano",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.68489000",
+      "longitude": "-80.40309000"
+   },
+   {
+      "name": "El Manantial",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.78245000",
+      "longitude": "-80.24713000"
+   },
+   {
+      "name": "El Muñoz",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.67582000",
+      "longitude": "-80.32130000"
+   },
+   {
+      "name": "El Pedregoso",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.69173000",
+      "longitude": "-80.32793000"
+   },
+   {
+      "name": "Flores",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.48157000",
+      "longitude": "-80.40695000"
+   },
+   {
+      "name": "Guararé",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.81531000",
+      "longitude": "-80.28345000"
+   },
+   {
+      "name": "Guararé Arriba",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.80023000",
+      "longitude": "-80.35983000"
+   },
+   {
+      "name": "La Colorada",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.82362000",
+      "longitude": "-80.55552000"
+   },
+   {
+      "name": "La Enea",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.83333000",
+      "longitude": "-80.27417000"
+   },
+   {
+      "name": "La Espigadilla",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.88389000",
+      "longitude": "-80.39039000"
+   },
+   {
+      "name": "La Laja",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73102000",
+      "longitude": "-80.25298000"
+   },
+   {
+      "name": "La Mesa",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.65670000",
+      "longitude": "-80.61794000"
+   },
+   {
+      "name": "La Miel",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.56022000",
+      "longitude": "-80.32736000"
+   },
+   {
+      "name": "La Palma",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.71667000",
+      "longitude": "-80.38333000"
+   },
+   {
+      "name": "La Pasera",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.79757000",
+      "longitude": "-80.30342000"
+   },
+   {
+      "name": "La Tiza",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.75110000",
+      "longitude": "-80.29216000"
+   },
+   {
+      "name": "La Tronosa",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.43609000",
+      "longitude": "-80.58698000"
+   },
+   {
+      "name": "Lajamina",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.58587000",
+      "longitude": "-80.13212000"
+   },
+   {
+      "name": "Las Cruces",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.82285000",
+      "longitude": "-80.43003000"
+   },
+   {
+      "name": "Las Guabas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.81469000",
+      "longitude": "-80.50155000"
+   },
+   {
+      "name": "Las Palmas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.68314000",
+      "longitude": "-80.49728000"
+   },
+   {
+      "name": "Las Palmitas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.76523000",
+      "longitude": "-80.29350000"
+   },
+   {
+      "name": "Las Tablas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.76472000",
+      "longitude": "-80.27483000"
+   },
+   {
+      "name": "Las Trancas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73400000",
+      "longitude": "-80.37384000"
+   },
+   {
+      "name": "Llano Abajo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.78598000",
+      "longitude": "-80.41060000"
+   },
+   {
+      "name": "Llano Largo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.90607000",
+      "longitude": "-80.42561000"
+   },
+   {
+      "name": "Llano de Piedra",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.65972000",
+      "longitude": "-80.56347000"
+   },
+   {
+      "name": "Los Asientos",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.51656000",
+      "longitude": "-80.13521000"
+   },
+   {
+      "name": "Los Olivos",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.91589000",
+      "longitude": "-80.48884000"
+   },
+   {
+      "name": "Los Santos",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.93333000",
+      "longitude": "-80.41667000"
+   },
+   {
+      "name": "Los Ángeles",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.88422000",
+      "longitude": "-80.35772000"
+   },
+   {
+      "name": "Macaracas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73168000",
+      "longitude": "-80.55364000"
+   },
+   {
+      "name": "Mogollón",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.64261000",
+      "longitude": "-80.45950000"
+   },
+   {
+      "name": "Nuario",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.53047000",
+      "longitude": "-80.32692000"
+   },
+   {
+      "name": "Oria Arriba",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.50505000",
+      "longitude": "-80.20567000"
+   },
+   {
+      "name": "Palmira",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.66347000",
+      "longitude": "-80.35728000"
+   },
+   {
+      "name": "Paraíso",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.68510000",
+      "longitude": "-80.16082000"
+   },
+   {
+      "name": "Paritilla",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.62848000",
+      "longitude": "-80.17240000"
+   },
+   {
+      "name": "Pedasí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.53034000",
+      "longitude": "-80.02699000"
+   },
+   {
+      "name": "Perales",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.77461000",
+      "longitude": "-80.32494000"
+   },
+   {
+      "name": "Peña Blanca",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.71931000",
+      "longitude": "-80.28366000"
+   },
+   {
+      "name": "Pocrí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.65816000",
+      "longitude": "-80.12119000"
+   },
+   {
+      "name": "Río Hondo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.71192000",
+      "longitude": "-80.35904000"
+   },
+   {
+      "name": "Sabana Grande",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.83543000",
+      "longitude": "-80.36490000"
+   },
+   {
+      "name": "San José",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.67395000",
+      "longitude": "-80.24438000"
+   },
+   {
+      "name": "Santa Ana Arriba",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.93300000",
+      "longitude": "-80.36369000"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.74614000",
+      "longitude": "-80.24173000"
+   },
+   {
+      "name": "Sesteadero",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.73885000",
+      "longitude": "-80.24854000"
+   },
+   {
+      "name": "Tonosí",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.40684000",
+      "longitude": "-80.44217000"
+   },
+   {
+      "name": "Tres Quebradas",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.84018000",
+      "longitude": "-80.40740000"
+   },
+   {
+      "name": "Valle Rico",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.62011000",
+      "longitude": "-80.35076000"
+   },
+   {
+      "name": "Vallerriquito",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.62163000",
+      "longitude": "-80.31975000"
+   },
+   {
+      "name": "Villa Lourdes",
+      "countryCode": "PA",
+      "stateCode": "7",
+      "latitude": "7.81141000",
+      "longitude": "-80.47029000"
+   }
+]

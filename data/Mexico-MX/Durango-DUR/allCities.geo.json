@@ -1,0 +1,926 @@
+[
+   {
+      "name": "Abasolo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.31145000",
+      "longitude": "-104.65580000"
+   },
+   {
+      "name": "Antonio Amaro",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.27684000",
+      "longitude": "-104.01873000"
+   },
+   {
+      "name": "Arcinas",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.77556000",
+      "longitude": "-103.40913000"
+   },
+   {
+      "name": "Arturo Martínez Adame",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.83157000",
+      "longitude": "-103.38291000"
+   },
+   {
+      "name": "Banco Nacional",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.87139000",
+      "longitude": "-103.35667000"
+   },
+   {
+      "name": "Banderas del Águila",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.92596000",
+      "longitude": "-105.33950000"
+   },
+   {
+      "name": "Bermejillo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.88682000",
+      "longitude": "-103.62069000"
+   },
+   {
+      "name": "California",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.76090000",
+      "longitude": "-103.37556000"
+   },
+   {
+      "name": "Canatlán",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.52576000",
+      "longitude": "-104.77327000"
+   },
+   {
+      "name": "Ceballos",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.52580000",
+      "longitude": "-104.12950000"
+   },
+   {
+      "name": "Cieneguillas",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.05472000",
+      "longitude": "-104.05186000"
+   },
+   {
+      "name": "Cinco de Febrero",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.07657000",
+      "longitude": "-104.50467000"
+   },
+   {
+      "name": "Cinco de Mayo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.10181000",
+      "longitude": "-104.57449000"
+   },
+   {
+      "name": "Ciudad Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.44401000",
+      "longitude": "-104.12156000"
+   },
+   {
+      "name": "Ciudad Lerdo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.53718000",
+      "longitude": "-103.52456000"
+   },
+   {
+      "name": "Ciénega de Nuestra Señora de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.06223000",
+      "longitude": "-106.32900000"
+   },
+   {
+      "name": "Cuauhtemoc",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.29037000",
+      "longitude": "-103.80913000"
+   },
+   {
+      "name": "Cuencamé",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.64123000",
+      "longitude": "-103.73772000"
+   },
+   {
+      "name": "Cuencamé de Ceniceros",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.87116000",
+      "longitude": "-103.69731000"
+   },
+   {
+      "name": "Diez de Octubre",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.72849000",
+      "longitude": "-104.63626000"
+   },
+   {
+      "name": "El Arenal",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.06527000",
+      "longitude": "-104.43387000"
+   },
+   {
+      "name": "El Durazno",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.47042000",
+      "longitude": "-106.92742000"
+   },
+   {
+      "name": "El Huarache (El Guarache)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.52000000",
+      "longitude": "-103.48667000"
+   },
+   {
+      "name": "El Lucero",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.87830000",
+      "longitude": "-103.40209000"
+   },
+   {
+      "name": "El Nayar",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.96422000",
+      "longitude": "-104.69541000"
+   },
+   {
+      "name": "El Rayo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.52112000",
+      "longitude": "-103.60821000"
+   },
+   {
+      "name": "El Salto",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.77781000",
+      "longitude": "-105.36192000"
+   },
+   {
+      "name": "El Vergel",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.63965000",
+      "longitude": "-103.52139000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.44218000",
+      "longitude": "-103.88784000"
+   },
+   {
+      "name": "Esfuerzos Unidos",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.82214000",
+      "longitude": "-104.99000000"
+   },
+   {
+      "name": "Esmeralda",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.74326000",
+      "longitude": "-103.43097000"
+   },
+   {
+      "name": "Eureka de Media Luna (Eureka)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.79889000",
+      "longitude": "-103.37361000"
+   },
+   {
+      "name": "Felipe Carrillo Puerto",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.33305000",
+      "longitude": "-104.01105000"
+   },
+   {
+      "name": "Francisco I. Madero",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.40091000",
+      "longitude": "-104.31980000"
+   },
+   {
+      "name": "Gabriel Hernández (Mancinas)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.81167000",
+      "longitude": "-104.02444000"
+   },
+   {
+      "name": "General Calixto Contreras",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.42916000",
+      "longitude": "-104.04592000"
+   },
+   {
+      "name": "General Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.29372000",
+      "longitude": "-103.99800000"
+   },
+   {
+      "name": "Guanaceví",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.99610000",
+      "longitude": "-106.10898000"
+   },
+   {
+      "name": "Guatimapé",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.80733000",
+      "longitude": "-104.91994000"
+   },
+   {
+      "name": "Gómez Palacio",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.56985000",
+      "longitude": "-103.49588000"
+   },
+   {
+      "name": "Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.02409000",
+      "longitude": "-104.82823000"
+   },
+   {
+      "name": "Ignacio Allende",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.47432000",
+      "longitude": "-103.99710000"
+   },
+   {
+      "name": "Ignacio Ramírez",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.50796000",
+      "longitude": "-104.08751000"
+   },
+   {
+      "name": "Ignacio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.13643000",
+      "longitude": "-103.38430000"
+   },
+   {
+      "name": "Indé",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.91248000",
+      "longitude": "-105.22319000"
+   },
+   {
+      "name": "Jauja",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.92894000",
+      "longitude": "-103.37382000"
+   },
+   {
+      "name": "Jiménez",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.83051000",
+      "longitude": "-103.35733000"
+   },
+   {
+      "name": "José Guadalupe Aguilera (Santa Lucía)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.45420000",
+      "longitude": "-104.70888000"
+   },
+   {
+      "name": "José Guadalupe Rodríguez",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.31912000",
+      "longitude": "-104.08002000"
+   },
+   {
+      "name": "José María Morelos",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.01270000",
+      "longitude": "-105.20882000"
+   },
+   {
+      "name": "José María Pino Suárez",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.87733000",
+      "longitude": "-104.49104000"
+   },
+   {
+      "name": "José Refugio Salcido",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.96444000",
+      "longitude": "-104.51806000"
+   },
+   {
+      "name": "Juan E. García",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.49206000",
+      "longitude": "-103.69170000"
+   },
+   {
+      "name": "La Ciudad",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.73052000",
+      "longitude": "-105.68882000"
+   },
+   {
+      "name": "La Flor",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.68138000",
+      "longitude": "-103.36837000"
+   },
+   {
+      "name": "La Goma",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.48460000",
+      "longitude": "-103.68884000"
+   },
+   {
+      "name": "La Joya",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.83750000",
+      "longitude": "-103.99861000"
+   },
+   {
+      "name": "La Loma",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.46401000",
+      "longitude": "-103.67351000"
+   },
+   {
+      "name": "La Luz",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.63481000",
+      "longitude": "-103.61093000"
+   },
+   {
+      "name": "La Popular",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.67951000",
+      "longitude": "-103.46621000"
+   },
+   {
+      "name": "Las Cuevas",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.49815000",
+      "longitude": "-103.54950000"
+   },
+   {
+      "name": "León Guzmán",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.49986000",
+      "longitude": "-103.65924000"
+   },
+   {
+      "name": "Llano Grande",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.86367000",
+      "longitude": "-105.20558000"
+   },
+   {
+      "name": "Los Angeles",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.52206000",
+      "longitude": "-103.56757000"
+   },
+   {
+      "name": "Mapimí",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.19095000",
+      "longitude": "-104.05463000"
+   },
+   {
+      "name": "Mezquital",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "22.88401000",
+      "longitude": "-104.55350000"
+   },
+   {
+      "name": "Narciso Mendoza",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.01310000",
+      "longitude": "-103.96620000"
+   },
+   {
+      "name": "Nazareno",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.39916000",
+      "longitude": "-103.42065000"
+   },
+   {
+      "name": "Nazas",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.22462000",
+      "longitude": "-104.11458000"
+   },
+   {
+      "name": "Nicolás Bravo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.39010000",
+      "longitude": "-104.74374000"
+   },
+   {
+      "name": "Nogales",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.98130000",
+      "longitude": "-104.72229000"
+   },
+   {
+      "name": "Nombre de Dios",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.84891000",
+      "longitude": "-104.24712000"
+   },
+   {
+      "name": "Nuevo Ideal",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.88544000",
+      "longitude": "-105.07552000"
+   },
+   {
+      "name": "Ocampo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.55251000",
+      "longitude": "-105.75999000"
+   },
+   {
+      "name": "Orizaba",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.95750000",
+      "longitude": "-104.07389000"
+   },
+   {
+      "name": "Pasaje",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.92775000",
+      "longitude": "-103.80746000"
+   },
+   {
+      "name": "Paso Nacional",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.26311000",
+      "longitude": "-104.01941000"
+   },
+   {
+      "name": "Pastor Rovaix",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.68230000",
+      "longitude": "-103.51019000"
+   },
+   {
+      "name": "Pedriceña",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.11858000",
+      "longitude": "-103.78942000"
+   },
+   {
+      "name": "Picardías",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.32466000",
+      "longitude": "-103.48588000"
+   },
+   {
+      "name": "Pueblo Nuevo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.41405000",
+      "longitude": "-105.34021000"
+   },
+   {
+      "name": "Pánuco de Coronado",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.53972000",
+      "longitude": "-104.32707000"
+   },
+   {
+      "name": "Ramón Corona",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.18611000",
+      "longitude": "-103.63028000"
+   },
+   {
+      "name": "Ricardo Flores Magón",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.46250000",
+      "longitude": "-104.53040000"
+   },
+   {
+      "name": "Rodeo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.17860000",
+      "longitude": "-104.55950000"
+   },
+   {
+      "name": "San Atenógenes (La Villita)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.99056000",
+      "longitude": "-104.01722000"
+   },
+   {
+      "name": "San Bernardino de Milpillas Chico",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.38463000",
+      "longitude": "-105.15314000"
+   },
+   {
+      "name": "San Bernardo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.16986000",
+      "longitude": "-105.66251000"
+   },
+   {
+      "name": "San Felipe",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.69278000",
+      "longitude": "-103.38250000"
+   },
+   {
+      "name": "San Francisco Javier",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.72572000",
+      "longitude": "-104.03371000"
+   },
+   {
+      "name": "San Francisco de Horizonte (Horizonte)",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.93690000",
+      "longitude": "-103.41688000"
+   },
+   {
+      "name": "San Francisco del Mezquital",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.47444000",
+      "longitude": "-104.39490000"
+   },
+   {
+      "name": "San Jacinto",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.48030000",
+      "longitude": "-103.73750000"
+   },
+   {
+      "name": "San José de Gracia",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.47510000",
+      "longitude": "-104.74189000"
+   },
+   {
+      "name": "San José de Viñedo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.64865000",
+      "longitude": "-103.40255000"
+   },
+   {
+      "name": "San José de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.22753000",
+      "longitude": "-103.46650000"
+   },
+   {
+      "name": "San Juan de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.63273000",
+      "longitude": "-102.78180000"
+   },
+   {
+      "name": "San Juan del Rio del Centauro del Norte",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.77824000",
+      "longitude": "-104.45833000"
+   },
+   {
+      "name": "San Julio",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.93639000",
+      "longitude": "-103.42083000"
+   },
+   {
+      "name": "San Miguel de Cruces",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.41255000",
+      "longitude": "-105.84152000"
+   },
+   {
+      "name": "San Pedro del Gallo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.56411000",
+      "longitude": "-104.29284000"
+   },
+   {
+      "name": "Santa Catarina de Tepehuanes",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.33961000",
+      "longitude": "-105.72445000"
+   },
+   {
+      "name": "Santa Clara",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.47500000",
+      "longitude": "-103.35694000"
+   },
+   {
+      "name": "Santa Cruz Luján",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.72478000",
+      "longitude": "-103.35860000"
+   },
+   {
+      "name": "Santa María del Oro",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.94944000",
+      "longitude": "-105.36444000"
+   },
+   {
+      "name": "Santiago Bayacora",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.89373000",
+      "longitude": "-104.61276000"
+   },
+   {
+      "name": "Santiago Papasquiaro",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.04389000",
+      "longitude": "-105.41917000"
+   },
+   {
+      "name": "Sapioris",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.45248000",
+      "longitude": "-103.71612000"
+   },
+   {
+      "name": "Sebastián Lerdo de Tejada",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.95444000",
+      "longitude": "-104.63639000"
+   },
+   {
+      "name": "Seis de Enero",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.52052000",
+      "longitude": "-103.60150000"
+   },
+   {
+      "name": "Seis de Octubre",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.81361000",
+      "longitude": "-103.57333000"
+   },
+   {
+      "name": "Súchil",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.62193000",
+      "longitude": "-103.92320000"
+   },
+   {
+      "name": "Tamazula",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.05586000",
+      "longitude": "-106.76728000"
+   },
+   {
+      "name": "Tamazula de Victoria",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.96818000",
+      "longitude": "-106.96717000"
+   },
+   {
+      "name": "Tayoltita",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.10278000",
+      "longitude": "-105.93083000"
+   },
+   {
+      "name": "Tepehuanes",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.47838000",
+      "longitude": "-106.20884000"
+   },
+   {
+      "name": "Tlahualilo de Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.10593000",
+      "longitude": "-103.44257000"
+   },
+   {
+      "name": "Topia",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.21090000",
+      "longitude": "-106.57134000"
+   },
+   {
+      "name": "Transporte",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.63411000",
+      "longitude": "-103.54070000"
+   },
+   {
+      "name": "Velardeña",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.06472000",
+      "longitude": "-103.73668000"
+   },
+   {
+      "name": "Venecia",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.77844000",
+      "longitude": "-103.35266000"
+   },
+   {
+      "name": "Venustiano Carranza",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.47158000",
+      "longitude": "-104.62630000"
+   },
+   {
+      "name": "Vicente Guerrero",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.73429000",
+      "longitude": "-103.98487000"
+   },
+   {
+      "name": "Victoria de Durango",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "24.02032000",
+      "longitude": "-104.65756000"
+   },
+   {
+      "name": "Villa Gregorio García",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.75221000",
+      "longitude": "-103.35215000"
+   },
+   {
+      "name": "Villa Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.24833000",
+      "longitude": "-104.91441000"
+   },
+   {
+      "name": "Villa Juárez",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.49203000",
+      "longitude": "-103.59389000"
+   },
+   {
+      "name": "Villa Montemorelos",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.99154000",
+      "longitude": "-104.48045000"
+   },
+   {
+      "name": "Villa Ocampo",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "26.44085000",
+      "longitude": "-105.50640000"
+   },
+   {
+      "name": "Villa Unión",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "23.97460000",
+      "longitude": "-104.04705000"
+   },
+   {
+      "name": "Villa de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.51444000",
+      "longitude": "-103.48917000"
+   },
+   {
+      "name": "Álvaro Obregón",
+      "countryCode": "MX",
+      "stateCode": "DUR",
+      "latitude": "25.51417000",
+      "longitude": "-103.50500000"
+   }
+]

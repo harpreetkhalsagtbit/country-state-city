@@ -1,0 +1,443 @@
+[
+   {
+      "name": "Aberdeen",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.20508000",
+      "longitude": "-77.67932000"
+   },
+   {
+      "name": "Accompong",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.22985000",
+      "longitude": "-77.74816000"
+   },
+   {
+      "name": "Alligator Pond",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.86932000",
+      "longitude": "-77.56769000"
+   },
+   {
+      "name": "Balaclava",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.17228000",
+      "longitude": "-77.64375000"
+   },
+   {
+      "name": "Ballards  Valley",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.87949000",
+      "longitude": "-77.63086000"
+   },
+   {
+      "name": "Barbary Hall",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.96800000",
+      "longitude": "-77.77961000"
+   },
+   {
+      "name": "Bigwoods",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.93338000",
+      "longitude": "-77.71897000"
+   },
+   {
+      "name": "Black River",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.02636000",
+      "longitude": "-77.84873000"
+   },
+   {
+      "name": "Bogue",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.13619000",
+      "longitude": "-77.66970000"
+   },
+   {
+      "name": "Braes River",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.09351000",
+      "longitude": "-77.66487000"
+   },
+   {
+      "name": "Brighton",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.14836000",
+      "longitude": "-77.85604000"
+   },
+   {
+      "name": "Brompton",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.06795000",
+      "longitude": "-77.88821000"
+   },
+   {
+      "name": "Bull Savanna",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.88678000",
+      "longitude": "-77.59022000"
+   },
+   {
+      "name": "Bull Savannah",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.88056000",
+      "longitude": "-77.59000000"
+   },
+   {
+      "name": "Burnt Savannah",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.03177000",
+      "longitude": "-77.74936000"
+   },
+   {
+      "name": "Carisbrook",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.14742000",
+      "longitude": "-77.77367000"
+   },
+   {
+      "name": "Cotterwood",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.09492000",
+      "longitude": "-77.91553000"
+   },
+   {
+      "name": "Crawford",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.05060000",
+      "longitude": "-77.91596000"
+   },
+   {
+      "name": "Elderslie",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.22416000",
+      "longitude": "-77.79381000"
+   },
+   {
+      "name": "Fullerswood",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.01527000",
+      "longitude": "-77.77572000"
+   },
+   {
+      "name": "Giddy Hall",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.09702000",
+      "longitude": "-77.86764000"
+   },
+   {
+      "name": "Ginger Hill",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.19180000",
+      "longitude": "-77.84867000"
+   },
+   {
+      "name": "Goshen",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.04964000",
+      "longitude": "-77.64136000"
+   },
+   {
+      "name": "Holland",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.10358000",
+      "longitude": "-77.80164000"
+   },
+   {
+      "name": "Hopeton",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.95626000",
+      "longitude": "-77.66239000"
+   },
+   {
+      "name": "Junction",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.91467000",
+      "longitude": "-77.59894000"
+   },
+   {
+      "name": "Lacovia",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.08844000",
+      "longitude": "-77.75350000"
+   },
+   {
+      "name": "Leeds",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.01399000",
+      "longitude": "-77.68374000"
+   },
+   {
+      "name": "Lititz",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.94033000",
+      "longitude": "-77.59511000"
+   },
+   {
+      "name": "Maggotty",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.17343000",
+      "longitude": "-77.76681000"
+   },
+   {
+      "name": "Malvern",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.96667000",
+      "longitude": "-77.70000000"
+   },
+   {
+      "name": "Merrywood",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.21793000",
+      "longitude": "-77.83773000"
+   },
+   {
+      "name": "Middle Quarters",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.11455000",
+      "longitude": "-77.83808000"
+   },
+   {
+      "name": "Mountainside",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.98077000",
+      "longitude": "-77.74786000"
+   },
+   {
+      "name": "Mulgrave",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.21164000",
+      "longitude": "-77.82018000"
+   },
+   {
+      "name": "Myersville",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.99699000",
+      "longitude": "-77.62425000"
+   },
+   {
+      "name": "Nain",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.96526000",
+      "longitude": "-77.60528000"
+   },
+   {
+      "name": "New Market",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.15362000",
+      "longitude": "-77.90962000"
+   },
+   {
+      "name": "Newell",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.92103000",
+      "longitude": "-77.74653000"
+   },
+   {
+      "name": "Newton",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.11095000",
+      "longitude": "-77.72352000"
+   },
+   {
+      "name": "Parottee",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.96174000",
+      "longitude": "-77.81774000"
+   },
+   {
+      "name": "Pedro Plains",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.88569000",
+      "longitude": "-77.71337000"
+   },
+   {
+      "name": "Pepper",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.02105000",
+      "longitude": "-77.61284000"
+   },
+   {
+      "name": "Pisgah",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.19605000",
+      "longitude": "-77.88671000"
+   },
+   {
+      "name": "Pondside",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.98153000",
+      "longitude": "-77.79450000"
+   },
+   {
+      "name": "Potsdam",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.91872000",
+      "longitude": "-77.66869000"
+   },
+   {
+      "name": "Quick Step",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.23281000",
+      "longitude": "-77.67831000"
+   },
+   {
+      "name": "Red Bank",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.93776000",
+      "longitude": "-77.62585000"
+   },
+   {
+      "name": "Retirement",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.20740000",
+      "longitude": "-77.76698000"
+   },
+   {
+      "name": "Rose Hall",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.92654000",
+      "longitude": "-77.64153000"
+   },
+   {
+      "name": "Russels",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.98638000",
+      "longitude": "-77.65065000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.05336000",
+      "longitude": "-77.69836000"
+   },
+   {
+      "name": "Scholefield",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.02375000",
+      "longitude": "-77.71884000"
+   },
+   {
+      "name": "Siloah",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.16334000",
+      "longitude": "-77.71061000"
+   },
+   {
+      "name": "Slipe",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.05740000",
+      "longitude": "-77.79687000"
+   },
+   {
+      "name": "Southfield",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.88212000",
+      "longitude": "-77.66988000"
+   },
+   {
+      "name": "Springfield",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.17662000",
+      "longitude": "-77.87392000"
+   },
+   {
+      "name": "Thornton",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.19564000",
+      "longitude": "-77.72246000"
+   },
+   {
+      "name": "Top Hill",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.89317000",
+      "longitude": "-77.63793000"
+   },
+   {
+      "name": "Treasure Beach",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.89550000",
+      "longitude": "-77.76051000"
+   },
+   {
+      "name": "Warminister",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.96238000",
+      "longitude": "-77.63956000"
+   },
+   {
+      "name": "Watchwell",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "17.93876000",
+      "longitude": "-77.77250000"
+   },
+   {
+      "name": "White Hill",
+      "countryCode": "JM",
+      "stateCode": "11",
+      "latitude": "18.15646000",
+      "longitude": "-77.81067000"
+   }
+]

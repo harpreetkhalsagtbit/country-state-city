@@ -1,0 +1,2382 @@
+[
+   {
+      "name": "Abilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Abondant",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Aigurande",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ambillou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Amboise",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Amilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Anet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ardentes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Argent-sur-Sauldre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Argenton-sur-Creuse",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Armenonville-les-Gâtineaux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Arrou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Artannes-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Artenay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Arthon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Aschères-le-Marché",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Athée-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Aubigny-sur-Nère",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Aunay-sous-Auneau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Auneau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Authon-du-Perche",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Autry-le-Châtel",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Auzouer-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Avoine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Avord",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Azay-le-Ferron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Azay-le-Rideau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Azay-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Azé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bailleau-le-Pin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bailleau-l’Évêque",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ballan-Miré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Barjouville",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Baugy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Baule",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bazoches-les-Gallerandes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Beaugency",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Beaulieu-lès-Loches",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Beaumont-en-Véron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Beaumont-la-Ronce",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Beaune-la-Rolande",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bellegarde",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Belleville-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Blancafort",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Blois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bléré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Boigny-sur-Bionne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Boiscommun",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bonneval",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bonny-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Boulleret",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bourges",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bourgueil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bouzy-la-Forêt",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Boynes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bracieux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bray-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Brezolles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Briare",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bricy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Brinon-sur-Sauldre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Brou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Buzançais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bélâbre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Béville-le-Comte",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Bû",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Candé-sur-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cangey",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cellettes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cepoy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cerdon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cerelles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chabris",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chaillac",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chailles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chaingy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chambourg-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chambray-lès-Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Champhol",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chanceaux-sur-Choisille",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Changy-les-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chanteau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chantôme",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Charentilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Charenton-du-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chargé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chartres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chaudon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chaumont-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chaumont-sur-Tharonne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cheillé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cherisy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cheverny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chevillon-sur-Huillard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chevilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chilleurs-aux-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chinon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chissay-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chitenay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chouzy-sur-Cisse",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chouzé-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châlette-sur-Loing",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chârost",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Château-Renard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Château-Renault",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Château-la-Vallière",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteaudun",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteaumeillant",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteauneuf-en-Thymerais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteauneuf-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteauneuf-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châteauroux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châtillon-Coligny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châtillon-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châtillon-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Châtres-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Chécy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cinq-Mars-la-Pile",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Civray-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Clion",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cloyes-sur-le-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cluis",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cléry-Saint-André",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cléré-les-Pins",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Contres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Corbeilles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cormeray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cormery",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Corquilleroy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Coullons",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Coulombs",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cour-Cheverny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cours-les-Barres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Courtenay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Courville-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Cuffy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dadonville",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dammarie",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dampierre-en-Burly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Darvoy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Descartes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dhuizon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Donnery",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dordives",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Douchy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dreux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Droue-sur-Drouette",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Droué",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dry",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Dun-sur-Auron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Déols",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Département d'Eure-et-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Département d'Indre-et-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Département de l'Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Département du Loir-et-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Esvres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Faverolles-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fay-aux-Loges",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fleury-les-Aubrais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fondettes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fontaine-la-Guyon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fontenay-sur-Loing",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Foëcy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Fussy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Férolles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Gallardon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Garnay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Gasville-Oisème",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Genillé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Gidy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Gien",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Gièvres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Graçay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Hanches",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Henrichemont",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Herbault",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Herry",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Huismes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Huisseau-sur-Cosson",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Huisseau-sur-Mauves",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ingré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Issoudun",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Janville",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Jargeau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Jouet-sur-l'Aubois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Jouy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Jouy-le-Potier",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Joué-lès-Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "L'Île-Bouchard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Bazoche-Gouet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Celle-Saint-Avant",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Chapelle-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Chapelle-Saint-Ursin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Chapelle-du-Noyer",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Chapelle-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Chaussée-Saint-Victor",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Châtre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Croix-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Ferté-Imbault",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Ferté-Saint-Aubin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Loupe",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Membrolle-sur-Choisille",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Riche",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Ville-aux-Clercs",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "La Ville-aux-Dames",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ladon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lailly-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lamotte-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Langeais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Larçay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Blanc",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Châtelet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Coudray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Grand-Pressigny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Poinçonnet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Le Pêchereau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Les Aix-d’Angillon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Les Montils",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Levet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Levroux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lignières",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ligny-le-Ribault",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ligré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ligueil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Loches",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Loiret",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lorris",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Loury",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Luant",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lucé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Luisant",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lunay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lunery",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Luray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Luynes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Luçay-le-Mâle",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Lèves",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Léré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Maintenon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mainvilliers",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Malesherbes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Manthelan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Marboué",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Marcilly-en-Villette",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mardié",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mareau-aux-Prés",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mareuil-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Margon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Marigny-les-Usages",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Marmagne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Martizay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Massay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mazières-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mehun-sur-Yèvre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Menetou-Salon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mer",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mettray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Meung-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mondoubleau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Monnaie",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mont-près-Chambord",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montargis",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montbazon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montcresson",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montgivray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montierchaume",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montlivault",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montlouis-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montoire-sur-le-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Montrichard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Monts",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Morancez",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Morée",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Muides-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mur-de-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ménestreau-en-Villette",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Méreau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mézières-en-Brenne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Mézières-en-Drouais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nargis",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Naveil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nazelles-Négron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuillé-Pont-Pierre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neung-sur-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuville-aux-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuvy-Pailloux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuvy-Saint-Sépulchre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuvy-le-Roi",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Neuvy-sur-Barangeon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nevoy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Niherne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nogent-le-Phaye",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nogent-le-Roi",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nogent-le-Rotrou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nogent-sur-Vernisson",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Noizay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nouan-le-Fuzelier",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nouzilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Noyers-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Nérondes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Olivet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Onzain",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Orgères-en-Beauce",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Orléans",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ormes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Orval",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Oucques",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Oulins",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Outarville",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ouzouer-le-Marché",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ouzouer-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Ouzouer-sur-Trézée",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pannes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Parçay-Meslay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Patay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Perrusson",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pierres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pithiviers",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pithiviers-le-Vieil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Plaimpied-Givaudins",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pocé-sur-Cisse",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Poilly-lez-Gien",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pontlevoy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pouligny-Saint-Pierre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Preuilly-sur-Claise",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Pruniers-en-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Puiseaux",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Quiers-sur-Bézonde",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Rebréchien",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Reignac-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Restigné",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Reugny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Reuilly",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Rians",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Richelieu",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Rochecorbon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Romorantin-Lanthenay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Rouziers-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saché",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Aignan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Amand-Longpré",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Amand-Montrond",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Antoine-du-Rocher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Aubin-des-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Avertin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Ay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Benoît-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Branchs",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Brisson-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Christophe-sur-le-Nais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Claude-de-Diray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Cyr-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Cyr-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Denis-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Denis-les-Ponts",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Doulchard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Dyé-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Florent-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Gaultier",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Georges-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Georges-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Germain-des-Prés",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Germain-du-Puy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Gervais-la-Forêt",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Hilaire-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Jean-de-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Jean-de-la-Ruelle",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Jean-le-Blanc",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Laurent-Nouan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Lubin-des-Joncherets",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Marcel",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Martin-de-Nigelles",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Martin-d’Auxigny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Martin-le-Beau",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Martin-sur-Ocre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Maur",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Maurice-sur-Fessard",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Nicolas-de-Bourgueil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Ouen",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Paterne-Racan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Piat",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Pierre-des-Corps",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Prest",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Pryvé-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Père-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Romain-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Rémy-sur-Avre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Satur",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Sulpice-de-Pommeray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Viâtre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Éloy-de-Gy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Épain",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saint-Étienne-de-Chigny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sainte-Geneviève-des-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sainte-Lizaigne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sainte-Maure-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sainte-Solange",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Salbris",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sancerre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sancoins",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sandillon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saran",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sargé-sur-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Saussay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Savigny-en-Sancerre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Savigny-en-Véron",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Savigny-sur-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Savigné-sur-Lathan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Savonnières",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Seigy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Selles-Saint-Denis",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Selles-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Semblançay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Semoy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Senonches",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sermaises",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Soings-en-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sonzay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sorel-Moussel",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sorigny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Souesmes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sours",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Sully-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Suèvres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tauxigny",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tavers",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Theillay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Thilouze",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Thiron Gardais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Thésée",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tigy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tournon-Saint-Martin",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Toury",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Traînou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Triguères",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Trouy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Truyes",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Tréon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Unverre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Valençay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vasselay",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vatan",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Veigné",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vendôme",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vendœuvres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vennecy",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vernou-sur-Brenne",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vernouillet",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vert-en-Drouais",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vienne-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vierzon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vignoux-sur-Barangeon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villandry",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villebarou",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villedieu-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villedômer",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villefranche-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villemandeur",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villemeux-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villiers-le-Morhier",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Villiers-sur-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vimory",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vineuil",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vitry-aux-Loges",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vouvray",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Vouzon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Voves",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Véretz",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Yzeures-sur-Creuse",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Yèvres",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Écueillé",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Éguzon-Chantôme",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Épernon",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   },
+   {
+      "name": "Épieds-en-Beauce",
+      "countryCode": "FR",
+      "stateCode": "CVL"
+   }
+]

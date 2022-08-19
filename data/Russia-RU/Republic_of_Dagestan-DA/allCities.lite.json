@@ -1,0 +1,877 @@
+[
+   {
+      "name": "Achisu",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Adil’-Yangiyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Agul’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Agvali",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Akhty",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Akhtynskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Akhvakhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Aknada",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Aksay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Akusha",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Akushinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Andi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Ansalta",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Ashil’ta",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Babayurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Babayurtovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Bammatyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Bavtugay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Belidzhi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Bezhta",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Botashyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Botayurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Botlikhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Burtunay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Buynaksk",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Buynakskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Charodinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Chinar",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Chirkey",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Chontaul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dagestanskiye Ogni",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dakhadayevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Derbent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Derbentskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dokuzparinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dorgeli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Druzhba",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dubki",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Dylym",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Endirey",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Erpeli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gagatli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gaptsakh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gedzhukh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gereykhanovskoye",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gerga",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gergebil’",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gergebil’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gimry",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gubden",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gumbetovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gunib",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gunibskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Gurbuki",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Irganay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Izberbash",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kafyr-Kumukh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kalininaul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Karabudakhkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Karabudakhkentskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Karamakhi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Karata",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kaspiysk",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kasumkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kayakent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kayakentskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kaytagskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kazbekovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khadzhalmakhi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khamamatyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khasavyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khasavyurtovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khazar",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khebda",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khiv",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khivskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khuchni",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khunzakh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Khunzakhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kishcha",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kizilyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kizilyurtovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kizlyar",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kizlyarskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kochubey",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kokrek",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Komsomol’skiy",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Korkmaskala",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kostek",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kubachi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kuli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kulinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kumukh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kurakh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kurakhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kurkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kurush",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Kyakhulay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Lakskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Leninaul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Leninkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Levashi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Levashinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Lutkun",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Madzhalis",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Magaramkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Magaramkentskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Makhachkala",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Mamedkala",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Manas",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Manaskent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Miatli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Miskindzha",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Mugi",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Mutsalaul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Myurego",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Nizhneye Kazanishche",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Nizhniy Dzhengutay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Nogayskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novaya Maka",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novogagatli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novokayakent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novolakskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novolakskoye",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novyy Chirkey",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novyy Khushet",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novyy Kostek",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Novyy Sulak",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Nuradilovo",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Paraul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Pervomayskoye",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Pokrovskoye",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Rutul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Rutul’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Sabnova",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Samur",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Sergokala",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Sergokalinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Shamil’kala",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Shamil’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Shamkhal",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Shamkhal-Termen",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Siukh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Solnechnoye",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Sulak",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Suleyman-Stal’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Syrtych",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tabasaranskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tarki",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tarumovka",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tarumovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Temiraul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Terekli-Mekteb",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tlyarata",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tlyaratinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tpig",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tsumadinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tsuntinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tsurib",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Tyube",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Uchkent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Ulluaya",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Ullubiyaul",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Untsukul’",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Untsukul’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Urkarakh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Urma",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Usisha",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Usukhchay",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Utamysh",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Utsmiyurt",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Velikent",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Verkhneye Kazanishche",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Yuzhno-Sukhokumsk",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   },
+   {
+      "name": "Zubutli-Miatli",
+      "countryCode": "RU",
+      "stateCode": "DA"
+   }
+]

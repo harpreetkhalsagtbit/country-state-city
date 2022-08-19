@@ -1,0 +1,639 @@
+[
+   {
+      "name": "Aguascalientes",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.88333000",
+      "longitude": "-102.30000000"
+   },
+   {
+      "name": "Arboledas Paso Blanco [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.96361000",
+      "longitude": "-102.30194000"
+   },
+   {
+      "name": "Arellano",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.80106000",
+      "longitude": "-102.27384000"
+   },
+   {
+      "name": "Asientos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.23333000",
+      "longitude": "-102.08333000"
+   },
+   {
+      "name": "Bimbaletes Aguascalientes (El Álamo)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.23444000",
+      "longitude": "-102.01917000"
+   },
+   {
+      "name": "Calvillo",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.85000000",
+      "longitude": "-102.71666000"
+   },
+   {
+      "name": "Carboneras",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.18311000",
+      "longitude": "-102.24601000"
+   },
+   {
+      "name": "Cartagena [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.95639000",
+      "longitude": "-102.27639000"
+   },
+   {
+      "name": "Centro de Arriba",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.73123000",
+      "longitude": "-102.49888000"
+   },
+   {
+      "name": "Ciénega Grande",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.19434000",
+      "longitude": "-102.01940000"
+   },
+   {
+      "name": "Corral de Barrancos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.95028000",
+      "longitude": "-102.33222000"
+   },
+   {
+      "name": "Cosío",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.36667000",
+      "longitude": "-102.30000000"
+   },
+   {
+      "name": "Cotorina",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.75154000",
+      "longitude": "-102.26832000"
+   },
+   {
+      "name": "Crucero Las Pilas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.82722000",
+      "longitude": "-102.76033000"
+   },
+   {
+      "name": "Cumbres III",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.92222000",
+      "longitude": "-102.23750000"
+   },
+   {
+      "name": "Ejido la Guayana (Rancho Seco)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.98028000",
+      "longitude": "-102.27306000"
+   },
+   {
+      "name": "El Bajío",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.24558000",
+      "longitude": "-102.30825000"
+   },
+   {
+      "name": "El Chayote",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.28667000",
+      "longitude": "-102.23900000"
+   },
+   {
+      "name": "El Cuervero (Cuerveros)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.86056000",
+      "longitude": "-102.68389000"
+   },
+   {
+      "name": "El Llano",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.91667000",
+      "longitude": "-101.96666000"
+   },
+   {
+      "name": "El Refugio de Peñuelas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.71635000",
+      "longitude": "-102.28941000"
+   },
+   {
+      "name": "El Refugio de Providencia (Providencia)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.34667000",
+      "longitude": "-102.25778000"
+   },
+   {
+      "name": "El Salero",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.38706000",
+      "longitude": "-102.32323000"
+   },
+   {
+      "name": "El Tule",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.08438000",
+      "longitude": "-102.09100000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.10635000",
+      "longitude": "-102.30056000"
+   },
+   {
+      "name": "Escaleras",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.25054000",
+      "longitude": "-102.33377000"
+   },
+   {
+      "name": "Ex-Viñedos Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.95944000",
+      "longitude": "-102.27417000"
+   },
+   {
+      "name": "General Ignacio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.88136000",
+      "longitude": "-102.46454000"
+   },
+   {
+      "name": "Guadalupe de Atlas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.26653000",
+      "longitude": "-102.03118000"
+   },
+   {
+      "name": "Jaltiche de Arriba",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.77525000",
+      "longitude": "-102.78849000"
+   },
+   {
+      "name": "Jaltomate",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.01528000",
+      "longitude": "-102.14583000"
+   },
+   {
+      "name": "Jarillas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.29611000",
+      "longitude": "-102.06333000"
+   },
+   {
+      "name": "Jesús Gómez Portugal",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.99607000",
+      "longitude": "-102.29095000"
+   },
+   {
+      "name": "Jesús Gómez Portugal (Margaritas)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.99917000",
+      "longitude": "-102.29139000"
+   },
+   {
+      "name": "Jesús María",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.96667000",
+      "longitude": "-102.35000000"
+   },
+   {
+      "name": "La Concepción",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.03537000",
+      "longitude": "-102.29989000"
+   },
+   {
+      "name": "La Escondida",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.03573000",
+      "longitude": "-102.25931000"
+   },
+   {
+      "name": "La Labor",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.96207000",
+      "longitude": "-102.69626000"
+   },
+   {
+      "name": "La Loma de los Negritos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.87056000",
+      "longitude": "-102.35000000"
+   },
+   {
+      "name": "La Panadera",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.86398000",
+      "longitude": "-102.69832000"
+   },
+   {
+      "name": "La Punta",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.32411000",
+      "longitude": "-102.29212000"
+   },
+   {
+      "name": "Las Norias de Ojocaliente",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.88944000",
+      "longitude": "-102.21738000"
+   },
+   {
+      "name": "Las Ánimas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.09057000",
+      "longitude": "-102.26684000"
+   },
+   {
+      "name": "Los Arquitos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.92299000",
+      "longitude": "-102.38554000"
+   },
+   {
+      "name": "Los Caños",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.78167000",
+      "longitude": "-102.46750000"
+   },
+   {
+      "name": "Los Conos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.89739000",
+      "longitude": "-101.99487000"
+   },
+   {
+      "name": "Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.17137000",
+      "longitude": "-102.02704000"
+   },
+   {
+      "name": "Macario J. Gómez [Colonia]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.98056000",
+      "longitude": "-102.25139000"
+   },
+   {
+      "name": "Malpaso",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.85896000",
+      "longitude": "-102.66441000"
+   },
+   {
+      "name": "Maravillas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.95408000",
+      "longitude": "-102.32982000"
+   },
+   {
+      "name": "Mesa Grande",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.80529000",
+      "longitude": "-102.72181000"
+   },
+   {
+      "name": "Miravalle",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.97250000",
+      "longitude": "-102.31139000"
+   },
+   {
+      "name": "Molinos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.16278000",
+      "longitude": "-102.09472000"
+   },
+   {
+      "name": "Montoro",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.75603000",
+      "longitude": "-102.30219000"
+   },
+   {
+      "name": "Noria del Borrego (Norias)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.28722000",
+      "longitude": "-102.04194000"
+   },
+   {
+      "name": "Norias del Paso Hondo",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.86177000",
+      "longitude": "-102.20681000"
+   },
+   {
+      "name": "Ojo de Agua de Crucitas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.96426000",
+      "longitude": "-101.95202000"
+   },
+   {
+      "name": "Ojocaliente",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.87390000",
+      "longitude": "-102.67684000"
+   },
+   {
+      "name": "Pabellón de Arteaga",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.15000000",
+      "longitude": "-102.26666000"
+   },
+   {
+      "name": "Pabellón de Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.17871000",
+      "longitude": "-102.34014000"
+   },
+   {
+      "name": "Palo Alto",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.91801000",
+      "longitude": "-101.96453000"
+   },
+   {
+      "name": "Paredes",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.14958000",
+      "longitude": "-102.48232000"
+   },
+   {
+      "name": "Paseos de la Providencia [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.02425000",
+      "longitude": "-102.27711000"
+   },
+   {
+      "name": "Paseos de las Haciendas [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.99222000",
+      "longitude": "-102.34361000"
+   },
+   {
+      "name": "Paso Blanco",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.97361000",
+      "longitude": "-102.31694000"
+   },
+   {
+      "name": "Peñuelas (El Cienegal)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.72250000",
+      "longitude": "-102.27583000"
+   },
+   {
+      "name": "Pilotos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.03722000",
+      "longitude": "-101.95917000"
+   },
+   {
+      "name": "Pocitos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.92167000",
+      "longitude": "-102.33472000"
+   },
+   {
+      "name": "Puertecito de la Virgen",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.96028000",
+      "longitude": "-102.26889000"
+   },
+   {
+      "name": "Rincón de Romos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.23333000",
+      "longitude": "-102.31666000"
+   },
+   {
+      "name": "San Antonio",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.22823000",
+      "longitude": "-102.25034000"
+   },
+   {
+      "name": "San Antonio de Peñuelas",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.67471000",
+      "longitude": "-102.30010000"
+   },
+   {
+      "name": "San Antonio de los Horcones",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.99832000",
+      "longitude": "-102.32663000"
+   },
+   {
+      "name": "San Antonio de los Ríos",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.16104000",
+      "longitude": "-102.47118000"
+   },
+   {
+      "name": "San Francisco de los Romo",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.03307000",
+      "longitude": "-102.22902000"
+   },
+   {
+      "name": "San Ignacio",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.89269000",
+      "longitude": "-102.33974000"
+   },
+   {
+      "name": "San Jacinto",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.34861000",
+      "longitude": "-102.23361000"
+   },
+   {
+      "name": "San José de Gracia",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.15000000",
+      "longitude": "-102.41666000"
+   },
+   {
+      "name": "San Luis de Letras",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.13551000",
+      "longitude": "-102.29729000"
+   },
+   {
+      "name": "San Sebastián [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.82139000",
+      "longitude": "-102.27111000"
+   },
+   {
+      "name": "San Tadeo",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.91954000",
+      "longitude": "-102.70043000"
+   },
+   {
+      "name": "Santa Isabel [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.08111000",
+      "longitude": "-102.26778000"
+   },
+   {
+      "name": "Santa María de la Paz",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.38786000",
+      "longitude": "-102.25697000"
+   },
+   {
+      "name": "Santa Rosa (El Huizache)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.93500000",
+      "longitude": "-102.02194000"
+   },
+   {
+      "name": "Santiago",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.11948000",
+      "longitude": "-102.33769000"
+   },
+   {
+      "name": "Tepetates",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.95667000",
+      "longitude": "-102.32167000"
+   },
+   {
+      "name": "Tepezalá",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.21667000",
+      "longitude": "-102.16666000"
+   },
+   {
+      "name": "Valladolid",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.02111000",
+      "longitude": "-102.31500000"
+   },
+   {
+      "name": "Valle Huejúcar (Fraccionamiento Popular) [Fraccionamiento]",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.83111000",
+      "longitude": "-102.75028000"
+   },
+   {
+      "name": "Villa Juárez",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "22.09447000",
+      "longitude": "-102.06930000"
+   },
+   {
+      "name": "Villa Licenciado Jesús Terán (Calvillito)",
+      "countryCode": "MX",
+      "stateCode": "AGU",
+      "latitude": "21.82528000",
+      "longitude": "-102.18778000"
+   }
+]

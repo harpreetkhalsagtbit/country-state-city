@@ -1,0 +1,891 @@
+[
+   {
+      "name": "Afonino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.26201000",
+      "longitude": "44.09503000"
+   },
+   {
+      "name": "Ardatov",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.24205000",
+      "longitude": "43.09699000"
+   },
+   {
+      "name": "Ardatovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.25000000",
+      "longitude": "43.08333000"
+   },
+   {
+      "name": "Arzamas",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.39485000",
+      "longitude": "43.83992000"
+   },
+   {
+      "name": "Arzamasskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.33333000",
+      "longitude": "43.75000000"
+   },
+   {
+      "name": "Ar’ya",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.49146000",
+      "longitude": "45.96691000"
+   },
+   {
+      "name": "Babino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.22564000",
+      "longitude": "43.62380000"
+   },
+   {
+      "name": "Blizhne-Pesochnoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.34560000",
+      "longitude": "42.10150000"
+   },
+   {
+      "name": "Bogorodsk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.10513000",
+      "longitude": "43.51294000"
+   },
+   {
+      "name": "Bogorodskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.08333000",
+      "longitude": "43.50000000"
+   },
+   {
+      "name": "Bol’sheboldinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.00000000",
+      "longitude": "45.25000000"
+   },
+   {
+      "name": "Bol’shoye Boldino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.00588000",
+      "longitude": "45.31419000"
+   },
+   {
+      "name": "Bol’shoye Kozino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.40397000",
+      "longitude": "43.71424000"
+   },
+   {
+      "name": "Bol’shoye Murashkino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.78261000",
+      "longitude": "44.77541000"
+   },
+   {
+      "name": "Bor",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.35808000",
+      "longitude": "44.07477000"
+   },
+   {
+      "name": "Bor Urban Okrug",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.35325000",
+      "longitude": "44.09010000"
+   },
+   {
+      "name": "Burevestnik",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.14403000",
+      "longitude": "43.78832000"
+   },
+   {
+      "name": "Buturlino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.56673000",
+      "longitude": "44.89738000"
+   },
+   {
+      "name": "Chernukha",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.59739000",
+      "longitude": "43.75560000"
+   },
+   {
+      "name": "Chistoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.53753000",
+      "longitude": "43.00445000"
+   },
+   {
+      "name": "Chkalovsk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.76776000",
+      "longitude": "43.25135000"
+   },
+   {
+      "name": "Dal’nekonstantinovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.83333000",
+      "longitude": "44.08333000"
+   },
+   {
+      "name": "Dal’neye Konstantinovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.81025000",
+      "longitude": "44.09595000"
+   },
+   {
+      "name": "Diveyevo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.04329000",
+      "longitude": "43.24178000"
+   },
+   {
+      "name": "Doschatoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.38860000",
+      "longitude": "42.10320000"
+   },
+   {
+      "name": "Dzerzhinsk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.24143000",
+      "longitude": "43.45539000"
+   },
+   {
+      "name": "Frolishchi",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.42177000",
+      "longitude": "42.65187000"
+   },
+   {
+      "name": "Gagino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.23142000",
+      "longitude": "45.03386000"
+   },
+   {
+      "name": "Gidrotorf",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.47562000",
+      "longitude": "43.53813000"
+   },
+   {
+      "name": "Gorbatov",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.13110000",
+      "longitude": "43.06363000"
+   },
+   {
+      "name": "Gorbatovka",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.25716000",
+      "longitude": "43.74577000"
+   },
+   {
+      "name": "Gorodets",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.65493000",
+      "longitude": "43.47273000"
+   },
+   {
+      "name": "Gorodetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.75000000",
+      "longitude": "43.75000000"
+   },
+   {
+      "name": "Gremyachevo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.39193000",
+      "longitude": "43.02734000"
+   },
+   {
+      "name": "Ilyinogorsk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.22775000",
+      "longitude": "42.95385000"
+   },
+   {
+      "name": "Imeni M. I. Kalinina",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.17926000",
+      "longitude": "44.33098000"
+   },
+   {
+      "name": "Imeni Stepana Razina",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.89320000",
+      "longitude": "44.29627000"
+   },
+   {
+      "name": "Knyaginino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.82278000",
+      "longitude": "45.03489000"
+   },
+   {
+      "name": "Kovernino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.12818000",
+      "longitude": "43.81350000"
+   },
+   {
+      "name": "Krasnaya Gorka",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.38666000",
+      "longitude": "46.10925000"
+   },
+   {
+      "name": "Krasnooktyabr’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.33333000",
+      "longitude": "45.58333000"
+   },
+   {
+      "name": "Krasnyye Baki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.13100000",
+      "longitude": "45.15992000"
+   },
+   {
+      "name": "Kstovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.14733000",
+      "longitude": "44.19787000"
+   },
+   {
+      "name": "Kulebaki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.41333000",
+      "longitude": "42.53250000"
+   },
+   {
+      "name": "Linda",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.61571000",
+      "longitude": "44.09544000"
+   },
+   {
+      "name": "Lukino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.44183000",
+      "longitude": "43.62932000"
+   },
+   {
+      "name": "Lukoyanov",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.02772000",
+      "longitude": "44.47865000"
+   },
+   {
+      "name": "Lukoyanovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.00000000",
+      "longitude": "44.50000000"
+   },
+   {
+      "name": "Lyskovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.03282000",
+      "longitude": "45.04220000"
+   },
+   {
+      "name": "Mukhtolovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.46751000",
+      "longitude": "43.19973000"
+   },
+   {
+      "name": "Mulino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.28923000",
+      "longitude": "42.92005000"
+   },
+   {
+      "name": "Navashino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.54410000",
+      "longitude": "42.19680000"
+   },
+   {
+      "name": "Neklyudovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.41421000",
+      "longitude": "43.97721000"
+   },
+   {
+      "name": "Nizhniy Novgorod",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.32867000",
+      "longitude": "44.00205000"
+   },
+   {
+      "name": "Novaya Balakhna",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.48989000",
+      "longitude": "43.60114000"
+   },
+   {
+      "name": "Novosmolinskiy",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.28410000",
+      "longitude": "43.05071000"
+   },
+   {
+      "name": "Pamyat’ Parizhskoy Kommuny",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.10480000",
+      "longitude": "44.49520000"
+   },
+   {
+      "name": "Pavlovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.96860000",
+      "longitude": "43.09120000"
+   },
+   {
+      "name": "Pavlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.00000000",
+      "longitude": "43.00000000"
+   },
+   {
+      "name": "Perevoz",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.59613000",
+      "longitude": "44.54461000"
+   },
+   {
+      "name": "Pervomaysk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.86890000",
+      "longitude": "43.80272000"
+   },
+   {
+      "name": "Pervomayskiy",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.61474000",
+      "longitude": "43.35825000"
+   },
+   {
+      "name": "Pervoye Maya",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.16403000",
+      "longitude": "44.71955000"
+   },
+   {
+      "name": "Pil’na",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.55394000",
+      "longitude": "45.92194000"
+   },
+   {
+      "name": "Pil’ninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.58333000",
+      "longitude": "45.91667000"
+   },
+   {
+      "name": "Pizhma",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.86418000",
+      "longitude": "47.11714000"
+   },
+   {
+      "name": "Pochinki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.69875000",
+      "longitude": "44.86678000"
+   },
+   {
+      "name": "Pochinkovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.66667000",
+      "longitude": "44.83333000"
+   },
+   {
+      "name": "Podnov’ye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.30610000",
+      "longitude": "44.09244000"
+   },
+   {
+      "name": "Prudy",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.57380000",
+      "longitude": "46.27176000"
+   },
+   {
+      "name": "Purekh",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.64684000",
+      "longitude": "43.06772000"
+   },
+   {
+      "name": "Pyra",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.29527000",
+      "longitude": "43.35274000"
+   },
+   {
+      "name": "Rabotki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.04147000",
+      "longitude": "44.60265000"
+   },
+   {
+      "name": "Reshetikha",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.21566000",
+      "longitude": "43.28802000"
+   },
+   {
+      "name": "Sarov",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.93583000",
+      "longitude": "43.32352000"
+   },
+   {
+      "name": "Satis",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.92290000",
+      "longitude": "43.22977000"
+   },
+   {
+      "name": "Savasleyka",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.46060000",
+      "longitude": "42.32070000"
+   },
+   {
+      "name": "Sechenovo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.22444000",
+      "longitude": "45.89056000"
+   },
+   {
+      "name": "Sechenovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.16667000",
+      "longitude": "45.91667000"
+   },
+   {
+      "name": "Semënov",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.78749000",
+      "longitude": "44.49297000"
+   },
+   {
+      "name": "Sergach",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.53079000",
+      "longitude": "45.46611000"
+   },
+   {
+      "name": "Sergachskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.58333000",
+      "longitude": "45.50000000"
+   },
+   {
+      "name": "Shakhun’ya",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.67579000",
+      "longitude": "46.61136000"
+   },
+   {
+      "name": "Sharanga",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.17749000",
+      "longitude": "46.53956000"
+   },
+   {
+      "name": "Sharangskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.08333000",
+      "longitude": "46.41667000"
+   },
+   {
+      "name": "Shatki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.18874000",
+      "longitude": "44.12486000"
+   },
+   {
+      "name": "Shimorskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.32810000",
+      "longitude": "42.02560000"
+   },
+   {
+      "name": "Sitniki",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.45529000",
+      "longitude": "44.06658000"
+   },
+   {
+      "name": "Smolino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.27526000",
+      "longitude": "43.09109000"
+   },
+   {
+      "name": "Sokol’skoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.14122000",
+      "longitude": "43.15895000"
+   },
+   {
+      "name": "Sosnovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.75000000",
+      "longitude": "43.25000000"
+   },
+   {
+      "name": "Sosnovskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.80549000",
+      "longitude": "43.16791000"
+   },
+   {
+      "name": "Spasskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.83333000",
+      "longitude": "45.75000000"
+   },
+   {
+      "name": "Spasskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.86048000",
+      "longitude": "45.69695000"
+   },
+   {
+      "name": "Sukhobezvodnoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.04913000",
+      "longitude": "44.88909000"
+   },
+   {
+      "name": "Surovatikha",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.76516000",
+      "longitude": "43.89845000"
+   },
+   {
+      "name": "Syava",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "58.01457000",
+      "longitude": "46.32216000"
+   },
+   {
+      "name": "Taremskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.92889000",
+      "longitude": "43.04433000"
+   },
+   {
+      "name": "Tonkino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.37257000",
+      "longitude": "46.46294000"
+   },
+   {
+      "name": "Tonshayevo",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.73598000",
+      "longitude": "47.01265000"
+   },
+   {
+      "name": "Tsentral’nyy",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.29700000",
+      "longitude": "42.78869000"
+   },
+   {
+      "name": "Tumbotino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.99926000",
+      "longitude": "43.02359000"
+   },
+   {
+      "name": "Urazovka",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.40126000",
+      "longitude": "45.61860000"
+   },
+   {
+      "name": "Uren’",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.45516000",
+      "longitude": "45.78522000"
+   },
+   {
+      "name": "Vacha",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.80350000",
+      "longitude": "42.77090000"
+   },
+   {
+      "name": "Vachskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.75000000",
+      "longitude": "42.75000000"
+   },
+   {
+      "name": "Vad",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.53009000",
+      "longitude": "44.21137000"
+   },
+   {
+      "name": "Vakhtan",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.96592000",
+      "longitude": "46.68886000"
+   },
+   {
+      "name": "Varnavino",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.40351000",
+      "longitude": "45.09164000"
+   },
+   {
+      "name": "Varnavinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.50000000",
+      "longitude": "44.91667000"
+   },
+   {
+      "name": "Vasil’sursk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.13139000",
+      "longitude": "46.01600000"
+   },
+   {
+      "name": "Vetluga",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.85574000",
+      "longitude": "45.78102000"
+   },
+   {
+      "name": "Vetluzhskiy",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.17355000",
+      "longitude": "45.12272000"
+   },
+   {
+      "name": "Vetluzhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "57.75000000",
+      "longitude": "45.58333000"
+   },
+   {
+      "name": "Vilya",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.24556000",
+      "longitude": "42.20889000"
+   },
+   {
+      "name": "Vladimirskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.82002000",
+      "longitude": "45.11843000"
+   },
+   {
+      "name": "Volodarsk",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.23105000",
+      "longitude": "43.18767000"
+   },
+   {
+      "name": "Vorotynets",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.06028000",
+      "longitude": "45.86330000"
+   },
+   {
+      "name": "Vorsma",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.99062000",
+      "longitude": "43.27249000"
+   },
+   {
+      "name": "Voskresenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.75000000",
+      "longitude": "45.50000000"
+   },
+   {
+      "name": "Voskresenskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.83806000",
+      "longitude": "45.43167000"
+   },
+   {
+      "name": "Voznesenskoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "54.89000000",
+      "longitude": "42.75694000"
+   },
+   {
+      "name": "Vyksa",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.31750000",
+      "longitude": "42.17444000"
+   },
+   {
+      "name": "Vyyezdnoye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "55.38154000",
+      "longitude": "43.78638000"
+   },
+   {
+      "name": "Yuganets",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.25080000",
+      "longitude": "43.23069000"
+   },
+   {
+      "name": "Zavolzh’ye",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.64051000",
+      "longitude": "43.39446000"
+   },
+   {
+      "name": "Zelyony Gorod",
+      "countryCode": "RU",
+      "stateCode": "NIZ",
+      "latitude": "56.17833000",
+      "longitude": "44.07440000"
+   }
+]

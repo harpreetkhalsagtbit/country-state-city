@@ -1,0 +1,842 @@
+[
+   {
+      "name": "Achikulak",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.55167000",
+      "longitude": "44.83778000"
+   },
+   {
+      "name": "Aleksandriya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.09472000",
+      "longitude": "43.24556000"
+   },
+   {
+      "name": "Aleksandriyskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.22722000",
+      "longitude": "43.34528000"
+   },
+   {
+      "name": "Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.71417000",
+      "longitude": "43.00083000"
+   },
+   {
+      "name": "Andzhiyevskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.23889000",
+      "longitude": "43.08556000"
+   },
+   {
+      "name": "Arzgir",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.37278000",
+      "longitude": "44.22056000"
+   },
+   {
+      "name": "Balakhonovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.77670000",
+      "longitude": "41.78420000"
+   },
+   {
+      "name": "Barsukovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.76320000",
+      "longitude": "41.81910000"
+   },
+   {
+      "name": "Bekeshevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.11389000",
+      "longitude": "42.42694000"
+   },
+   {
+      "name": "Beshpagir",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.02167000",
+      "longitude": "42.38083000"
+   },
+   {
+      "name": "Bezopasnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.64833000",
+      "longitude": "41.93603000"
+   },
+   {
+      "name": "Blagodarnyy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.09778000",
+      "longitude": "43.43639000"
+   },
+   {
+      "name": "Blagodatnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.39972000",
+      "longitude": "42.58667000"
+   },
+   {
+      "name": "Borgustanskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.05470000",
+      "longitude": "42.52880000"
+   },
+   {
+      "name": "Budënnovsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.78389000",
+      "longitude": "44.16583000"
+   },
+   {
+      "name": "Burlatskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.05639000",
+      "longitude": "43.63500000"
+   },
+   {
+      "name": "Chernolesskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.71556000",
+      "longitude": "43.71333000"
+   },
+   {
+      "name": "Divnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.90889000",
+      "longitude": "43.35472000"
+   },
+   {
+      "name": "Dmitriyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.80529000",
+      "longitude": "41.89667000"
+   },
+   {
+      "name": "Donskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.45518000",
+      "longitude": "41.97411000"
+   },
+   {
+      "name": "Edissiya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.05111000",
+      "longitude": "44.54083000"
+   },
+   {
+      "name": "Etoka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.91944000",
+      "longitude": "43.04833000"
+   },
+   {
+      "name": "Galyugayevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.69694000",
+      "longitude": "44.93444000"
+   },
+   {
+      "name": "Georgiyevsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.15194000",
+      "longitude": "43.46972000"
+   },
+   {
+      "name": "Georgiyevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.11139000",
+      "longitude": "43.49222000"
+   },
+   {
+      "name": "Gofitskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.07917000",
+      "longitude": "43.04639000"
+   },
+   {
+      "name": "Goryachevodskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.02361000",
+      "longitude": "43.09222000"
+   },
+   {
+      "name": "Grazhdanskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.23000000",
+      "longitude": "42.76980000"
+   },
+   {
+      "name": "Grecheskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.43053000",
+      "longitude": "43.00830000"
+   },
+   {
+      "name": "Grigoropolisskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.29722000",
+      "longitude": "41.05667000"
+   },
+   {
+      "name": "Inozemtsevo",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.09264000",
+      "longitude": "43.09113000"
+   },
+   {
+      "name": "Ipatovo",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.71806000",
+      "longitude": "42.90361000"
+   },
+   {
+      "name": "Irgakly",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.36111000",
+      "longitude": "44.75556000"
+   },
+   {
+      "name": "Ivanovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.57950000",
+      "longitude": "41.87640000"
+   },
+   {
+      "name": "Izobil’nyy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.37092000",
+      "longitude": "41.70839000"
+   },
+   {
+      "name": "Kalinovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.86350000",
+      "longitude": "42.96220000"
+   },
+   {
+      "name": "Kangly",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.25444000",
+      "longitude": "43.03083000"
+   },
+   {
+      "name": "Kara-Tyube",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.63361000",
+      "longitude": "45.43694000"
+   },
+   {
+      "name": "Kayasula",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.32500000",
+      "longitude": "45.00000000"
+   },
+   {
+      "name": "Kevsala",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.79833000",
+      "longitude": "42.69028000"
+   },
+   {
+      "name": "Kislovodsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.91333000",
+      "longitude": "42.72083000"
+   },
+   {
+      "name": "Kochubeyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.64417000",
+      "longitude": "41.84528000"
+   },
+   {
+      "name": "Komsomolets",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.01972000",
+      "longitude": "43.56972000"
+   },
+   {
+      "name": "Konstantinovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.04556000",
+      "longitude": "43.15833000"
+   },
+   {
+      "name": "Konstantinovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.29917000",
+      "longitude": "42.63667000"
+   },
+   {
+      "name": "Krasnogvardeyskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.84604000",
+      "longitude": "41.51885000"
+   },
+   {
+      "name": "Krasnokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.17806000",
+      "longitude": "43.50194000"
+   },
+   {
+      "name": "Kruglolesskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.65889000",
+      "longitude": "42.81417000"
+   },
+   {
+      "name": "Kursavka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.45640000",
+      "longitude": "42.50930000"
+   },
+   {
+      "name": "Kurskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.05000000",
+      "longitude": "44.45000000"
+   },
+   {
+      "name": "Ladovskaya Balka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.62965000",
+      "longitude": "41.40231000"
+   },
+   {
+      "name": "Lermontov",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.10667000",
+      "longitude": "42.97333000"
+   },
+   {
+      "name": "Letnyaya Stavka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.43056000",
+      "longitude": "43.44722000"
+   },
+   {
+      "name": "Levokumka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.23167000",
+      "longitude": "43.15000000"
+   },
+   {
+      "name": "Levokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.82194000",
+      "longitude": "44.66056000"
+   },
+   {
+      "name": "Lysogorskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.10639000",
+      "longitude": "43.27556000"
+   },
+   {
+      "name": "Mikhaylovsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.12833000",
+      "longitude": "42.02556000"
+   },
+   {
+      "name": "Mineralnye Vody",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.21028000",
+      "longitude": "43.13528000"
+   },
+   {
+      "name": "Moskovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.28420000",
+      "longitude": "41.91030000"
+   },
+   {
+      "name": "Nadezhda",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.10000000",
+      "longitude": "44.60000000"
+   },
+   {
+      "name": "Nagutskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.44150000",
+      "longitude": "42.87620000"
+   },
+   {
+      "name": "Neftekumsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.75583000",
+      "longitude": "44.99250000"
+   },
+   {
+      "name": "Nevinnomyssk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.63330000",
+      "longitude": "41.94440000"
+   },
+   {
+      "name": "Nezhinskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.92833000",
+      "longitude": "42.68556000"
+   },
+   {
+      "name": "Nezlobnaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.11806000",
+      "longitude": "43.40278000"
+   },
+   {
+      "name": "Niny",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.48778000",
+      "longitude": "43.94889000"
+   },
+   {
+      "name": "Novoaleksandrovsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.49480000",
+      "longitude": "41.22075000"
+   },
+   {
+      "name": "Novoblagodarnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.14333000",
+      "longitude": "42.87500000"
+   },
+   {
+      "name": "Novopavlovsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.96222000",
+      "longitude": "43.63417000"
+   },
+   {
+      "name": "Novoselitskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.75083000",
+      "longitude": "43.43694000"
+   },
+   {
+      "name": "Novoterskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.14861000",
+      "longitude": "43.09250000"
+   },
+   {
+      "name": "Novotroitskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.32667000",
+      "longitude": "41.52528000"
+   },
+   {
+      "name": "Novozavedennoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.26278000",
+      "longitude": "43.63806000"
+   },
+   {
+      "name": "Orlovka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.69139000",
+      "longitude": "44.17444000"
+   },
+   {
+      "name": "Otkaznoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.32639000",
+      "longitude": "43.86083000"
+   },
+   {
+      "name": "Ovoshchi",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.36639000",
+      "longitude": "43.32333000"
+   },
+   {
+      "name": "Pelagiada",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.20639000",
+      "longitude": "42.02361000"
+   },
+   {
+      "name": "Podgornaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.20306000",
+      "longitude": "43.42972000"
+   },
+   {
+      "name": "Podkumskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.07556000",
+      "longitude": "43.21028000"
+   },
+   {
+      "name": "Pokoynoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.80972000",
+      "longitude": "44.25167000"
+   },
+   {
+      "name": "Praskoveya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.74444000",
+      "longitude": "44.20306000"
+   },
+   {
+      "name": "Pravokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.76944000",
+      "longitude": "44.64722000"
+   },
+   {
+      "name": "Pregradnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.82183000",
+      "longitude": "41.74692000"
+   },
+   {
+      "name": "Pyatigorsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.04861000",
+      "longitude": "43.05944000"
+   },
+   {
+      "name": "Pyatigorskiy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.97417000",
+      "longitude": "43.25833000"
+   },
+   {
+      "name": "Rasshevatskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.57480000",
+      "longitude": "41.03496000"
+   },
+   {
+      "name": "Ryzdvyanyy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.26560000",
+      "longitude": "41.83890000"
+   },
+   {
+      "name": "Severnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.83194000",
+      "longitude": "42.85833000"
+   },
+   {
+      "name": "Soldato-Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.26528000",
+      "longitude": "43.75611000"
+   },
+   {
+      "name": "Solomenskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.21667000",
+      "longitude": "44.35278000"
+   },
+   {
+      "name": "Soluno-Dmitriyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.40740000",
+      "longitude": "42.72400000"
+   },
+   {
+      "name": "Sotnikovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.00389000",
+      "longitude": "43.77722000"
+   },
+   {
+      "name": "Sovetskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.02667000",
+      "longitude": "44.05000000"
+   },
+   {
+      "name": "Spitsevka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.12306000",
+      "longitude": "42.51250000"
+   },
+   {
+      "name": "Starodubskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.56306000",
+      "longitude": "44.01528000"
+   },
+   {
+      "name": "Staropavlovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.84889000",
+      "longitude": "43.63278000"
+   },
+   {
+      "name": "Stavropol’",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.04280000",
+      "longitude": "41.97340000"
+   },
+   {
+      "name": "Stepnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.27083000",
+      "longitude": "44.58500000"
+   },
+   {
+      "name": "Sukhaya Buyvola",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.15333000",
+      "longitude": "42.99556000"
+   },
+   {
+      "name": "Suvorovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.19010000",
+      "longitude": "42.65950000"
+   },
+   {
+      "name": "Svetlograd",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.33528000",
+      "longitude": "42.85472000"
+   },
+   {
+      "name": "Svobody",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.02556000",
+      "longitude": "43.05028000"
+   },
+   {
+      "name": "Tatarka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.95889000",
+      "longitude": "41.95171000"
+   },
+   {
+      "name": "Temizhbekskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.45078000",
+      "longitude": "41.03866000"
+   },
+   {
+      "name": "Tishchenskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.46056000",
+      "longitude": "41.67382000"
+   },
+   {
+      "name": "Trunovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.48778000",
+      "longitude": "42.13583000"
+   },
+   {
+      "name": "Urozhaynoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.78833000",
+      "longitude": "44.92278000"
+   },
+   {
+      "name": "Vinsady",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.08083000",
+      "longitude": "42.96528000"
+   },
+   {
+      "name": "Vostochny",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.31494000",
+      "longitude": "44.19637000"
+   },
+   {
+      "name": "Vysotskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.02500000",
+      "longitude": "42.90639000"
+   },
+   {
+      "name": "Yasnaya Polyana",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.02250000",
+      "longitude": "42.75390000"
+   },
+   {
+      "name": "Yelizavetinskoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "45.00722000",
+      "longitude": "43.34944000"
+   },
+   {
+      "name": "Yessentuki",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.04444000",
+      "longitude": "42.86056000"
+   },
+   {
+      "name": "Yessentukskaya",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.03280000",
+      "longitude": "42.88130000"
+   },
+   {
+      "name": "Yutsa",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "43.95639000",
+      "longitude": "43.01278000"
+   },
+   {
+      "name": "Zaterechnyy",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.79306000",
+      "longitude": "45.20972000"
+   },
+   {
+      "name": "Zavetnoye",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.74920000",
+      "longitude": "41.59950000"
+   },
+   {
+      "name": "Zelenokumsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.40694000",
+      "longitude": "43.88056000"
+   },
+   {
+      "name": "Zheleznovodsk",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.13944000",
+      "longitude": "43.01972000"
+   },
+   {
+      "name": "Zmeyka",
+      "countryCode": "RU",
+      "stateCode": "STA",
+      "latitude": "44.14278000",
+      "longitude": "43.12083000"
+   }
+]

@@ -1,0 +1,772 @@
+[
+   {
+      "name": "Alanje",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.39791000",
+      "longitude": "-82.55947000"
+   },
+   {
+      "name": "Algarrobos Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51550000",
+      "longitude": "-82.42263000"
+   },
+   {
+      "name": "Alto Boquete",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.73458000",
+      "longitude": "-82.43213000"
+   },
+   {
+      "name": "Aserrío de Gariché",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.48257000",
+      "longitude": "-82.79086000"
+   },
+   {
+      "name": "Bajo Boquete",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.77058000",
+      "longitude": "-82.43306000"
+   },
+   {
+      "name": "Barrio Guadalupe",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.86482000",
+      "longitude": "-82.56523000"
+   },
+   {
+      "name": "Bijagual",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51486000",
+      "longitude": "-82.33361000"
+   },
+   {
+      "name": "Boca Chica",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.21911000",
+      "longitude": "-82.21592000"
+   },
+   {
+      "name": "Boca del Monte",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.35296000",
+      "longitude": "-82.11379000"
+   },
+   {
+      "name": "Boquerón",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.50510000",
+      "longitude": "-82.57025000"
+   },
+   {
+      "name": "Boquete",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.78024000",
+      "longitude": "-82.44136000"
+   },
+   {
+      "name": "Breñón",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.62491000",
+      "longitude": "-82.81277000"
+   },
+   {
+      "name": "Bugaba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.48255000",
+      "longitude": "-82.61991000"
+   },
+   {
+      "name": "Bugabita Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.52143000",
+      "longitude": "-82.63638000"
+   },
+   {
+      "name": "Bágala",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.46399000",
+      "longitude": "-82.52617000"
+   },
+   {
+      "name": "Caimito",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.54162000",
+      "longitude": "-82.41900000"
+   },
+   {
+      "name": "Caldera",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.64907000",
+      "longitude": "-82.38058000"
+   },
+   {
+      "name": "Cañas Gordas",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.74309000",
+      "longitude": "-82.91275000"
+   },
+   {
+      "name": "Celmira",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.54026000",
+      "longitude": "-82.80022000"
+   },
+   {
+      "name": "Cerro Punta",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.84968000",
+      "longitude": "-82.57261000"
+   },
+   {
+      "name": "Cerro Viejo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.25349000",
+      "longitude": "-81.57658000"
+   },
+   {
+      "name": "Chiriquí",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.39291000",
+      "longitude": "-82.31993000"
+   },
+   {
+      "name": "Cochea Abajo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.50512000",
+      "longitude": "-82.35878000"
+   },
+   {
+      "name": "Cordillera",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.70683000",
+      "longitude": "-82.60327000"
+   },
+   {
+      "name": "David",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.42729000",
+      "longitude": "-82.43085000"
+   },
+   {
+      "name": "Distrito de Alanje",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.39842000",
+      "longitude": "-82.64065000"
+   },
+   {
+      "name": "Distrito de Barú",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.29482000",
+      "longitude": "-82.92726000"
+   },
+   {
+      "name": "Distrito de Boquerón",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.61667000",
+      "longitude": "-82.56667000"
+   },
+   {
+      "name": "Distrito de Boquete",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.74896000",
+      "longitude": "-82.36842000"
+   },
+   {
+      "name": "Distrito de Bugaba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.68786000",
+      "longitude": "-82.67937000"
+   },
+   {
+      "name": "Distrito de David",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.40000000",
+      "longitude": "-82.40000000"
+   },
+   {
+      "name": "Distrito de Dolega",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.61667000",
+      "longitude": "-82.45000000"
+   },
+   {
+      "name": "Distrito de Gualaca",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.57398000",
+      "longitude": "-82.22207000"
+   },
+   {
+      "name": "Distrito de Remedios",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.20253000",
+      "longitude": "-81.81163000"
+   },
+   {
+      "name": "Distrito de Renacimiento",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.71667000",
+      "longitude": "-82.76667000"
+   },
+   {
+      "name": "Distrito de San Félix",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.27768000",
+      "longitude": "-81.87377000"
+   },
+   {
+      "name": "Distrito de San Lorenzo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.29366000",
+      "longitude": "-82.08922000"
+   },
+   {
+      "name": "Distrito de Tolé",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.19015000",
+      "longitude": "-81.66007000"
+   },
+   {
+      "name": "Divalá",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.41066000",
+      "longitude": "-82.71332000"
+   },
+   {
+      "name": "Dolega District",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.56667000",
+      "longitude": "-82.41407000"
+   },
+   {
+      "name": "El Nancito",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.23811000",
+      "longitude": "-81.73218000"
+   },
+   {
+      "name": "El Palmar",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.30098000",
+      "longitude": "-82.85344000"
+   },
+   {
+      "name": "El Porvenir",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.22919000",
+      "longitude": "-81.83278000"
+   },
+   {
+      "name": "El Tejar",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.42973000",
+      "longitude": "-82.57294000"
+   },
+   {
+      "name": "Finca Blanco",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.37979000",
+      "longitude": "-82.87385000"
+   },
+   {
+      "name": "Guabal",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.57466000",
+      "longitude": "-82.53730000"
+   },
+   {
+      "name": "Guaca Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.53733000",
+      "longitude": "-82.49281000"
+   },
+   {
+      "name": "Gualaca",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.53006000",
+      "longitude": "-82.29959000"
+   },
+   {
+      "name": "Guarumal",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.34523000",
+      "longitude": "-82.53205000"
+   },
+   {
+      "name": "Guayabal",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.62193000",
+      "longitude": "-82.57935000"
+   },
+   {
+      "name": "Gómez",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.56085000",
+      "longitude": "-82.74142000"
+   },
+   {
+      "name": "Horconcitos",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.31142000",
+      "longitude": "-82.15102000"
+   },
+   {
+      "name": "La Concepción",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51212000",
+      "longitude": "-82.61858000"
+   },
+   {
+      "name": "La Esperanza",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.40344000",
+      "longitude": "-82.79197000"
+   },
+   {
+      "name": "La Estrella",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51572000",
+      "longitude": "-82.67212000"
+   },
+   {
+      "name": "Lajas Adentro",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.24981000",
+      "longitude": "-81.87779000"
+   },
+   {
+      "name": "Lajas de Tolé",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.16994000",
+      "longitude": "-81.69654000"
+   },
+   {
+      "name": "Las Lajas",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.24184000",
+      "longitude": "-81.86931000"
+   },
+   {
+      "name": "Las Lomas",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.42927000",
+      "longitude": "-82.38743000"
+   },
+   {
+      "name": "Limones",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.10007000",
+      "longitude": "-82.86679000"
+   },
+   {
+      "name": "Los Algarrobos",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.49601000",
+      "longitude": "-82.42417000"
+   },
+   {
+      "name": "Los Anastacios",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.53027000",
+      "longitude": "-82.42295000"
+   },
+   {
+      "name": "Los Naranjos",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.79210000",
+      "longitude": "-82.44665000"
+   },
+   {
+      "name": "Los Ángeles",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.52271000",
+      "longitude": "-82.19997000"
+   },
+   {
+      "name": "Manaca Civil",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.32458000",
+      "longitude": "-82.81570000"
+   },
+   {
+      "name": "Manaca Norte",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.33419000",
+      "longitude": "-82.81003000"
+   },
+   {
+      "name": "Mata del Nance",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.45056000",
+      "longitude": "-82.40057000"
+   },
+   {
+      "name": "Monte Lirio",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.78935000",
+      "longitude": "-82.82865000"
+   },
+   {
+      "name": "Nuevo San Carlitos",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.45698000",
+      "longitude": "-82.43712000"
+   },
+   {
+      "name": "Paja de Sombrero",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.68335000",
+      "longitude": "-82.31911000"
+   },
+   {
+      "name": "Palmira",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.73401000",
+      "longitude": "-82.45887000"
+   },
+   {
+      "name": "Palmira Centro",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.73956000",
+      "longitude": "-82.45228000"
+   },
+   {
+      "name": "Paraíso",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.65842000",
+      "longitude": "-82.58625000"
+   },
+   {
+      "name": "Paso Canoas Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.56516000",
+      "longitude": "-82.82214000"
+   },
+   {
+      "name": "Pedregal",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.36586000",
+      "longitude": "-82.43524000"
+   },
+   {
+      "name": "Plaza de Caisán",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.73672000",
+      "longitude": "-82.81968000"
+   },
+   {
+      "name": "Potrerillos Abajo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.63978000",
+      "longitude": "-82.48560000"
+   },
+   {
+      "name": "Potrerillos Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.68547000",
+      "longitude": "-82.49090000"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.44669000",
+      "longitude": "-82.83859000"
+   },
+   {
+      "name": "Pueblo Viejo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.25081000",
+      "longitude": "-81.66259000"
+   },
+   {
+      "name": "Puerto Armuelles",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.27775000",
+      "longitude": "-82.86206000"
+   },
+   {
+      "name": "Punta de Burica",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.03333000",
+      "longitude": "-82.86667000"
+   },
+   {
+      "name": "Quebrada de Piedra",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.09418000",
+      "longitude": "-81.67915000"
+   },
+   {
+      "name": "Querévalo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.37174000",
+      "longitude": "-82.52670000"
+   },
+   {
+      "name": "Quinteño",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.47102000",
+      "longitude": "-82.39352000"
+   },
+   {
+      "name": "Remedios",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.22436000",
+      "longitude": "-81.82747000"
+   },
+   {
+      "name": "Rincón",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.46374000",
+      "longitude": "-82.27951000"
+   },
+   {
+      "name": "Rovira Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.63822000",
+      "longitude": "-82.49965000"
+   },
+   {
+      "name": "Río Sereno",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.81741000",
+      "longitude": "-82.85731000"
+   },
+   {
+      "name": "San Andrés",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.60260000",
+      "longitude": "-82.72588000"
+   },
+   {
+      "name": "San Carlos",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51663000",
+      "longitude": "-82.50906000"
+   },
+   {
+      "name": "San Félix",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.29063000",
+      "longitude": "-81.86702000"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.53032000",
+      "longitude": "-82.82720000"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.30561000",
+      "longitude": "-82.10114000"
+   },
+   {
+      "name": "San Pablo Nuevo Abajo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.42558000",
+      "longitude": "-82.50173000"
+   },
+   {
+      "name": "San Pablo Viejo Abajo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.45339000",
+      "longitude": "-82.50179000"
+   },
+   {
+      "name": "Santa Clara",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.83376000",
+      "longitude": "-82.77945000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.23219000",
+      "longitude": "-81.91323000"
+   },
+   {
+      "name": "Santa Marta",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.51406000",
+      "longitude": "-82.69870000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.59958000",
+      "longitude": "-82.68489000"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.50803000",
+      "longitude": "-82.71295000"
+   },
+   {
+      "name": "Santo Tomás",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.38959000",
+      "longitude": "-82.65058000"
+   },
+   {
+      "name": "Sioguí Abajo",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.48678000",
+      "longitude": "-82.66539000"
+   },
+   {
+      "name": "Sioguí Arriba",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.53865000",
+      "longitude": "-82.68619000"
+   },
+   {
+      "name": "Sortova",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.54642000",
+      "longitude": "-82.65170000"
+   },
+   {
+      "name": "Tijeras",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.47514000",
+      "longitude": "-82.56058000"
+   },
+   {
+      "name": "Tinajas",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.55281000",
+      "longitude": "-82.45963000"
+   },
+   {
+      "name": "Tolé",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.23989000",
+      "longitude": "-81.67168000"
+   },
+   {
+      "name": "Veladero",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.23136000",
+      "longitude": "-81.65417000"
+   },
+   {
+      "name": "Volcán",
+      "countryCode": "PA",
+      "stateCode": "4",
+      "latitude": "8.77291000",
+      "longitude": "-82.63823000"
+   }
+]

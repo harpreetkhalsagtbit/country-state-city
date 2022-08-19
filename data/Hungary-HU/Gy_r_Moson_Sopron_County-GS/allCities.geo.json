@@ -1,0 +1,296 @@
+[
+   {
+      "name": "Abda",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.69464000",
+      "longitude": "17.54489000"
+   },
+   {
+      "name": "Bakonyszentlászló",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.38901000",
+      "longitude": "17.80321000"
+   },
+   {
+      "name": "Beled",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.46594000",
+      "longitude": "17.09294000"
+   },
+   {
+      "name": "Bőny",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.65000000",
+      "longitude": "17.86977000"
+   },
+   {
+      "name": "Bősárkány",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.68821000",
+      "longitude": "17.25000000"
+   },
+   {
+      "name": "Csorna",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.61155000",
+      "longitude": "17.25012000"
+   },
+   {
+      "name": "Csornai Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.58403000",
+      "longitude": "17.26041000"
+   },
+   {
+      "name": "Farád",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.60633000",
+      "longitude": "17.20024000"
+   },
+   {
+      "name": "Fertőd",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.62173000",
+      "longitude": "16.87088000"
+   },
+   {
+      "name": "Fertőrákos",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.72017000",
+      "longitude": "16.65040000"
+   },
+   {
+      "name": "Fertőszentmiklós",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.58996000",
+      "longitude": "16.87517000"
+   },
+   {
+      "name": "Győr",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.68333000",
+      "longitude": "17.63512000"
+   },
+   {
+      "name": "Győri Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.67273000",
+      "longitude": "17.67936000"
+   },
+   {
+      "name": "Győrszemere",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.55256000",
+      "longitude": "17.56356000"
+   },
+   {
+      "name": "Győrújbarát",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.60643000",
+      "longitude": "17.64875000"
+   },
+   {
+      "name": "Halászi",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.88930000",
+      "longitude": "17.32615000"
+   },
+   {
+      "name": "Jánossomorja",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.78621000",
+      "longitude": "17.13603000"
+   },
+   {
+      "name": "Kapuvár",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.59224000",
+      "longitude": "17.02886000"
+   },
+   {
+      "name": "Kapuvári Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.56705000",
+      "longitude": "17.04056000"
+   },
+   {
+      "name": "Kimle",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.81726000",
+      "longitude": "17.36642000"
+   },
+   {
+      "name": "Kóny",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.63053000",
+      "longitude": "17.35717000"
+   },
+   {
+      "name": "Lébény",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.73574000",
+      "longitude": "17.39076000"
+   },
+   {
+      "name": "Mihályi",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.51384000",
+      "longitude": "17.09507000"
+   },
+   {
+      "name": "Mosonmagyaróvár",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.86789000",
+      "longitude": "17.26994000"
+   },
+   {
+      "name": "Mosonmagyaróvári Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.85767000",
+      "longitude": "17.28212000"
+   },
+   {
+      "name": "Mosonszentmiklós",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.72778000",
+      "longitude": "17.42784000"
+   },
+   {
+      "name": "Nagycenk",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.60435000",
+      "longitude": "16.69732000"
+   },
+   {
+      "name": "Nyúl",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.59047000",
+      "longitude": "17.68904000"
+   },
+   {
+      "name": "Pannonhalma",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.54946000",
+      "longitude": "17.75535000"
+   },
+   {
+      "name": "Pannonhalmi Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.45571000",
+      "longitude": "17.81335000"
+   },
+   {
+      "name": "Pér",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.61153000",
+      "longitude": "17.80632000"
+   },
+   {
+      "name": "Rajka",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.99643000",
+      "longitude": "17.19821000"
+   },
+   {
+      "name": "Rábapatona",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.63224000",
+      "longitude": "17.48004000"
+   },
+   {
+      "name": "Sopron",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.68501000",
+      "longitude": "16.59049000"
+   },
+   {
+      "name": "Soproni Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.60385000",
+      "longitude": "16.75654000"
+   },
+   {
+      "name": "Szany",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.46423000",
+      "longitude": "17.30402000"
+   },
+   {
+      "name": "Tét",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.51922000",
+      "longitude": "17.50802000"
+   },
+   {
+      "name": "Téti Járás",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.51515000",
+      "longitude": "17.51612000"
+   },
+   {
+      "name": "Töltéstava",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.62609000",
+      "longitude": "17.73376000"
+   },
+   {
+      "name": "Ágfalva",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.68991000",
+      "longitude": "16.51658000"
+   },
+   {
+      "name": "Ásványráró",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.82733000",
+      "longitude": "17.49418000"
+   },
+   {
+      "name": "Öttevény",
+      "countryCode": "HU",
+      "stateCode": "GS",
+      "latitude": "47.71946000",
+      "longitude": "17.48474000"
+   }
+]

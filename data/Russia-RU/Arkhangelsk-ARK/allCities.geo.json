@@ -1,0 +1,499 @@
+[
+   {
+      "name": "Arkhangel’sk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.54010000",
+      "longitude": "40.54330000"
+   },
+   {
+      "name": "Berëznik",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.85200000",
+      "longitude": "42.70710000"
+   },
+   {
+      "name": "Cheremushskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.27306000",
+      "longitude": "47.26361000"
+   },
+   {
+      "name": "Dvinskoy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.15190000",
+      "longitude": "45.11840000"
+   },
+   {
+      "name": "Ileza",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.05328000",
+      "longitude": "43.90021000"
+   },
+   {
+      "name": "Il’insko-Podomskoye",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.11444000",
+      "longitude": "47.97861000"
+   },
+   {
+      "name": "Isakogorka",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.44600000",
+      "longitude": "40.65310000"
+   },
+   {
+      "name": "Kamenka",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "65.88350000",
+      "longitude": "44.12720000"
+   },
+   {
+      "name": "Kargopol’",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.50359000",
+      "longitude": "38.94860000"
+   },
+   {
+      "name": "Kargopol’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.33333000",
+      "longitude": "39.00000000"
+   },
+   {
+      "name": "Karpogory",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.00189000",
+      "longitude": "44.44513000"
+   },
+   {
+      "name": "Katunino",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.38620000",
+      "longitude": "40.62980000"
+   },
+   {
+      "name": "Kharitonovo",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.40092000",
+      "longitude": "47.49779000"
+   },
+   {
+      "name": "Kholmogorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.08333000",
+      "longitude": "41.66667000"
+   },
+   {
+      "name": "Kholmogory",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.22290000",
+      "longitude": "41.65600000"
+   },
+   {
+      "name": "Kizema",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.11304000",
+      "longitude": "44.83017000"
+   },
+   {
+      "name": "Kodino",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.71976000",
+      "longitude": "39.64465000"
+   },
+   {
+      "name": "Konosha",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "60.97360000",
+      "longitude": "40.25700000"
+   },
+   {
+      "name": "Konëvo",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.11745000",
+      "longitude": "39.33131000"
+   },
+   {
+      "name": "Koryazhma",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.31433000",
+      "longitude": "47.16914000"
+   },
+   {
+      "name": "Kotlas",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.25745000",
+      "longitude": "46.64963000"
+   },
+   {
+      "name": "Kotlasskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.16667000",
+      "longitude": "46.33333000"
+   },
+   {
+      "name": "Krasnoborsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.55978000",
+      "longitude": "45.93396000"
+   },
+   {
+      "name": "Kuloy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.03049000",
+      "longitude": "42.49252000"
+   },
+   {
+      "name": "Lenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.00000000",
+      "longitude": "48.66667000"
+   },
+   {
+      "name": "Leshukonskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "65.00000000",
+      "longitude": "47.00000000"
+   },
+   {
+      "name": "Leshukonskoye",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.89770000",
+      "longitude": "45.76550000"
+   },
+   {
+      "name": "Loyga",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.07845000",
+      "longitude": "44.60750000"
+   },
+   {
+      "name": "Lukovetskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.29560000",
+      "longitude": "41.92110000"
+   },
+   {
+      "name": "Mezenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "65.75000000",
+      "longitude": "44.00000000"
+   },
+   {
+      "name": "Mezen’",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "65.84010000",
+      "longitude": "44.25420000"
+   },
+   {
+      "name": "Mirnyy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.33289000",
+      "longitude": "44.53598000"
+   },
+   {
+      "name": "Novodvinsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.41650000",
+      "longitude": "40.81220000"
+   },
+   {
+      "name": "Nyandoma",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.66560000",
+      "longitude": "40.20130000"
+   },
+   {
+      "name": "Nyandomskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.00000000",
+      "longitude": "40.66667000"
+   },
+   {
+      "name": "Oksovskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.60623000",
+      "longitude": "39.89845000"
+   },
+   {
+      "name": "Onega",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.90692000",
+      "longitude": "38.11112000"
+   },
+   {
+      "name": "Onezhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.33333000",
+      "longitude": "38.00000000"
+   },
+   {
+      "name": "Pinega",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.69969000",
+      "longitude": "43.39016000"
+   },
+   {
+      "name": "Pinezhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.66667000",
+      "longitude": "43.00000000"
+   },
+   {
+      "name": "Plesetsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.70804000",
+      "longitude": "40.29159000"
+   },
+   {
+      "name": "Podyuga",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.09500000",
+      "longitude": "40.86472000"
+   },
+   {
+      "name": "Primorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "65.00000000",
+      "longitude": "41.00000000"
+   },
+   {
+      "name": "Privodino",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.07599000",
+      "longitude": "46.50238000"
+   },
+   {
+      "name": "Puksoozero",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.59030000",
+      "longitude": "40.60660000"
+   },
+   {
+      "name": "Rochegda",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.66780000",
+      "longitude": "43.41330000"
+   },
+   {
+      "name": "Samoded",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.60830000",
+      "longitude": "40.51110000"
+   },
+   {
+      "name": "Severodvinsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.56350000",
+      "longitude": "39.83020000"
+   },
+   {
+      "name": "Shalakusha",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.22472000",
+      "longitude": "40.25389000"
+   },
+   {
+      "name": "Shangaly",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.12842000",
+      "longitude": "43.33427000"
+   },
+   {
+      "name": "Shenkursk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.10910000",
+      "longitude": "42.89595000"
+   },
+   {
+      "name": "Shenkurskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.25000000",
+      "longitude": "42.41667000"
+   },
+   {
+      "name": "Shipitsyno",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.28056000",
+      "longitude": "46.52083000"
+   },
+   {
+      "name": "Solginskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.05000000",
+      "longitude": "41.34278000"
+   },
+   {
+      "name": "Sol’vychegodsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.33046000",
+      "longitude": "46.91559000"
+   },
+   {
+      "name": "Udimskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.14171000",
+      "longitude": "45.91443000"
+   },
+   {
+      "name": "Urdoma",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.75335000",
+      "longitude": "48.54420000"
+   },
+   {
+      "name": "Ust’-Shonosha",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.15310000",
+      "longitude": "41.34300000"
+   },
+   {
+      "name": "Ust’yanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.33333000",
+      "longitude": "43.66667000"
+   },
+   {
+      "name": "Uyemskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.47430000",
+      "longitude": "40.85240000"
+   },
+   {
+      "name": "Vas’kovo",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.41220000",
+      "longitude": "40.46390000"
+   },
+   {
+      "name": "Vel’sk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.07006000",
+      "longitude": "42.09830000"
+   },
+   {
+      "name": "Vel’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.00000000",
+      "longitude": "42.00000000"
+   },
+   {
+      "name": "Verkhnyaya Toyma",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.23470000",
+      "longitude": "45.00090000"
+   },
+   {
+      "name": "Voloshka",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.33139000",
+      "longitude": "40.08583000"
+   },
+   {
+      "name": "Vychegodskiy",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "61.24702000",
+      "longitude": "46.89842000"
+   },
+   {
+      "name": "Yagry",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "64.59417000",
+      "longitude": "39.81028000"
+   },
+   {
+      "name": "Yarensk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "62.16755000",
+      "longitude": "49.09162000"
+   },
+   {
+      "name": "Yemetsk",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.47191000",
+      "longitude": "41.78023000"
+   },
+   {
+      "name": "Yemtsa",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "63.07337000",
+      "longitude": "40.33285000"
+   },
+   {
+      "name": "Yertsevo",
+      "countryCode": "RU",
+      "stateCode": "ARK",
+      "latitude": "60.79660000",
+      "longitude": "40.08600000"
+   }
+]

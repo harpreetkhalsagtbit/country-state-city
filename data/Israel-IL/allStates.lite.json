@@ -1,0 +1,32 @@
+[
+   {
+      "name": "Northern District",
+      "isoCode": "Z",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Central District",
+      "isoCode": "M",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Southern District",
+      "isoCode": "D",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Haifa District",
+      "isoCode": "HA",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Jerusalem District",
+      "isoCode": "JM",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Tel Aviv District",
+      "isoCode": "TA",
+      "countryCode": "IL"
+   }
+]

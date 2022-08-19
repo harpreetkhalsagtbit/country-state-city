@@ -1,0 +1,625 @@
+[
+   {
+      "name": "Afanas’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.83333000",
+      "longitude": "53.25000000"
+   },
+   {
+      "name": "Arbazh",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.68041000",
+      "longitude": "48.30647000"
+   },
+   {
+      "name": "Arkul’",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.28085000",
+      "longitude": "50.04400000"
+   },
+   {
+      "name": "Belaya Kholunitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.84000000",
+      "longitude": "50.85278000"
+   },
+   {
+      "name": "Belorechensk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.77251000",
+      "longitude": "52.29357000"
+   },
+   {
+      "name": "Bogorodskoye",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.82849000",
+      "longitude": "50.74856000"
+   },
+   {
+      "name": "Chërnaya Kholunitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.85115000",
+      "longitude": "51.71545000"
+   },
+   {
+      "name": "Darovskoy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.76999000",
+      "longitude": "47.95642000"
+   },
+   {
+      "name": "Dem’yanovo",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.35111000",
+      "longitude": "47.08417000"
+   },
+   {
+      "name": "Dubrovka",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.22866000",
+      "longitude": "51.15578000"
+   },
+   {
+      "name": "Falënki",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.36127000",
+      "longitude": "51.59461000"
+   },
+   {
+      "name": "Falënskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.33333000",
+      "longitude": "51.58333000"
+   },
+   {
+      "name": "Kiknur",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.30341000",
+      "longitude": "47.20105000"
+   },
+   {
+      "name": "Kiknurskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.33333000",
+      "longitude": "47.16667000"
+   },
+   {
+      "name": "Kil’mez’",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.94389000",
+      "longitude": "51.06500000"
+   },
+   {
+      "name": "Kirov",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.59665000",
+      "longitude": "49.66007000"
+   },
+   {
+      "name": "Kirovo-Chepetsk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.55386000",
+      "longitude": "50.03986000"
+   },
+   {
+      "name": "Kirovo-Chepetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.50000000",
+      "longitude": "50.00000000"
+   },
+   {
+      "name": "Kirs",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.33882000",
+      "longitude": "52.24467000"
+   },
+   {
+      "name": "Kosino",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.41272000",
+      "longitude": "51.27819000"
+   },
+   {
+      "name": "Kostino",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.90966000",
+      "longitude": "53.26907000"
+   },
+   {
+      "name": "Kotel’nich",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.30890000",
+      "longitude": "48.34800000"
+   },
+   {
+      "name": "Krasnaya Polyana",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.24204000",
+      "longitude": "51.14425000"
+   },
+   {
+      "name": "Kumëny",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.10887000",
+      "longitude": "49.91614000"
+   },
+   {
+      "name": "Lal’sk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.74146000",
+      "longitude": "47.58617000"
+   },
+   {
+      "name": "Leninskoye",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.31637000",
+      "longitude": "47.08856000"
+   },
+   {
+      "name": "Lesnoy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.78100000",
+      "longitude": "52.12838000"
+   },
+   {
+      "name": "Lesnyye Polyany",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.00314000",
+      "longitude": "52.41802000"
+   },
+   {
+      "name": "Luza",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.63081000",
+      "longitude": "47.25118000"
+   },
+   {
+      "name": "Luzskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.58333000",
+      "longitude": "47.25000000"
+   },
+   {
+      "name": "Lyangasovo",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.51759000",
+      "longitude": "49.44718000"
+   },
+   {
+      "name": "Malmyzh",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.52050000",
+      "longitude": "50.68180000"
+   },
+   {
+      "name": "Malmyzhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.58333000",
+      "longitude": "50.91667000"
+   },
+   {
+      "name": "Maromitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.86828000",
+      "longitude": "48.01227000"
+   },
+   {
+      "name": "Medvedok",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.38913000",
+      "longitude": "50.03510000"
+   },
+   {
+      "name": "Mirnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.49333000",
+      "longitude": "47.65389000"
+   },
+   {
+      "name": "Murashi",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.39990000",
+      "longitude": "48.96150000"
+   },
+   {
+      "name": "Murashinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.33333000",
+      "longitude": "48.75000000"
+   },
+   {
+      "name": "Murygino",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.73831000",
+      "longitude": "49.45822000"
+   },
+   {
+      "name": "Nagorsk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.31722000",
+      "longitude": "50.80778000"
+   },
+   {
+      "name": "Nagorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.50000000",
+      "longitude": "50.83333000"
+   },
+   {
+      "name": "Nema",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.50675000",
+      "longitude": "50.50115000"
+   },
+   {
+      "name": "Nemskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.50000000",
+      "longitude": "50.66667000"
+   },
+   {
+      "name": "Nizhneivkino",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.19398000",
+      "longitude": "49.52137000"
+   },
+   {
+      "name": "Nolinsk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.55962000",
+      "longitude": "49.93629000"
+   },
+   {
+      "name": "Nolinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.58333000",
+      "longitude": "49.91667000"
+   },
+   {
+      "name": "Omutninsk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.67001000",
+      "longitude": "52.19320000"
+   },
+   {
+      "name": "Oparino",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.85179000",
+      "longitude": "48.27826000"
+   },
+   {
+      "name": "Orichevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.25000000",
+      "longitude": "48.75000000"
+   },
+   {
+      "name": "Orichi",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.40356000",
+      "longitude": "49.05719000"
+   },
+   {
+      "name": "Orlov",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.53946000",
+      "longitude": "48.89173000"
+   },
+   {
+      "name": "Orlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.66306000",
+      "longitude": "48.74222000"
+   },
+   {
+      "name": "Pasegovo",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.50602000",
+      "longitude": "49.51383000"
+   },
+   {
+      "name": "Peskovka",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.04478000",
+      "longitude": "52.36057000"
+   },
+   {
+      "name": "Pinyug",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.25095000",
+      "longitude": "47.78425000"
+   },
+   {
+      "name": "Pizhanka",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.46042000",
+      "longitude": "48.54200000"
+   },
+   {
+      "name": "Pizhanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.41667000",
+      "longitude": "48.50000000"
+   },
+   {
+      "name": "Podosinovets",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.27758000",
+      "longitude": "47.06587000"
+   },
+   {
+      "name": "Podosinovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "60.16667000",
+      "longitude": "47.33333000"
+   },
+   {
+      "name": "Raduzhnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.49899000",
+      "longitude": "49.64347000"
+   },
+   {
+      "name": "Rudnichnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.61702000",
+      "longitude": "52.47033000"
+   },
+   {
+      "name": "Sanchursk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.94125000",
+      "longitude": "47.24987000"
+   },
+   {
+      "name": "Sanchurskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.00000000",
+      "longitude": "47.33333000"
+   },
+   {
+      "name": "Shabalinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.33333000",
+      "longitude": "46.91667000"
+   },
+   {
+      "name": "Slobodskoy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.73222000",
+      "longitude": "50.17722000"
+   },
+   {
+      "name": "Slobodskoy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.75000000",
+      "longitude": "50.25000000"
+   },
+   {
+      "name": "Sosnovka",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.25496000",
+      "longitude": "51.28419000"
+   },
+   {
+      "name": "Sovetsk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.58475000",
+      "longitude": "48.95844000"
+   },
+   {
+      "name": "Sovetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.58333000",
+      "longitude": "49.00000000"
+   },
+   {
+      "name": "Sozimskiy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.74178000",
+      "longitude": "52.24821000"
+   },
+   {
+      "name": "Strizhi",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.45758000",
+      "longitude": "49.28667000"
+   },
+   {
+      "name": "Stulovo",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.72250000",
+      "longitude": "50.14389000"
+   },
+   {
+      "name": "Suna",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.83379000",
+      "longitude": "50.05884000"
+   },
+   {
+      "name": "Sunskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.83333000",
+      "longitude": "50.00000000"
+   },
+   {
+      "name": "Svecha",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.27849000",
+      "longitude": "47.51636000"
+   },
+   {
+      "name": "Svetlopolyansk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.41836000",
+      "longitude": "52.36045000"
+   },
+   {
+      "name": "Torfyanoy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.49160000",
+      "longitude": "49.19786000"
+   },
+   {
+      "name": "Tuzha",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.60615000",
+      "longitude": "47.93597000"
+   },
+   {
+      "name": "Uni",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.75100000",
+      "longitude": "51.49130000"
+   },
+   {
+      "name": "Uninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.66667000",
+      "longitude": "51.50000000"
+   },
+   {
+      "name": "Urzhum",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.11412000",
+      "longitude": "49.99956000"
+   },
+   {
+      "name": "Vakhrushi",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.68472000",
+      "longitude": "50.02611000"
+   },
+   {
+      "name": "Verkhoshizhem’ye",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.01097000",
+      "longitude": "49.10384000"
+   },
+   {
+      "name": "Vostochnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.78811000",
+      "longitude": "52.24513000"
+   },
+   {
+      "name": "Vyatskiye Polyany",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "56.22602000",
+      "longitude": "51.06557000"
+   },
+   {
+      "name": "Yaransk",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.30331000",
+      "longitude": "47.88611000"
+   },
+   {
+      "name": "Yaranskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "57.16667000",
+      "longitude": "48.00000000"
+   },
+   {
+      "name": "Yur’yanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "59.00000000",
+      "longitude": "49.25000000"
+   },
+   {
+      "name": "Zuyevka",
+      "countryCode": "RU",
+      "stateCode": "KIR",
+      "latitude": "58.40503000",
+      "longitude": "51.13355000"
+   }
+]

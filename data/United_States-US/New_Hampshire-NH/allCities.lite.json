@@ -1,0 +1,932 @@
+[
+   {
+      "name": "Alexandria",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Alstead",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Andover",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Antrim",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Ashland",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Atkinson",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Auburn",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Barnstead",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Barrington",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Bedford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Belknap County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Belmont",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Berlin",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Boscawen",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Bow Bog",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Brentwood",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Bridgewater",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Bristol",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Brookline",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Candia",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Canterbury",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Carroll County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Center Harbor",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Charlestown",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Cheshire County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Chester",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Chesterfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Chichester",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Claremont",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Colebrook",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Concord",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Contoocook",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Conway",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Coos County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Danbury",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Danville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Deerfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Deering",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Derry",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Derry Village",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Dover",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Dublin",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Durham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "East Concord",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "East Kingston",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "East Merrimack",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Effingham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Enfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Epping",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Epsom",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Exeter",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Farmington",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Fitzwilliam",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Francestown",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Franklin",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Freedom",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Fremont",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Gilford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Gilmanton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Goffstown",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Gorham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Grafton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Grafton County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Grantham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Greenfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Greenland",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Greenville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Groveton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hampstead",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hampton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hampton Beach",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hampton Falls",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hanover",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Harrisville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Haverhill",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Henniker",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hill",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hillsborough",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hillsborough County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hinsdale",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Holderness",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hollis",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hooksett",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hopkinton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Hudson",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Jaffrey",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Jefferson",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Keene",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Kensington",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Kingston",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Laconia",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lancaster",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lebanon",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lee",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lempster",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Litchfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Littleton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Londonderry",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lyme",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Lyndeborough",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Madbury",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Madison",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Manchester",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Marlborough",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Mason",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Meredith",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Merrimack",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Merrimack County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Milan",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Milford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Mont Vernon",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Moultonborough",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Nashua",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "New Boston",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "New Castle",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "New Durham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "New Ipswich",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "New London",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Newbury",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Newmarket",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Newport",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Newton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "North Conway",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "North Hampton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Northfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Northumberland",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Northwood",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Nottingham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Orford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Ossipee",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Pelham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Pembroke",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Peterborough",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Pinardville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Pittsfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Plaistow",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Plymouth",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Portsmouth",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Raymond",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Richmond",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rindge",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rochester",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rockingham County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rollinsford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rumney",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Rye",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Salem",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Salisbury",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sanbornton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sanbornville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sandown",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sandwich",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Seabrook",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Somersworth",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "South Hooksett",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Springfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Strafford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Strafford County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Stratford",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Stratham Station",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sullivan County",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sunapee",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Suncook",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Sutton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Swanzey",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Tamworth",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Temple",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Thornton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Tilton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Tilton-Northfield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Troy",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Tuftonboro",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Unity",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Wakefield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Weare",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Webster",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "West Swanzey",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Westmoreland",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Whitefield",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Wilmot",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Wilton",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Winchester",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Windham",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Wolfeboro",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Woodstock",
+      "countryCode": "US",
+      "stateCode": "NH"
+   },
+   {
+      "name": "Woodsville",
+      "countryCode": "US",
+      "stateCode": "NH"
+   }
+]

@@ -1,0 +1,522 @@
+[
+   {
+      "name": "Baborów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Biała",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Bierawa",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Bierdzany",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Branice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Brzeg",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Byczyna",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Chmielowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Chrościna",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Chrząstowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Chróścice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Cisek",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Czarnowąsy",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Dalachów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Dobrodzień",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Dobrzeń Wielki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Domaszowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Dziergowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Dąbrowa",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Długomiłowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Gogolin",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Gorzów Śląski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Grodków",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Górażdże",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Głogówek",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Głubczyce",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Głuchołazy",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Izbicko",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Januszkowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Jemielnica",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kamienica",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kamiennik",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kietrz",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kluczbork",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kolonowskie",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Komprachcice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Korfantów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Koźle",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Krapkowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kup",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Kędzierzyn-Koźle",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Lewin Brzeski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Leśnica",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Lubrza",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Lubsza",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Moszczanka",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Murów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Nakło",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Namysłów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Niemodlin",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Nysa",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Olesno",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Olszanka",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Opole",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Otmuchów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Ozimek",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Paczków",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Pakosławice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Pawłowiczki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Pokój",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Polska Cerekiew",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Popielów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat brzeski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat głubczycki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat kluczborski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat krapkowicki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat kędzierzyńsko-kozielski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat namysłowski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat nyski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat oleski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat opolski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat prudnicki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Powiat strzelecki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Praszka",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Prudnik",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Prószków",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Racławice Śląskie",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Raszowa",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Reńska Wieś",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Rozwadza",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Sidzina",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Skarbimierz Osiedle",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Skorogoszcz",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Skoroszyce",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Strzelce Opolskie",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Strzeleczki",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Sławięcice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Tarnów Opolski",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Tułowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Twardawa",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Ujazd",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Walce",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Wilków",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Większyce",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Wołczyn",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Węgry",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Zawadzkie",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Zdzieszowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Zębowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Łambinowice",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Łosiów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Łubniany",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Łąka Prudnicka",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   },
+   {
+      "name": "Świerczów",
+      "countryCode": "PL",
+      "stateCode": "OP"
+   }
+]

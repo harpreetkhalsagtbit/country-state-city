@@ -1,0 +1,583 @@
+[
+   {
+      "name": "Abbeyfeale",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.38139000",
+      "longitude": "-9.30250000"
+   },
+   {
+      "name": "Adare",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.56194000",
+      "longitude": "-8.79556000"
+   },
+   {
+      "name": "Aghada",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.83917000",
+      "longitude": "-8.21222000"
+   },
+   {
+      "name": "An Clár",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.83333000",
+      "longitude": "-9.00000000"
+   },
+   {
+      "name": "Annacotty",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.66768000",
+      "longitude": "-8.53121000"
+   },
+   {
+      "name": "Ardnacrusha",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.70908000",
+      "longitude": "-8.61431000"
+   },
+   {
+      "name": "Askeaton",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.59972000",
+      "longitude": "-8.97556000"
+   },
+   {
+      "name": "Ballina",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.80778000",
+      "longitude": "-8.43556000"
+   },
+   {
+      "name": "Ballybunnion",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.51108000",
+      "longitude": "-9.67097000"
+   },
+   {
+      "name": "Bandon",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.74694000",
+      "longitude": "-8.74250000"
+   },
+   {
+      "name": "Bantry",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.68333000",
+      "longitude": "-9.45000000"
+   },
+   {
+      "name": "Blarney",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.93333000",
+      "longitude": "-8.56667000"
+   },
+   {
+      "name": "Caherconlish",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.59361000",
+      "longitude": "-8.47028000"
+   },
+   {
+      "name": "Cahersiveen",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.94861000",
+      "longitude": "-10.22222000"
+   },
+   {
+      "name": "Cahir",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.37694000",
+      "longitude": "-7.92167000"
+   },
+   {
+      "name": "Carrick-on-Suir",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.34917000",
+      "longitude": "-7.41306000"
+   },
+   {
+      "name": "Carrigaline",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.81167000",
+      "longitude": "-8.39861000"
+   },
+   {
+      "name": "Carrigtwohill",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.90833000",
+      "longitude": "-8.26333000"
+   },
+   {
+      "name": "Cashel",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.51583000",
+      "longitude": "-7.88556000"
+   },
+   {
+      "name": "Castleconnell",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.71389000",
+      "longitude": "-8.49944000"
+   },
+   {
+      "name": "Castleisland",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.23333000",
+      "longitude": "-9.46667000"
+   },
+   {
+      "name": "Castlemartyr",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.91028000",
+      "longitude": "-8.05389000"
+   },
+   {
+      "name": "Ciarraí",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.16667000",
+      "longitude": "-9.75000000"
+   },
+   {
+      "name": "Cill Airne",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.05980000",
+      "longitude": "-9.50858000"
+   },
+   {
+      "name": "Clonakilty",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.62306000",
+      "longitude": "-8.87056000"
+   },
+   {
+      "name": "Cloyne",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.86278000",
+      "longitude": "-8.12444000"
+   },
+   {
+      "name": "Cluain Meala",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.35500000",
+      "longitude": "-7.70389000"
+   },
+   {
+      "name": "Cobh",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.85046000",
+      "longitude": "-8.29480000"
+   },
+   {
+      "name": "Cork",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.89797000",
+      "longitude": "-8.47061000"
+   },
+   {
+      "name": "Cork City",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.89755000",
+      "longitude": "-8.46773000"
+   },
+   {
+      "name": "County Cork",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.96667000",
+      "longitude": "-8.58333000"
+   },
+   {
+      "name": "County Tipperary",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.66667000",
+      "longitude": "-7.83333000"
+   },
+   {
+      "name": "Croom",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.51944000",
+      "longitude": "-8.71778000"
+   },
+   {
+      "name": "Crosshaven",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.79833000",
+      "longitude": "-8.30083000"
+   },
+   {
+      "name": "Derry",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.58666000",
+      "longitude": "-9.05026000"
+   },
+   {
+      "name": "Dingle",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.14083000",
+      "longitude": "-10.26889000"
+   },
+   {
+      "name": "Dungarvan",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.08806000",
+      "longitude": "-7.62528000"
+   },
+   {
+      "name": "Dunmanway",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.71667000",
+      "longitude": "-9.11667000"
+   },
+   {
+      "name": "Dunmore East",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.15108000",
+      "longitude": "-6.99872000"
+   },
+   {
+      "name": "Ennis",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.84361000",
+      "longitude": "-8.98639000"
+   },
+   {
+      "name": "Fermoy",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.13583000",
+      "longitude": "-8.27583000"
+   },
+   {
+      "name": "Fethard",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.46722000",
+      "longitude": "-7.69111000"
+   },
+   {
+      "name": "Kanturk",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.16667000",
+      "longitude": "-8.90000000"
+   },
+   {
+      "name": "Kenmare",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.88333000",
+      "longitude": "-9.58333000"
+   },
+   {
+      "name": "Killaloe",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.80667000",
+      "longitude": "-8.44361000"
+   },
+   {
+      "name": "Killorglin",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.10000000",
+      "longitude": "-9.78333000"
+   },
+   {
+      "name": "Killumney",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.87243000",
+      "longitude": "-8.64781000"
+   },
+   {
+      "name": "Kilmallock",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.40000000",
+      "longitude": "-8.57722000"
+   },
+   {
+      "name": "Kilrush",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.63972000",
+      "longitude": "-9.48333000"
+   },
+   {
+      "name": "Kinsale",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.70750000",
+      "longitude": "-8.53056000"
+   },
+   {
+      "name": "Listowel",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.44639000",
+      "longitude": "-9.48500000"
+   },
+   {
+      "name": "Luimneach",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.66472000",
+      "longitude": "-8.62306000"
+   },
+   {
+      "name": "Macroom",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.90663000",
+      "longitude": "-8.96968000"
+   },
+   {
+      "name": "Mallow",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.13333000",
+      "longitude": "-8.63333000"
+   },
+   {
+      "name": "Midleton",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.91526000",
+      "longitude": "-8.18052000"
+   },
+   {
+      "name": "Millstreet",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.05935000",
+      "longitude": "-9.06031000"
+   },
+   {
+      "name": "Mitchelstown",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.26583000",
+      "longitude": "-8.26806000"
+   },
+   {
+      "name": "Moroe",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.65111000",
+      "longitude": "-8.39611000"
+   },
+   {
+      "name": "Moyross",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.68198000",
+      "longitude": "-8.63955000"
+   },
+   {
+      "name": "Nenagh",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.86194000",
+      "longitude": "-8.19667000"
+   },
+   {
+      "name": "Nenagh Bridge",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.88167000",
+      "longitude": "-8.19583000"
+   },
+   {
+      "name": "Newcastle West",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.44917000",
+      "longitude": "-9.06111000"
+   },
+   {
+      "name": "Newmarket on Fergus",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.76000000",
+      "longitude": "-8.89556000"
+   },
+   {
+      "name": "Newport",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.71111000",
+      "longitude": "-8.40972000"
+   },
+   {
+      "name": "Passage West",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.87389000",
+      "longitude": "-8.34444000"
+   },
+   {
+      "name": "Portlaw",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.28833000",
+      "longitude": "-7.32056000"
+   },
+   {
+      "name": "Rathcormac",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.07694000",
+      "longitude": "-8.28194000"
+   },
+   {
+      "name": "Rathkeale",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.52444000",
+      "longitude": "-8.93806000"
+   },
+   {
+      "name": "Roscrea",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.95111000",
+      "longitude": "-7.80167000"
+   },
+   {
+      "name": "Ráth Luirc",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.35000000",
+      "longitude": "-8.68333000"
+   },
+   {
+      "name": "Shannon",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.70389000",
+      "longitude": "-8.86417000"
+   },
+   {
+      "name": "Sixmilebridge",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.74139000",
+      "longitude": "-8.77417000"
+   },
+   {
+      "name": "Skibbereen",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.55000000",
+      "longitude": "-9.26667000"
+   },
+   {
+      "name": "Templemore",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.79472000",
+      "longitude": "-7.83389000"
+   },
+   {
+      "name": "Thurles",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.68194000",
+      "longitude": "-7.80222000"
+   },
+   {
+      "name": "Tipperary",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.47333000",
+      "longitude": "-8.15583000"
+   },
+   {
+      "name": "Tower",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.92599000",
+      "longitude": "-8.60747000"
+   },
+   {
+      "name": "Tralee",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.27042000",
+      "longitude": "-9.70264000"
+   },
+   {
+      "name": "Trá Mhór",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.16235000",
+      "longitude": "-7.15244000"
+   },
+   {
+      "name": "Waterford",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.25833000",
+      "longitude": "-7.11194000"
+   },
+   {
+      "name": "Watergrasshill",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "52.01139000",
+      "longitude": "-8.34417000"
+   },
+   {
+      "name": "Whitegate",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.83056000",
+      "longitude": "-8.22972000"
+   },
+   {
+      "name": "Youghal",
+      "countryCode": "IE",
+      "stateCode": "M",
+      "latitude": "51.95000000",
+      "longitude": "-7.85056000"
+   }
+]

@@ -1,0 +1,797 @@
+[
+   {
+      "name": "Agoncillo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Aguilar del Río Alhama",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ajamil",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Albelda de Iregua",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Alberite",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Alcanadre",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Aldeanueva de Ebro",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Alesanco",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Alesón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Alfaro",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Almarza de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Anguciana",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Anguiano",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Arenzana de Abajo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Arenzana de Arriba",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Arnedillo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Arnedo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Arrúbal",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ausejo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Autol",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Azofra",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Badarán",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Bañares",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Baños de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Baños de Río Tobía",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Berceo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Bergasa",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Bergasillas Bajera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Bobadilla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Brieva de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Briones",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Briñas",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cabezón de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Calahorra",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Canales de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Canillas de Río Tuerto",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Casalarreina",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Castañares de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cañas",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cellorigo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cenicero",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cervera del Río Alhama",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cidamón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cihuri",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cirueña",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Clavijo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cordovín",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Corera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cornago",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Corporales",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Cárdenas",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Enciso",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Entrena",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Estollo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ezcaray",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Foncea",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Fonzaleche",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Fuenmayor",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Galbárruli",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Galilea",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Gallinero de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Gimileo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Grañón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Grávalos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Haro",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Herce",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Herramélluri",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Hervías",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Hormilla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Hormilleja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Hornillos de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Hornos de Moncalvillo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Huércanos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Igea",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Jalón de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Laguna de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Lagunilla del Jubera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Lardero",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ledesma de la Cogolla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Leiva",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Leza de Río Leza",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Logroño",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Lumbreras",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Manjarrés",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Manzanares de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Matute",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Medrano",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Munilla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Murillo de Río Leza",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Muro de Aguas",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Muro en Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Nalda",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Navajún",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Nieva de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Nájera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ochánduri",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ocón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ojacastro",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ollauri",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Pazuengos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Pedroso",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Pinillos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Pradejón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Pradillo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Provincia de La Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Préjano",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Quel",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Rabanera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Rincón de Soto",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Robres del Castillo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Rodezno",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Sajazarra",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Asensio",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Millán de Yécora",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Millán de la Cogolla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Román de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Torcuato",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "San Vicente de la Sonsierra",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Santa Coloma",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Santa Eulalia Bajera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Santo Domingo de la Calzada",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Santurdejo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Sojuela",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Sorzano",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Soto en Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Terroba",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Tirgo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Tobía",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Tormantos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Torre en Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Torrecilla en Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Torrecilla sobre Alesanco",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Torremontalbo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Treviana",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Tricio",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Tudelilla",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Uruñuela",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Valdemadera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Valgañón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ventosa",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ventrosa",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Viguera",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villalba de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villalobar de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villamediana de Iregua",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villanueva de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villar de Torre",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villarejo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villarroya",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villarta-Quintana",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villavelayo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villaverde de Rioja",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Villoslada de Cameros",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Viniegra de Abajo",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Viniegra de Arriba",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Zarratón",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Zarzosa",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Zorraquín",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   },
+   {
+      "name": "Ábalos",
+      "countryCode": "ES",
+      "stateCode": "RI"
+   }
+]

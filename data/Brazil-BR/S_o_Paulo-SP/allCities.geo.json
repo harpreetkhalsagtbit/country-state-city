@@ -1,0 +1,4573 @@
+[
+   {
+      "name": "Adamantina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.59136000",
+      "longitude": "-51.06669000"
+   },
+   {
+      "name": "Adolfo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.28535000",
+      "longitude": "-49.65497000"
+   },
+   {
+      "name": "Aguaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.02590000",
+      "longitude": "-47.06702000"
+   },
+   {
+      "name": "Agudos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.58942000",
+      "longitude": "-49.16164000"
+   },
+   {
+      "name": "Alambari",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.53745000",
+      "longitude": "-47.86273000"
+   },
+   {
+      "name": "Alfredo Marcondes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.92954000",
+      "longitude": "-51.39519000"
+   },
+   {
+      "name": "Altair",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.53889000",
+      "longitude": "-49.10219000"
+   },
+   {
+      "name": "Altinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.00412000",
+      "longitude": "-47.39795000"
+   },
+   {
+      "name": "Alto Alegre",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.63149000",
+      "longitude": "-50.19601000"
+   },
+   {
+      "name": "Alumínio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.52259000",
+      "longitude": "-47.28373000"
+   },
+   {
+      "name": "Alvinlândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.45669000",
+      "longitude": "-49.76243000"
+   },
+   {
+      "name": "Americana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.71408000",
+      "longitude": "-47.29009000"
+   },
+   {
+      "name": "Amparo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.70111000",
+      "longitude": "-46.76444000"
+   },
+   {
+      "name": "Américo Brasiliense",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.71797000",
+      "longitude": "-48.01568000"
+   },
+   {
+      "name": "Américo de Campos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.27453000",
+      "longitude": "-49.75539000"
+   },
+   {
+      "name": "Analândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.12002000",
+      "longitude": "-47.68938000"
+   },
+   {
+      "name": "Andradina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.86545000",
+      "longitude": "-51.31567000"
+   },
+   {
+      "name": "Angatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.47450000",
+      "longitude": "-48.42565000"
+   },
+   {
+      "name": "Anhembi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.83293000",
+      "longitude": "-48.16384000"
+   },
+   {
+      "name": "Anhumas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.34571000",
+      "longitude": "-51.42761000"
+   },
+   {
+      "name": "Aparecida",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.90434000",
+      "longitude": "-45.23562000"
+   },
+   {
+      "name": "Aparecida d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.48414000",
+      "longitude": "-50.91883000"
+   },
+   {
+      "name": "Apiaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.39767000",
+      "longitude": "-48.82237000"
+   },
+   {
+      "name": "Aramina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.16724000",
+      "longitude": "-47.82645000"
+   },
+   {
+      "name": "Arandu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.17065000",
+      "longitude": "-49.05861000"
+   },
+   {
+      "name": "Arapeí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.66504000",
+      "longitude": "-44.43858000"
+   },
+   {
+      "name": "Araraquara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.79444000",
+      "longitude": "-48.17556000"
+   },
+   {
+      "name": "Araras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.35694000",
+      "longitude": "-47.38417000"
+   },
+   {
+      "name": "Araçariguama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.42294000",
+      "longitude": "-47.07816000"
+   },
+   {
+      "name": "Araçatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.14986000",
+      "longitude": "-50.57470000"
+   },
+   {
+      "name": "Araçoiaba da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.56602000",
+      "longitude": "-47.66733000"
+   },
+   {
+      "name": "Arco-Íris",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.74342000",
+      "longitude": "-50.42979000"
+   },
+   {
+      "name": "Arealva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.06881000",
+      "longitude": "-48.99294000"
+   },
+   {
+      "name": "Areias",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.66811000",
+      "longitude": "-44.71651000"
+   },
+   {
+      "name": "Areiópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.60627000",
+      "longitude": "-48.65273000"
+   },
+   {
+      "name": "Ariranha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.17685000",
+      "longitude": "-48.77771000"
+   },
+   {
+      "name": "Artur Nogueira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.57306000",
+      "longitude": "-47.17250000"
+   },
+   {
+      "name": "Arujá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.39611000",
+      "longitude": "-46.32083000"
+   },
+   {
+      "name": "Aspásia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.18385000",
+      "longitude": "-50.73117000"
+   },
+   {
+      "name": "Assis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.66167000",
+      "longitude": "-50.41222000"
+   },
+   {
+      "name": "Atibaia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.13099000",
+      "longitude": "-46.58896000"
+   },
+   {
+      "name": "Auriflama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.68556000",
+      "longitude": "-50.55472000"
+   },
+   {
+      "name": "Avanhandava",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.46596000",
+      "longitude": "-49.94791000"
+   },
+   {
+      "name": "Avaré",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.03402000",
+      "longitude": "-48.88802000"
+   },
+   {
+      "name": "Avaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.17789000",
+      "longitude": "-49.30511000"
+   },
+   {
+      "name": "Bady Bassitt",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.91806000",
+      "longitude": "-49.44528000"
+   },
+   {
+      "name": "Balbinos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.90089000",
+      "longitude": "-49.33509000"
+   },
+   {
+      "name": "Bananal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73751000",
+      "longitude": "-44.33413000"
+   },
+   {
+      "name": "Barbosa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.29619000",
+      "longitude": "-49.92293000"
+   },
+   {
+      "name": "Bariri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.07444000",
+      "longitude": "-48.74028000"
+   },
+   {
+      "name": "Barra Bonita",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.49472000",
+      "longitude": "-48.55806000"
+   },
+   {
+      "name": "Barra do Chapéu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.44047000",
+      "longitude": "-49.08615000"
+   },
+   {
+      "name": "Barra do Turvo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.89045000",
+      "longitude": "-48.40790000"
+   },
+   {
+      "name": "Barretos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.55722000",
+      "longitude": "-48.56778000"
+   },
+   {
+      "name": "Barrinha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.19361000",
+      "longitude": "-48.16389000"
+   },
+   {
+      "name": "Barueri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.51056000",
+      "longitude": "-46.87611000"
+   },
+   {
+      "name": "Barão de Antonina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.57097000",
+      "longitude": "-49.56660000"
+   },
+   {
+      "name": "Bastos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.92194000",
+      "longitude": "-50.73389000"
+   },
+   {
+      "name": "Batatais",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.83515000",
+      "longitude": "-47.56742000"
+   },
+   {
+      "name": "Bauru",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.31472000",
+      "longitude": "-49.06056000"
+   },
+   {
+      "name": "Bebedouro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.94944000",
+      "longitude": "-48.47917000"
+   },
+   {
+      "name": "Bento de Abreu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.34057000",
+      "longitude": "-50.86542000"
+   },
+   {
+      "name": "Bernardino de Campos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.02698000",
+      "longitude": "-49.49277000"
+   },
+   {
+      "name": "Bertioga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.85444000",
+      "longitude": "-46.13861000"
+   },
+   {
+      "name": "Bilac",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.42076000",
+      "longitude": "-50.47862000"
+   },
+   {
+      "name": "Birigui",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.28861000",
+      "longitude": "-50.34000000"
+   },
+   {
+      "name": "Biritiba Mirim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.57250000",
+      "longitude": "-46.03861000"
+   },
+   {
+      "name": "Biritiba-Mirim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62009000",
+      "longitude": "-46.01938000"
+   },
+   {
+      "name": "Boa Esperança do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.99250000",
+      "longitude": "-48.39083000"
+   },
+   {
+      "name": "Bocaina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.09830000",
+      "longitude": "-48.51952000"
+   },
+   {
+      "name": "Bofete",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.12244000",
+      "longitude": "-48.28058000"
+   },
+   {
+      "name": "Boituva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.28333000",
+      "longitude": "-47.67222000"
+   },
+   {
+      "name": "Bom Jesus dos Perdões",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.13500000",
+      "longitude": "-46.46528000"
+   },
+   {
+      "name": "Bom Sucesso de Itararé",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.31225000",
+      "longitude": "-49.16700000"
+   },
+   {
+      "name": "Boracéia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.19306000",
+      "longitude": "-48.77889000"
+   },
+   {
+      "name": "Borborema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.61972000",
+      "longitude": "-49.07361000"
+   },
+   {
+      "name": "Borebi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.67635000",
+      "longitude": "-48.98476000"
+   },
+   {
+      "name": "Borá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.23881000",
+      "longitude": "-50.49252000"
+   },
+   {
+      "name": "Botucatu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.88583000",
+      "longitude": "-48.44500000"
+   },
+   {
+      "name": "Bragança Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.95270000",
+      "longitude": "-46.54418000"
+   },
+   {
+      "name": "Braúna",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.56582000",
+      "longitude": "-50.35227000"
+   },
+   {
+      "name": "Brejo Alegre",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.17757000",
+      "longitude": "-50.21805000"
+   },
+   {
+      "name": "Brodowski",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.05060000",
+      "longitude": "-47.61728000"
+   },
+   {
+      "name": "Brodósqui",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.99139000",
+      "longitude": "-47.65861000"
+   },
+   {
+      "name": "Brotas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.27942000",
+      "longitude": "-48.08744000"
+   },
+   {
+      "name": "Buri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.79750000",
+      "longitude": "-48.59278000"
+   },
+   {
+      "name": "Buritama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.06611000",
+      "longitude": "-50.14722000"
+   },
+   {
+      "name": "Buritizal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.21345000",
+      "longitude": "-47.70776000"
+   },
+   {
+      "name": "Bálsamo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.70239000",
+      "longitude": "-49.55045000"
+   },
+   {
+      "name": "Cabreúva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.30750000",
+      "longitude": "-47.13278000"
+   },
+   {
+      "name": "Cabrália Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.49155000",
+      "longitude": "-49.38637000"
+   },
+   {
+      "name": "Cachoeira Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.70115000",
+      "longitude": "-44.99229000"
+   },
+   {
+      "name": "Caconde",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.52944000",
+      "longitude": "-46.64389000"
+   },
+   {
+      "name": "Cafelândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.74295000",
+      "longitude": "-49.57061000"
+   },
+   {
+      "name": "Caiabu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.93822000",
+      "longitude": "-51.23232000"
+   },
+   {
+      "name": "Caieiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.36417000",
+      "longitude": "-46.74056000"
+   },
+   {
+      "name": "Caiuá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.76518000",
+      "longitude": "-51.95903000"
+   },
+   {
+      "name": "Cajamar",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.35193000",
+      "longitude": "-46.88129000"
+   },
+   {
+      "name": "Cajati",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.73611000",
+      "longitude": "-48.12278000"
+   },
+   {
+      "name": "Cajobi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.88622000",
+      "longitude": "-48.85175000"
+   },
+   {
+      "name": "Cajuru",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.27528000",
+      "longitude": "-47.30417000"
+   },
+   {
+      "name": "Campina do Monte Alegre",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.61364000",
+      "longitude": "-48.45388000"
+   },
+   {
+      "name": "Campinas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.90556000",
+      "longitude": "-47.06083000"
+   },
+   {
+      "name": "Campo Limpo Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.21599000",
+      "longitude": "-46.75842000"
+   },
+   {
+      "name": "Campos Novos Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.62889000",
+      "longitude": "-50.01282000"
+   },
+   {
+      "name": "Campos do Jordão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73944000",
+      "longitude": "-45.59139000"
+   },
+   {
+      "name": "Cananéia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-25.01472000",
+      "longitude": "-47.92667000"
+   },
+   {
+      "name": "Canas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73999000",
+      "longitude": "-45.03208000"
+   },
+   {
+      "name": "Canitar",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.01421000",
+      "longitude": "-49.78705000"
+   },
+   {
+      "name": "Capela do Alto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.47056000",
+      "longitude": "-47.73472000"
+   },
+   {
+      "name": "Capivari",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.99500000",
+      "longitude": "-47.50778000"
+   },
+   {
+      "name": "Capâo Bonito",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.00583000",
+      "longitude": "-48.34944000"
+   },
+   {
+      "name": "Caraguatatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62028000",
+      "longitude": "-45.41306000"
+   },
+   {
+      "name": "Carapicuíba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.55339000",
+      "longitude": "-46.84852000"
+   },
+   {
+      "name": "Cardoso",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.08194000",
+      "longitude": "-49.91417000"
+   },
+   {
+      "name": "Casa Branca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.81396000",
+      "longitude": "-47.08264000"
+   },
+   {
+      "name": "Castilho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.87222000",
+      "longitude": "-51.48750000"
+   },
+   {
+      "name": "Catanduva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.13778000",
+      "longitude": "-48.97278000"
+   },
+   {
+      "name": "Catiguá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.06536000",
+      "longitude": "-49.04977000"
+   },
+   {
+      "name": "Caçapava",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.10083000",
+      "longitude": "-45.70694000"
+   },
+   {
+      "name": "Cedral",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.90742000",
+      "longitude": "-49.25495000"
+   },
+   {
+      "name": "Cerqueira César",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.03556000",
+      "longitude": "-49.16611000"
+   },
+   {
+      "name": "Cerquilho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.16500000",
+      "longitude": "-47.74361000"
+   },
+   {
+      "name": "Cesário Lange",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.21195000",
+      "longitude": "-47.88465000"
+   },
+   {
+      "name": "Charqueada",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.53724000",
+      "longitude": "-47.73770000"
+   },
+   {
+      "name": "Chavantes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.03889000",
+      "longitude": "-49.70944000"
+   },
+   {
+      "name": "Clementina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.57634000",
+      "longitude": "-50.46202000"
+   },
+   {
+      "name": "Colina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.75233000",
+      "longitude": "-48.58162000"
+   },
+   {
+      "name": "Colômbia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.29302000",
+      "longitude": "-48.72328000"
+   },
+   {
+      "name": "Conchal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.34611000",
+      "longitude": "-47.13620000"
+   },
+   {
+      "name": "Conchas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.01528000",
+      "longitude": "-48.01056000"
+   },
+   {
+      "name": "Cordeirópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.48194000",
+      "longitude": "-47.45667000"
+   },
+   {
+      "name": "Coroados",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.37115000",
+      "longitude": "-50.31271000"
+   },
+   {
+      "name": "Coronel Macedo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62092000",
+      "longitude": "-49.30305000"
+   },
+   {
+      "name": "Corumbataí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.21698000",
+      "longitude": "-47.59961000"
+   },
+   {
+      "name": "Cosmorama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.40934000",
+      "longitude": "-49.74905000"
+   },
+   {
+      "name": "Cosmópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.64583000",
+      "longitude": "-47.19611000"
+   },
+   {
+      "name": "Cotia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.60389000",
+      "longitude": "-46.91917000"
+   },
+   {
+      "name": "Cravinhos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.34028000",
+      "longitude": "-47.72944000"
+   },
+   {
+      "name": "Cristais Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.36538000",
+      "longitude": "-47.37300000"
+   },
+   {
+      "name": "Cruzeiro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.57316000",
+      "longitude": "-44.97108000"
+   },
+   {
+      "name": "Cruzália",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73707000",
+      "longitude": "-50.75793000"
+   },
+   {
+      "name": "Cubatão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.89500000",
+      "longitude": "-46.42528000"
+   },
+   {
+      "name": "Cunha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.07444000",
+      "longitude": "-44.95972000"
+   },
+   {
+      "name": "Cássia dos Coqueiros",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.25917000",
+      "longitude": "-47.13783000"
+   },
+   {
+      "name": "Cândido Mota",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.74639000",
+      "longitude": "-50.38694000"
+   },
+   {
+      "name": "Cândido Rodrigues",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.34194000",
+      "longitude": "-48.63294000"
+   },
+   {
+      "name": "Descalvado",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.90389000",
+      "longitude": "-47.61944000"
+   },
+   {
+      "name": "Diadema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.68611000",
+      "longitude": "-46.62278000"
+   },
+   {
+      "name": "Dirce Reis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.45591000",
+      "longitude": "-50.62798000"
+   },
+   {
+      "name": "Divinolândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.66459000",
+      "longitude": "-46.70450000"
+   },
+   {
+      "name": "Dobrada",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.51531000",
+      "longitude": "-48.37033000"
+   },
+   {
+      "name": "Dois Córregos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.36611000",
+      "longitude": "-48.38028000"
+   },
+   {
+      "name": "Dolcinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.11666000",
+      "longitude": "-50.52771000"
+   },
+   {
+      "name": "Dourado",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.11665000",
+      "longitude": "-48.35204000"
+   },
+   {
+      "name": "Dracena",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.57936000",
+      "longitude": "-51.59598000"
+   },
+   {
+      "name": "Duartina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.41444000",
+      "longitude": "-49.40389000"
+   },
+   {
+      "name": "Dumont",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.24438000",
+      "longitude": "-47.99598000"
+   },
+   {
+      "name": "Echaporã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.41080000",
+      "longitude": "-50.18262000"
+   },
+   {
+      "name": "Eldorado",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.50057000",
+      "longitude": "-48.25601000"
+   },
+   {
+      "name": "Elias Fausto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.05880000",
+      "longitude": "-47.38776000"
+   },
+   {
+      "name": "Elisiário",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.15517000",
+      "longitude": "-49.09106000"
+   },
+   {
+      "name": "Embaúba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.94301000",
+      "longitude": "-48.85819000"
+   },
+   {
+      "name": "Embu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.64889000",
+      "longitude": "-46.85222000"
+   },
+   {
+      "name": "Embu Guaçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.83222000",
+      "longitude": "-46.81139000"
+   },
+   {
+      "name": "Embu das Artes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.64664000",
+      "longitude": "-46.85386000"
+   },
+   {
+      "name": "Embu-Guaçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.85336000",
+      "longitude": "-46.83957000"
+   },
+   {
+      "name": "Emilianópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.78179000",
+      "longitude": "-51.47959000"
+   },
+   {
+      "name": "Engenheiro Coelho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.48904000",
+      "longitude": "-47.17256000"
+   },
+   {
+      "name": "Espírito Santo do Pinhal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.18900000",
+      "longitude": "-46.78421000"
+   },
+   {
+      "name": "Espírito Santo do Turvo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.66810000",
+      "longitude": "-49.42175000"
+   },
+   {
+      "name": "Estiva Gerbi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.22052000",
+      "longitude": "-46.93878000"
+   },
+   {
+      "name": "Estrela d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.27767000",
+      "longitude": "-50.40807000"
+   },
+   {
+      "name": "Estrela do Norte",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.47843000",
+      "longitude": "-51.67954000"
+   },
+   {
+      "name": "Euclides da Cunha Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.51710000",
+      "longitude": "-52.59099000"
+   },
+   {
+      "name": "Fartura",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.38833000",
+      "longitude": "-49.51000000"
+   },
+   {
+      "name": "Fernando Prestes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.30945000",
+      "longitude": "-48.69583000"
+   },
+   {
+      "name": "Fernandópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.28389000",
+      "longitude": "-50.24639000"
+   },
+   {
+      "name": "Fernão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.37381000",
+      "longitude": "-49.55434000"
+   },
+   {
+      "name": "Ferraz de Vasconcelos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.56153000",
+      "longitude": "-46.37490000"
+   },
+   {
+      "name": "Flora Rica",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.70103000",
+      "longitude": "-51.37786000"
+   },
+   {
+      "name": "Floreal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.65394000",
+      "longitude": "-50.15844000"
+   },
+   {
+      "name": "Florínea",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.87222000",
+      "longitude": "-50.68979000"
+   },
+   {
+      "name": "Flórida Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.54193000",
+      "longitude": "-51.18066000"
+   },
+   {
+      "name": "Franca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.53861000",
+      "longitude": "-47.40083000"
+   },
+   {
+      "name": "Francisco Morato",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.26924000",
+      "longitude": "-46.70889000"
+   },
+   {
+      "name": "Franco da Rocha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.30277000",
+      "longitude": "-46.73089000"
+   },
+   {
+      "name": "Gabriel Monteiro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.49989000",
+      "longitude": "-50.56997000"
+   },
+   {
+      "name": "Garça",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.21056000",
+      "longitude": "-49.65611000"
+   },
+   {
+      "name": "Gastão Vidigal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.80633000",
+      "longitude": "-50.19238000"
+   },
+   {
+      "name": "Gavião Peixoto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.80879000",
+      "longitude": "-48.46904000"
+   },
+   {
+      "name": "General Salgado",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.64833000",
+      "longitude": "-50.36056000"
+   },
+   {
+      "name": "Getulina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.76343000",
+      "longitude": "-50.06225000"
+   },
+   {
+      "name": "Glicério",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.31866000",
+      "longitude": "-50.17782000"
+   },
+   {
+      "name": "Guaimbê",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.86204000",
+      "longitude": "-49.84959000"
+   },
+   {
+      "name": "Guaiçara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.55410000",
+      "longitude": "-49.76263000"
+   },
+   {
+      "name": "Guapiara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.21726000",
+      "longitude": "-48.54523000"
+   },
+   {
+      "name": "Guapiaçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.79500000",
+      "longitude": "-49.22028000"
+   },
+   {
+      "name": "Guaraci",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.41648000",
+      "longitude": "-49.00521000"
+   },
+   {
+      "name": "Guarani d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.07032000",
+      "longitude": "-50.36292000"
+   },
+   {
+      "name": "Guarantã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.92281000",
+      "longitude": "-49.58519000"
+   },
+   {
+      "name": "Guararapes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.26083000",
+      "longitude": "-50.64278000"
+   },
+   {
+      "name": "Guararema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.41500000",
+      "longitude": "-46.03500000"
+   },
+   {
+      "name": "Guaratinguetá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.81639000",
+      "longitude": "-45.19250000"
+   },
+   {
+      "name": "Guaraçaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.10820000",
+      "longitude": "-51.30124000"
+   },
+   {
+      "name": "Guareí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.37338000",
+      "longitude": "-48.22466000"
+   },
+   {
+      "name": "Guariba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.39568000",
+      "longitude": "-48.20427000"
+   },
+   {
+      "name": "Guarujá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.99306000",
+      "longitude": "-46.25639000"
+   },
+   {
+      "name": "Guarulhos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.46278000",
+      "longitude": "-46.53333000"
+   },
+   {
+      "name": "Guará",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.42833000",
+      "longitude": "-47.82417000"
+   },
+   {
+      "name": "Guatapará",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.47231000",
+      "longitude": "-47.99142000"
+   },
+   {
+      "name": "Guaíra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.31833000",
+      "longitude": "-48.31056000"
+   },
+   {
+      "name": "Guzolândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.62040000",
+      "longitude": "-50.71925000"
+   },
+   {
+      "name": "Gália",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.34323000",
+      "longitude": "-49.57865000"
+   },
+   {
+      "name": "Herculândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.96198000",
+      "longitude": "-50.38482000"
+   },
+   {
+      "name": "Holambra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.63825000",
+      "longitude": "-47.06501000"
+   },
+   {
+      "name": "Hortolândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.85833000",
+      "longitude": "-47.22000000"
+   },
+   {
+      "name": "Iacanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.90745000",
+      "longitude": "-49.05917000"
+   },
+   {
+      "name": "Iacri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.77798000",
+      "longitude": "-50.61517000"
+   },
+   {
+      "name": "Iaras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.83679000",
+      "longitude": "-49.10928000"
+   },
+   {
+      "name": "Ibaté",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.95472000",
+      "longitude": "-47.99667000"
+   },
+   {
+      "name": "Ibirarema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.80911000",
+      "longitude": "-50.07816000"
+   },
+   {
+      "name": "Ibirá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.08880000",
+      "longitude": "-49.21879000"
+   },
+   {
+      "name": "Ibitinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.75778000",
+      "longitude": "-48.82889000"
+   },
+   {
+      "name": "Ibiúna",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.65639000",
+      "longitude": "-47.22250000"
+   },
+   {
+      "name": "Icém",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.38003000",
+      "longitude": "-49.20507000"
+   },
+   {
+      "name": "Iepê",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.65726000",
+      "longitude": "-51.04385000"
+   },
+   {
+      "name": "Igarapava",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.03833000",
+      "longitude": "-47.74694000"
+   },
+   {
+      "name": "Igaratá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.12994000",
+      "longitude": "-46.14647000"
+   },
+   {
+      "name": "Igaraçu do Tietê",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.50917000",
+      "longitude": "-48.55778000"
+   },
+   {
+      "name": "Iguape",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.70806000",
+      "longitude": "-47.55528000"
+   },
+   {
+      "name": "Ilha Comprida",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.87792000",
+      "longitude": "-47.74757000"
+   },
+   {
+      "name": "Ilha Solteira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.43278000",
+      "longitude": "-51.34250000"
+   },
+   {
+      "name": "Ilhabela",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.77806000",
+      "longitude": "-45.35806000"
+   },
+   {
+      "name": "Indaiatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.08842000",
+      "longitude": "-47.21190000"
+   },
+   {
+      "name": "Indiana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.12587000",
+      "longitude": "-51.26047000"
+   },
+   {
+      "name": "Indiaporã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.95987000",
+      "longitude": "-50.24419000"
+   },
+   {
+      "name": "Inúbia Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.72002000",
+      "longitude": "-50.94738000"
+   },
+   {
+      "name": "Ipaussu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.08202000",
+      "longitude": "-49.60370000"
+   },
+   {
+      "name": "Ipauçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.05667000",
+      "longitude": "-49.62639000"
+   },
+   {
+      "name": "Iperó",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.35028000",
+      "longitude": "-47.68861000"
+   },
+   {
+      "name": "Ipeúna",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.44376000",
+      "longitude": "-47.69449000"
+   },
+   {
+      "name": "Ipiguá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.63984000",
+      "longitude": "-49.39781000"
+   },
+   {
+      "name": "Iporanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.50438000",
+      "longitude": "-48.55248000"
+   },
+   {
+      "name": "Ipuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.43806000",
+      "longitude": "-48.01222000"
+   },
+   {
+      "name": "Iracemápolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.58056000",
+      "longitude": "-47.51861000"
+   },
+   {
+      "name": "Irapuru",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.44903000",
+      "longitude": "-51.33959000"
+   },
+   {
+      "name": "Irapuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.25013000",
+      "longitude": "-49.40247000"
+   },
+   {
+      "name": "Itaberá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.86194000",
+      "longitude": "-49.13722000"
+   },
+   {
+      "name": "Itajobi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.31806000",
+      "longitude": "-49.05444000"
+   },
+   {
+      "name": "Itaju",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.92879000",
+      "longitude": "-48.78312000"
+   },
+   {
+      "name": "Itanhaém",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.18306000",
+      "longitude": "-46.78889000"
+   },
+   {
+      "name": "Itaoca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.61155000",
+      "longitude": "-48.84390000"
+   },
+   {
+      "name": "Itapecerica da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.71694000",
+      "longitude": "-46.84917000"
+   },
+   {
+      "name": "Itapetininga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.59167000",
+      "longitude": "-48.05306000"
+   },
+   {
+      "name": "Itapeva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.94696000",
+      "longitude": "-48.83835000"
+   },
+   {
+      "name": "Itapevi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54889000",
+      "longitude": "-46.93417000"
+   },
+   {
+      "name": "Itapira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.43611000",
+      "longitude": "-46.82167000"
+   },
+   {
+      "name": "Itapirapuã Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.55985000",
+      "longitude": "-49.22435000"
+   },
+   {
+      "name": "Itaporanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.70778000",
+      "longitude": "-49.48972000"
+   },
+   {
+      "name": "Itapura",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.59626000",
+      "longitude": "-51.42537000"
+   },
+   {
+      "name": "Itapuí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.23333000",
+      "longitude": "-48.71917000"
+   },
+   {
+      "name": "Itaquaquecetuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.45806000",
+      "longitude": "-46.32917000"
+   },
+   {
+      "name": "Itararé",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.11250000",
+      "longitude": "-49.33167000"
+   },
+   {
+      "name": "Itariri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.28880000",
+      "longitude": "-47.13325000"
+   },
+   {
+      "name": "Itatiba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.00583000",
+      "longitude": "-46.83889000"
+   },
+   {
+      "name": "Itatinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.10167000",
+      "longitude": "-48.61583000"
+   },
+   {
+      "name": "Itaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.41778000",
+      "longitude": "-49.09056000"
+   },
+   {
+      "name": "Itirapina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.25278000",
+      "longitude": "-47.82278000"
+   },
+   {
+      "name": "Itirapuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.65755000",
+      "longitude": "-47.16859000"
+   },
+   {
+      "name": "Itobi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.74902000",
+      "longitude": "-46.93051000"
+   },
+   {
+      "name": "Itu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.26417000",
+      "longitude": "-47.29917000"
+   },
+   {
+      "name": "Itupeva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.15306000",
+      "longitude": "-47.05778000"
+   },
+   {
+      "name": "Ituverava",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.33944000",
+      "longitude": "-47.78056000"
+   },
+   {
+      "name": "Itápolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.59556000",
+      "longitude": "-48.81278000"
+   },
+   {
+      "name": "Jaborandi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.66618000",
+      "longitude": "-48.40164000"
+   },
+   {
+      "name": "Jaboticabal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.25472000",
+      "longitude": "-48.32222000"
+   },
+   {
+      "name": "Jacareí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.30528000",
+      "longitude": "-45.96583000"
+   },
+   {
+      "name": "Jaci",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.94747000",
+      "longitude": "-49.57606000"
+   },
+   {
+      "name": "Jacupiranga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.69250000",
+      "longitude": "-48.00222000"
+   },
+   {
+      "name": "Jaguariúna",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.70556000",
+      "longitude": "-46.98583000"
+   },
+   {
+      "name": "Jales",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.26889000",
+      "longitude": "-50.54583000"
+   },
+   {
+      "name": "Jambeiro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.28154000",
+      "longitude": "-45.71217000"
+   },
+   {
+      "name": "Jandira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54082000",
+      "longitude": "-46.89571000"
+   },
+   {
+      "name": "Jardim Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.56675000",
+      "longitude": "-46.66439000"
+   },
+   {
+      "name": "Jardinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.01778000",
+      "longitude": "-47.76389000"
+   },
+   {
+      "name": "Jarinu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.10139000",
+      "longitude": "-46.72833000"
+   },
+   {
+      "name": "Jaú",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.29639000",
+      "longitude": "-48.55778000"
+   },
+   {
+      "name": "Jeriquara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.33455000",
+      "longitude": "-47.57121000"
+   },
+   {
+      "name": "Joanópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.93028000",
+      "longitude": "-46.27556000"
+   },
+   {
+      "name": "José Bonifácio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.08986000",
+      "longitude": "-49.77293000"
+   },
+   {
+      "name": "João Ramalho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.24440000",
+      "longitude": "-50.78747000"
+   },
+   {
+      "name": "Jumirim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.10825000",
+      "longitude": "-47.79820000"
+   },
+   {
+      "name": "Jundiaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.18639000",
+      "longitude": "-46.88417000"
+   },
+   {
+      "name": "Junqueirópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.51472000",
+      "longitude": "-51.43361000"
+   },
+   {
+      "name": "Juquitiba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.95860000",
+      "longitude": "-47.01366000"
+   },
+   {
+      "name": "Juquiá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.32083000",
+      "longitude": "-47.63472000"
+   },
+   {
+      "name": "Júlio Mesquita",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.97689000",
+      "longitude": "-49.78623000"
+   },
+   {
+      "name": "Lagoinha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.08443000",
+      "longitude": "-45.19973000"
+   },
+   {
+      "name": "Laranjal Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.04972000",
+      "longitude": "-47.83667000"
+   },
+   {
+      "name": "Lavrinhas",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.51707000",
+      "longitude": "-44.88055000"
+   },
+   {
+      "name": "Lavínia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.17069000",
+      "longitude": "-51.05184000"
+   },
+   {
+      "name": "Leme",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.18556000",
+      "longitude": "-47.39028000"
+   },
+   {
+      "name": "Lençóis Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.59861000",
+      "longitude": "-48.80028000"
+   },
+   {
+      "name": "Limeira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.56472000",
+      "longitude": "-47.40167000"
+   },
+   {
+      "name": "Lindóia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.51250000",
+      "longitude": "-46.65352000"
+   },
+   {
+      "name": "Lins",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.67861000",
+      "longitude": "-49.74250000"
+   },
+   {
+      "name": "Lorena",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73083000",
+      "longitude": "-45.12472000"
+   },
+   {
+      "name": "Lourdes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.94345000",
+      "longitude": "-50.23799000"
+   },
+   {
+      "name": "Louveira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.08252000",
+      "longitude": "-46.93308000"
+   },
+   {
+      "name": "Lucianópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.48385000",
+      "longitude": "-49.54507000"
+   },
+   {
+      "name": "Lucélia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.72028000",
+      "longitude": "-51.01889000"
+   },
+   {
+      "name": "Luiziânia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.68237000",
+      "longitude": "-50.35305000"
+   },
+   {
+      "name": "Lupércio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.42771000",
+      "longitude": "-49.81232000"
+   },
+   {
+      "name": "Lutécia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.30652000",
+      "longitude": "-50.37817000"
+   },
+   {
+      "name": "Luís Antônio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.55997000",
+      "longitude": "-47.81156000"
+   },
+   {
+      "name": "Macatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.50222000",
+      "longitude": "-48.71139000"
+   },
+   {
+      "name": "Macaubal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.86271000",
+      "longitude": "-49.98530000"
+   },
+   {
+      "name": "Macedônia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.08825000",
+      "longitude": "-50.17318000"
+   },
+   {
+      "name": "Magda",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.57602000",
+      "longitude": "-50.22413000"
+   },
+   {
+      "name": "Mairinque",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54583000",
+      "longitude": "-47.18333000"
+   },
+   {
+      "name": "Mairiporã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.31861000",
+      "longitude": "-46.58667000"
+   },
+   {
+      "name": "Manduri",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.05388000",
+      "longitude": "-49.30262000"
+   },
+   {
+      "name": "Marabá Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.11727000",
+      "longitude": "-52.05131000"
+   },
+   {
+      "name": "Maracaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.61056000",
+      "longitude": "-50.66722000"
+   },
+   {
+      "name": "Marapoama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.25761000",
+      "longitude": "-49.14859000"
+   },
+   {
+      "name": "Marinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.48780000",
+      "longitude": "-50.83467000"
+   },
+   {
+      "name": "Mariápolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.77944000",
+      "longitude": "-51.16754000"
+   },
+   {
+      "name": "Martinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.14583000",
+      "longitude": "-51.17083000"
+   },
+   {
+      "name": "Marília",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.21389000",
+      "longitude": "-49.94583000"
+   },
+   {
+      "name": "Matão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.59547000",
+      "longitude": "-48.45033000"
+   },
+   {
+      "name": "Mauá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.66364000",
+      "longitude": "-46.44656000"
+   },
+   {
+      "name": "Mendonça",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.19620000",
+      "longitude": "-49.56427000"
+   },
+   {
+      "name": "Meridiano",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.41766000",
+      "longitude": "-50.20536000"
+   },
+   {
+      "name": "Mesópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.95808000",
+      "longitude": "-50.60938000"
+   },
+   {
+      "name": "Miguelópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.17944000",
+      "longitude": "-48.03194000"
+   },
+   {
+      "name": "Mineiros do Tietê",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.44860000",
+      "longitude": "-48.44074000"
+   },
+   {
+      "name": "Mira Estrela",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.97244000",
+      "longitude": "-50.13043000"
+   },
+   {
+      "name": "Miracatu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.28139000",
+      "longitude": "-47.45972000"
+   },
+   {
+      "name": "Mirandopólis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.13361000",
+      "longitude": "-51.10167000"
+   },
+   {
+      "name": "Mirante do Paranapanema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.29194000",
+      "longitude": "-51.90639000"
+   },
+   {
+      "name": "Mirassol",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.84158000",
+      "longitude": "-49.50879000"
+   },
+   {
+      "name": "Mirassolândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.59295000",
+      "longitude": "-49.48426000"
+   },
+   {
+      "name": "Mococa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.46778000",
+      "longitude": "-47.00472000"
+   },
+   {
+      "name": "Mogi Guaçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.36770000",
+      "longitude": "-46.94552000"
+   },
+   {
+      "name": "Mogi Mirim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.43194000",
+      "longitude": "-46.95778000"
+   },
+   {
+      "name": "Mogi das Cruzes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.56813000",
+      "longitude": "-46.18770000"
+   },
+   {
+      "name": "Mombuca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.95107000",
+      "longitude": "-47.60238000"
+   },
+   {
+      "name": "Mongaguá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.09306000",
+      "longitude": "-46.62083000"
+   },
+   {
+      "name": "Monte Alegre do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.71002000",
+      "longitude": "-46.67181000"
+   },
+   {
+      "name": "Monte Alto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.26111000",
+      "longitude": "-48.49639000"
+   },
+   {
+      "name": "Monte Aprazível",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.77250000",
+      "longitude": "-49.71417000"
+   },
+   {
+      "name": "Monte Azul Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.90722000",
+      "longitude": "-48.64139000"
+   },
+   {
+      "name": "Monte Castelo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.22773000",
+      "longitude": "-51.57141000"
+   },
+   {
+      "name": "Monte Mor",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.94667000",
+      "longitude": "-47.31583000"
+   },
+   {
+      "name": "Monteiro Lobato",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.93300000",
+      "longitude": "-45.80525000"
+   },
+   {
+      "name": "Monções",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.86875000",
+      "longitude": "-50.08331000"
+   },
+   {
+      "name": "Morro Agudo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.73139000",
+      "longitude": "-48.05778000"
+   },
+   {
+      "name": "Morungaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.88318000",
+      "longitude": "-46.78699000"
+   },
+   {
+      "name": "Motuca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.48936000",
+      "longitude": "-48.15669000"
+   },
+   {
+      "name": "Murutinga do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.99638000",
+      "longitude": "-51.30376000"
+   },
+   {
+      "name": "Nantes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.60334000",
+      "longitude": "-51.20840000"
+   },
+   {
+      "name": "Narandiba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.53395000",
+      "longitude": "-51.50976000"
+   },
+   {
+      "name": "Natividade da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.39447000",
+      "longitude": "-45.39368000"
+   },
+   {
+      "name": "Nazaré Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.18203000",
+      "longitude": "-46.36202000"
+   },
+   {
+      "name": "Neves Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.87439000",
+      "longitude": "-49.64850000"
+   },
+   {
+      "name": "Nhandeara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.68970000",
+      "longitude": "-50.04070000"
+   },
+   {
+      "name": "Nipoã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.89366000",
+      "longitude": "-49.78133000"
+   },
+   {
+      "name": "Nova Aliança",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.06591000",
+      "longitude": "-49.52593000"
+   },
+   {
+      "name": "Nova Campina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.20918000",
+      "longitude": "-48.98456000"
+   },
+   {
+      "name": "Nova Canaã Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.37020000",
+      "longitude": "-50.90616000"
+   },
+   {
+      "name": "Nova Castilho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.78530000",
+      "longitude": "-50.34957000"
+   },
+   {
+      "name": "Nova Europa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.79214000",
+      "longitude": "-48.56880000"
+   },
+   {
+      "name": "Nova Granada",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.53389000",
+      "longitude": "-49.31417000"
+   },
+   {
+      "name": "Nova Guataporanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.31898000",
+      "longitude": "-51.64323000"
+   },
+   {
+      "name": "Nova Independência",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.15481000",
+      "longitude": "-51.52759000"
+   },
+   {
+      "name": "Nova Luzitânia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.87304000",
+      "longitude": "-50.24297000"
+   },
+   {
+      "name": "Nova Odessa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.77750000",
+      "longitude": "-47.29583000"
+   },
+   {
+      "name": "Novais",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.97660000",
+      "longitude": "-48.90985000"
+   },
+   {
+      "name": "Novo Horizonte",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.46806000",
+      "longitude": "-49.22083000"
+   },
+   {
+      "name": "Nuporanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.73095000",
+      "longitude": "-47.75177000"
+   },
+   {
+      "name": "Ocauçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.43034000",
+      "longitude": "-49.95170000"
+   },
+   {
+      "name": "Olímpia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.73722000",
+      "longitude": "-48.91472000"
+   },
+   {
+      "name": "Onda Verde",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.61043000",
+      "longitude": "-49.24474000"
+   },
+   {
+      "name": "Oriente",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.15005000",
+      "longitude": "-50.09676000"
+   },
+   {
+      "name": "Orindiúva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.22235000",
+      "longitude": "-49.37594000"
+   },
+   {
+      "name": "Orlândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.72028000",
+      "longitude": "-47.88667000"
+   },
+   {
+      "name": "Osasco",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.53250000",
+      "longitude": "-46.79167000"
+   },
+   {
+      "name": "Oscar Bressane",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.29031000",
+      "longitude": "-50.25646000"
+   },
+   {
+      "name": "Osvaldo Cruz",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.67502000",
+      "longitude": "-50.84203000"
+   },
+   {
+      "name": "Ourinhos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.97889000",
+      "longitude": "-49.87056000"
+   },
+   {
+      "name": "Ouro Verde",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.52766000",
+      "longitude": "-51.75119000"
+   },
+   {
+      "name": "Ouroeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.93760000",
+      "longitude": "-50.41455000"
+   },
+   {
+      "name": "Pacaembu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.56222000",
+      "longitude": "-51.26056000"
+   },
+   {
+      "name": "Palestina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.29911000",
+      "longitude": "-49.52000000"
+   },
+   {
+      "name": "Palmares Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.10148000",
+      "longitude": "-48.82032000"
+   },
+   {
+      "name": "Palmeira d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.45046000",
+      "longitude": "-50.75181000"
+   },
+   {
+      "name": "Palmital",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.78889000",
+      "longitude": "-50.21750000"
+   },
+   {
+      "name": "Panorama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.35639000",
+      "longitude": "-51.85972000"
+   },
+   {
+      "name": "Paraguaçu Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.41278000",
+      "longitude": "-50.57583000"
+   },
+   {
+      "name": "Paraibuna",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.48123000",
+      "longitude": "-45.63778000"
+   },
+   {
+      "name": "Paranapanema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.38630000",
+      "longitude": "-48.72441000"
+   },
+   {
+      "name": "Paranapuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.05940000",
+      "longitude": "-50.59676000"
+   },
+   {
+      "name": "Parapuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.84482000",
+      "longitude": "-50.83410000"
+   },
+   {
+      "name": "Paraíso",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.01639000",
+      "longitude": "-48.77361000"
+   },
+   {
+      "name": "Pardinho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.08987000",
+      "longitude": "-48.38420000"
+   },
+   {
+      "name": "Pariquera Açu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.71500000",
+      "longitude": "-47.88111000"
+   },
+   {
+      "name": "Pariquera-Açu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.66388000",
+      "longitude": "-47.84553000"
+   },
+   {
+      "name": "Parisi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.26554000",
+      "longitude": "-50.03904000"
+   },
+   {
+      "name": "Patrocínio Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.68707000",
+      "longitude": "-47.28437000"
+   },
+   {
+      "name": "Paulicéia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.17172000",
+      "longitude": "-51.75418000"
+   },
+   {
+      "name": "Paulista Flórida",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.60000000",
+      "longitude": "-51.20000000"
+   },
+   {
+      "name": "Paulistânia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.57816000",
+      "longitude": "-49.29587000"
+   },
+   {
+      "name": "Paulo de Faria",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.09639000",
+      "longitude": "-49.48849000"
+   },
+   {
+      "name": "Paulínia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.76111000",
+      "longitude": "-47.15417000"
+   },
+   {
+      "name": "Pederneiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.35167000",
+      "longitude": "-48.77500000"
+   },
+   {
+      "name": "Pedra Bela",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.76397000",
+      "longitude": "-46.43708000"
+   },
+   {
+      "name": "Pedranópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.19986000",
+      "longitude": "-50.08987000"
+   },
+   {
+      "name": "Pedregulho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.25694000",
+      "longitude": "-47.47667000"
+   },
+   {
+      "name": "Pedreira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.74194000",
+      "longitude": "-46.90139000"
+   },
+   {
+      "name": "Pedrinhas Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.80731000",
+      "longitude": "-50.82055000"
+   },
+   {
+      "name": "Pedro de Toledo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.17020000",
+      "longitude": "-47.17239000"
+   },
+   {
+      "name": "Penápolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.41972000",
+      "longitude": "-50.07750000"
+   },
+   {
+      "name": "Pereira Barreto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.63833000",
+      "longitude": "-51.10917000"
+   },
+   {
+      "name": "Pereiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.12150000",
+      "longitude": "-47.97614000"
+   },
+   {
+      "name": "Peruíbe",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.32000000",
+      "longitude": "-46.99833000"
+   },
+   {
+      "name": "Piacatu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.57301000",
+      "longitude": "-50.65835000"
+   },
+   {
+      "name": "Piedade",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.71194000",
+      "longitude": "-47.42778000"
+   },
+   {
+      "name": "Pilar do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.81306000",
+      "longitude": "-47.71639000"
+   },
+   {
+      "name": "Pindamonhangaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.92389000",
+      "longitude": "-45.46167000"
+   },
+   {
+      "name": "Pindorama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.18583000",
+      "longitude": "-48.90722000"
+   },
+   {
+      "name": "Pinhalzinho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.78213000",
+      "longitude": "-46.57177000"
+   },
+   {
+      "name": "Piquerobi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.84262000",
+      "longitude": "-51.74581000"
+   },
+   {
+      "name": "Piquete",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.61361000",
+      "longitude": "-45.17611000"
+   },
+   {
+      "name": "Piracaia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.05389000",
+      "longitude": "-46.35806000"
+   },
+   {
+      "name": "Piracicaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.71579000",
+      "longitude": "-47.77297000"
+   },
+   {
+      "name": "Piraju",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.19361000",
+      "longitude": "-49.38389000"
+   },
+   {
+      "name": "Pirajuí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.99861000",
+      "longitude": "-49.45722000"
+   },
+   {
+      "name": "Pirangi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.08566000",
+      "longitude": "-48.67186000"
+   },
+   {
+      "name": "Pirapora do Bom Jesus",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.37201000",
+      "longitude": "-46.97798000"
+   },
+   {
+      "name": "Pirapozinho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.27528000",
+      "longitude": "-51.50000000"
+   },
+   {
+      "name": "Pirassununga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.99611000",
+      "longitude": "-47.42583000"
+   },
+   {
+      "name": "Piratininga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.42279000",
+      "longitude": "-49.19329000"
+   },
+   {
+      "name": "Pitangueiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.01395000",
+      "longitude": "-48.26197000"
+   },
+   {
+      "name": "Planalto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.00411000",
+      "longitude": "-49.93965000"
+   },
+   {
+      "name": "Platina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.62809000",
+      "longitude": "-50.22211000"
+   },
+   {
+      "name": "Poloni",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.72938000",
+      "longitude": "-49.81550000"
+   },
+   {
+      "name": "Pompéia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.10861000",
+      "longitude": "-50.17167000"
+   },
+   {
+      "name": "Pongaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.73364000",
+      "longitude": "-49.36396000"
+   },
+   {
+      "name": "Pontal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.02250000",
+      "longitude": "-48.03722000"
+   },
+   {
+      "name": "Pontalinda",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.46316000",
+      "longitude": "-50.52208000"
+   },
+   {
+      "name": "Pontes Gestal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.17009000",
+      "longitude": "-49.75902000"
+   },
+   {
+      "name": "Populina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.92212000",
+      "longitude": "-50.51727000"
+   },
+   {
+      "name": "Porangaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.17583000",
+      "longitude": "-48.12500000"
+   },
+   {
+      "name": "Porto Feliz",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.21472000",
+      "longitude": "-47.52389000"
+   },
+   {
+      "name": "Porto Ferreira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.85389000",
+      "longitude": "-47.47917000"
+   },
+   {
+      "name": "Potim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.82497000",
+      "longitude": "-45.30614000"
+   },
+   {
+      "name": "Potirendaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.10737000",
+      "longitude": "-49.39808000"
+   },
+   {
+      "name": "Poá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.53459000",
+      "longitude": "-46.34662000"
+   },
+   {
+      "name": "Pracinha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.84003000",
+      "longitude": "-51.08033000"
+   },
+   {
+      "name": "Pradópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.35944000",
+      "longitude": "-48.06556000"
+   },
+   {
+      "name": "Praia Grande",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.00583000",
+      "longitude": "-46.40278000"
+   },
+   {
+      "name": "Pratânia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.81737000",
+      "longitude": "-48.68698000"
+   },
+   {
+      "name": "Presidente Alves",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.10947000",
+      "longitude": "-49.40588000"
+   },
+   {
+      "name": "Presidente Bernardes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.00611000",
+      "longitude": "-51.55306000"
+   },
+   {
+      "name": "Presidente Epitácio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.76333000",
+      "longitude": "-52.11556000"
+   },
+   {
+      "name": "Presidente Prudente",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.12556000",
+      "longitude": "-51.38889000"
+   },
+   {
+      "name": "Presidente Venceslau",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.87611000",
+      "longitude": "-51.84389000"
+   },
+   {
+      "name": "Promissão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.53667000",
+      "longitude": "-49.85806000"
+   },
+   {
+      "name": "Quadra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.30027000",
+      "longitude": "-48.04264000"
+   },
+   {
+      "name": "Quatá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.24750000",
+      "longitude": "-50.69833000"
+   },
+   {
+      "name": "Queiroz",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.79287000",
+      "longitude": "-50.23587000"
+   },
+   {
+      "name": "Queluz",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.51320000",
+      "longitude": "-44.78091000"
+   },
+   {
+      "name": "Quintana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.09720000",
+      "longitude": "-50.37082000"
+   },
+   {
+      "name": "Rafard",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.03281000",
+      "longitude": "-47.58676000"
+   },
+   {
+      "name": "Rancharia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.22917000",
+      "longitude": "-50.89306000"
+   },
+   {
+      "name": "Redenção da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.25672000",
+      "longitude": "-45.50200000"
+   },
+   {
+      "name": "Regente Feijó",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.22139000",
+      "longitude": "-51.30278000"
+   },
+   {
+      "name": "Reginópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.87493000",
+      "longitude": "-49.19025000"
+   },
+   {
+      "name": "Registro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.48750000",
+      "longitude": "-47.84361000"
+   },
+   {
+      "name": "Restinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.67652000",
+      "longitude": "-47.52058000"
+   },
+   {
+      "name": "Ribeira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.61113000",
+      "longitude": "-49.03616000"
+   },
+   {
+      "name": "Ribeirão Bonito",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.06667000",
+      "longitude": "-48.17611000"
+   },
+   {
+      "name": "Ribeirão Branco",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.22083000",
+      "longitude": "-48.76556000"
+   },
+   {
+      "name": "Ribeirão Corrente",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.44247000",
+      "longitude": "-47.57152000"
+   },
+   {
+      "name": "Ribeirão Grande",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.17568000",
+      "longitude": "-48.34008000"
+   },
+   {
+      "name": "Ribeirão Pires",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.70411000",
+      "longitude": "-46.39991000"
+   },
+   {
+      "name": "Ribeirão Preto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.17750000",
+      "longitude": "-47.81028000"
+   },
+   {
+      "name": "Ribeirão do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.74112000",
+      "longitude": "-49.94632000"
+   },
+   {
+      "name": "Ribeirão dos Índios",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.78470000",
+      "longitude": "-51.57840000"
+   },
+   {
+      "name": "Rifaina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.07816000",
+      "longitude": "-47.43839000"
+   },
+   {
+      "name": "Rincão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.57394000",
+      "longitude": "-47.99687000"
+   },
+   {
+      "name": "Rinópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.66311000",
+      "longitude": "-50.72038000"
+   },
+   {
+      "name": "Rio Claro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.41139000",
+      "longitude": "-47.56139000"
+   },
+   {
+      "name": "Rio Grande da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.73345000",
+      "longitude": "-46.37351000"
+   },
+   {
+      "name": "Rio das Pedras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.84082000",
+      "longitude": "-47.59724000"
+   },
+   {
+      "name": "Riolândia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-19.98083000",
+      "longitude": "-49.68194000"
+   },
+   {
+      "name": "Riversul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.84439000",
+      "longitude": "-49.44354000"
+   },
+   {
+      "name": "Rosana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.49250000",
+      "longitude": "-52.81942000"
+   },
+   {
+      "name": "Roseira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.93295000",
+      "longitude": "-45.29982000"
+   },
+   {
+      "name": "Rubinéia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.24994000",
+      "longitude": "-51.01836000"
+   },
+   {
+      "name": "Rubiácea",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.36114000",
+      "longitude": "-50.78593000"
+   },
+   {
+      "name": "Sabino",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.47970000",
+      "longitude": "-49.57650000"
+   },
+   {
+      "name": "Sagres",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.86529000",
+      "longitude": "-51.00502000"
+   },
+   {
+      "name": "Sales",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.33848000",
+      "longitude": "-49.51847000"
+   },
+   {
+      "name": "Sales Oliveira",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.83364000",
+      "longitude": "-47.84079000"
+   },
+   {
+      "name": "Salesópolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.58753000",
+      "longitude": "-45.84743000"
+   },
+   {
+      "name": "Salmourão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.58291000",
+      "longitude": "-50.87491000"
+   },
+   {
+      "name": "Saltinho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.86275000",
+      "longitude": "-47.72668000"
+   },
+   {
+      "name": "Salto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.20083000",
+      "longitude": "-47.28694000"
+   },
+   {
+      "name": "Salto Grande",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.87363000",
+      "longitude": "-49.96190000"
+   },
+   {
+      "name": "Salto de Pirapora",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.64889000",
+      "longitude": "-47.57333000"
+   },
+   {
+      "name": "Sandovalina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.45478000",
+      "longitude": "-51.85322000"
+   },
+   {
+      "name": "Santa Adélia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.24278000",
+      "longitude": "-48.80417000"
+   },
+   {
+      "name": "Santa Albertina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.03496000",
+      "longitude": "-50.71776000"
+   },
+   {
+      "name": "Santa Branca",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.39667000",
+      "longitude": "-45.88389000"
+   },
+   {
+      "name": "Santa Bárbara d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.75361000",
+      "longitude": "-47.41361000"
+   },
+   {
+      "name": "Santa Clara d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.07534000",
+      "longitude": "-50.89870000"
+   },
+   {
+      "name": "Santa Cruz da Conceição",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.12608000",
+      "longitude": "-47.49276000"
+   },
+   {
+      "name": "Santa Cruz da Esperança",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.26170000",
+      "longitude": "-47.44749000"
+   },
+   {
+      "name": "Santa Cruz das Palmeiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.82694000",
+      "longitude": "-47.24861000"
+   },
+   {
+      "name": "Santa Cruz do Rio Pardo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.89889000",
+      "longitude": "-49.63250000"
+   },
+   {
+      "name": "Santa Ernestina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.45303000",
+      "longitude": "-48.37797000"
+   },
+   {
+      "name": "Santa Fé do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.21111000",
+      "longitude": "-50.92583000"
+   },
+   {
+      "name": "Santa Gertrudes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.45667000",
+      "longitude": "-47.53028000"
+   },
+   {
+      "name": "Santa Isabel",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.29440000",
+      "longitude": "-46.24151000"
+   },
+   {
+      "name": "Santa Lúcia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.66472000",
+      "longitude": "-48.08283000"
+   },
+   {
+      "name": "Santa Maria da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.53752000",
+      "longitude": "-48.14455000"
+   },
+   {
+      "name": "Santa Mercedes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.31829000",
+      "longitude": "-51.74637000"
+   },
+   {
+      "name": "Santa Rita d'Oeste",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.08064000",
+      "longitude": "-50.81371000"
+   },
+   {
+      "name": "Santa Rita do Passa Quatro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.71028000",
+      "longitude": "-47.47806000"
+   },
+   {
+      "name": "Santa Rosa de Viterbo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.47278000",
+      "longitude": "-47.36306000"
+   },
+   {
+      "name": "Santa Salete",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.27360000",
+      "longitude": "-50.72826000"
+   },
+   {
+      "name": "Santana da Ponte Pensa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.25649000",
+      "longitude": "-50.79852000"
+   },
+   {
+      "name": "Santana de Parnaíba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.44417000",
+      "longitude": "-46.91778000"
+   },
+   {
+      "name": "Santo Anastácio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.01522000",
+      "longitude": "-51.70097000"
+   },
+   {
+      "name": "Santo André",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.71057000",
+      "longitude": "-46.50460000"
+   },
+   {
+      "name": "Santo Antônio da Alegria",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.09238000",
+      "longitude": "-47.20360000"
+   },
+   {
+      "name": "Santo Antônio de Posse",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.60611000",
+      "longitude": "-46.91944000"
+   },
+   {
+      "name": "Santo Antônio do Aracanguá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.85619000",
+      "longitude": "-50.53106000"
+   },
+   {
+      "name": "Santo Antônio do Jardim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.12625000",
+      "longitude": "-46.67237000"
+   },
+   {
+      "name": "Santo Antônio do Pinhal",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.82143000",
+      "longitude": "-45.69968000"
+   },
+   {
+      "name": "Santo Expedito",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.82978000",
+      "longitude": "-51.36993000"
+   },
+   {
+      "name": "Santos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.85663000",
+      "longitude": "-46.27055000"
+   },
+   {
+      "name": "Santópolis do Aguapeí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.67058000",
+      "longitude": "-50.52029000"
+   },
+   {
+      "name": "Sarapuí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.65898000",
+      "longitude": "-47.77095000"
+   },
+   {
+      "name": "Sarutaiá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.25823000",
+      "longitude": "-49.48372000"
+   },
+   {
+      "name": "Sebastianópolis do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.61558000",
+      "longitude": "-49.90753000"
+   },
+   {
+      "name": "Serra Azul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.28755000",
+      "longitude": "-47.53885000"
+   },
+   {
+      "name": "Serra Negra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.61222000",
+      "longitude": "-46.70056000"
+   },
+   {
+      "name": "Serrana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.21139000",
+      "longitude": "-47.59556000"
+   },
+   {
+      "name": "Sertãozinho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.13778000",
+      "longitude": "-47.99028000"
+   },
+   {
+      "name": "Sete Barras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.27723000",
+      "longitude": "-47.95013000"
+   },
+   {
+      "name": "Severínia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.78066000",
+      "longitude": "-48.79037000"
+   },
+   {
+      "name": "Silveiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73649000",
+      "longitude": "-44.84778000"
+   },
+   {
+      "name": "Socorro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.59139000",
+      "longitude": "-46.52889000"
+   },
+   {
+      "name": "Sorocaba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.50167000",
+      "longitude": "-47.45806000"
+   },
+   {
+      "name": "Sud Mennucci",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.61860000",
+      "longitude": "-50.88011000"
+   },
+   {
+      "name": "Sumaré",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.82194000",
+      "longitude": "-47.26694000"
+   },
+   {
+      "name": "Suzano",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54250000",
+      "longitude": "-46.31083000"
+   },
+   {
+      "name": "Suzanápolis",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.51030000",
+      "longitude": "-51.07079000"
+   },
+   {
+      "name": "São Bento do Sapucaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.67091000",
+      "longitude": "-45.68394000"
+   },
+   {
+      "name": "São Bernardo do Campo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.69389000",
+      "longitude": "-46.56500000"
+   },
+   {
+      "name": "São Caetano do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62429000",
+      "longitude": "-46.56241000"
+   },
+   {
+      "name": "São Carlos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.01750000",
+      "longitude": "-47.89083000"
+   },
+   {
+      "name": "São Francisco",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.36457000",
+      "longitude": "-50.67463000"
+   },
+   {
+      "name": "São Joaquim da Barra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.58139000",
+      "longitude": "-47.85472000"
+   },
+   {
+      "name": "São José da Bela Vista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.59934000",
+      "longitude": "-47.62940000"
+   },
+   {
+      "name": "São José do Barreiro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73717000",
+      "longitude": "-44.58545000"
+   },
+   {
+      "name": "São José do Rio Pardo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.59556000",
+      "longitude": "-46.88861000"
+   },
+   {
+      "name": "São José do Rio Preto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.81972000",
+      "longitude": "-49.37944000"
+   },
+   {
+      "name": "São José dos Campos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.17944000",
+      "longitude": "-45.88694000"
+   },
+   {
+      "name": "São João da Boa Vista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.96917000",
+      "longitude": "-46.79806000"
+   },
+   {
+      "name": "São João das Duas Pontes",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.41912000",
+      "longitude": "-50.38960000"
+   },
+   {
+      "name": "São João de Iracema",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.51199000",
+      "longitude": "-50.36102000"
+   },
+   {
+      "name": "São João do Pau d'Alho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.20519000",
+      "longitude": "-51.66857000"
+   },
+   {
+      "name": "São Lourenço da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.84783000",
+      "longitude": "-46.93930000"
+   },
+   {
+      "name": "São Luiz do Paraitinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.26061000",
+      "longitude": "-45.22724000"
+   },
+   {
+      "name": "São Manuel",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.73111000",
+      "longitude": "-48.57056000"
+   },
+   {
+      "name": "São Miguel Arcanjo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.93766000",
+      "longitude": "-47.99988000"
+   },
+   {
+      "name": "São Paulo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54750000",
+      "longitude": "-46.63611000"
+   },
+   {
+      "name": "São Pedro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.55963000",
+      "longitude": "-47.90443000"
+   },
+   {
+      "name": "São Pedro do Turvo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.69638000",
+      "longitude": "-49.74295000"
+   },
+   {
+      "name": "São Roque",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54011000",
+      "longitude": "-47.11280000"
+   },
+   {
+      "name": "São Sebastião",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.76000000",
+      "longitude": "-45.40972000"
+   },
+   {
+      "name": "São Sebastião da Grama",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.74730000",
+      "longitude": "-46.75934000"
+   },
+   {
+      "name": "São Simão",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.47917000",
+      "longitude": "-47.55083000"
+   },
+   {
+      "name": "São Vicente",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.96506000",
+      "longitude": "-46.49683000"
+   },
+   {
+      "name": "Tabapuã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.92377000",
+      "longitude": "-49.02475000"
+   },
+   {
+      "name": "Tabatinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.74210000",
+      "longitude": "-48.64589000"
+   },
+   {
+      "name": "Taboão da Serra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62611000",
+      "longitude": "-46.79167000"
+   },
+   {
+      "name": "Taciba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.49676000",
+      "longitude": "-51.33241000"
+   },
+   {
+      "name": "Taguaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.48512000",
+      "longitude": "-49.40781000"
+   },
+   {
+      "name": "Taiaçu",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.13217000",
+      "longitude": "-48.53092000"
+   },
+   {
+      "name": "Taiúva",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.12737000",
+      "longitude": "-48.42696000"
+   },
+   {
+      "name": "Tambaú",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.58688000",
+      "longitude": "-47.22761000"
+   },
+   {
+      "name": "Tanabi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.50212000",
+      "longitude": "-49.64584000"
+   },
+   {
+      "name": "Tapiratiba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.44656000",
+      "longitude": "-46.73214000"
+   },
+   {
+      "name": "Tapiraí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-24.01487000",
+      "longitude": "-47.62583000"
+   },
+   {
+      "name": "Taquaral",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.06760000",
+      "longitude": "-48.39336000"
+   },
+   {
+      "name": "Taquaritinga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.43270000",
+      "longitude": "-48.54735000"
+   },
+   {
+      "name": "Taquarituba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.52998000",
+      "longitude": "-49.21441000"
+   },
+   {
+      "name": "Taquarivaí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.95095000",
+      "longitude": "-48.67524000"
+   },
+   {
+      "name": "Tarabai",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.35043000",
+      "longitude": "-51.62019000"
+   },
+   {
+      "name": "Tarumã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.76111000",
+      "longitude": "-50.60332000"
+   },
+   {
+      "name": "Tatuí",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.35556000",
+      "longitude": "-47.85694000"
+   },
+   {
+      "name": "Taubaté",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.02639000",
+      "longitude": "-45.55528000"
+   },
+   {
+      "name": "Tejupá",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.35231000",
+      "longitude": "-49.30721000"
+   },
+   {
+      "name": "Teodoro Sampaio",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.41617000",
+      "longitude": "-52.36402000"
+   },
+   {
+      "name": "Terra Roxa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.76175000",
+      "longitude": "-48.36899000"
+   },
+   {
+      "name": "Tietê",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.04197000",
+      "longitude": "-47.71430000"
+   },
+   {
+      "name": "Timburi",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.19265000",
+      "longitude": "-49.61224000"
+   },
+   {
+      "name": "Torre de Pedra",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.24640000",
+      "longitude": "-48.21328000"
+   },
+   {
+      "name": "Torrinha",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.47144000",
+      "longitude": "-48.15338000"
+   },
+   {
+      "name": "Trabiju",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.03023000",
+      "longitude": "-48.36861000"
+   },
+   {
+      "name": "Tremembé",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.92410000",
+      "longitude": "-45.61503000"
+   },
+   {
+      "name": "Três Fronteiras",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.29093000",
+      "longitude": "-50.87027000"
+   },
+   {
+      "name": "Tuiuti",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.84505000",
+      "longitude": "-46.69618000"
+   },
+   {
+      "name": "Tupi Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.38916000",
+      "longitude": "-51.58294000"
+   },
+   {
+      "name": "Tupã",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.95443000",
+      "longitude": "-50.53493000"
+   },
+   {
+      "name": "Turiúba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.94735000",
+      "longitude": "-50.09803000"
+   },
+   {
+      "name": "Turmalina",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.05953000",
+      "longitude": "-50.45595000"
+   },
+   {
+      "name": "Ubarana",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.22036000",
+      "longitude": "-49.72981000"
+   },
+   {
+      "name": "Ubatuba",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.43389000",
+      "longitude": "-45.07111000"
+   },
+   {
+      "name": "Ubirajara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.55131000",
+      "longitude": "-49.66278000"
+   },
+   {
+      "name": "Uchoa",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.91850000",
+      "longitude": "-49.13654000"
+   },
+   {
+      "name": "União Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.88795000",
+      "longitude": "-49.89135000"
+   },
+   {
+      "name": "Uru",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.76519000",
+      "longitude": "-49.29720000"
+   },
+   {
+      "name": "Urupês",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.18413000",
+      "longitude": "-49.28069000"
+   },
+   {
+      "name": "Urânia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.20908000",
+      "longitude": "-50.66093000"
+   },
+   {
+      "name": "Valentim Gentil",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.43138000",
+      "longitude": "-50.12129000"
+   },
+   {
+      "name": "Valinhos",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.97056000",
+      "longitude": "-46.99583000"
+   },
+   {
+      "name": "Valparaíso",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.21512000",
+      "longitude": "-50.94698000"
+   },
+   {
+      "name": "Vargem",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.89117000",
+      "longitude": "-46.41556000"
+   },
+   {
+      "name": "Vargem Grande Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.62856000",
+      "longitude": "-47.01914000"
+   },
+   {
+      "name": "Vargem Grande do Sul",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.87152000",
+      "longitude": "-46.89073000"
+   },
+   {
+      "name": "Vera Cruz",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.23340000",
+      "longitude": "-49.83281000"
+   },
+   {
+      "name": "Vinhedo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.05397000",
+      "longitude": "-46.98135000"
+   },
+   {
+      "name": "Viradouro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.87625000",
+      "longitude": "-48.31479000"
+   },
+   {
+      "name": "Vista Alegre do Alto",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.18019000",
+      "longitude": "-48.65482000"
+   },
+   {
+      "name": "Vitória Brasil",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.19354000",
+      "longitude": "-50.47940000"
+   },
+   {
+      "name": "Votorantim",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.54667000",
+      "longitude": "-47.43778000"
+   },
+   {
+      "name": "Votuporanga",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.48010000",
+      "longitude": "-50.01266000"
+   },
+   {
+      "name": "Várzea Paulista",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-23.21139000",
+      "longitude": "-46.82833000"
+   },
+   {
+      "name": "Zacarias",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.11651000",
+      "longitude": "-50.06154000"
+   },
+   {
+      "name": "Águas da Prata",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-21.91623000",
+      "longitude": "-46.68666000"
+   },
+   {
+      "name": "Águas de Lindóia",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.47639000",
+      "longitude": "-46.63278000"
+   },
+   {
+      "name": "Águas de Santa Bárbara",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.85764000",
+      "longitude": "-49.25362000"
+   },
+   {
+      "name": "Águas de São Pedro",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.60238000",
+      "longitude": "-47.87481000"
+   },
+   {
+      "name": "Álvares Florence",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-20.27757000",
+      "longitude": "-49.91405000"
+   },
+   {
+      "name": "Álvares Machado",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.07944000",
+      "longitude": "-51.47194000"
+   },
+   {
+      "name": "Álvaro de Carvalho",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.08676000",
+      "longitude": "-49.73512000"
+   },
+   {
+      "name": "Óleo",
+      "countryCode": "BR",
+      "stateCode": "SP",
+      "latitude": "-22.94964000",
+      "longitude": "-49.38996000"
+   }
+]

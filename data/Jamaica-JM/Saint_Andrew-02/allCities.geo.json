@@ -1,0 +1,751 @@
+[
+   {
+      "name": "Arcadia",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03737000",
+      "longitude": "-76.78201000"
+   },
+   {
+      "name": "Arlene Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03713000",
+      "longitude": "-76.81791000"
+   },
+   {
+      "name": "Arnett Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99150000",
+      "longitude": "-76.79829000"
+   },
+   {
+      "name": "August Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99556000",
+      "longitude": "-76.73673000"
+   },
+   {
+      "name": "Barbican",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03549000",
+      "longitude": "-76.76987000"
+   },
+   {
+      "name": "Beverley Hills",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00833000",
+      "longitude": "-76.76208000"
+   },
+   {
+      "name": "Bito",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.97363000",
+      "longitude": "-76.66625000"
+   },
+   {
+      "name": "Bloxborough",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99581000",
+      "longitude": "-76.64767000"
+   },
+   {
+      "name": "Boucher Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00344000",
+      "longitude": "-76.81257000"
+   },
+   {
+      "name": "Brandon Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.14822000",
+      "longitude": "-76.80513000"
+   },
+   {
+      "name": "Bull Bay/ Seven Mile",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.95247000",
+      "longitude": "-76.68404000"
+   },
+   {
+      "name": "Cane River",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98098000",
+      "longitude": "-76.68624000"
+   },
+   {
+      "name": "Cassia Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02047000",
+      "longitude": "-76.80665000"
+   },
+   {
+      "name": "Cavaliers",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.09677000",
+      "longitude": "-76.84321000"
+   },
+   {
+      "name": "Cherry Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04963000",
+      "longitude": "-76.77867000"
+   },
+   {
+      "name": "Cockburn Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00357000",
+      "longitude": "-76.82435000"
+   },
+   {
+      "name": "Constant Spring",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.05078000",
+      "longitude": "-76.79372000"
+   },
+   {
+      "name": "Constant Spring Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02942000",
+      "longitude": "-76.79956000"
+   },
+   {
+      "name": "Constitution Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01488000",
+      "longitude": "-76.70515000"
+   },
+   {
+      "name": "Content Gap",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04082000",
+      "longitude": "-76.69070000"
+   },
+   {
+      "name": "Cooreville Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02244000",
+      "longitude": "-76.84852000"
+   },
+   {
+      "name": "Cross Roads",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99454000",
+      "longitude": "-76.78810000"
+   },
+   {
+      "name": "Dallas",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98463000",
+      "longitude": "-76.71256000"
+   },
+   {
+      "name": "Delacree Park/ Union Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99210000",
+      "longitude": "-76.82240000"
+   },
+   {
+      "name": "Delacree Pen",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99579000",
+      "longitude": "-76.81709000"
+   },
+   {
+      "name": "Drewsland",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02381000",
+      "longitude": "-76.82626000"
+   },
+   {
+      "name": "Drumblair",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02354000",
+      "longitude": "-76.78759000"
+   },
+   {
+      "name": "Duhaney Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03086000",
+      "longitude": "-76.84617000"
+   },
+   {
+      "name": "Eastwood Park Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01891000",
+      "longitude": "-76.80072000"
+   },
+   {
+      "name": "Elleston Flats/ Mona Commons",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00945000",
+      "longitude": "-76.74034000"
+   },
+   {
+      "name": "Ferry",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02771000",
+      "longitude": "-76.86720000"
+   },
+   {
+      "name": "Forest Hills Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03848000",
+      "longitude": "-76.82868000"
+   },
+   {
+      "name": "Forest Hills/ Plantation Height",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04300000",
+      "longitude": "-76.85140000"
+   },
+   {
+      "name": "Golden Spring",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.09446000",
+      "longitude": "-76.79727000"
+   },
+   {
+      "name": "Gordon Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03762000",
+      "longitude": "-76.72353000"
+   },
+   {
+      "name": "Grants Pen",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03258000",
+      "longitude": "-76.78887000"
+   },
+   {
+      "name": "Greenwich Town/ Newport West",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98438000",
+      "longitude": "-76.82559000"
+   },
+   {
+      "name": "Half Way Tree",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01248000",
+      "longitude": "-76.79928000"
+   },
+   {
+      "name": "Half-Way-Tree",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01259000",
+      "longitude": "-76.79582000"
+   },
+   {
+      "name": "Harbour View",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.95146000",
+      "longitude": "-76.71662000"
+   },
+   {
+      "name": "Havendale",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.05429000",
+      "longitude": "-76.80870000"
+   },
+   {
+      "name": "Hermitage",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98351000",
+      "longitude": "-76.74102000"
+   },
+   {
+      "name": "Hope Pastures/ UTECH",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02306000",
+      "longitude": "-76.74987000"
+   },
+   {
+      "name": "Hope Tavern",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01233000",
+      "longitude": "-76.73202000"
+   },
+   {
+      "name": "Hughenden",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03037000",
+      "longitude": "-76.81728000"
+   },
+   {
+      "name": "Irish Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.06234000",
+      "longitude": "-76.70262000"
+   },
+   {
+      "name": "Jacks Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03872000",
+      "longitude": "-76.74892000"
+   },
+   {
+      "name": "Jones Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98422000",
+      "longitude": "-76.79691000"
+   },
+   {
+      "name": "Kencot",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00041000",
+      "longitude": "-76.79835000"
+   },
+   {
+      "name": "Kintyre",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02133000",
+      "longitude": "-76.72688000"
+   },
+   {
+      "name": "Lawrence Tavern",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.13742000",
+      "longitude": "-76.84736000"
+   },
+   {
+      "name": "Liguanea",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02097000",
+      "longitude": "-76.76827000"
+   },
+   {
+      "name": "Majestic Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00023000",
+      "longitude": "-76.83295000"
+   },
+   {
+      "name": "Mannings Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.07052000",
+      "longitude": "-76.81288000"
+   },
+   {
+      "name": "Mannings Hill (Rural)",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.08169000",
+      "longitude": "-76.82328000"
+   },
+   {
+      "name": "Marverley",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02676000",
+      "longitude": "-76.82652000"
+   },
+   {
+      "name": "Maryland",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.05166000",
+      "longitude": "-76.74320000"
+   },
+   {
+      "name": "Mavis Bank",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03333000",
+      "longitude": "-76.66667000"
+   },
+   {
+      "name": "Maxfield Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99937000",
+      "longitude": "-76.80800000"
+   },
+   {
+      "name": "Meadowbrook",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04708000",
+      "longitude": "-76.81553000"
+   },
+   {
+      "name": "Meadowbrook Estate",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03738000",
+      "longitude": "-76.82964000"
+   },
+   {
+      "name": "Molynes Four Roads",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01035000",
+      "longitude": "-76.81112000"
+   },
+   {
+      "name": "Molynes Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01980000",
+      "longitude": "-76.81621000"
+   },
+   {
+      "name": "Mona Heights",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01331000",
+      "longitude": "-76.75086000"
+   },
+   {
+      "name": "Mount James",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.12069000",
+      "longitude": "-76.77394000"
+   },
+   {
+      "name": "Mountain View Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99186000",
+      "longitude": "-76.76070000"
+   },
+   {
+      "name": "Nannyville",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99677000",
+      "longitude": "-76.76949000"
+   },
+   {
+      "name": "New Haven",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02953000",
+      "longitude": "-76.85425000"
+   },
+   {
+      "name": "New Kingston",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00747000",
+      "longitude": "-76.78319000"
+   },
+   {
+      "name": "Norbrook",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.05483000",
+      "longitude": "-76.78498000"
+   },
+   {
+      "name": "Oaklands",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03558000",
+      "longitude": "-76.79563000"
+   },
+   {
+      "name": "Papine",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01536000",
+      "longitude": "-76.73868000"
+   },
+   {
+      "name": "Parks Road",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.09802000",
+      "longitude": "-76.85941000"
+   },
+   {
+      "name": "Patrick City",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03185000",
+      "longitude": "-76.83774000"
+   },
+   {
+      "name": "Pembroke Hall",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03113000",
+      "longitude": "-76.83003000"
+   },
+   {
+      "name": "Penwood",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01952000",
+      "longitude": "-76.83094000"
+   },
+   {
+      "name": "Queensborough/ Tunbridge",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04289000",
+      "longitude": "-76.82119000"
+   },
+   {
+      "name": "Red Hills (Rural)",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.06777000",
+      "longitude": "-76.86093000"
+   },
+   {
+      "name": "Red Hills Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03000000",
+      "longitude": "-76.80994000"
+   },
+   {
+      "name": "Red Hills/ Sterling Castle",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.05946000",
+      "longitude": "-76.84028000"
+   },
+   {
+      "name": "Richmond Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00560000",
+      "longitude": "-76.80464000"
+   },
+   {
+      "name": "Riverton City",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01443000",
+      "longitude": "-76.84897000"
+   },
+   {
+      "name": "Roehampton",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.04320000",
+      "longitude": "-76.80841000"
+   },
+   {
+      "name": "Rose Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98697000",
+      "longitude": "-76.80726000"
+   },
+   {
+      "name": "Seaview Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00619000",
+      "longitude": "-76.84106000"
+   },
+   {
+      "name": "Seaward Pen",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01900000",
+      "longitude": "-76.82368000"
+   },
+   {
+      "name": "Seymour Lands",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01291000",
+      "longitude": "-76.77706000"
+   },
+   {
+      "name": "St. Peter's",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.07881000",
+      "longitude": "-76.67202000"
+   },
+   {
+      "name": "Stadium Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99501000",
+      "longitude": "-76.77644000"
+   },
+   {
+      "name": "Stony Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.07916000",
+      "longitude": "-76.78473000"
+   },
+   {
+      "name": "Swallowfield",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00486000",
+      "longitude": "-76.77439000"
+   },
+   {
+      "name": "Temple Hall",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.10471000",
+      "longitude": "-76.81818000"
+   },
+   {
+      "name": "Three Oaks/ Glendale",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03128000",
+      "longitude": "-76.82447000"
+   },
+   {
+      "name": "Tower Hill",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01183000",
+      "longitude": "-76.82807000"
+   },
+   {
+      "name": "Trafalgar Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01280000",
+      "longitude": "-76.78465000"
+   },
+   {
+      "name": "Trench Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98743000",
+      "longitude": "-76.80118000"
+   },
+   {
+      "name": "University",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.00094000",
+      "longitude": "-76.74769000"
+   },
+   {
+      "name": "Vineyard Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98690000",
+      "longitude": "-76.77059000"
+   },
+   {
+      "name": "Waltham Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01085000",
+      "longitude": "-76.82049000"
+   },
+   {
+      "name": "Washington Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02174000",
+      "longitude": "-76.84020000"
+   },
+   {
+      "name": "Waterhouse",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.01231000",
+      "longitude": "-76.83505000"
+   },
+   {
+      "name": "Whitehall",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.03838000",
+      "longitude": "-76.80583000"
+   },
+   {
+      "name": "Whitfield Town",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.99212000",
+      "longitude": "-76.80910000"
+   },
+   {
+      "name": "Wilton Gardens/ Rema",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98287000",
+      "longitude": "-76.80422000"
+   },
+   {
+      "name": "Woodford",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.07362000",
+      "longitude": "-76.74632000"
+   },
+   {
+      "name": "Woodford Park",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "17.98712000",
+      "longitude": "-76.78117000"
+   },
+   {
+      "name": "Zaidie Gardens",
+      "countryCode": "JM",
+      "stateCode": "02",
+      "latitude": "18.02566000",
+      "longitude": "-76.80978000"
+   }
+]

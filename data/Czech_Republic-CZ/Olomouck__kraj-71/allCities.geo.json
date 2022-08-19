@@ -1,0 +1,800 @@
+[
+   {
+      "name": "Bedihošť",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.44826000",
+      "longitude": "17.16643000"
+   },
+   {
+      "name": "Bludov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.94080000",
+      "longitude": "16.92849000"
+   },
+   {
+      "name": "Bohuňovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.66301000",
+      "longitude": "17.28693000"
+   },
+   {
+      "name": "Bouzov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.70426000",
+      "longitude": "16.89288000"
+   },
+   {
+      "name": "Brodek u Přerova",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.48419000",
+      "longitude": "17.33825000"
+   },
+   {
+      "name": "Bílá Lhota",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.70953000",
+      "longitude": "16.97507000"
+   },
+   {
+      "name": "Bělotín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.59120000",
+      "longitude": "17.80654000"
+   },
+   {
+      "name": "Dolany",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.64987000",
+      "longitude": "17.32240000"
+   },
+   {
+      "name": "Dolní Bohdíkov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.00996000",
+      "longitude": "16.90433000"
+   },
+   {
+      "name": "Dolní Studénky",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.93506000",
+      "longitude": "16.97107000"
+   },
+   {
+      "name": "Dolní Újezd",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.54597000",
+      "longitude": "17.53547000"
+   },
+   {
+      "name": "Doloplazy",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.56876000",
+      "longitude": "17.41393000"
+   },
+   {
+      "name": "Drahanovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.57856000",
+      "longitude": "17.07701000"
+   },
+   {
+      "name": "Dub nad Moravou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.48249000",
+      "longitude": "17.27723000"
+   },
+   {
+      "name": "Dubicko",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.82806000",
+      "longitude": "16.96266000"
+   },
+   {
+      "name": "Dřevohostice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.42594000",
+      "longitude": "17.59204000"
+   },
+   {
+      "name": "Grygov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.53841000",
+      "longitude": "17.30887000"
+   },
+   {
+      "name": "Hanušovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.08049000",
+      "longitude": "16.93641000"
+   },
+   {
+      "name": "Hlubočky",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.61783000",
+      "longitude": "17.39436000"
+   },
+   {
+      "name": "Hněvotín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.57205000",
+      "longitude": "17.17954000"
+   },
+   {
+      "name": "Horka nad Moravou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.64009000",
+      "longitude": "17.21070000"
+   },
+   {
+      "name": "Horní Moštěnice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.41213000",
+      "longitude": "17.45879000"
+   },
+   {
+      "name": "Horní Štěpánov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.54901000",
+      "longitude": "16.79078000"
+   },
+   {
+      "name": "Hranice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.54796000",
+      "longitude": "17.73469000"
+   },
+   {
+      "name": "Hustopeče Nad Bečvou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.53053000",
+      "longitude": "17.86994000"
+   },
+   {
+      "name": "Javorník",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.39077000",
+      "longitude": "17.00272000"
+   },
+   {
+      "name": "Jeseník",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.22937000",
+      "longitude": "17.20464000"
+   },
+   {
+      "name": "Kojetín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.35179000",
+      "longitude": "17.30207000"
+   },
+   {
+      "name": "Kokory",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.49482000",
+      "longitude": "17.37544000"
+   },
+   {
+      "name": "Konice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.59030000",
+      "longitude": "16.88911000"
+   },
+   {
+      "name": "Kostelec na Hané",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.51398000",
+      "longitude": "17.05824000"
+   },
+   {
+      "name": "Kralice na Hané",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.46296000",
+      "longitude": "17.18048000"
+   },
+   {
+      "name": "Leština",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.86879000",
+      "longitude": "16.92748000"
+   },
+   {
+      "name": "Lipník nad Bečvou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.52721000",
+      "longitude": "17.58594000"
+   },
+   {
+      "name": "Litovel",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.70121000",
+      "longitude": "17.07615000"
+   },
+   {
+      "name": "Loučná nad Desnou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.07433000",
+      "longitude": "17.09052000"
+   },
+   {
+      "name": "Loštice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.74470000",
+      "longitude": "16.92892000"
+   },
+   {
+      "name": "Lutín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.55845000",
+      "longitude": "17.13572000"
+   },
+   {
+      "name": "Majetín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.49808000",
+      "longitude": "17.33314000"
+   },
+   {
+      "name": "Medlov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.78754000",
+      "longitude": "17.06261000"
+   },
+   {
+      "name": "Mikulovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.29854000",
+      "longitude": "17.32155000"
+   },
+   {
+      "name": "Mohelnice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.77698000",
+      "longitude": "16.91946000"
+   },
+   {
+      "name": "Moravičany",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.75694000",
+      "longitude": "16.96042000"
+   },
+   {
+      "name": "Moravský Beroun",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.79374000",
+      "longitude": "17.44212000"
+   },
+   {
+      "name": "Mostkovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.47215000",
+      "longitude": "17.05212000"
+   },
+   {
+      "name": "Město Libavá",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.72162000",
+      "longitude": "17.52013000"
+   },
+   {
+      "name": "Nezamyslice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.32543000",
+      "longitude": "17.17326000"
+   },
+   {
+      "name": "Nový Malín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.94262000",
+      "longitude": "17.03191000"
+   },
+   {
+      "name": "Náklo",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.65462000",
+      "longitude": "17.12969000"
+   },
+   {
+      "name": "Náměšť na Hané",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.60213000",
+      "longitude": "17.06539000"
+   },
+   {
+      "name": "Němčice nad Hanou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.34181000",
+      "longitude": "17.20596000"
+   },
+   {
+      "name": "Okres Jeseník",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.25000000",
+      "longitude": "17.16667000"
+   },
+   {
+      "name": "Okres Olomouc",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.66667000",
+      "longitude": "17.25000000"
+   },
+   {
+      "name": "Okres Prostějov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.50000000",
+      "longitude": "17.03333000"
+   },
+   {
+      "name": "Okres Přerov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.50000000",
+      "longitude": "17.55000000"
+   },
+   {
+      "name": "Okres Šumperk",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.00000000",
+      "longitude": "17.00000000"
+   },
+   {
+      "name": "Olomouc",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.59552000",
+      "longitude": "17.25175000"
+   },
+   {
+      "name": "Olšany",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.96509000",
+      "longitude": "16.85894000"
+   },
+   {
+      "name": "Osek nad Bečvou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.51121000",
+      "longitude": "17.52829000"
+   },
+   {
+      "name": "Oskava",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.89523000",
+      "longitude": "17.13214000"
+   },
+   {
+      "name": "Otaslavice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.38833000",
+      "longitude": "17.07108000"
+   },
+   {
+      "name": "Paseka",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.79644000",
+      "longitude": "17.22276000"
+   },
+   {
+      "name": "Plumlov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.46614000",
+      "longitude": "17.01502000"
+   },
+   {
+      "name": "Postřelmov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.90756000",
+      "longitude": "16.91226000"
+   },
+   {
+      "name": "Potštát",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.63693000",
+      "longitude": "17.65174000"
+   },
+   {
+      "name": "Prostějov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.47188000",
+      "longitude": "17.11184000"
+   },
+   {
+      "name": "Protivanov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.48351000",
+      "longitude": "16.83594000"
+   },
+   {
+      "name": "Ptení",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.51163000",
+      "longitude": "16.96110000"
+   },
+   {
+      "name": "Písečná",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.27303000",
+      "longitude": "17.25373000"
+   },
+   {
+      "name": "Přemyslovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.55637000",
+      "longitude": "16.95581000"
+   },
+   {
+      "name": "Přerov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.45511000",
+      "longitude": "17.45090000"
+   },
+   {
+      "name": "Přáslavice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.58568000",
+      "longitude": "17.38209000"
+   },
+   {
+      "name": "Příkazy",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.64360000",
+      "longitude": "17.14337000"
+   },
+   {
+      "name": "Radslavice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.47817000",
+      "longitude": "17.51656000"
+   },
+   {
+      "name": "Rapotín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.01094000",
+      "longitude": "17.03121000"
+   },
+   {
+      "name": "Rokytnice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.46592000",
+      "longitude": "17.39120000"
+   },
+   {
+      "name": "Ruda nad Moravou",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.98100000",
+      "longitude": "16.87782000"
+   },
+   {
+      "name": "Samotíšky",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.63042000",
+      "longitude": "17.32807000"
+   },
+   {
+      "name": "Senice na Hané",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.62401000",
+      "longitude": "17.08578000"
+   },
+   {
+      "name": "Skrbeň",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.64115000",
+      "longitude": "17.17650000"
+   },
+   {
+      "name": "Slatinice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.56155000",
+      "longitude": "17.09992000"
+   },
+   {
+      "name": "Smržice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.50569000",
+      "longitude": "17.10698000"
+   },
+   {
+      "name": "Sobotín",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.01039000",
+      "longitude": "17.09129000"
+   },
+   {
+      "name": "Staré Město",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.16174000",
+      "longitude": "16.94734000"
+   },
+   {
+      "name": "Strážná",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.83104000",
+      "longitude": "17.13275000"
+   },
+   {
+      "name": "Sudkov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.91903000",
+      "longitude": "16.94516000"
+   },
+   {
+      "name": "Tovačov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.43083000",
+      "longitude": "17.28795000"
+   },
+   {
+      "name": "Troubelice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.81731000",
+      "longitude": "17.08100000"
+   },
+   {
+      "name": "Troubky",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.43215000",
+      "longitude": "17.34914000"
+   },
+   {
+      "name": "Tršice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.54237000",
+      "longitude": "17.42483000"
+   },
+   {
+      "name": "Těšetice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.59317000",
+      "longitude": "17.12607000"
+   },
+   {
+      "name": "Uničov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.77092000",
+      "longitude": "17.12144000"
+   },
+   {
+      "name": "Určice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.43045000",
+      "longitude": "17.07291000"
+   },
+   {
+      "name": "Velká Bystřice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.59480000",
+      "longitude": "17.36544000"
+   },
+   {
+      "name": "Velké Losiny",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.03197000",
+      "longitude": "17.04058000"
+   },
+   {
+      "name": "Velký Týnec",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.54994000",
+      "longitude": "17.33359000"
+   },
+   {
+      "name": "Velký Újezd",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.57858000",
+      "longitude": "17.48347000"
+   },
+   {
+      "name": "Vidnava",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.37234000",
+      "longitude": "17.18626000"
+   },
+   {
+      "name": "Vikýřovice",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.97792000",
+      "longitude": "17.01234000"
+   },
+   {
+      "name": "Vrbátky",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.50805000",
+      "longitude": "17.19994000"
+   },
+   {
+      "name": "Vápenná",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.28338000",
+      "longitude": "17.09762000"
+   },
+   {
+      "name": "Věrovany",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.46109000",
+      "longitude": "17.28795000"
+   },
+   {
+      "name": "Zlaté Hory",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.26380000",
+      "longitude": "17.39602000"
+   },
+   {
+      "name": "Zábřeh",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.88260000",
+      "longitude": "16.87223000"
+   },
+   {
+      "name": "Újezd",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.76397000",
+      "longitude": "17.18040000"
+   },
+   {
+      "name": "Úsov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.79831000",
+      "longitude": "17.01055000"
+   },
+   {
+      "name": "Čelechovice na Hané",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.51626000",
+      "longitude": "17.09379000"
+   },
+   {
+      "name": "Červenka",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.72068000",
+      "longitude": "17.07773000"
+   },
+   {
+      "name": "Česká Ves",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.25736000",
+      "longitude": "17.22805000"
+   },
+   {
+      "name": "Šternberk",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.73044000",
+      "longitude": "17.29889000"
+   },
+   {
+      "name": "Štíty",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.96122000",
+      "longitude": "16.76576000"
+   },
+   {
+      "name": "Štěpánov",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.68404000",
+      "longitude": "17.22041000"
+   },
+   {
+      "name": "Šumperk",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "49.96528000",
+      "longitude": "16.97061000"
+   },
+   {
+      "name": "Žulová",
+      "countryCode": "CZ",
+      "stateCode": "71",
+      "latitude": "50.30933000",
+      "longitude": "17.09871000"
+   }
+]

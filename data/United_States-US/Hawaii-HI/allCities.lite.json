@@ -1,0 +1,607 @@
+[
+   {
+      "name": "Ainaloa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Anahola",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Captain Cook",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "East Honolulu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Fern Acres",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Haiku-Pauwela",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hale‘iwa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hana",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hanamā‘ulu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hanapēpē",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hanapēpē Heights",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hau‘ula",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hawaii County",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hawaiian Acres",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hawaiian Beaches",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hawaiian Ocean View",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hawaiian Paradise Park",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "He‘eia",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hickam Field",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hilo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Honalo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Honaunau-Napoopoo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Honoka‘a",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Honolulu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Honolulu County",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hālawa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hālawa Heights",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hāwī",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Hōlualoa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Iroquois Point",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kaanapali Landing",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kahaluu-Keauhou",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kahalu‘u",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kahuku",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kahului",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kailua",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kailua-Kona",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kalaoa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kalawao County",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kalāheo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kaneohe",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kapaau",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kapa‘a",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kapolei",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kauai County",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kaunakakai",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Ka‘a‘awa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kealakekua",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kea‘au",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kekaha",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Ko Olina",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Koloa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kualapu‘u",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kula",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kurtistown",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kā‘anapali",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kēōkea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kīhei",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Kīlauea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Lahaina",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Lanai City",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Lawai",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Leilani Estates",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Lihue",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Lā‘ie",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Makakilo City",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Makawao",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Marine Corps Base Hawaii - MCBH",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Maui County",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Maunawili",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mililani Town",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mokulēia",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mountain View",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mākaha",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mākaha Valley",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Mā‘ili",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Nanawale Estates",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Napili-Honokowai",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Nānākuli",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Ocean Pointe",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Orchidlands Estates",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Paia",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pearl City",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pepeekeo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Princeville",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Puhi",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pukalani",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Punalu‘u",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pupukea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pāhala",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Pāpa‘ikou",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Royal Kunia",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Schofield Barracks",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Village Park",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Volcano",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wahiawā",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waialua",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waianae",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waihee-Waiehu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waikapū",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waikoloa",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wailea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wailua",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wailua Homesteads",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wailuku",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waimalu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waimanalo",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waimea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waimānalo Beach",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Wainaku",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waipahu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waipio",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Waipi‘o Acres",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "Whitmore Village",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Aiea",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Ele‘ele",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Ewa Beach",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Ewa Gentry",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Ewa Villages",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Āhuimanu",
+      "countryCode": "US",
+      "stateCode": "HI"
+   },
+   {
+      "name": "‘Ōma‘o",
+      "countryCode": "US",
+      "stateCode": "HI"
+   }
+]

@@ -1,0 +1,205 @@
+[
+   {
+      "name": "Bansko",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.83830000",
+      "longitude": "23.48851000"
+   },
+   {
+      "name": "Belitsa",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.95694000",
+      "longitude": "23.57250000"
+   },
+   {
+      "name": "Blagoevgrad",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "42.01667000",
+      "longitude": "23.10000000"
+   },
+   {
+      "name": "Garmen",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.60000000",
+      "longitude": "23.81667000"
+   },
+   {
+      "name": "Gotse Delchev",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.56667000",
+      "longitude": "23.73333000"
+   },
+   {
+      "name": "Hadzhidimovo",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.52222000",
+      "longitude": "23.86861000"
+   },
+   {
+      "name": "Kolarovo",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.36385000",
+      "longitude": "23.10669000"
+   },
+   {
+      "name": "Kresna",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.73333000",
+      "longitude": "23.15000000"
+   },
+   {
+      "name": "Obshtina Bansko",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.80000000",
+      "longitude": "23.60000000"
+   },
+   {
+      "name": "Obshtina Belitsa",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "42.01667000",
+      "longitude": "23.58333000"
+   },
+   {
+      "name": "Obshtina Blagoevgrad",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "42.01667000",
+      "longitude": "23.16667000"
+   },
+   {
+      "name": "Obshtina Garmen",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.70000000",
+      "longitude": "23.85000000"
+   },
+   {
+      "name": "Obshtina Gotse Delchev",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.63333000",
+      "longitude": "23.68333000"
+   },
+   {
+      "name": "Obshtina Kresna",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.76667000",
+      "longitude": "23.23333000"
+   },
+   {
+      "name": "Obshtina Petrich",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.45000000",
+      "longitude": "23.16667000"
+   },
+   {
+      "name": "Obshtina Razlog",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.95000000",
+      "longitude": "23.46667000"
+   },
+   {
+      "name": "Obshtina Sandanski",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.56667000",
+      "longitude": "23.45000000"
+   },
+   {
+      "name": "Obshtina Satovcha",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.59848000",
+      "longitude": "24.00781000"
+   },
+   {
+      "name": "Obshtina Simitli",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.88333000",
+      "longitude": "23.16667000"
+   },
+   {
+      "name": "Obshtina Strumyani",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.63333000",
+      "longitude": "23.20000000"
+   },
+   {
+      "name": "Obshtina Yakoruda",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "42.08333000",
+      "longitude": "23.70000000"
+   },
+   {
+      "name": "Petrich",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.39846000",
+      "longitude": "23.20702000"
+   },
+   {
+      "name": "Razlog",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.88630000",
+      "longitude": "23.46714000"
+   },
+   {
+      "name": "Sandanski",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.56667000",
+      "longitude": "23.28333000"
+   },
+   {
+      "name": "Satovcha",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.61667000",
+      "longitude": "23.98333000"
+   },
+   {
+      "name": "Simitli",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.88333000",
+      "longitude": "23.11667000"
+   },
+   {
+      "name": "Stara Kresna",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.80000000",
+      "longitude": "23.18333000"
+   },
+   {
+      "name": "Strumyani",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "41.63333000",
+      "longitude": "23.20000000"
+   },
+   {
+      "name": "Yakoruda",
+      "countryCode": "BG",
+      "stateCode": "01",
+      "latitude": "42.02528000",
+      "longitude": "23.68417000"
+   }
+]

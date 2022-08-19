@@ -1,0 +1,604 @@
+[
+   {
+      "name": "Abaújszántó",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.28333000",
+      "longitude": "21.20000000"
+   },
+   {
+      "name": "Alsózsolca",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.06982000",
+      "longitude": "20.88046000"
+   },
+   {
+      "name": "Arló",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.18333000",
+      "longitude": "20.26667000"
+   },
+   {
+      "name": "Arnót",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.13058000",
+      "longitude": "20.85832000"
+   },
+   {
+      "name": "Aszaló",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.21667000",
+      "longitude": "20.96667000"
+   },
+   {
+      "name": "Bekecs",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.15000000",
+      "longitude": "21.18333000"
+   },
+   {
+      "name": "Bogács",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.90000000",
+      "longitude": "20.53333000"
+   },
+   {
+      "name": "Boldva",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.21667000",
+      "longitude": "20.80000000"
+   },
+   {
+      "name": "Borsodnádasd",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.11667000",
+      "longitude": "20.25000000"
+   },
+   {
+      "name": "Bőcs",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.05000000",
+      "longitude": "20.96667000"
+   },
+   {
+      "name": "Cigánd",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.25561000",
+      "longitude": "21.89195000"
+   },
+   {
+      "name": "Cigándi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.30338000",
+      "longitude": "21.87651000"
+   },
+   {
+      "name": "Edelény",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.30000000",
+      "longitude": "20.73333000"
+   },
+   {
+      "name": "Edelényi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.40864000",
+      "longitude": "20.77506000"
+   },
+   {
+      "name": "Emőd",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.93333000",
+      "longitude": "20.81667000"
+   },
+   {
+      "name": "Encs",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.33333000",
+      "longitude": "21.13333000"
+   },
+   {
+      "name": "Encsi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.39948000",
+      "longitude": "21.08169000"
+   },
+   {
+      "name": "Farkaslyuk",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.18333000",
+      "longitude": "20.31667000"
+   },
+   {
+      "name": "Felsőzsolca",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.10000000",
+      "longitude": "20.86667000"
+   },
+   {
+      "name": "Gesztely",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.10000000",
+      "longitude": "20.96667000"
+   },
+   {
+      "name": "Gönc",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.46667000",
+      "longitude": "21.28333000"
+   },
+   {
+      "name": "Gönci Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.39948000",
+      "longitude": "21.28307000"
+   },
+   {
+      "name": "Halmaj",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.25000000",
+      "longitude": "21.00000000"
+   },
+   {
+      "name": "Harsány",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.96667000",
+      "longitude": "20.75000000"
+   },
+   {
+      "name": "Hejőbába",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.90000000",
+      "longitude": "20.95000000"
+   },
+   {
+      "name": "Hernádnémeti",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.06667000",
+      "longitude": "20.98333000"
+   },
+   {
+      "name": "Izsófalva",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.30000000",
+      "longitude": "20.66667000"
+   },
+   {
+      "name": "Járdánháza",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.15000000",
+      "longitude": "20.25000000"
+   },
+   {
+      "name": "Karcsa",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.31130000",
+      "longitude": "21.80537000"
+   },
+   {
+      "name": "Kazincbarcika",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.25000000",
+      "longitude": "20.63333000"
+   },
+   {
+      "name": "Kazincbarcikai Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.26371000",
+      "longitude": "20.57978000"
+   },
+   {
+      "name": "Megyaszó",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.18333000",
+      "longitude": "21.05000000"
+   },
+   {
+      "name": "Mezőcsát",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.81667000",
+      "longitude": "20.91667000"
+   },
+   {
+      "name": "Mezőcsáti Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.79841000",
+      "longitude": "20.91693000"
+   },
+   {
+      "name": "Mezőkeresztes",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.83333000",
+      "longitude": "20.70000000"
+   },
+   {
+      "name": "Mezőkövesd",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.81667000",
+      "longitude": "20.58333000"
+   },
+   {
+      "name": "Mezőkövesdi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.84876000",
+      "longitude": "20.63623000"
+   },
+   {
+      "name": "Mezőzombor",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.15000000",
+      "longitude": "21.26667000"
+   },
+   {
+      "name": "Miskolc",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.10000000",
+      "longitude": "20.78333000"
+   },
+   {
+      "name": "Miskolci Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.08675000",
+      "longitude": "20.77353000"
+   },
+   {
+      "name": "Monok",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.21102000",
+      "longitude": "21.15052000"
+   },
+   {
+      "name": "Mád",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.19442000",
+      "longitude": "21.28208000"
+   },
+   {
+      "name": "Mályi",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.01667000",
+      "longitude": "20.83333000"
+   },
+   {
+      "name": "Múcsony",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.26667000",
+      "longitude": "20.68333000"
+   },
+   {
+      "name": "Nyékládháza",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.98333000",
+      "longitude": "20.83333000"
+   },
+   {
+      "name": "Olaszliszka",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.25000000",
+      "longitude": "21.43333000"
+   },
+   {
+      "name": "Onga",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.11667000",
+      "longitude": "20.91667000"
+   },
+   {
+      "name": "Prügy",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.08333000",
+      "longitude": "21.25000000"
+   },
+   {
+      "name": "Putnok",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.30000000",
+      "longitude": "20.43333000"
+   },
+   {
+      "name": "Putnoki Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.33694000",
+      "longitude": "20.46384000"
+   },
+   {
+      "name": "Ricse",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.32565000",
+      "longitude": "21.97069000"
+   },
+   {
+      "name": "Rudabánya",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.38333000",
+      "longitude": "20.63333000"
+   },
+   {
+      "name": "Sajóbábony",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.16667000",
+      "longitude": "20.73333000"
+   },
+   {
+      "name": "Sajókaza",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.28333000",
+      "longitude": "20.58333000"
+   },
+   {
+      "name": "Sajólád",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.05000000",
+      "longitude": "20.90000000"
+   },
+   {
+      "name": "Sajószentpéter",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.21667000",
+      "longitude": "20.71667000"
+   },
+   {
+      "name": "Sajószöged",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.95000000",
+      "longitude": "21.00000000"
+   },
+   {
+      "name": "Sajóvámos",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.18171000",
+      "longitude": "20.83149000"
+   },
+   {
+      "name": "Sajóörös",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.95000000",
+      "longitude": "21.03333000"
+   },
+   {
+      "name": "Szendrő",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.40000000",
+      "longitude": "20.73333000"
+   },
+   {
+      "name": "Szentistván",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.76667000",
+      "longitude": "20.66667000"
+   },
+   {
+      "name": "Szerencs",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.15993000",
+      "longitude": "21.20970000"
+   },
+   {
+      "name": "Szerencsi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.14929000",
+      "longitude": "21.16865000"
+   },
+   {
+      "name": "Szikszó",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.20000000",
+      "longitude": "20.93333000"
+   },
+   {
+      "name": "Szikszói Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.30032000",
+      "longitude": "20.95507000"
+   },
+   {
+      "name": "Szirmabesenyő",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.15000000",
+      "longitude": "20.80000000"
+   },
+   {
+      "name": "Sály",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.95000000",
+      "longitude": "20.66667000"
+   },
+   {
+      "name": "Sárospatak",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.32450000",
+      "longitude": "21.57383000"
+   },
+   {
+      "name": "Sárospataki Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.29575000",
+      "longitude": "21.52716000"
+   },
+   {
+      "name": "Sátoraljaújhely",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.39492000",
+      "longitude": "21.65871000"
+   },
+   {
+      "name": "Sátoraljaújhelyi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.45898000",
+      "longitude": "21.54394000"
+   },
+   {
+      "name": "Taktaharkány",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.08333000",
+      "longitude": "21.13333000"
+   },
+   {
+      "name": "Taktaszada",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.11667000",
+      "longitude": "21.18333000"
+   },
+   {
+      "name": "Tarcal",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.13333000",
+      "longitude": "21.35000000"
+   },
+   {
+      "name": "Tiszakarád",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.20000000",
+      "longitude": "21.71667000"
+   },
+   {
+      "name": "Tiszakeszi",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.78333000",
+      "longitude": "21.00000000"
+   },
+   {
+      "name": "Tiszalúc",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.03774000",
+      "longitude": "21.07261000"
+   },
+   {
+      "name": "Tiszaújváros",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.93333000",
+      "longitude": "21.08333000"
+   },
+   {
+      "name": "Tiszaújvárosi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "47.92656000",
+      "longitude": "20.99321000"
+   },
+   {
+      "name": "Tokaj",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.11667000",
+      "longitude": "21.41667000"
+   },
+   {
+      "name": "Tokaji Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.14014000",
+      "longitude": "21.37002000"
+   },
+   {
+      "name": "Tolcsva",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.28333000",
+      "longitude": "21.45000000"
+   },
+   {
+      "name": "Tállya",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.23333000",
+      "longitude": "21.23333000"
+   },
+   {
+      "name": "Ónod",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.00000000",
+      "longitude": "20.91667000"
+   },
+   {
+      "name": "Ózd",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.21667000",
+      "longitude": "20.30000000"
+   },
+   {
+      "name": "Ózdi Járás",
+      "countryCode": "HU",
+      "stateCode": "BZ",
+      "latitude": "48.18133000",
+      "longitude": "20.24874000"
+   }
+]

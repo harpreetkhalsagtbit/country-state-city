@@ -1,0 +1,821 @@
+[
+   {
+      "name": "Anderslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.43836000",
+      "longitude": "13.31966000"
+   },
+   {
+      "name": "Arlöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.63248000",
+      "longitude": "13.07141000"
+   },
+   {
+      "name": "Asmundtorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.88333000",
+      "longitude": "12.93333000"
+   },
+   {
+      "name": "Bara",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.58155000",
+      "longitude": "13.17862000"
+   },
+   {
+      "name": "Billeberga",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.88333000",
+      "longitude": "13.00000000"
+   },
+   {
+      "name": "Billesholm",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.05000000",
+      "longitude": "13.00000000"
+   },
+   {
+      "name": "Bjuv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.08372000",
+      "longitude": "12.91914000"
+   },
+   {
+      "name": "Bjärnum",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.29032000",
+      "longitude": "13.71128000"
+   },
+   {
+      "name": "Bjärred",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.71667000",
+      "longitude": "13.01667000"
+   },
+   {
+      "name": "Blentarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.58333000",
+      "longitude": "13.60000000"
+   },
+   {
+      "name": "Broby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.25521000",
+      "longitude": "14.07797000"
+   },
+   {
+      "name": "Bromölla",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.07551000",
+      "longitude": "14.46958000"
+   },
+   {
+      "name": "Bunkeflostrand",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.54478000",
+      "longitude": "12.92375000"
+   },
+   {
+      "name": "Bårslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.00910000",
+      "longitude": "12.80580000"
+   },
+   {
+      "name": "Båstad",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.42689000",
+      "longitude": "12.85339000"
+   },
+   {
+      "name": "Dalby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.66655000",
+      "longitude": "13.34976000"
+   },
+   {
+      "name": "Degeberga",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.83333000",
+      "longitude": "14.08333000"
+   },
+   {
+      "name": "Ekeby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.00000000",
+      "longitude": "12.96667000"
+   },
+   {
+      "name": "Eslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.83928000",
+      "longitude": "13.30393000"
+   },
+   {
+      "name": "Fjälkinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.04364000",
+      "longitude": "14.27562000"
+   },
+   {
+      "name": "Furulund",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.77380000",
+      "longitude": "13.09022000"
+   },
+   {
+      "name": "Färlöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.06667000",
+      "longitude": "14.08333000"
+   },
+   {
+      "name": "Förslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.35000000",
+      "longitude": "12.81667000"
+   },
+   {
+      "name": "Gantofta",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.98729000",
+      "longitude": "12.80482000"
+   },
+   {
+      "name": "Genarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.59907000",
+      "longitude": "13.39820000"
+   },
+   {
+      "name": "Glimåkra",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.30000000",
+      "longitude": "14.13333000"
+   },
+   {
+      "name": "Glumslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.94091000",
+      "longitude": "12.80929000"
+   },
+   {
+      "name": "Gärsnäs",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.54949000",
+      "longitude": "14.17923000"
+   },
+   {
+      "name": "Hammar",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.01667000",
+      "longitude": "14.21667000"
+   },
+   {
+      "name": "Hanaskog",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.16061000",
+      "longitude": "14.09307000"
+   },
+   {
+      "name": "Helsingborg",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.05648000",
+      "longitude": "12.78718000"
+   },
+   {
+      "name": "Hittarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.10000000",
+      "longitude": "12.63333000"
+   },
+   {
+      "name": "Hjärnarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.31667000",
+      "longitude": "12.91667000"
+   },
+   {
+      "name": "Hjärup",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.66880000",
+      "longitude": "13.13931000"
+   },
+   {
+      "name": "Hofterup",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.80485000",
+      "longitude": "12.97970000"
+   },
+   {
+      "name": "Hyllinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.10000000",
+      "longitude": "12.85000000"
+   },
+   {
+      "name": "Häljarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.85000000",
+      "longitude": "12.91667000"
+   },
+   {
+      "name": "Hässleholm",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.15905000",
+      "longitude": "13.76638000"
+   },
+   {
+      "name": "Hästveda",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.28468000",
+      "longitude": "13.93547000"
+   },
+   {
+      "name": "Höganäs",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.19971000",
+      "longitude": "12.55795000"
+   },
+   {
+      "name": "Hököpinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.49411000",
+      "longitude": "13.00782000"
+   },
+   {
+      "name": "Höllviken",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.40982000",
+      "longitude": "12.95580000"
+   },
+   {
+      "name": "Hörby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.85238000",
+      "longitude": "13.66094000"
+   },
+   {
+      "name": "Höör",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.93444000",
+      "longitude": "13.53850000"
+   },
+   {
+      "name": "Jonstorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.23380000",
+      "longitude": "12.67184000"
+   },
+   {
+      "name": "Klippan",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.13559000",
+      "longitude": "13.13086000"
+   },
+   {
+      "name": "Klågerup",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.59416000",
+      "longitude": "13.24574000"
+   },
+   {
+      "name": "Knislinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.18333000",
+      "longitude": "14.08333000"
+   },
+   {
+      "name": "Kristianstad",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.03129000",
+      "longitude": "14.15242000"
+   },
+   {
+      "name": "Kvidinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.13386000",
+      "longitude": "13.04678000"
+   },
+   {
+      "name": "Kävlinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.79188000",
+      "longitude": "13.11021000"
+   },
+   {
+      "name": "Kågeröd",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.99976000",
+      "longitude": "13.08795000"
+   },
+   {
+      "name": "Köpingebro",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.45526000",
+      "longitude": "13.93453000"
+   },
+   {
+      "name": "Landskrona",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.88620000",
+      "longitude": "12.85880000"
+   },
+   {
+      "name": "Ljungbyhed",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.07437000",
+      "longitude": "13.24010000"
+   },
+   {
+      "name": "Ljunghusen",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.39793000",
+      "longitude": "12.92486000"
+   },
+   {
+      "name": "Lomma",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.67244000",
+      "longitude": "13.06849000"
+   },
+   {
+      "name": "Lund",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.70584000",
+      "longitude": "13.19321000"
+   },
+   {
+      "name": "Löberöd",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.77610000",
+      "longitude": "13.52414000"
+   },
+   {
+      "name": "Löddeköpinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.76667000",
+      "longitude": "13.01667000"
+   },
+   {
+      "name": "Lönsboda",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.40000000",
+      "longitude": "14.31667000"
+   },
+   {
+      "name": "Malmö",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.60587000",
+      "longitude": "13.00073000"
+   },
+   {
+      "name": "Marieholm",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.86667000",
+      "longitude": "13.15000000"
+   },
+   {
+      "name": "Munka-Ljungby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.25000000",
+      "longitude": "12.96667000"
+   },
+   {
+      "name": "Mörarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.05749000",
+      "longitude": "12.88018000"
+   },
+   {
+      "name": "Norra Åsum",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.98333000",
+      "longitude": "14.15000000"
+   },
+   {
+      "name": "Näsum",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.17693000",
+      "longitude": "14.49706000"
+   },
+   {
+      "name": "Osby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.38165000",
+      "longitude": "13.99364000"
+   },
+   {
+      "name": "Oxie",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.54014000",
+      "longitude": "13.09605000"
+   },
+   {
+      "name": "Perstorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.13829000",
+      "longitude": "13.39476000"
+   },
+   {
+      "name": "Påarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.03333000",
+      "longitude": "12.81667000"
+   },
+   {
+      "name": "Rydebäck",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.96667000",
+      "longitude": "12.76667000"
+   },
+   {
+      "name": "Rydsgård",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.47285000",
+      "longitude": "13.58829000"
+   },
+   {
+      "name": "Saxtorpsskogen",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.83208000",
+      "longitude": "12.94429000"
+   },
+   {
+      "name": "Sibbhult",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.26667000",
+      "longitude": "14.20000000"
+   },
+   {
+      "name": "Simrishamn",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.55653000",
+      "longitude": "14.35037000"
+   },
+   {
+      "name": "Sjöbo",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.63135000",
+      "longitude": "13.70622000"
+   },
+   {
+      "name": "Skanör med Falsterbo",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.40000000",
+      "longitude": "12.85000000"
+   },
+   {
+      "name": "Skegrie",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.40633000",
+      "longitude": "13.07693000"
+   },
+   {
+      "name": "Skivarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.41667000",
+      "longitude": "13.56667000"
+   },
+   {
+      "name": "Skurup",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.47839000",
+      "longitude": "13.50186000"
+   },
+   {
+      "name": "Skåre",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.38333000",
+      "longitude": "13.05000000"
+   },
+   {
+      "name": "Smygehamn",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.34337000",
+      "longitude": "13.36989000"
+   },
+   {
+      "name": "Staffanstorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.64277000",
+      "longitude": "13.20638000"
+   },
+   {
+      "name": "Stehag",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.90188000",
+      "longitude": "13.39577000"
+   },
+   {
+      "name": "Strövelstorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.16979000",
+      "longitude": "12.83925000"
+   },
+   {
+      "name": "Stångby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.75030000",
+      "longitude": "13.19797000"
+   },
+   {
+      "name": "Svalöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.91340000",
+      "longitude": "13.10762000"
+   },
+   {
+      "name": "Svedala",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.50788000",
+      "longitude": "13.23515000"
+   },
+   {
+      "name": "Sätofta",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.91667000",
+      "longitude": "13.55000000"
+   },
+   {
+      "name": "Södra Sandby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.71677000",
+      "longitude": "13.34659000"
+   },
+   {
+      "name": "Sösdala",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.03992000",
+      "longitude": "13.67811000"
+   },
+   {
+      "name": "Teckomatorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.86667000",
+      "longitude": "13.08333000"
+   },
+   {
+      "name": "Tollarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.93333000",
+      "longitude": "13.98333000"
+   },
+   {
+      "name": "Tollarp1",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.16667000",
+      "longitude": "14.28333000"
+   },
+   {
+      "name": "Tomelilla",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.54293000",
+      "longitude": "13.95460000"
+   },
+   {
+      "name": "Torekov",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.42500000",
+      "longitude": "12.63333000"
+   },
+   {
+      "name": "Tormestorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.11350000",
+      "longitude": "13.74516000"
+   },
+   {
+      "name": "Trelleborg",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.37514000",
+      "longitude": "13.15691000"
+   },
+   {
+      "name": "Tygelsjö",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.51667000",
+      "longitude": "13.00000000"
+   },
+   {
+      "name": "Tyringe",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.16037000",
+      "longitude": "13.59811000"
+   },
+   {
+      "name": "Valje",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.06279000",
+      "longitude": "14.54388000"
+   },
+   {
+      "name": "Veberöd",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.63333000",
+      "longitude": "13.48333000"
+   },
+   {
+      "name": "Vejbystrand",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.31778000",
+      "longitude": "12.76722000"
+   },
+   {
+      "name": "Vellinge",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.47124000",
+      "longitude": "13.01971000"
+   },
+   {
+      "name": "Viken",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.15063000",
+      "longitude": "12.57429000"
+   },
+   {
+      "name": "Vinslöv",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.10000000",
+      "longitude": "13.91667000"
+   },
+   {
+      "name": "Vittsjö",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.34366000",
+      "longitude": "13.66081000"
+   },
+   {
+      "name": "Ystad",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.42966000",
+      "longitude": "13.82041000"
+   },
+   {
+      "name": "Ängelholm",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.24280000",
+      "longitude": "12.86219000"
+   },
+   {
+      "name": "Åhus",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.91667000",
+      "longitude": "14.28333000"
+   },
+   {
+      "name": "Åkarp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "55.65396000",
+      "longitude": "13.11107000"
+   },
+   {
+      "name": "Åstorp",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.13566000",
+      "longitude": "12.94430000"
+   },
+   {
+      "name": "Ödåkra",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.10412000",
+      "longitude": "12.74770000"
+   },
+   {
+      "name": "Önnestad",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.05747000",
+      "longitude": "14.02233000"
+   },
+   {
+      "name": "Örkelljunga",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.28338000",
+      "longitude": "13.27773000"
+   },
+   {
+      "name": "Östra Ljungby",
+      "countryCode": "SE",
+      "stateCode": "M",
+      "latitude": "56.19601000",
+      "longitude": "13.09199000"
+   }
+]

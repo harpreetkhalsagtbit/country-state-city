@@ -1,0 +1,443 @@
+[
+   {
+      "name": "Babayevo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.39360000",
+      "longitude": "35.93710000"
+   },
+   {
+      "name": "Babayevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.50000000",
+      "longitude": "36.00000000"
+   },
+   {
+      "name": "Belozërsk",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.02880000",
+      "longitude": "37.80840000"
+   },
+   {
+      "name": "Belozërskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.91667000",
+      "longitude": "37.25000000"
+   },
+   {
+      "name": "Chagoda",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.16400000",
+      "longitude": "35.32850000"
+   },
+   {
+      "name": "Chagodoshchenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.00000000",
+      "longitude": "35.41667000"
+   },
+   {
+      "name": "Chebsara",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.20016000",
+      "longitude": "38.83556000"
+   },
+   {
+      "name": "Cherepovets",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.13333000",
+      "longitude": "37.90000000"
+   },
+   {
+      "name": "Cherepovetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.33333000",
+      "longitude": "37.91667000"
+   },
+   {
+      "name": "Ferapontovo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.95425000",
+      "longitude": "38.56745000"
+   },
+   {
+      "name": "Goritsy",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.86949000",
+      "longitude": "38.26016000"
+   },
+   {
+      "name": "Gryazovets",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.88000000",
+      "longitude": "40.25250000"
+   },
+   {
+      "name": "Gryazovetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.91667000",
+      "longitude": "40.75000000"
+   },
+   {
+      "name": "Imeni Babushkina",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.75727000",
+      "longitude": "43.12847000"
+   },
+   {
+      "name": "Imeni Zhelyabova",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.95440000",
+      "longitude": "36.59560000"
+   },
+   {
+      "name": "Kadnikov",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.50218000",
+      "longitude": "40.33803000"
+   },
+   {
+      "name": "Kaduy",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.20000000",
+      "longitude": "37.15000000"
+   },
+   {
+      "name": "Kaduyskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.33333000",
+      "longitude": "37.00000000"
+   },
+   {
+      "name": "Kharovsk",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.96425000",
+      "longitude": "40.19121000"
+   },
+   {
+      "name": "Kharovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.08333000",
+      "longitude": "40.25000000"
+   },
+   {
+      "name": "Khokhlovo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.14923000",
+      "longitude": "37.39978000"
+   },
+   {
+      "name": "Kichmengskiy Gorodok",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.98164000",
+      "longitude": "45.78543000"
+   },
+   {
+      "name": "Kichmengsko-Gorodetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.00000000",
+      "longitude": "46.00000000"
+   },
+   {
+      "name": "Kirillov",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.86299000",
+      "longitude": "38.38128000"
+   },
+   {
+      "name": "Kirillovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.00000000",
+      "longitude": "38.58333000"
+   },
+   {
+      "name": "Krasavino",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.96225000",
+      "longitude": "46.48321000"
+   },
+   {
+      "name": "Kuzino",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.77665000",
+      "longitude": "38.31040000"
+   },
+   {
+      "name": "Lipin Bor",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.26300000",
+      "longitude": "37.97850000"
+   },
+   {
+      "name": "Mezhdurechenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.25000000",
+      "longitude": "41.00000000"
+   },
+   {
+      "name": "Molochnoye",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.29166000",
+      "longitude": "39.67868000"
+   },
+   {
+      "name": "Myaksa",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.88890000",
+      "longitude": "38.19380000"
+   },
+   {
+      "name": "Nelazskoye",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.18919000",
+      "longitude": "37.63963000"
+   },
+   {
+      "name": "Nikol’sk",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.53531000",
+      "longitude": "45.45743000"
+   },
+   {
+      "name": "Nyuksenitsa",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.41159000",
+      "longitude": "44.23309000"
+   },
+   {
+      "name": "Sazonovo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.09190000",
+      "longitude": "35.22680000"
+   },
+   {
+      "name": "Sheksna",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.20998000",
+      "longitude": "38.51066000"
+   },
+   {
+      "name": "Sheksninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.25000000",
+      "longitude": "38.58333000"
+   },
+   {
+      "name": "Shuyskoye",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.37356000",
+      "longitude": "41.03047000"
+   },
+   {
+      "name": "Sokol",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.46167000",
+      "longitude": "40.12056000"
+   },
+   {
+      "name": "Sokol’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.50000000",
+      "longitude": "40.33333000"
+   },
+   {
+      "name": "Suda",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.15254000",
+      "longitude": "37.55820000"
+   },
+   {
+      "name": "Syamzha",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.01577000",
+      "longitude": "41.06139000"
+   },
+   {
+      "name": "Syamzhenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.00000000",
+      "longitude": "41.25000000"
+   },
+   {
+      "name": "Tarnogskiy Gorodok",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.49972000",
+      "longitude": "43.57611000"
+   },
+   {
+      "name": "Tarnogskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.50000000",
+      "longitude": "43.50000000"
+   },
+   {
+      "name": "Tonshalovo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.19483000",
+      "longitude": "37.94746000"
+   },
+   {
+      "name": "Totemskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.75000000",
+      "longitude": "42.50000000"
+   },
+   {
+      "name": "Tot’ma",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.97375000",
+      "longitude": "42.76487000"
+   },
+   {
+      "name": "Ustyuzhenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.83333000",
+      "longitude": "36.50000000"
+   },
+   {
+      "name": "Ustyuzhna",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.83940000",
+      "longitude": "36.43210000"
+   },
+   {
+      "name": "Ust’-Kubinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.91667000",
+      "longitude": "39.50000000"
+   },
+   {
+      "name": "Ust’ye",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.63043000",
+      "longitude": "39.73596000"
+   },
+   {
+      "name": "Velikiy Ustyug",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.76186000",
+      "longitude": "46.31352000"
+   },
+   {
+      "name": "Velikoustyugskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.75000000",
+      "longitude": "46.00000000"
+   },
+   {
+      "name": "Verkhovazhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.58333000",
+      "longitude": "42.25000000"
+   },
+   {
+      "name": "Verkhovazh’ye",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.74717000",
+      "longitude": "42.04652000"
+   },
+   {
+      "name": "Vokhtoga",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "58.80949000",
+      "longitude": "41.06245000"
+   },
+   {
+      "name": "Vologda",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.22390000",
+      "longitude": "39.88398000"
+   },
+   {
+      "name": "Vologodskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "59.16667000",
+      "longitude": "39.75000000"
+   },
+   {
+      "name": "Vozhega",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.47246000",
+      "longitude": "40.22134000"
+   },
+   {
+      "name": "Vytegorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "61.00000000",
+      "longitude": "36.50000000"
+   },
+   {
+      "name": "Vytegra",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "61.00636000",
+      "longitude": "36.44811000"
+   },
+   {
+      "name": "Zubovo",
+      "countryCode": "RU",
+      "stateCode": "VLG",
+      "latitude": "60.31810000",
+      "longitude": "36.97090000"
+   }
+]

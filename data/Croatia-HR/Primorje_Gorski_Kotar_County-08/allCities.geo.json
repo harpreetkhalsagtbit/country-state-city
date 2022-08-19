@@ -1,0 +1,380 @@
+[
+   {
+      "name": "Bakar",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.30861000",
+      "longitude": "14.53028000"
+   },
+   {
+      "name": "Banjol",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.75000000",
+      "longitude": "14.78333000"
+   },
+   {
+      "name": "Baška",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.97028000",
+      "longitude": "14.75333000"
+   },
+   {
+      "name": "Bribir",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.16111000",
+      "longitude": "14.76472000"
+   },
+   {
+      "name": "Buzdohanj",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.34528000",
+      "longitude": "14.48833000"
+   },
+   {
+      "name": "Cernik",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.34361000",
+      "longitude": "14.50222000"
+   },
+   {
+      "name": "Cres",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.96111000",
+      "longitude": "14.40840000"
+   },
+   {
+      "name": "Crikvenica",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.17722000",
+      "longitude": "14.69278000"
+   },
+   {
+      "name": "Delnice",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.40083000",
+      "longitude": "14.79972000"
+   },
+   {
+      "name": "Dražice",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.39083000",
+      "longitude": "14.47028000"
+   },
+   {
+      "name": "Drenova",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.35000000",
+      "longitude": "14.43028000"
+   },
+   {
+      "name": "Fužine",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.30528000",
+      "longitude": "14.71556000"
+   },
+   {
+      "name": "Grad Crikvenica",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.16667000",
+      "longitude": "14.70000000"
+   },
+   {
+      "name": "Grad Delnice",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.39806000",
+      "longitude": "14.80111000"
+   },
+   {
+      "name": "Grad Krk",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.02829000",
+      "longitude": "14.57233000"
+   },
+   {
+      "name": "Grad Opatija",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.33333000",
+      "longitude": "14.26667000"
+   },
+   {
+      "name": "Grad Rijeka",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.32693000",
+      "longitude": "14.43758000"
+   },
+   {
+      "name": "Grad Vrbovsko",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.37542000",
+      "longitude": "15.07856000"
+   },
+   {
+      "name": "Grad Čabar",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.58333000",
+      "longitude": "14.58333000"
+   },
+   {
+      "name": "Hreljin",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.28250000",
+      "longitude": "14.59917000"
+   },
+   {
+      "name": "Jadranovo",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.23111000",
+      "longitude": "14.61833000"
+   },
+   {
+      "name": "Kampor",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.77500000",
+      "longitude": "14.71861000"
+   },
+   {
+      "name": "Kastav",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.37528000",
+      "longitude": "14.34861000"
+   },
+   {
+      "name": "Klana",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.44694000",
+      "longitude": "14.37694000"
+   },
+   {
+      "name": "Kraljevica",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.27395000",
+      "longitude": "14.56830000"
+   },
+   {
+      "name": "Krasica",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.30972000",
+      "longitude": "14.55556000"
+   },
+   {
+      "name": "Krk",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.02744000",
+      "longitude": "14.57542000"
+   },
+   {
+      "name": "Lopar",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.83250000",
+      "longitude": "14.73028000"
+   },
+   {
+      "name": "Lovran",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.29194000",
+      "longitude": "14.27417000"
+   },
+   {
+      "name": "Mali Lošinj",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.53056000",
+      "longitude": "14.46861000"
+   },
+   {
+      "name": "Malinska-Dubašnica",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.12277000",
+      "longitude": "14.52873000"
+   },
+   {
+      "name": "Marinići",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.36500000",
+      "longitude": "14.39389000"
+   },
+   {
+      "name": "Marčelji",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.39611000",
+      "longitude": "14.38944000"
+   },
+   {
+      "name": "Matulji",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.36167000",
+      "longitude": "14.32500000"
+   },
+   {
+      "name": "Mihotići",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.36125000",
+      "longitude": "14.30553000"
+   },
+   {
+      "name": "Mrkopalj",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.31556000",
+      "longitude": "14.85528000"
+   },
+   {
+      "name": "Njivice",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.15806000",
+      "longitude": "14.53861000"
+   },
+   {
+      "name": "Novi Vinodolski",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.12806000",
+      "longitude": "14.78889000"
+   },
+   {
+      "name": "Omišalj",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.21134000",
+      "longitude": "14.55495000"
+   },
+   {
+      "name": "Opatija",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.33771000",
+      "longitude": "14.30515000"
+   },
+   {
+      "name": "Podhum",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.38722000",
+      "longitude": "14.47944000"
+   },
+   {
+      "name": "Punat",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.01472000",
+      "longitude": "14.62889000"
+   },
+   {
+      "name": "Rab",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.75769000",
+      "longitude": "14.75906000"
+   },
+   {
+      "name": "Rijeka",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.32673000",
+      "longitude": "14.44241000"
+   },
+   {
+      "name": "Rubeši",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.36694000",
+      "longitude": "14.34806000"
+   },
+   {
+      "name": "Selce",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.15639000",
+      "longitude": "14.72111000"
+   },
+   {
+      "name": "Skrad",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.42778000",
+      "longitude": "14.91111000"
+   },
+   {
+      "name": "Supetarska Draga",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "44.79750000",
+      "longitude": "14.72472000"
+   },
+   {
+      "name": "Vinodolska općina",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.22219000",
+      "longitude": "14.68941000"
+   },
+   {
+      "name": "Viškovo",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.37572000",
+      "longitude": "14.38400000"
+   },
+   {
+      "name": "Vrbnik",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.07583000",
+      "longitude": "14.67250000"
+   },
+   {
+      "name": "Vrbovsko",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.36861000",
+      "longitude": "15.07833000"
+   },
+   {
+      "name": "Čavle",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.35194000",
+      "longitude": "14.48389000"
+   },
+   {
+      "name": "Škrljevo",
+      "countryCode": "HR",
+      "stateCode": "08",
+      "latitude": "45.32053000",
+      "longitude": "14.53268000"
+   }
+]

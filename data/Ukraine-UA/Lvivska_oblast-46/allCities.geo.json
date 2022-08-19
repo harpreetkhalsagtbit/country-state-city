@@ -1,0 +1,569 @@
+[
+   {
+      "name": "Belz",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.38226000",
+      "longitude": "24.00642000"
+   },
+   {
+      "name": "Bibrka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.64093000",
+      "longitude": "24.28874000"
+   },
+   {
+      "name": "Boryslav",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.28672000",
+      "longitude": "23.43238000"
+   },
+   {
+      "name": "Brody",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.08791000",
+      "longitude": "25.15027000"
+   },
+   {
+      "name": "Bryukhovychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.90467000",
+      "longitude": "23.95969000"
+   },
+   {
+      "name": "Chervonohrad",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.39105000",
+      "longitude": "24.23514000"
+   },
+   {
+      "name": "Demnya",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.56738000",
+      "longitude": "23.94607000"
+   },
+   {
+      "name": "Dobromyl’",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.57193000",
+      "longitude": "22.78629000"
+   },
+   {
+      "name": "Drohobych",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.34991000",
+      "longitude": "23.50561000"
+   },
+   {
+      "name": "Dublyany",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.90411000",
+      "longitude": "24.08637000"
+   },
+   {
+      "name": "Duliby",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.23134000",
+      "longitude": "23.81532000"
+   },
+   {
+      "name": "Dzvinogrud",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.73333000",
+      "longitude": "24.25000000"
+   },
+   {
+      "name": "Hlyns'k",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.06033000",
+      "longitude": "23.89956000"
+   },
+   {
+      "name": "Horodok",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.78465000",
+      "longitude": "23.64806000"
+   },
+   {
+      "name": "Ivano-Frankove",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.91978000",
+      "longitude": "23.72913000"
+   },
+   {
+      "name": "Khodoriv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.40993000",
+      "longitude": "24.30470000"
+   },
+   {
+      "name": "Khyriv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.53417000",
+      "longitude": "22.85538000"
+   },
+   {
+      "name": "Komarno",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.62739000",
+      "longitude": "23.69952000"
+   },
+   {
+      "name": "Krasne",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.91447000",
+      "longitude": "24.61340000"
+   },
+   {
+      "name": "Kulykiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.97954000",
+      "longitude": "24.07817000"
+   },
+   {
+      "name": "Lopatyn",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.22022000",
+      "longitude": "24.84831000"
+   },
+   {
+      "name": "Lviv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.83826000",
+      "longitude": "24.02324000"
+   },
+   {
+      "name": "Medenychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.43055000",
+      "longitude": "23.75073000"
+   },
+   {
+      "name": "Morshyn",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.15652000",
+      "longitude": "23.87232000"
+   },
+   {
+      "name": "Mostys'ka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.79467000",
+      "longitude": "23.15077000"
+   },
+   {
+      "name": "Murovane",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.52143000",
+      "longitude": "22.93670000"
+   },
+   {
+      "name": "Mykolaiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.52372000",
+      "longitude": "23.98522000"
+   },
+   {
+      "name": "Navaria",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.74952000",
+      "longitude": "23.92746000"
+   },
+   {
+      "name": "Novoyavorivs'k",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.93023000",
+      "longitude": "23.57357000"
+   },
+   {
+      "name": "Novyi Yarychiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.90444000",
+      "longitude": "24.30523000"
+   },
+   {
+      "name": "Obroshyne",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.78333000",
+      "longitude": "23.86667000"
+   },
+   {
+      "name": "Olesko",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.96233000",
+      "longitude": "24.89336000"
+   },
+   {
+      "name": "Peremyshlyany",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.66523000",
+      "longitude": "24.55846000"
+   },
+   {
+      "name": "Pidbuzh",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.33483000",
+      "longitude": "23.24887000"
+   },
+   {
+      "name": "Pidhirtsi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.94611000",
+      "longitude": "24.97950000"
+   },
+   {
+      "name": "Pidkamin’",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.94599000",
+      "longitude": "25.31672000"
+   },
+   {
+      "name": "Pnikut",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.71104000",
+      "longitude": "23.13826000"
+   },
+   {
+      "name": "Pomoriany",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.64092000",
+      "longitude": "24.93070000"
+   },
+   {
+      "name": "Potelych",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.20804000",
+      "longitude": "23.54674000"
+   },
+   {
+      "name": "Pustomyty",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.71532000",
+      "longitude": "23.91295000"
+   },
+   {
+      "name": "Ralivka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.49982000",
+      "longitude": "23.23739000"
+   },
+   {
+      "name": "Rava-Rus’ka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.23079000",
+      "longitude": "23.62825000"
+   },
+   {
+      "name": "Richky",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.27706000",
+      "longitude": "23.64617000"
+   },
+   {
+      "name": "Rodatychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.79862000",
+      "longitude": "23.53336000"
+   },
+   {
+      "name": "Rozdil",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.46144000",
+      "longitude": "24.06230000"
+   },
+   {
+      "name": "Rozvadiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.50323000",
+      "longitude": "23.96200000"
+   },
+   {
+      "name": "Rudky",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.65306000",
+      "longitude": "23.48702000"
+   },
+   {
+      "name": "Rudne",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.83333000",
+      "longitude": "23.90000000"
+   },
+   {
+      "name": "Rykhtychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.38511000",
+      "longitude": "23.55662000"
+   },
+   {
+      "name": "Sambir",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.51830000",
+      "longitude": "23.19752000"
+   },
+   {
+      "name": "Shchyrets",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.65096000",
+      "longitude": "23.87426000"
+   },
+   {
+      "name": "Shklo",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.95675000",
+      "longitude": "23.54408000"
+   },
+   {
+      "name": "Silets’",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.29712000",
+      "longitude": "24.20462000"
+   },
+   {
+      "name": "Skelivka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.53728000",
+      "longitude": "22.96467000"
+   },
+   {
+      "name": "Skhidnytsya",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.22827000",
+      "longitude": "23.35016000"
+   },
+   {
+      "name": "Skole",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.03717000",
+      "longitude": "23.51346000"
+   },
+   {
+      "name": "Slavske",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "48.84734000",
+      "longitude": "23.44587000"
+   },
+   {
+      "name": "Sokal’",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.47438000",
+      "longitude": "24.28288000"
+   },
+   {
+      "name": "Solonka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.75621000",
+      "longitude": "24.01028000"
+   },
+   {
+      "name": "Staroye Selo",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.71037000",
+      "longitude": "24.18950000"
+   },
+   {
+      "name": "Starychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.98001000",
+      "longitude": "23.55848000"
+   },
+   {
+      "name": "Staryy Dobrotvir",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.23154000",
+      "longitude": "24.37701000"
+   },
+   {
+      "name": "Staryy Sambir",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.43856000",
+      "longitude": "23.00056000"
+   },
+   {
+      "name": "Stebnyk",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.29416000",
+      "longitude": "23.56357000"
+   },
+   {
+      "name": "Stryi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.26223000",
+      "longitude": "23.85609000"
+   },
+   {
+      "name": "Sudova Vyshnya",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.78892000",
+      "longitude": "23.37218000"
+   },
+   {
+      "name": "Sukhovolya",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.82426000",
+      "longitude": "23.83770000"
+   },
+   {
+      "name": "Truskavets’",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.27837000",
+      "longitude": "23.50618000"
+   },
+   {
+      "name": "Tukhlia",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "48.91218000",
+      "longitude": "23.47303000"
+   },
+   {
+      "name": "Turka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.15411000",
+      "longitude": "23.02967000"
+   },
+   {
+      "name": "Uhniv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.36811000",
+      "longitude": "23.74895000"
+   },
+   {
+      "name": "Ulychne",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.23385000",
+      "longitude": "23.65111000"
+   },
+   {
+      "name": "Verblyany",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.04747000",
+      "longitude": "23.42189000"
+   },
+   {
+      "name": "Verchnia Rozhanka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "48.78050000",
+      "longitude": "23.51545000"
+   },
+   {
+      "name": "Verkhnie Synevydne",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.10307000",
+      "longitude": "23.59099000"
+   },
+   {
+      "name": "Verkhnyaya Belka",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.81575000",
+      "longitude": "24.30328000"
+   },
+   {
+      "name": "Voyutychi",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.55135000",
+      "longitude": "23.10579000"
+   },
+   {
+      "name": "Yavoriv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.93864000",
+      "longitude": "23.38254000"
+   },
+   {
+      "name": "Zhovkva",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "50.05825000",
+      "longitude": "23.97260000"
+   },
+   {
+      "name": "Zhydachiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.38468000",
+      "longitude": "24.14254000"
+   },
+   {
+      "name": "Zolochiv",
+      "countryCode": "UA",
+      "stateCode": "46",
+      "latitude": "49.80597000",
+      "longitude": "24.89436000"
+   }
+]
