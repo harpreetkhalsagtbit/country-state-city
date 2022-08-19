@@ -1,30 +1,19 @@
-import fs from 'fs';
-import path from 'path';
+import countryList from './assets/country.json';
+import { findEntryByCode } from './utils';
 import { ICountry } from './interface';
 
-// Array of Interface ICountry
-let countryList: Array<ICountry> = [];
+// Get a country by isoCode.
+function getCountryByCode(isoCode: string): ICountry | undefined {
+	if (!isoCode) return undefined;
+
+	return findEntryByCode(countryList, isoCode);
+}
 
 // Get a list of all countries.
-const getAllCountries = (): ICountry[] => {
-	if (countryList.length === 0) {
-		const all: any = fs.readFileSync(path.join(__dirname, 'assets/country.json'), 'utf-8');
-		countryList = JSON.parse(all);
-	}
-
+function getAllCountries(): ICountry[] {
 	return countryList;
-};
+}
 
-// Get a country by isoCode.
-const getCountryByCode = (code: string = ''): ICountry => {
-	// get data from file or cache
-	const country: any = getAllCountries().find((countryItem: any) => {
-		return countryItem.isoCode === code;
-	});
-	return country;
-};
-// console.log(getAllCountries().length);
-// console.log(getAllCountries().length);
 export default {
 	getCountryByCode,
 	getAllCountries,
