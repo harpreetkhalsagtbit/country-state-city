@@ -1,0 +1,837 @@
+[
+   {
+      "name": "Andau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Antau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Apetlon",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Bad Sauerbrunn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Bad Tatzmannsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Badersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Bernstein",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Bocksdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Breitenbrunn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Bruckneudorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Deutsch Jahrndorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Deutsch Kaltenbrunn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Deutschkreutz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Donnerskirchen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Drassburg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Eberau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Edelstal",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Eisenstadt",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Eisenstadt Stadt",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Eisenstadt-Umgebung",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Eltendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Forchtenstein",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Frauenkirchen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Gattendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Gols",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Grafenschachen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Grosshöflein",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Grosspetersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Güssing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Güttenbach",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Hackerberg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Halbturn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Hannersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Heiligenbrunn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Heiligenkreuz im Lafnitztal",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Heugraben",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Hirm",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Horitschon",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Hornstein",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Illmitz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Inzenhof",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Jabing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Jennersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Jois",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kaisersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kemeten",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kittsee",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kleinhöflein im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kleinmürbisch",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Klingenbach",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kobersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kohfidisch",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Krensdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Kukmirn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Königsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Lackenbach",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Lackendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Leithaprodersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Litzelsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Lockenhaus",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Loipersbach im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Loretto",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Lutzmannsburg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mannersdorf an der Rabnitz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mariasdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Markt Allhau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Markt Neuhodis",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Markt Sankt Martin",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Marz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mattersburg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mischendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mitterpullendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mogersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Moschendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mönchhof",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mörbisch am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Mühlgraben",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Müllendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neckenmarkt",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neuberg im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neudörfl",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neufeld an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neuhaus am Klausenbach",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neusiedl am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neustift an der Lafnitz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neustift bei Güssing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Neutal",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Nickelsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Nikitsch",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oberdorf im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oberloisdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oberpullendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oberschützen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oberwart",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oggau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Olbendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Ollersdorf im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Oslip",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pama",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pamhagen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Parndorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pilgersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pinkafeld",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Piringsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Podersdorf am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Güssing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Jennersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Mattersburg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Neusiedl am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Oberpullendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Politischer Bezirk Oberwart",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Potzneusiedl",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Purbach am Neusiedler See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pöttelsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Pöttsching",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Raiding",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rechnitz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Riedlingsdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Ritzing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rohr im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rohrbach bei Mattersburg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rotenturm an der Pinka",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rudersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rust",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Rust Stadt",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sankt Andrä am Zicksee",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sankt Georgen am Leithagebirge",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sankt Margarethen im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sankt Martin an der Raab",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sankt Michael im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Schachendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Schandorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Schattendorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Schützen am Gebirge",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Siegendorf im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sieggraben",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Sigless",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Stadtschlaining",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Stegersbach",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Steinbrunn",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Stinatz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Stoob",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Stotzing",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Strem",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Tadten",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Tobaj",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Trausdorf an der Wulka",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Tschanigraben",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Unterfrauenhaid",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Unterkohlstätten",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Unterwart",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wallern im Burgenland",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Weichselbaum",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Weiden am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Weiden bei Rechnitz",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Weingraben",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Weppersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wiesen",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wiesfleck",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wimpassing an der Leitha",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Winden am See",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wolfau",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wulkaprodersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Wörterberg",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Zagersdorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Zillingtal",
+      "countryCode": "AT",
+      "stateCode": "1"
+   },
+   {
+      "name": "Zurndorf",
+      "countryCode": "AT",
+      "stateCode": "1"
+   }
+]

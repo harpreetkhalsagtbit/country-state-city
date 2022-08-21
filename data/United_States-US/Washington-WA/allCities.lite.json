@@ -1,0 +1,2167 @@
+[
+   {
+      "name": "Aberdeen",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ahtanum",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Airway Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Alderton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Alderwood Manor",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Algona",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Allyn",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Amboy",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ames Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Anacortes",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Arlington",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Arlington Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Artondale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Asotin",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Asotin County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Auburn",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ault Field",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bainbridge Island",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bangor Trident Base",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Barberton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Basin City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Battle Ground",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Belfair",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bellevue",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bellingham",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Benton City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Benton County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bethel",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Big Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Birch Bay",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Black Diamond",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Blaine",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bonney Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bothell",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bothell East",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bothell West",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Boulevard Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bremerton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Brewster",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bridgeport",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Brier",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Browns Point",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Brush Prairie",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bryant",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bryn Mawr-Skyway",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Buckley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Bunk Foss",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Burbank",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Burien",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Burley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Burlington",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Camano",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Camas",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Canterwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Carnation",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Carson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cascade Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cashmere",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Castle Rock",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cathcart",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cathlamet",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Central Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Centralia",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Chehalis",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Chelan",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Chelan County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cheney",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Chewelah",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Chico",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "City of Sammamish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clallam County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clark County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clarkston",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clarkston Heights-Vineland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cle Elum",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clear Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clearview",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Clyde Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Colfax",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "College Place",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Columbia County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Colville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Connell",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cosmopolis",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cottage Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Coulee Dam",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Country Homes",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Coupeville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Covington",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cowlitz County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Crocker",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Dallesport",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Darrington",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Davenport",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Dayton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Deer Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Des Moines",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Desert Aire",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Dishman",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Dollar Corner",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Douglas County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "DuPont",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Duvall",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "East Hill-Meridian",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "East Port Orchard",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "East Renton Highlands",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "East Wenatchee",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "East Wenatchee Bench",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Eastgate",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Eastmont",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Eatonville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Edgewood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Edmonds",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Electric City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Elk Plain",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ellensburg",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Elma",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Enetai",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Entiat",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Enumclaw",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ephrata",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Erlands Point-Kitsap Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Esperance",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Everett",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Everson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fairchild Air Force Base",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fairwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fall City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Federal Way",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Felida",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fern Prairie",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ferndale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ferry County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fife",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fife Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Finley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fircrest",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Five Corners",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fobes Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fords Prairie",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Forks",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Fox Island",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Franklin County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Frederickson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Freeland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Friday Harbor",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Garfield County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Garrett",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Geneva",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Gig Harbor",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Gleed",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Gold Bar",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Goldendale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Graham",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Grand Coulee",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Grand Mound",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Grandview",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Granger",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Granite Falls",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Grant County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Grays Harbor County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hansville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hazel Dell",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Highland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hobart",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hockinson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Home",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hoquiam",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Indianola",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Inglewood-Finn Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Island County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Issaquah",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Jefferson County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Joint Base Lewis McChord",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kalama",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kelso",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kenmore",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kennewick",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kent",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kettle Falls",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Key Center",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "King County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kingsgate",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kingston",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kirkland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kitsap County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kittitas",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Kittitas County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Klahanie",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Klickitat County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "La Center",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lacey",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Forest Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Marcel-Stillwater",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Morton-Berrydale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Shore",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Stevens",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lake Stickney",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lakeland North",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lakeland South",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lakewood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Langley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Larch Way",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lea Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Leavenworth",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lewis County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lewisville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Liberty Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lochsloy",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lofall",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Long Beach",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Longbranch",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Longview",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Longview Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lynden",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Lynnwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mabton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Machias",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Maltby",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Manchester",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Manson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Maple Heights-Lake Desire",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Maple Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Maplewood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Marietta",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Marietta-Alderwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Martha Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Marysville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mason County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mattawa",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "McChord Air Force Base",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "McCleary",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "McMillin",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mead",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Meadow Glade",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Meadowdale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Medical Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Medina",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mercer Island",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Midland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mill Creek",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mill Creek East",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mill Plain",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Millwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Milton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Minnehaha",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mirrormont",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Monroe",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Monroe North",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Montesano",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Morton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Moses Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Moses Lake North",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mount Vernon",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mount Vista",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mountlake Terrace",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Mukilteo",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Napavine",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Navy Yard City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Newcastle",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Newport",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Nooksack",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Normandy Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "North Bend",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "North Creek",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "North Fort Lewis",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "North Puyallup",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "North Yelm",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Oak Harbor",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ocean Park",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ocean Shores",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Okanogan",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Okanogan County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Olympia",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Omak",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Opportunity",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Orchards",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Oroville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Orting",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Othello",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Otis Orchards-East Farms",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pacific",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pacific County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Palouse",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Parkland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Parkwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pasco",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Peaceful Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pend Oreille County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Picnic Point",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Picnic Point-North Lynnwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pierce County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Point Roberts",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pomeroy",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Angeles",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Angeles East",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Hadlock-Irondale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Ludlow",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Orchard",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Port Townsend",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Poulsbo",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Prairie Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Prairie Ridge",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Prosser",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Pullman",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Purdy",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Puyallup",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Quincy",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Rainier",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ravensdale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Raymond",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Redmond",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Renton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Republic",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Richland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ridgefield",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Ritzville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Riverbend",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Riverton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Rochester",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Rocky Point",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Rosedale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Royal City",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Salmon Creek",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sammamish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "San Juan County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "SeaTac",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Seabeck",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Seattle",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sedro-Woolley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Selah",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sequim",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Shelton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Shoreline",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Silver Firs",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Silverdale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sisco Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Skagit County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Skamania County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Smokey Point",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Snohomish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Snohomish County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Snoqualmie",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Soap Lake",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "South Bend",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "South Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "South Wenatchee",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Southworth",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Spanaway",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Spokane",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Spokane County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Spokane Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Stanwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Steilacoom",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Stevens County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Stevenson",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sudden Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sultan",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sumas",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Summit",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Summit View",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sumner",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sunnyside",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Sunnyslope",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Suquamish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tacoma",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tanglewilde",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tanglewilde-Thompson Place",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tanner",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tenino",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Terrace Heights",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Three Lakes",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Thurston County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tieton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tonasket",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Toppenish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Town and Country",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tracyton",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Trentwood",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tukwila",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tulalip",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tulalip Bay",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Tumwater",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Union Gap",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Union Hill-Novelty Hill",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "University Place",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Vancouver",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Vashon",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Venersborg",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Veradale",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wahkiakum County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Waitsburg",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Walla Walla",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Walla Walla County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Walla Walla East",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Waller",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Walnut Grove",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wapato",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Warden",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Warm Beach",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Washougal",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Waterville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wauna",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wenatchee",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Clarkston-Highland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Lake Sammamish",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Lake Stevens",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Longview",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Pasco",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Richland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Side Highway",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Valley",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "West Wenatchee",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Westport",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Whatcom County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "White Center",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "White Salmon",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Whitman County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wilderness Rim",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Winlock",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Wollochet",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Woodinville",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Woodland",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Woods Creek",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Woodway",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Yacolt",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Yakima",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Yakima County",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Yarrow Point",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Yelm",
+      "countryCode": "US",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Zillah",
+      "countryCode": "US",
+      "stateCode": "WA"
+   }
+]

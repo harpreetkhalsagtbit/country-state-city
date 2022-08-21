@@ -5,6 +5,7 @@
         "outDir": "./lib/cjs"
     },
     "exclude": [
-        "src/__test__"
+        "src/__test__",
+        "src/scripts"
     ]
 }

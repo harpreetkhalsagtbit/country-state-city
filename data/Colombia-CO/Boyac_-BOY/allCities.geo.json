@@ -1,0 +1,863 @@
+[
+   {
+      "name": "Almeida",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.97083000",
+      "longitude": "-73.37972000"
+   },
+   {
+      "name": "Aquitania",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.40341000",
+      "longitude": "-72.90192000"
+   },
+   {
+      "name": "Arcabuco",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.75463000",
+      "longitude": "-73.43669000"
+   },
+   {
+      "name": "Belén",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.98892000",
+      "longitude": "-72.91254000"
+   },
+   {
+      "name": "Berbeo",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.22760000",
+      "longitude": "-73.12527000"
+   },
+   {
+      "name": "Betéitiva",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.91102000",
+      "longitude": "-72.80926000"
+   },
+   {
+      "name": "Boavita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.33031000",
+      "longitude": "-72.58505000"
+   },
+   {
+      "name": "Boyacá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.45371000",
+      "longitude": "-73.36250000"
+   },
+   {
+      "name": "Briceño",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.68822000",
+      "longitude": "-73.91784000"
+   },
+   {
+      "name": "Buenavista",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.50000000",
+      "longitude": "-73.96667000"
+   },
+   {
+      "name": "Busbanzá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.83047000",
+      "longitude": "-72.88419000"
+   },
+   {
+      "name": "Caldas",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.57830000",
+      "longitude": "-73.88066000"
+   },
+   {
+      "name": "Campohermoso",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.97733000",
+      "longitude": "-73.16714000"
+   },
+   {
+      "name": "Cerinza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.93649000",
+      "longitude": "-72.99127000"
+   },
+   {
+      "name": "Chinavita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.17915000",
+      "longitude": "-73.37147000"
+   },
+   {
+      "name": "Chiquinquirá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.61363000",
+      "longitude": "-73.83848000"
+   },
+   {
+      "name": "Chiscas",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.55642000",
+      "longitude": "-72.50378000"
+   },
+   {
+      "name": "Chita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.07788000",
+      "longitude": "-72.46774000"
+   },
+   {
+      "name": "Chitaraque",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.96167000",
+      "longitude": "-73.45761000"
+   },
+   {
+      "name": "Chivatá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.55823000",
+      "longitude": "-73.28198000"
+   },
+   {
+      "name": "Chivor",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.88556000",
+      "longitude": "-73.36889000"
+   },
+   {
+      "name": "Chíquiza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.60412000",
+      "longitude": "-73.48518000"
+   },
+   {
+      "name": "Ciénega",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.40867000",
+      "longitude": "-73.29572000"
+   },
+   {
+      "name": "Combita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.63333000",
+      "longitude": "-73.31667000"
+   },
+   {
+      "name": "Coper",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.47681000",
+      "longitude": "-74.04416000"
+   },
+   {
+      "name": "Corrales",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.82497000",
+      "longitude": "-72.84539000"
+   },
+   {
+      "name": "Covarachía",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.50563000",
+      "longitude": "-72.73310000"
+   },
+   {
+      "name": "Cubará",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "7.00578000",
+      "longitude": "-72.10568000"
+   },
+   {
+      "name": "Cucaita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.54373000",
+      "longitude": "-73.45433000"
+   },
+   {
+      "name": "Cuítiva",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.58007000",
+      "longitude": "-72.96687000"
+   },
+   {
+      "name": "Duitama",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.82450000",
+      "longitude": "-73.03408000"
+   },
+   {
+      "name": "El Cocuy",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.32839000",
+      "longitude": "-72.43577000"
+   },
+   {
+      "name": "El Espino",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.50812000",
+      "longitude": "-72.48036000"
+   },
+   {
+      "name": "Firavitoba",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.66885000",
+      "longitude": "-72.99289000"
+   },
+   {
+      "name": "Floresta",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.85903000",
+      "longitude": "-72.92511000"
+   },
+   {
+      "name": "Gachantivá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.74417000",
+      "longitude": "-73.54253000"
+   },
+   {
+      "name": "Gameza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.80313000",
+      "longitude": "-72.73721000"
+   },
+   {
+      "name": "Garagoa",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.08236000",
+      "longitude": "-73.36334000"
+   },
+   {
+      "name": "Guacamayas",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.44599000",
+      "longitude": "-72.51676000"
+   },
+   {
+      "name": "Guateque",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.00619000",
+      "longitude": "-73.47274000"
+   },
+   {
+      "name": "Guayatá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.96417000",
+      "longitude": "-73.48750000"
+   },
+   {
+      "name": "Güicán",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.46554000",
+      "longitude": "-72.41539000"
+   },
+   {
+      "name": "Iza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.61203000",
+      "longitude": "-72.97930000"
+   },
+   {
+      "name": "Jenesano",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.38541000",
+      "longitude": "-73.36364000"
+   },
+   {
+      "name": "Jericó",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.14577000",
+      "longitude": "-72.58598000"
+   },
+   {
+      "name": "La Capilla",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.08076000",
+      "longitude": "-73.48076000"
+   },
+   {
+      "name": "La Uvita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.24262000",
+      "longitude": "-72.56448000"
+   },
+   {
+      "name": "La Victoria",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.52278000",
+      "longitude": "-74.23280000"
+   },
+   {
+      "name": "Labranzagrande",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.56223000",
+      "longitude": "-72.57499000"
+   },
+   {
+      "name": "Macanal",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.95050000",
+      "longitude": "-73.32029000"
+   },
+   {
+      "name": "Maripí",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.55194000",
+      "longitude": "-74.00861000"
+   },
+   {
+      "name": "Miraflores",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.12216000",
+      "longitude": "-73.21212000"
+   },
+   {
+      "name": "Mongua",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.75084000",
+      "longitude": "-72.80339000"
+   },
+   {
+      "name": "Monguí",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.69752000",
+      "longitude": "-72.83359000"
+   },
+   {
+      "name": "Moniquirá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.84315000",
+      "longitude": "-73.57775000"
+   },
+   {
+      "name": "Motavita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.57655000",
+      "longitude": "-73.36696000"
+   },
+   {
+      "name": "Muzo",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.53528000",
+      "longitude": "-74.10778000"
+   },
+   {
+      "name": "Nobsa",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.76978000",
+      "longitude": "-72.94099000"
+   },
+   {
+      "name": "Nuevo Colón",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.35368000",
+      "longitude": "-73.45660000"
+   },
+   {
+      "name": "Oicatá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.59548000",
+      "longitude": "-73.30820000"
+   },
+   {
+      "name": "Otanche",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.77534000",
+      "longitude": "-74.20315000"
+   },
+   {
+      "name": "Pachavita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.13969000",
+      "longitude": "-73.39739000"
+   },
+   {
+      "name": "Paipa",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.78013000",
+      "longitude": "-73.11708000"
+   },
+   {
+      "name": "Pajarito",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.34751000",
+      "longitude": "-72.72075000"
+   },
+   {
+      "name": "Panqueba",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.44533000",
+      "longitude": "-72.46268000"
+   },
+   {
+      "name": "Pauna",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.65861000",
+      "longitude": "-73.98250000"
+   },
+   {
+      "name": "Paya",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.62492000",
+      "longitude": "-72.42345000"
+   },
+   {
+      "name": "Paz de Río",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.00219000",
+      "longitude": "-72.78857000"
+   },
+   {
+      "name": "Pesca",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.50213000",
+      "longitude": "-73.08794000"
+   },
+   {
+      "name": "Pisba",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.72396000",
+      "longitude": "-72.48646000"
+   },
+   {
+      "name": "Puerto Boyacá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.97214000",
+      "longitude": "-74.46349000"
+   },
+   {
+      "name": "Páez",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.10112000",
+      "longitude": "-73.05123000"
+   },
+   {
+      "name": "Quípama",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.51940000",
+      "longitude": "-74.17765000"
+   },
+   {
+      "name": "Ramiriquí",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.40020000",
+      "longitude": "-73.33544000"
+   },
+   {
+      "name": "Rondón",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.38173000",
+      "longitude": "-73.19683000"
+   },
+   {
+      "name": "Ráquira",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.53793000",
+      "longitude": "-73.63201000"
+   },
+   {
+      "name": "Saboyá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.69636000",
+      "longitude": "-73.76932000"
+   },
+   {
+      "name": "Samacá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.49273000",
+      "longitude": "-73.48537000"
+   },
+   {
+      "name": "San Eduardo",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.22396000",
+      "longitude": "-73.07696000"
+   },
+   {
+      "name": "San José de Pare",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.01746000",
+      "longitude": "-73.54703000"
+   },
+   {
+      "name": "San Luis de Gaceno",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.82052000",
+      "longitude": "-73.16851000"
+   },
+   {
+      "name": "San Mateo",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.37704000",
+      "longitude": "-72.57797000"
+   },
+   {
+      "name": "San Miguel de Sema",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.51847000",
+      "longitude": "-73.72238000"
+   },
+   {
+      "name": "San Pablo de Borbur",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.66638000",
+      "longitude": "-74.13723000"
+   },
+   {
+      "name": "Santa María",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.82282000",
+      "longitude": "-73.25373000"
+   },
+   {
+      "name": "Santa Rosa de Viterbo",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.87401000",
+      "longitude": "-72.98217000"
+   },
+   {
+      "name": "Santa Sofía",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.70213000",
+      "longitude": "-73.62976000"
+   },
+   {
+      "name": "Santana",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.04464000",
+      "longitude": "-73.51107000"
+   },
+   {
+      "name": "Sativanorte",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.13156000",
+      "longitude": "-72.70895000"
+   },
+   {
+      "name": "Sativasur",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.08959000",
+      "longitude": "-72.72432000"
+   },
+   {
+      "name": "Siachoque",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.51238000",
+      "longitude": "-73.24436000"
+   },
+   {
+      "name": "Soatá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.29966000",
+      "longitude": "-72.72422000"
+   },
+   {
+      "name": "Socha",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.92926000",
+      "longitude": "-72.70072000"
+   },
+   {
+      "name": "Socotá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.04028000",
+      "longitude": "-72.63509000"
+   },
+   {
+      "name": "Sogamoso",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.71434000",
+      "longitude": "-72.93391000"
+   },
+   {
+      "name": "Somondoco",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "4.98495000",
+      "longitude": "-73.43238000"
+   },
+   {
+      "name": "Sora",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.56514000",
+      "longitude": "-73.45017000"
+   },
+   {
+      "name": "Soracá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.50055000",
+      "longitude": "-73.33299000"
+   },
+   {
+      "name": "Sotaquirá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.76483000",
+      "longitude": "-73.24758000"
+   },
+   {
+      "name": "Susacón",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.22978000",
+      "longitude": "-72.69010000"
+   },
+   {
+      "name": "Sutamarchán",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.61538000",
+      "longitude": "-73.61701000"
+   },
+   {
+      "name": "Sutatenza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.02311000",
+      "longitude": "-73.45230000"
+   },
+   {
+      "name": "Sáchica",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.58453000",
+      "longitude": "-73.54184000"
+   },
+   {
+      "name": "Tasco",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.91044000",
+      "longitude": "-72.78001000"
+   },
+   {
+      "name": "Tenza",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.07664000",
+      "longitude": "-73.42077000"
+   },
+   {
+      "name": "Tibaná",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.31728000",
+      "longitude": "-73.39655000"
+   },
+   {
+      "name": "Tibasosa",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.74722000",
+      "longitude": "-73.01091000"
+   },
+   {
+      "name": "Tinjacá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.57916000",
+      "longitude": "-73.64486000"
+   },
+   {
+      "name": "Tipacoque",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.42031000",
+      "longitude": "-72.69184000"
+   },
+   {
+      "name": "Toca",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.56393000",
+      "longitude": "-73.18398000"
+   },
+   {
+      "name": "Togüí",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.93462000",
+      "longitude": "-73.51297000"
+   },
+   {
+      "name": "Tota",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.55833000",
+      "longitude": "-72.98757000"
+   },
+   {
+      "name": "Tunja",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.53528000",
+      "longitude": "-73.36778000"
+   },
+   {
+      "name": "Tununguá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.72967000",
+      "longitude": "-73.94137000"
+   },
+   {
+      "name": "Turmequé",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.32360000",
+      "longitude": "-73.49067000"
+   },
+   {
+      "name": "Tuta",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.68966000",
+      "longitude": "-73.22779000"
+   },
+   {
+      "name": "Tutazá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "6.03228000",
+      "longitude": "-72.85639000"
+   },
+   {
+      "name": "Tópaga",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.75979000",
+      "longitude": "-72.82583000"
+   },
+   {
+      "name": "Umbita",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.18411000",
+      "longitude": "-73.48341000"
+   },
+   {
+      "name": "Ventaquemada",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.35987000",
+      "longitude": "-73.55032000"
+   },
+   {
+      "name": "Villa de Leyva",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.67061000",
+      "longitude": "-73.51554000"
+   },
+   {
+      "name": "Viracachá",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.43637000",
+      "longitude": "-73.29606000"
+   },
+   {
+      "name": "Zetaquira",
+      "countryCode": "CO",
+      "stateCode": "BOY",
+      "latitude": "5.25824000",
+      "longitude": "-73.18275000"
+   }
+]

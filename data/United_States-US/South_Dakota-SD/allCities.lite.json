@@ -1,0 +1,837 @@
+[
+   {
+      "name": "Aberdeen",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Alexandria",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Armour",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Aurora County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Baltic",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Beadle County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Belle Fourche",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Bennett County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Beresford",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Bison",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Blackhawk",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Bon Homme County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Box Elder",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Brandon",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Britton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Brookings",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Brookings County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Brown County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Brule County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Buffalo",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Buffalo County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Burke",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Butte County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Campbell County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Canton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Chamberlain",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Charles Mix County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Clark",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Clark County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Clay County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Clear Lake",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Codington County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Colonial Pine Hills",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Corson County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Crooks",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Custer",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Custer County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Dakota Dunes",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Davison County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Day County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "De Smet",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Deadwood",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Dell Rapids",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Deuel County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Dewey County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Douglas County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Dupree",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Eagle Butte",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Edmunds County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Elk Point",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Fall River County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Faulk County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Faulkton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Flandreau",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Fort Pierre",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Fort Thompson",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Freeman",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Garretson",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Gettysburg",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Grant County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Gregory",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Gregory County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Groton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Haakon County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hamlin County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hand County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hanson County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Harding County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Harrisburg",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hartford",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hayti",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Highmore",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hot Springs",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Howard",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hughes County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Huron",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hutchinson County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Hyde County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Ipswich",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Jackson County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Jerauld County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Jones County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Kadoka",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Kennebec",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Kingsbury County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lake Andes",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lake County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lawrence County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lead",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lemmon",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lennox",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Leola",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Lyman County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Madison",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Marshall County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Martin",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "McCook County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "McIntosh",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "McPherson County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Meade County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Mellette County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Milbank",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Miller",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Miner County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Minnehaha County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Mission",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Mitchell",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Mobridge",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Moody County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Mound City",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Murdo",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "North Eagle Butte",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "North Sioux City",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "North Spearfish",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Oglala",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Oglala Lakota County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Olivet",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Onida",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Parker",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Parkston",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Pennington County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Perkins County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Philip",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Pierre",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Pine Ridge",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Plankinton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Platte",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Porcupine",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Potter County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Rapid City",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Rapid Valley",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Redfield",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Roberts County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Rosebud",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Salem",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Sanborn County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Selby",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Sioux Falls",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Sisseton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Spearfish",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Spink County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Springfield",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Stanley County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Sturgis",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Sully County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Summerset",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Tea",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Timber Lake",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Todd County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Tripp County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Turner County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Tyndall",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Union County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Vermillion",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Volga",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Wagner",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Walworth County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Watertown",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Webster",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Wessington Springs",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "White River",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Winner",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Woonsocket",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Yankton",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Yankton County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   },
+   {
+      "name": "Ziebach County",
+      "countryCode": "US",
+      "stateCode": "SD"
+   }
+]

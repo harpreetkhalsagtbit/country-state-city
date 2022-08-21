@@ -1,0 +1,2683 @@
+[
+   {
+      "name": "Ackley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.55415000",
+      "longitude": "-93.05326000"
+   },
+   {
+      "name": "Adair County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33075000",
+      "longitude": "-94.47094000"
+   },
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02898000",
+      "longitude": "-94.69918000"
+   },
+   {
+      "name": "Adel",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.61443000",
+      "longitude": "-94.01745000"
+   },
+   {
+      "name": "Akron",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.82888000",
+      "longitude": "-96.55948000"
+   },
+   {
+      "name": "Albia",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02667000",
+      "longitude": "-92.80575000"
+   },
+   {
+      "name": "Algona",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.06997000",
+      "longitude": "-94.23302000"
+   },
+   {
+      "name": "Allamakee County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.28428000",
+      "longitude": "-91.37809000"
+   },
+   {
+      "name": "Allison",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.75275000",
+      "longitude": "-92.79519000"
+   },
+   {
+      "name": "Alta",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.67359000",
+      "longitude": "-95.29055000"
+   },
+   {
+      "name": "Alton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.98749000",
+      "longitude": "-96.01057000"
+   },
+   {
+      "name": "Altoona",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.64416000",
+      "longitude": "-93.46466000"
+   },
+   {
+      "name": "Ames",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03471000",
+      "longitude": "-93.61994000"
+   },
+   {
+      "name": "Anamosa",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.10834000",
+      "longitude": "-91.28516000"
+   },
+   {
+      "name": "Ankeny",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.72971000",
+      "longitude": "-93.60577000"
+   },
+   {
+      "name": "Aplington",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.58415000",
+      "longitude": "-92.88436000"
+   },
+   {
+      "name": "Appanoose County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.74316000",
+      "longitude": "-92.86861000"
+   },
+   {
+      "name": "Arnolds Park",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37274000",
+      "longitude": "-95.12388000"
+   },
+   {
+      "name": "Asbury",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.51445000",
+      "longitude": "-90.75152000"
+   },
+   {
+      "name": "Atkins",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.99694000",
+      "longitude": "-91.86213000"
+   },
+   {
+      "name": "Atlantic",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.40360000",
+      "longitude": "-95.01388000"
+   },
+   {
+      "name": "Audubon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.71804000",
+      "longitude": "-94.93249000"
+   },
+   {
+      "name": "Audubon County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68459000",
+      "longitude": "-94.90582000"
+   },
+   {
+      "name": "Avoca",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.47666000",
+      "longitude": "-95.33805000"
+   },
+   {
+      "name": "Baxter",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.82610000",
+      "longitude": "-93.15159000"
+   },
+   {
+      "name": "Bedford",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.66693000",
+      "longitude": "-94.72136000"
+   },
+   {
+      "name": "Belle Plaine",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.89694000",
+      "longitude": "-92.27824000"
+   },
+   {
+      "name": "Bellevue",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.25863000",
+      "longitude": "-90.42291000"
+   },
+   {
+      "name": "Belmond",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.84608000",
+      "longitude": "-93.61410000"
+   },
+   {
+      "name": "Benton County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.08019000",
+      "longitude": "-92.06569000"
+   },
+   {
+      "name": "Bettendorf",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.52448000",
+      "longitude": "-90.51569000"
+   },
+   {
+      "name": "Black Hawk County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.47010000",
+      "longitude": "-92.30882000"
+   },
+   {
+      "name": "Bloomfield",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.75169000",
+      "longitude": "-92.41491000"
+   },
+   {
+      "name": "Blue Grass",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.50892000",
+      "longitude": "-90.76598000"
+   },
+   {
+      "name": "Bondurant",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.70054000",
+      "longitude": "-93.46216000"
+   },
+   {
+      "name": "Boone",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.05970000",
+      "longitude": "-93.88023000"
+   },
+   {
+      "name": "Boone County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03655000",
+      "longitude": "-93.93167000"
+   },
+   {
+      "name": "Bremer County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.77459000",
+      "longitude": "-92.31805000"
+   },
+   {
+      "name": "Britt",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.09774000",
+      "longitude": "-93.80189000"
+   },
+   {
+      "name": "Brooklyn",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.73361000",
+      "longitude": "-92.44546000"
+   },
+   {
+      "name": "Buchanan County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.47078000",
+      "longitude": "-91.83784000"
+   },
+   {
+      "name": "Buena Vista County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73549000",
+      "longitude": "-95.15115000"
+   },
+   {
+      "name": "Buffalo",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.45642000",
+      "longitude": "-90.72347000"
+   },
+   {
+      "name": "Buffalo (historical)",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.31110000",
+      "longitude": "-94.00356000"
+   },
+   {
+      "name": "Burlington",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.80754000",
+      "longitude": "-91.11292000"
+   },
+   {
+      "name": "Butler County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73157000",
+      "longitude": "-92.79019000"
+   },
+   {
+      "name": "Calhoun County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38518000",
+      "longitude": "-94.64041000"
+   },
+   {
+      "name": "Camanche",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.78809000",
+      "longitude": "-90.25624000"
+   },
+   {
+      "name": "Carlisle",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.50082000",
+      "longitude": "-93.49105000"
+   },
+   {
+      "name": "Carroll",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.06582000",
+      "longitude": "-94.86693000"
+   },
+   {
+      "name": "Carroll County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03624000",
+      "longitude": "-94.86056000"
+   },
+   {
+      "name": "Carter Lake",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.29055000",
+      "longitude": "-95.91807000"
+   },
+   {
+      "name": "Cascade",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.29862000",
+      "longitude": "-91.01486000"
+   },
+   {
+      "name": "Cass County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33149000",
+      "longitude": "-94.92783000"
+   },
+   {
+      "name": "Cedar County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.77232000",
+      "longitude": "-91.13241000"
+   },
+   {
+      "name": "Cedar Falls",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.52776000",
+      "longitude": "-92.44547000"
+   },
+   {
+      "name": "Cedar Rapids",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.00833000",
+      "longitude": "-91.64407000"
+   },
+   {
+      "name": "Center Point",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.19083000",
+      "longitude": "-91.78518000"
+   },
+   {
+      "name": "Centerville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73418000",
+      "longitude": "-92.87409000"
+   },
+   {
+      "name": "Central City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.20388000",
+      "longitude": "-91.52406000"
+   },
+   {
+      "name": "Cerro Gordo County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08156000",
+      "longitude": "-93.26082000"
+   },
+   {
+      "name": "Chariton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.01389000",
+      "longitude": "-93.30660000"
+   },
+   {
+      "name": "Charles City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.06636000",
+      "longitude": "-92.67241000"
+   },
+   {
+      "name": "Cherokee",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.74943000",
+      "longitude": "-95.55167000"
+   },
+   {
+      "name": "Cherokee County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73562000",
+      "longitude": "-95.62381000"
+   },
+   {
+      "name": "Chickasaw County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.06004000",
+      "longitude": "-92.31766000"
+   },
+   {
+      "name": "Clarinda",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73981000",
+      "longitude": "-95.03800000"
+   },
+   {
+      "name": "Clarion",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73164000",
+      "longitude": "-93.73299000"
+   },
+   {
+      "name": "Clarke County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02903000",
+      "longitude": "-93.78516000"
+   },
+   {
+      "name": "Clarksville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.78470000",
+      "longitude": "-92.66769000"
+   },
+   {
+      "name": "Clay County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08258000",
+      "longitude": "-95.15092000"
+   },
+   {
+      "name": "Clayton County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.84475000",
+      "longitude": "-91.34143000"
+   },
+   {
+      "name": "Clear Lake",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.13802000",
+      "longitude": "-93.37937000"
+   },
+   {
+      "name": "Clinton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.84447000",
+      "longitude": "-90.18874000"
+   },
+   {
+      "name": "Clinton County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.89804000",
+      "longitude": "-90.53197000"
+   },
+   {
+      "name": "Clive",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.60304000",
+      "longitude": "-93.72411000"
+   },
+   {
+      "name": "Colfax",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67777000",
+      "longitude": "-93.24520000"
+   },
+   {
+      "name": "Columbus Junction",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.28003000",
+      "longitude": "-91.36071000"
+   },
+   {
+      "name": "Conrad",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.22471000",
+      "longitude": "-92.87465000"
+   },
+   {
+      "name": "Coon Rapids",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.87082000",
+      "longitude": "-94.67748000"
+   },
+   {
+      "name": "Coralville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67640000",
+      "longitude": "-91.58045000"
+   },
+   {
+      "name": "Corning",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.98999000",
+      "longitude": "-94.74081000"
+   },
+   {
+      "name": "Corydon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.75695000",
+      "longitude": "-93.31882000"
+   },
+   {
+      "name": "Council Bluffs",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.26194000",
+      "longitude": "-95.86083000"
+   },
+   {
+      "name": "Crawford County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03721000",
+      "longitude": "-95.38197000"
+   },
+   {
+      "name": "Cresco",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.38136000",
+      "longitude": "-92.11405000"
+   },
+   {
+      "name": "Creston",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.05860000",
+      "longitude": "-94.36135000"
+   },
+   {
+      "name": "Dakota City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.72219000",
+      "longitude": "-94.19718000"
+   },
+   {
+      "name": "Dallas Center",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68443000",
+      "longitude": "-93.96106000"
+   },
+   {
+      "name": "Dallas County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68489000",
+      "longitude": "-94.03974000"
+   },
+   {
+      "name": "Davenport",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.52364000",
+      "longitude": "-90.57764000"
+   },
+   {
+      "name": "Davis County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.74769000",
+      "longitude": "-92.40972000"
+   },
+   {
+      "name": "De Soto",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.53166000",
+      "longitude": "-94.00967000"
+   },
+   {
+      "name": "De Witt",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.82336000",
+      "longitude": "-90.53819000"
+   },
+   {
+      "name": "Decatur County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73768000",
+      "longitude": "-93.78628000"
+   },
+   {
+      "name": "Decorah",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.30331000",
+      "longitude": "-91.78571000"
+   },
+   {
+      "name": "Delaware County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.47121000",
+      "longitude": "-91.36735000"
+   },
+   {
+      "name": "Denison",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.01777000",
+      "longitude": "-95.35528000"
+   },
+   {
+      "name": "Denver",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.67137000",
+      "longitude": "-92.33740000"
+   },
+   {
+      "name": "Des Moines",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.60054000",
+      "longitude": "-93.60911000"
+   },
+   {
+      "name": "Des Moines County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.92318000",
+      "longitude": "-91.18147000"
+   },
+   {
+      "name": "Dickinson County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37798000",
+      "longitude": "-95.15083000"
+   },
+   {
+      "name": "Dike",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46415000",
+      "longitude": "-92.62825000"
+   },
+   {
+      "name": "Dubuque",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.50056000",
+      "longitude": "-90.66457000"
+   },
+   {
+      "name": "Dubuque County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46883000",
+      "longitude": "-90.88246000"
+   },
+   {
+      "name": "Durant",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.59975000",
+      "longitude": "-90.91070000"
+   },
+   {
+      "name": "Dyersville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.48444000",
+      "longitude": "-91.12291000"
+   },
+   {
+      "name": "Dysart",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.17166000",
+      "longitude": "-92.30630000"
+   },
+   {
+      "name": "Eagle Grove",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.66414000",
+      "longitude": "-93.90439000"
+   },
+   {
+      "name": "Earlham",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.49193000",
+      "longitude": "-94.12412000"
+   },
+   {
+      "name": "Eddyville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.15650000",
+      "longitude": "-92.63739000"
+   },
+   {
+      "name": "Eldora",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.36082000",
+      "longitude": "-93.09965000"
+   },
+   {
+      "name": "Eldridge",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.65809000",
+      "longitude": "-90.58458000"
+   },
+   {
+      "name": "Elk Run Heights",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46693000",
+      "longitude": "-92.25657000"
+   },
+   {
+      "name": "Elkader",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.85387000",
+      "longitude": "-91.40542000"
+   },
+   {
+      "name": "Ely",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.87362000",
+      "longitude": "-91.58518000"
+   },
+   {
+      "name": "Emmet County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37802000",
+      "longitude": "-94.67848000"
+   },
+   {
+      "name": "Emmetsburg",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.11274000",
+      "longitude": "-94.68304000"
+   },
+   {
+      "name": "Epworth",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.44500000",
+      "longitude": "-90.93208000"
+   },
+   {
+      "name": "Estherville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.40163000",
+      "longitude": "-94.83276000"
+   },
+   {
+      "name": "Evansdale",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46915000",
+      "longitude": "-92.28102000"
+   },
+   {
+      "name": "Fairbank",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.63915000",
+      "longitude": "-92.04712000"
+   },
+   {
+      "name": "Fairfax",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.91945000",
+      "longitude": "-91.78101000"
+   },
+   {
+      "name": "Fairfield",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.00863000",
+      "longitude": "-91.96267000"
+   },
+   {
+      "name": "Farley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.44278000",
+      "longitude": "-91.00625000"
+   },
+   {
+      "name": "Fayette",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.84193000",
+      "longitude": "-91.80211000"
+   },
+   {
+      "name": "Fayette County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.86259000",
+      "longitude": "-91.84432000"
+   },
+   {
+      "name": "Floyd County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.05992000",
+      "longitude": "-92.78900000"
+   },
+   {
+      "name": "Forest City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.26246000",
+      "longitude": "-93.63716000"
+   },
+   {
+      "name": "Fort Dodge",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.49747000",
+      "longitude": "-94.16802000"
+   },
+   {
+      "name": "Fort Madison",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.62976000",
+      "longitude": "-91.31515000"
+   },
+   {
+      "name": "Franklin County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73255000",
+      "longitude": "-93.26247000"
+   },
+   {
+      "name": "Fremont County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.74559000",
+      "longitude": "-95.60468000"
+   },
+   {
+      "name": "Garner",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.10246000",
+      "longitude": "-93.60188000"
+   },
+   {
+      "name": "George",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.34386000",
+      "longitude": "-96.00224000"
+   },
+   {
+      "name": "Gilbert",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.10693000",
+      "longitude": "-93.64966000"
+   },
+   {
+      "name": "Glenwood",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.04694000",
+      "longitude": "-95.74251000"
+   },
+   {
+      "name": "Glidden",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.05693000",
+      "longitude": "-94.72887000"
+   },
+   {
+      "name": "Granger",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.76110000",
+      "longitude": "-93.82439000"
+   },
+   {
+      "name": "Greene",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.89581000",
+      "longitude": "-92.80242000"
+   },
+   {
+      "name": "Greene County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03624000",
+      "longitude": "-94.39684000"
+   },
+   {
+      "name": "Greenfield",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.30527000",
+      "longitude": "-94.46135000"
+   },
+   {
+      "name": "Grimes",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68832000",
+      "longitude": "-93.79106000"
+   },
+   {
+      "name": "Grinnell",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.74305000",
+      "longitude": "-92.72241000"
+   },
+   {
+      "name": "Grundy Center",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.36165000",
+      "longitude": "-92.76853000"
+   },
+   {
+      "name": "Grundy County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.40187000",
+      "longitude": "-92.79142000"
+   },
+   {
+      "name": "Guthrie Center",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67721000",
+      "longitude": "-94.50330000"
+   },
+   {
+      "name": "Guthrie County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68375000",
+      "longitude": "-94.50105000"
+   },
+   {
+      "name": "Guttenberg",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.78582000",
+      "longitude": "-91.09957000"
+   },
+   {
+      "name": "Hamburg",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.60445000",
+      "longitude": "-95.65777000"
+   },
+   {
+      "name": "Hamilton County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38377000",
+      "longitude": "-93.70681000"
+   },
+   {
+      "name": "Hampton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.74192000",
+      "longitude": "-93.20242000"
+   },
+   {
+      "name": "Hancock County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08189000",
+      "longitude": "-93.73427000"
+   },
+   {
+      "name": "Hardin County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38388000",
+      "longitude": "-93.24040000"
+   },
+   {
+      "name": "Harlan",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.65304000",
+      "longitude": "-95.32555000"
+   },
+   {
+      "name": "Harrison County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68285000",
+      "longitude": "-95.81692000"
+   },
+   {
+      "name": "Hartley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.17997000",
+      "longitude": "-95.47695000"
+   },
+   {
+      "name": "Hawarden",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.99582000",
+      "longitude": "-96.48531000"
+   },
+   {
+      "name": "Henry County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.98794000",
+      "longitude": "-91.54452000"
+   },
+   {
+      "name": "Hiawatha",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03583000",
+      "longitude": "-91.68212000"
+   },
+   {
+      "name": "Holstein",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.48915000",
+      "longitude": "-95.54500000"
+   },
+   {
+      "name": "Howard County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.35677000",
+      "longitude": "-92.31720000"
+   },
+   {
+      "name": "Hudson",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.40665000",
+      "longitude": "-92.45547000"
+   },
+   {
+      "name": "Hull",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.18859000",
+      "longitude": "-96.13363000"
+   },
+   {
+      "name": "Humboldt",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.72080000",
+      "longitude": "-94.21524000"
+   },
+   {
+      "name": "Humboldt County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.77647000",
+      "longitude": "-94.20719000"
+   },
+   {
+      "name": "Huxley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.89527000",
+      "longitude": "-93.60077000"
+   },
+   {
+      "name": "Ida County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38687000",
+      "longitude": "-95.51350000"
+   },
+   {
+      "name": "Ida Grove",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.34499000",
+      "longitude": "-95.47167000"
+   },
+   {
+      "name": "Independence",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46860000",
+      "longitude": "-91.88934000"
+   },
+   {
+      "name": "Indianola",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.35805000",
+      "longitude": "-93.55744000"
+   },
+   {
+      "name": "Iowa City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.66113000",
+      "longitude": "-91.53017000"
+   },
+   {
+      "name": "Iowa County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68632000",
+      "longitude": "-92.06552000"
+   },
+   {
+      "name": "Iowa Falls",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.52248000",
+      "longitude": "-93.25131000"
+   },
+   {
+      "name": "Jackson County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.17174000",
+      "longitude": "-90.57423000"
+   },
+   {
+      "name": "Jasper County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68604000",
+      "longitude": "-93.05376000"
+   },
+   {
+      "name": "Jefferson",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.01526000",
+      "longitude": "-94.37747000"
+   },
+   {
+      "name": "Jefferson County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.03176000",
+      "longitude": "-91.94888000"
+   },
+   {
+      "name": "Jesup",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.47554000",
+      "longitude": "-92.06379000"
+   },
+   {
+      "name": "Jewell",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.30693000",
+      "longitude": "-93.64022000"
+   },
+   {
+      "name": "Johnson County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67155000",
+      "longitude": "-91.58808000"
+   },
+   {
+      "name": "Johnston",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67304000",
+      "longitude": "-93.69772000"
+   },
+   {
+      "name": "Jones County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.12124000",
+      "longitude": "-91.13144000"
+   },
+   {
+      "name": "Kalona",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.48307000",
+      "longitude": "-91.70600000"
+   },
+   {
+      "name": "Keokuk",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.39727000",
+      "longitude": "-91.38487000"
+   },
+   {
+      "name": "Keokuk County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33646000",
+      "longitude": "-92.17864000"
+   },
+   {
+      "name": "Keosauqua",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73031000",
+      "longitude": "-91.96239000"
+   },
+   {
+      "name": "Kingsley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.58832000",
+      "longitude": "-95.96752000"
+   },
+   {
+      "name": "Knoxville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.32083000",
+      "longitude": "-93.10937000"
+   },
+   {
+      "name": "Kossuth County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.20413000",
+      "longitude": "-94.20672000"
+   },
+   {
+      "name": "La Porte City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.31499000",
+      "longitude": "-92.19213000"
+   },
+   {
+      "name": "Lake City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.26748000",
+      "longitude": "-94.73387000"
+   },
+   {
+      "name": "Lake Mills",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.41940000",
+      "longitude": "-93.53327000"
+   },
+   {
+      "name": "Lake Panorama",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.71105000",
+      "longitude": "-94.39059000"
+   },
+   {
+      "name": "Lake Park",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.45552000",
+      "longitude": "-95.32083000"
+   },
+   {
+      "name": "Lake View",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.31165000",
+      "longitude": "-95.05332000"
+   },
+   {
+      "name": "Lamoni",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.62278000",
+      "longitude": "-93.93412000"
+   },
+   {
+      "name": "Laurens",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.84664000",
+      "longitude": "-94.85193000"
+   },
+   {
+      "name": "Le Claire",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.59864000",
+      "longitude": "-90.34346000"
+   },
+   {
+      "name": "Le Mars",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.79416000",
+      "longitude": "-96.16558000"
+   },
+   {
+      "name": "Lee County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.64198000",
+      "longitude": "-91.47926000"
+   },
+   {
+      "name": "Lenox",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.88165000",
+      "longitude": "-94.56191000"
+   },
+   {
+      "name": "Leon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73972000",
+      "longitude": "-93.74772000"
+   },
+   {
+      "name": "Linn County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.07895000",
+      "longitude": "-91.59896000"
+   },
+   {
+      "name": "Lisbon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.92112000",
+      "longitude": "-91.38545000"
+   },
+   {
+      "name": "Logan",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.64305000",
+      "longitude": "-95.78890000"
+   },
+   {
+      "name": "Lone Tree",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.48808000",
+      "longitude": "-91.42599000"
+   },
+   {
+      "name": "Louisa County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.21851000",
+      "longitude": "-91.25962000"
+   },
+   {
+      "name": "Lucas County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02937000",
+      "longitude": "-93.32772000"
+   },
+   {
+      "name": "Lyon County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.38050000",
+      "longitude": "-96.21029000"
+   },
+   {
+      "name": "Madison County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33071000",
+      "longitude": "-94.01556000"
+   },
+   {
+      "name": "Madrid",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.87665000",
+      "longitude": "-93.82328000"
+   },
+   {
+      "name": "Maharishi Vedic City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.05252000",
+      "longitude": "-91.99490000"
+   },
+   {
+      "name": "Mahaska County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33520000",
+      "longitude": "-92.64091000"
+   },
+   {
+      "name": "Malvern",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.00278000",
+      "longitude": "-95.58528000"
+   },
+   {
+      "name": "Manchester",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.48415000",
+      "longitude": "-91.45543000"
+   },
+   {
+      "name": "Manly",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.28718000",
+      "longitude": "-93.20215000"
+   },
+   {
+      "name": "Manning",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.90915000",
+      "longitude": "-95.06499000"
+   },
+   {
+      "name": "Manson",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.52914000",
+      "longitude": "-94.53414000"
+   },
+   {
+      "name": "Mapleton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.16582000",
+      "longitude": "-95.79306000"
+   },
+   {
+      "name": "Maquoketa",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.06891000",
+      "longitude": "-90.66569000"
+   },
+   {
+      "name": "Marcus",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.82582000",
+      "longitude": "-95.80751000"
+   },
+   {
+      "name": "Marengo",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.79806000",
+      "longitude": "-92.07074000"
+   },
+   {
+      "name": "Marion",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03417000",
+      "longitude": "-91.59768000"
+   },
+   {
+      "name": "Marion County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33445000",
+      "longitude": "-93.09944000"
+   },
+   {
+      "name": "Marshall County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03585000",
+      "longitude": "-92.99877000"
+   },
+   {
+      "name": "Marshalltown",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.04943000",
+      "longitude": "-92.90798000"
+   },
+   {
+      "name": "Mason City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.15357000",
+      "longitude": "-93.20104000"
+   },
+   {
+      "name": "Mechanicsville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.90446000",
+      "longitude": "-91.25461000"
+   },
+   {
+      "name": "Mediapolis",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.00809000",
+      "longitude": "-91.16404000"
+   },
+   {
+      "name": "Melcher-Dallas",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.22500000",
+      "longitude": "-93.24132000"
+   },
+   {
+      "name": "Milford",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.32469000",
+      "longitude": "-95.15000000"
+   },
+   {
+      "name": "Mills County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.03345000",
+      "longitude": "-95.62133000"
+   },
+   {
+      "name": "Missouri Valley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.55638000",
+      "longitude": "-95.88779000"
+   },
+   {
+      "name": "Mitchell County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.35641000",
+      "longitude": "-92.78903000"
+   },
+   {
+      "name": "Mitchellville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.66860000",
+      "longitude": "-93.35771000"
+   },
+   {
+      "name": "Monona",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.05165000",
+      "longitude": "-91.38930000"
+   },
+   {
+      "name": "Monona County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.05167000",
+      "longitude": "-95.95992000"
+   },
+   {
+      "name": "Monroe",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.52221000",
+      "longitude": "-93.10187000"
+   },
+   {
+      "name": "Monroe County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02978000",
+      "longitude": "-92.86899000"
+   },
+   {
+      "name": "Montezuma",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.58583000",
+      "longitude": "-92.52741000"
+   },
+   {
+      "name": "Montgomery County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.03014000",
+      "longitude": "-95.15638000"
+   },
+   {
+      "name": "Monticello",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.23834000",
+      "longitude": "-91.18709000"
+   },
+   {
+      "name": "Mount Ayr",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.71471000",
+      "longitude": "-94.23523000"
+   },
+   {
+      "name": "Mount Pleasant",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.96364000",
+      "longitude": "-91.55794000"
+   },
+   {
+      "name": "Mount Vernon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.92195000",
+      "longitude": "-91.41684000"
+   },
+   {
+      "name": "Moville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.48888000",
+      "longitude": "-96.07252000"
+   },
+   {
+      "name": "Muscatine",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.42447000",
+      "longitude": "-91.04321000"
+   },
+   {
+      "name": "Muscatine County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.48392000",
+      "longitude": "-91.11276000"
+   },
+   {
+      "name": "Nashua",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.95275000",
+      "longitude": "-92.53630000"
+   },
+   {
+      "name": "Nevada",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.02277000",
+      "longitude": "-93.45243000"
+   },
+   {
+      "name": "New Hampton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.05914000",
+      "longitude": "-92.31768000"
+   },
+   {
+      "name": "New London",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.92698000",
+      "longitude": "-91.39960000"
+   },
+   {
+      "name": "New Sharon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.47000000",
+      "longitude": "-92.65130000"
+   },
+   {
+      "name": "Newton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.69971000",
+      "longitude": "-93.04798000"
+   },
+   {
+      "name": "Nora Springs",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.14275000",
+      "longitude": "-93.00437000"
+   },
+   {
+      "name": "North English",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.51390000",
+      "longitude": "-92.07629000"
+   },
+   {
+      "name": "North Liberty",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.74918000",
+      "longitude": "-91.59795000"
+   },
+   {
+      "name": "Northwood",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.44412000",
+      "longitude": "-93.22104000"
+   },
+   {
+      "name": "Norwalk",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.47555000",
+      "longitude": "-93.67883000"
+   },
+   {
+      "name": "O'Brien County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08375000",
+      "longitude": "-95.62488000"
+   },
+   {
+      "name": "Oakland",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.30916000",
+      "longitude": "-95.39667000"
+   },
+   {
+      "name": "Oelwein",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.67332000",
+      "longitude": "-91.91350000"
+   },
+   {
+      "name": "Ogden",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03915000",
+      "longitude": "-94.02773000"
+   },
+   {
+      "name": "Onawa",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.02665000",
+      "longitude": "-96.09724000"
+   },
+   {
+      "name": "Orange City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.00721000",
+      "longitude": "-96.05835000"
+   },
+   {
+      "name": "Osage",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.28414000",
+      "longitude": "-92.81103000"
+   },
+   {
+      "name": "Osceola",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.03389000",
+      "longitude": "-93.76550000"
+   },
+   {
+      "name": "Osceola County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37857000",
+      "longitude": "-95.62369000"
+   },
+   {
+      "name": "Oskaloosa",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.29639000",
+      "longitude": "-92.64436000"
+   },
+   {
+      "name": "Ottumwa",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02001000",
+      "longitude": "-92.41130000"
+   },
+   {
+      "name": "Page County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73914000",
+      "longitude": "-95.15017000"
+   },
+   {
+      "name": "Palo",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.06611000",
+      "longitude": "-91.79546000"
+   },
+   {
+      "name": "Palo Alto County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08206000",
+      "longitude": "-94.67814000"
+   },
+   {
+      "name": "Panora",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.69165000",
+      "longitude": "-94.36302000"
+   },
+   {
+      "name": "Park View",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.69420000",
+      "longitude": "-90.54569000"
+   },
+   {
+      "name": "Parkersburg",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.57748000",
+      "longitude": "-92.78686000"
+   },
+   {
+      "name": "Paullina",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.97915000",
+      "longitude": "-95.68807000"
+   },
+   {
+      "name": "Pella",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.40805000",
+      "longitude": "-92.91631000"
+   },
+   {
+      "name": "Peosta",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.45056000",
+      "longitude": "-90.85041000"
+   },
+   {
+      "name": "Perry",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.83860000",
+      "longitude": "-94.10718000"
+   },
+   {
+      "name": "Pleasant Hill",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.58388000",
+      "longitude": "-93.51994000"
+   },
+   {
+      "name": "Pleasantville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.38583000",
+      "longitude": "-93.26937000"
+   },
+   {
+      "name": "Plymouth County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73783000",
+      "longitude": "-96.21404000"
+   },
+   {
+      "name": "Pocahontas",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73553000",
+      "longitude": "-94.66915000"
+   },
+   {
+      "name": "Pocahontas County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73414000",
+      "longitude": "-94.67875000"
+   },
+   {
+      "name": "Polk City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.77138000",
+      "longitude": "-93.71300000"
+   },
+   {
+      "name": "Polk County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68550000",
+      "longitude": "-93.57353000"
+   },
+   {
+      "name": "Postville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08470000",
+      "longitude": "-91.56820000"
+   },
+   {
+      "name": "Pottawattamie County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33661000",
+      "longitude": "-95.54239000"
+   },
+   {
+      "name": "Poweshiek County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68644000",
+      "longitude": "-92.53147000"
+   },
+   {
+      "name": "Prairie City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.59943000",
+      "longitude": "-93.23521000"
+   },
+   {
+      "name": "Preston",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.05030000",
+      "longitude": "-90.41402000"
+   },
+   {
+      "name": "Primghar",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08692000",
+      "longitude": "-95.62723000"
+   },
+   {
+      "name": "Red Oak",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.00972000",
+      "longitude": "-95.22555000"
+   },
+   {
+      "name": "Reinbeck",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.32360000",
+      "longitude": "-92.59936000"
+   },
+   {
+      "name": "Remsen",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.81471000",
+      "longitude": "-95.97335000"
+   },
+   {
+      "name": "Ringgold County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73520000",
+      "longitude": "-94.24397000"
+   },
+   {
+      "name": "Riverside",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.47974000",
+      "longitude": "-91.58128000"
+   },
+   {
+      "name": "Robins",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.07111000",
+      "longitude": "-91.66684000"
+   },
+   {
+      "name": "Rock Rapids",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.42719000",
+      "longitude": "-96.17586000"
+   },
+   {
+      "name": "Rock Valley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.20526000",
+      "longitude": "-96.29503000"
+   },
+   {
+      "name": "Rockwell",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.98524000",
+      "longitude": "-93.19187000"
+   },
+   {
+      "name": "Rockwell City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.39526000",
+      "longitude": "-94.63387000"
+   },
+   {
+      "name": "Roland",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.16637000",
+      "longitude": "-93.50188000"
+   },
+   {
+      "name": "Sac City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.42220000",
+      "longitude": "-94.98971000"
+   },
+   {
+      "name": "Sac County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38626000",
+      "longitude": "-95.10539000"
+   },
+   {
+      "name": "Saint Ansgar",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37830000",
+      "longitude": "-92.91881000"
+   },
+   {
+      "name": "Sanborn",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.18164000",
+      "longitude": "-95.65557000"
+   },
+   {
+      "name": "Saylorville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67860000",
+      "longitude": "-93.62966000"
+   },
+   {
+      "name": "Scott County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.63710000",
+      "longitude": "-90.62324000"
+   },
+   {
+      "name": "Sergeant Bluff",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.40388000",
+      "longitude": "-96.35864000"
+   },
+   {
+      "name": "Sheffield",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.89330000",
+      "longitude": "-93.21520000"
+   },
+   {
+      "name": "Shelby County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.68509000",
+      "longitude": "-95.31021000"
+   },
+   {
+      "name": "Sheldon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.18109000",
+      "longitude": "-95.85613000"
+   },
+   {
+      "name": "Shell Rock",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.71026000",
+      "longitude": "-92.58297000"
+   },
+   {
+      "name": "Shenandoah",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.76555000",
+      "longitude": "-95.37221000"
+   },
+   {
+      "name": "Sibley",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.39914000",
+      "longitude": "-95.75196000"
+   },
+   {
+      "name": "Sidney",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.74833000",
+      "longitude": "-95.64750000"
+   },
+   {
+      "name": "Sigourney",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33334000",
+      "longitude": "-92.20463000"
+   },
+   {
+      "name": "Sioux Center",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.07971000",
+      "longitude": "-96.17558000"
+   },
+   {
+      "name": "Sioux City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.49999000",
+      "longitude": "-96.40031000"
+   },
+   {
+      "name": "Sioux County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.08262000",
+      "longitude": "-96.17788000"
+   },
+   {
+      "name": "Slater",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.87776000",
+      "longitude": "-93.67855000"
+   },
+   {
+      "name": "Solon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.80723000",
+      "longitude": "-91.49406000"
+   },
+   {
+      "name": "Spencer",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.14136000",
+      "longitude": "-95.14444000"
+   },
+   {
+      "name": "Spirit Lake",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.42218000",
+      "longitude": "-95.10222000"
+   },
+   {
+      "name": "Springville",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.05945000",
+      "longitude": "-91.44267000"
+   },
+   {
+      "name": "State Center",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.01665000",
+      "longitude": "-93.16354000"
+   },
+   {
+      "name": "Storm Lake",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.64109000",
+      "longitude": "-95.20972000"
+   },
+   {
+      "name": "Story City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.18721000",
+      "longitude": "-93.59577000"
+   },
+   {
+      "name": "Story County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.03624000",
+      "longitude": "-93.46504000"
+   },
+   {
+      "name": "Strawberry Point",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.68360000",
+      "longitude": "-91.53403000"
+   },
+   {
+      "name": "Stuart",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.50332000",
+      "longitude": "-94.31857000"
+   },
+   {
+      "name": "Sumner",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.84748000",
+      "longitude": "-92.09156000"
+   },
+   {
+      "name": "Tama",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.96666000",
+      "longitude": "-92.57686000"
+   },
+   {
+      "name": "Tama County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.07981000",
+      "longitude": "-92.53254000"
+   },
+   {
+      "name": "Taylor County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73743000",
+      "longitude": "-94.69641000"
+   },
+   {
+      "name": "Tiffin",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.70585000",
+      "longitude": "-91.66295000"
+   },
+   {
+      "name": "Tipton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.76974000",
+      "longitude": "-91.12793000"
+   },
+   {
+      "name": "Toledo",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.99555000",
+      "longitude": "-92.57686000"
+   },
+   {
+      "name": "Traer",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.19360000",
+      "longitude": "-92.46547000"
+   },
+   {
+      "name": "Tripoli",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.80804000",
+      "longitude": "-92.25823000"
+   },
+   {
+      "name": "Union County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.02773000",
+      "longitude": "-94.24238000"
+   },
+   {
+      "name": "University Heights",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.65502000",
+      "longitude": "-91.55684000"
+   },
+   {
+      "name": "Urbana",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.22416000",
+      "longitude": "-91.87434000"
+   },
+   {
+      "name": "Urbandale",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.62666000",
+      "longitude": "-93.71217000"
+   },
+   {
+      "name": "Van Buren County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.75323000",
+      "longitude": "-91.94999000"
+   },
+   {
+      "name": "Van Meter",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.53193000",
+      "longitude": "-93.95412000"
+   },
+   {
+      "name": "Villisca",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.92971000",
+      "longitude": "-94.97609000"
+   },
+   {
+      "name": "Vinton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.16861000",
+      "longitude": "-92.02351000"
+   },
+   {
+      "name": "Walcott",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.58475000",
+      "longitude": "-90.77209000"
+   },
+   {
+      "name": "Walford",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.87834000",
+      "longitude": "-91.83462000"
+   },
+   {
+      "name": "Wapello",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.18142000",
+      "longitude": "-91.18543000"
+   },
+   {
+      "name": "Wapello County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.03058000",
+      "longitude": "-92.40945000"
+   },
+   {
+      "name": "Warren County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33437000",
+      "longitude": "-93.56136000"
+   },
+   {
+      "name": "Washington",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.29918000",
+      "longitude": "-91.69294000"
+   },
+   {
+      "name": "Washington County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33559000",
+      "longitude": "-91.71787000"
+   },
+   {
+      "name": "Waterloo",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.49276000",
+      "longitude": "-92.34296000"
+   },
+   {
+      "name": "Waukee",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.61166000",
+      "longitude": "-93.88523000"
+   },
+   {
+      "name": "Waukon",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.26942000",
+      "longitude": "-91.47570000"
+   },
+   {
+      "name": "Waverly",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.72581000",
+      "longitude": "-92.47546000"
+   },
+   {
+      "name": "Wayne County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.73947000",
+      "longitude": "-93.32736000"
+   },
+   {
+      "name": "Webster City",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.46942000",
+      "longitude": "-93.81605000"
+   },
+   {
+      "name": "Webster County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.42797000",
+      "longitude": "-94.18179000"
+   },
+   {
+      "name": "Wellman",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.46418000",
+      "longitude": "-91.83823000"
+   },
+   {
+      "name": "West Branch",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.67141000",
+      "longitude": "-91.34655000"
+   },
+   {
+      "name": "West Burlington",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "40.82504000",
+      "longitude": "-91.15654000"
+   },
+   {
+      "name": "West Des Moines",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.57721000",
+      "longitude": "-93.71133000"
+   },
+   {
+      "name": "West Liberty",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.57002000",
+      "longitude": "-91.26377000"
+   },
+   {
+      "name": "West Union",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.96276000",
+      "longitude": "-91.80822000"
+   },
+   {
+      "name": "Williamsburg",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.66112000",
+      "longitude": "-92.00907000"
+   },
+   {
+      "name": "Wilton",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.58892000",
+      "longitude": "-91.01682000"
+   },
+   {
+      "name": "Windsor Heights",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.59777000",
+      "longitude": "-93.70828000"
+   },
+   {
+      "name": "Winfield",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.12308000",
+      "longitude": "-91.44127000"
+   },
+   {
+      "name": "Winnebago County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37757000",
+      "longitude": "-93.73420000"
+   },
+   {
+      "name": "Winneshiek County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.29067000",
+      "longitude": "-91.84371000"
+   },
+   {
+      "name": "Winterset",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.33082000",
+      "longitude": "-94.01384000"
+   },
+   {
+      "name": "Woodbine",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.73832000",
+      "longitude": "-95.70278000"
+   },
+   {
+      "name": "Woodbury County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.38972000",
+      "longitude": "-96.04477000"
+   },
+   {
+      "name": "Woodward",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "41.85693000",
+      "longitude": "-93.92190000"
+   },
+   {
+      "name": "Worth County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "43.37740000",
+      "longitude": "-93.26085000"
+   },
+   {
+      "name": "Wright County",
+      "countryCode": "US",
+      "stateCode": "IA",
+      "latitude": "42.73312000",
+      "longitude": "-93.73515000"
+   }
+]

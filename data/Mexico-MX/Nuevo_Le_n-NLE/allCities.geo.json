@@ -1,0 +1,646 @@
+[
+   {
+      "name": "Agualeguas",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.31362000",
+      "longitude": "-99.53728000"
+   },
+   {
+      "name": "Alianza Real",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.85139000",
+      "longitude": "-100.38278000"
+   },
+   {
+      "name": "Anáhuac",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "27.24457000",
+      "longitude": "-100.13229000"
+   },
+   {
+      "name": "Aramberri",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.09984000",
+      "longitude": "-99.81729000"
+   },
+   {
+      "name": "Artemio Treviño",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.83528000",
+      "longitude": "-100.14278000"
+   },
+   {
+      "name": "Bosques de San Pedro",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.60139000",
+      "longitude": "-100.17972000"
+   },
+   {
+      "name": "Buena Vista",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.85222000",
+      "longitude": "-100.36000000"
+   },
+   {
+      "name": "Bustamante",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.55567000",
+      "longitude": "-100.50603000"
+   },
+   {
+      "name": "Cadereyta",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.58333000",
+      "longitude": "-99.98333000"
+   },
+   {
+      "name": "Cadereyta Jiménez",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.58896000",
+      "longitude": "-100.00156000"
+   },
+   {
+      "name": "Carmen",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.93650000",
+      "longitude": "-100.36396000"
+   },
+   {
+      "name": "Catarino Rodríguez",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.84542000",
+      "longitude": "-100.32046000"
+   },
+   {
+      "name": "Cerralvo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.09766000",
+      "longitude": "-99.65340000"
+   },
+   {
+      "name": "China",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.69997000",
+      "longitude": "-99.23454000"
+   },
+   {
+      "name": "Ciudad Apodaca",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.78195000",
+      "longitude": "-100.18839000"
+   },
+   {
+      "name": "Ciudad Benito Juárez",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.64724000",
+      "longitude": "-100.09582000"
+   },
+   {
+      "name": "Ciudad Cerralvo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.08499000",
+      "longitude": "-99.61508000"
+   },
+   {
+      "name": "Ciudad General Escobedo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.79698000",
+      "longitude": "-100.31791000"
+   },
+   {
+      "name": "Ciudad General Terán",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.25857000",
+      "longitude": "-99.68371000"
+   },
+   {
+      "name": "Ciudad Sabinas Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.50358000",
+      "longitude": "-100.18187000"
+   },
+   {
+      "name": "Ciudad Satélite del Norte",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.91448000",
+      "longitude": "-100.26542000"
+   },
+   {
+      "name": "Ciudad de Allende",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.27673000",
+      "longitude": "-100.01442000"
+   },
+   {
+      "name": "Ciudad de Villaldama",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.49952000",
+      "longitude": "-100.42508000"
+   },
+   {
+      "name": "Ciénega de Flores",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.95467000",
+      "longitude": "-100.16695000"
+   },
+   {
+      "name": "Colinas del Aeropuerto",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.81705000",
+      "longitude": "-100.10258000"
+   },
+   {
+      "name": "Congregación Calles",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.22528000",
+      "longitude": "-99.93472000"
+   },
+   {
+      "name": "Doctor Arroyo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "23.67211000",
+      "longitude": "-100.18134000"
+   },
+   {
+      "name": "Doctor Coss",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.92492000",
+      "longitude": "-99.18316000"
+   },
+   {
+      "name": "Doctor González",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.85983000",
+      "longitude": "-99.94409000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.91028000",
+      "longitude": "-100.28056000"
+   },
+   {
+      "name": "Entronque Laredo-Salinas Victoria",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.85500000",
+      "longitude": "-100.24722000"
+   },
+   {
+      "name": "Fraccionamiento Cosmópolis Octavo Sector",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.82528000",
+      "longitude": "-100.24611000"
+   },
+   {
+      "name": "Fraccionamiento Misión de San Javier",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.74556000",
+      "longitude": "-100.15194000"
+   },
+   {
+      "name": "Fraccionamiento Real Palmas",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.90417000",
+      "longitude": "-100.15972000"
+   },
+   {
+      "name": "Galeana",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.82455000",
+      "longitude": "-100.07601000"
+   },
+   {
+      "name": "García",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.81201000",
+      "longitude": "-100.59874000"
+   },
+   {
+      "name": "General Bravo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.79239000",
+      "longitude": "-99.18147000"
+   },
+   {
+      "name": "General Zuazua",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.89491000",
+      "longitude": "-100.10800000"
+   },
+   {
+      "name": "Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.67678000",
+      "longitude": "-100.25646000"
+   },
+   {
+      "name": "Hacienda San Pedro",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.91472000",
+      "longitude": "-100.16278000"
+   },
+   {
+      "name": "Hualahuises",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.88295000",
+      "longitude": "-99.67490000"
+   },
+   {
+      "name": "Héctor Caballero",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.63556000",
+      "longitude": "-100.12667000"
+   },
+   {
+      "name": "Iturbide",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.72596000",
+      "longitude": "-99.90406000"
+   },
+   {
+      "name": "Jardines de la Silla (Jardines)",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.62944000",
+      "longitude": "-100.18778000"
+   },
+   {
+      "name": "La Ascensión",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.32392000",
+      "longitude": "-99.91410000"
+   },
+   {
+      "name": "Ladrillera (Entronque Pesquería)",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.80306000",
+      "longitude": "-100.10111000"
+   },
+   {
+      "name": "Lampazos de Naranjo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "27.02549000",
+      "longitude": "-100.50528000"
+   },
+   {
+      "name": "Las Torres",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.95167000",
+      "longitude": "-100.31806000"
+   },
+   {
+      "name": "Las Torres de Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.80611000",
+      "longitude": "-100.62250000"
+   },
+   {
+      "name": "Linares",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.85798000",
+      "longitude": "-99.56768000"
+   },
+   {
+      "name": "Loma la Paz",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.71111000",
+      "longitude": "-100.13472000"
+   },
+   {
+      "name": "Lomas de San Martín",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.74722000",
+      "longitude": "-100.11972000"
+   },
+   {
+      "name": "Los Parques",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.79073000",
+      "longitude": "-100.46992000"
+   },
+   {
+      "name": "Los Ramones",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.69716000",
+      "longitude": "-99.62529000"
+   },
+   {
+      "name": "Marín",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.87946000",
+      "longitude": "-100.03028000"
+   },
+   {
+      "name": "Mazatlan",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.18909000",
+      "longitude": "-99.82865000"
+   },
+   {
+      "name": "Mina",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.00110000",
+      "longitude": "-100.52988000"
+   },
+   {
+      "name": "Misión San Pablo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.74000000",
+      "longitude": "-100.14417000"
+   },
+   {
+      "name": "Mitras Poniente",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.77583000",
+      "longitude": "-100.42583000"
+   },
+   {
+      "name": "Monclova Primer Sector",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.81472000",
+      "longitude": "-100.40306000"
+   },
+   {
+      "name": "Monclova Segundo Sector",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.81531000",
+      "longitude": "-100.39682000"
+   },
+   {
+      "name": "Monte Kristal",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.62611000",
+      "longitude": "-100.15694000"
+   },
+   {
+      "name": "Montemorelos",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.16697000",
+      "longitude": "-99.84430000"
+   },
+   {
+      "name": "Monterrey",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.67507000",
+      "longitude": "-100.31847000"
+   },
+   {
+      "name": "Parque Industrial Ciudad Mitras",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.78861000",
+      "longitude": "-100.44778000"
+   },
+   {
+      "name": "Parás",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.50013000",
+      "longitude": "-99.52156000"
+   },
+   {
+      "name": "Paseo de San Javier",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.73972000",
+      "longitude": "-100.13444000"
+   },
+   {
+      "name": "Pesquería",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.78543000",
+      "longitude": "-100.05098000"
+   },
+   {
+      "name": "Portal de las Salinas",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.98222000",
+      "longitude": "-100.14333000"
+   },
+   {
+      "name": "Praderas de San Francisco",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.81833000",
+      "longitude": "-100.40250000"
+   },
+   {
+      "name": "Prados de Santa Rosa",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.79808000",
+      "longitude": "-100.22687000"
+   },
+   {
+      "name": "Pueblo Nuevo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.48409000",
+      "longitude": "-99.75987000"
+   },
+   {
+      "name": "Rayones",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.01799000",
+      "longitude": "-100.07362000"
+   },
+   {
+      "name": "Real del Sol",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.93833000",
+      "longitude": "-100.18111000"
+   },
+   {
+      "name": "Río Verde",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.90081000",
+      "longitude": "-99.54345000"
+   },
+   {
+      "name": "Salinas Victoria",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.96329000",
+      "longitude": "-100.29091000"
+   },
+   {
+      "name": "San Antonio",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.63868000",
+      "longitude": "-100.05844000"
+   },
+   {
+      "name": "San José de Raíces",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "24.57145000",
+      "longitude": "-100.24002000"
+   },
+   {
+      "name": "San Juan",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.54280000",
+      "longitude": "-99.84091000"
+   },
+   {
+      "name": "San Nicolás de los Garza",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.74167000",
+      "longitude": "-100.30222000"
+   },
+   {
+      "name": "San Pedro Garza Garcia",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.65716000",
+      "longitude": "-100.40268000"
+   },
+   {
+      "name": "San Rafael",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.03060000",
+      "longitude": "-100.55139000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.82463000",
+      "longitude": "-100.22164000"
+   },
+   {
+      "name": "Santiago",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.42533000",
+      "longitude": "-100.15205000"
+   },
+   {
+      "name": "Simeprodeso (Colectivo Nuevo)",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.85306000",
+      "longitude": "-100.29167000"
+   },
+   {
+      "name": "Unión Agropecuarios Lázaro Cárdenas del Norte",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.83222000",
+      "longitude": "-100.38417000"
+   },
+   {
+      "name": "Valle de Juárez",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.63778000",
+      "longitude": "-100.15833000"
+   },
+   {
+      "name": "Valle de Lincoln",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.79333000",
+      "longitude": "-100.47778000"
+   },
+   {
+      "name": "Valle de Vaquerías",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.63250000",
+      "longitude": "-100.14694000"
+   },
+   {
+      "name": "Vallecillo",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.66033000",
+      "longitude": "-99.98744000"
+   },
+   {
+      "name": "Villaldama",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "26.47039000",
+      "longitude": "-100.38726000"
+   },
+   {
+      "name": "Villas de Alcalá",
+      "countryCode": "MX",
+      "stateCode": "NLE",
+      "latitude": "25.91528000",
+      "longitude": "-100.18528000"
+   }
+]

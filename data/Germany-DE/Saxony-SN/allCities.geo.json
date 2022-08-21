@@ -1,0 +1,3096 @@
+[
+   {
+      "name": "Adorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.32011000",
+      "longitude": "12.25986000"
+   },
+   {
+      "name": "Albertstadt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.08333000",
+      "longitude": "13.76667000"
+   },
+   {
+      "name": "Altenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.76556000",
+      "longitude": "13.75334000"
+   },
+   {
+      "name": "Altmittweida",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.96667000",
+      "longitude": "12.95000000"
+   },
+   {
+      "name": "Annaberg-Buchholz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.57953000",
+      "longitude": "13.00627000"
+   },
+   {
+      "name": "Arzberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.52887000",
+      "longitude": "13.12565000"
+   },
+   {
+      "name": "Aue",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.59034000",
+      "longitude": "12.70657000"
+   },
+   {
+      "name": "Auerbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.51155000",
+      "longitude": "12.40083000"
+   },
+   {
+      "name": "Augustusburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.81192000",
+      "longitude": "13.10197000"
+   },
+   {
+      "name": "Bad Brambach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.21667000",
+      "longitude": "12.31667000"
+   },
+   {
+      "name": "Bad Düben",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.59174000",
+      "longitude": "12.58492000"
+   },
+   {
+      "name": "Bad Elster",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.28192000",
+      "longitude": "12.23430000"
+   },
+   {
+      "name": "Bad Lausick",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14495000",
+      "longitude": "12.64449000"
+   },
+   {
+      "name": "Bad Muskau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.55051000",
+      "longitude": "14.71240000"
+   },
+   {
+      "name": "Bad Schandau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91743000",
+      "longitude": "14.15494000"
+   },
+   {
+      "name": "Bad Schlema",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.60257000",
+      "longitude": "12.67288000"
+   },
+   {
+      "name": "Bannewitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.99291000",
+      "longitude": "13.71712000"
+   },
+   {
+      "name": "Bautzen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.18035000",
+      "longitude": "14.43494000"
+   },
+   {
+      "name": "Beierfeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.56529000",
+      "longitude": "12.79049000"
+   },
+   {
+      "name": "Beiersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.07405000",
+      "longitude": "14.53828000"
+   },
+   {
+      "name": "Beilrode",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.56667000",
+      "longitude": "13.06667000"
+   },
+   {
+      "name": "Belgern",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.48263000",
+      "longitude": "13.12382000"
+   },
+   {
+      "name": "Belgershain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23333000",
+      "longitude": "12.55000000"
+   },
+   {
+      "name": "Bennewitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36074000",
+      "longitude": "12.71376000"
+   },
+   {
+      "name": "Bergen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.47100000",
+      "longitude": "12.27448000"
+   },
+   {
+      "name": "Bernsbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.57624000",
+      "longitude": "12.76751000"
+   },
+   {
+      "name": "Bernsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.37350000",
+      "longitude": "14.06886000"
+   },
+   {
+      "name": "Bernstadt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.04736000",
+      "longitude": "14.82784000"
+   },
+   {
+      "name": "Berthelsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.04679000",
+      "longitude": "14.22197000"
+   },
+   {
+      "name": "Bertsdorf-Hörnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.88593000",
+      "longitude": "14.73696000"
+   },
+   {
+      "name": "Bischofswerda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.12771000",
+      "longitude": "14.17974000"
+   },
+   {
+      "name": "Bockau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.54209000",
+      "longitude": "12.68639000"
+   },
+   {
+      "name": "Bockelwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.19942000",
+      "longitude": "12.95618000"
+   },
+   {
+      "name": "Borna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.12416000",
+      "longitude": "12.49639000"
+   },
+   {
+      "name": "Borsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.35000000",
+      "longitude": "12.53333000"
+   },
+   {
+      "name": "Borstendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.77323000",
+      "longitude": "13.17918000"
+   },
+   {
+      "name": "Boxberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.40373000",
+      "longitude": "14.57598000"
+   },
+   {
+      "name": "Brand-Erbisdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86643000",
+      "longitude": "13.32285000"
+   },
+   {
+      "name": "Brandis",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.33597000",
+      "longitude": "12.61024000"
+   },
+   {
+      "name": "Breitenbrunn",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.47553000",
+      "longitude": "12.76649000"
+   },
+   {
+      "name": "Burgstädt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91333000",
+      "longitude": "12.80600000"
+   },
+   {
+      "name": "Burkau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.17579000",
+      "longitude": "14.17329000"
+   },
+   {
+      "name": "Burkhardtsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.73333000",
+      "longitude": "12.91667000"
+   },
+   {
+      "name": "Bärenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.50000000",
+      "longitude": "13.03333000"
+   },
+   {
+      "name": "Böhlen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20061000",
+      "longitude": "12.38622000"
+   },
+   {
+      "name": "Börnichen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75010000",
+      "longitude": "13.14075000"
+   },
+   {
+      "name": "Bösenbrunn",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.39703000",
+      "longitude": "12.09998000"
+   },
+   {
+      "name": "Callenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85000000",
+      "longitude": "12.63333000"
+   },
+   {
+      "name": "Cavertitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.38333000",
+      "longitude": "13.13333000"
+   },
+   {
+      "name": "Chemnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.83570000",
+      "longitude": "12.92922000"
+   },
+   {
+      "name": "Claußnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.93333000",
+      "longitude": "12.88333000"
+   },
+   {
+      "name": "Colditz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.12821000",
+      "longitude": "12.80295000"
+   },
+   {
+      "name": "Coswig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13204000",
+      "longitude": "13.58312000"
+   },
+   {
+      "name": "Crimmitschau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.81644000",
+      "longitude": "12.39045000"
+   },
+   {
+      "name": "Crostau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.08462000",
+      "longitude": "14.45589000"
+   },
+   {
+      "name": "Crostwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23832000",
+      "longitude": "14.24338000"
+   },
+   {
+      "name": "Crottendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.51667000",
+      "longitude": "12.95000000"
+   },
+   {
+      "name": "Cunewalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.10000000",
+      "longitude": "14.51667000"
+   },
+   {
+      "name": "Dahlen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36495000",
+      "longitude": "12.99881000"
+   },
+   {
+      "name": "Delitzsch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.52546000",
+      "longitude": "12.34284000"
+   },
+   {
+      "name": "Demitz-Thumitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14149000",
+      "longitude": "14.24719000"
+   },
+   {
+      "name": "Dennheritz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.81412000",
+      "longitude": "12.46519000"
+   },
+   {
+      "name": "Deutzen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.11217000",
+      "longitude": "12.42541000"
+   },
+   {
+      "name": "Dippoldiswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.89621000",
+      "longitude": "13.66905000"
+   },
+   {
+      "name": "Doberschütz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.49870000",
+      "longitude": "12.74792000"
+   },
+   {
+      "name": "Dohma",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91667000",
+      "longitude": "13.93333000"
+   },
+   {
+      "name": "Dohna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.95621000",
+      "longitude": "13.85839000"
+   },
+   {
+      "name": "Dommitzsch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.64071000",
+      "longitude": "12.87940000"
+   },
+   {
+      "name": "Dorfchemnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.66363000",
+      "longitude": "12.83651000"
+   },
+   {
+      "name": "Dorfhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.93333000",
+      "longitude": "13.56667000"
+   },
+   {
+      "name": "Drebach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.67583000",
+      "longitude": "13.01620000"
+   },
+   {
+      "name": "Dresden",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05089000",
+      "longitude": "13.73832000"
+   },
+   {
+      "name": "Döbeln",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.12210000",
+      "longitude": "13.11027000"
+   },
+   {
+      "name": "Döbernitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.51241000",
+      "longitude": "12.34753000"
+   },
+   {
+      "name": "Dürrhennersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.04863000",
+      "longitude": "14.60383000"
+   },
+   {
+      "name": "Dürrröhrsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.03395000",
+      "longitude": "13.99718000"
+   },
+   {
+      "name": "Ebersbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00762000",
+      "longitude": "14.58621000"
+   },
+   {
+      "name": "Ehrenfriedersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.64934000",
+      "longitude": "12.97009000"
+   },
+   {
+      "name": "Eibau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.98272000",
+      "longitude": "14.66214000"
+   },
+   {
+      "name": "Eibenstock",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.49431000",
+      "longitude": "12.59978000"
+   },
+   {
+      "name": "Eichigt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.35000000",
+      "longitude": "12.16667000"
+   },
+   {
+      "name": "Eilenburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.45984000",
+      "longitude": "12.63338000"
+   },
+   {
+      "name": "Ellefeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.48367000",
+      "longitude": "12.38880000"
+   },
+   {
+      "name": "Elsnig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.61024000",
+      "longitude": "12.92833000"
+   },
+   {
+      "name": "Elsterberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.60841000",
+      "longitude": "12.16787000"
+   },
+   {
+      "name": "Elstertrebnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15000000",
+      "longitude": "12.23333000"
+   },
+   {
+      "name": "Elstra",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.22172000",
+      "longitude": "14.13201000"
+   },
+   {
+      "name": "Elterlein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.57663000",
+      "longitude": "12.86836000"
+   },
+   {
+      "name": "Eppendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80000000",
+      "longitude": "13.23333000"
+   },
+   {
+      "name": "Erlau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00938000",
+      "longitude": "12.94549000"
+   },
+   {
+      "name": "Erlbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.31667000",
+      "longitude": "12.36667000"
+   },
+   {
+      "name": "Espenhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.18926000",
+      "longitude": "12.47885000"
+   },
+   {
+      "name": "Falkenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85559000",
+      "longitude": "13.11718000"
+   },
+   {
+      "name": "Falkenhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.39888000",
+      "longitude": "12.87083000"
+   },
+   {
+      "name": "Falkenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.47788000",
+      "longitude": "12.37129000"
+   },
+   {
+      "name": "Flöha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85613000",
+      "longitude": "13.07407000"
+   },
+   {
+      "name": "Frankenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91297000",
+      "longitude": "13.04011000"
+   },
+   {
+      "name": "Frankenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.90064000",
+      "longitude": "13.20933000"
+   },
+   {
+      "name": "Frankenthal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13129000",
+      "longitude": "14.10893000"
+   },
+   {
+      "name": "Frauenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80279000",
+      "longitude": "13.53790000"
+   },
+   {
+      "name": "Fraureuth",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70000000",
+      "longitude": "12.35000000"
+   },
+   {
+      "name": "Freiberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91089000",
+      "longitude": "13.33881000"
+   },
+   {
+      "name": "Freital",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00166000",
+      "longitude": "13.64880000"
+   },
+   {
+      "name": "Friedersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.02416000",
+      "longitude": "14.56246000"
+   },
+   {
+      "name": "Frohburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05719000",
+      "longitude": "12.55746000"
+   },
+   {
+      "name": "Gablenz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.53333000",
+      "longitude": "14.66667000"
+   },
+   {
+      "name": "Geising",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75742000",
+      "longitude": "13.79278000"
+   },
+   {
+      "name": "Geithain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05528000",
+      "longitude": "12.69674000"
+   },
+   {
+      "name": "Gelenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.71151000",
+      "longitude": "12.96666000"
+   },
+   {
+      "name": "Geringswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.07677000",
+      "longitude": "12.90725000"
+   },
+   {
+      "name": "Gersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.11220000",
+      "longitude": "12.93889000"
+   },
+   {
+      "name": "Geyer",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.62632000",
+      "longitude": "12.92074000"
+   },
+   {
+      "name": "Glashütte",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85196000",
+      "longitude": "13.77977000"
+   },
+   {
+      "name": "Glaubitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.32498000",
+      "longitude": "13.37817000"
+   },
+   {
+      "name": "Glauchau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.81987000",
+      "longitude": "12.54493000"
+   },
+   {
+      "name": "Gornau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75901000",
+      "longitude": "13.03731000"
+   },
+   {
+      "name": "Gornsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70000000",
+      "longitude": "12.88333000"
+   },
+   {
+      "name": "Grimma",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23367000",
+      "longitude": "12.71959000"
+   },
+   {
+      "name": "Groitzsch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15536000",
+      "longitude": "12.28279000"
+   },
+   {
+      "name": "Groß Düben",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.56667000",
+      "longitude": "14.56667000"
+   },
+   {
+      "name": "Großbardau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20419000",
+      "longitude": "12.69848000"
+   },
+   {
+      "name": "Großbothen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.18784000",
+      "longitude": "12.75101000"
+   },
+   {
+      "name": "Großdubrau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25422000",
+      "longitude": "14.45897000"
+   },
+   {
+      "name": "Großenhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.28951000",
+      "longitude": "13.53350000"
+   },
+   {
+      "name": "Großharthau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.10694000",
+      "longitude": "14.09911000"
+   },
+   {
+      "name": "Großhartmannsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80000000",
+      "longitude": "13.33333000"
+   },
+   {
+      "name": "Großhennersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.98597000",
+      "longitude": "14.78776000"
+   },
+   {
+      "name": "Großlehna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30687000",
+      "longitude": "12.17190000"
+   },
+   {
+      "name": "Großnaundorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20000000",
+      "longitude": "13.93333000"
+   },
+   {
+      "name": "Großolbersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70000000",
+      "longitude": "13.08333000"
+   },
+   {
+      "name": "Großpostwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.12083000",
+      "longitude": "14.44065000"
+   },
+   {
+      "name": "Großpösna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26667000",
+      "longitude": "12.50000000"
+   },
+   {
+      "name": "Großröhrsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14528000",
+      "longitude": "14.01917000"
+   },
+   {
+      "name": "Großrückerswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.63333000",
+      "longitude": "13.11667000"
+   },
+   {
+      "name": "Großschirma",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.96602000",
+      "longitude": "13.28590000"
+   },
+   {
+      "name": "Großschweidnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06939000",
+      "longitude": "14.64297000"
+   },
+   {
+      "name": "Großschönau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.90000000",
+      "longitude": "14.68333000"
+   },
+   {
+      "name": "Großweitzschen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15845000",
+      "longitude": "13.04517000"
+   },
+   {
+      "name": "Grünbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.44995000",
+      "longitude": "12.36186000"
+   },
+   {
+      "name": "Grünhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.58019000",
+      "longitude": "12.80695000"
+   },
+   {
+      "name": "Grünhainichen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.76720000",
+      "longitude": "13.15366000"
+   },
+   {
+      "name": "Guttau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25904000",
+      "longitude": "14.56132000"
+   },
+   {
+      "name": "Göda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.17800000",
+      "longitude": "14.31951000"
+   },
+   {
+      "name": "Görlitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15518000",
+      "longitude": "14.98853000"
+   },
+   {
+      "name": "Hainewalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91014000",
+      "longitude": "14.70387000"
+   },
+   {
+      "name": "Hainichen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97044000",
+      "longitude": "13.12287000"
+   },
+   {
+      "name": "Halsbrücke",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.95000000",
+      "longitude": "13.35000000"
+   },
+   {
+      "name": "Hammerbrücke",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.43504000",
+      "longitude": "12.41500000"
+   },
+   {
+      "name": "Hartenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.66236000",
+      "longitude": "12.66966000"
+   },
+   {
+      "name": "Hartha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.09863000",
+      "longitude": "12.97391000"
+   },
+   {
+      "name": "Hartmannsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75804000",
+      "longitude": "12.42687000"
+   },
+   {
+      "name": "Haselbachtal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23570000",
+      "longitude": "14.02576000"
+   },
+   {
+      "name": "Hauswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15212000",
+      "longitude": "14.08630000"
+   },
+   {
+      "name": "Heidenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97221000",
+      "longitude": "13.86741000"
+   },
+   {
+      "name": "Hermsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.92338000",
+      "longitude": "13.73480000"
+   },
+   {
+      "name": "Herrnhut",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.01624000",
+      "longitude": "14.74381000"
+   },
+   {
+      "name": "Hilbersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85400000",
+      "longitude": "12.94776000"
+   },
+   {
+      "name": "Hirschfeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.62453000",
+      "longitude": "12.45722000"
+   },
+   {
+      "name": "Hirschfelde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.94437000",
+      "longitude": "14.88510000"
+   },
+   {
+      "name": "Hochkirch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14898000",
+      "longitude": "14.57063000"
+   },
+   {
+      "name": "Hohburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.41168000",
+      "longitude": "12.80508000"
+   },
+   {
+      "name": "Hohenstein-Ernstthal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80064000",
+      "longitude": "12.71287000"
+   },
+   {
+      "name": "Hohndorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.74044000",
+      "longitude": "12.68058000"
+   },
+   {
+      "name": "Hohnstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97991000",
+      "longitude": "14.11408000"
+   },
+   {
+      "name": "Horka",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26342000",
+      "longitude": "14.25523000"
+   },
+   {
+      "name": "Hormersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.67406000",
+      "longitude": "12.88194000"
+   },
+   {
+      "name": "Hoyerswerda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.43787000",
+      "longitude": "14.23549000"
+   },
+   {
+      "name": "Hähnichen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36540000",
+      "longitude": "14.86098000"
+   },
+   {
+      "name": "Höckendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.22423000",
+      "longitude": "13.90935000"
+   },
+   {
+      "name": "Jahnsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.74509000",
+      "longitude": "12.85414000"
+   },
+   {
+      "name": "Jesewitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.42276000",
+      "longitude": "12.56312000"
+   },
+   {
+      "name": "Johanngeorgenstadt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.43254000",
+      "longitude": "12.71140000"
+   },
+   {
+      "name": "Jöhstadt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.51229000",
+      "longitude": "13.09460000"
+   },
+   {
+      "name": "Kamenz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26798000",
+      "longitude": "14.09374000"
+   },
+   {
+      "name": "Kirchberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.62190000",
+      "longitude": "12.52449000"
+   },
+   {
+      "name": "Kirschau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.09317000",
+      "longitude": "14.42840000"
+   },
+   {
+      "name": "Kitzen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.22172000",
+      "longitude": "12.22349000"
+   },
+   {
+      "name": "Kitzscher",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16444000",
+      "longitude": "12.55260000"
+   },
+   {
+      "name": "Klingenthal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.35963000",
+      "longitude": "12.46463000"
+   },
+   {
+      "name": "Klipphausen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06841000",
+      "longitude": "13.51374000"
+   },
+   {
+      "name": "Klitten",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.35109000",
+      "longitude": "14.60526000"
+   },
+   {
+      "name": "Kodersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.24272000",
+      "longitude": "14.89336000"
+   },
+   {
+      "name": "Kossa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.61707000",
+      "longitude": "12.68197000"
+   },
+   {
+      "name": "Krauschwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.52153000",
+      "longitude": "14.71211000"
+   },
+   {
+      "name": "Kreischa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.94534000",
+      "longitude": "13.75514000"
+   },
+   {
+      "name": "Kriebstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05000000",
+      "longitude": "13.01667000"
+   },
+   {
+      "name": "Krostitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.46208000",
+      "longitude": "12.45360000"
+   },
+   {
+      "name": "Kubschütz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16667000",
+      "longitude": "14.50000000"
+   },
+   {
+      "name": "Kurort Gohrisch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91234000",
+      "longitude": "14.10687000"
+   },
+   {
+      "name": "Kurort Jonsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85751000",
+      "longitude": "14.70922000"
+   },
+   {
+      "name": "Kurort Oberwiesenthal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.41943000",
+      "longitude": "12.96836000"
+   },
+   {
+      "name": "Kurort Oybin",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.84105000",
+      "longitude": "14.74124000"
+   },
+   {
+      "name": "Königsbrück",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26451000",
+      "longitude": "13.90540000"
+   },
+   {
+      "name": "Königsfeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06667000",
+      "longitude": "12.75000000"
+   },
+   {
+      "name": "Königshain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.18333000",
+      "longitude": "14.86667000"
+   },
+   {
+      "name": "Königstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91570000",
+      "longitude": "14.07186000"
+   },
+   {
+      "name": "Königswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.55000000",
+      "longitude": "13.05000000"
+   },
+   {
+      "name": "Königswartha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.31028000",
+      "longitude": "14.32797000"
+   },
+   {
+      "name": "Lampertswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.31108000",
+      "longitude": "13.67694000"
+   },
+   {
+      "name": "Langenbernsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75583000",
+      "longitude": "12.32669000"
+   },
+   {
+      "name": "Lauter",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.56264000",
+      "longitude": "12.73513000"
+   },
+   {
+      "name": "Laußig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.54676000",
+      "longitude": "12.62930000"
+   },
+   {
+      "name": "Laußnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25000000",
+      "longitude": "13.88333000"
+   },
+   {
+      "name": "Lawalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.08333000",
+      "longitude": "14.60000000"
+   },
+   {
+      "name": "Leipzig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.33962000",
+      "longitude": "12.37129000"
+   },
+   {
+      "name": "Leisnig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15743000",
+      "longitude": "12.92790000"
+   },
+   {
+      "name": "Lengefeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.71911000",
+      "longitude": "13.19290000"
+   },
+   {
+      "name": "Lengenfeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.56940000",
+      "longitude": "12.36408000"
+   },
+   {
+      "name": "Leubnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.72313000",
+      "longitude": "12.35660000"
+   },
+   {
+      "name": "Leubsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80000000",
+      "longitude": "13.16667000"
+   },
+   {
+      "name": "Leutersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.95000000",
+      "longitude": "14.65000000"
+   },
+   {
+      "name": "Lichtenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.83492000",
+      "longitude": "13.42478000"
+   },
+   {
+      "name": "Lichtenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75659000",
+      "longitude": "12.63025000"
+   },
+   {
+      "name": "Lichtentanne",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.69255000",
+      "longitude": "12.42585000"
+   },
+   {
+      "name": "Liebstadt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86417000",
+      "longitude": "13.85694000"
+   },
+   {
+      "name": "Limbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.58333000",
+      "longitude": "12.25000000"
+   },
+   {
+      "name": "Limbach-Oberfrohna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85882000",
+      "longitude": "12.76165000"
+   },
+   {
+      "name": "Lobstädt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13361000",
+      "longitude": "12.44861000"
+   },
+   {
+      "name": "Lohmen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.98831000",
+      "longitude": "14.00268000"
+   },
+   {
+      "name": "Lohsa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.38333000",
+      "longitude": "14.40000000"
+   },
+   {
+      "name": "Lommatzsch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.19537000",
+      "longitude": "13.30917000"
+   },
+   {
+      "name": "Lugau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.73843000",
+      "longitude": "12.74861000"
+   },
+   {
+      "name": "Lunzenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.96269000",
+      "longitude": "12.75594000"
+   },
+   {
+      "name": "Löbau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.09954000",
+      "longitude": "14.66738000"
+   },
+   {
+      "name": "Löbnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.59238000",
+      "longitude": "12.46347000"
+   },
+   {
+      "name": "Lößnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.62181000",
+      "longitude": "12.73147000"
+   },
+   {
+      "name": "Machern",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36667000",
+      "longitude": "12.63333000"
+   },
+   {
+      "name": "Malschwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23759000",
+      "longitude": "14.52163000"
+   },
+   {
+      "name": "Marienberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.65051000",
+      "longitude": "13.16122000"
+   },
+   {
+      "name": "Markersbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53545000",
+      "longitude": "12.86149000"
+   },
+   {
+      "name": "Markersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13333000",
+      "longitude": "14.88333000"
+   },
+   {
+      "name": "Markkleeberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.27550000",
+      "longitude": "12.36906000"
+   },
+   {
+      "name": "Markneukirchen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.31144000",
+      "longitude": "12.32951000"
+   },
+   {
+      "name": "Markranstädt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30146000",
+      "longitude": "12.22020000"
+   },
+   {
+      "name": "Meerane",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.84688000",
+      "longitude": "12.46473000"
+   },
+   {
+      "name": "Mehltheuer",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.54530000",
+      "longitude": "12.03700000"
+   },
+   {
+      "name": "Meissen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16158000",
+      "longitude": "13.47370000"
+   },
+   {
+      "name": "Mildenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.58689000",
+      "longitude": "13.07263000"
+   },
+   {
+      "name": "Mittelherwigsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91667000",
+      "longitude": "14.76667000"
+   },
+   {
+      "name": "Mittweida",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.98622000",
+      "longitude": "12.97537000"
+   },
+   {
+      "name": "Mochau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13333000",
+      "longitude": "13.18333000"
+   },
+   {
+      "name": "Mockrehna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.50757000",
+      "longitude": "12.81418000"
+   },
+   {
+      "name": "Moritzburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15922000",
+      "longitude": "13.68021000"
+   },
+   {
+      "name": "Mulda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.80789000",
+      "longitude": "13.41477000"
+   },
+   {
+      "name": "Mutzschen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26159000",
+      "longitude": "12.89125000"
+   },
+   {
+      "name": "Mylau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.61861000",
+      "longitude": "12.26535000"
+   },
+   {
+      "name": "Mücka",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.31667000",
+      "longitude": "14.70000000"
+   },
+   {
+      "name": "Mügeln",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23619000",
+      "longitude": "13.04567000"
+   },
+   {
+      "name": "Mühlau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.90000000",
+      "longitude": "12.76667000"
+   },
+   {
+      "name": "Mühltroff",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53919000",
+      "longitude": "11.92828000"
+   },
+   {
+      "name": "Mülsen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.75000000",
+      "longitude": "12.56667000"
+   },
+   {
+      "name": "Narsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.01667000",
+      "longitude": "12.71667000"
+   },
+   {
+      "name": "Naundorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25718000",
+      "longitude": "13.10810000"
+   },
+   {
+      "name": "Naunhof",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.27770000",
+      "longitude": "12.58827000"
+   },
+   {
+      "name": "Nauwalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.41837000",
+      "longitude": "13.40974000"
+   },
+   {
+      "name": "Nebelschütz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26227000",
+      "longitude": "14.15849000"
+   },
+   {
+      "name": "Nerchau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.27094000",
+      "longitude": "12.78912000"
+   },
+   {
+      "name": "Neschwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.27056000",
+      "longitude": "14.32900000"
+   },
+   {
+      "name": "Netzschkau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.61411000",
+      "longitude": "12.24382000"
+   },
+   {
+      "name": "Neuensalz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.50000000",
+      "longitude": "12.21667000"
+   },
+   {
+      "name": "Neugersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97729000",
+      "longitude": "14.60881000"
+   },
+   {
+      "name": "Neuhausen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.67647000",
+      "longitude": "13.46750000"
+   },
+   {
+      "name": "Neukieritzsch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14995000",
+      "longitude": "12.41090000"
+   },
+   {
+      "name": "Neukirch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.28333000",
+      "longitude": "13.98333000"
+   },
+   {
+      "name": "Neukirch/Lausitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.09727000",
+      "longitude": "14.30789000"
+   },
+   {
+      "name": "Neukirchen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.77955000",
+      "longitude": "12.86755000"
+   },
+   {
+      "name": "Neumark",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.66010000",
+      "longitude": "12.35619000"
+   },
+   {
+      "name": "Neusalza-Spremberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.03945000",
+      "longitude": "14.53560000"
+   },
+   {
+      "name": "Neustadt Vogtland",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.46100000",
+      "longitude": "12.33224000"
+   },
+   {
+      "name": "Neustadt in Sachsen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.02844000",
+      "longitude": "14.21785000"
+   },
+   {
+      "name": "Niederau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.17730000",
+      "longitude": "13.54563000"
+   },
+   {
+      "name": "Niedercunnersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05398000",
+      "longitude": "14.65830000"
+   },
+   {
+      "name": "Niederdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.72623000",
+      "longitude": "12.78587000"
+   },
+   {
+      "name": "Niederfrohna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.90000000",
+      "longitude": "12.71667000"
+   },
+   {
+      "name": "Niederschöna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.96671000",
+      "longitude": "13.41910000"
+   },
+   {
+      "name": "Niederstriegis",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.08243000",
+      "longitude": "13.14925000"
+   },
+   {
+      "name": "Niederwiesa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86667000",
+      "longitude": "13.01667000"
+   },
+   {
+      "name": "Niesky",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.29241000",
+      "longitude": "14.82107000"
+   },
+   {
+      "name": "Nossen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05798000",
+      "longitude": "13.29652000"
+   },
+   {
+      "name": "Nünchritz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.29993000",
+      "longitude": "13.38555000"
+   },
+   {
+      "name": "Obercunnersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91711000",
+      "longitude": "13.56015000"
+   },
+   {
+      "name": "Obergurig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13294000",
+      "longitude": "14.40488000"
+   },
+   {
+      "name": "Oberlichtenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.21875000",
+      "longitude": "13.98992000"
+   },
+   {
+      "name": "Oberlungwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.78230000",
+      "longitude": "12.70789000"
+   },
+   {
+      "name": "Oberschöna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.89759000",
+      "longitude": "13.25379000"
+   },
+   {
+      "name": "Oberwiera",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.88913000",
+      "longitude": "12.54415000"
+   },
+   {
+      "name": "Oederan",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86064000",
+      "longitude": "13.17164000"
+   },
+   {
+      "name": "Oelsnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.41470000",
+      "longitude": "12.16950000"
+   },
+   {
+      "name": "Ohorn",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.17199000",
+      "longitude": "14.04669000"
+   },
+   {
+      "name": "Olbernhau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.65870000",
+      "longitude": "13.34250000"
+   },
+   {
+      "name": "Olbersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.87304000",
+      "longitude": "14.77035000"
+   },
+   {
+      "name": "Oppach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06667000",
+      "longitude": "14.50000000"
+   },
+   {
+      "name": "Oschatz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30001000",
+      "longitude": "13.10984000"
+   },
+   {
+      "name": "Ostrau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20639000",
+      "longitude": "12.88421000"
+   },
+   {
+      "name": "Ostritz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.01451000",
+      "longitude": "14.93059000"
+   },
+   {
+      "name": "Ottendorf-Okrilla",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.18333000",
+      "longitude": "13.83333000"
+   },
+   {
+      "name": "Otterwisch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20000000",
+      "longitude": "12.61667000"
+   },
+   {
+      "name": "Oßling",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.35999000",
+      "longitude": "14.16567000"
+   },
+   {
+      "name": "Panschwitz-Kuckau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.23395000",
+      "longitude": "14.19791000"
+   },
+   {
+      "name": "Pausa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.58172000",
+      "longitude": "11.99732000"
+   },
+   {
+      "name": "Pegau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16715000",
+      "longitude": "12.25144000"
+   },
+   {
+      "name": "Penig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.93336000",
+      "longitude": "12.70422000"
+   },
+   {
+      "name": "Pfaffroda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86134000",
+      "longitude": "12.51497000"
+   },
+   {
+      "name": "Pirna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.95843000",
+      "longitude": "13.93702000"
+   },
+   {
+      "name": "Plauen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.49730000",
+      "longitude": "12.13782000"
+   },
+   {
+      "name": "Pobershau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.64079000",
+      "longitude": "13.21776000"
+   },
+   {
+      "name": "Pockau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70000000",
+      "longitude": "13.23333000"
+   },
+   {
+      "name": "Porschdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.94180000",
+      "longitude": "14.12687000"
+   },
+   {
+      "name": "Pretzschendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.87385000",
+      "longitude": "13.52499000"
+   },
+   {
+      "name": "Priestewitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25000000",
+      "longitude": "13.51667000"
+   },
+   {
+      "name": "Puschwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25501000",
+      "longitude": "14.30111000"
+   },
+   {
+      "name": "Pöhl",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.39311000",
+      "longitude": "12.32908000"
+   },
+   {
+      "name": "Pöhla",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.51143000",
+      "longitude": "12.81889000"
+   },
+   {
+      "name": "Quitzdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.28333000",
+      "longitude": "14.76667000"
+   },
+   {
+      "name": "Rabenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.96484000",
+      "longitude": "13.64305000"
+   },
+   {
+      "name": "Rackwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.43333000",
+      "longitude": "12.38333000"
+   },
+   {
+      "name": "Radeberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.11112000",
+      "longitude": "13.91199000"
+   },
+   {
+      "name": "Radebeul",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.10654000",
+      "longitude": "13.66047000"
+   },
+   {
+      "name": "Radeburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.21516000",
+      "longitude": "13.72810000"
+   },
+   {
+      "name": "Radibor",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.24481000",
+      "longitude": "14.39842000"
+   },
+   {
+      "name": "Rammenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.15000000",
+      "longitude": "14.13333000"
+   },
+   {
+      "name": "Raschau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53127000",
+      "longitude": "12.83312000"
+   },
+   {
+      "name": "Rathmannsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.92993000",
+      "longitude": "14.14224000"
+   },
+   {
+      "name": "Rechenberg-Bienenmühle",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.73777000",
+      "longitude": "13.53502000"
+   },
+   {
+      "name": "Regis-Breitingen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.08883000",
+      "longitude": "12.43841000"
+   },
+   {
+      "name": "Reichenbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.14144000",
+      "longitude": "14.80270000"
+   },
+   {
+      "name": "Reichenbach/Vogtland",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.62279000",
+      "longitude": "12.30344000"
+   },
+   {
+      "name": "Reinhardtsgrimma",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.89270000",
+      "longitude": "13.75534000"
+   },
+   {
+      "name": "Reinsberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00823000",
+      "longitude": "13.36542000"
+   },
+   {
+      "name": "Reinsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.69775000",
+      "longitude": "12.55555000"
+   },
+   {
+      "name": "Remse",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.85000000",
+      "longitude": "12.56667000"
+   },
+   {
+      "name": "Reuth",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.61667000",
+      "longitude": "12.21667000"
+   },
+   {
+      "name": "Riesa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30777000",
+      "longitude": "13.29168000"
+   },
+   {
+      "name": "Rietschen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.40000000",
+      "longitude": "14.78333000"
+   },
+   {
+      "name": "Rittersgrün",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.48031000",
+      "longitude": "12.79336000"
+   },
+   {
+      "name": "Rochlitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05007000",
+      "longitude": "12.79754000"
+   },
+   {
+      "name": "Rodewisch",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53083000",
+      "longitude": "12.41329000"
+   },
+   {
+      "name": "Rossau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00000000",
+      "longitude": "13.06667000"
+   },
+   {
+      "name": "Rothenburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.33400000",
+      "longitude": "14.96874000"
+   },
+   {
+      "name": "Roßwein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06589000",
+      "longitude": "13.18308000"
+   },
+   {
+      "name": "Räckelwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.25000000",
+      "longitude": "14.23333000"
+   },
+   {
+      "name": "Rötha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.19783000",
+      "longitude": "12.41447000"
+   },
+   {
+      "name": "Sankt Egidien",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.78617000",
+      "longitude": "12.62395000"
+   },
+   {
+      "name": "Sayda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.71123000",
+      "longitude": "13.42172000"
+   },
+   {
+      "name": "Scharfenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70405000",
+      "longitude": "13.05654000"
+   },
+   {
+      "name": "Scheibenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.54023000",
+      "longitude": "12.91215000"
+   },
+   {
+      "name": "Schildau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.45721000",
+      "longitude": "12.93024000"
+   },
+   {
+      "name": "Schirgiswalde",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.07641000",
+      "longitude": "14.42834000"
+   },
+   {
+      "name": "Schkeuditz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.39678000",
+      "longitude": "12.22141000"
+   },
+   {
+      "name": "Schlegel",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97775000",
+      "longitude": "14.87686000"
+   },
+   {
+      "name": "Schleife",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.53333000",
+      "longitude": "14.53333000"
+   },
+   {
+      "name": "Schlettau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.55882000",
+      "longitude": "12.95269000"
+   },
+   {
+      "name": "Schmiedeberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.83644000",
+      "longitude": "13.67622000"
+   },
+   {
+      "name": "Schneeberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.59465000",
+      "longitude": "12.64139000"
+   },
+   {
+      "name": "Schwarzenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53791000",
+      "longitude": "12.78522000"
+   },
+   {
+      "name": "Schwepnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.32809000",
+      "longitude": "13.95772000"
+   },
+   {
+      "name": "Schönau-Berzdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06402000",
+      "longitude": "14.88402000"
+   },
+   {
+      "name": "Schönbach",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06667000",
+      "longitude": "14.56667000"
+   },
+   {
+      "name": "Schönberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.86752000",
+      "longitude": "12.49126000"
+   },
+   {
+      "name": "Schöneck",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.39052000",
+      "longitude": "12.32731000"
+   },
+   {
+      "name": "Schönfeld",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30000000",
+      "longitude": "13.70000000"
+   },
+   {
+      "name": "Schönheide",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.50458000",
+      "longitude": "12.52158000"
+   },
+   {
+      "name": "Sebnitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.97540000",
+      "longitude": "14.27579000"
+   },
+   {
+      "name": "Seelitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.03333000",
+      "longitude": "12.81667000"
+   },
+   {
+      "name": "Seiffen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.65000000",
+      "longitude": "13.45000000"
+   },
+   {
+      "name": "Seifhennersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.93492000",
+      "longitude": "14.60194000"
+   },
+   {
+      "name": "Sohland",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.04089000",
+      "longitude": "14.41897000"
+   },
+   {
+      "name": "Sohland am Rotstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.11643000",
+      "longitude": "14.78372000"
+   },
+   {
+      "name": "Sosa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.49917000",
+      "longitude": "12.65120000"
+   },
+   {
+      "name": "Stadt Wehlen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.95821000",
+      "longitude": "14.03091000"
+   },
+   {
+      "name": "Stauchitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.24350000",
+      "longitude": "13.21437000"
+   },
+   {
+      "name": "Steina",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.20000000",
+      "longitude": "14.05000000"
+   },
+   {
+      "name": "Steinigtwolmsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.06314000",
+      "longitude": "14.34540000"
+   },
+   {
+      "name": "Stollberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70999000",
+      "longitude": "12.78034000"
+   },
+   {
+      "name": "Stolpen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.04901000",
+      "longitude": "14.07943000"
+   },
+   {
+      "name": "Strehla",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.35248000",
+      "longitude": "13.22660000"
+   },
+   {
+      "name": "Struppen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.93333000",
+      "longitude": "14.01667000"
+   },
+   {
+      "name": "Stützengrün",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.53333000",
+      "longitude": "12.53333000"
+   },
+   {
+      "name": "Syrau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.54297000",
+      "longitude": "12.07933000"
+   },
+   {
+      "name": "Tannenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.60738000",
+      "longitude": "12.93798000"
+   },
+   {
+      "name": "Tannenbergsthal",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.43665000",
+      "longitude": "12.45754000"
+   },
+   {
+      "name": "Taucha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.38333000",
+      "longitude": "12.48333000"
+   },
+   {
+      "name": "Taura",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.91667000",
+      "longitude": "12.85000000"
+   },
+   {
+      "name": "Tauscha",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.26667000",
+      "longitude": "13.80000000"
+   },
+   {
+      "name": "Thalheim",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.70077000",
+      "longitude": "12.84996000"
+   },
+   {
+      "name": "Thallwitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.43333000",
+      "longitude": "12.68333000"
+   },
+   {
+      "name": "Tharandt",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.98525000",
+      "longitude": "13.58035000"
+   },
+   {
+      "name": "Theuma",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.47007000",
+      "longitude": "12.22195000"
+   },
+   {
+      "name": "Thiendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.29375000",
+      "longitude": "13.74124000"
+   },
+   {
+      "name": "Thum",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.67081000",
+      "longitude": "12.95091000"
+   },
+   {
+      "name": "Tirpersdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.43333000",
+      "longitude": "12.25000000"
+   },
+   {
+      "name": "Torgau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.56016000",
+      "longitude": "12.99617000"
+   },
+   {
+      "name": "Trebendorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.53333000",
+      "longitude": "14.56667000"
+   },
+   {
+      "name": "Trebsen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.28898000",
+      "longitude": "12.75496000"
+   },
+   {
+      "name": "Treuen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.54247000",
+      "longitude": "12.30339000"
+   },
+   {
+      "name": "Triebel",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.37153000",
+      "longitude": "12.12118000"
+   },
+   {
+      "name": "Trossin",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.61667000",
+      "longitude": "12.81667000"
+   },
+   {
+      "name": "Uhyst",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36469000",
+      "longitude": "14.50600000"
+   },
+   {
+      "name": "Venusberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.69918000",
+      "longitude": "13.01854000"
+   },
+   {
+      "name": "Wachau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16172000",
+      "longitude": "13.90651000"
+   },
+   {
+      "name": "Waldenburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.87653000",
+      "longitude": "12.59919000"
+   },
+   {
+      "name": "Waldheim",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.07282000",
+      "longitude": "13.02004000"
+   },
+   {
+      "name": "Waldkirchen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.59667000",
+      "longitude": "12.37994000"
+   },
+   {
+      "name": "Wechselburg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.00214000",
+      "longitude": "12.77661000"
+   },
+   {
+      "name": "Weinböhla",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.16667000",
+      "longitude": "13.56667000"
+   },
+   {
+      "name": "Weischlitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.45000000",
+      "longitude": "12.06667000"
+   },
+   {
+      "name": "Weißenberg",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.19644000",
+      "longitude": "14.65874000"
+   },
+   {
+      "name": "Weißenborn",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.73952000",
+      "longitude": "12.47051000"
+   },
+   {
+      "name": "Weißig",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.29192000",
+      "longitude": "13.44117000"
+   },
+   {
+      "name": "Weißkeißel",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.49405000",
+      "longitude": "14.71515000"
+   },
+   {
+      "name": "Weißwasser",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.50403000",
+      "longitude": "14.64017000"
+   },
+   {
+      "name": "Werda",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.43811000",
+      "longitude": "12.30473000"
+   },
+   {
+      "name": "Werdau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.73604000",
+      "longitude": "12.37534000"
+   },
+   {
+      "name": "Wermsdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.28333000",
+      "longitude": "12.95000000"
+   },
+   {
+      "name": "Wiedemar",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.46667000",
+      "longitude": "12.20000000"
+   },
+   {
+      "name": "Wiednitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.38608000",
+      "longitude": "14.02683000"
+   },
+   {
+      "name": "Wiesa",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.61114000",
+      "longitude": "13.01377000"
+   },
+   {
+      "name": "Wildenfels",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.66784000",
+      "longitude": "12.60886000"
+   },
+   {
+      "name": "Wildenhain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.30760000",
+      "longitude": "13.47678000"
+   },
+   {
+      "name": "Wilkau-Haßlau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.67504000",
+      "longitude": "12.51482000"
+   },
+   {
+      "name": "Wilsdruff",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.05199000",
+      "longitude": "13.53657000"
+   },
+   {
+      "name": "Wilthen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.09745000",
+      "longitude": "14.39290000"
+   },
+   {
+      "name": "Wittgensdorf",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.88316000",
+      "longitude": "12.87031000"
+   },
+   {
+      "name": "Wittichenau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.38496000",
+      "longitude": "14.24403000"
+   },
+   {
+      "name": "Wolkenstein",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.65552000",
+      "longitude": "13.07132000"
+   },
+   {
+      "name": "Wurzen",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.37070000",
+      "longitude": "12.73939000"
+   },
+   {
+      "name": "Wülknitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.36667000",
+      "longitude": "13.40000000"
+   },
+   {
+      "name": "Zabeltitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.35147000",
+      "longitude": "13.50462000"
+   },
+   {
+      "name": "Zeithain",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.33356000",
+      "longitude": "13.33809000"
+   },
+   {
+      "name": "Zinna",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.56790000",
+      "longitude": "12.95354000"
+   },
+   {
+      "name": "Zittau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.89772000",
+      "longitude": "14.80764000"
+   },
+   {
+      "name": "Zschadrass",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.13828000",
+      "longitude": "12.81848000"
+   },
+   {
+      "name": "Zschepplin",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.50000000",
+      "longitude": "12.60000000"
+   },
+   {
+      "name": "Zschopau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.74818000",
+      "longitude": "13.07691000"
+   },
+   {
+      "name": "Zschorlau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.56667000",
+      "longitude": "12.65000000"
+   },
+   {
+      "name": "Zschortau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.47930000",
+      "longitude": "12.35893000"
+   },
+   {
+      "name": "Zwenkau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.21872000",
+      "longitude": "12.33008000"
+   },
+   {
+      "name": "Zwickau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.72724000",
+      "longitude": "12.48839000"
+   },
+   {
+      "name": "Zwochau",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "51.46467000",
+      "longitude": "12.26844000"
+   },
+   {
+      "name": "Zwota",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.35103000",
+      "longitude": "12.42241000"
+   },
+   {
+      "name": "Zwönitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.63027000",
+      "longitude": "12.80999000"
+   },
+   {
+      "name": "Zöblitz",
+      "countryCode": "DE",
+      "stateCode": "SN",
+      "latitude": "50.65912000",
+      "longitude": "13.22981000"
+   }
+]

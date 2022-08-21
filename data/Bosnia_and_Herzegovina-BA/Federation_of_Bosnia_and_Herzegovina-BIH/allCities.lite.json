@@ -1,0 +1,777 @@
+[
+   {
+      "name": "Banovići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Barice",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bihać",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bijela",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bila",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Blagaj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bosanska Krupa",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bosanski Petrovac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bosansko Grahovo",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Breza",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bugojno",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Busovača",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Bužim",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Cazin",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Cim",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Crnići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Divičani",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Dobrinje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Domaljevac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Donja Dubica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Donja Mahala",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Donja Međiđa",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Donji Vakuf",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Drežnica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Drinovci",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Drvar",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Dubrave Donje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Dubrave Gornje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Dubravica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Fojnica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Glamoč",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gnojnica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Goražde",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gorica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornja Breza",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornja Koprivna",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornja Tuzla",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornje Moštre",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornje Živinice",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gornji Vakuf",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gostovići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gradačac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gračanica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Gromiljak",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Grude",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Hadžići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Hercegovačko-Neretvanski Kanton",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Hotonj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ilijaš",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ilići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Izačić",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Jablanica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Jajce",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Jelah",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Jezerski",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kakanj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kanton Sarajevo",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Karadaglije",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kačuni",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kiseljak",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kladanj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ključ",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kobilja Glava",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Konjic",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kovači",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Kočerin",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Liješnica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Livno",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ljubuški",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Lokvine",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Lukavac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Lukavica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Maglaj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Mahala",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Mala Kladuša",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Malešići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Mionica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Mostar",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Mramor",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Neum",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Novi Travnik",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Novi Šeher",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Odžak",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Olovo",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Omanjska",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Orahovica Donja",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Orašac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Orašje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Orguz",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ostrožac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Otoka",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Pajić Polje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Pazarić",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Peći",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Pećigrad",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Pjanići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Podhum",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Podzvizd",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Polje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Polje-Bijela",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Potoci",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Prozor",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Puračić",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Radišići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Rodoč",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Rumboci",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Sanica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Sanski Most",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Sapna",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Sarajevo",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Skokovi",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Sladna",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Solina",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Srebrenik",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Stijena",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Stjepan-Polje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Stolac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tasovčići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tešanj",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tešanjka",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Todorovo",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tojšići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tomislavgrad",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Travnik",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tržačka Raštela",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Turbe",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Tuzla",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ustikolina",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vareš",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Varoška Rijeka",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Velagići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Velika Kladuša",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vidoši",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Visoko",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vitez",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vitina",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vogošća",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Voljevac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vrnograč",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Vukovije Donje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Zabrišće",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Zavidovići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Zborište",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Zenica",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Ćoralići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Čapljina",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Čelić",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Čitluk",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Šerići",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Široki Brijeg",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Šturlić",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Šumatac",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Željezno Polje",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Žepče",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   },
+   {
+      "name": "Živinice",
+      "countryCode": "BA",
+      "stateCode": "BIH"
+   }
+]

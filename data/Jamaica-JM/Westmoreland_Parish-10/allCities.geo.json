@@ -1,0 +1,576 @@
+[
+   {
+      "name": "12th Street",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21097000",
+      "longitude": "-78.13603000"
+   },
+   {
+      "name": "Amity",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27361000",
+      "longitude": "-77.89805000"
+   },
+   {
+      "name": "Ashton",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23139000",
+      "longitude": "-77.92074000"
+   },
+   {
+      "name": "Barneyside",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27670000",
+      "longitude": "-77.96964000"
+   },
+   {
+      "name": "Bath",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25734000",
+      "longitude": "-78.11751000"
+   },
+   {
+      "name": "Bath Mountain",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.34428000",
+      "longitude": "-78.09928000"
+   },
+   {
+      "name": "Beaufort",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23417000",
+      "longitude": "-77.95007000"
+   },
+   {
+      "name": "Beeston Spring",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.16012000",
+      "longitude": "-77.97545000"
+   },
+   {
+      "name": "Belvedere",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25219000",
+      "longitude": "-77.93208000"
+   },
+   {
+      "name": "Berkshire",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21293000",
+      "longitude": "-77.90373000"
+   },
+   {
+      "name": "Bethel Town",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.29503000",
+      "longitude": "-77.95112000"
+   },
+   {
+      "name": "Big Bridge",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23318000",
+      "longitude": "-78.16717000"
+   },
+   {
+      "name": "Bluefields",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.16602000",
+      "longitude": "-78.02702000"
+   },
+   {
+      "name": "Bog",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.15631000",
+      "longitude": "-77.94364000"
+   },
+   {
+      "name": "Broughton",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21747000",
+      "longitude": "-78.22894000"
+   },
+   {
+      "name": "Burnt Savannah",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.31676000",
+      "longitude": "-78.12628000"
+   },
+   {
+      "name": "Cairn Curran",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.22840000",
+      "longitude": "-78.01130000"
+   },
+   {
+      "name": "Caledonia",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25866000",
+      "longitude": "-78.01173000"
+   },
+   {
+      "name": "Carmel",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.17326000",
+      "longitude": "-77.93929000"
+   },
+   {
+      "name": "Cave",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21019000",
+      "longitude": "-78.04070000"
+   },
+   {
+      "name": "Chantilly",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23059000",
+      "longitude": "-78.12462000"
+   },
+   {
+      "name": "Content",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.18288000",
+      "longitude": "-77.99915000"
+   },
+   {
+      "name": "Cornwall Mountian",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.28722000",
+      "longitude": "-77.98674000"
+   },
+   {
+      "name": "Darliston",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23731000",
+      "longitude": "-77.97626000"
+   },
+   {
+      "name": "Delveland",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.29709000",
+      "longitude": "-78.23962000"
+   },
+   {
+      "name": "Dillion Bigwoods",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.20944000",
+      "longitude": "-77.99078000"
+   },
+   {
+      "name": "Dundee",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23679000",
+      "longitude": "-77.88698000"
+   },
+   {
+      "name": "Enfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21404000",
+      "longitude": "-77.95270000"
+   },
+   {
+      "name": "Ferris",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.22265000",
+      "longitude": "-78.05588000"
+   },
+   {
+      "name": "Fort Williams",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.29834000",
+      "longitude": "-78.06331000"
+   },
+   {
+      "name": "Frome",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27974000",
+      "longitude": "-78.14903000"
+   },
+   {
+      "name": "Fullersfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.29890000",
+      "longitude": "-78.19976000"
+   },
+   {
+      "name": "Georges Plain",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27650000",
+      "longitude": "-78.13118000"
+   },
+   {
+      "name": "Gooden's River",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.24223000",
+      "longitude": "-78.12840000"
+   },
+   {
+      "name": "Grange",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.33161000",
+      "longitude": "-78.08036000"
+   },
+   {
+      "name": "Grange Hill",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.33083000",
+      "longitude": "-78.18398000"
+   },
+   {
+      "name": "Haddo",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.28606000",
+      "longitude": "-78.01893000"
+   },
+   {
+      "name": "Harmony Town",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21987000",
+      "longitude": "-78.13687000"
+   },
+   {
+      "name": "Hertford",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27181000",
+      "longitude": "-78.09078000"
+   },
+   {
+      "name": "Jerusalem",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.32458000",
+      "longitude": "-78.21563000"
+   },
+   {
+      "name": "Kentucky",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.19931000",
+      "longitude": "-78.01767000"
+   },
+   {
+      "name": "Kilmarnoch",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.12407000",
+      "longitude": "-77.92774000"
+   },
+   {
+      "name": "Lambs River",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.26823000",
+      "longitude": "-77.91414000"
+   },
+   {
+      "name": "Leamington",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21352000",
+      "longitude": "-77.92743000"
+   },
+   {
+      "name": "Lenox Bigwoods",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21392000",
+      "longitude": "-77.97214000"
+   },
+   {
+      "name": "Little London",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.24523000",
+      "longitude": "-78.22653000"
+   },
+   {
+      "name": "Llandilo",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23439000",
+      "longitude": "-78.13895000"
+   },
+   {
+      "name": "Mackfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.31163000",
+      "longitude": "-78.02471000"
+   },
+   {
+      "name": "Mearnsville",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.18856000",
+      "longitude": "-78.02870000"
+   },
+   {
+      "name": "Mount Airy",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.24738000",
+      "longitude": "-78.32279000"
+   },
+   {
+      "name": "Mount Stewart",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.30411000",
+      "longitude": "-77.99274000"
+   },
+   {
+      "name": "Negril",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.26844000",
+      "longitude": "-78.34810000"
+   },
+   {
+      "name": "New Market Oval",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21370000",
+      "longitude": "-78.13813000"
+   },
+   {
+      "name": "New Roads",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.19124000",
+      "longitude": "-77.93608000"
+   },
+   {
+      "name": "New Works",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.17248000",
+      "longitude": "-77.96645000"
+   },
+   {
+      "name": "Orange Hill",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23418000",
+      "longitude": "-78.30277000"
+   },
+   {
+      "name": "Paul Island",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27200000",
+      "longitude": "-78.18614000"
+   },
+   {
+      "name": "Petersfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.26588000",
+      "longitude": "-78.05755000"
+   },
+   {
+      "name": "Petersville",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.13700000",
+      "longitude": "-77.95046000"
+   },
+   {
+      "name": "Porters Mountain",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.32909000",
+      "longitude": "-78.04910000"
+   },
+   {
+      "name": "Red Hills",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.30550000",
+      "longitude": "-78.11280000"
+   },
+   {
+      "name": "Revival",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.24255000",
+      "longitude": "-78.28437000"
+   },
+   {
+      "name": "Roaring River",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.30118000",
+      "longitude": "-78.04324000"
+   },
+   {
+      "name": "Russia",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21649000",
+      "longitude": "-78.12361000"
+   },
+   {
+      "name": "Savanna-la-Mar",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21895000",
+      "longitude": "-78.13320000"
+   },
+   {
+      "name": "Savannah-la-mar Business Dist.",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21962000",
+      "longitude": "-78.13034000"
+   },
+   {
+      "name": "Seaford Town",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.24339000",
+      "longitude": "-77.90504000"
+   },
+   {
+      "name": "Seaton Crescent",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.21675000",
+      "longitude": "-78.13603000"
+   },
+   {
+      "name": "Shefield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.28412000",
+      "longitude": "-78.29169000"
+   },
+   {
+      "name": "Shoalin Grotto",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.22059000",
+      "longitude": "-78.14019000"
+   },
+   {
+      "name": "Smithfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.22275000",
+      "longitude": "-78.08785000"
+   },
+   {
+      "name": "St. Leonards",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25533000",
+      "longitude": "-77.88889000"
+   },
+   {
+      "name": "Strathbogie",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23855000",
+      "longitude": "-78.11714000"
+   },
+   {
+      "name": "Strawberry",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.30676000",
+      "longitude": "-78.08945000"
+   },
+   {
+      "name": "Struie",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25317000",
+      "longitude": "-77.95656000"
+   },
+   {
+      "name": "Three Mile River",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.25706000",
+      "longitude": "-78.14275000"
+   },
+   {
+      "name": "Town Head",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.33898000",
+      "longitude": "-78.13569000"
+   },
+   {
+      "name": "Truro",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.31301000",
+      "longitude": "-78.15489000"
+   },
+   {
+      "name": "Water Works",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.23319000",
+      "longitude": "-78.04296000"
+   },
+   {
+      "name": "Whitehouse",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.10275000",
+      "longitude": "-77.95697000"
+   },
+   {
+      "name": "Whithorn",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.27111000",
+      "longitude": "-78.03811000"
+   },
+   {
+      "name": "Williamsfield",
+      "countryCode": "JM",
+      "stateCode": "10",
+      "latitude": "18.33393000",
+      "longitude": "-78.06957000"
+   }
+]

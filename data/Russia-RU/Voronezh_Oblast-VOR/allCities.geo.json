@@ -1,0 +1,646 @@
+[
+   {
+      "name": "Abramovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.18860000",
+      "longitude": "41.02020000"
+   },
+   {
+      "name": "Anna",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.48420000",
+      "longitude": "40.42990000"
+   },
+   {
+      "name": "Anninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.41667000",
+      "longitude": "40.25000000"
+   },
+   {
+      "name": "Belogor’ye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.49040000",
+      "longitude": "40.00950000"
+   },
+   {
+      "name": "Bobrov",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.09611000",
+      "longitude": "40.03333000"
+   },
+   {
+      "name": "Bobrovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.25000000",
+      "longitude": "40.00000000"
+   },
+   {
+      "name": "Boguchar",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "49.93577000",
+      "longitude": "40.54500000"
+   },
+   {
+      "name": "Borisoglebsk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.36713000",
+      "longitude": "42.08494000"
+   },
+   {
+      "name": "Buturlinovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.82389000",
+      "longitude": "40.60917000"
+   },
+   {
+      "name": "Buturlinovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.83333000",
+      "longitude": "40.66667000"
+   },
+   {
+      "name": "Davydovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.15781000",
+      "longitude": "39.42915000"
+   },
+   {
+      "name": "Devitsa",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.63520000",
+      "longitude": "38.94500000"
+   },
+   {
+      "name": "Drakino",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.13898000",
+      "longitude": "39.40215000"
+   },
+   {
+      "name": "Ertil’",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.84056000",
+      "longitude": "40.80556000"
+   },
+   {
+      "name": "Ertil’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.75000000",
+      "longitude": "40.75000000"
+   },
+   {
+      "name": "Gribanovskiy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.45792000",
+      "longitude": "41.97637000"
+   },
+   {
+      "name": "Gribanovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.50000000",
+      "longitude": "42.00000000"
+   },
+   {
+      "name": "Imeni Pervogo Maya",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.88997000",
+      "longitude": "39.59190000"
+   },
+   {
+      "name": "Kalach",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.42580000",
+      "longitude": "41.02610000"
+   },
+   {
+      "name": "Kamenka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.32230000",
+      "longitude": "42.76780000"
+   },
+   {
+      "name": "Kamenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.31667000",
+      "longitude": "42.76667000"
+   },
+   {
+      "name": "Kantemirovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "49.70887000",
+      "longitude": "39.85922000"
+   },
+   {
+      "name": "Kashirskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.41667000",
+      "longitude": "39.61667000"
+   },
+   {
+      "name": "Kashirskoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.41945000",
+      "longitude": "39.61248000"
+   },
+   {
+      "name": "Khrenovoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.12000000",
+      "longitude": "40.28889000"
+   },
+   {
+      "name": "Kolodeznyy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.33333000",
+      "longitude": "39.18333000"
+   },
+   {
+      "name": "Korotoyak",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.98665000",
+      "longitude": "39.17677000"
+   },
+   {
+      "name": "Kozlovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.86222000",
+      "longitude": "40.45556000"
+   },
+   {
+      "name": "Krasnolesnyy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.88072000",
+      "longitude": "39.58772000"
+   },
+   {
+      "name": "Latnaya",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.65860000",
+      "longitude": "38.90110000"
+   },
+   {
+      "name": "Liski",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.98405000",
+      "longitude": "39.51545000"
+   },
+   {
+      "name": "Liskinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.91667000",
+      "longitude": "39.50000000"
+   },
+   {
+      "name": "Losevo",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.67667000",
+      "longitude": "40.04500000"
+   },
+   {
+      "name": "Maslovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.55346000",
+      "longitude": "39.23573000"
+   },
+   {
+      "name": "Mitrofanovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "49.97083000",
+      "longitude": "39.69389000"
+   },
+   {
+      "name": "Nizhnedevitsk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.54190000",
+      "longitude": "38.36570000"
+   },
+   {
+      "name": "Nizhnedevitskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.50000000",
+      "longitude": "38.41667000"
+   },
+   {
+      "name": "Nizhniy Kislyay",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.84970000",
+      "longitude": "40.17190000"
+   },
+   {
+      "name": "Nizhniy Mamon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.19370000",
+      "longitude": "40.50830000"
+   },
+   {
+      "name": "Novaya Chigla",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.22333000",
+      "longitude": "40.47806000"
+   },
+   {
+      "name": "Novaya Usman’",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.64177000",
+      "longitude": "39.40863000"
+   },
+   {
+      "name": "Novokhoperskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.08333000",
+      "longitude": "41.58333000"
+   },
+   {
+      "name": "Novokhopërsk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.09690000",
+      "longitude": "41.62520000"
+   },
+   {
+      "name": "Novousmanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.58333000",
+      "longitude": "39.41667000"
+   },
+   {
+      "name": "Novovoronezh",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.30719000",
+      "longitude": "39.21732000"
+   },
+   {
+      "name": "Novozhivotinnoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.88770000",
+      "longitude": "39.16894000"
+   },
+   {
+      "name": "Ol’khovatka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.28308000",
+      "longitude": "39.28715000"
+   },
+   {
+      "name": "Ol’khovatskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.25000000",
+      "longitude": "39.25000000"
+   },
+   {
+      "name": "Orlovo",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.75397000",
+      "longitude": "39.58731000"
+   },
+   {
+      "name": "Ostrogozhsk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.86640000",
+      "longitude": "39.07561000"
+   },
+   {
+      "name": "Panino",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.64670000",
+      "longitude": "40.13460000"
+   },
+   {
+      "name": "Paninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.66667000",
+      "longitude": "40.16667000"
+   },
+   {
+      "name": "Pavlovsk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.45778000",
+      "longitude": "40.10806000"
+   },
+   {
+      "name": "Pavlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.41667000",
+      "longitude": "40.16667000"
+   },
+   {
+      "name": "Pereleshino",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.73760000",
+      "longitude": "40.13880000"
+   },
+   {
+      "name": "Pereleshinskiy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.71480000",
+      "longitude": "40.19530000"
+   },
+   {
+      "name": "Podgorenskiy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.40498000",
+      "longitude": "39.64295000"
+   },
+   {
+      "name": "Podgorenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.50000000",
+      "longitude": "39.58333000"
+   },
+   {
+      "name": "Podgornoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.73504000",
+      "longitude": "39.14961000"
+   },
+   {
+      "name": "Podkletnoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.58993000",
+      "longitude": "39.46230000"
+   },
+   {
+      "name": "Povorino",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.19450000",
+      "longitude": "42.24570000"
+   },
+   {
+      "name": "Povorinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.18333000",
+      "longitude": "42.20000000"
+   },
+   {
+      "name": "Pridonskoy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.68406000",
+      "longitude": "39.07270000"
+   },
+   {
+      "name": "Ramonskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.91667000",
+      "longitude": "39.33333000"
+   },
+   {
+      "name": "Ramon’",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.91569000",
+      "longitude": "39.33609000"
+   },
+   {
+      "name": "Rep’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.16667000",
+      "longitude": "38.66667000"
+   },
+   {
+      "name": "Rossoshanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.16667000",
+      "longitude": "39.58333000"
+   },
+   {
+      "name": "Rossosh’",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.12090000",
+      "longitude": "38.51160000"
+   },
+   {
+      "name": "Sadovoye",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.53111000",
+      "longitude": "40.50194000"
+   },
+   {
+      "name": "Semiluki",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.68525000",
+      "longitude": "39.02787000"
+   },
+   {
+      "name": "Semilukskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.66667000",
+      "longitude": "39.00000000"
+   },
+   {
+      "name": "Shilovo",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.54583000",
+      "longitude": "39.08917000"
+   },
+   {
+      "name": "Sloboda",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.14210000",
+      "longitude": "40.30210000"
+   },
+   {
+      "name": "Somovo",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.74098000",
+      "longitude": "39.36655000"
+   },
+   {
+      "name": "Sredniy Ikorets",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.06749000",
+      "longitude": "39.75838000"
+   },
+   {
+      "name": "Strelitsa",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.60830000",
+      "longitude": "38.91020000"
+   },
+   {
+      "name": "Talovaya",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.11444000",
+      "longitude": "40.73000000"
+   },
+   {
+      "name": "Ternovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.67803000",
+      "longitude": "41.63750000"
+   },
+   {
+      "name": "Ternovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.66667000",
+      "longitude": "41.25000000"
+   },
+   {
+      "name": "Uglyanets",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.81908000",
+      "longitude": "39.59606000"
+   },
+   {
+      "name": "Uryv-Pokrovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.11590000",
+      "longitude": "39.16394000"
+   },
+   {
+      "name": "Verkhniy Mamon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.16350000",
+      "longitude": "40.38320000"
+   },
+   {
+      "name": "Verkhnyaya Khava",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.84045000",
+      "longitude": "39.94134000"
+   },
+   {
+      "name": "Verkhnyaya Tishanka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.32389000",
+      "longitude": "40.53278000"
+   },
+   {
+      "name": "Volya",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.76510000",
+      "longitude": "39.54040000"
+   },
+   {
+      "name": "Vorob’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.65000000",
+      "longitude": "40.93333000"
+   },
+   {
+      "name": "Voronezh",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.67204000",
+      "longitude": "39.18430000"
+   },
+   {
+      "name": "Vorontsovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.61320000",
+      "longitude": "40.35490000"
+   },
+   {
+      "name": "Yelan’-Koleno",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.15230000",
+      "longitude": "41.23060000"
+   },
+   {
+      "name": "Yelan’-Kolenovskiy",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.16320000",
+      "longitude": "41.15100000"
+   },
+   {
+      "name": "Zabolotovka",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "50.27799000",
+      "longitude": "39.31439000"
+   },
+   {
+      "name": "Zemlyansk",
+      "countryCode": "RU",
+      "stateCode": "VOR",
+      "latitude": "51.90410000",
+      "longitude": "38.73340000"
+   }
+]

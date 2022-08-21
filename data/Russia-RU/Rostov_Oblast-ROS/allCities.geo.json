@@ -1,0 +1,765 @@
+[
+   {
+      "name": "Aksay",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.25838000",
+      "longitude": "39.86675000"
+   },
+   {
+      "name": "Almaznyy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.04476000",
+      "longitude": "40.04501000"
+   },
+   {
+      "name": "Anastasiyevka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.56072000",
+      "longitude": "38.52837000"
+   },
+   {
+      "name": "Ayutinskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.78228000",
+      "longitude": "40.14763000"
+   },
+   {
+      "name": "Azov",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.10779000",
+      "longitude": "39.41648000"
+   },
+   {
+      "name": "Bagayevskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.32411000",
+      "longitude": "40.38791000"
+   },
+   {
+      "name": "Bataysk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.13975000",
+      "longitude": "39.75181000"
+   },
+   {
+      "name": "Belaya Kalitva",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.18585000",
+      "longitude": "40.77424000"
+   },
+   {
+      "name": "Bokovskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.22899000",
+      "longitude": "41.83060000"
+   },
+   {
+      "name": "Bystrogorskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.20813000",
+      "longitude": "41.14097000"
+   },
+   {
+      "name": "Chaltyr",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.28477000",
+      "longitude": "39.48232000"
+   },
+   {
+      "name": "Chertkovo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.38451000",
+      "longitude": "40.14723000"
+   },
+   {
+      "name": "Donetsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.33962000",
+      "longitude": "39.95948000"
+   },
+   {
+      "name": "Donskoy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.41404000",
+      "longitude": "40.25742000"
+   },
+   {
+      "name": "Dubovskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.41420000",
+      "longitude": "42.76970000"
+   },
+   {
+      "name": "Gigant",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.50665000",
+      "longitude": "41.34185000"
+   },
+   {
+      "name": "Glubokiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.52716000",
+      "longitude": "40.33144000"
+   },
+   {
+      "name": "Gornyatskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.29649000",
+      "longitude": "40.92404000"
+   },
+   {
+      "name": "Gornyy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.81592000",
+      "longitude": "40.20363000"
+   },
+   {
+      "name": "Grushevskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.44056000",
+      "longitude": "39.95111000"
+   },
+   {
+      "name": "Gukovo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.06212000",
+      "longitude": "39.93550000"
+   },
+   {
+      "name": "Gundorovskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.78047000",
+      "longitude": "41.89680000"
+   },
+   {
+      "name": "Kagal’nitskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.88056000",
+      "longitude": "40.14657000"
+   },
+   {
+      "name": "Kalinin",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.24678000",
+      "longitude": "39.51088000"
+   },
+   {
+      "name": "Kamenolomni",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.66853000",
+      "longitude": "40.20510000"
+   },
+   {
+      "name": "Kamensk-Shakhtinskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.31779000",
+      "longitude": "40.25948000"
+   },
+   {
+      "name": "Kashary",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.04001000",
+      "longitude": "41.00557000"
+   },
+   {
+      "name": "Kazanskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.79333000",
+      "longitude": "41.14667000"
+   },
+   {
+      "name": "Kirovskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.97480000",
+      "longitude": "40.04020000"
+   },
+   {
+      "name": "Koksovyy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.19742000",
+      "longitude": "40.64325000"
+   },
+   {
+      "name": "Konstantinovsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.58278000",
+      "longitude": "41.09222000"
+   },
+   {
+      "name": "Krasnaya Polyana",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.11293000",
+      "longitude": "41.50157000"
+   },
+   {
+      "name": "Krasnoarmeyskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.01140000",
+      "longitude": "42.20720000"
+   },
+   {
+      "name": "Krasnovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.81769000",
+      "longitude": "40.09226000"
+   },
+   {
+      "name": "Krasnoyarskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.65010000",
+      "longitude": "42.04430000"
+   },
+   {
+      "name": "Krasnyy Sulin",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.89221000",
+      "longitude": "40.07037000"
+   },
+   {
+      "name": "Krasyukovskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.55222000",
+      "longitude": "40.10885000"
+   },
+   {
+      "name": "Krivyanskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.39689000",
+      "longitude": "40.16680000"
+   },
+   {
+      "name": "Krym",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.30025000",
+      "longitude": "39.51637000"
+   },
+   {
+      "name": "Kuleshovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.07802000",
+      "longitude": "39.55794000"
+   },
+   {
+      "name": "Kuybyshevo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.81228000",
+      "longitude": "38.90731000"
+   },
+   {
+      "name": "Letnik",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.01100000",
+      "longitude": "41.26570000"
+   },
+   {
+      "name": "Likhovskoy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.15188000",
+      "longitude": "40.17925000"
+   },
+   {
+      "name": "Likhoy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.12662000",
+      "longitude": "40.20556000"
+   },
+   {
+      "name": "Martynovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.24867000",
+      "longitude": "41.49792000"
+   },
+   {
+      "name": "Masalovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.40372000",
+      "longitude": "40.26064000"
+   },
+   {
+      "name": "Matveyev Kurgan",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.56450000",
+      "longitude": "38.86947000"
+   },
+   {
+      "name": "Mayskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.69600000",
+      "longitude": "40.10259000"
+   },
+   {
+      "name": "Mechetinskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.77130000",
+      "longitude": "40.45597000"
+   },
+   {
+      "name": "Melikhovskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.48106000",
+      "longitude": "40.48669000"
+   },
+   {
+      "name": "Millerovo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.92265000",
+      "longitude": "40.39673000"
+   },
+   {
+      "name": "Milyutinskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.62788000",
+      "longitude": "41.66788000"
+   },
+   {
+      "name": "Milyutinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.66550000",
+      "longitude": "41.74981000"
+   },
+   {
+      "name": "Morozovsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.35502000",
+      "longitude": "41.82627000"
+   },
+   {
+      "name": "Nedvigovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.26873000",
+      "longitude": "39.34880000"
+   },
+   {
+      "name": "Nikolayevskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.61391000",
+      "longitude": "41.50230000"
+   },
+   {
+      "name": "Novobataysk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.89806000",
+      "longitude": "39.78194000"
+   },
+   {
+      "name": "Novobessergenovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.18465000",
+      "longitude": "38.84625000"
+   },
+   {
+      "name": "Novocherkassk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.42096000",
+      "longitude": "40.09185000"
+   },
+   {
+      "name": "Novoshakhtinsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.76037000",
+      "longitude": "39.93335000"
+   },
+   {
+      "name": "Novyy Yegorlyk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.39270000",
+      "longitude": "41.87162000"
+   },
+   {
+      "name": "Oblivskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.53616000",
+      "longitude": "42.50138000"
+   },
+   {
+      "name": "Ol’ginskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.18794000",
+      "longitude": "39.94925000"
+   },
+   {
+      "name": "Orlovskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.87139000",
+      "longitude": "42.05917000"
+   },
+   {
+      "name": "Persianovka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.52972000",
+      "longitude": "39.41833000"
+   },
+   {
+      "name": "Peschanokopskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.19517000",
+      "longitude": "41.08143000"
+   },
+   {
+      "name": "Peshkovo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.01867000",
+      "longitude": "39.38845000"
+   },
+   {
+      "name": "Pokrovskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.41570000",
+      "longitude": "38.89706000"
+   },
+   {
+      "name": "Port-Katon",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.87900000",
+      "longitude": "38.75600000"
+   },
+   {
+      "name": "Primorka",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.28395000",
+      "longitude": "39.06408000"
+   },
+   {
+      "name": "Proletarsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.70289000",
+      "longitude": "41.72717000"
+   },
+   {
+      "name": "Rassvet",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.83333000",
+      "longitude": "40.75000000"
+   },
+   {
+      "name": "Remontnoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.56140000",
+      "longitude": "43.65010000"
+   },
+   {
+      "name": "Rodionovo-Nesvetaiskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.60000000",
+      "longitude": "39.70000000"
+   },
+   {
+      "name": "Rodionovo-Nesvetayskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.61033000",
+      "longitude": "39.71212000"
+   },
+   {
+      "name": "Romanovskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.54260000",
+      "longitude": "42.02850000"
+   },
+   {
+      "name": "Rostov-na-Donu",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.23135000",
+      "longitude": "39.72328000"
+   },
+   {
+      "name": "Sal’sk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.47470000",
+      "longitude": "41.54114000"
+   },
+   {
+      "name": "Samarskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.93700000",
+      "longitude": "39.68810000"
+   },
+   {
+      "name": "Sambek",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.74306000",
+      "longitude": "39.83083000"
+   },
+   {
+      "name": "Sandata",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.27081000",
+      "longitude": "41.75834000"
+   },
+   {
+      "name": "Semikarakorsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.51675000",
+      "longitude": "40.80577000"
+   },
+   {
+      "name": "Shakhty",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.70911000",
+      "longitude": "40.21443000"
+   },
+   {
+      "name": "Sholokhovskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.28071000",
+      "longitude": "41.04592000"
+   },
+   {
+      "name": "Sinegorskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.01389000",
+      "longitude": "40.84468000"
+   },
+   {
+      "name": "Sinyavskoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.27703000",
+      "longitude": "39.27888000"
+   },
+   {
+      "name": "Sokolovo-Kundryuchenskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.83536000",
+      "longitude": "39.94711000"
+   },
+   {
+      "name": "Sovetskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.00912000",
+      "longitude": "42.12178000"
+   },
+   {
+      "name": "Staraya Stanitsa",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.34579000",
+      "longitude": "40.29376000"
+   },
+   {
+      "name": "Starocherkasskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.24077000",
+      "longitude": "40.04186000"
+   },
+   {
+      "name": "Taganrog",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.23617000",
+      "longitude": "38.89688000"
+   },
+   {
+      "name": "Talovyy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.80765000",
+      "longitude": "40.10943000"
+   },
+   {
+      "name": "Tanais",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.26837000",
+      "longitude": "39.33425000"
+   },
+   {
+      "name": "Tarasovskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.72727000",
+      "longitude": "40.36267000"
+   },
+   {
+      "name": "Tatsinskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.19677000",
+      "longitude": "41.27558000"
+   },
+   {
+      "name": "Tselina",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.53381000",
+      "longitude": "41.03284000"
+   },
+   {
+      "name": "Tsimlyansk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.64611000",
+      "longitude": "42.10194000"
+   },
+   {
+      "name": "Uglegorskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.24274000",
+      "longitude": "41.25310000"
+   },
+   {
+      "name": "Uglerodovskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.14558000",
+      "longitude": "40.06352000"
+   },
+   {
+      "name": "Ust’-Donetskiy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.64189000",
+      "longitude": "40.87182000"
+   },
+   {
+      "name": "Veshenskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "49.63033000",
+      "longitude": "41.73340000"
+   },
+   {
+      "name": "Vesëlyy",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.09338000",
+      "longitude": "40.74220000"
+   },
+   {
+      "name": "Volgodonsk",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.51361000",
+      "longitude": "42.15139000"
+   },
+   {
+      "name": "Yegorlykskaya",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.56564000",
+      "longitude": "40.65621000"
+   },
+   {
+      "name": "Zavetnoye",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.11944000",
+      "longitude": "43.89028000"
+   },
+   {
+      "name": "Zernograd",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "46.84518000",
+      "longitude": "40.30834000"
+   },
+   {
+      "name": "Zhirnov",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.17089000",
+      "longitude": "41.12608000"
+   },
+   {
+      "name": "Zimovniki",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "47.14740000",
+      "longitude": "42.47210000"
+   },
+   {
+      "name": "Zverevo",
+      "countryCode": "RU",
+      "stateCode": "ROS",
+      "latitude": "48.02108000",
+      "longitude": "40.12282000"
+   }
+]

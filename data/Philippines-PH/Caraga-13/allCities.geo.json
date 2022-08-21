@@ -1,0 +1,968 @@
+[
+   {
+      "name": "Adlay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.40972000",
+      "longitude": "125.89750000"
+   },
+   {
+      "name": "Agay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.05361000",
+      "longitude": "125.58667000"
+   },
+   {
+      "name": "Alegria",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.46694000",
+      "longitude": "125.57722000"
+   },
+   {
+      "name": "Alubijid",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96278000",
+      "longitude": "125.42583000"
+   },
+   {
+      "name": "Amaga",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.53083000",
+      "longitude": "126.07028000"
+   },
+   {
+      "name": "Anticala",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.00444000",
+      "longitude": "125.64528000"
+   },
+   {
+      "name": "Aras-asan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.88781000",
+      "longitude": "126.31120000"
+   },
+   {
+      "name": "Aurora",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.59306000",
+      "longitude": "125.83750000"
+   },
+   {
+      "name": "Bacolod",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.93167000",
+      "longitude": "126.28944000"
+   },
+   {
+      "name": "Bacuag",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.60806000",
+      "longitude": "125.63889000"
+   },
+   {
+      "name": "Bah-Bah",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.60722000",
+      "longitude": "125.91444000"
+   },
+   {
+      "name": "Balangbalang",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.05694000",
+      "longitude": "125.62278000"
+   },
+   {
+      "name": "Bancasi",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96667000",
+      "longitude": "125.46667000"
+   },
+   {
+      "name": "Bangonay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.31444000",
+      "longitude": "125.55389000"
+   },
+   {
+      "name": "Barcelona",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.15917000",
+      "longitude": "126.43417000"
+   },
+   {
+      "name": "Barobo",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.53528000",
+      "longitude": "126.12139000"
+   },
+   {
+      "name": "Basa",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.07222000",
+      "longitude": "126.06417000"
+   },
+   {
+      "name": "Basag",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.92548000",
+      "longitude": "125.62167000"
+   },
+   {
+      "name": "Basilisa",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "10.00000000",
+      "longitude": "125.50000000"
+   },
+   {
+      "name": "Bayabas",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96972000",
+      "longitude": "126.28611000"
+   },
+   {
+      "name": "Bayugan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.75611000",
+      "longitude": "125.76750000"
+   },
+   {
+      "name": "Bigaan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.31722000",
+      "longitude": "126.28111000"
+   },
+   {
+      "name": "Binucayan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.25000000",
+      "longitude": "125.71667000"
+   },
+   {
+      "name": "Bislig",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.21528000",
+      "longitude": "126.31639000"
+   },
+   {
+      "name": "Borbon",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.48417000",
+      "longitude": "125.89306000"
+   },
+   {
+      "name": "Buenavista",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.97694000",
+      "longitude": "125.40889000"
+   },
+   {
+      "name": "Bunawan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.16722000",
+      "longitude": "125.99083000"
+   },
+   {
+      "name": "Burgos",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.26639000",
+      "longitude": "126.18833000"
+   },
+   {
+      "name": "Butuan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.94917000",
+      "longitude": "125.54361000"
+   },
+   {
+      "name": "Cabadbaran",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.12261000",
+      "longitude": "125.53549000"
+   },
+   {
+      "name": "Cagdianao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.92111000",
+      "longitude": "125.66917000"
+   },
+   {
+      "name": "Cagwait",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.91861000",
+      "longitude": "126.30111000"
+   },
+   {
+      "name": "Calamba",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.10361000",
+      "longitude": "125.59417000"
+   },
+   {
+      "name": "Caloc-an",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.04694000",
+      "longitude": "125.53056000"
+   },
+   {
+      "name": "Cantapoy",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.49056000",
+      "longitude": "125.43639000"
+   },
+   {
+      "name": "Cantilan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.33361000",
+      "longitude": "125.97750000"
+   },
+   {
+      "name": "Capalayan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.74056000",
+      "longitude": "125.54444000"
+   },
+   {
+      "name": "Carmen",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.22639000",
+      "longitude": "126.01722000"
+   },
+   {
+      "name": "Carrascal",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.37028000",
+      "longitude": "125.94917000"
+   },
+   {
+      "name": "Causwagan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.44750000",
+      "longitude": "125.84028000"
+   },
+   {
+      "name": "Claver",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.57250000",
+      "longitude": "125.73306000"
+   },
+   {
+      "name": "Comagascas",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.13972000",
+      "longitude": "125.55972000"
+   },
+   {
+      "name": "Cortes",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.27972000",
+      "longitude": "126.19111000"
+   },
+   {
+      "name": "Cuevas",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.01917000",
+      "longitude": "126.09417000"
+   },
+   {
+      "name": "Culit",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.94722000",
+      "longitude": "125.35694000"
+   },
+   {
+      "name": "Dapa",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.75944000",
+      "longitude": "126.05306000"
+   },
+   {
+      "name": "Del Carmen, Surigao del Norte",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.86944000",
+      "longitude": "125.96972000"
+   },
+   {
+      "name": "Del Pilar",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.15194000",
+      "longitude": "125.58472000"
+   },
+   {
+      "name": "Dinagat",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.95611000",
+      "longitude": "125.59333000"
+   },
+   {
+      "name": "Dinagat Islands",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "10.12301000",
+      "longitude": "125.55725000"
+   },
+   {
+      "name": "Esperanza",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.67694000",
+      "longitude": "125.64694000"
+   },
+   {
+      "name": "Gamut",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.53153000",
+      "longitude": "126.24117000"
+   },
+   {
+      "name": "General Luna",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.78417000",
+      "longitude": "126.15889000"
+   },
+   {
+      "name": "Gigaquit",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.59444000",
+      "longitude": "125.69750000"
+   },
+   {
+      "name": "Guadalupe",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.58278000",
+      "longitude": "125.70806000"
+   },
+   {
+      "name": "Guinabsan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.89750000",
+      "longitude": "125.41611000"
+   },
+   {
+      "name": "Hinatuan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.37222000",
+      "longitude": "126.33417000"
+   },
+   {
+      "name": "Ipil",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.79070000",
+      "longitude": "125.43860000"
+   },
+   {
+      "name": "Jabonga",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.34306000",
+      "longitude": "125.51556000"
+   },
+   {
+      "name": "Jagupit",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.24222000",
+      "longitude": "125.55806000"
+   },
+   {
+      "name": "Javier",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.48889000",
+      "longitude": "126.08500000"
+   },
+   {
+      "name": "Kauswagan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.51667000",
+      "longitude": "125.75000000"
+   },
+   {
+      "name": "Kinabhangan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96917000",
+      "longitude": "125.35750000"
+   },
+   {
+      "name": "Kitcharao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.45500000",
+      "longitude": "125.57306000"
+   },
+   {
+      "name": "La Paz",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.27083000",
+      "longitude": "125.79972000"
+   },
+   {
+      "name": "La Union",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.08556000",
+      "longitude": "125.53583000"
+   },
+   {
+      "name": "Lanuza",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.23417000",
+      "longitude": "126.06444000"
+   },
+   {
+      "name": "Lapinigan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.42056000",
+      "longitude": "125.98250000"
+   },
+   {
+      "name": "Lianga",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.63361000",
+      "longitude": "126.09472000"
+   },
+   {
+      "name": "Libas",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.88333000",
+      "longitude": "125.98333000"
+   },
+   {
+      "name": "Libertad",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.94417000",
+      "longitude": "125.50194000"
+   },
+   {
+      "name": "Libjo",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "10.19778000",
+      "longitude": "125.53528000"
+   },
+   {
+      "name": "Lingig",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.03889000",
+      "longitude": "126.41250000"
+   },
+   {
+      "name": "Lombocan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.00767000",
+      "longitude": "125.50558000"
+   },
+   {
+      "name": "Loreto",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.18694000",
+      "longitude": "125.85306000"
+   },
+   {
+      "name": "Los Angeles",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.01250000",
+      "longitude": "125.60806000"
+   },
+   {
+      "name": "Los Arcos",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.63278000",
+      "longitude": "125.98556000"
+   },
+   {
+      "name": "Loyola",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.33492000",
+      "longitude": "126.33366000"
+   },
+   {
+      "name": "Luna",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.73700000",
+      "longitude": "125.49760000"
+   },
+   {
+      "name": "Mabahin",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.18556000",
+      "longitude": "126.17056000"
+   },
+   {
+      "name": "Mabua",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.80390000",
+      "longitude": "125.44090000"
+   },
+   {
+      "name": "Madrid",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.26211000",
+      "longitude": "125.96437000"
+   },
+   {
+      "name": "Magallanes",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.02000000",
+      "longitude": "125.51722000"
+   },
+   {
+      "name": "Mainit",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.53500000",
+      "longitude": "125.52306000"
+   },
+   {
+      "name": "Malimono",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.61806000",
+      "longitude": "125.40222000"
+   },
+   {
+      "name": "Manapa",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.97778000",
+      "longitude": "125.43944000"
+   },
+   {
+      "name": "Marihatag",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.80590000",
+      "longitude": "126.29660000"
+   },
+   {
+      "name": "Matabao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.95722000",
+      "longitude": "125.39944000"
+   },
+   {
+      "name": "Mati",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.73580000",
+      "longitude": "125.46800000"
+   },
+   {
+      "name": "Maygatasan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.70944000",
+      "longitude": "125.71833000"
+   },
+   {
+      "name": "Nasipit",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96917000",
+      "longitude": "125.29472000"
+   },
+   {
+      "name": "Panikian",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.32935000",
+      "longitude": "125.93380000"
+   },
+   {
+      "name": "Parang",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.28149000",
+      "longitude": "125.94208000"
+   },
+   {
+      "name": "Patin-ay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.55056000",
+      "longitude": "125.93722000"
+   },
+   {
+      "name": "Pilar",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.86500000",
+      "longitude": "126.09944000"
+   },
+   {
+      "name": "Placer",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.65417000",
+      "longitude": "125.60250000"
+   },
+   {
+      "name": "Prosperidad",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.58000000",
+      "longitude": "125.89639000"
+   },
+   {
+      "name": "Province of Agusan del Norte",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.99360000",
+      "longitude": "125.57098000"
+   },
+   {
+      "name": "Province of Agusan del Sur",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.50000000",
+      "longitude": "125.83333000"
+   },
+   {
+      "name": "Province of Surigao del Norte",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.66303000",
+      "longitude": "125.52704000"
+   },
+   {
+      "name": "Province of Surigao del Sur",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.80908000",
+      "longitude": "126.12854000"
+   },
+   {
+      "name": "Punta",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.98972000",
+      "longitude": "125.34000000"
+   },
+   {
+      "name": "Rizal",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.92917000",
+      "longitude": "125.39861000"
+   },
+   {
+      "name": "Salvacion",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "7.99954000",
+      "longitude": "126.12480000"
+   },
+   {
+      "name": "San Benito",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.95778000",
+      "longitude": "126.00694000"
+   },
+   {
+      "name": "San Francisco",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.53556000",
+      "longitude": "125.95000000"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.93694000",
+      "longitude": "126.08861000"
+   },
+   {
+      "name": "San Luis",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.47806000",
+      "longitude": "125.74389000"
+   },
+   {
+      "name": "San Miguel",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.96889000",
+      "longitude": "125.94500000"
+   },
+   {
+      "name": "Sanghan",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.08556000",
+      "longitude": "125.57278000"
+   },
+   {
+      "name": "Santa Ana",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.19278000",
+      "longitude": "125.56444000"
+   },
+   {
+      "name": "Santa Josefa",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "7.99111000",
+      "longitude": "126.03000000"
+   },
+   {
+      "name": "Santa Maria",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.03333000",
+      "longitude": "126.16250000"
+   },
+   {
+      "name": "Santa Monica",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "10.02000000",
+      "longitude": "126.03833000"
+   },
+   {
+      "name": "Santo Tomas",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.18583000",
+      "longitude": "125.80389000"
+   },
+   {
+      "name": "Sibagat",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.82250000",
+      "longitude": "125.69750000"
+   },
+   {
+      "name": "Sinubong",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.06840000",
+      "longitude": "125.93080000"
+   },
+   {
+      "name": "Sison",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.66028000",
+      "longitude": "125.52861000"
+   },
+   {
+      "name": "Socorro",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.62139000",
+      "longitude": "125.96667000"
+   },
+   {
+      "name": "Surigao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.78900000",
+      "longitude": "125.49500000"
+   },
+   {
+      "name": "Tagana-an",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.69722000",
+      "longitude": "125.58556000"
+   },
+   {
+      "name": "Tagbina",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.45194000",
+      "longitude": "126.17139000"
+   },
+   {
+      "name": "Tagcatong",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.00222000",
+      "longitude": "125.25694000"
+   },
+   {
+      "name": "Tago",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.02111000",
+      "longitude": "126.23167000"
+   },
+   {
+      "name": "Talacogon",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.45611000",
+      "longitude": "125.78417000"
+   },
+   {
+      "name": "Taligaman",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.90444000",
+      "longitude": "125.65583000"
+   },
+   {
+      "name": "Talisay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.81889000",
+      "longitude": "125.61556000"
+   },
+   {
+      "name": "Tandag",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.07833000",
+      "longitude": "126.19861000"
+   },
+   {
+      "name": "Tidman",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.29861000",
+      "longitude": "126.33889000"
+   },
+   {
+      "name": "Tigao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.20889000",
+      "longitude": "126.17611000"
+   },
+   {
+      "name": "Trento",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.04583000",
+      "longitude": "126.06361000"
+   },
+   {
+      "name": "Tubajon",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "10.33167000",
+      "longitude": "125.56194000"
+   },
+   {
+      "name": "Tubay",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.16694000",
+      "longitude": "125.52389000"
+   },
+   {
+      "name": "Tubod",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.56250000",
+      "longitude": "125.57083000"
+   },
+   {
+      "name": "Tungao",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.78368000",
+      "longitude": "125.59587000"
+   },
+   {
+      "name": "Unidad",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.53556000",
+      "longitude": "126.22865000"
+   },
+   {
+      "name": "Union",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "9.75667000",
+      "longitude": "126.11028000"
+   },
+   {
+      "name": "Veruela",
+      "countryCode": "PH",
+      "stateCode": "13",
+      "latitude": "8.07310000",
+      "longitude": "125.95580000"
+   }
+]

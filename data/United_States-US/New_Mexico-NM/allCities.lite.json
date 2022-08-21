@@ -1,0 +1,912 @@
+[
+   {
+      "name": "Agua Fria",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Alamo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Alamogordo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Albuquerque",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Angel Fire",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Anthony",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Arenas Valley",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Arroyo Seco",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Artesia",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Atoka",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Aztec",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Bayard",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Belen",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Berino",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Bernalillo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Bernalillo County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Black Rock",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Bloomfield",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Boles Acres",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Bosque Farms",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Cannon Air Force Base",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Capitan",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Carlsbad",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Carnuel",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Carrizozo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Catron County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Chama",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Chaparral",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Chaves County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Chimayo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Church Rock",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Cibola County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Clayton",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Clovis",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Colfax County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Columbus",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Corrales",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Crownpoint",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Curry County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "De Baca County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Deming",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Dexter",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Doña Ana",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Doña Ana County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Dulce",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Eddy County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Edgewood",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "El Cerro",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "El Cerro Mission",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "El Rancho",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "El Valle de Arroyo Seco",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Eldorado at Santa Fe",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Elephant Butte",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Enchanted Hills",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Española",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Estancia",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Eunice",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Farmington",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Flora Vista",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Fort Sumner",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Gallup",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Grant County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Grants",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Guadalupe County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Hagerman",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Harding County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Hatch",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Hidalgo County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Hobbs",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Holloman Air Force Base",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Hurley",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Jal",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Jarales",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Jemez Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Keeler Farm",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Kirtland",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Cienega",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Huerta",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Luz",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Mesilla",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Puebla",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "La Union",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Laguna",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Las Cruces",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Las Maravillas",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Las Vegas",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Lea County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Lee Acres",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Lordsburg",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Los Alamos",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Los Alamos County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Los Chavez",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Los Lunas",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Los Ranchos de Albuquerque",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Loving",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Lovington",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Luna County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "McIntosh",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "McKinley County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Meadow Lake",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mescalero",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mesilla",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mesquite",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Milan",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Monterey Park",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mora",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mora County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Moriarty",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Mosquero",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Nambe",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Navajo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "North Valley",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Ohkay Owingeh",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Otero County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Paradise Hills",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Pecos",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Peralta",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Placitas",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Pojoaque",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Ponderosa Pine",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Portales",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Quay County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Questa",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Radium Springs",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Ranchos de Taos",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Raton",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Reserve",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Rio Arriba County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Rio Communities",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Rio Rancho",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Roosevelt County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Roswell",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Ruidoso",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Ruidoso Downs",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "San Felipe Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "San Juan County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "San Miguel",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "San Miguel County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "San Ysidro",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Sandia Heights",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Sandia Knolls",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Sandoval County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Clara",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Clara Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Fe",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Fe County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santa Teresa",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Santo Domingo Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Shiprock",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Sierra County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Silver City",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Skyline-Ganipa",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Socorro",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Socorro County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "South Valley",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Spencerville",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Sunland Park",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Taos",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Taos County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Taos Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Texico",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Thoreau",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Tierra Amarilla",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Tome",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Torrance County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Truth or Consequences",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Tucumcari",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Tularosa",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Twin Lakes",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Union County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "University Park",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Upper Fruitland",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Vado",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Valencia",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Valencia County",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Waterflow",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "West Hammond",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "White Rock",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "White Sands",
+      "countryCode": "US",
+      "stateCode": "NM"
+   },
+   {
+      "name": "Zuni Pueblo",
+      "countryCode": "US",
+      "stateCode": "NM"
+   }
+]

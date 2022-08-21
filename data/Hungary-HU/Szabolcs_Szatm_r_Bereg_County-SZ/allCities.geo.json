@@ -1,0 +1,660 @@
+[
+   {
+      "name": "Ajak",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.17664000",
+      "longitude": "22.06273000"
+   },
+   {
+      "name": "Anarcs",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.17642000",
+      "longitude": "22.11167000"
+   },
+   {
+      "name": "Apagy",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.96431000",
+      "longitude": "21.93539000"
+   },
+   {
+      "name": "Aranyosapáti",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.20595000",
+      "longitude": "22.25916000"
+   },
+   {
+      "name": "Baktalórántháza",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.00000000",
+      "longitude": "22.08333000"
+   },
+   {
+      "name": "Baktalórántházai Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.00436000",
+      "longitude": "22.02449000"
+   },
+   {
+      "name": "Balkány",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.77066000",
+      "longitude": "21.86314000"
+   },
+   {
+      "name": "Buj",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.10000000",
+      "longitude": "21.65000000"
+   },
+   {
+      "name": "Bököny",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.73333000",
+      "longitude": "21.75000000"
+   },
+   {
+      "name": "Csenger",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.83582000",
+      "longitude": "22.68096000"
+   },
+   {
+      "name": "Csengeri Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.83045000",
+      "longitude": "22.59810000"
+   },
+   {
+      "name": "Demecser",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.11648000",
+      "longitude": "21.92624000"
+   },
+   {
+      "name": "Dombrád",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.23333000",
+      "longitude": "21.93333000"
+   },
+   {
+      "name": "Döge",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.26246000",
+      "longitude": "22.06339000"
+   },
+   {
+      "name": "Encsencs",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.73333000",
+      "longitude": "22.11667000"
+   },
+   {
+      "name": "Fehérgyarmat",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.98333000",
+      "longitude": "22.51667000"
+   },
+   {
+      "name": "Fehérgyarmati Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.00436000",
+      "longitude": "22.63014000"
+   },
+   {
+      "name": "Fényeslitke",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.27133000",
+      "longitude": "22.10009000"
+   },
+   {
+      "name": "Gyulaháza",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.13333000",
+      "longitude": "22.11667000"
+   },
+   {
+      "name": "Gégény",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.15000000",
+      "longitude": "21.95000000"
+   },
+   {
+      "name": "Hodász",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.91834000",
+      "longitude": "22.20153000"
+   },
+   {
+      "name": "Ibrány",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.12329000",
+      "longitude": "21.70953000"
+   },
+   {
+      "name": "Ibrányi Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.12794000",
+      "longitude": "21.69344000"
+   },
+   {
+      "name": "Kemecse",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.07532000",
+      "longitude": "21.80625000"
+   },
+   {
+      "name": "Kemecsei Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.10048000",
+      "longitude": "21.88414000"
+   },
+   {
+      "name": "Kisléta",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.84244000",
+      "longitude": "22.00393000"
+   },
+   {
+      "name": "Kisvárda",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.21667000",
+      "longitude": "22.08333000"
+   },
+   {
+      "name": "Kisvárdai Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.22100000",
+      "longitude": "22.06415000"
+   },
+   {
+      "name": "Kocsord",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.93912000",
+      "longitude": "22.38333000"
+   },
+   {
+      "name": "Kállósemjén",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.86081000",
+      "longitude": "21.93929000"
+   },
+   {
+      "name": "Kálmánháza",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.88333000",
+      "longitude": "21.58333000"
+   },
+   {
+      "name": "Kántorjánosi",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.93333000",
+      "longitude": "22.15000000"
+   },
+   {
+      "name": "Kék",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.11667000",
+      "longitude": "21.88333000"
+   },
+   {
+      "name": "Kótaj",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.05000000",
+      "longitude": "21.71667000"
+   },
+   {
+      "name": "Levelek",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.96282000",
+      "longitude": "21.98537000"
+   },
+   {
+      "name": "Mándok",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.32149000",
+      "longitude": "22.19107000"
+   },
+   {
+      "name": "Máriapócs",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.88303000",
+      "longitude": "22.02501000"
+   },
+   {
+      "name": "Mátészalka",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.95528000",
+      "longitude": "22.32348000"
+   },
+   {
+      "name": "Mátészalkai Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.92961000",
+      "longitude": "22.31892000"
+   },
+   {
+      "name": "Mérk",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.78824000",
+      "longitude": "22.38038000"
+   },
+   {
+      "name": "Nagycserkesz",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.96667000",
+      "longitude": "21.53333000"
+   },
+   {
+      "name": "Nagydobos",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.05759000",
+      "longitude": "22.30423000"
+   },
+   {
+      "name": "Nagyecsed",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.86547000",
+      "longitude": "22.39159000"
+   },
+   {
+      "name": "Nagyhalász",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.13266000",
+      "longitude": "21.76104000"
+   },
+   {
+      "name": "Nagykálló",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.87491000",
+      "longitude": "21.84082000"
+   },
+   {
+      "name": "Nagykállói Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.79994000",
+      "longitude": "21.84753000"
+   },
+   {
+      "name": "Napkor",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.93797000",
+      "longitude": "21.86763000"
+   },
+   {
+      "name": "Nyírbogdány",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.05723000",
+      "longitude": "21.88242000"
+   },
+   {
+      "name": "Nyírbogát",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.80340000",
+      "longitude": "22.06561000"
+   },
+   {
+      "name": "Nyírbátor",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.83333000",
+      "longitude": "22.13333000"
+   },
+   {
+      "name": "Nyírbátori Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.77553000",
+      "longitude": "22.11755000"
+   },
+   {
+      "name": "Nyírbéltek",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.70000000",
+      "longitude": "22.13333000"
+   },
+   {
+      "name": "Nyírcsaholy",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.90383000",
+      "longitude": "22.33630000"
+   },
+   {
+      "name": "Nyíregyháza",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.95539000",
+      "longitude": "21.71671000"
+   },
+   {
+      "name": "Nyíregyházi Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.97691000",
+      "longitude": "21.64463000"
+   },
+   {
+      "name": "Nyírgyulaj",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.88622000",
+      "longitude": "22.09781000"
+   },
+   {
+      "name": "Nyírkarász",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.09477000",
+      "longitude": "22.10463000"
+   },
+   {
+      "name": "Nyírlugos",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.69315000",
+      "longitude": "22.04476000"
+   },
+   {
+      "name": "Nyírmada",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.06667000",
+      "longitude": "22.20000000"
+   },
+   {
+      "name": "Nyírmeggyes",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.91667000",
+      "longitude": "22.26667000"
+   },
+   {
+      "name": "Nyírmihálydi",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.73976000",
+      "longitude": "21.96445000"
+   },
+   {
+      "name": "Nyírpazony",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.98333000",
+      "longitude": "21.80000000"
+   },
+   {
+      "name": "Nyírtass",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.11667000",
+      "longitude": "22.03333000"
+   },
+   {
+      "name": "Nyírtelek",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.01667000",
+      "longitude": "21.63333000"
+   },
+   {
+      "name": "Nyírvasvári",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.81667000",
+      "longitude": "22.18683000"
+   },
+   {
+      "name": "Petneháza",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.06084000",
+      "longitude": "22.07485000"
+   },
+   {
+      "name": "Porcsalma",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.88333000",
+      "longitude": "22.56667000"
+   },
+   {
+      "name": "Pátroha",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.16667000",
+      "longitude": "22.00000000"
+   },
+   {
+      "name": "Rakamaz",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.12372000",
+      "longitude": "21.46429000"
+   },
+   {
+      "name": "Szakoly",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.76667000",
+      "longitude": "21.91667000"
+   },
+   {
+      "name": "Szamosszeg",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.04561000",
+      "longitude": "22.36582000"
+   },
+   {
+      "name": "Tarpa",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.10480000",
+      "longitude": "22.53744000"
+   },
+   {
+      "name": "Tiszabercel",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.15000000",
+      "longitude": "21.65000000"
+   },
+   {
+      "name": "Tiszabezdéd",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.36667000",
+      "longitude": "22.15000000"
+   },
+   {
+      "name": "Tiszadada",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.03333000",
+      "longitude": "21.25000000"
+   },
+   {
+      "name": "Tiszadob",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.01667000",
+      "longitude": "21.16667000"
+   },
+   {
+      "name": "Tiszaeszlár",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.05000000",
+      "longitude": "21.46667000"
+   },
+   {
+      "name": "Tiszalök",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.01667000",
+      "longitude": "21.38333000"
+   },
+   {
+      "name": "Tiszanagyfalu",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.10000000",
+      "longitude": "21.48333000"
+   },
+   {
+      "name": "Tiszavasvári",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.96667000",
+      "longitude": "21.35000000"
+   },
+   {
+      "name": "Tiszavasvári Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.98606000",
+      "longitude": "21.36545000"
+   },
+   {
+      "name": "Tornyospálca",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.26667000",
+      "longitude": "22.18333000"
+   },
+   {
+      "name": "Tunyogmatolcs",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.96667000",
+      "longitude": "22.46667000"
+   },
+   {
+      "name": "Tuzsér",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.34407000",
+      "longitude": "22.11762000"
+   },
+   {
+      "name": "Tyukod",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.85378000",
+      "longitude": "22.56330000"
+   },
+   {
+      "name": "Vaja",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.00574000",
+      "longitude": "22.16761000"
+   },
+   {
+      "name": "Vásárosnamény",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.12542000",
+      "longitude": "22.31325000"
+   },
+   {
+      "name": "Vásárosnaményi Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.17981000",
+      "longitude": "22.35859000"
+   },
+   {
+      "name": "Záhony",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.40906000",
+      "longitude": "22.17614000"
+   },
+   {
+      "name": "Záhonyi Járás",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "48.34914000",
+      "longitude": "22.18925000"
+   },
+   {
+      "name": "Ófehértó",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.93333000",
+      "longitude": "22.05000000"
+   },
+   {
+      "name": "Ópályi",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.99771000",
+      "longitude": "22.32617000"
+   },
+   {
+      "name": "Ököritófülpös",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.91862000",
+      "longitude": "22.50810000"
+   },
+   {
+      "name": "Újfehértó",
+      "countryCode": "HU",
+      "stateCode": "SZ",
+      "latitude": "47.80000000",
+      "longitude": "21.68333000"
+   }
+]

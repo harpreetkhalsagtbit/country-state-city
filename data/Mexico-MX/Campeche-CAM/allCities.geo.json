@@ -1,0 +1,513 @@
+[
+   {
+      "name": "Abelardo L. Rodríguez",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.72842000",
+      "longitude": "-90.90456000"
+   },
+   {
+      "name": "Alfredo V. Bonfil",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.53032000",
+      "longitude": "-90.18214000"
+   },
+   {
+      "name": "Altamira de Zináparo",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.58208000",
+      "longitude": "-90.25610000"
+   },
+   {
+      "name": "Atasta",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.61954000",
+      "longitude": "-92.10326000"
+   },
+   {
+      "name": "Bacabchén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.28903000",
+      "longitude": "-90.05602000"
+   },
+   {
+      "name": "Benito Juárez Uno",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.27695000",
+      "longitude": "-91.09914000"
+   },
+   {
+      "name": "Bolonchén de Rejón",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.00386000",
+      "longitude": "-89.74663000"
+   },
+   {
+      "name": "Bécal",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.44172000",
+      "longitude": "-90.02738000"
+   },
+   {
+      "name": "Calakmul",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.00000000",
+      "longitude": "-89.75000000"
+   },
+   {
+      "name": "Calkiní",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.38583000",
+      "longitude": "-89.98764000"
+   },
+   {
+      "name": "Campeche",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.84386000",
+      "longitude": "-90.52554000"
+   },
+   {
+      "name": "Candelaria",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.00000000",
+      "longitude": "-90.75000000"
+   },
+   {
+      "name": "Carmen",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.63000000",
+      "longitude": "-91.83000000"
+   },
+   {
+      "name": "Carrillo Puerto",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.09400000",
+      "longitude": "-90.52279000"
+   },
+   {
+      "name": "Castamay",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.83782000",
+      "longitude": "-90.43181000"
+   },
+   {
+      "name": "Champotón",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.35042000",
+      "longitude": "-90.70991000"
+   },
+   {
+      "name": "Chicbul",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.77558000",
+      "longitude": "-90.92429000"
+   },
+   {
+      "name": "Chiná",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.76993000",
+      "longitude": "-90.49595000"
+   },
+   {
+      "name": "Chunchintok",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.36145000",
+      "longitude": "-89.58218000"
+   },
+   {
+      "name": "Ciudad del Carmen",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.64592000",
+      "longitude": "-91.82991000"
+   },
+   {
+      "name": "Colonia Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.66504000",
+      "longitude": "-92.31088000"
+   },
+   {
+      "name": "Constitución",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.62675000",
+      "longitude": "-90.13584000"
+   },
+   {
+      "name": "Cumpich",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.18612000",
+      "longitude": "-89.97081000"
+   },
+   {
+      "name": "División del Norte",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.52946000",
+      "longitude": "-90.76416000"
+   },
+   {
+      "name": "Don Samuel",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.36000000",
+      "longitude": "-90.85722000"
+   },
+   {
+      "name": "Dzibalchén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.45847000",
+      "longitude": "-89.73111000"
+   },
+   {
+      "name": "Dzitbalché",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.31857000",
+      "longitude": "-90.05611000"
+   },
+   {
+      "name": "El Aguacatal",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.21361000",
+      "longitude": "-91.51095000"
+   },
+   {
+      "name": "El Naranjo",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.02193000",
+      "longitude": "-91.12654000"
+   },
+   {
+      "name": "Escárcega",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.61404000",
+      "longitude": "-90.72870000"
+   },
+   {
+      "name": "Hampolol",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.92716000",
+      "longitude": "-90.38924000"
+   },
+   {
+      "name": "Haro",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.44418000",
+      "longitude": "-90.79153000"
+   },
+   {
+      "name": "Hecelchakán",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.16667000",
+      "longitude": "-90.13333000"
+   },
+   {
+      "name": "Hool",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.51294000",
+      "longitude": "-90.44631000"
+   },
+   {
+      "name": "Hopelchén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.74671000",
+      "longitude": "-89.84437000"
+   },
+   {
+      "name": "Isla Aguada",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.78714000",
+      "longitude": "-91.49277000"
+   },
+   {
+      "name": "Iturbide",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.57903000",
+      "longitude": "-89.60222000"
+   },
+   {
+      "name": "La Joya",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.48028000",
+      "longitude": "-90.67333000"
+   },
+   {
+      "name": "La Libertad",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.57042000",
+      "longitude": "-90.51399000"
+   },
+   {
+      "name": "Lerma",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.80404000",
+      "longitude": "-90.60088000"
+   },
+   {
+      "name": "Licenciado Gustavo Díaz Ordaz (18 de Marzo)",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.63222000",
+      "longitude": "-91.00278000"
+   },
+   {
+      "name": "Los Laureles",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.48778000",
+      "longitude": "-89.99444000"
+   },
+   {
+      "name": "Mamantel",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.52512000",
+      "longitude": "-91.08885000"
+   },
+   {
+      "name": "Matamoros",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.58414000",
+      "longitude": "-90.64669000"
+   },
+   {
+      "name": "Maya Tecún I",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.15292000",
+      "longitude": "-90.50641000"
+   },
+   {
+      "name": "Nuevo Progreso",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.62294000",
+      "longitude": "-92.29124000"
+   },
+   {
+      "name": "Nunkiní",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.40046000",
+      "longitude": "-90.14803000"
+   },
+   {
+      "name": "Palizada",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.25261000",
+      "longitude": "-92.07779000"
+   },
+   {
+      "name": "Pich",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.48568000",
+      "longitude": "-90.11795000"
+   },
+   {
+      "name": "Pocboc",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.23541000",
+      "longitude": "-90.10219000"
+   },
+   {
+      "name": "Pomuch",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.13727000",
+      "longitude": "-90.17488000"
+   },
+   {
+      "name": "Sabancuy",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.97270000",
+      "longitude": "-91.17783000"
+   },
+   {
+      "name": "San Antonio Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.61399000",
+      "longitude": "-92.22341000"
+   },
+   {
+      "name": "San Antonio Sahcabchén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.30696000",
+      "longitude": "-90.13778000"
+   },
+   {
+      "name": "San Francisco Kobén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.91516000",
+      "longitude": "-90.41709000"
+   },
+   {
+      "name": "San Pablo Pixtún",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.13361000",
+      "longitude": "-90.73194000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.20339000",
+      "longitude": "-90.11771000"
+   },
+   {
+      "name": "Santa Cruz Ex-Hacienda",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.39684000",
+      "longitude": "-90.24068000"
+   },
+   {
+      "name": "Santa Cruz Pueblo",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.33359000",
+      "longitude": "-90.10342000"
+   },
+   {
+      "name": "Santo Domingo Kesté",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.49972000",
+      "longitude": "-90.51139000"
+   },
+   {
+      "name": "Seybaplaya",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.63994000",
+      "longitude": "-90.68706000"
+   },
+   {
+      "name": "Sihochac",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.50120000",
+      "longitude": "-90.58472000"
+   },
+   {
+      "name": "Suc-Tuc",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.71259000",
+      "longitude": "-90.03768000"
+   },
+   {
+      "name": "Tankuché",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.50743000",
+      "longitude": "-90.24164000"
+   },
+   {
+      "name": "Tenabo",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.83333000",
+      "longitude": "-90.00000000"
+   },
+   {
+      "name": "Tepakán",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "20.39716000",
+      "longitude": "-90.04075000"
+   },
+   {
+      "name": "Tikinmul",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.76611000",
+      "longitude": "-90.22306000"
+   },
+   {
+      "name": "Ukúm",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.24197000",
+      "longitude": "-89.33529000"
+   },
+   {
+      "name": "Villa Madero",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.52833000",
+      "longitude": "-90.69917000"
+   },
+   {
+      "name": "Xbacab",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.94139000",
+      "longitude": "-90.72194000"
+   },
+   {
+      "name": "Xmabén",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "19.23530000",
+      "longitude": "-89.31426000"
+   },
+   {
+      "name": "Xpujil",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.50760000",
+      "longitude": "-89.39437000"
+   },
+   {
+      "name": "Zoh-Laguna",
+      "countryCode": "MX",
+      "stateCode": "CAM",
+      "latitude": "18.59306000",
+      "longitude": "-89.41714000"
+   }
+]

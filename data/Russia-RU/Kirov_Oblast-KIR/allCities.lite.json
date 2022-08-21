@@ -1,0 +1,447 @@
+[
+   {
+      "name": "Afanas’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Arbazh",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Arkul’",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Belaya Kholunitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Belorechensk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Bogorodskoye",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Chërnaya Kholunitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Darovskoy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Dem’yanovo",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Dubrovka",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Falënki",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Falënskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kiknur",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kiknurskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kil’mez’",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kirov",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kirovo-Chepetsk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kirovo-Chepetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kirs",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kosino",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kostino",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kotel’nich",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Krasnaya Polyana",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Kumëny",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Lal’sk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Leninskoye",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Lesnoy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Lesnyye Polyany",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Luza",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Luzskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Lyangasovo",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Malmyzh",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Malmyzhskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Maromitsa",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Medvedok",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Mirnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Murashi",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Murashinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Murygino",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nagorsk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nagorskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nema",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nemskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nizhneivkino",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nolinsk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Nolinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Omutninsk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Oparino",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Orichevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Orichi",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Orlov",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Orlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Pasegovo",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Peskovka",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Pinyug",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Pizhanka",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Pizhanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Podosinovets",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Podosinovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Raduzhnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Rudnichnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sanchursk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sanchurskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Shabalinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Slobodskoy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Slobodskoy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sosnovka",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sovetsk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sovetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sozimskiy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Strizhi",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Stulovo",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Suna",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Sunskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Svecha",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Svetlopolyansk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Torfyanoy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Tuzha",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Uni",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Uninskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Urzhum",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Vakhrushi",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Verkhoshizhem’ye",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Vostochnyy",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Vyatskiye Polyany",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Yaransk",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Yaranskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Yur’yanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   },
+   {
+      "name": "Zuyevka",
+      "countryCode": "RU",
+      "stateCode": "KIR"
+   }
+]

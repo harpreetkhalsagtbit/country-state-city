@@ -1,0 +1,957 @@
+[
+   {
+      "name": "Adorjan",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Aleksandrovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Alibunar",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Apatin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Aradac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatska Topola",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatski Despotovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatski Dvor",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatski Karlovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatsko Karađorđevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Banatsko Veliko Selo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Baranda",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Barice",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bačka Palanka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bačka Topola",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bački Breg",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bački Petrovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bačko Gradište",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bačko Petrovo Selo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bašaid",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bela Crkva",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Belegiš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Belo Blato",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bečej",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Beška",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bogojevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Boka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bosut",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Botoš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Bočar",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Buđanovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Crepaja",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Debeljača",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Despotovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Dobrica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Doroslovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Elemir",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ečka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Farkaždin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Gakovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Gardinovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Gložan",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Golubinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Gornji Breg",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Grabovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Gudurica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Hajdučica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Hetin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Hrtkovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Idvor",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ilandža",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Inđija",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Irig",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Izbište",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Janošik",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Jarak",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Jarkovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Jazovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Jaša Tomić",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Jermenovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kanjiža",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kikinda",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kisač",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Klek",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Klenak",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Knićanin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kolut",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Konak",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kovačica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kovilj",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kovin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kozjak",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Krajišnik",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Krčedin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kulpin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kumane",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kupinovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kupusina",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Kuštilj",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Lazarevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ljukovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Lok",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Lokve",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Lukićevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Maglić",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Margita",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Mačvanska Mitrovica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Melenci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Međa",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Mihajlovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Mokrin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Mol",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Mošorin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Nakovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Neuzina",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Nikinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Nikolinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Nova Crnja",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Nova Pazova",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Banovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Itebej",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Karlovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Kneževac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Kozarci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Sad",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novi Slankamen",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Novo Miloševo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Obrovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Opovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Orlovat",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ostojićevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Padej",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Padina",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Pančevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Pavliš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Perlez",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Petrovaradin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Pećinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Plandište",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Platičevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Prigrevica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Putinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Radenković",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Radojevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ravni Topolovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ravnje",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ravno Selo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Riđica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ruma",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Rumenka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Rusko Selo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sajan",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sakule",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Salaš Noćajski",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Samoš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sanad",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sefkerin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Seleuš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Senta",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sečanj",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sombor",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sonta",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sremska Mitrovica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sremski Karlovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Srpska Crnja",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Srpski Itebej",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stajićevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stanišić",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stara Pazova",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stari Banovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stari Lec",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Stepanovićevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Subotica",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Surduk",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Sutjeska",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Taraš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Tiszahegyes",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Titel",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Toba",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Tomaševac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Torak",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Torda",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Uljma",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Uzdin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Velika Greda",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Veliki Gaj",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Veliko Središte",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Veternik",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vilovo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Višnjićevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vladimirovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vlajkovac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vojka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vojvoda Stepa",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vrbas",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vrdnik",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Vršac",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Zmajevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Zrenjanin",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Ðurđevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čelarevo",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čenta",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čestereg",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čoka",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čortanovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Čurug",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Šajkaš",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Šašinci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Šimanovci",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Žabalj",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   },
+   {
+      "name": "Žitište",
+      "countryCode": "RS",
+      "stateCode": "VO"
+   }
+]

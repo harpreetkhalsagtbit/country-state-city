@@ -1,0 +1,3334 @@
+[
+   {
+      "name": "Abilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.93333000",
+      "longitude": "0.73333000"
+   },
+   {
+      "name": "Abondant",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.78590000",
+      "longitude": "1.44006000"
+   },
+   {
+      "name": "Aigurande",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.43397000",
+      "longitude": "1.83026000"
+   },
+   {
+      "name": "Ambillou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.45100000",
+      "longitude": "0.44730000"
+   },
+   {
+      "name": "Amboise",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41249000",
+      "longitude": "0.98266000"
+   },
+   {
+      "name": "Amilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.97281000",
+      "longitude": "2.77186000"
+   },
+   {
+      "name": "Anet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.85642000",
+      "longitude": "1.43981000"
+   },
+   {
+      "name": "Ardentes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.74191000",
+      "longitude": "1.83428000"
+   },
+   {
+      "name": "Argent-sur-Sauldre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.55847000",
+      "longitude": "2.44410000"
+   },
+   {
+      "name": "Argenton-sur-Creuse",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.58997000",
+      "longitude": "1.51981000"
+   },
+   {
+      "name": "Armenonville-les-Gâtineaux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.54365000",
+      "longitude": "1.64750000"
+   },
+   {
+      "name": "Arrou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.09768000",
+      "longitude": "1.12851000"
+   },
+   {
+      "name": "Artannes-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27451000",
+      "longitude": "0.60036000"
+   },
+   {
+      "name": "Artenay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.08246000",
+      "longitude": "1.88098000"
+   },
+   {
+      "name": "Arthon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.69361000",
+      "longitude": "1.69857000"
+   },
+   {
+      "name": "Aschères-le-Marché",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.11008000",
+      "longitude": "2.00725000"
+   },
+   {
+      "name": "Athée-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32023000",
+      "longitude": "0.91659000"
+   },
+   {
+      "name": "Aubigny-sur-Nère",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.48819000",
+      "longitude": "2.43895000"
+   },
+   {
+      "name": "Aunay-sous-Auneau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.44140000",
+      "longitude": "1.81094000"
+   },
+   {
+      "name": "Auneau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.46361000",
+      "longitude": "1.77263000"
+   },
+   {
+      "name": "Authon-du-Perche",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.19615000",
+      "longitude": "0.89189000"
+   },
+   {
+      "name": "Autry-le-Châtel",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.59886000",
+      "longitude": "2.60200000"
+   },
+   {
+      "name": "Auzouer-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54230000",
+      "longitude": "0.92067000"
+   },
+   {
+      "name": "Avoine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.20533000",
+      "longitude": "0.18253000"
+   },
+   {
+      "name": "Avord",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.03514000",
+      "longitude": "2.65295000"
+   },
+   {
+      "name": "Azay-le-Ferron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.85097000",
+      "longitude": "1.07084000"
+   },
+   {
+      "name": "Azay-le-Rideau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.26405000",
+      "longitude": "0.47132000"
+   },
+   {
+      "name": "Azay-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34966000",
+      "longitude": "0.84562000"
+   },
+   {
+      "name": "Azé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.85141000",
+      "longitude": "0.99829000"
+   },
+   {
+      "name": "Bailleau-le-Pin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.36698000",
+      "longitude": "1.32948000"
+   },
+   {
+      "name": "Bailleau-l’Évêque",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.48960000",
+      "longitude": "1.39665000"
+   },
+   {
+      "name": "Ballan-Miré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34057000",
+      "longitude": "0.61466000"
+   },
+   {
+      "name": "Barjouville",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.41002000",
+      "longitude": "1.47639000"
+   },
+   {
+      "name": "Baugy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.08181000",
+      "longitude": "2.72848000"
+   },
+   {
+      "name": "Baule",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.81084000",
+      "longitude": "1.67259000"
+   },
+   {
+      "name": "Bazoches-les-Gallerandes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.16540000",
+      "longitude": "2.04319000"
+   },
+   {
+      "name": "Beaugency",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.78019000",
+      "longitude": "1.62705000"
+   },
+   {
+      "name": "Beaulieu-lès-Loches",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.12526000",
+      "longitude": "1.01585000"
+   },
+   {
+      "name": "Beaumont-en-Véron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.19397000",
+      "longitude": "0.18436000"
+   },
+   {
+      "name": "Beaumont-la-Ronce",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.56948000",
+      "longitude": "0.67017000"
+   },
+   {
+      "name": "Beaune-la-Rolande",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.07124000",
+      "longitude": "2.43140000"
+   },
+   {
+      "name": "Bellegarde",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.98333000",
+      "longitude": "2.43333000"
+   },
+   {
+      "name": "Belleville-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50000000",
+      "longitude": "2.85000000"
+   },
+   {
+      "name": "Blancafort",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.53219000",
+      "longitude": "2.52981000"
+   },
+   {
+      "name": "Blois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.59432000",
+      "longitude": "1.32912000"
+   },
+   {
+      "name": "Bléré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32738000",
+      "longitude": "0.99186000"
+   },
+   {
+      "name": "Boigny-sur-Bionne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93333000",
+      "longitude": "2.01667000"
+   },
+   {
+      "name": "Boiscommun",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.03576000",
+      "longitude": "2.38333000"
+   },
+   {
+      "name": "Bonneval",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.18312000",
+      "longitude": "1.38524000"
+   },
+   {
+      "name": "Bonny-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.56172000",
+      "longitude": "2.83933000"
+   },
+   {
+      "name": "Boulleret",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.42419000",
+      "longitude": "2.87343000"
+   },
+   {
+      "name": "Bourges",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.08333000",
+      "longitude": "2.40000000"
+   },
+   {
+      "name": "Bourgueil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28333000",
+      "longitude": "0.16612000"
+   },
+   {
+      "name": "Bouzy-la-Forêt",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.85120000",
+      "longitude": "2.37773000"
+   },
+   {
+      "name": "Boynes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.11822000",
+      "longitude": "2.36006000"
+   },
+   {
+      "name": "Bracieux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54895000",
+      "longitude": "1.54120000"
+   },
+   {
+      "name": "Bray-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.82856000",
+      "longitude": "2.36644000"
+   },
+   {
+      "name": "Brezolles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.69033000",
+      "longitude": "1.07404000"
+   },
+   {
+      "name": "Briare",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.63343000",
+      "longitude": "2.74380000"
+   },
+   {
+      "name": "Bricy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99847000",
+      "longitude": "1.77937000"
+   },
+   {
+      "name": "Brinon-sur-Sauldre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.56600000",
+      "longitude": "2.25647000"
+   },
+   {
+      "name": "Brou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.21719000",
+      "longitude": "1.16539000"
+   },
+   {
+      "name": "Buzançais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.88877000",
+      "longitude": "1.41950000"
+   },
+   {
+      "name": "Bélâbre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.55121000",
+      "longitude": "1.15791000"
+   },
+   {
+      "name": "Béville-le-Comte",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.43558000",
+      "longitude": "1.71305000"
+   },
+   {
+      "name": "Bû",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.79705000",
+      "longitude": "1.49702000"
+   },
+   {
+      "name": "Candé-sur-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49499000",
+      "longitude": "1.25937000"
+   },
+   {
+      "name": "Cangey",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.46718000",
+      "longitude": "1.06051000"
+   },
+   {
+      "name": "Cellettes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.52758000",
+      "longitude": "1.38102000"
+   },
+   {
+      "name": "Cepoy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.04795000",
+      "longitude": "2.73782000"
+   },
+   {
+      "name": "Cerdon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.63571000",
+      "longitude": "2.36277000"
+   },
+   {
+      "name": "Cerelles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50168000",
+      "longitude": "0.68333000"
+   },
+   {
+      "name": "Chabris",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.25343000",
+      "longitude": "1.65181000"
+   },
+   {
+      "name": "Chaillac",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.43382000",
+      "longitude": "1.29889000"
+   },
+   {
+      "name": "Chailles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54160000",
+      "longitude": "1.31220000"
+   },
+   {
+      "name": "Chaingy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.88326000",
+      "longitude": "1.77059000"
+   },
+   {
+      "name": "Chambourg-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.18159000",
+      "longitude": "0.96863000"
+   },
+   {
+      "name": "Chambray-lès-Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.33537000",
+      "longitude": "0.70286000"
+   },
+   {
+      "name": "Champhol",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.46813000",
+      "longitude": "1.50281000"
+   },
+   {
+      "name": "Chanceaux-sur-Choisille",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.47145000",
+      "longitude": "0.70539000"
+   },
+   {
+      "name": "Changy-les-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.85793000",
+      "longitude": "2.68543000"
+   },
+   {
+      "name": "Chanteau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.96651000",
+      "longitude": "1.97129000"
+   },
+   {
+      "name": "Chantôme",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.41067000",
+      "longitude": "1.55590000"
+   },
+   {
+      "name": "Charentilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.46981000",
+      "longitude": "0.60903000"
+   },
+   {
+      "name": "Charenton-du-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.73007000",
+      "longitude": "2.64438000"
+   },
+   {
+      "name": "Chargé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.43270000",
+      "longitude": "1.03037000"
+   },
+   {
+      "name": "Chartres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.44685000",
+      "longitude": "1.48925000"
+   },
+   {
+      "name": "Chaudon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.66276000",
+      "longitude": "1.49670000"
+   },
+   {
+      "name": "Chaumont-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.48108000",
+      "longitude": "1.18929000"
+   },
+   {
+      "name": "Chaumont-sur-Tharonne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.61039000",
+      "longitude": "1.90514000"
+   },
+   {
+      "name": "Cheillé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.26114000",
+      "longitude": "0.40553000"
+   },
+   {
+      "name": "Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.11304000",
+      "longitude": "2.50983000"
+   },
+   {
+      "name": "Cherisy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.75000000",
+      "longitude": "1.43333000"
+   },
+   {
+      "name": "Cheverny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50079000",
+      "longitude": "1.45951000"
+   },
+   {
+      "name": "Chevillon-sur-Huillard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.96197000",
+      "longitude": "2.62601000"
+   },
+   {
+      "name": "Chevilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.02973000",
+      "longitude": "1.87402000"
+   },
+   {
+      "name": "Chilleurs-aux-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.07220000",
+      "longitude": "2.13540000"
+   },
+   {
+      "name": "Chinon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.16701000",
+      "longitude": "0.24284000"
+   },
+   {
+      "name": "Chissay-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.33747000",
+      "longitude": "1.13362000"
+   },
+   {
+      "name": "Chitenay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49753000",
+      "longitude": "1.37139000"
+   },
+   {
+      "name": "Chouzy-sur-Cisse",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.52576000",
+      "longitude": "1.24661000"
+   },
+   {
+      "name": "Chouzé-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.23673000",
+      "longitude": "0.12364000"
+   },
+   {
+      "name": "Châlette-sur-Loing",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.01337000",
+      "longitude": "2.73587000"
+   },
+   {
+      "name": "Chârost",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.99390000",
+      "longitude": "2.11639000"
+   },
+   {
+      "name": "Château-Renard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93333000",
+      "longitude": "2.93333000"
+   },
+   {
+      "name": "Château-Renault",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.59188000",
+      "longitude": "0.91143000"
+   },
+   {
+      "name": "Château-la-Vallière",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54665000",
+      "longitude": "0.32458000"
+   },
+   {
+      "name": "Châteaudun",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.07086000",
+      "longitude": "1.33783000"
+   },
+   {
+      "name": "Châteaumeillant",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.56219000",
+      "longitude": "2.19515000"
+   },
+   {
+      "name": "Châteauneuf-en-Thymerais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.58112000",
+      "longitude": "1.24085000"
+   },
+   {
+      "name": "Châteauneuf-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.85778000",
+      "longitude": "2.31710000"
+   },
+   {
+      "name": "Châteauneuf-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.86575000",
+      "longitude": "2.21903000"
+   },
+   {
+      "name": "Châteauroux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.81248000",
+      "longitude": "1.69362000"
+   },
+   {
+      "name": "Châtillon-Coligny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.82266000",
+      "longitude": "2.84563000"
+   },
+   {
+      "name": "Châtillon-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27571000",
+      "longitude": "1.49424000"
+   },
+   {
+      "name": "Châtillon-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.98735000",
+      "longitude": "1.17218000"
+   },
+   {
+      "name": "Châtres-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.26505000",
+      "longitude": "1.90591000"
+   },
+   {
+      "name": "Chécy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.89402000",
+      "longitude": "2.02304000"
+   },
+   {
+      "name": "Cinq-Mars-la-Pile",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34638000",
+      "longitude": "0.45873000"
+   },
+   {
+      "name": "Civray-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.33253000",
+      "longitude": "1.04952000"
+   },
+   {
+      "name": "Clion",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.94085000",
+      "longitude": "1.23214000"
+   },
+   {
+      "name": "Cloyes-sur-le-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99726000",
+      "longitude": "1.23711000"
+   },
+   {
+      "name": "Cluis",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.54486000",
+      "longitude": "1.74933000"
+   },
+   {
+      "name": "Cléry-Saint-André",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.82218000",
+      "longitude": "1.75091000"
+   },
+   {
+      "name": "Cléré-les-Pins",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.42550000",
+      "longitude": "0.38963000"
+   },
+   {
+      "name": "Contres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41754000",
+      "longitude": "1.42849000"
+   },
+   {
+      "name": "Corbeilles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.07201000",
+      "longitude": "2.55030000"
+   },
+   {
+      "name": "Cormeray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49195000",
+      "longitude": "1.40610000"
+   },
+   {
+      "name": "Cormery",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.26812000",
+      "longitude": "0.83583000"
+   },
+   {
+      "name": "Corquilleroy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.04212000",
+      "longitude": "2.70382000"
+   },
+   {
+      "name": "Coullons",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.62105000",
+      "longitude": "2.49258000"
+   },
+   {
+      "name": "Coulombs",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.65253000",
+      "longitude": "1.54646000"
+   },
+   {
+      "name": "Cour-Cheverny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.51033000",
+      "longitude": "1.45583000"
+   },
+   {
+      "name": "Cours-les-Barres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.02513000",
+      "longitude": "3.03167000"
+   },
+   {
+      "name": "Courtenay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.03901000",
+      "longitude": "3.05851000"
+   },
+   {
+      "name": "Courville-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.44899000",
+      "longitude": "1.24085000"
+   },
+   {
+      "name": "Cuffy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.96275000",
+      "longitude": "3.05238000"
+   },
+   {
+      "name": "Dadonville",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.15776000",
+      "longitude": "2.27150000"
+   },
+   {
+      "name": "Dammarie",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.34314000",
+      "longitude": "1.49444000"
+   },
+   {
+      "name": "Dampierre-en-Burly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76143000",
+      "longitude": "2.51962000"
+   },
+   {
+      "name": "Darvoy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.85839000",
+      "longitude": "2.10033000"
+   },
+   {
+      "name": "Descartes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.96667000",
+      "longitude": "0.70000000"
+   },
+   {
+      "name": "Dhuizon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.58723000",
+      "longitude": "1.65809000"
+   },
+   {
+      "name": "Donnery",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91486000",
+      "longitude": "2.10299000"
+   },
+   {
+      "name": "Dordives",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.14253000",
+      "longitude": "2.76775000"
+   },
+   {
+      "name": "Douchy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.94282000",
+      "longitude": "3.05392000"
+   },
+   {
+      "name": "Dreux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.73649000",
+      "longitude": "1.36566000"
+   },
+   {
+      "name": "Droue-sur-Drouette",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.60053000",
+      "longitude": "1.70113000"
+   },
+   {
+      "name": "Droué",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.04023000",
+      "longitude": "1.07534000"
+   },
+   {
+      "name": "Dry",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.79612000",
+      "longitude": "1.71330000"
+   },
+   {
+      "name": "Dun-sur-Auron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.88490000",
+      "longitude": "2.57345000"
+   },
+   {
+      "name": "Déols",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.82934000",
+      "longitude": "1.70428000"
+   },
+   {
+      "name": "Département d'Eure-et-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.50000000",
+      "longitude": "1.50000000"
+   },
+   {
+      "name": "Département d'Indre-et-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.25000000",
+      "longitude": "0.75000000"
+   },
+   {
+      "name": "Département de l'Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.83333000",
+      "longitude": "1.66667000"
+   },
+   {
+      "name": "Département du Loir-et-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50000000",
+      "longitude": "1.50000000"
+   },
+   {
+      "name": "Esvres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28537000",
+      "longitude": "0.78588000"
+   },
+   {
+      "name": "Faverolles-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.31732000",
+      "longitude": "1.19045000"
+   },
+   {
+      "name": "Fay-aux-Loges",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.92724000",
+      "longitude": "2.14012000"
+   },
+   {
+      "name": "Fleury-les-Aubrais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93328000",
+      "longitude": "1.91811000"
+   },
+   {
+      "name": "Fondettes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.40350000",
+      "longitude": "0.59686000"
+   },
+   {
+      "name": "Fontaine-la-Guyon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.47270000",
+      "longitude": "1.31417000"
+   },
+   {
+      "name": "Fontenay-sur-Loing",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.10365000",
+      "longitude": "2.77542000"
+   },
+   {
+      "name": "Foëcy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.17618000",
+      "longitude": "2.16257000"
+   },
+   {
+      "name": "Fussy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.14372000",
+      "longitude": "2.42953000"
+   },
+   {
+      "name": "Férolles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.83475000",
+      "longitude": "2.11113000"
+   },
+   {
+      "name": "Gallardon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.52622000",
+      "longitude": "1.69307000"
+   },
+   {
+      "name": "Garnay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.70489000",
+      "longitude": "1.33706000"
+   },
+   {
+      "name": "Gasville-Oisème",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.46973000",
+      "longitude": "1.53843000"
+   },
+   {
+      "name": "Genillé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.18333000",
+      "longitude": "1.10000000"
+   },
+   {
+      "name": "Gidy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.98539000",
+      "longitude": "1.83816000"
+   },
+   {
+      "name": "Gien",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.69332000",
+      "longitude": "2.63094000"
+   },
+   {
+      "name": "Gièvres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27847000",
+      "longitude": "1.66943000"
+   },
+   {
+      "name": "Graçay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.14371000",
+      "longitude": "1.84733000"
+   },
+   {
+      "name": "Hanches",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.60115000",
+      "longitude": "1.65137000"
+   },
+   {
+      "name": "Henrichemont",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.30333000",
+      "longitude": "2.52458000"
+   },
+   {
+      "name": "Herbault",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.60501000",
+      "longitude": "1.13934000"
+   },
+   {
+      "name": "Herry",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.21667000",
+      "longitude": "2.95385000"
+   },
+   {
+      "name": "Huismes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.23319000",
+      "longitude": "0.25116000"
+   },
+   {
+      "name": "Huisseau-sur-Cosson",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.59335000",
+      "longitude": "1.45333000"
+   },
+   {
+      "name": "Huisseau-sur-Mauves",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.89319000",
+      "longitude": "1.70274000"
+   },
+   {
+      "name": "Ingré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91995000",
+      "longitude": "1.82778000"
+   },
+   {
+      "name": "Issoudun",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.94848000",
+      "longitude": "1.99362000"
+   },
+   {
+      "name": "Janville",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.20284000",
+      "longitude": "1.88020000"
+   },
+   {
+      "name": "Jargeau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.86316000",
+      "longitude": "2.12648000"
+   },
+   {
+      "name": "Jouet-sur-l'Aubois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.04562000",
+      "longitude": "2.98725000"
+   },
+   {
+      "name": "Jouy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.51005000",
+      "longitude": "1.54501000"
+   },
+   {
+      "name": "Jouy-le-Potier",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.74553000",
+      "longitude": "1.81115000"
+   },
+   {
+      "name": "Joué-lès-Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.35223000",
+      "longitude": "0.66905000"
+   },
+   {
+      "name": "L'Île-Bouchard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.11667000",
+      "longitude": "0.41667000"
+   },
+   {
+      "name": "La Bazoche-Gouet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.13985000",
+      "longitude": "0.98163000"
+   },
+   {
+      "name": "La Celle-Saint-Avant",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.02200000",
+      "longitude": "0.60488000"
+   },
+   {
+      "name": "La Chapelle-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.88648000",
+      "longitude": "1.83450000"
+   },
+   {
+      "name": "La Chapelle-Saint-Ursin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.06248000",
+      "longitude": "2.32447000"
+   },
+   {
+      "name": "La Chapelle-du-Noyer",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.03191000",
+      "longitude": "1.30953000"
+   },
+   {
+      "name": "La Chapelle-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.25063000",
+      "longitude": "0.21887000"
+   },
+   {
+      "name": "La Chaussée-Saint-Victor",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.61621000",
+      "longitude": "1.36765000"
+   },
+   {
+      "name": "La Châtre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.58228000",
+      "longitude": "1.98734000"
+   },
+   {
+      "name": "La Croix-en-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34031000",
+      "longitude": "0.99024000"
+   },
+   {
+      "name": "La Ferté-Imbault",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38467000",
+      "longitude": "1.95344000"
+   },
+   {
+      "name": "La Ferté-Saint-Aubin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.71695000",
+      "longitude": "1.93904000"
+   },
+   {
+      "name": "La Loupe",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.47320000",
+      "longitude": "1.01585000"
+   },
+   {
+      "name": "La Membrolle-sur-Choisille",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.43719000",
+      "longitude": "0.63163000"
+   },
+   {
+      "name": "La Riche",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38996000",
+      "longitude": "0.67072000"
+   },
+   {
+      "name": "La Ville-aux-Clercs",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91835000",
+      "longitude": "1.08521000"
+   },
+   {
+      "name": "La Ville-aux-Dames",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.39551000",
+      "longitude": "0.76837000"
+   },
+   {
+      "name": "Ladon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.00259000",
+      "longitude": "2.53724000"
+   },
+   {
+      "name": "Lailly-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76962000",
+      "longitude": "1.68657000"
+   },
+   {
+      "name": "Lamotte-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.60200000",
+      "longitude": "2.02837000"
+   },
+   {
+      "name": "Langeais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32587000",
+      "longitude": "0.40136000"
+   },
+   {
+      "name": "Larçay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.36649000",
+      "longitude": "0.78145000"
+   },
+   {
+      "name": "Le Blanc",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.63371000",
+      "longitude": "1.06272000"
+   },
+   {
+      "name": "Le Châtelet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.64247000",
+      "longitude": "2.28229000"
+   },
+   {
+      "name": "Le Coudray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.42115000",
+      "longitude": "1.50057000"
+   },
+   {
+      "name": "Le Grand-Pressigny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.92017000",
+      "longitude": "0.80380000"
+   },
+   {
+      "name": "Le Poinçonnet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.76410000",
+      "longitude": "1.71790000"
+   },
+   {
+      "name": "Le Pêchereau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.57677000",
+      "longitude": "1.54743000"
+   },
+   {
+      "name": "Les Aix-d’Angillon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.19652000",
+      "longitude": "2.56506000"
+   },
+   {
+      "name": "Les Montils",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49499000",
+      "longitude": "1.29775000"
+   },
+   {
+      "name": "Levet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.92605000",
+      "longitude": "2.40732000"
+   },
+   {
+      "name": "Levroux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.97860000",
+      "longitude": "1.61243000"
+   },
+   {
+      "name": "Lignières",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.75152000",
+      "longitude": "2.17381000"
+   },
+   {
+      "name": "Ligny-le-Ribault",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.68419000",
+      "longitude": "1.78153000"
+   },
+   {
+      "name": "Ligré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.11185000",
+      "longitude": "0.27562000"
+   },
+   {
+      "name": "Ligueil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.04210000",
+      "longitude": "0.81893000"
+   },
+   {
+      "name": "Loches",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.12858000",
+      "longitude": "0.99522000"
+   },
+   {
+      "name": "Loiret",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93598000",
+      "longitude": "2.30173000"
+   },
+   {
+      "name": "Lorris",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.88950000",
+      "longitude": "2.51478000"
+   },
+   {
+      "name": "Loury",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99944000",
+      "longitude": "2.08474000"
+   },
+   {
+      "name": "Luant",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.73300000",
+      "longitude": "1.55793000"
+   },
+   {
+      "name": "Lucé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.43689000",
+      "longitude": "1.46359000"
+   },
+   {
+      "name": "Luisant",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.42950000",
+      "longitude": "1.47383000"
+   },
+   {
+      "name": "Lunay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.80864000",
+      "longitude": "0.91499000"
+   },
+   {
+      "name": "Lunery",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.93569000",
+      "longitude": "2.26895000"
+   },
+   {
+      "name": "Luray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.72035000",
+      "longitude": "1.39889000"
+   },
+   {
+      "name": "Luynes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38441000",
+      "longitude": "0.55470000"
+   },
+   {
+      "name": "Luçay-le-Mâle",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.12996000",
+      "longitude": "1.44173000"
+   },
+   {
+      "name": "Lèves",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.47065000",
+      "longitude": "1.48194000"
+   },
+   {
+      "name": "Léré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.46867000",
+      "longitude": "2.86981000"
+   },
+   {
+      "name": "Maintenon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.58704000",
+      "longitude": "1.57847000"
+   },
+   {
+      "name": "Mainvilliers",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.45003000",
+      "longitude": "1.45607000"
+   },
+   {
+      "name": "Malesherbes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.29566000",
+      "longitude": "2.40935000"
+   },
+   {
+      "name": "Manthelan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.13632000",
+      "longitude": "0.79319000"
+   },
+   {
+      "name": "Marboué",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.11377000",
+      "longitude": "1.33210000"
+   },
+   {
+      "name": "Marcilly-en-Villette",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76505000",
+      "longitude": "2.02266000"
+   },
+   {
+      "name": "Mardié",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.88617000",
+      "longitude": "2.05745000"
+   },
+   {
+      "name": "Mareau-aux-Prés",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.86667000",
+      "longitude": "1.78333000"
+   },
+   {
+      "name": "Mareuil-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.29314000",
+      "longitude": "1.32897000"
+   },
+   {
+      "name": "Margon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.33568000",
+      "longitude": "0.83454000"
+   },
+   {
+      "name": "Marigny-les-Usages",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.95799000",
+      "longitude": "2.01462000"
+   },
+   {
+      "name": "Marmagne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.10000000",
+      "longitude": "2.28333000"
+   },
+   {
+      "name": "Martizay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.80767000",
+      "longitude": "1.04324000"
+   },
+   {
+      "name": "Massay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.15324000",
+      "longitude": "1.99334000"
+   },
+   {
+      "name": "Mazières-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38326000",
+      "longitude": "0.42548000"
+   },
+   {
+      "name": "Mehun-sur-Yèvre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.13782000",
+      "longitude": "2.21105000"
+   },
+   {
+      "name": "Menetou-Salon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.23172000",
+      "longitude": "2.48715000"
+   },
+   {
+      "name": "Mer",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.70555000",
+      "longitude": "1.50621000"
+   },
+   {
+      "name": "Mettray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.45251000",
+      "longitude": "0.64939000"
+   },
+   {
+      "name": "Meung-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.83124000",
+      "longitude": "1.69582000"
+   },
+   {
+      "name": "Mondoubleau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.98061000",
+      "longitude": "0.89782000"
+   },
+   {
+      "name": "Monnaie",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50162000",
+      "longitude": "0.78872000"
+   },
+   {
+      "name": "Mont-près-Chambord",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.56235000",
+      "longitude": "1.45712000"
+   },
+   {
+      "name": "Montargis",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99696000",
+      "longitude": "2.73261000"
+   },
+   {
+      "name": "Montbazon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28348000",
+      "longitude": "0.69988000"
+   },
+   {
+      "name": "Montcresson",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.90561000",
+      "longitude": "2.80796000"
+   },
+   {
+      "name": "Montgivray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.60324000",
+      "longitude": "1.98162000"
+   },
+   {
+      "name": "Montierchaume",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.86362000",
+      "longitude": "1.77181000"
+   },
+   {
+      "name": "Montlivault",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.63987000",
+      "longitude": "1.44487000"
+   },
+   {
+      "name": "Montlouis-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38845000",
+      "longitude": "0.83208000"
+   },
+   {
+      "name": "Montoire-sur-le-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.75316000",
+      "longitude": "0.86525000"
+   },
+   {
+      "name": "Montrichard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34310000",
+      "longitude": "1.18653000"
+   },
+   {
+      "name": "Monts",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27723000",
+      "longitude": "0.62473000"
+   },
+   {
+      "name": "Morancez",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.40051000",
+      "longitude": "1.49388000"
+   },
+   {
+      "name": "Morée",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.90397000",
+      "longitude": "1.23421000"
+   },
+   {
+      "name": "Muides-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.66958000",
+      "longitude": "1.52694000"
+   },
+   {
+      "name": "Mur-de-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41239000",
+      "longitude": "1.60832000"
+   },
+   {
+      "name": "Ménestreau-en-Villette",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.69962000",
+      "longitude": "2.02333000"
+   },
+   {
+      "name": "Méreau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.16295000",
+      "longitude": "2.05086000"
+   },
+   {
+      "name": "Mézières-en-Brenne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.81979000",
+      "longitude": "1.21123000"
+   },
+   {
+      "name": "Mézières-en-Drouais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.72413000",
+      "longitude": "1.42440000"
+   },
+   {
+      "name": "Nargis",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.11106000",
+      "longitude": "2.75597000"
+   },
+   {
+      "name": "Naveil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.79576000",
+      "longitude": "1.03222000"
+   },
+   {
+      "name": "Nazelles-Négron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.43333000",
+      "longitude": "0.95000000"
+   },
+   {
+      "name": "Neuillé-Pont-Pierre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54840000",
+      "longitude": "0.54962000"
+   },
+   {
+      "name": "Neung-sur-Beuvron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.53486000",
+      "longitude": "1.80514000"
+   },
+   {
+      "name": "Neuville-aux-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.06813000",
+      "longitude": "2.05372000"
+   },
+   {
+      "name": "Neuvy-Pailloux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.88486000",
+      "longitude": "1.86152000"
+   },
+   {
+      "name": "Neuvy-Saint-Sépulchre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.59781000",
+      "longitude": "1.80601000"
+   },
+   {
+      "name": "Neuvy-le-Roi",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.60386000",
+      "longitude": "0.59472000"
+   },
+   {
+      "name": "Neuvy-sur-Barangeon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.31495000",
+      "longitude": "2.25343000"
+   },
+   {
+      "name": "Nevoy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.71591000",
+      "longitude": "2.57791000"
+   },
+   {
+      "name": "Niherne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.82768000",
+      "longitude": "1.56384000"
+   },
+   {
+      "name": "Nogent-le-Phaye",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.44528000",
+      "longitude": "1.57777000"
+   },
+   {
+      "name": "Nogent-le-Roi",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.64785000",
+      "longitude": "1.52933000"
+   },
+   {
+      "name": "Nogent-le-Rotrou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.32157000",
+      "longitude": "0.82177000"
+   },
+   {
+      "name": "Nogent-sur-Vernisson",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.84603000",
+      "longitude": "2.74267000"
+   },
+   {
+      "name": "Noizay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.42188000",
+      "longitude": "0.89201000"
+   },
+   {
+      "name": "Nouan-le-Fuzelier",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.53600000",
+      "longitude": "2.03647000"
+   },
+   {
+      "name": "Nouzilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54499000",
+      "longitude": "0.74623000"
+   },
+   {
+      "name": "Noyers-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27701000",
+      "longitude": "1.40320000"
+   },
+   {
+      "name": "Nérondes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.99758000",
+      "longitude": "2.81834000"
+   },
+   {
+      "name": "Olivet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.86219000",
+      "longitude": "1.89910000"
+   },
+   {
+      "name": "Onzain",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49956000",
+      "longitude": "1.17701000"
+   },
+   {
+      "name": "Orgères-en-Beauce",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.14636000",
+      "longitude": "1.68380000"
+   },
+   {
+      "name": "Orléans",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.90289000",
+      "longitude": "1.90389000"
+   },
+   {
+      "name": "Ormes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.94152000",
+      "longitude": "1.81823000"
+   },
+   {
+      "name": "Orval",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.72581000",
+      "longitude": "2.47144000"
+   },
+   {
+      "name": "Oucques",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.82252000",
+      "longitude": "1.29383000"
+   },
+   {
+      "name": "Oulins",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.86451000",
+      "longitude": "1.47038000"
+   },
+   {
+      "name": "Outarville",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.21393000",
+      "longitude": "2.02198000"
+   },
+   {
+      "name": "Ouzouer-le-Marché",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91055000",
+      "longitude": "1.52607000"
+   },
+   {
+      "name": "Ouzouer-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76638000",
+      "longitude": "2.48038000"
+   },
+   {
+      "name": "Ouzouer-sur-Trézée",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.67266000",
+      "longitude": "2.80800000"
+   },
+   {
+      "name": "Pannes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.01937000",
+      "longitude": "2.66755000"
+   },
+   {
+      "name": "Parçay-Meslay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.44195000",
+      "longitude": "0.74847000"
+   },
+   {
+      "name": "Patay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.04833000",
+      "longitude": "1.69500000"
+   },
+   {
+      "name": "Perrusson",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.09873000",
+      "longitude": "1.01438000"
+   },
+   {
+      "name": "Pierres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.59209000",
+      "longitude": "1.56444000"
+   },
+   {
+      "name": "Pithiviers",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.17185000",
+      "longitude": "2.25185000"
+   },
+   {
+      "name": "Pithiviers-le-Vieil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.16313000",
+      "longitude": "2.20922000"
+   },
+   {
+      "name": "Plaimpied-Givaudins",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.99800000",
+      "longitude": "2.45428000"
+   },
+   {
+      "name": "Pocé-sur-Cisse",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.44330000",
+      "longitude": "0.99142000"
+   },
+   {
+      "name": "Poilly-lez-Gien",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.67724000",
+      "longitude": "2.59743000"
+   },
+   {
+      "name": "Pontlevoy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.39002000",
+      "longitude": "1.25465000"
+   },
+   {
+      "name": "Pouligny-Saint-Pierre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.68095000",
+      "longitude": "1.03877000"
+   },
+   {
+      "name": "Preuilly-sur-Claise",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.85424000",
+      "longitude": "0.92954000"
+   },
+   {
+      "name": "Pruniers-en-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.31667000",
+      "longitude": "1.66667000"
+   },
+   {
+      "name": "Puiseaux",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.09234000",
+      "longitude": "2.05967000"
+   },
+   {
+      "name": "Quiers-sur-Bézonde",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99615000",
+      "longitude": "2.44141000"
+   },
+   {
+      "name": "Rebréchien",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.98727000",
+      "longitude": "2.04432000"
+   },
+   {
+      "name": "Reignac-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.22662000",
+      "longitude": "0.91587000"
+   },
+   {
+      "name": "Restigné",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28224000",
+      "longitude": "0.22788000"
+   },
+   {
+      "name": "Reugny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.48208000",
+      "longitude": "0.88468000"
+   },
+   {
+      "name": "Reuilly",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.08476000",
+      "longitude": "2.04305000"
+   },
+   {
+      "name": "Rians",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.17875000",
+      "longitude": "2.61359000"
+   },
+   {
+      "name": "Richelieu",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.01389000",
+      "longitude": "0.32406000"
+   },
+   {
+      "name": "Rochecorbon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41658000",
+      "longitude": "0.75521000"
+   },
+   {
+      "name": "Romorantin-Lanthenay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.36667000",
+      "longitude": "1.75000000"
+   },
+   {
+      "name": "Rouziers-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.51720000",
+      "longitude": "0.64848000"
+   },
+   {
+      "name": "Saché",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.24707000",
+      "longitude": "0.54455000"
+   },
+   {
+      "name": "Saint-Aignan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.26892000",
+      "longitude": "1.37614000"
+   },
+   {
+      "name": "Saint-Amand-Longpré",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.68333000",
+      "longitude": "1.01667000"
+   },
+   {
+      "name": "Saint-Amand-Montrond",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.72284000",
+      "longitude": "2.50494000"
+   },
+   {
+      "name": "Saint-Antoine-du-Rocher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.49677000",
+      "longitude": "0.62997000"
+   },
+   {
+      "name": "Saint-Aubin-des-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.46549000",
+      "longitude": "1.35784000"
+   },
+   {
+      "name": "Saint-Avertin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.36357000",
+      "longitude": "0.73993000"
+   },
+   {
+      "name": "Saint-Ay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.85890000",
+      "longitude": "1.75137000"
+   },
+   {
+      "name": "Saint-Benoît-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.80561000",
+      "longitude": "2.31274000"
+   },
+   {
+      "name": "Saint-Branchs",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.22655000",
+      "longitude": "0.77306000"
+   },
+   {
+      "name": "Saint-Brisson-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.64686000",
+      "longitude": "2.68229000"
+   },
+   {
+      "name": "Saint-Christophe-sur-le-Nais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.61720000",
+      "longitude": "0.47801000"
+   },
+   {
+      "name": "Saint-Claude-de-Diray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.61651000",
+      "longitude": "1.41798000"
+   },
+   {
+      "name": "Saint-Cyr-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.83182000",
+      "longitude": "1.96672000"
+   },
+   {
+      "name": "Saint-Cyr-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.40000000",
+      "longitude": "0.66667000"
+   },
+   {
+      "name": "Saint-Denis-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.87321000",
+      "longitude": "1.96601000"
+   },
+   {
+      "name": "Saint-Denis-les-Ponts",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.06692000",
+      "longitude": "1.29764000"
+   },
+   {
+      "name": "Saint-Doulchard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.10371000",
+      "longitude": "2.35200000"
+   },
+   {
+      "name": "Saint-Dyé-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.65595000",
+      "longitude": "1.48847000"
+   },
+   {
+      "name": "Saint-Florent-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.99552000",
+      "longitude": "2.25076000"
+   },
+   {
+      "name": "Saint-Gaultier",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.63518000",
+      "longitude": "1.41289000"
+   },
+   {
+      "name": "Saint-Georges-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32996000",
+      "longitude": "1.13261000"
+   },
+   {
+      "name": "Saint-Georges-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.41869000",
+      "longitude": "1.35460000"
+   },
+   {
+      "name": "Saint-Germain-des-Prés",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.95384000",
+      "longitude": "2.84846000"
+   },
+   {
+      "name": "Saint-Germain-du-Puy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.10000000",
+      "longitude": "2.48333000"
+   },
+   {
+      "name": "Saint-Gervais-la-Forêt",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.56705000",
+      "longitude": "1.35493000"
+   },
+   {
+      "name": "Saint-Hilaire-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.86614000",
+      "longitude": "1.83351000"
+   },
+   {
+      "name": "Saint-Jean-de-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91303000",
+      "longitude": "1.97705000"
+   },
+   {
+      "name": "Saint-Jean-de-la-Ruelle",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.91127000",
+      "longitude": "1.86483000"
+   },
+   {
+      "name": "Saint-Jean-le-Blanc",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.89327000",
+      "longitude": "1.91540000"
+   },
+   {
+      "name": "Saint-Laurent-Nouan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.71667000",
+      "longitude": "1.60000000"
+   },
+   {
+      "name": "Saint-Lubin-des-Joncherets",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.76667000",
+      "longitude": "1.21667000"
+   },
+   {
+      "name": "Saint-Marcel",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.60193000",
+      "longitude": "1.51324000"
+   },
+   {
+      "name": "Saint-Martin-de-Nigelles",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.61234000",
+      "longitude": "1.60920000"
+   },
+   {
+      "name": "Saint-Martin-d’Auxigny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.20371000",
+      "longitude": "2.41553000"
+   },
+   {
+      "name": "Saint-Martin-le-Beau",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.35566000",
+      "longitude": "0.90953000"
+   },
+   {
+      "name": "Saint-Martin-sur-Ocre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.65942000",
+      "longitude": "2.65810000"
+   },
+   {
+      "name": "Saint-Maur",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.80657000",
+      "longitude": "1.63904000"
+   },
+   {
+      "name": "Saint-Maurice-sur-Fessard",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.99231000",
+      "longitude": "2.62157000"
+   },
+   {
+      "name": "Saint-Nicolas-de-Bourgueil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28493000",
+      "longitude": "0.12727000"
+   },
+   {
+      "name": "Saint-Ouen",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.81404000",
+      "longitude": "1.08067000"
+   },
+   {
+      "name": "Saint-Paterne-Racan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.60213000",
+      "longitude": "0.48478000"
+   },
+   {
+      "name": "Saint-Piat",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.54668000",
+      "longitude": "1.58363000"
+   },
+   {
+      "name": "Saint-Pierre-des-Corps",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38623000",
+      "longitude": "0.74849000"
+   },
+   {
+      "name": "Saint-Prest",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.49107000",
+      "longitude": "1.53034000"
+   },
+   {
+      "name": "Saint-Pryvé-Saint-Mesmin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.88177000",
+      "longitude": "1.86950000"
+   },
+   {
+      "name": "Saint-Père-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76667000",
+      "longitude": "2.36667000"
+   },
+   {
+      "name": "Saint-Romain-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.31877000",
+      "longitude": "1.39956000"
+   },
+   {
+      "name": "Saint-Rémy-sur-Avre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.76143000",
+      "longitude": "1.24532000"
+   },
+   {
+      "name": "Saint-Satur",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.33914000",
+      "longitude": "2.83734000"
+   },
+   {
+      "name": "Saint-Sulpice-de-Pommeray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.60000000",
+      "longitude": "1.26667000"
+   },
+   {
+      "name": "Saint-Viâtre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.52438000",
+      "longitude": "1.93276000"
+   },
+   {
+      "name": "Saint-Éloy-de-Gy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.15552000",
+      "longitude": "2.34267000"
+   },
+   {
+      "name": "Saint-Épain",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.14482000",
+      "longitude": "0.53668000"
+   },
+   {
+      "name": "Saint-Étienne-de-Chigny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38333000",
+      "longitude": "0.53333000"
+   },
+   {
+      "name": "Sainte-Geneviève-des-Bois",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.81777000",
+      "longitude": "2.81652000"
+   },
+   {
+      "name": "Sainte-Lizaigne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.00695000",
+      "longitude": "2.02266000"
+   },
+   {
+      "name": "Sainte-Maure-de-Touraine",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.11130000",
+      "longitude": "0.62236000"
+   },
+   {
+      "name": "Sainte-Solange",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.13628000",
+      "longitude": "2.55019000"
+   },
+   {
+      "name": "Salbris",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.42420000",
+      "longitude": "2.05124000"
+   },
+   {
+      "name": "Sancerre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32889000",
+      "longitude": "2.83447000"
+   },
+   {
+      "name": "Sancoins",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.83314000",
+      "longitude": "2.92238000"
+   },
+   {
+      "name": "Sandillon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.84510000",
+      "longitude": "2.03155000"
+   },
+   {
+      "name": "Saran",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.95013000",
+      "longitude": "1.87601000"
+   },
+   {
+      "name": "Sargé-sur-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.92352000",
+      "longitude": "0.85340000"
+   },
+   {
+      "name": "Saussay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.85571000",
+      "longitude": "1.40889000"
+   },
+   {
+      "name": "Savigny-en-Sancerre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.44142000",
+      "longitude": "2.80953000"
+   },
+   {
+      "name": "Savigny-en-Véron",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.20071000",
+      "longitude": "0.14457000"
+   },
+   {
+      "name": "Savigny-sur-Braye",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.87923000",
+      "longitude": "0.80981000"
+   },
+   {
+      "name": "Savigné-sur-Lathan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.44483000",
+      "longitude": "0.32093000"
+   },
+   {
+      "name": "Savonnières",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34769000",
+      "longitude": "0.54961000"
+   },
+   {
+      "name": "Seigy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.25688000",
+      "longitude": "1.39964000"
+   },
+   {
+      "name": "Selles-Saint-Denis",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.38695000",
+      "longitude": "1.92295000"
+   },
+   {
+      "name": "Selles-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27904000",
+      "longitude": "1.55387000"
+   },
+   {
+      "name": "Semblançay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.50000000",
+      "longitude": "0.58333000"
+   },
+   {
+      "name": "Semoy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93333000",
+      "longitude": "1.95000000"
+   },
+   {
+      "name": "Senonches",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.55999000",
+      "longitude": "1.03069000"
+   },
+   {
+      "name": "Sermaises",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.29650000",
+      "longitude": "2.20546000"
+   },
+   {
+      "name": "Soings-en-Sologne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41289000",
+      "longitude": "1.52452000"
+   },
+   {
+      "name": "Sonzay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.52687000",
+      "longitude": "0.46203000"
+   },
+   {
+      "name": "Sorel-Moussel",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.83391000",
+      "longitude": "1.36699000"
+   },
+   {
+      "name": "Sorigny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.24329000",
+      "longitude": "0.69520000"
+   },
+   {
+      "name": "Souesmes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.45638000",
+      "longitude": "2.17495000"
+   },
+   {
+      "name": "Sours",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.41043000",
+      "longitude": "1.59889000"
+   },
+   {
+      "name": "Sully-sur-Loire",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.76372000",
+      "longitude": "2.37238000"
+   },
+   {
+      "name": "Suèvres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.66655000",
+      "longitude": "1.46153000"
+   },
+   {
+      "name": "Tauxigny",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.21337000",
+      "longitude": "0.83479000"
+   },
+   {
+      "name": "Tavers",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.75921000",
+      "longitude": "1.61267000"
+   },
+   {
+      "name": "Theillay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.31429000",
+      "longitude": "2.04028000"
+   },
+   {
+      "name": "Thilouze",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.22415000",
+      "longitude": "0.57963000"
+   },
+   {
+      "name": "Thiron Gardais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.31667000",
+      "longitude": "0.98333000"
+   },
+   {
+      "name": "Thésée",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.32345000",
+      "longitude": "1.30882000"
+   },
+   {
+      "name": "Tigy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.79365000",
+      "longitude": "2.19767000"
+   },
+   {
+      "name": "Tournon-Saint-Martin",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.73423000",
+      "longitude": "0.95514000"
+   },
+   {
+      "name": "Tours",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.39484000",
+      "longitude": "0.70398000"
+   },
+   {
+      "name": "Toury",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.19397000",
+      "longitude": "1.93484000"
+   },
+   {
+      "name": "Traînou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.97353000",
+      "longitude": "2.10399000"
+   },
+   {
+      "name": "Triguères",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93975000",
+      "longitude": "2.98570000"
+   },
+   {
+      "name": "Trouy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.01153000",
+      "longitude": "2.36018000"
+   },
+   {
+      "name": "Truyes",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.27299000",
+      "longitude": "0.85179000"
+   },
+   {
+      "name": "Tréon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.67709000",
+      "longitude": "1.32668000"
+   },
+   {
+      "name": "Unverre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.19829000",
+      "longitude": "1.09207000"
+   },
+   {
+      "name": "Valençay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.16207000",
+      "longitude": "1.56852000"
+   },
+   {
+      "name": "Vasselay",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.15686000",
+      "longitude": "2.38963000"
+   },
+   {
+      "name": "Vatan",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.07447000",
+      "longitude": "1.81010000"
+   },
+   {
+      "name": "Veigné",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.28556000",
+      "longitude": "0.74079000"
+   },
+   {
+      "name": "Vendôme",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.79292000",
+      "longitude": "1.06556000"
+   },
+   {
+      "name": "Vendœuvres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.80000000",
+      "longitude": "1.35000000"
+   },
+   {
+      "name": "Vennecy",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.95465000",
+      "longitude": "2.05459000"
+   },
+   {
+      "name": "Vernou-sur-Brenne",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41936000",
+      "longitude": "0.84757000"
+   },
+   {
+      "name": "Vernouillet",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.72090000",
+      "longitude": "1.36951000"
+   },
+   {
+      "name": "Vert-en-Drouais",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.76029000",
+      "longitude": "1.29460000"
+   },
+   {
+      "name": "Vienne-en-Val",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.80036000",
+      "longitude": "2.13460000"
+   },
+   {
+      "name": "Vierzon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.22186000",
+      "longitude": "2.06840000"
+   },
+   {
+      "name": "Vignoux-sur-Barangeon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.20068000",
+      "longitude": "2.17258000"
+   },
+   {
+      "name": "Villandry",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.34019000",
+      "longitude": "0.51050000"
+   },
+   {
+      "name": "Villebarou",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.62344000",
+      "longitude": "1.32252000"
+   },
+   {
+      "name": "Villedieu-sur-Indre",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.84598000",
+      "longitude": "1.53975000"
+   },
+   {
+      "name": "Villedômer",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.54651000",
+      "longitude": "0.88775000"
+   },
+   {
+      "name": "Villefranche-sur-Cher",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.30000000",
+      "longitude": "1.76667000"
+   },
+   {
+      "name": "Villemandeur",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.98701000",
+      "longitude": "2.71802000"
+   },
+   {
+      "name": "Villemeux-sur-Eure",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.67259000",
+      "longitude": "1.46470000"
+   },
+   {
+      "name": "Villiers-le-Morhier",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.62018000",
+      "longitude": "1.56349000"
+   },
+   {
+      "name": "Villiers-sur-Loir",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.80507000",
+      "longitude": "0.99774000"
+   },
+   {
+      "name": "Vimory",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.94786000",
+      "longitude": "2.68701000"
+   },
+   {
+      "name": "Vineuil",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.58380000",
+      "longitude": "1.37601000"
+   },
+   {
+      "name": "Vitry-aux-Loges",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.93333000",
+      "longitude": "2.26667000"
+   },
+   {
+      "name": "Vouvray",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.41087000",
+      "longitude": "0.79892000"
+   },
+   {
+      "name": "Vouzon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.64515000",
+      "longitude": "2.05609000"
+   },
+   {
+      "name": "Voves",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.27138000",
+      "longitude": "1.62583000"
+   },
+   {
+      "name": "Véretz",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.35706000",
+      "longitude": "0.80575000"
+   },
+   {
+      "name": "Yzeures-sur-Creuse",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.78609000",
+      "longitude": "0.87166000"
+   },
+   {
+      "name": "Yèvres",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.21078000",
+      "longitude": "1.18717000"
+   },
+   {
+      "name": "Écueillé",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.08462000",
+      "longitude": "1.34668000"
+   },
+   {
+      "name": "Éguzon-Chantôme",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "46.45000000",
+      "longitude": "1.58333000"
+   },
+   {
+      "name": "Épernon",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "48.61031000",
+      "longitude": "1.67218000"
+   },
+   {
+      "name": "Épieds-en-Beauce",
+      "countryCode": "FR",
+      "stateCode": "CVL",
+      "latitude": "47.95066000",
+      "longitude": "1.61732000"
+   }
+]

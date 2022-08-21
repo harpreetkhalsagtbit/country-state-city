@@ -1,0 +1,832 @@
+[
+   {
+      "name": "Aarberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Aarwangen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Adelboden",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Aeschi b. Spiez",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Arch",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Attiswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Beatenberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bellmund",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Belp",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bern",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bern-Mittelland District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Biel/Bienne",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Biel/Bienne District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Biglen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Blumenstein",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bolligen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Boltigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bowil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Brienz",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Brügg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Buchholterberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Burgdorf",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Burgistein",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bäriswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bätterkinden",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bévilard",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Bönigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Corgémont",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Court",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Courtelary",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Diemtigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Därligen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Dürrenroth",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Eggiwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Emmental District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Eriswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Erlach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Erlenbach im Simmental",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Ersigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Evilard",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Ferenbalm",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Fraubrunnen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Frauenkappelen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Frutigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Frutigen-Niedersimmental District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Grindelwald",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Grossaffoltern",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Gstaad",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Guggisberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Heimberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Heimiswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Hermiswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Herzogenbuchsee",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Hilterfingen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Hindelbank",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Huttwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Ins",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Interlaken",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Interlaken-Oberhasli District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Jegenstorf",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Jura bernois",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kallnach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kandersteg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kappelen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kehrsatz",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kirchberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Kirchlindach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Konolfingen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Koppigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Krauchthal",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Köniz",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "La Neuveville",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Langenthal",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Langnau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Laupen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lauperswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lauterbrunnen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lengnau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lenk",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Leuzigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Linden",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lotzwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lyss",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lyssach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Lützelflüh",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Madiswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Malleray",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Matten",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Meinisberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Meiringen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Melchnau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Moutier",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Muri",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Mühleberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Mühlethurnen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Münchenbuchsee",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Münchenwiler",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Münsingen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Müntschemier",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Nidau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Niederbipp",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Oberaargau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Oberbipp",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Oberburg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Oberdiessbach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Obersimmental-Saanen District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Orpund",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Orvin",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Pieterlen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Péry",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Radelfingen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Reconvilier",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Riggisberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Ringgenberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Roggwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Rohrbach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Rubigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Rüderswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Rüeggisberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Rüschegg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Saanen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Saint-Imier",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Sankt Stephan",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Schüpfen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Seeberg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Seedorf",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Seeland District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Seftigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Signau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Sigriswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Spiez",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Steffisburg",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Stettlen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Sumiswald",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Tavannes",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Thierachern",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Thun",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Thun District",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Toffen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Trachselwald",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Tramelan",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Trub",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Trubschachen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Täuffelen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Uetendorf",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Unterseen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Urtenen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Uttigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Utzenstorf",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Vechigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Walkringen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wangen an der Aare",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wattenwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wichtrach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wiedlisbach",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wilderswil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wimmis",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wohlen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Worb",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Worben",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wynau",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wynigen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Wyssachen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Zollikofen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Zweisimmen",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Zäziwil",
+      "countryCode": "CH",
+      "stateCode": "BE"
+   }
+]

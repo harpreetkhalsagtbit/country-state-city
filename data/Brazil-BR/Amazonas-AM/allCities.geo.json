@@ -1,0 +1,436 @@
+[
+   {
+      "name": "Alvarães",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.22083000",
+      "longitude": "-64.80417000"
+   },
+   {
+      "name": "Amaturá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.38926000",
+      "longitude": "-68.22698000"
+   },
+   {
+      "name": "Anamã",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.47990000",
+      "longitude": "-61.71689000"
+   },
+   {
+      "name": "Anori",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.77278000",
+      "longitude": "-61.64417000"
+   },
+   {
+      "name": "Apuí",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-7.78922000",
+      "longitude": "-59.34104000"
+   },
+   {
+      "name": "Atalaia do Norte",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-5.66448000",
+      "longitude": "-71.82776000"
+   },
+   {
+      "name": "Autazes",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.57972000",
+      "longitude": "-59.13056000"
+   },
+   {
+      "name": "Barcelos",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-0.97357000",
+      "longitude": "-62.92690000"
+   },
+   {
+      "name": "Barreirinha",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.79333000",
+      "longitude": "-57.07000000"
+   },
+   {
+      "name": "Benjamin Constant",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-4.37555000",
+      "longitude": "-70.03179000"
+   },
+   {
+      "name": "Beruri",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-4.34371000",
+      "longitude": "-61.75126000"
+   },
+   {
+      "name": "Boa Vista do Ramos",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.15779000",
+      "longitude": "-57.90517000"
+   },
+   {
+      "name": "Boca do Acre",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-8.75222000",
+      "longitude": "-67.39778000"
+   },
+   {
+      "name": "Borba",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-4.39143000",
+      "longitude": "-59.58864000"
+   },
+   {
+      "name": "Caapiranga",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.12981000",
+      "longitude": "-61.74406000"
+   },
+   {
+      "name": "Canutama",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-6.53389000",
+      "longitude": "-64.38306000"
+   },
+   {
+      "name": "Carauari",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-4.88278000",
+      "longitude": "-66.89583000"
+   },
+   {
+      "name": "Careiro",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.78706000",
+      "longitude": "-60.34790000"
+   },
+   {
+      "name": "Careiro da Várzea",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.19695000",
+      "longitude": "-59.82674000"
+   },
+   {
+      "name": "Coari",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-4.08500000",
+      "longitude": "-63.14139000"
+   },
+   {
+      "name": "Codajás",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.83667000",
+      "longitude": "-62.05694000"
+   },
+   {
+      "name": "Eirunepé",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-6.66028000",
+      "longitude": "-69.87361000"
+   },
+   {
+      "name": "Envira",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-7.30000000",
+      "longitude": "-70.21667000"
+   },
+   {
+      "name": "Fonte Boa",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.51389000",
+      "longitude": "-66.09167000"
+   },
+   {
+      "name": "Guajará",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.96667000",
+      "longitude": "-57.66667000"
+   },
+   {
+      "name": "Humaitá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-7.51651000",
+      "longitude": "-63.03105000"
+   },
+   {
+      "name": "Ipixuna",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-7.11910000",
+      "longitude": "-71.37590000"
+   },
+   {
+      "name": "Iranduba",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.28472000",
+      "longitude": "-60.18611000"
+   },
+   {
+      "name": "Itacoatiara",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.13435000",
+      "longitude": "-58.43353000"
+   },
+   {
+      "name": "Itamarati",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-6.76472000",
+      "longitude": "-68.03926000"
+   },
+   {
+      "name": "Itapiranga",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.51600000",
+      "longitude": "-58.55730000"
+   },
+   {
+      "name": "Japurá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-1.55349000",
+      "longitude": "-68.24526000"
+   },
+   {
+      "name": "Juruá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.27526000",
+      "longitude": "-66.24211000"
+   },
+   {
+      "name": "Jutaí",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-5.18333000",
+      "longitude": "-68.90000000"
+   },
+   {
+      "name": "Lábrea",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-8.18437000",
+      "longitude": "-66.07500000"
+   },
+   {
+      "name": "Manacapuru",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.29972000",
+      "longitude": "-60.62056000"
+   },
+   {
+      "name": "Manaquiri",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.31667000",
+      "longitude": "-60.35000000"
+   },
+   {
+      "name": "Manaus",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.04361000",
+      "longitude": "-60.01282000"
+   },
+   {
+      "name": "Manicoré",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-5.80917000",
+      "longitude": "-61.30028000"
+   },
+   {
+      "name": "Maraã",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-1.82403000",
+      "longitude": "-65.35883000"
+   },
+   {
+      "name": "Maués",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.38361000",
+      "longitude": "-57.71861000"
+   },
+   {
+      "name": "Nhamundá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.18611000",
+      "longitude": "-56.71306000"
+   },
+   {
+      "name": "Nova Olinda do Norte",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.89174000",
+      "longitude": "-59.09542000"
+   },
+   {
+      "name": "Novo Airão",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-1.98386000",
+      "longitude": "-61.78513000"
+   },
+   {
+      "name": "Novo Aripuanã",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-5.12056000",
+      "longitude": "-60.37972000"
+   },
+   {
+      "name": "Parintins",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.62833000",
+      "longitude": "-56.73583000"
+   },
+   {
+      "name": "Pauini",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-7.71361000",
+      "longitude": "-66.97639000"
+   },
+   {
+      "name": "Presidente Figueiredo",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-1.28344000",
+      "longitude": "-59.98317000"
+   },
+   {
+      "name": "Rio Preto da Eva",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.69795000",
+      "longitude": "-59.70172000"
+   },
+   {
+      "name": "Santa Isabel do Rio Negro",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-0.41389000",
+      "longitude": "-65.01917000"
+   },
+   {
+      "name": "Santo Antônio do Içá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.10222000",
+      "longitude": "-67.93972000"
+   },
+   {
+      "name": "Silves",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.76846000",
+      "longitude": "-58.62751000"
+   },
+   {
+      "name": "São Gabriel da Cachoeira",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-0.11810000",
+      "longitude": "-67.08527000"
+   },
+   {
+      "name": "São Paulo de Olivença",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.37833000",
+      "longitude": "-68.87250000"
+   },
+   {
+      "name": "São Sebastião do Uatumã",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-1.93197000",
+      "longitude": "-58.74216000"
+   },
+   {
+      "name": "Tabatinga",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.96298000",
+      "longitude": "-69.60265000"
+   },
+   {
+      "name": "Tapauá",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-6.21423000",
+      "longitude": "-65.69985000"
+   },
+   {
+      "name": "Tefé",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.36841000",
+      "longitude": "-64.72054000"
+   },
+   {
+      "name": "Tonantins",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.87306000",
+      "longitude": "-67.80222000"
+   },
+   {
+      "name": "Uarini",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.14736000",
+      "longitude": "-65.42036000"
+   },
+   {
+      "name": "Urucará",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-2.53639000",
+      "longitude": "-57.76000000"
+   },
+   {
+      "name": "Urucurituba",
+      "countryCode": "BR",
+      "stateCode": "AM",
+      "latitude": "-3.12845000",
+      "longitude": "-58.15856000"
+   }
+]

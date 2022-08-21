@@ -1,0 +1,602 @@
+[
+   {
+      "name": "Ahoghill",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Annahilt",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Annalong",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Antrim",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Antrim and Newtownabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ardglass",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ards and North Down",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Armagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Armagh City Banbridge and Craigavon",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballinamallard",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballintoy Harbour",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballycastle",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballyclare",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballygowan",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballykelly",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballymena",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballymoney",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballynahinch",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballypatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Ballywalter",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Banbridge",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Bangor",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Belfast",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Bellaghy",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Broughshane",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Bushmills",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Carnlough",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Carnmoney",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Carrickfergus",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Carryduff",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Castledawson",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Castlederg",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Castlereagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Castlerock",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Castlewellan",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Causeway Coast and Glens",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "City of Belfast",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Coalisland",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Coleraine",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Comber",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Connor",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Cookstown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Craigavon",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Crossgar",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Crossmaglen",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Crumlin",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Cullybackey",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Culmore",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Cushendall",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Derry",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Derry City and Strabane",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Doagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Donaghadee",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Downpatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Draperstown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dromore",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dundonald",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dundrum",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dungannon",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dungiven",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Dunloy",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Eglinton",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Enniskillen",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Fermanagh and Omagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Fintona",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Fivemiletown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Garvagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Gilford",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Glenariff",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Glenavy",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Greenisland",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Greyabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Hillsborough",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Holywood",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Irvinestown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Jordanstown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Keady",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Kilkeel",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Killyleagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Kilrea",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Kircubbin",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Larne",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Limavady",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Lisburn",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Lisburn and Castlereagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Lisnaskea",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Londonderry County Borough",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Maghera",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Magherafelt",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Magheralin",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Mid Ulster",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Mid and East Antrim",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Millisle",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Moira",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Moneymore",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Moy",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newcastle",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newry",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newry Mourne and Down",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newtownabbey",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newtownards",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Newtownstewart",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Omagh",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portadown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portaferry",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portavogie",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portglenone",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portrush",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Portstewart",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Randalstown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Rathfriland",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Rostrevor",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Saintfield",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Sion Mills",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Strabane",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Tandragee",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Templepatrick",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Waringstown",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Warrenpoint",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   },
+   {
+      "name": "Whitehead",
+      "countryCode": "GB",
+      "stateCode": "NYK"
+   }
+]

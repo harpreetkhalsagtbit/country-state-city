@@ -1,0 +1,520 @@
+[
+   {
+      "name": "Alvear",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.09683000",
+      "longitude": "-56.55043000"
+   },
+   {
+      "name": "Berón de Astrada",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.55067000",
+      "longitude": "-57.53460000"
+   },
+   {
+      "name": "Bonpland",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.81708000",
+      "longitude": "-57.42974000"
+   },
+   {
+      "name": "Chavarría",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.95489000",
+      "longitude": "-58.57277000"
+   },
+   {
+      "name": "Concepción",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.39175000",
+      "longitude": "-57.88777000"
+   },
+   {
+      "name": "Corrientes",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.46784000",
+      "longitude": "-58.83440000"
+   },
+   {
+      "name": "Cruz de los Milagros",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.83646000",
+      "longitude": "-59.00476000"
+   },
+   {
+      "name": "Curuzú Cuatiá",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.79171000",
+      "longitude": "-58.05460000"
+   },
+   {
+      "name": "Departamento de Bella Vista",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.50000000",
+      "longitude": "-58.83333000"
+   },
+   {
+      "name": "Departamento de Berón de Astrada",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.50000000",
+      "longitude": "-57.66667000"
+   },
+   {
+      "name": "Departamento de Capital",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.50000000",
+      "longitude": "-58.75000000"
+   },
+   {
+      "name": "Departamento de Concepción",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.33333000",
+      "longitude": "-58.00000000"
+   },
+   {
+      "name": "Departamento de Curuzú Cuatiá",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.50000000",
+      "longitude": "-58.50000000"
+   },
+   {
+      "name": "Departamento de Empedrado",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.83333000",
+      "longitude": "-58.66667000"
+   },
+   {
+      "name": "Departamento de Esquina",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.00000000",
+      "longitude": "-59.33333000"
+   },
+   {
+      "name": "Departamento de General Alvear",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.83333000",
+      "longitude": "-56.50000000"
+   },
+   {
+      "name": "Departamento de General Paz",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.75000000",
+      "longitude": "-57.83333000"
+   },
+   {
+      "name": "Departamento de Goya",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.50000000",
+      "longitude": "-59.50000000"
+   },
+   {
+      "name": "Departamento de Itatí",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.33333000",
+      "longitude": "-58.00000000"
+   },
+   {
+      "name": "Departamento de Ituzaingó",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.90085000",
+      "longitude": "-56.86604000"
+   },
+   {
+      "name": "Departamento de Lavalle",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.00000000",
+      "longitude": "-58.91667000"
+   },
+   {
+      "name": "Departamento de Mburucuyá",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.00000000",
+      "longitude": "-58.25000000"
+   },
+   {
+      "name": "Departamento de Mercedes",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.00000000",
+      "longitude": "-57.83333000"
+   },
+   {
+      "name": "Departamento de Monte Caseros",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.25000000",
+      "longitude": "-57.83333000"
+   },
+   {
+      "name": "Departamento de Paso de los Libres",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.66667000",
+      "longitude": "-57.25000000"
+   },
+   {
+      "name": "Departamento de Saladas",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.25000000",
+      "longitude": "-58.75000000"
+   },
+   {
+      "name": "Departamento de San Cosme",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.33333000",
+      "longitude": "-58.50000000"
+   },
+   {
+      "name": "Departamento de San Luis del Palmar",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.50000000",
+      "longitude": "-58.25000000"
+   },
+   {
+      "name": "Departamento de San Martín",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.83333000",
+      "longitude": "-56.91667000"
+   },
+   {
+      "name": "Departamento de San Miguel",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.91667000",
+      "longitude": "-57.50000000"
+   },
+   {
+      "name": "Departamento de San Roque",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.66667000",
+      "longitude": "-58.75000000"
+   },
+   {
+      "name": "Departamento de Santo Tomé",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.25000000",
+      "longitude": "-56.25000000"
+   },
+   {
+      "name": "Departamento de Sauce",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.00000000",
+      "longitude": "-58.66667000"
+   },
+   {
+      "name": "Empedrado",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.95178000",
+      "longitude": "-58.80584000"
+   },
+   {
+      "name": "Esquina",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.01476000",
+      "longitude": "-59.52890000"
+   },
+   {
+      "name": "Felipe Yofré",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.10226000",
+      "longitude": "-58.33772000"
+   },
+   {
+      "name": "Garruchos",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.17208000",
+      "longitude": "-55.65406000"
+   },
+   {
+      "name": "Gobernador Juan E. Martínez",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.91161000",
+      "longitude": "-58.93594000"
+   },
+   {
+      "name": "Gobernador Virasora",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.05000000",
+      "longitude": "-56.03333000"
+   },
+   {
+      "name": "Goya",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.13995000",
+      "longitude": "-59.26343000"
+   },
+   {
+      "name": "Herlitzka",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.56516000",
+      "longitude": "-58.25557000"
+   },
+   {
+      "name": "Itatí",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.27043000",
+      "longitude": "-58.24458000"
+   },
+   {
+      "name": "Ituzaingó",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.58162000",
+      "longitude": "-56.68231000"
+   },
+   {
+      "name": "Itá Ibaté",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.42573000",
+      "longitude": "-57.33758000"
+   },
+   {
+      "name": "Juan Pujol",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.41873000",
+      "longitude": "-57.85612000"
+   },
+   {
+      "name": "La Cruz",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.17443000",
+      "longitude": "-56.64326000"
+   },
+   {
+      "name": "Libertad",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.04300000",
+      "longitude": "-57.82020000"
+   },
+   {
+      "name": "Lomas de Vallejos",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.73501000",
+      "longitude": "-57.91850000"
+   },
+   {
+      "name": "Loreto",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.76834000",
+      "longitude": "-57.27531000"
+   },
+   {
+      "name": "Mariano I. Loza",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.37667000",
+      "longitude": "-58.19436000"
+   },
+   {
+      "name": "Mburucuyá",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.04532000",
+      "longitude": "-58.22835000"
+   },
+   {
+      "name": "Mercedes",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.18416000",
+      "longitude": "-58.07519000"
+   },
+   {
+      "name": "Mocoretá",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.61891000",
+      "longitude": "-57.96344000"
+   },
+   {
+      "name": "Monte Caseros",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.25359000",
+      "longitude": "-57.63626000"
+   },
+   {
+      "name": "Nuestra Señora del Rosario de Caa Catí",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.75072000",
+      "longitude": "-57.62073000"
+   },
+   {
+      "name": "Nueve de Julio",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.84051000",
+      "longitude": "-58.82650000"
+   },
+   {
+      "name": "Palmar Grande",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.94195000",
+      "longitude": "-57.90057000"
+   },
+   {
+      "name": "Paso de la Patria",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.31676000",
+      "longitude": "-58.57197000"
+   },
+   {
+      "name": "Paso de los Libres",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.71251000",
+      "longitude": "-57.08771000"
+   },
+   {
+      "name": "Pedro R. Fernández",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.75097000",
+      "longitude": "-58.65583000"
+   },
+   {
+      "name": "Perugorría",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.34132000",
+      "longitude": "-58.61059000"
+   },
+   {
+      "name": "Pueblo Libertador",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-30.22087000",
+      "longitude": "-59.38981000"
+   },
+   {
+      "name": "Riachuelo",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.58191000",
+      "longitude": "-58.74497000"
+   },
+   {
+      "name": "Saladas",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.25384000",
+      "longitude": "-58.62591000"
+   },
+   {
+      "name": "San Carlos",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.74586000",
+      "longitude": "-55.89731000"
+   },
+   {
+      "name": "San Cosme",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.37123000",
+      "longitude": "-58.51214000"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.13306000",
+      "longitude": "-58.76733000"
+   },
+   {
+      "name": "San Luis del Palmar",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.50790000",
+      "longitude": "-58.55454000"
+   },
+   {
+      "name": "San Miguel",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-27.99585000",
+      "longitude": "-57.58964000"
+   },
+   {
+      "name": "Santa Lucía",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.98746000",
+      "longitude": "-59.10287000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.26318000",
+      "longitude": "-58.11891000"
+   },
+   {
+      "name": "Santo Tomé",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-28.54939000",
+      "longitude": "-56.04077000"
+   },
+   {
+      "name": "Yapeyú",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.46914000",
+      "longitude": "-56.81841000"
+   },
+   {
+      "name": "Yataity Calle",
+      "countryCode": "AR",
+      "stateCode": "W",
+      "latitude": "-29.01913000",
+      "longitude": "-58.90846000"
+   }
+]

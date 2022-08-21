@@ -1,0 +1,717 @@
+[
+   {
+      "name": "Aranđelovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Arilje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Badovinci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bajina Bašta",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Banovo Polje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Barič",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Belgrade",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Belotić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bečmen",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Biljača",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bogatić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bogosavac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Boljevci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bor",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Brdarica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Bukor",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Crna Bara",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Dobanovci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Dobrić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Donji Dobrić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Donji Milanovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Draginje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Drenovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Dublje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Duboka",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Glušci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Golubac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Gornja Bukovica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Gornji Milanovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Grabovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jablanica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jadranska Lešnica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jagodina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jarebice",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jelenča",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Jevremovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Joševa",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kamenica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Klenje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Knjazevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kolubara",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kozjak",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kragujevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kraljevo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Krivaja",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Krupanj",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Kruševac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lagja e Poshtme",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lapovo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lazarevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Leskovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lešnica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lipnički Šor",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lipolist",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ljig",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ljubovija",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Lugavčina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Majdanpek",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Majur",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Mala Moštanica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Mali Zvornik",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Mačva",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Metković",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Miratovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Morava",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Negotin",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Niš",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Nišava",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Novi Pazar",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Novo Selo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Obrenovac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Osečina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Osječenik",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ostružnica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ovča",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Paraćin",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Petkovica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Pirot",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Pocerski Pričinović",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Podunavlje District",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Pomoravlje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Požarevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Priboj",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Prijepolje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Prislonica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Prnjavor",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Prokuplje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Pčinja",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Radenka",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Radovnica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Rajince",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Rasina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Raška",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ribari",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Rumska",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Rušanj",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Salaš Crnobarski",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Samoljica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sinošević",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sjenica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Smederevo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Smederevska Palanka",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sokolovica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sokolovo Brdo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sremčica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Stepojevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Stubline",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Sumulicë",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Surčin",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Tabanović",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Toplica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Trstenik",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Tršić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Turija",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Tutin",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ugrinovci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Umka",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Uzveće",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Užice",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Valjevo",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Varna",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Velika Moštanica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Vladimirci",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Vranić",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Vranje",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Vrnjačka Banja",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Zaječar",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Zemun",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Zlatibor",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Zminjak",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Zvečka",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ðurići",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ćićevac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ćuprija",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Čajetina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Čačak",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Čokešina",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Šabac",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ševarice",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Ševica",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Štitar",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Šumadija",
+      "countryCode": "RS",
+      "stateCode": "02"
+   },
+   {
+      "name": "Žujince",
+      "countryCode": "RS",
+      "stateCode": "02"
+   }
+]

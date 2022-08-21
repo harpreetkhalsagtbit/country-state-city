@@ -1,0 +1,604 @@
+[
+   {
+      "name": "Abcoude",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.27250000",
+      "longitude": "4.96944000"
+   },
+   {
+      "name": "Amerongen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.00250000",
+      "longitude": "5.45972000"
+   },
+   {
+      "name": "Amersfoort",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.15500000",
+      "longitude": "5.38750000"
+   },
+   {
+      "name": "Austerlitz",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08000000",
+      "longitude": "5.31528000"
+   },
+   {
+      "name": "Baambrugge",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.24583000",
+      "longitude": "4.98889000"
+   },
+   {
+      "name": "Baarn",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.21167000",
+      "longitude": "5.28750000"
+   },
+   {
+      "name": "Bosch en Duin",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.11667000",
+      "longitude": "5.24167000"
+   },
+   {
+      "name": "Breukelen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.17417000",
+      "longitude": "5.00139000"
+   },
+   {
+      "name": "Bunnik",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.06667000",
+      "longitude": "5.19861000"
+   },
+   {
+      "name": "Bunschoten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.24304000",
+      "longitude": "5.37884000"
+   },
+   {
+      "name": "Cothen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.99667000",
+      "longitude": "5.30833000"
+   },
+   {
+      "name": "De Bilt",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.11000000",
+      "longitude": "5.18056000"
+   },
+   {
+      "name": "De Hagen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.99381000",
+      "longitude": "5.10263000"
+   },
+   {
+      "name": "De Uithof",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08526000",
+      "longitude": "5.17456000"
+   },
+   {
+      "name": "Doorn",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.03343000",
+      "longitude": "5.34571000"
+   },
+   {
+      "name": "Driebergen-Rijsenburg",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.05333000",
+      "longitude": "5.28056000"
+   },
+   {
+      "name": "Gemeente Amersfoort",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.17375000",
+      "longitude": "5.38954000"
+   },
+   {
+      "name": "Gemeente Baarn",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.20602000",
+      "longitude": "5.27144000"
+   },
+   {
+      "name": "Gemeente Bunnik",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.04228000",
+      "longitude": "5.21664000"
+   },
+   {
+      "name": "Gemeente Bunschoten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.24249000",
+      "longitude": "5.35837000"
+   },
+   {
+      "name": "Gemeente De Bilt",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.14137000",
+      "longitude": "5.16828000"
+   },
+   {
+      "name": "Gemeente De Ronde Venen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.21515000",
+      "longitude": "4.90123000"
+   },
+   {
+      "name": "Gemeente Eemnes",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.25253000",
+      "longitude": "5.28391000"
+   },
+   {
+      "name": "Gemeente Houten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02683000",
+      "longitude": "5.16941000"
+   },
+   {
+      "name": "Gemeente IJsselstein",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02912000",
+      "longitude": "5.02868000"
+   },
+   {
+      "name": "Gemeente Leusden",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.12418000",
+      "longitude": "5.41245000"
+   },
+   {
+      "name": "Gemeente Lopik",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.98991000",
+      "longitude": "4.94851000"
+   },
+   {
+      "name": "Gemeente Montfoort",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.04767000",
+      "longitude": "4.94844000"
+   },
+   {
+      "name": "Gemeente Nieuwegein",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02843000",
+      "longitude": "5.09539000"
+   },
+   {
+      "name": "Gemeente Oudewater",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02840000",
+      "longitude": "4.86243000"
+   },
+   {
+      "name": "Gemeente Renswoude",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.07294000",
+      "longitude": "5.53352000"
+   },
+   {
+      "name": "Gemeente Rhenen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.96151000",
+      "longitude": "5.57058000"
+   },
+   {
+      "name": "Gemeente Soest",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.15636000",
+      "longitude": "5.29854000"
+   },
+   {
+      "name": "Gemeente Utrecht",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.09675000",
+      "longitude": "5.03708000"
+   },
+   {
+      "name": "Gemeente Utrechtse Heuvelrug",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.03486000",
+      "longitude": "5.35738000"
+   },
+   {
+      "name": "Gemeente Veenendaal",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02459000",
+      "longitude": "5.55562000"
+   },
+   {
+      "name": "Gemeente Wijk bij Duurstede",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.97452000",
+      "longitude": "5.33661000"
+   },
+   {
+      "name": "Gemeente Woerden",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.10675000",
+      "longitude": "4.90066000"
+   },
+   {
+      "name": "Gemeente Woudenberg",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08055000",
+      "longitude": "5.39810000"
+   },
+   {
+      "name": "Gemeente Zeist",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08847000",
+      "longitude": "5.23275000"
+   },
+   {
+      "name": "Groenekan",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.12333000",
+      "longitude": "5.15278000"
+   },
+   {
+      "name": "Hollandsche Rading",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.17500000",
+      "longitude": "5.17778000"
+   },
+   {
+      "name": "Houten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02833000",
+      "longitude": "5.16806000"
+   },
+   {
+      "name": "IJsselstein",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02000000",
+      "longitude": "5.04306000"
+   },
+   {
+      "name": "Kedichem",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.86000000",
+      "longitude": "5.05000000"
+   },
+   {
+      "name": "Kerckebosch",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.07844000",
+      "longitude": "5.26584000"
+   },
+   {
+      "name": "Langenoord",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.18768000",
+      "longitude": "5.38034000"
+   },
+   {
+      "name": "Leerdam",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.89333000",
+      "longitude": "5.09167000"
+   },
+   {
+      "name": "Leersum",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.01167000",
+      "longitude": "5.42778000"
+   },
+   {
+      "name": "Leusden",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.13250000",
+      "longitude": "5.43194000"
+   },
+   {
+      "name": "Linschoten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.06250000",
+      "longitude": "4.91528000"
+   },
+   {
+      "name": "Lopik",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.97250000",
+      "longitude": "4.94861000"
+   },
+   {
+      "name": "Lunetten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.06178000",
+      "longitude": "5.13474000"
+   },
+   {
+      "name": "Maarn",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.06417000",
+      "longitude": "5.37083000"
+   },
+   {
+      "name": "Maarssen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.13917000",
+      "longitude": "5.04167000"
+   },
+   {
+      "name": "Maartensdijk",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.15500000",
+      "longitude": "5.17500000"
+   },
+   {
+      "name": "Mijdrecht",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.20667000",
+      "longitude": "4.86250000"
+   },
+   {
+      "name": "Montfoort",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.04583000",
+      "longitude": "4.95278000"
+   },
+   {
+      "name": "Nieuwegein",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02917000",
+      "longitude": "5.08056000"
+   },
+   {
+      "name": "Nijenheim",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08689000",
+      "longitude": "5.21852000"
+   },
+   {
+      "name": "Odijk",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.05250000",
+      "longitude": "5.23611000"
+   },
+   {
+      "name": "Oog in Al",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08636000",
+      "longitude": "5.08470000"
+   },
+   {
+      "name": "Oudewater",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02500000",
+      "longitude": "4.86806000"
+   },
+   {
+      "name": "Overberg",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.04000000",
+      "longitude": "5.49444000"
+   },
+   {
+      "name": "Randenbroek",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.14863000",
+      "longitude": "5.40120000"
+   },
+   {
+      "name": "Renswoude",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.07333000",
+      "longitude": "5.54028000"
+   },
+   {
+      "name": "Rhenen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.95917000",
+      "longitude": "5.56806000"
+   },
+   {
+      "name": "Schoonrewoerd",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.92083000",
+      "longitude": "5.11667000"
+   },
+   {
+      "name": "Soest",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.17333000",
+      "longitude": "5.29167000"
+   },
+   {
+      "name": "Soestdijk",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.19083000",
+      "longitude": "5.28472000"
+   },
+   {
+      "name": "Spakenburg",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.25000000",
+      "longitude": "5.36667000"
+   },
+   {
+      "name": "Spechtenkamp",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.13926000",
+      "longitude": "5.01758000"
+   },
+   {
+      "name": "Stichtse Vecht",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.17679000",
+      "longitude": "5.01259000"
+   },
+   {
+      "name": "Utrecht",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.09083000",
+      "longitude": "5.12222000"
+   },
+   {
+      "name": "Veenendaal",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02863000",
+      "longitude": "5.55891000"
+   },
+   {
+      "name": "Veldhuizen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.07537000",
+      "longitude": "5.01234000"
+   },
+   {
+      "name": "Vianen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.99250000",
+      "longitude": "5.09167000"
+   },
+   {
+      "name": "Vinkeveen",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.21507000",
+      "longitude": "4.93372000"
+   },
+   {
+      "name": "Vleuten",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.10583000",
+      "longitude": "5.01528000"
+   },
+   {
+      "name": "Vreeswijk",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.01088000",
+      "longitude": "5.09285000"
+   },
+   {
+      "name": "Werkhoven",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.02500000",
+      "longitude": "5.24444000"
+   },
+   {
+      "name": "Wijk bij Duurstede",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "51.97417000",
+      "longitude": "5.34167000"
+   },
+   {
+      "name": "Wilnis",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.19667000",
+      "longitude": "4.89722000"
+   },
+   {
+      "name": "Woerden",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08500000",
+      "longitude": "4.88333000"
+   },
+   {
+      "name": "Woudenberg",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.08083000",
+      "longitude": "5.41667000"
+   },
+   {
+      "name": "Zeist",
+      "countryCode": "NL",
+      "stateCode": "UT",
+      "latitude": "52.09000000",
+      "longitude": "5.23333000"
+   }
+]

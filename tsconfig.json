@@ -20,6 +20,7 @@
     "./src/**/*"
   ],
   "exclude": [
-    "src/__test__"
+    "src/__test__",
+    "src/scripts"
   ]
 }

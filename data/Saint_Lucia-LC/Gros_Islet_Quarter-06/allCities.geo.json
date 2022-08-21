@@ -1,0 +1,576 @@
+[
+   {
+      "name": "Beausejour",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07647000",
+      "longitude": "-60.93780000"
+   },
+   {
+      "name": "Beausejour/Fostin'S Development",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07445000",
+      "longitude": "-60.92929000"
+   },
+   {
+      "name": "Beausejour/Ndc",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07733000",
+      "longitude": "-60.92683000"
+   },
+   {
+      "name": "Bella Rosa",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07711000",
+      "longitude": "-60.94568000"
+   },
+   {
+      "name": "Belle Vue",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08470000",
+      "longitude": "-60.94342000"
+   },
+   {
+      "name": "Belle Vue Estate",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08840000",
+      "longitude": "-60.94613000"
+   },
+   {
+      "name": "Boguis",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.01548000",
+      "longitude": "-60.92089000"
+   },
+   {
+      "name": "Boguis/Desa Blond",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.01057000",
+      "longitude": "-60.92565000"
+   },
+   {
+      "name": "Bois D'Orange",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05803000",
+      "longitude": "-60.95992000"
+   },
+   {
+      "name": "Bois D'Ornange/Trouya",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06198000",
+      "longitude": "-60.96914000"
+   },
+   {
+      "name": "Bonneterre",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06994000",
+      "longitude": "-60.94146000"
+   },
+   {
+      "name": "Bonneterre Gardens",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06737000",
+      "longitude": "-60.93393000"
+   },
+   {
+      "name": "Cap Estate",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.09410000",
+      "longitude": "-60.93592000"
+   },
+   {
+      "name": "Cap Estate/Becune Point",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.09270000",
+      "longitude": "-60.95161000"
+   },
+   {
+      "name": "Cap Estate/Caribbean Park",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10019000",
+      "longitude": "-60.92446000"
+   },
+   {
+      "name": "Cap Estate/Golf Park",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.09998000",
+      "longitude": "-60.93705000"
+   },
+   {
+      "name": "Cap Estate/Lower Saline Point",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10515000",
+      "longitude": "-60.94310000"
+   },
+   {
+      "name": "Cap Estate/Mon Du Cap",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10554000",
+      "longitude": "-60.93758000"
+   },
+   {
+      "name": "Cap Estate/Ranch Site",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10437000",
+      "longitude": "-60.93360000"
+   },
+   {
+      "name": "Cap Estate/Saddlec Back",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10023000",
+      "longitude": "-60.94246000"
+   },
+   {
+      "name": "Cap Estate/Upper Saline Point",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.10740000",
+      "longitude": "-60.94487000"
+   },
+   {
+      "name": "Cas En Bas",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08328000",
+      "longitude": "-60.93209000"
+   },
+   {
+      "name": "Caye Manje'",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06629000",
+      "longitude": "-60.93560000"
+   },
+   {
+      "name": "Corinth",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04710000",
+      "longitude": "-60.96046000"
+   },
+   {
+      "name": "Corinth Estate",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04336000",
+      "longitude": "-60.95388000"
+   },
+   {
+      "name": "Corinth/La Bel Lair",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04469000",
+      "longitude": "-60.94484000"
+   },
+   {
+      "name": "Dauphin",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05647000",
+      "longitude": "-60.90188000"
+   },
+   {
+      "name": "Des Barras",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "13.99949000",
+      "longitude": "-60.90166000"
+   },
+   {
+      "name": "Des Barras/Cacolie",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.01687000",
+      "longitude": "-60.90097000"
+   },
+   {
+      "name": "Desrameaux",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03681000",
+      "longitude": "-60.92697000"
+   },
+   {
+      "name": "Garrand",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.00424000",
+      "longitude": "-60.93270000"
+   },
+   {
+      "name": "Grand Riviere",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03546000",
+      "longitude": "-60.95152000"
+   },
+   {
+      "name": "Grande Riviere/Assou Canal",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03975000",
+      "longitude": "-60.95121000"
+   },
+   {
+      "name": "Grande Riviere/Ingle Woods",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03091000",
+      "longitude": "-60.95592000"
+   },
+   {
+      "name": "Grande Riviere/Morne Serpent",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03509000",
+      "longitude": "-60.96060000"
+   },
+   {
+      "name": "Grande Riviere/Norbert",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04317000",
+      "longitude": "-60.94933000"
+   },
+   {
+      "name": "Grande Riviere/Piat",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03926000",
+      "longitude": "-60.94361000"
+   },
+   {
+      "name": "Grande Riviere/White Rock",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03618000",
+      "longitude": "-60.95556000"
+   },
+   {
+      "name": "Gros Islet",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06667000",
+      "longitude": "-60.95000000"
+   },
+   {
+      "name": "Gros Islet Town",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08080000",
+      "longitude": "-60.95312000"
+   },
+   {
+      "name": "Gros Islet/Edge Water",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07912000",
+      "longitude": "-60.94973000"
+   },
+   {
+      "name": "L'Hermitage",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06521000",
+      "longitude": "-60.93967000"
+   },
+   {
+      "name": "La Croix Chabourgh",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.01147000",
+      "longitude": "-60.94025000"
+   },
+   {
+      "name": "La Guerre",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02191000",
+      "longitude": "-60.92491000"
+   },
+   {
+      "name": "La Guerre/Chicken Back Street",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02387000",
+      "longitude": "-60.93108000"
+   },
+   {
+      "name": "Marisule",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04621000",
+      "longitude": "-60.97063000"
+   },
+   {
+      "name": "Marisule/Bon Air",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05062000",
+      "longitude": "-60.97124000"
+   },
+   {
+      "name": "Marisule/East Winds",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05407000",
+      "longitude": "-60.96849000"
+   },
+   {
+      "name": "Marisule/La Brellotte",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05710000",
+      "longitude": "-60.97183000"
+   },
+   {
+      "name": "Marisule/Top Of The World",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04385000",
+      "longitude": "-60.96885000"
+   },
+   {
+      "name": "Marquis Estate",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02960000",
+      "longitude": "-60.90732000"
+   },
+   {
+      "name": "Massade",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08292000",
+      "longitude": "-60.94946000"
+   },
+   {
+      "name": "Monchy",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05502000",
+      "longitude": "-60.92623000"
+   },
+   {
+      "name": "Monchy/Careffe",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05930000",
+      "longitude": "-60.95069000"
+   },
+   {
+      "name": "Monchy/Cletus Village",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05137000",
+      "longitude": "-60.92380000"
+   },
+   {
+      "name": "Monchy/La Borne",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04628000",
+      "longitude": "-60.91961000"
+   },
+   {
+      "name": "Monchy/La Borne/Sans Souci",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04504000",
+      "longitude": "-60.89961000"
+   },
+   {
+      "name": "Monchy/La Retraite",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06421000",
+      "longitude": "-60.94564000"
+   },
+   {
+      "name": "Monchy/Lafeuillee",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05950000",
+      "longitude": "-60.94086000"
+   },
+   {
+      "name": "Monchy/Lawi Fwen",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05802000",
+      "longitude": "-60.92906000"
+   },
+   {
+      "name": "Monchy/Malgretoute",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04108000",
+      "longitude": "-60.91912000"
+   },
+   {
+      "name": "Monchy/Moulin A Vent",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06283000",
+      "longitude": "-60.95025000"
+   },
+   {
+      "name": "Monchy/Ravine Macock",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04789000",
+      "longitude": "-60.92511000"
+   },
+   {
+      "name": "Monchy/Riviere Mitan",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04987000",
+      "longitude": "-60.94029000"
+   },
+   {
+      "name": "Monchy/Ti Dauphin",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04081000",
+      "longitude": "-60.93225000"
+   },
+   {
+      "name": "Monchy/Vieux Sucreic",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.04996000",
+      "longitude": "-60.94992000"
+   },
+   {
+      "name": "Monchy/Vieux Sucreic/Bois D'Inde",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05613000",
+      "longitude": "-60.95151000"
+   },
+   {
+      "name": "Monchy/Vieux Sucreic/Careffe",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.05652000",
+      "longitude": "-60.94948000"
+   },
+   {
+      "name": "Mongiraud",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06287000",
+      "longitude": "-60.95722000"
+   },
+   {
+      "name": "Monier",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02951000",
+      "longitude": "-60.94098000"
+   },
+   {
+      "name": "Morne Citon",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.03004000",
+      "longitude": "-60.92813000"
+   },
+   {
+      "name": "Paix Bouche",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.01755000",
+      "longitude": "-60.93852000"
+   },
+   {
+      "name": "Pigeon Island",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.08965000",
+      "longitude": "-60.95724000"
+   },
+   {
+      "name": "Plateau",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02612000",
+      "longitude": "-60.93474000"
+   },
+   {
+      "name": "Reduit",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06829000",
+      "longitude": "-60.96145000"
+   },
+   {
+      "name": "Reduit Orchard",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06594000",
+      "longitude": "-60.95340000"
+   },
+   {
+      "name": "Reduit Park",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06622000",
+      "longitude": "-60.95560000"
+   },
+   {
+      "name": "Rodney Bay",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.07292000",
+      "longitude": "-60.95443000"
+   },
+   {
+      "name": "Rodney Heights",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.06731000",
+      "longitude": "-60.94906000"
+   },
+   {
+      "name": "Union",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02907000",
+      "longitude": "-60.96480000"
+   },
+   {
+      "name": "Union Terrace",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02654000",
+      "longitude": "-60.95710000"
+   },
+   {
+      "name": "Union/Ti Morne",
+      "countryCode": "LC",
+      "stateCode": "06",
+      "latitude": "14.02283000",
+      "longitude": "-60.95272000"
+   }
+]

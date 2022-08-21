@@ -1,0 +1,660 @@
+[
+   {
+      "name": "Agapovka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.29730000",
+      "longitude": "59.13480000"
+   },
+   {
+      "name": "Agapovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.33333000",
+      "longitude": "59.33333000"
+   },
+   {
+      "name": "Argayash",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.48880000",
+      "longitude": "60.87670000"
+   },
+   {
+      "name": "Asha",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.99730000",
+      "longitude": "57.27220000"
+   },
+   {
+      "name": "Ashinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.00000000",
+      "longitude": "57.50000000"
+   },
+   {
+      "name": "Bakal",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.94170000",
+      "longitude": "58.80830000"
+   },
+   {
+      "name": "Bazhovo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.05955000",
+      "longitude": "61.60445000"
+   },
+   {
+      "name": "Berdyaush",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.16190000",
+      "longitude": "59.14640000"
+   },
+   {
+      "name": "Bobrovka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.04700000",
+      "longitude": "61.74550000"
+   },
+   {
+      "name": "Bredy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "52.41528000",
+      "longitude": "60.34111000"
+   },
+   {
+      "name": "Brodokalmak",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.57480000",
+      "longitude": "62.08200000"
+   },
+   {
+      "name": "Chebarkul’",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.97490000",
+      "longitude": "60.36330000"
+   },
+   {
+      "name": "Chebarkul’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.83333000",
+      "longitude": "60.50000000"
+   },
+   {
+      "name": "Chelyabinsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.15402000",
+      "longitude": "61.42915000"
+   },
+   {
+      "name": "Cheremshanka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.11920000",
+      "longitude": "60.26804000"
+   },
+   {
+      "name": "Chesma",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.81111000",
+      "longitude": "60.65333000"
+   },
+   {
+      "name": "Dolgoderevenskoye",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.34444000",
+      "longitude": "61.34444000"
+   },
+   {
+      "name": "Fershampenuaz",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.52020000",
+      "longitude": "59.81170000"
+   },
+   {
+      "name": "Gornyak",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.13446000",
+      "longitude": "61.68268000"
+   },
+   {
+      "name": "Gorod Chelyabinsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.16553000",
+      "longitude": "61.41673000"
+   },
+   {
+      "name": "Kanashevo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.21690000",
+      "longitude": "62.06340000"
+   },
+   {
+      "name": "Karabash",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.48080000",
+      "longitude": "60.21570000"
+   },
+   {
+      "name": "Kartalinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.00000000",
+      "longitude": "60.50000000"
+   },
+   {
+      "name": "Kartaly",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.05285000",
+      "longitude": "60.64903000"
+   },
+   {
+      "name": "Kasli",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.89090000",
+      "longitude": "60.76160000"
+   },
+   {
+      "name": "Katav-Ivanovsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.75306000",
+      "longitude": "58.19556000"
+   },
+   {
+      "name": "Katav-Ivanovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.75000000",
+      "longitude": "58.25000000"
+   },
+   {
+      "name": "Kizil’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "52.75000000",
+      "longitude": "59.41667000"
+   },
+   {
+      "name": "Kopeysk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.11722000",
+      "longitude": "61.62823000"
+   },
+   {
+      "name": "Korkino",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.89130000",
+      "longitude": "61.39690000"
+   },
+   {
+      "name": "Koyelga",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.65224000",
+      "longitude": "60.90490000"
+   },
+   {
+      "name": "Krasnogorskiy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.60250000",
+      "longitude": "61.23100000"
+   },
+   {
+      "name": "Kropachëvo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.01120000",
+      "longitude": "57.98960000"
+   },
+   {
+      "name": "Kunashak",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.70320000",
+      "longitude": "61.54980000"
+   },
+   {
+      "name": "Kusa",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.33833000",
+      "longitude": "59.44056000"
+   },
+   {
+      "name": "Kyshtym",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.71400000",
+      "longitude": "60.55280000"
+   },
+   {
+      "name": "Leninsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.90306000",
+      "longitude": "59.86750000"
+   },
+   {
+      "name": "Lokomotivnyy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.01180000",
+      "longitude": "60.56840000"
+   },
+   {
+      "name": "Magnitka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.34750000",
+      "longitude": "59.69611000"
+   },
+   {
+      "name": "Magnitogorsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.41861000",
+      "longitude": "59.04722000"
+   },
+   {
+      "name": "Mezhevoy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.17111000",
+      "longitude": "58.78139000"
+   },
+   {
+      "name": "Miass",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.04500000",
+      "longitude": "60.10833000"
+   },
+   {
+      "name": "Miasskoye",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.27840000",
+      "longitude": "61.89050000"
+   },
+   {
+      "name": "Muslyumovo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.61330000",
+      "longitude": "61.62600000"
+   },
+   {
+      "name": "Nagaybakskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.58333000",
+      "longitude": "59.75000000"
+   },
+   {
+      "name": "Nizhniy Ufaley",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.91528000",
+      "longitude": "59.98417000"
+   },
+   {
+      "name": "Novogornyy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.63000000",
+      "longitude": "60.79190000"
+   },
+   {
+      "name": "Novosineglazovskiy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.03928000",
+      "longitude": "61.37680000"
+   },
+   {
+      "name": "Nyazepetrovsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.05306000",
+      "longitude": "59.60278000"
+   },
+   {
+      "name": "Nyazepetrovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.00000000",
+      "longitude": "59.58333000"
+   },
+   {
+      "name": "Oktyabr’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.41667000",
+      "longitude": "62.75000000"
+   },
+   {
+      "name": "Ozersk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.75556000",
+      "longitude": "60.70278000"
+   },
+   {
+      "name": "Parizh",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.29740000",
+      "longitude": "60.10050000"
+   },
+   {
+      "name": "Plast",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.36914000",
+      "longitude": "60.81361000"
+   },
+   {
+      "name": "Poletayevo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.03360000",
+      "longitude": "61.11380000"
+   },
+   {
+      "name": "Potanino",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.17860000",
+      "longitude": "61.62220000"
+   },
+   {
+      "name": "Roshchino",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.31012000",
+      "longitude": "61.26363000"
+   },
+   {
+      "name": "Roza",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.91630000",
+      "longitude": "61.45860000"
+   },
+   {
+      "name": "Sargazy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.02064000",
+      "longitude": "61.24985000"
+   },
+   {
+      "name": "Satka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.04250000",
+      "longitude": "59.04000000"
+   },
+   {
+      "name": "Satkinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.00000000",
+      "longitude": "59.00000000"
+   },
+   {
+      "name": "Selezyan",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.90583000",
+      "longitude": "61.82444000"
+   },
+   {
+      "name": "Sim",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.99300000",
+      "longitude": "57.69820000"
+   },
+   {
+      "name": "Snezhinsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.08500000",
+      "longitude": "60.73139000"
+   },
+   {
+      "name": "Sosnovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.25000000",
+      "longitude": "61.16667000"
+   },
+   {
+      "name": "Starokamyshinsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.03912000",
+      "longitude": "61.58778000"
+   },
+   {
+      "name": "Syrostan",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.06340000",
+      "longitude": "59.90020000"
+   },
+   {
+      "name": "Tayginka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.62440000",
+      "longitude": "60.50760000"
+   },
+   {
+      "name": "Timiryazevskiy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.92917000",
+      "longitude": "60.76250000"
+   },
+   {
+      "name": "Troitsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.09790000",
+      "longitude": "61.57730000"
+   },
+   {
+      "name": "Trëkhgornyy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.81500000",
+      "longitude": "58.45917000"
+   },
+   {
+      "name": "Turgoyak",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.15000000",
+      "longitude": "60.11833000"
+   },
+   {
+      "name": "Tyubuk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.05521000",
+      "longitude": "60.94050000"
+   },
+   {
+      "name": "Ust’-Bagaryak",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.13278000",
+      "longitude": "61.84722000"
+   },
+   {
+      "name": "Ust’-Katav",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.93660000",
+      "longitude": "58.17570000"
+   },
+   {
+      "name": "Uvel’skiy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.44460000",
+      "longitude": "61.35740000"
+   },
+   {
+      "name": "Uvel’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.50000000",
+      "longitude": "61.50000000"
+   },
+   {
+      "name": "Uyskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.33333000",
+      "longitude": "60.08333000"
+   },
+   {
+      "name": "Uyskoye",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.37750000",
+      "longitude": "60.00472000"
+   },
+   {
+      "name": "Vakhrushevo",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.23170000",
+      "longitude": "61.71730000"
+   },
+   {
+      "name": "Varna",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.38194000",
+      "longitude": "60.97472000"
+   },
+   {
+      "name": "Varnenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.25000000",
+      "longitude": "61.08333000"
+   },
+   {
+      "name": "Velikopetrovka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.25042000",
+      "longitude": "60.48606000"
+   },
+   {
+      "name": "Verkhneural’sk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "53.87694000",
+      "longitude": "59.21056000"
+   },
+   {
+      "name": "Verkhniy Ufaley",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "56.05560000",
+      "longitude": "60.23970000"
+   },
+   {
+      "name": "Vishnëvogorsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.99130000",
+      "longitude": "60.65790000"
+   },
+   {
+      "name": "Vyazovaya",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.90500000",
+      "longitude": "58.35611000"
+   },
+   {
+      "name": "Yemanzhelinka",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.80100000",
+      "longitude": "61.29890000"
+   },
+   {
+      "name": "Yemanzhelinsk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.75472000",
+      "longitude": "61.32083000"
+   },
+   {
+      "name": "Yetkul’",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.82210000",
+      "longitude": "61.58800000"
+   },
+   {
+      "name": "Yuryuzan’",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.86333000",
+      "longitude": "58.42194000"
+   },
+   {
+      "name": "Yuzhnoural’sk",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "54.44180000",
+      "longitude": "61.25360000"
+   },
+   {
+      "name": "Zheleznodorozhnyy",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.10183000",
+      "longitude": "61.54926000"
+   },
+   {
+      "name": "Zlatoust",
+      "countryCode": "RU",
+      "stateCode": "CHE",
+      "latitude": "55.17111000",
+      "longitude": "59.65083000"
+   }
+]

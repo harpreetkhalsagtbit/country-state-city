@@ -1,0 +1,996 @@
+[
+   {
+      "name": "Aberdeen",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.94408000",
+      "longitude": "-112.83833000"
+   },
+   {
+      "name": "Ada County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.45112000",
+      "longitude": "-116.24109000"
+   },
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.88965000",
+      "longitude": "-116.45387000"
+   },
+   {
+      "name": "American Falls",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.78602000",
+      "longitude": "-112.85444000"
+   },
+   {
+      "name": "Ammon",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.46964000",
+      "longitude": "-111.96664000"
+   },
+   {
+      "name": "Arco",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.63657000",
+      "longitude": "-113.30028000"
+   },
+   {
+      "name": "Ashton",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.07158000",
+      "longitude": "-111.44829000"
+   },
+   {
+      "name": "Bannock County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.66851000",
+      "longitude": "-112.22463000"
+   },
+   {
+      "name": "Bear Lake County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.28479000",
+      "longitude": "-111.32965000"
+   },
+   {
+      "name": "Bellevue",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.46352000",
+      "longitude": "-114.26060000"
+   },
+   {
+      "name": "Benewah County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.21755000",
+      "longitude": "-116.65883000"
+   },
+   {
+      "name": "Bingham County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.21652000",
+      "longitude": "-112.39805000"
+   },
+   {
+      "name": "Blackfoot",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.19047000",
+      "longitude": "-112.34498000"
+   },
+   {
+      "name": "Blaine County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.41233000",
+      "longitude": "-113.98040000"
+   },
+   {
+      "name": "Boise",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.61350000",
+      "longitude": "-116.20345000"
+   },
+   {
+      "name": "Boise County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.98913000",
+      "longitude": "-115.73024000"
+   },
+   {
+      "name": "Bonner County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.29975000",
+      "longitude": "-116.60097000"
+   },
+   {
+      "name": "Bonners Ferry",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.69133000",
+      "longitude": "-116.31631000"
+   },
+   {
+      "name": "Bonneville County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.38773000",
+      "longitude": "-111.61493000"
+   },
+   {
+      "name": "Boundary County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.76702000",
+      "longitude": "-116.46288000"
+   },
+   {
+      "name": "Buhl",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.59907000",
+      "longitude": "-114.75949000"
+   },
+   {
+      "name": "Burley",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.53574000",
+      "longitude": "-113.79279000"
+   },
+   {
+      "name": "Butte County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.72287000",
+      "longitude": "-113.17202000"
+   },
+   {
+      "name": "Caldwell",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.66294000",
+      "longitude": "-116.68736000"
+   },
+   {
+      "name": "Camas County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.46325000",
+      "longitude": "-114.80585000"
+   },
+   {
+      "name": "Canyon County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.62513000",
+      "longitude": "-116.70929000"
+   },
+   {
+      "name": "Caribou County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.77051000",
+      "longitude": "-111.56224000"
+   },
+   {
+      "name": "Cascade",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.51628000",
+      "longitude": "-116.04180000"
+   },
+   {
+      "name": "Cassia County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.28387000",
+      "longitude": "-113.60037000"
+   },
+   {
+      "name": "Challis",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.50464000",
+      "longitude": "-114.23173000"
+   },
+   {
+      "name": "Chubbuck",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.92075000",
+      "longitude": "-112.46609000"
+   },
+   {
+      "name": "Clark County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.28398000",
+      "longitude": "-112.35135000"
+   },
+   {
+      "name": "Clearwater County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.67370000",
+      "longitude": "-115.65686000"
+   },
+   {
+      "name": "Coeur d'Alene",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.67768000",
+      "longitude": "-116.78047000"
+   },
+   {
+      "name": "Council",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.72989000",
+      "longitude": "-116.43820000"
+   },
+   {
+      "name": "Custer County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.24142000",
+      "longitude": "-114.28180000"
+   },
+   {
+      "name": "Dalton Gardens",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.72963000",
+      "longitude": "-116.77019000"
+   },
+   {
+      "name": "Driggs",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.72325000",
+      "longitude": "-111.11133000"
+   },
+   {
+      "name": "Dubois",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.17630000",
+      "longitude": "-112.23082000"
+   },
+   {
+      "name": "Eagle",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.69544000",
+      "longitude": "-116.35401000"
+   },
+   {
+      "name": "Elmore County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.35390000",
+      "longitude": "-115.46918000"
+   },
+   {
+      "name": "Emmett",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.87350000",
+      "longitude": "-116.49930000"
+   },
+   {
+      "name": "Fairfield",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.34657000",
+      "longitude": "-114.79173000"
+   },
+   {
+      "name": "Filer",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.57019000",
+      "longitude": "-114.60782000"
+   },
+   {
+      "name": "Fort Hall",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.03325000",
+      "longitude": "-112.43831000"
+   },
+   {
+      "name": "Franklin County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.18117000",
+      "longitude": "-111.81323000"
+   },
+   {
+      "name": "Fremont County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.22879000",
+      "longitude": "-111.48202000"
+   },
+   {
+      "name": "Fruitland",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.00766000",
+      "longitude": "-116.91655000"
+   },
+   {
+      "name": "Garden City",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.62211000",
+      "longitude": "-116.23817000"
+   },
+   {
+      "name": "Gem County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.06169000",
+      "longitude": "-116.39723000"
+   },
+   {
+      "name": "Glenns Ferry",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.95490000",
+      "longitude": "-115.30090000"
+   },
+   {
+      "name": "Gooding",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.93879000",
+      "longitude": "-114.71311000"
+   },
+   {
+      "name": "Gooding County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.97090000",
+      "longitude": "-114.81152000"
+   },
+   {
+      "name": "Grangeville",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "45.92655000",
+      "longitude": "-116.12237000"
+   },
+   {
+      "name": "Hailey",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.51963000",
+      "longitude": "-114.31532000"
+   },
+   {
+      "name": "Hansen",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.53068000",
+      "longitude": "-114.30101000"
+   },
+   {
+      "name": "Hayden",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.76602000",
+      "longitude": "-116.78658000"
+   },
+   {
+      "name": "Heyburn",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.55852000",
+      "longitude": "-113.76390000"
+   },
+   {
+      "name": "Hidden Spring",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.72216000",
+      "longitude": "-116.25093000"
+   },
+   {
+      "name": "Homedale",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.61766000",
+      "longitude": "-116.93376000"
+   },
+   {
+      "name": "Idaho City",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.82850000",
+      "longitude": "-115.83455000"
+   },
+   {
+      "name": "Idaho County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "45.84420000",
+      "longitude": "-115.46745000"
+   },
+   {
+      "name": "Idaho Falls",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.46658000",
+      "longitude": "-112.03414000"
+   },
+   {
+      "name": "Iona",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.52630000",
+      "longitude": "-111.93302000"
+   },
+   {
+      "name": "Jefferson County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.82014000",
+      "longitude": "-112.31128000"
+   },
+   {
+      "name": "Jerome",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.72407000",
+      "longitude": "-114.51865000"
+   },
+   {
+      "name": "Jerome County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.68990000",
+      "longitude": "-114.26403000"
+   },
+   {
+      "name": "Kamiah",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.22712000",
+      "longitude": "-116.02931000"
+   },
+   {
+      "name": "Kellogg",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.53826000",
+      "longitude": "-116.11933000"
+   },
+   {
+      "name": "Ketchum",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.68074000",
+      "longitude": "-114.36366000"
+   },
+   {
+      "name": "Kimberly",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.53380000",
+      "longitude": "-114.36476000"
+   },
+   {
+      "name": "Kootenai County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.67456000",
+      "longitude": "-116.70001000"
+   },
+   {
+      "name": "Kuna",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.49183000",
+      "longitude": "-116.42012000"
+   },
+   {
+      "name": "Lapwai",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.40489000",
+      "longitude": "-116.80487000"
+   },
+   {
+      "name": "Latah County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.81613000",
+      "longitude": "-116.71168000"
+   },
+   {
+      "name": "Lemhi County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.94331000",
+      "longitude": "-113.93324000"
+   },
+   {
+      "name": "Lewis County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.23702000",
+      "longitude": "-116.42625000"
+   },
+   {
+      "name": "Lewiston",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.41655000",
+      "longitude": "-117.01766000"
+   },
+   {
+      "name": "Lewiston Orchards",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.38044000",
+      "longitude": "-116.97543000"
+   },
+   {
+      "name": "Lincoln",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.51297000",
+      "longitude": "-111.96441000"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.00241000",
+      "longitude": "-114.13831000"
+   },
+   {
+      "name": "Madison County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.78419000",
+      "longitude": "-111.65934000"
+   },
+   {
+      "name": "Malad City",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.19159000",
+      "longitude": "-112.25080000"
+   },
+   {
+      "name": "Marsing",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.54544000",
+      "longitude": "-116.81320000"
+   },
+   {
+      "name": "McCall",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.91101000",
+      "longitude": "-116.09874000"
+   },
+   {
+      "name": "Meridian",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.61211000",
+      "longitude": "-116.39151000"
+   },
+   {
+      "name": "Middleton",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.70683000",
+      "longitude": "-116.62014000"
+   },
+   {
+      "name": "Minidoka County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.85440000",
+      "longitude": "-113.63752000"
+   },
+   {
+      "name": "Montpelier",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.32215000",
+      "longitude": "-111.29770000"
+   },
+   {
+      "name": "Moreland",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.22269000",
+      "longitude": "-112.44248000"
+   },
+   {
+      "name": "Moscow",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.73239000",
+      "longitude": "-117.00017000"
+   },
+   {
+      "name": "Mountain Home",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.13295000",
+      "longitude": "-115.69120000"
+   },
+   {
+      "name": "Murphy",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.21822000",
+      "longitude": "-116.55234000"
+   },
+   {
+      "name": "Nampa",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.54072000",
+      "longitude": "-116.56346000"
+   },
+   {
+      "name": "New Plymouth",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.96989000",
+      "longitude": "-116.81904000"
+   },
+   {
+      "name": "Nez Perce County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.32676000",
+      "longitude": "-116.75024000"
+   },
+   {
+      "name": "Nezperce",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.23489000",
+      "longitude": "-116.24070000"
+   },
+   {
+      "name": "Oneida County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.19490000",
+      "longitude": "-112.53962000"
+   },
+   {
+      "name": "Orofino",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "46.47935000",
+      "longitude": "-116.25514000"
+   },
+   {
+      "name": "Osburn",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.50604000",
+      "longitude": "-115.99933000"
+   },
+   {
+      "name": "Owyhee County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.58153000",
+      "longitude": "-116.16998000"
+   },
+   {
+      "name": "Paris",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.22715000",
+      "longitude": "-111.40104000"
+   },
+   {
+      "name": "Parma",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.78516000",
+      "longitude": "-116.94321000"
+   },
+   {
+      "name": "Paul",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.60796000",
+      "longitude": "-113.78335000"
+   },
+   {
+      "name": "Payette",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.07822000",
+      "longitude": "-116.93377000"
+   },
+   {
+      "name": "Payette County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.00674000",
+      "longitude": "-116.76084000"
+   },
+   {
+      "name": "Pinehurst",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.53881000",
+      "longitude": "-116.23739000"
+   },
+   {
+      "name": "Plummer",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.33518000",
+      "longitude": "-116.88851000"
+   },
+   {
+      "name": "Pocatello",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.87130000",
+      "longitude": "-112.44553000"
+   },
+   {
+      "name": "Ponderay",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.30548000",
+      "longitude": "-116.53380000"
+   },
+   {
+      "name": "Post Falls",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.71796000",
+      "longitude": "-116.95159000"
+   },
+   {
+      "name": "Power County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.69369000",
+      "longitude": "-112.84067000"
+   },
+   {
+      "name": "Preston",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.09631000",
+      "longitude": "-111.87662000"
+   },
+   {
+      "name": "Priest River",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.18097000",
+      "longitude": "-116.91157000"
+   },
+   {
+      "name": "Rathdrum",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.81240000",
+      "longitude": "-116.89659000"
+   },
+   {
+      "name": "Rexburg",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.82602000",
+      "longitude": "-111.78969000"
+   },
+   {
+      "name": "Rigby",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.67241000",
+      "longitude": "-111.91497000"
+   },
+   {
+      "name": "Rupert",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.61908000",
+      "longitude": "-113.67723000"
+   },
+   {
+      "name": "Saint Anthony",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.96630000",
+      "longitude": "-111.68218000"
+   },
+   {
+      "name": "Saint Maries",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.31435000",
+      "longitude": "-116.56267000"
+   },
+   {
+      "name": "Salmon",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "45.17575000",
+      "longitude": "-113.89590000"
+   },
+   {
+      "name": "Sandpoint",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "48.27659000",
+      "longitude": "-116.55325000"
+   },
+   {
+      "name": "Shelley",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.38130000",
+      "longitude": "-112.12331000"
+   },
+   {
+      "name": "Shoshone",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.93602000",
+      "longitude": "-114.40588000"
+   },
+   {
+      "name": "Shoshone County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.35167000",
+      "longitude": "-115.89103000"
+   },
+   {
+      "name": "Soda Springs",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.65437000",
+      "longitude": "-111.60467000"
+   },
+   {
+      "name": "Spirit Lake",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.96629000",
+      "longitude": "-116.86853000"
+   },
+   {
+      "name": "Star",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.69211000",
+      "longitude": "-116.49346000"
+   },
+   {
+      "name": "Sugar City",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.87297000",
+      "longitude": "-111.74830000"
+   },
+   {
+      "name": "Sun Valley",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.69713000",
+      "longitude": "-114.35172000"
+   },
+   {
+      "name": "Teton County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.75946000",
+      "longitude": "-111.20770000"
+   },
+   {
+      "name": "Twin Falls",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.56297000",
+      "longitude": "-114.46087000"
+   },
+   {
+      "name": "Twin Falls County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.35598000",
+      "longitude": "-114.66716000"
+   },
+   {
+      "name": "Tyhee",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.95158000",
+      "longitude": "-112.46637000"
+   },
+   {
+      "name": "Ucon",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.59630000",
+      "longitude": "-111.96386000"
+   },
+   {
+      "name": "Valley County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.76670000",
+      "longitude": "-115.56613000"
+   },
+   {
+      "name": "Victor",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.60270000",
+      "longitude": "-111.11133000"
+   },
+   {
+      "name": "Wallace",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "47.47409000",
+      "longitude": "-115.92794000"
+   },
+   {
+      "name": "Washington County",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.45243000",
+      "longitude": "-116.78477000"
+   },
+   {
+      "name": "Weiser",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "44.25100000",
+      "longitude": "-116.96933000"
+   },
+   {
+      "name": "Wendell",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "42.77574000",
+      "longitude": "-114.70422000"
+   },
+   {
+      "name": "Wilder",
+      "countryCode": "US",
+      "stateCode": "ID",
+      "latitude": "43.67655000",
+      "longitude": "-116.91182000"
+   }
+]

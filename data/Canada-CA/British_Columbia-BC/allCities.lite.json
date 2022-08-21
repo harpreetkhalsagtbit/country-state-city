@@ -1,0 +1,697 @@
+[
+   {
+      "name": "Abbotsford",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Agassiz",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Aldergrove",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Aldergrove East",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Anmore",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Arbutus Ridge",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Armstrong",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Ashcroft",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Barrière",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Bowen Island",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Burnaby",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Burns Lake",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Cache Creek",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Campbell River",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Castlegar",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Cedar",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Central Coast Regional District",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Chase",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Chemainus",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Chetwynd",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Chilliwack",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Colwood",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Coombs",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Coquitlam",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Courtenay",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Cowichan Bay",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Cranbrook",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Creston",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Cumberland",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Dawson Creek",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Delta",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Denman Island",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Denman Island Trust Area",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Duck Lake",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Duncan",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "East Wellington",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Elkford",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Ellison",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Enderby",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fairwinds",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fernie",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fort Nelson",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fort St. John",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fraser Valley Regional District",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "French Creek",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Fruitvale",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Gibsons",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Golden",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Grand Forks",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Hanceville",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Hope",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Hornby Island",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Houston",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Invermere",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Kamloops",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Kelowna",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Kimberley",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Kitimat",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Ladner",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Ladysmith",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Lake Cowichan",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Langford",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Langley",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Lillooet",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Lions Bay",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Logan Lake",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Lumby",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Mackenzie",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Maple Ridge",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Merritt",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Metchosin",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Metro Vancouver Regional District",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Mission",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Nakusp",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Nanaimo",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Nelson",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "New Westminster",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "North Cowichan",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "North Oyster/Yellow Point",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "North Saanich",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "North Vancouver",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Oak Bay",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Okanagan",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Okanagan Falls",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Oliver",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Osoyoos",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Parksville",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Peace River Regional District",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Peachland",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Pemberton",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Penticton",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Pitt Meadows",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Port Alberni",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Port Coquitlam",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Port McNeill",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Port Moody",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Powell River",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Prince George",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Prince Rupert",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Princeton",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Puntledge",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Quesnel",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Regional District of Alberni-Clayoquot",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Regional District of Central Okanagan",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Revelstoke",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Richmond",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Rossland",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Royston",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Salmo",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Salmon Arm",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Salt Spring Island",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Saltair",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Sechelt",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Sicamous",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Six Mile",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Smithers",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Sooke",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "South Pender Harbour",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Sparwood",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Summerland",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Surrey",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Terrace",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Tofino",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Trail",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Tsawwassen",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Tumbler Ridge",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Ucluelet",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Vancouver",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Vanderhoof",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Vernon",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Victoria",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Walnut Grove",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Welcome Beach",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "West End",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "West Kelowna",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "West Vancouver",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Whistler",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "White Rock",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   },
+   {
+      "name": "Williams Lake",
+      "countryCode": "CA",
+      "stateCode": "BC"
+   }
+]

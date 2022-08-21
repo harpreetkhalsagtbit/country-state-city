@@ -1,0 +1,2921 @@
+[
+   {
+      "name": "Acahuasco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.96254000",
+      "longitude": "-98.59656000"
+   },
+   {
+      "name": "Acatepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.95367000",
+      "longitude": "-98.27373000"
+   },
+   {
+      "name": "Acatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14562000",
+      "longitude": "-98.43959000"
+   },
+   {
+      "name": "Acaxochitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16674000",
+      "longitude": "-98.18971000"
+   },
+   {
+      "name": "Acayuca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.02567000",
+      "longitude": "-98.84110000"
+   },
+   {
+      "name": "Acoapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.12116000",
+      "longitude": "-98.48701000"
+   },
+   {
+      "name": "Acoxcatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.97343000",
+      "longitude": "-98.77793000"
+   },
+   {
+      "name": "Acoyotla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.12551000",
+      "longitude": "-98.77729000"
+   },
+   {
+      "name": "Actopan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.28451000",
+      "longitude": "-98.91525000"
+   },
+   {
+      "name": "Ahuatitla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.16495000",
+      "longitude": "-98.66594000"
+   },
+   {
+      "name": "Ahuehuetitla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.08444000",
+      "longitude": "-98.41667000"
+   },
+   {
+      "name": "Ajacuba",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14326000",
+      "longitude": "-99.06141000"
+   },
+   {
+      "name": "Alfajayucan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.41183000",
+      "longitude": "-99.38388000"
+   },
+   {
+      "name": "Almoloya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.74335000",
+      "longitude": "-98.33939000"
+   },
+   {
+      "name": "Apan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.71128000",
+      "longitude": "-98.45086000"
+   },
+   {
+      "name": "Atengo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17526000",
+      "longitude": "-99.32714000"
+   },
+   {
+      "name": "Atitalaquia",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05691000",
+      "longitude": "-99.21779000"
+   },
+   {
+      "name": "Atlapexco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.02507000",
+      "longitude": "-98.36834000"
+   },
+   {
+      "name": "Atotonilco de Tula",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.97025000",
+      "longitude": "-99.23866000"
+   },
+   {
+      "name": "Atotonilco el Grande",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.28632000",
+      "longitude": "-98.66850000"
+   },
+   {
+      "name": "Bangandhó",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.48277000",
+      "longitude": "-99.14901000"
+   },
+   {
+      "name": "Barrio Aztlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.46562000",
+      "longitude": "-98.08553000"
+   },
+   {
+      "name": "Benito Juárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16047000",
+      "longitude": "-98.82606000"
+   },
+   {
+      "name": "Bomanxotha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.51542000",
+      "longitude": "-99.66679000"
+   },
+   {
+      "name": "Bomintzha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.01400000",
+      "longitude": "-99.27277000"
+   },
+   {
+      "name": "Bondojito",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.44395000",
+      "longitude": "-99.70022000"
+   },
+   {
+      "name": "Calnali",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.90221000",
+      "longitude": "-98.57029000"
+   },
+   {
+      "name": "Caltimacan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.53672000",
+      "longitude": "-99.37000000"
+   },
+   {
+      "name": "Camelia (Barrio la Camelia)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14917000",
+      "longitude": "-98.72222000"
+   },
+   {
+      "name": "Campestre Villas del Álamo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.10167000",
+      "longitude": "-98.70722000"
+   },
+   {
+      "name": "Cantera de Villagrán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.84083000",
+      "longitude": "-99.30917000"
+   },
+   {
+      "name": "Cantinela",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.45778000",
+      "longitude": "-99.21028000"
+   },
+   {
+      "name": "Carboneras",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09000000",
+      "longitude": "-98.70528000"
+   },
+   {
+      "name": "Cardonal",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05689000",
+      "longitude": "-99.23025000"
+   },
+   {
+      "name": "Carpinteros",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.58606000",
+      "longitude": "-98.53964000"
+   },
+   {
+      "name": "Caxuxi",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.30522000",
+      "longitude": "-98.99067000"
+   },
+   {
+      "name": "Cañada",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99798000",
+      "longitude": "-99.23947000"
+   },
+   {
+      "name": "Cañada de Madero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.96528000",
+      "longitude": "-99.39389000"
+   },
+   {
+      "name": "Cerritos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.35306000",
+      "longitude": "-99.01222000"
+   },
+   {
+      "name": "Chachahuantla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.20182000",
+      "longitude": "-98.13261000"
+   },
+   {
+      "name": "Chalahuiyapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.15088000",
+      "longitude": "-98.36429000"
+   },
+   {
+      "name": "Chapantongo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.28635000",
+      "longitude": "-99.41319000"
+   },
+   {
+      "name": "Chapulhuacanito",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.20911000",
+      "longitude": "-98.67016000"
+   },
+   {
+      "name": "Chapulhuacán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.15731000",
+      "longitude": "-98.90361000"
+   },
+   {
+      "name": "Chatipán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.02006000",
+      "longitude": "-98.52731000"
+   },
+   {
+      "name": "Chicavasco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19715000",
+      "longitude": "-98.95386000"
+   },
+   {
+      "name": "Chichatla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.95833000",
+      "longitude": "-98.62946000"
+   },
+   {
+      "name": "Chilcuautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.33059000",
+      "longitude": "-99.23117000"
+   },
+   {
+      "name": "Chililico",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.13444000",
+      "longitude": "-98.43556000"
+   },
+   {
+      "name": "Chimalapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.18806000",
+      "longitude": "-98.16000000"
+   },
+   {
+      "name": "Chimalpa y Tlalayote",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.66522000",
+      "longitude": "-98.51224000"
+   },
+   {
+      "name": "Cipreses",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05889000",
+      "longitude": "-98.76750000"
+   },
+   {
+      "name": "Ciudad Sahagun",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.77557000",
+      "longitude": "-98.57471000"
+   },
+   {
+      "name": "Coacuilco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.10377000",
+      "longitude": "-98.58643000"
+   },
+   {
+      "name": "Colinas de Plata",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07833000",
+      "longitude": "-98.72667000"
+   },
+   {
+      "name": "Colonia 28 de Mayo (Santa Rosa)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16611000",
+      "longitude": "-98.39000000"
+   },
+   {
+      "name": "Colonia Benito Juárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.88985000",
+      "longitude": "-98.80661000"
+   },
+   {
+      "name": "Colonia Felipe Ángeles",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05417000",
+      "longitude": "-98.41861000"
+   },
+   {
+      "name": "Colonia Guadalupe",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.93917000",
+      "longitude": "-98.76556000"
+   },
+   {
+      "name": "Colonia Militar",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11139000",
+      "longitude": "-98.70306000"
+   },
+   {
+      "name": "Colonia Morelos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.89056000",
+      "longitude": "-98.81667000"
+   },
+   {
+      "name": "Colonia Morelos (El Nueve)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22500000",
+      "longitude": "-99.14111000"
+   },
+   {
+      "name": "Colonia San Juan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19028000",
+      "longitude": "-99.28278000"
+   },
+   {
+      "name": "Colonia Sesenta y Dos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00528000",
+      "longitude": "-99.34583000"
+   },
+   {
+      "name": "Colonia Teñhe",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19291000",
+      "longitude": "-99.17866000"
+   },
+   {
+      "name": "Conejos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.97570000",
+      "longitude": "-99.24337000"
+   },
+   {
+      "name": "Coyotillos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99980000",
+      "longitude": "-99.15817000"
+   },
+   {
+      "name": "Cuapaxtitla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.13292000",
+      "longitude": "-98.55264000"
+   },
+   {
+      "name": "Cuatolol",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.11967000",
+      "longitude": "-98.82563000"
+   },
+   {
+      "name": "Cuautepec de Hinojosa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03557000",
+      "longitude": "-98.31015000"
+   },
+   {
+      "name": "Cuazahuatl",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.01637000",
+      "longitude": "-98.88691000"
+   },
+   {
+      "name": "Dajiedi",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.31114000",
+      "longitude": "-98.94006000"
+   },
+   {
+      "name": "Dantzibojay",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.43934000",
+      "longitude": "-99.58587000"
+   },
+   {
+      "name": "Daxtha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27994000",
+      "longitude": "-98.97964000"
+   },
+   {
+      "name": "Dengantzha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27211000",
+      "longitude": "-99.12098000"
+   },
+   {
+      "name": "Dios Padre",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.46469000",
+      "longitude": "-99.20132000"
+   },
+   {
+      "name": "Don Antonio",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.87444000",
+      "longitude": "-98.93472000"
+   },
+   {
+      "name": "Doxey",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09169000",
+      "longitude": "-99.24362000"
+   },
+   {
+      "name": "Déxtho de Victoria",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.32528000",
+      "longitude": "-99.02389000"
+   },
+   {
+      "name": "El Arenal",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22258000",
+      "longitude": "-98.90957000"
+   },
+   {
+      "name": "El Barrido",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.45028000",
+      "longitude": "-99.19083000"
+   },
+   {
+      "name": "El Bingú",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.59296000",
+      "longitude": "-99.14315000"
+   },
+   {
+      "name": "El Boxtha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.25972000",
+      "longitude": "-98.97417000"
+   },
+   {
+      "name": "El Capulín",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00898000",
+      "longitude": "-98.27613000"
+   },
+   {
+      "name": "El Cid",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.86722000",
+      "longitude": "-98.92694000"
+   },
+   {
+      "name": "El Colorado",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.21528000",
+      "longitude": "-99.00222000"
+   },
+   {
+      "name": "El Huaxtho",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.23444000",
+      "longitude": "-98.96222000"
+   },
+   {
+      "name": "El Huixmí",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07569000",
+      "longitude": "-98.81972000"
+   },
+   {
+      "name": "El Jagüey",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24691000",
+      "longitude": "-99.61516000"
+   },
+   {
+      "name": "El Jiadi",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24842000",
+      "longitude": "-98.92815000"
+   },
+   {
+      "name": "El Llano",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06537000",
+      "longitude": "-99.31976000"
+   },
+   {
+      "name": "El Mirador",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03000000",
+      "longitude": "-98.81056000"
+   },
+   {
+      "name": "El Moreno (San Miguel Moreno)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.30139000",
+      "longitude": "-99.17361000"
+   },
+   {
+      "name": "El Nith",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.48778000",
+      "longitude": "-99.19194000"
+   },
+   {
+      "name": "El Olvera",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27000000",
+      "longitude": "-99.02556000"
+   },
+   {
+      "name": "El Paredón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.86686000",
+      "longitude": "-98.25224000"
+   },
+   {
+      "name": "El Pintor",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.15932000",
+      "longitude": "-98.41284000"
+   },
+   {
+      "name": "El Refugio",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00480000",
+      "longitude": "-99.18835000"
+   },
+   {
+      "name": "El Rincón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27334000",
+      "longitude": "-98.90431000"
+   },
+   {
+      "name": "El Roble",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05806000",
+      "longitude": "-98.75833000"
+   },
+   {
+      "name": "El Rosario",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24842000",
+      "longitude": "-99.02539000"
+   },
+   {
+      "name": "El Saucillo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07694000",
+      "longitude": "-98.73722000"
+   },
+   {
+      "name": "El Saucillo (Fraccionamiento)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06778000",
+      "longitude": "-98.73194000"
+   },
+   {
+      "name": "El Susto",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05905000",
+      "longitude": "-98.49303000"
+   },
+   {
+      "name": "El Tepeyac",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05073000",
+      "longitude": "-98.31063000"
+   },
+   {
+      "name": "El Tephé",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.44861000",
+      "longitude": "-99.17500000"
+   },
+   {
+      "name": "El Venado",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06291000",
+      "longitude": "-98.76018000"
+   },
+   {
+      "name": "Eloxochitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.72703000",
+      "longitude": "-98.87693000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.65490000",
+      "longitude": "-98.54497000"
+   },
+   {
+      "name": "Epazoyucan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.02654000",
+      "longitude": "-98.63802000"
+   },
+   {
+      "name": "Estación de Apulco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.28611000",
+      "longitude": "-98.34750000"
+   },
+   {
+      "name": "Fontezuelas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.48853000",
+      "longitude": "-98.87164000"
+   },
+   {
+      "name": "Forjadores de Pachuca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05500000",
+      "longitude": "-98.76333000"
+   },
+   {
+      "name": "Fraccionamiento Carlos Salinas de Gortari",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11028000",
+      "longitude": "-98.43028000"
+   },
+   {
+      "name": "Fraccionamiento del Magisterio Tulancinguense",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07639000",
+      "longitude": "-98.39972000"
+   },
+   {
+      "name": "Gandhó",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.54525000",
+      "longitude": "-99.68737000"
+   },
+   {
+      "name": "General Felipe Ángeles (Los Ángeles)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.89750000",
+      "longitude": "-98.92611000"
+   },
+   {
+      "name": "General Pedro María Anaya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15600000",
+      "longitude": "-99.34800000"
+   },
+   {
+      "name": "Guadalupe Minerva",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.12583000",
+      "longitude": "-98.71389000"
+   },
+   {
+      "name": "Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03748000",
+      "longitude": "-98.26864000"
+   },
+   {
+      "name": "Hualula",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.70877000",
+      "longitude": "-98.83688000"
+   },
+   {
+      "name": "Huasca de Ocampo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.20357000",
+      "longitude": "-98.57603000"
+   },
+   {
+      "name": "Huautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.03105000",
+      "longitude": "-98.28685000"
+   },
+   {
+      "name": "Huehuetla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.53204000",
+      "longitude": "-98.03311000"
+   },
+   {
+      "name": "Huejutla de Reyes",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.14000000",
+      "longitude": "-98.41944000"
+   },
+   {
+      "name": "Hueyapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.08506000",
+      "longitude": "-98.68871000"
+   },
+   {
+      "name": "Huichapan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.37593000",
+      "longitude": "-99.64869000"
+   },
+   {
+      "name": "Huitel",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16707000",
+      "longitude": "-99.27860000"
+   },
+   {
+      "name": "Huitepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.05451000",
+      "longitude": "-98.72291000"
+   },
+   {
+      "name": "Huitzila",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.81137000",
+      "longitude": "-98.95583000"
+   },
+   {
+      "name": "Huitzitzilingo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.17295000",
+      "longitude": "-98.65693000"
+   },
+   {
+      "name": "Ignacio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.01574000",
+      "longitude": "-99.32101000"
+   },
+   {
+      "name": "Irolo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.73452000",
+      "longitude": "-98.59641000"
+   },
+   {
+      "name": "Ixcatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.08134000",
+      "longitude": "-98.53468000"
+   },
+   {
+      "name": "Ixcuinquitlapilco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11091000",
+      "longitude": "-98.93980000"
+   },
+   {
+      "name": "Ixmiquilpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.47841000",
+      "longitude": "-99.21697000"
+   },
+   {
+      "name": "Ixtlahuaca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.88368000",
+      "longitude": "-98.70379000"
+   },
+   {
+      "name": "Jacala",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.00952000",
+      "longitude": "-99.19134000"
+   },
+   {
+      "name": "Jagüey Blanco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27639000",
+      "longitude": "-99.15222000"
+   },
+   {
+      "name": "Jagüey de Téllez (Estación Téllez)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98056000",
+      "longitude": "-98.78833000"
+   },
+   {
+      "name": "Jalpa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.10908000",
+      "longitude": "-98.71313000"
+   },
+   {
+      "name": "Jaltepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11552000",
+      "longitude": "-98.41712000"
+   },
+   {
+      "name": "Jaltocan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.13284000",
+      "longitude": "-98.53898000"
+   },
+   {
+      "name": "Javier Rojo Gómez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06972000",
+      "longitude": "-98.41778000"
+   },
+   {
+      "name": "Jonacapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.43358000",
+      "longitude": "-99.53306000"
+   },
+   {
+      "name": "José María Morelos (San José)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.68250000",
+      "longitude": "-98.57639000"
+   },
+   {
+      "name": "José María Pino Suárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24722000",
+      "longitude": "-99.42111000"
+   },
+   {
+      "name": "Julián Villagrán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.39645000",
+      "longitude": "-99.10431000"
+   },
+   {
+      "name": "La Amistad",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00833000",
+      "longitude": "-99.32028000"
+   },
+   {
+      "name": "La Boveda",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.12496000",
+      "longitude": "-98.12468000"
+   },
+   {
+      "name": "La Colonia",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05472000",
+      "longitude": "-98.77028000"
+   },
+   {
+      "name": "La Cruz",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17603000",
+      "longitude": "-99.24156000"
+   },
+   {
+      "name": "La Esquina",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.54712000",
+      "longitude": "-99.70770000"
+   },
+   {
+      "name": "La Estancia",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.29889000",
+      "longitude": "-98.68944000"
+   },
+   {
+      "name": "La Estanzuela",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17828000",
+      "longitude": "-98.75703000"
+   },
+   {
+      "name": "La Laguna",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.73447000",
+      "longitude": "-98.49989000"
+   },
+   {
+      "name": "La Lagunilla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06787000",
+      "longitude": "-98.47801000"
+   },
+   {
+      "name": "La Loma",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16959000",
+      "longitude": "-99.37882000"
+   },
+   {
+      "name": "La Mesilla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.48949000",
+      "longitude": "-99.67676000"
+   },
+   {
+      "name": "La Providencia Siglo XXI",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06417000",
+      "longitude": "-98.71722000"
+   },
+   {
+      "name": "La Reforma",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.07327000",
+      "longitude": "-98.87057000"
+   },
+   {
+      "name": "La Sabinita",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.36286000",
+      "longitude": "-99.63423000"
+   },
+   {
+      "name": "La Sala (La Caliente)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.20722000",
+      "longitude": "-98.87250000"
+   },
+   {
+      "name": "La Trinidad",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.95975000",
+      "longitude": "-98.70942000"
+   },
+   {
+      "name": "Lagunilla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.34306000",
+      "longitude": "-99.02737000"
+   },
+   {
+      "name": "Lindavista",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.02611000",
+      "longitude": "-98.79778000"
+   },
+   {
+      "name": "Llano Largo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.30111000",
+      "longitude": "-99.76556000"
+   },
+   {
+      "name": "Lolotla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.00922000",
+      "longitude": "-98.73116000"
+   },
+   {
+      "name": "Los Cides",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.80439000",
+      "longitude": "-98.51870000"
+   },
+   {
+      "name": "Los Reyes",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15529000",
+      "longitude": "-98.16424000"
+   },
+   {
+      "name": "Los Romeros",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.02976000",
+      "longitude": "-98.41496000"
+   },
+   {
+      "name": "Los Sabinos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.31535000",
+      "longitude": "-98.64862000"
+   },
+   {
+      "name": "Los Tuzos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05389000",
+      "longitude": "-98.75639000"
+   },
+   {
+      "name": "Lázaro Cárdenas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.64032000",
+      "longitude": "-98.47166000"
+   },
+   {
+      "name": "Machetla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.05946000",
+      "longitude": "-98.49445000"
+   },
+   {
+      "name": "Magisterio Digno",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05694000",
+      "longitude": "-98.76889000"
+   },
+   {
+      "name": "Maguey Blanco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.42357000",
+      "longitude": "-99.17032000"
+   },
+   {
+      "name": "Mamithi",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.41003000",
+      "longitude": "-99.65797000"
+   },
+   {
+      "name": "Mangas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.18647000",
+      "longitude": "-99.24799000"
+   },
+   {
+      "name": "Manuel Ávila Camacho",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11194000",
+      "longitude": "-98.70694000"
+   },
+   {
+      "name": "Mecatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.93573000",
+      "longitude": "-98.40305000"
+   },
+   {
+      "name": "Melchor Ocampo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.94540000",
+      "longitude": "-99.28171000"
+   },
+   {
+      "name": "Metepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.26375000",
+      "longitude": "-98.34366000"
+   },
+   {
+      "name": "Metepec Primero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14167000",
+      "longitude": "-98.43222000"
+   },
+   {
+      "name": "Metztitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.56753000",
+      "longitude": "-98.79696000"
+   },
+   {
+      "name": "Mezquititlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.53307000",
+      "longitude": "-98.63749000"
+   },
+   {
+      "name": "Michimaloya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09151000",
+      "longitude": "-99.39885000"
+   },
+   {
+      "name": "Mineral del Monte",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.13830000",
+      "longitude": "-98.67364000"
+   },
+   {
+      "name": "Mixquiahuala de Juarez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.23031000",
+      "longitude": "-99.21396000"
+   },
+   {
+      "name": "Molango",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.78693000",
+      "longitude": "-98.72878000"
+   },
+   {
+      "name": "Monte Alegre",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98250000",
+      "longitude": "-99.34139000"
+   },
+   {
+      "name": "Motovatha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.18377000",
+      "longitude": "-99.20514000"
+   },
+   {
+      "name": "Munitepec de Madero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.12858000",
+      "longitude": "-99.19948000"
+   },
+   {
+      "name": "Nantzha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05317000",
+      "longitude": "-99.36856000"
+   },
+   {
+      "name": "Nopala de Villagran",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.25198000",
+      "longitude": "-99.64541000"
+   },
+   {
+      "name": "Nuevo Centro de Población Agrícola el Chacón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07028000",
+      "longitude": "-98.73944000"
+   },
+   {
+      "name": "Ocampo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00896000",
+      "longitude": "-99.23926000"
+   },
+   {
+      "name": "Ohuatipa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.89308000",
+      "longitude": "-98.26197000"
+   },
+   {
+      "name": "Ojo de Agua",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.97635000",
+      "longitude": "-99.44498000"
+   },
+   {
+      "name": "Omitlán de Juárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16980000",
+      "longitude": "-98.64842000"
+   },
+   {
+      "name": "Oriental de Zapata",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98528000",
+      "longitude": "-99.03167000"
+   },
+   {
+      "name": "Orizabita",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.58338000",
+      "longitude": "-99.20874000"
+   },
+   {
+      "name": "Oxeloco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.91889000",
+      "longitude": "-98.32556000"
+   },
+   {
+      "name": "PRI Chacón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.08139000",
+      "longitude": "-98.73694000"
+   },
+   {
+      "name": "Pachiquita",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.84608000",
+      "longitude": "-98.33478000"
+   },
+   {
+      "name": "Pachuca de Soto",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11697000",
+      "longitude": "-98.73329000"
+   },
+   {
+      "name": "Pachuquilla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07099000",
+      "longitude": "-98.69572000"
+   },
+   {
+      "name": "Pahactla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.97440000",
+      "longitude": "-98.35634000"
+   },
+   {
+      "name": "Pahuatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.06940000",
+      "longitude": "-98.47667000"
+   },
+   {
+      "name": "Palmillas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.21859000",
+      "longitude": "-99.19840000"
+   },
+   {
+      "name": "Panales",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.46965000",
+      "longitude": "-99.26674000"
+   },
+   {
+      "name": "Panuaya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19500000",
+      "longitude": "-99.27083000"
+   },
+   {
+      "name": "Papatlatla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.90154000",
+      "longitude": "-98.45192000"
+   },
+   {
+      "name": "Parque Urbano Napateco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14278000",
+      "longitude": "-98.34083000"
+   },
+   {
+      "name": "Parque de Poblamiento Solidaridad",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.15194000",
+      "longitude": "-98.38611000"
+   },
+   {
+      "name": "Paseos de la Pradera",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.89111000",
+      "longitude": "-99.23806000"
+   },
+   {
+      "name": "Patria Nueva",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.37151000",
+      "longitude": "-99.05172000"
+   },
+   {
+      "name": "Paxtepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05278000",
+      "longitude": "-98.43139000"
+   },
+   {
+      "name": "Pañhé",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.52167000",
+      "longitude": "-99.69667000"
+   },
+   {
+      "name": "Pedregal de San José",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06616000",
+      "longitude": "-98.40703000"
+   },
+   {
+      "name": "Pino Suárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24577000",
+      "longitude": "-99.42107000"
+   },
+   {
+      "name": "Pisaflores",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.19417000",
+      "longitude": "-99.00551000"
+   },
+   {
+      "name": "Portezuelo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.48687000",
+      "longitude": "-99.30610000"
+   },
+   {
+      "name": "Pozuelos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.49271000",
+      "longitude": "-99.05974000"
+   },
+   {
+      "name": "Praderas del Potrero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.88472000",
+      "longitude": "-99.23028000"
+   },
+   {
+      "name": "Presas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15946000",
+      "longitude": "-99.25242000"
+   },
+   {
+      "name": "Privada del Álamo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09833000",
+      "longitude": "-98.70028000"
+   },
+   {
+      "name": "Progreso",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.01972000",
+      "longitude": "-99.23861000"
+   },
+   {
+      "name": "Progreso de Alvaro Obregon",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24929000",
+      "longitude": "-99.18988000"
+   },
+   {
+      "name": "Pueblo Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.11447000",
+      "longitude": "-98.67817000"
+   },
+   {
+      "name": "Pueblo Nuevo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.45511000",
+      "longitude": "-99.16652000"
+   },
+   {
+      "name": "Residencial Arboledas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06444000",
+      "longitude": "-99.30167000"
+   },
+   {
+      "name": "Rinconada de los Ángeles",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.02611000",
+      "longitude": "-98.71139000"
+   },
+   {
+      "name": "Rinconadas de San Francisco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06611000",
+      "longitude": "-98.76806000"
+   },
+   {
+      "name": "Rinconadas del Venado I",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06361000",
+      "longitude": "-98.76333000"
+   },
+   {
+      "name": "Rincones de la Hacienda",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.12000000",
+      "longitude": "-98.40167000"
+   },
+   {
+      "name": "Rio de la Soledad",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11500000",
+      "longitude": "-98.71194000"
+   },
+   {
+      "name": "Río Seco Puente de Doria",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.21094000",
+      "longitude": "-98.50077000"
+   },
+   {
+      "name": "Salitrillo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.82937000",
+      "longitude": "-99.21594000"
+   },
+   {
+      "name": "San Agustín Tlaxiaca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11510000",
+      "longitude": "-98.88640000"
+   },
+   {
+      "name": "San Agustín Zapotlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.87550000",
+      "longitude": "-98.71426000"
+   },
+   {
+      "name": "San Andrés",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05446000",
+      "longitude": "-99.38008000"
+   },
+   {
+      "name": "San Andrés (San Andrés Chichayotla)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.92667000",
+      "longitude": "-98.56333000"
+   },
+   {
+      "name": "San Antonio",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.53204000",
+      "longitude": "-99.71038000"
+   },
+   {
+      "name": "San Antonio Zaragoza",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.25497000",
+      "longitude": "-98.99828000"
+   },
+   {
+      "name": "San Antonio el Grande",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.45683000",
+      "longitude": "-98.03484000"
+   },
+   {
+      "name": "San Antonio el Paso",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14722000",
+      "longitude": "-98.61611000"
+   },
+   {
+      "name": "San Bartolo Ozocalpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22336000",
+      "longitude": "-99.48906000"
+   },
+   {
+      "name": "San Bartolo Tutotepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.39841000",
+      "longitude": "-98.20080000"
+   },
+   {
+      "name": "San Buenaventura",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.82083000",
+      "longitude": "-99.32209000"
+   },
+   {
+      "name": "San Cristóbal Chacón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.08028000",
+      "longitude": "-98.73278000"
+   },
+   {
+      "name": "San Esteban",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.54452000",
+      "longitude": "-98.06004000"
+   },
+   {
+      "name": "San Felipe Orizatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.17109000",
+      "longitude": "-98.60744000"
+   },
+   {
+      "name": "San Francisco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.01819000",
+      "longitude": "-98.48699000"
+   },
+   {
+      "name": "San Francisco Atotonilco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19472000",
+      "longitude": "-98.15167000"
+   },
+   {
+      "name": "San Gabriel",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17154000",
+      "longitude": "-99.33502000"
+   },
+   {
+      "name": "San Gabriel Azteca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.88039000",
+      "longitude": "-98.61610000"
+   },
+   {
+      "name": "San Gregorio",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.49808000",
+      "longitude": "-98.01809000"
+   },
+   {
+      "name": "San Ignacio Nopala",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.83528000",
+      "longitude": "-99.34556000"
+   },
+   {
+      "name": "San Ildefonso",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99629000",
+      "longitude": "-99.37193000"
+   },
+   {
+      "name": "San Isidro",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.78927000",
+      "longitude": "-98.59141000"
+   },
+   {
+      "name": "San Joaquín",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.50542000",
+      "longitude": "-99.77600000"
+   },
+   {
+      "name": "San José",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.06917000",
+      "longitude": "-98.59444000"
+   },
+   {
+      "name": "San José Atlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.33833000",
+      "longitude": "-99.67396000"
+   },
+   {
+      "name": "San José Boxay",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.26236000",
+      "longitude": "-99.10085000"
+   },
+   {
+      "name": "San José Corral Blanco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.90884000",
+      "longitude": "-98.17811000"
+   },
+   {
+      "name": "San José Ocotillos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.20687000",
+      "longitude": "-98.61306000"
+   },
+   {
+      "name": "San Juan Achichilco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17868000",
+      "longitude": "-99.31462000"
+   },
+   {
+      "name": "San Juan Ahuehueco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.04167000",
+      "longitude": "-98.90694000"
+   },
+   {
+      "name": "San Juan Hueyapan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03000000",
+      "longitude": "-98.28194000"
+   },
+   {
+      "name": "San Juan Solís",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15830000",
+      "longitude": "-98.93147000"
+   },
+   {
+      "name": "San Juan Tepa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.21579000",
+      "longitude": "-99.06592000"
+   },
+   {
+      "name": "San Juan Tilcuautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15873000",
+      "longitude": "-98.80112000"
+   },
+   {
+      "name": "San Juan Tizahuapán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05073000",
+      "longitude": "-98.66540000"
+   },
+   {
+      "name": "San Lorenzo Achiotepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.59732000",
+      "longitude": "-98.06876000"
+   },
+   {
+      "name": "San Lorenzo Sayula",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98921000",
+      "longitude": "-98.29774000"
+   },
+   {
+      "name": "San Luis Tecuhautitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.76736000",
+      "longitude": "-98.88868000"
+   },
+   {
+      "name": "San Marcos",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03056000",
+      "longitude": "-99.33547000"
+   },
+   {
+      "name": "San Marcos Guaquilpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.59853000",
+      "longitude": "-98.62866000"
+   },
+   {
+      "name": "San Mateo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.18267000",
+      "longitude": "-98.24657000"
+   },
+   {
+      "name": "San Miguel Cerezo (El Cerezo)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15909000",
+      "longitude": "-98.72853000"
+   },
+   {
+      "name": "San Miguel Vindho",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99447000",
+      "longitude": "-99.31782000"
+   },
+   {
+      "name": "San Nicolás",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.32218000",
+      "longitude": "-98.18781000"
+   },
+   {
+      "name": "San Nicolás Tecomatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17944000",
+      "longitude": "-99.03639000"
+   },
+   {
+      "name": "San Nicolás el Chico",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09580000",
+      "longitude": "-98.38776000"
+   },
+   {
+      "name": "San Pablo el Grande",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.36127000",
+      "longitude": "-98.15999000"
+   },
+   {
+      "name": "San Pedro Tlachichilco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16109000",
+      "longitude": "-98.26415000"
+   },
+   {
+      "name": "San Pedro Tlaquilpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.94514000",
+      "longitude": "-98.75293000"
+   },
+   {
+      "name": "San Salvador",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.28583000",
+      "longitude": "-99.01457000"
+   },
+   {
+      "name": "San Sebastián Tenochtitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27988000",
+      "longitude": "-99.68879000"
+   },
+   {
+      "name": "Santa Ana Ahuehuepan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.12288000",
+      "longitude": "-99.34497000"
+   },
+   {
+      "name": "Santa Ana Azcapotzaltongo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.94325000",
+      "longitude": "-99.38800000"
+   },
+   {
+      "name": "Santa Ana Batha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.37944000",
+      "longitude": "-99.19186000"
+   },
+   {
+      "name": "Santa Ana Hueytlalpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.17484000",
+      "longitude": "-98.31209000"
+   },
+   {
+      "name": "Santa Ana Tlachiahualpa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.76869000",
+      "longitude": "-98.90885000"
+   },
+   {
+      "name": "Santa Ana Tzacuala",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19798000",
+      "longitude": "-98.20403000"
+   },
+   {
+      "name": "Santa Ana de Allende",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.12301000",
+      "longitude": "-98.98606000"
+   },
+   {
+      "name": "Santa Bárbara",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.66666000",
+      "longitude": "-98.56920000"
+   },
+   {
+      "name": "Santa Catarina",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.10045000",
+      "longitude": "-98.38077000"
+   },
+   {
+      "name": "Santa Clara",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.69889000",
+      "longitude": "-98.57778000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.19813000",
+      "longitude": "-98.49395000"
+   },
+   {
+      "name": "Santa Elena Paliseca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99805000",
+      "longitude": "-98.24144000"
+   },
+   {
+      "name": "Santa Maria Amealco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.23771000",
+      "longitude": "-99.54963000"
+   },
+   {
+      "name": "Santa Maria Macua",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.13605000",
+      "longitude": "-99.47544000"
+   },
+   {
+      "name": "Santa María Actipac",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.85547000",
+      "longitude": "-98.74561000"
+   },
+   {
+      "name": "Santa María Amajac",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22949000",
+      "longitude": "-98.99833000"
+   },
+   {
+      "name": "Santa María Apaxco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.95524000",
+      "longitude": "-99.18680000"
+   },
+   {
+      "name": "Santa María Asunción",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15508000",
+      "longitude": "-98.27037000"
+   },
+   {
+      "name": "Santa María Batha",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22413000",
+      "longitude": "-99.25174000"
+   },
+   {
+      "name": "Santa María Ilucan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99222000",
+      "longitude": "-99.33951000"
+   },
+   {
+      "name": "Santa María Magdalena",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.97398000",
+      "longitude": "-99.37387000"
+   },
+   {
+      "name": "Santa María Nativitas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03901000",
+      "longitude": "-98.29535000"
+   },
+   {
+      "name": "Santa María Quelites",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.85391000",
+      "longitude": "-99.34773000"
+   },
+   {
+      "name": "Santa María Xigui",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.46111000",
+      "longitude": "-99.34500000"
+   },
+   {
+      "name": "Santa María la Calera",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03072000",
+      "longitude": "-98.71929000"
+   },
+   {
+      "name": "Santa Mónica",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98363000",
+      "longitude": "-98.62143000"
+   },
+   {
+      "name": "Santa Teresa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.88989000",
+      "longitude": "-98.38330000"
+   },
+   {
+      "name": "Santa Úrsula",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.42030000",
+      "longitude": "-98.10478000"
+   },
+   {
+      "name": "Santiago Acayutlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19719000",
+      "longitude": "-99.29534000"
+   },
+   {
+      "name": "Santiago Cuaula",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.60136000",
+      "longitude": "-98.64941000"
+   },
+   {
+      "name": "Santiago Jaltepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.10972000",
+      "longitude": "-98.71111000"
+   },
+   {
+      "name": "Santiago Tepeyahualco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.84864000",
+      "longitude": "-98.66970000"
+   },
+   {
+      "name": "Santiago Tezontlale",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16217000",
+      "longitude": "-99.09865000"
+   },
+   {
+      "name": "Santiago Tlaltepoxco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.88365000",
+      "longitude": "-99.26046000"
+   },
+   {
+      "name": "Santiago Tlapacoya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.10925000",
+      "longitude": "-98.83037000"
+   },
+   {
+      "name": "Santiago Tlapanaloya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.87056000",
+      "longitude": "-99.35083000"
+   },
+   {
+      "name": "Santiago Tlautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.96222000",
+      "longitude": "-99.36909000"
+   },
+   {
+      "name": "Santiago Tulantepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03618000",
+      "longitude": "-98.35563000"
+   },
+   {
+      "name": "Santiago de Anaya",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.38410000",
+      "longitude": "-98.96512000"
+   },
+   {
+      "name": "Santo Tomas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.90364000",
+      "longitude": "-98.56882000"
+   },
+   {
+      "name": "Singuilucan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.98964000",
+      "longitude": "-98.51923000"
+   },
+   {
+      "name": "Talol",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.12025000",
+      "longitude": "-98.62655000"
+   },
+   {
+      "name": "Tancazahuela",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.18300000",
+      "longitude": "-98.43483000"
+   },
+   {
+      "name": "Tasquillo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.54698000",
+      "longitude": "-99.34562000"
+   },
+   {
+      "name": "Taxadho",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.43330000",
+      "longitude": "-99.14934000"
+   },
+   {
+      "name": "Teacalco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.80561000",
+      "longitude": "-98.85209000"
+   },
+   {
+      "name": "Tecacahuaco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.94133000",
+      "longitude": "-98.33889000"
+   },
+   {
+      "name": "Tecozautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.53302000",
+      "longitude": "-99.64662000"
+   },
+   {
+      "name": "Tehuetlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.05337000",
+      "longitude": "-98.50853000"
+   },
+   {
+      "name": "Teltipán de Juárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11527000",
+      "longitude": "-99.20146000"
+   },
+   {
+      "name": "Temango",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.13143000",
+      "longitude": "-98.69051000"
+   },
+   {
+      "name": "Tenango",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22714000",
+      "longitude": "-99.29068000"
+   },
+   {
+      "name": "Tenango de Doria",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.33828000",
+      "longitude": "-98.22805000"
+   },
+   {
+      "name": "Teocalco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.08582000",
+      "longitude": "-99.28289000"
+   },
+   {
+      "name": "Teofani",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.32284000",
+      "longitude": "-99.04300000"
+   },
+   {
+      "name": "Tepatepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24568000",
+      "longitude": "-99.08981000"
+   },
+   {
+      "name": "Tepeapulco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.80470000",
+      "longitude": "-98.50153000"
+   },
+   {
+      "name": "Tepehuacán de Guerrero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.01350000",
+      "longitude": "-98.84184000"
+   },
+   {
+      "name": "Tepeitic",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24123000",
+      "longitude": "-99.29084000"
+   },
+   {
+      "name": "Tepeji del Río de Ocampo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.90481000",
+      "longitude": "-99.34379000"
+   },
+   {
+      "name": "Tepepa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.13440000",
+      "longitude": "-98.17131000"
+   },
+   {
+      "name": "Tepetitla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.96140000",
+      "longitude": "-98.38400000"
+   },
+   {
+      "name": "Tepetitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.18301000",
+      "longitude": "-99.38882000"
+   },
+   {
+      "name": "Tepexititla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.13205000",
+      "longitude": "-98.44735000"
+   },
+   {
+      "name": "Tepojaco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.84070000",
+      "longitude": "-98.94759000"
+   },
+   {
+      "name": "Tetepango",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.10168000",
+      "longitude": "-99.15108000"
+   },
+   {
+      "name": "Texcaco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.83982000",
+      "longitude": "-98.61613000"
+   },
+   {
+      "name": "Texcaltepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03028000",
+      "longitude": "-98.32417000"
+   },
+   {
+      "name": "Texcapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.09228000",
+      "longitude": "-98.85403000"
+   },
+   {
+      "name": "Texcatepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.27655000",
+      "longitude": "-99.25375000"
+   },
+   {
+      "name": "Tezapotla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.17381000",
+      "longitude": "-98.81242000"
+   },
+   {
+      "name": "Tezontepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.88063000",
+      "longitude": "-98.81972000"
+   },
+   {
+      "name": "Tezontepec de Aldama",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.19073000",
+      "longitude": "-99.27429000"
+   },
+   {
+      "name": "Tezoquipa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05639000",
+      "longitude": "-99.20472000"
+   },
+   {
+      "name": "Tianguistengo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.72796000",
+      "longitude": "-98.63209000"
+   },
+   {
+      "name": "Tianguistengo (La Romera)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.91417000",
+      "longitude": "-99.32583000"
+   },
+   {
+      "name": "Tiltepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.31394000",
+      "longitude": "-98.68288000"
+   },
+   {
+      "name": "Tinajas",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.89739000",
+      "longitude": "-99.36662000"
+   },
+   {
+      "name": "Tizayuca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.83721000",
+      "longitude": "-98.97607000"
+   },
+   {
+      "name": "Tlacomulco",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.15301000",
+      "longitude": "-98.12027000"
+   },
+   {
+      "name": "Tlacpac",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.14889000",
+      "longitude": "-98.21694000"
+   },
+   {
+      "name": "Tlahuelilpan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.13087000",
+      "longitude": "-99.22677000"
+   },
+   {
+      "name": "Tlahuelompa (San Francisco Tlahuelompa)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.65082000",
+      "longitude": "-98.57522000"
+   },
+   {
+      "name": "Tlahuiltepa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.89805000",
+      "longitude": "-98.96263000"
+   },
+   {
+      "name": "Tlalchiyahualica",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.97086000",
+      "longitude": "-98.39975000"
+   },
+   {
+      "name": "Tlalminulpa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.07491000",
+      "longitude": "-99.22220000"
+   },
+   {
+      "name": "Tlamaco (San Gerónimo Tlamaco)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03472000",
+      "longitude": "-99.22917000"
+   },
+   {
+      "name": "Tlanalapa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.82525000",
+      "longitude": "-98.59449000"
+   },
+   {
+      "name": "Tlanchinol",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.03005000",
+      "longitude": "-98.64996000"
+   },
+   {
+      "name": "Tlaxcalilla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.37731000",
+      "longitude": "-99.81545000"
+   },
+   {
+      "name": "Tlaxcoapan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09163000",
+      "longitude": "-99.22042000"
+   },
+   {
+      "name": "Tlaxocoyucan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.22895000",
+      "longitude": "-98.49034000"
+   },
+   {
+      "name": "Tolcayuca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.94112000",
+      "longitude": "-98.91908000"
+   },
+   {
+      "name": "Tula de Allende",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.05161000",
+      "longitude": "-99.34397000"
+   },
+   {
+      "name": "Tulancingo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.08355000",
+      "longitude": "-98.36288000"
+   },
+   {
+      "name": "Tulancingo de Bravo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.11983000",
+      "longitude": "-98.36049000"
+   },
+   {
+      "name": "Tulipanes",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06028000",
+      "longitude": "-98.76722000"
+   },
+   {
+      "name": "Tunititlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.24938000",
+      "longitude": "-99.24433000"
+   },
+   {
+      "name": "Unidad Habitacional Antonio Osorio de León (Bojay)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.04389000",
+      "longitude": "-99.24472000"
+   },
+   {
+      "name": "Unidad Minera 11 de Julio",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.10472000",
+      "longitude": "-98.72278000"
+   },
+   {
+      "name": "Unidades Habitacionales",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06389000",
+      "longitude": "-98.42056000"
+   },
+   {
+      "name": "Ventoquipa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.03361000",
+      "longitude": "-98.33778000"
+   },
+   {
+      "name": "Vicente Guerrero",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.16567000",
+      "longitude": "-99.05746000"
+   },
+   {
+      "name": "Vicente Guerrero (San Javier)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.94991000",
+      "longitude": "-98.90135000"
+   },
+   {
+      "name": "Vito",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.99014000",
+      "longitude": "-99.19898000"
+   },
+   {
+      "name": "Xiquila",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.07803000",
+      "longitude": "-98.44315000"
+   },
+   {
+      "name": "Xiteje de Zapata",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.09728000",
+      "longitude": "-99.38872000"
+   },
+   {
+      "name": "Xochiatipan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.85794000",
+      "longitude": "-98.28206000"
+   },
+   {
+      "name": "Xochiatipan de Castillo",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.83510000",
+      "longitude": "-98.28556000"
+   },
+   {
+      "name": "Xochicoatlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.79715000",
+      "longitude": "-98.63718000"
+   },
+   {
+      "name": "Xochitlán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.29585000",
+      "longitude": "-99.18741000"
+   },
+   {
+      "name": "Xolostitla de Morelos (Xolostitla)",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.06639000",
+      "longitude": "-98.63861000"
+   },
+   {
+      "name": "Xoxolpa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.87574000",
+      "longitude": "-98.42386000"
+   },
+   {
+      "name": "Yahualica",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.91485000",
+      "longitude": "-98.37868000"
+   },
+   {
+      "name": "Yolotepec",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.38767000",
+      "longitude": "-99.07307000"
+   },
+   {
+      "name": "Zacacuautla",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.21500000",
+      "longitude": "-98.22887000"
+   },
+   {
+      "name": "Zacamulpa",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.00583000",
+      "longitude": "-99.25694000"
+   },
+   {
+      "name": "Zacualtipanito",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "21.15407000",
+      "longitude": "-98.79997000"
+   },
+   {
+      "name": "Zacualtipán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.65002000",
+      "longitude": "-98.65628000"
+   },
+   {
+      "name": "Zapotlán de Juárez",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.97709000",
+      "longitude": "-98.86420000"
+   },
+   {
+      "name": "Zempoala",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.93850000",
+      "longitude": "-98.66871000"
+   },
+   {
+      "name": "Zimapan",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.73814000",
+      "longitude": "-99.38180000"
+   },
+   {
+      "name": "Zocea",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.43760000",
+      "longitude": "-99.35742000"
+   },
+   {
+      "name": "Zoquitipán",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.90902000",
+      "longitude": "-98.43242000"
+   },
+   {
+      "name": "Zothé",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.36959000",
+      "longitude": "-99.71581000"
+   },
+   {
+      "name": "Zotoluca",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "19.61063000",
+      "longitude": "-98.51094000"
+   },
+   {
+      "name": "Álvaro Obregón",
+      "countryCode": "MX",
+      "stateCode": "HID",
+      "latitude": "20.70662000",
+      "longitude": "-99.37323000"
+   }
+]

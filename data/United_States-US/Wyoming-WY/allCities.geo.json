@@ -1,0 +1,562 @@
+[
+   {
+      "name": "Afton",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.72493000",
+      "longitude": "-110.93187000"
+   },
+   {
+      "name": "Albany County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.65447000",
+      "longitude": "-105.72391000"
+   },
+   {
+      "name": "Antelope Valley-Crestview",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.22488000",
+      "longitude": "-105.47409000"
+   },
+   {
+      "name": "Arapahoe",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.96218000",
+      "longitude": "-108.48983000"
+   },
+   {
+      "name": "Bar Nunn",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.91358000",
+      "longitude": "-106.34336000"
+   },
+   {
+      "name": "Basin",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.37996000",
+      "longitude": "-108.03899000"
+   },
+   {
+      "name": "Big Horn County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.52682000",
+      "longitude": "-107.99521000"
+   },
+   {
+      "name": "Buffalo",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.34831000",
+      "longitude": "-106.69894000"
+   },
+   {
+      "name": "Campbell County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.24839000",
+      "longitude": "-105.54831000"
+   },
+   {
+      "name": "Carbon County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.69459000",
+      "longitude": "-106.93061000"
+   },
+   {
+      "name": "Casper",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.86663000",
+      "longitude": "-106.31308000"
+   },
+   {
+      "name": "Cheyenne",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.13998000",
+      "longitude": "-104.82025000"
+   },
+   {
+      "name": "Cody",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.52634000",
+      "longitude": "-109.05653000"
+   },
+   {
+      "name": "Converse County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.97233000",
+      "longitude": "-105.50706000"
+   },
+   {
+      "name": "Crook County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.58860000",
+      "longitude": "-104.56994000"
+   },
+   {
+      "name": "Douglas",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.75969000",
+      "longitude": "-105.38221000"
+   },
+   {
+      "name": "Ethete",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.02496000",
+      "longitude": "-108.77262000"
+   },
+   {
+      "name": "Evanston",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.26828000",
+      "longitude": "-110.96324000"
+   },
+   {
+      "name": "Evansville",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.85997000",
+      "longitude": "-106.26836000"
+   },
+   {
+      "name": "Fort Washakie",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.00635000",
+      "longitude": "-108.88235000"
+   },
+   {
+      "name": "Fox Farm-College",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.11203000",
+      "longitude": "-104.78546000"
+   },
+   {
+      "name": "Fremont County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.04053000",
+      "longitude": "-108.63042000"
+   },
+   {
+      "name": "Gillette",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.29109000",
+      "longitude": "-105.50222000"
+   },
+   {
+      "name": "Glenrock",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.86136000",
+      "longitude": "-105.87223000"
+   },
+   {
+      "name": "Goshen County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.08794000",
+      "longitude": "-104.35326000"
+   },
+   {
+      "name": "Green River",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.52858000",
+      "longitude": "-109.46625000"
+   },
+   {
+      "name": "Greybull",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.48912000",
+      "longitude": "-108.05621000"
+   },
+   {
+      "name": "Guernsey",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.26969000",
+      "longitude": "-104.74163000"
+   },
+   {
+      "name": "Hoback",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.28187000",
+      "longitude": "-110.78381000"
+   },
+   {
+      "name": "Hot Springs County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.71893000",
+      "longitude": "-108.44210000"
+   },
+   {
+      "name": "Jackson",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.47993000",
+      "longitude": "-110.76243000"
+   },
+   {
+      "name": "Johnson County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.03877000",
+      "longitude": "-106.58463000"
+   },
+   {
+      "name": "Kemmerer",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.79245000",
+      "longitude": "-110.53767000"
+   },
+   {
+      "name": "Lander",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.83301000",
+      "longitude": "-108.73067000"
+   },
+   {
+      "name": "Laramie",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.31137000",
+      "longitude": "-105.59110000"
+   },
+   {
+      "name": "Laramie County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.30707000",
+      "longitude": "-104.68962000"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.26404000",
+      "longitude": "-110.65597000"
+   },
+   {
+      "name": "Lovell",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.83745000",
+      "longitude": "-108.38956000"
+   },
+   {
+      "name": "Lusk",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.76247000",
+      "longitude": "-104.45217000"
+   },
+   {
+      "name": "Lyman",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.32745000",
+      "longitude": "-110.29293000"
+   },
+   {
+      "name": "Marbleton",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.55355000",
+      "longitude": "-110.10932000"
+   },
+   {
+      "name": "Mills",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.84052000",
+      "longitude": "-106.36586000"
+   },
+   {
+      "name": "Moorcroft",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.26331000",
+      "longitude": "-104.95025000"
+   },
+   {
+      "name": "Moose Wilson Road",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.52521000",
+      "longitude": "-110.84466000"
+   },
+   {
+      "name": "Mountain View",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.26884000",
+      "longitude": "-110.33988000"
+   },
+   {
+      "name": "Natrona County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.96224000",
+      "longitude": "-106.79849000"
+   },
+   {
+      "name": "Newcastle",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.85470000",
+      "longitude": "-104.20494000"
+   },
+   {
+      "name": "Niobrara County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.05650000",
+      "longitude": "-104.47538000"
+   },
+   {
+      "name": "North Rock Springs",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.64358000",
+      "longitude": "-109.26568000"
+   },
+   {
+      "name": "Park County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.52057000",
+      "longitude": "-109.58853000"
+   },
+   {
+      "name": "Pine Bluffs",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.18193000",
+      "longitude": "-104.06912000"
+   },
+   {
+      "name": "Pinedale",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.86661000",
+      "longitude": "-109.86099000"
+   },
+   {
+      "name": "Platte County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.13305000",
+      "longitude": "-104.96582000"
+   },
+   {
+      "name": "Powell",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.75384000",
+      "longitude": "-108.75735000"
+   },
+   {
+      "name": "Rafter J Ranch",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.42604000",
+      "longitude": "-110.79909000"
+   },
+   {
+      "name": "Ranchettes",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.21859000",
+      "longitude": "-104.79025000"
+   },
+   {
+      "name": "Rawlins",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.79107000",
+      "longitude": "-107.23866000"
+   },
+   {
+      "name": "Riverton",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.02496000",
+      "longitude": "-108.38010000"
+   },
+   {
+      "name": "Rock Springs",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.58746000",
+      "longitude": "-109.20290000"
+   },
+   {
+      "name": "Saratoga",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.45496000",
+      "longitude": "-106.80643000"
+   },
+   {
+      "name": "Sheridan",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.79719000",
+      "longitude": "-106.95618000"
+   },
+   {
+      "name": "Sheridan County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.79004000",
+      "longitude": "-106.87948000"
+   },
+   {
+      "name": "Sleepy Hollow",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.24109000",
+      "longitude": "-105.42222000"
+   },
+   {
+      "name": "South Greeley",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.09693000",
+      "longitude": "-104.80636000"
+   },
+   {
+      "name": "South Park",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.42215000",
+      "longitude": "-110.79326000"
+   },
+   {
+      "name": "Star Valley Ranch",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.97139000",
+      "longitude": "-110.95556000"
+   },
+   {
+      "name": "Sublette County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.76691000",
+      "longitude": "-109.91471000"
+   },
+   {
+      "name": "Sundance",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.40637000",
+      "longitude": "-104.37578000"
+   },
+   {
+      "name": "Sweetwater County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.65950000",
+      "longitude": "-108.87942000"
+   },
+   {
+      "name": "Teton County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.93476000",
+      "longitude": "-110.58974000"
+   },
+   {
+      "name": "Thermopolis",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.64607000",
+      "longitude": "-108.21204000"
+   },
+   {
+      "name": "Torrington",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.06246000",
+      "longitude": "-104.18439000"
+   },
+   {
+      "name": "Uinta County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "41.28756000",
+      "longitude": "-110.54759000"
+   },
+   {
+      "name": "Upton",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.09970000",
+      "longitude": "-104.62802000"
+   },
+   {
+      "name": "Washakie County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.90500000",
+      "longitude": "-107.68286000"
+   },
+   {
+      "name": "Weston County",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.84049000",
+      "longitude": "-104.56783000"
+   },
+   {
+      "name": "Wheatland",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "42.05407000",
+      "longitude": "-104.95295000"
+   },
+   {
+      "name": "Wilson",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.50076000",
+      "longitude": "-110.87521000"
+   },
+   {
+      "name": "Worland",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "44.01690000",
+      "longitude": "-107.95537000"
+   },
+   {
+      "name": "Wright",
+      "countryCode": "US",
+      "stateCode": "WY",
+      "latitude": "43.75124000",
+      "longitude": "-105.49201000"
+   }
+]

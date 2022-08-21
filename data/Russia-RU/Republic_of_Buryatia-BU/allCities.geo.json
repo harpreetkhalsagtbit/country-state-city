@@ -1,0 +1,464 @@
+[
+   {
+      "name": "Babushkin",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.71222000",
+      "longitude": "105.86472000"
+   },
+   {
+      "name": "Bagdarin",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "54.43333000",
+      "longitude": "113.60000000"
+   },
+   {
+      "name": "Barguzin",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "53.61875000",
+      "longitude": "109.63904000"
+   },
+   {
+      "name": "Bayangol",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.69770000",
+      "longitude": "103.46560000"
+   },
+   {
+      "name": "Bichura",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.58806000",
+      "longitude": "107.60222000"
+   },
+   {
+      "name": "Bol’shoy Kunaley",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.43203000",
+      "longitude": "107.60890000"
+   },
+   {
+      "name": "Dzhida",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.67722000",
+      "longitude": "106.18056000"
+   },
+   {
+      "name": "Gusinoozyorsk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.28333000",
+      "longitude": "106.50000000"
+   },
+   {
+      "name": "Gusinoye Ozero",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.11444000",
+      "longitude": "106.26139000"
+   },
+   {
+      "name": "Il’inka",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.11944000",
+      "longitude": "107.27083000"
+   },
+   {
+      "name": "Il’ka",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.72114000",
+      "longitude": "108.52169000"
+   },
+   {
+      "name": "Istok",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.09528000",
+      "longitude": "106.24750000"
+   },
+   {
+      "name": "Ivolginsk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.74919000",
+      "longitude": "107.28374000"
+   },
+   {
+      "name": "Ivolginskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.83333000",
+      "longitude": "107.33333000"
+   },
+   {
+      "name": "Kabansk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.04861000",
+      "longitude": "106.65278000"
+   },
+   {
+      "name": "Kholtoson",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.29810000",
+      "longitude": "103.30970000"
+   },
+   {
+      "name": "Khonkholoy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.13186000",
+      "longitude": "108.22515000"
+   },
+   {
+      "name": "Khorinsk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.16631000",
+      "longitude": "109.77626000"
+   },
+   {
+      "name": "Kichera",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "55.93874000",
+      "longitude": "110.10122000"
+   },
+   {
+      "name": "Kizhinga",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.84760000",
+      "longitude": "109.90795000"
+   },
+   {
+      "name": "Kudara-Somon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.15472000",
+      "longitude": "107.40139000"
+   },
+   {
+      "name": "Kurumkan",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "54.32093000",
+      "longitude": "110.30651000"
+   },
+   {
+      "name": "Kyakhta",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.35737000",
+      "longitude": "106.45033000"
+   },
+   {
+      "name": "Kyren",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.68280000",
+      "longitude": "102.14080000"
+   },
+   {
+      "name": "Mukhorshibirskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.08333000",
+      "longitude": "107.75000000"
+   },
+   {
+      "name": "Mukhorshibir’",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.04986000",
+      "longitude": "107.82997000"
+   },
+   {
+      "name": "Muyskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "56.33333000",
+      "longitude": "115.00000000"
+   },
+   {
+      "name": "Naushki",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.38278000",
+      "longitude": "106.10556000"
+   },
+   {
+      "name": "Nikolayevskiy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.65526000",
+      "longitude": "107.80068000"
+   },
+   {
+      "name": "Nikol’sk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.18867000",
+      "longitude": "108.32187000"
+   },
+   {
+      "name": "Nizhneangarsk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "55.79326000",
+      "longitude": "109.58029000"
+   },
+   {
+      "name": "Nizhniy Sayantuy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.73751000",
+      "longitude": "107.51308000"
+   },
+   {
+      "name": "Novaya Bryan’",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.71699000",
+      "longitude": "108.27014000"
+   },
+   {
+      "name": "Novokizhinginsk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.61620000",
+      "longitude": "109.60265000"
+   },
+   {
+      "name": "Novyy Uoyan",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "56.15722000",
+      "longitude": "111.70556000"
+   },
+   {
+      "name": "Novyy Zagan",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.02858000",
+      "longitude": "107.76376000"
+   },
+   {
+      "name": "Okino-Klyuchi",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.59389000",
+      "longitude": "107.10944000"
+   },
+   {
+      "name": "Okinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.50000000",
+      "longitude": "100.50000000"
+   },
+   {
+      "name": "Onokhoy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.92859000",
+      "longitude": "108.06693000"
+   },
+   {
+      "name": "Orlik",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.51780000",
+      "longitude": "99.82500000"
+   },
+   {
+      "name": "Petropavlovka",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.61140000",
+      "longitude": "105.31960000"
+   },
+   {
+      "name": "Pribaykal’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.50000000",
+      "longitude": "108.00000000"
+   },
+   {
+      "name": "Rechka-Vydrino",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.48920000",
+      "longitude": "104.84290000"
+   },
+   {
+      "name": "Sagan-Nur",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.34360000",
+      "longitude": "108.44490000"
+   },
+   {
+      "name": "Selenduma",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.91306000",
+      "longitude": "106.24056000"
+   },
+   {
+      "name": "Selenginskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.16667000",
+      "longitude": "106.33333000"
+   },
+   {
+      "name": "Severo-Baykal’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "56.00000000",
+      "longitude": "111.50000000"
+   },
+   {
+      "name": "Severobaykal’sk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "55.63695000",
+      "longitude": "109.32297000"
+   },
+   {
+      "name": "Severomuysk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "56.14806000",
+      "longitude": "113.42667000"
+   },
+   {
+      "name": "Sharalday",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.02528000",
+      "longitude": "107.64487000"
+   },
+   {
+      "name": "Sokol",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.80036000",
+      "longitude": "107.44437000"
+   },
+   {
+      "name": "Sosnovo-Ozerskoye",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.52466000",
+      "longitude": "111.54124000"
+   },
+   {
+      "name": "Sotnikovo",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.88448000",
+      "longitude": "107.48250000"
+   },
+   {
+      "name": "Taksimo",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "56.34162000",
+      "longitude": "114.90048000"
+   },
+   {
+      "name": "Tankhoy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.55683000",
+      "longitude": "105.12620000"
+   },
+   {
+      "name": "Tarbagatay",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.48195000",
+      "longitude": "107.36158000"
+   },
+   {
+      "name": "Tataurovo",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.14182000",
+      "longitude": "107.44054000"
+   },
+   {
+      "name": "Turka",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.94920000",
+      "longitude": "108.22170000"
+   },
+   {
+      "name": "Turuntayevo",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "52.20203000",
+      "longitude": "107.64484000"
+   },
+   {
+      "name": "Ulan-Ude",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.82721000",
+      "longitude": "107.60627000"
+   },
+   {
+      "name": "Ust’-Barguzin",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "53.41116000",
+      "longitude": "109.03103000"
+   },
+   {
+      "name": "Vydrino",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.46300000",
+      "longitude": "104.64250000"
+   },
+   {
+      "name": "Zaigrayevo",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.83487000",
+      "longitude": "108.26700000"
+   },
+   {
+      "name": "Zakamensk",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "50.37410000",
+      "longitude": "103.28630000"
+   },
+   {
+      "name": "Zarechnyy",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.84928000",
+      "longitude": "107.52100000"
+   },
+   {
+      "name": "Zhemchug",
+      "countryCode": "RU",
+      "stateCode": "BU",
+      "latitude": "51.68610000",
+      "longitude": "102.45900000"
+   }
+]

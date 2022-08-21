@@ -1,0 +1,667 @@
+[
+   {
+      "name": "Allingåbro",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.46432000",
+      "longitude": "10.31957000"
+   },
+   {
+      "name": "Assentoft",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.44210000",
+      "longitude": "10.15170000"
+   },
+   {
+      "name": "Auning",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.43079000",
+      "longitude": "10.37818000"
+   },
+   {
+      "name": "Avlum",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.26539000",
+      "longitude": "8.79256000"
+   },
+   {
+      "name": "Beder",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.06025000",
+      "longitude": "10.21179000"
+   },
+   {
+      "name": "Bjerringbro",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.37797000",
+      "longitude": "9.66065000"
+   },
+   {
+      "name": "Bording Kirkeby",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.16871000",
+      "longitude": "9.24384000"
+   },
+   {
+      "name": "Brande",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.94316000",
+      "longitude": "9.12798000"
+   },
+   {
+      "name": "Brædstrup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.97153000",
+      "longitude": "9.61129000"
+   },
+   {
+      "name": "Ebeltoft",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.19442000",
+      "longitude": "10.68210000"
+   },
+   {
+      "name": "Favrskov Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.31667000",
+      "longitude": "9.94000000"
+   },
+   {
+      "name": "Framlev",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.15664000",
+      "longitude": "10.01318000"
+   },
+   {
+      "name": "Galten",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.15902000",
+      "longitude": "9.91691000"
+   },
+   {
+      "name": "Gjellerup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.14616000",
+      "longitude": "9.05467000"
+   },
+   {
+      "name": "Grenaa",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.41578000",
+      "longitude": "10.87825000"
+   },
+   {
+      "name": "Hadsten",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.32819000",
+      "longitude": "10.04931000"
+   },
+   {
+      "name": "Hammel",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.25762000",
+      "longitude": "9.86316000"
+   },
+   {
+      "name": "Hammerum",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13361000",
+      "longitude": "9.06121000"
+   },
+   {
+      "name": "Harboøre",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.61752000",
+      "longitude": "8.18069000"
+   },
+   {
+      "name": "Hedensted",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.77043000",
+      "longitude": "9.70110000"
+   },
+   {
+      "name": "Hedensted Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.79680000",
+      "longitude": "9.74400000"
+   },
+   {
+      "name": "Herning",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13615000",
+      "longitude": "8.97662000"
+   },
+   {
+      "name": "Herning Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.14997000",
+      "longitude": "8.89712000"
+   },
+   {
+      "name": "Hinnerup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.26608000",
+      "longitude": "10.06299000"
+   },
+   {
+      "name": "Hjortshøj",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.24811000",
+      "longitude": "10.26533000"
+   },
+   {
+      "name": "Holstebro",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.36009000",
+      "longitude": "8.61607000"
+   },
+   {
+      "name": "Holstebro Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.35916000",
+      "longitude": "8.59631000"
+   },
+   {
+      "name": "Hornslet",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.31550000",
+      "longitude": "10.32041000"
+   },
+   {
+      "name": "Hornsyld",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.75621000",
+      "longitude": "9.85643000"
+   },
+   {
+      "name": "Horsens",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.86066000",
+      "longitude": "9.85034000"
+   },
+   {
+      "name": "Horsens Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.92740000",
+      "longitude": "9.77377000"
+   },
+   {
+      "name": "Hvide Sande",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.99866000",
+      "longitude": "8.12605000"
+   },
+   {
+      "name": "Hørning",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.08701000",
+      "longitude": "10.03716000"
+   },
+   {
+      "name": "Ikast",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13883000",
+      "longitude": "9.15768000"
+   },
+   {
+      "name": "Ikast-Brande Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.98333000",
+      "longitude": "9.21667000"
+   },
+   {
+      "name": "Juelsminde",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.70876000",
+      "longitude": "10.01668000"
+   },
+   {
+      "name": "Karup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.30673000",
+      "longitude": "9.16835000"
+   },
+   {
+      "name": "Kibæk",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.03170000",
+      "longitude": "8.85697000"
+   },
+   {
+      "name": "Kjellerup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.28581000",
+      "longitude": "9.43528000"
+   },
+   {
+      "name": "Kolt",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.10845000",
+      "longitude": "10.06986000"
+   },
+   {
+      "name": "Langå",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.39026000",
+      "longitude": "9.89486000"
+   },
+   {
+      "name": "Lemvig",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.54856000",
+      "longitude": "8.31019000"
+   },
+   {
+      "name": "Lemvig Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.49136000",
+      "longitude": "8.29927000"
+   },
+   {
+      "name": "Lind",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.10600000",
+      "longitude": "8.97915000"
+   },
+   {
+      "name": "Lystrup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.23750000",
+      "longitude": "10.23778000"
+   },
+   {
+      "name": "Løgten",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.27459000",
+      "longitude": "10.31181000"
+   },
+   {
+      "name": "Malling",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.03632000",
+      "longitude": "10.19632000"
+   },
+   {
+      "name": "Mårslet",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.06690000",
+      "longitude": "10.16112000"
+   },
+   {
+      "name": "Norddjurs Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.44124000",
+      "longitude": "10.76660000"
+   },
+   {
+      "name": "Odder",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.97313000",
+      "longitude": "10.15300000"
+   },
+   {
+      "name": "Odder Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.92967000",
+      "longitude": "10.15304000"
+   },
+   {
+      "name": "Randers",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.46070000",
+      "longitude": "10.03639000"
+   },
+   {
+      "name": "Randers Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.51561000",
+      "longitude": "10.06901000"
+   },
+   {
+      "name": "Ringkøbing",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.09006000",
+      "longitude": "8.24402000"
+   },
+   {
+      "name": "Ringkøbing-Skjern Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.01000000",
+      "longitude": "8.39667000"
+   },
+   {
+      "name": "Ry",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.09038000",
+      "longitude": "9.76505000"
+   },
+   {
+      "name": "Ryomgård",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.38430000",
+      "longitude": "10.50295000"
+   },
+   {
+      "name": "Rønde",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.30145000",
+      "longitude": "10.47505000"
+   },
+   {
+      "name": "Sabro",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.21333000",
+      "longitude": "10.03441000"
+   },
+   {
+      "name": "Samsø Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.85245000",
+      "longitude": "10.60045000"
+   },
+   {
+      "name": "Silkeborg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.16970000",
+      "longitude": "9.54508000"
+   },
+   {
+      "name": "Silkeborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.17495000",
+      "longitude": "9.54666000"
+   },
+   {
+      "name": "Skanderborg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.03434000",
+      "longitude": "9.93177000"
+   },
+   {
+      "name": "Skanderborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.07956000",
+      "longitude": "9.89868000"
+   },
+   {
+      "name": "Skive",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.56699000",
+      "longitude": "9.02707000"
+   },
+   {
+      "name": "Skive Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.64478000",
+      "longitude": "8.97660000"
+   },
+   {
+      "name": "Skjern",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.95000000",
+      "longitude": "8.50000000"
+   },
+   {
+      "name": "Skovby",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.15672000",
+      "longitude": "9.94523000"
+   },
+   {
+      "name": "Snejbjerg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13291000",
+      "longitude": "8.90353000"
+   },
+   {
+      "name": "Solbjerg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.04271000",
+      "longitude": "10.08631000"
+   },
+   {
+      "name": "Spentrup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.53703000",
+      "longitude": "10.03792000"
+   },
+   {
+      "name": "Stavtrup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13124000",
+      "longitude": "10.11987000"
+   },
+   {
+      "name": "Stilling",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.06224000",
+      "longitude": "9.98822000"
+   },
+   {
+      "name": "Stoholm",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.48454000",
+      "longitude": "9.14617000"
+   },
+   {
+      "name": "Struer",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.49205000",
+      "longitude": "8.59397000"
+   },
+   {
+      "name": "Struer Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.46667000",
+      "longitude": "8.58333000"
+   },
+   {
+      "name": "Sunds",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.20743000",
+      "longitude": "9.01386000"
+   },
+   {
+      "name": "Svejbæk",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13255000",
+      "longitude": "9.63289000"
+   },
+   {
+      "name": "Syddjurs Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.31250000",
+      "longitude": "10.52083000"
+   },
+   {
+      "name": "Søften",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.23801000",
+      "longitude": "10.08510000"
+   },
+   {
+      "name": "Tarm",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.90861000",
+      "longitude": "8.53041000"
+   },
+   {
+      "name": "Thyborøn",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.69846000",
+      "longitude": "8.21238000"
+   },
+   {
+      "name": "Tranbjerg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.09519000",
+      "longitude": "10.13605000"
+   },
+   {
+      "name": "Trige",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.25291000",
+      "longitude": "10.14840000"
+   },
+   {
+      "name": "Tørring",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "55.85000000",
+      "longitude": "9.48333000"
+   },
+   {
+      "name": "Ulfborg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.26725000",
+      "longitude": "8.32167000"
+   },
+   {
+      "name": "Ulstrup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.38994000",
+      "longitude": "9.79354000"
+   },
+   {
+      "name": "Viborg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.45319000",
+      "longitude": "9.40201000"
+   },
+   {
+      "name": "Viborg Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.45000000",
+      "longitude": "9.36667000"
+   },
+   {
+      "name": "Videbæk",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.08760000",
+      "longitude": "8.62852000"
+   },
+   {
+      "name": "Vildbjerg",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.20000000",
+      "longitude": "8.76667000"
+   },
+   {
+      "name": "Vinderup",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.48176000",
+      "longitude": "8.77991000"
+   },
+   {
+      "name": "Virklund",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.13218000",
+      "longitude": "9.55582000"
+   },
+   {
+      "name": "Århus",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.15674000",
+      "longitude": "10.21076000"
+   },
+   {
+      "name": "Århus Kommune",
+      "countryCode": "DK",
+      "stateCode": "82",
+      "latitude": "56.16317000",
+      "longitude": "10.16897000"
+   }
+]

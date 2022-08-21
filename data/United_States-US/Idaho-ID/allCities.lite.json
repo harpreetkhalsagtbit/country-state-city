@@ -1,0 +1,712 @@
+[
+   {
+      "name": "Aberdeen",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ada County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "American Falls",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ammon",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Arco",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ashton",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bannock County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bear Lake County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bellevue",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Benewah County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bingham County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Blackfoot",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Blaine County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Boise",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Boise County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bonner County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bonners Ferry",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Bonneville County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Boundary County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Buhl",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Burley",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Butte County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Caldwell",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Camas County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Canyon County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Caribou County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Cascade",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Cassia County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Challis",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Chubbuck",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Clark County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Clearwater County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Coeur d'Alene",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Council",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Custer County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Dalton Gardens",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Driggs",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Dubois",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Eagle",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Elmore County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Emmett",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Fairfield",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Filer",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Fort Hall",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Franklin County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Fremont County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Fruitland",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Garden City",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Gem County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Glenns Ferry",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Gooding",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Gooding County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Grangeville",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Hailey",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Hansen",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Hayden",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Heyburn",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Hidden Spring",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Homedale",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Idaho City",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Idaho County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Idaho Falls",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Iona",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Jefferson County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Jerome",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Jerome County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Kamiah",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Kellogg",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ketchum",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Kimberly",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Kootenai County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Kuna",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lapwai",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Latah County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lemhi County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lewis County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lewiston",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lewiston Orchards",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lincoln",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Lincoln County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Madison County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Malad City",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Marsing",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "McCall",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Meridian",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Middleton",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Minidoka County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Montpelier",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Moreland",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Moscow",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Mountain Home",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Murphy",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Nampa",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "New Plymouth",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Nez Perce County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Nezperce",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Oneida County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Orofino",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Osburn",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Owyhee County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Paris",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Parma",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Paul",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Payette",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Payette County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Pinehurst",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Plummer",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Pocatello",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ponderay",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Post Falls",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Power County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Preston",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Priest River",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Rathdrum",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Rexburg",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Rigby",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Rupert",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Saint Anthony",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Saint Maries",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Salmon",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Sandpoint",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Shelley",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Shoshone",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Shoshone County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Soda Springs",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Spirit Lake",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Star",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Sugar City",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Sun Valley",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Teton County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Twin Falls",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Twin Falls County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Tyhee",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Ucon",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Valley County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Victor",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Wallace",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Washington County",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Weiser",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Wendell",
+      "countryCode": "US",
+      "stateCode": "ID"
+   },
+   {
+      "name": "Wilder",
+      "countryCode": "US",
+      "stateCode": "ID"
+   }
+]

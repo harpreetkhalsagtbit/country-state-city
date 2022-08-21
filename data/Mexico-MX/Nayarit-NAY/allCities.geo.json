@@ -1,0 +1,828 @@
+[
+   {
+      "name": "Acaponeta",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.49396000",
+      "longitude": "-105.36369000"
+   },
+   {
+      "name": "Ahuacatlán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.05405000",
+      "longitude": "-104.48398000"
+   },
+   {
+      "name": "Amapa",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.78359000",
+      "longitude": "-105.25482000"
+   },
+   {
+      "name": "Amatlán de Cañas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.80699000",
+      "longitude": "-104.40408000"
+   },
+   {
+      "name": "Aquiles Serdán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.38198000",
+      "longitude": "-104.88891000"
+   },
+   {
+      "name": "Aticama",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.48387000",
+      "longitude": "-105.19787000"
+   },
+   {
+      "name": "Atonalisco",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.66551000",
+      "longitude": "-104.83949000"
+   },
+   {
+      "name": "Aután",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.68973000",
+      "longitude": "-105.30750000"
+   },
+   {
+      "name": "Bellavista",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.56236000",
+      "longitude": "-104.88267000"
+   },
+   {
+      "name": "Bucerías",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.75626000",
+      "longitude": "-105.33438000"
+   },
+   {
+      "name": "Camalotita",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.40453000",
+      "longitude": "-105.43156000"
+   },
+   {
+      "name": "Camichín de Jauja",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.46532000",
+      "longitude": "-104.80080000"
+   },
+   {
+      "name": "Cañada del Tabaco",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.70972000",
+      "longitude": "-105.35417000"
+   },
+   {
+      "name": "Chapalilla",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.18852000",
+      "longitude": "-104.63783000"
+   },
+   {
+      "name": "Chilapa",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.03138000",
+      "longitude": "-105.23057000"
+   },
+   {
+      "name": "Colonia Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.82861000",
+      "longitude": "-105.21972000"
+   },
+   {
+      "name": "Colonia Paraíso Escondido",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.05333000",
+      "longitude": "-105.23833000"
+   },
+   {
+      "name": "Compostela",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.23777000",
+      "longitude": "-104.90010000"
+   },
+   {
+      "name": "Corral del Risco (Punta de Mita)",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.77361000",
+      "longitude": "-105.51667000"
+   },
+   {
+      "name": "Cruz de Huanacaxtle",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.75415000",
+      "longitude": "-105.37734000"
+   },
+   {
+      "name": "Cuamiles",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.92347000",
+      "longitude": "-105.25405000"
+   },
+   {
+      "name": "El Ahuacate",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.51535000",
+      "longitude": "-104.94436000"
+   },
+   {
+      "name": "El Botadero",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.75404000",
+      "longitude": "-105.28640000"
+   },
+   {
+      "name": "El Capomal",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.83935000",
+      "longitude": "-105.12116000"
+   },
+   {
+      "name": "El Corte",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.72025000",
+      "longitude": "-105.24488000"
+   },
+   {
+      "name": "El Jicote",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.72545000",
+      "longitude": "-105.05787000"
+   },
+   {
+      "name": "El Llano",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.41854000",
+      "longitude": "-105.17963000"
+   },
+   {
+      "name": "El Rosario",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.89195000",
+      "longitude": "-104.46836000"
+   },
+   {
+      "name": "El Tamarindo",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.95810000",
+      "longitude": "-105.23220000"
+   },
+   {
+      "name": "El Tizate",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.80179000",
+      "longitude": "-105.11670000"
+   },
+   {
+      "name": "El Vado de San Pedro",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.94742000",
+      "longitude": "-105.18005000"
+   },
+   {
+      "name": "El Venado",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.94426000",
+      "longitude": "-105.00100000"
+   },
+   {
+      "name": "Emiliano Zapata",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.36477000",
+      "longitude": "-104.91283000"
+   },
+   {
+      "name": "Felipe Carrillo Puerto",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.13200000",
+      "longitude": "-104.86068000"
+   },
+   {
+      "name": "Francisco I. Madero",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.58186000",
+      "longitude": "-104.81927000"
+   },
+   {
+      "name": "Guadalupe Victoria",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.67972000",
+      "longitude": "-105.32750000"
+   },
+   {
+      "name": "Higuera Blanca",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.79746000",
+      "longitude": "-105.46747000"
+   },
+   {
+      "name": "Huajicori",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.63667000",
+      "longitude": "-105.31972000"
+   },
+   {
+      "name": "Huajimic",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.68347000",
+      "longitude": "-104.31542000"
+   },
+   {
+      "name": "Ixtapan de la Concepción",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.30774000",
+      "longitude": "-105.15773000"
+   },
+   {
+      "name": "Ixtlán del Río",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.03907000",
+      "longitude": "-104.37116000"
+   },
+   {
+      "name": "Jalcocotán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.48122000",
+      "longitude": "-105.09851000"
+   },
+   {
+      "name": "Jesús María",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.25056000",
+      "longitude": "-104.51792000"
+   },
+   {
+      "name": "Jomulco",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.10394000",
+      "longitude": "-104.42378000"
+   },
+   {
+      "name": "Juan Escutia (Borbollón)",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.16741000",
+      "longitude": "-104.86698000"
+   },
+   {
+      "name": "La Cantera",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.50308000",
+      "longitude": "-104.82237000"
+   },
+   {
+      "name": "La Corregidora",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.44417000",
+      "longitude": "-104.81222000"
+   },
+   {
+      "name": "La Fortuna",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.55285000",
+      "longitude": "-104.95077000"
+   },
+   {
+      "name": "La Guásima",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.40607000",
+      "longitude": "-105.38767000"
+   },
+   {
+      "name": "La Labor",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.37299000",
+      "longitude": "-104.71910000"
+   },
+   {
+      "name": "La Libertad",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.59347000",
+      "longitude": "-105.17365000"
+   },
+   {
+      "name": "La Palma",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.49172000",
+      "longitude": "-105.17817000"
+   },
+   {
+      "name": "La Peñita de Jaltomba",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.03884000",
+      "longitude": "-105.24792000"
+   },
+   {
+      "name": "La Presa",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.34358000",
+      "longitude": "-105.39350000"
+   },
+   {
+      "name": "La Yesca",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.31871000",
+      "longitude": "-104.01161000"
+   },
+   {
+      "name": "Las Jarretaderas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.69250000",
+      "longitude": "-105.27389000"
+   },
+   {
+      "name": "Las Varas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.18021000",
+      "longitude": "-105.13595000"
+   },
+   {
+      "name": "Llano del Tigre",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.12707000",
+      "longitude": "-105.30581000"
+   },
+   {
+      "name": "Lo de Lamedo",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.53843000",
+      "longitude": "-104.93945000"
+   },
+   {
+      "name": "Lo de Marcos",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.95509000",
+      "longitude": "-105.35223000"
+   },
+   {
+      "name": "Los Aguajes",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.10729000",
+      "longitude": "-104.35447000"
+   },
+   {
+      "name": "Los Otates",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.70427000",
+      "longitude": "-105.37622000"
+   },
+   {
+      "name": "Mecatán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.53643000",
+      "longitude": "-105.11946000"
+   },
+   {
+      "name": "Mesa del Nayar",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.21770000",
+      "longitude": "-104.65352000"
+   },
+   {
+      "name": "Mezcales",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.73072000",
+      "longitude": "-105.28257000"
+   },
+   {
+      "name": "Milpas Viejas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.36478000",
+      "longitude": "-105.47549000"
+   },
+   {
+      "name": "Mojarras",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.42592000",
+      "longitude": "-104.60851000"
+   },
+   {
+      "name": "Monteón",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.99108000",
+      "longitude": "-105.29988000"
+   },
+   {
+      "name": "Méxpan",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.03567000",
+      "longitude": "-104.41479000"
+   },
+   {
+      "name": "Navarrete",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.64841000",
+      "longitude": "-105.11539000"
+   },
+   {
+      "name": "Nuevo Vallarta",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.70169000",
+      "longitude": "-105.29417000"
+   },
+   {
+      "name": "Palma Grande",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.99333000",
+      "longitude": "-105.38944000"
+   },
+   {
+      "name": "Palmar de Cuautla",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.21972000",
+      "longitude": "-105.64750000"
+   },
+   {
+      "name": "Pantanal",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.42824000",
+      "longitude": "-104.86122000"
+   },
+   {
+      "name": "Pericos",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.04925000",
+      "longitude": "-105.35402000"
+   },
+   {
+      "name": "Pozo de Ibarra",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.86692000",
+      "longitude": "-105.27949000"
+   },
+   {
+      "name": "Puerta de Mangos",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.71853000",
+      "longitude": "-105.33534000"
+   },
+   {
+      "name": "Puga",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.58443000",
+      "longitude": "-104.82318000"
+   },
+   {
+      "name": "Quimichis",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.36122000",
+      "longitude": "-105.53913000"
+   },
+   {
+      "name": "Rincón de Guayabitos",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.02315000",
+      "longitude": "-105.27054000"
+   },
+   {
+      "name": "Rosa Blanca",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.12454000",
+      "longitude": "-104.35811000"
+   },
+   {
+      "name": "Rosamorada",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.12208000",
+      "longitude": "-105.20640000"
+   },
+   {
+      "name": "Ruíz",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.95107000",
+      "longitude": "-105.14380000"
+   },
+   {
+      "name": "San Blas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.54333000",
+      "longitude": "-105.28558000"
+   },
+   {
+      "name": "San Cayetano",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.44949000",
+      "longitude": "-104.81702000"
+   },
+   {
+      "name": "San Clemente de Lima",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.73722000",
+      "longitude": "-105.27083000"
+   },
+   {
+      "name": "San Felipe Aztatán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.38374000",
+      "longitude": "-105.41980000"
+   },
+   {
+      "name": "San Francisco",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.90196000",
+      "longitude": "-105.41279000"
+   },
+   {
+      "name": "San José de Gracia",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.48105000",
+      "longitude": "-105.37869000"
+   },
+   {
+      "name": "San Juan Bautista",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.14359000",
+      "longitude": "-105.09750000"
+   },
+   {
+      "name": "San Juan de Abajo",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.81484000",
+      "longitude": "-105.19154000"
+   },
+   {
+      "name": "San Luis de Lozada",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.50297000",
+      "longitude": "-104.70552000"
+   },
+   {
+      "name": "San Pedro Lagunillas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.21920000",
+      "longitude": "-104.75228000"
+   },
+   {
+      "name": "San Vicente",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.95043000",
+      "longitude": "-105.29710000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.98118000",
+      "longitude": "-105.60169000"
+   },
+   {
+      "name": "Santa Isabel",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.16304000",
+      "longitude": "-104.62374000"
+   },
+   {
+      "name": "Santa María del Oro",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.33390000",
+      "longitude": "-104.58696000"
+   },
+   {
+      "name": "Santa Teresa",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.49730000",
+      "longitude": "-104.76547000"
+   },
+   {
+      "name": "Santiago Ixcuintla",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.81295000",
+      "longitude": "-105.20844000"
+   },
+   {
+      "name": "Santiago de Pochotitán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.58159000",
+      "longitude": "-104.69858000"
+   },
+   {
+      "name": "Sauta",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.72116000",
+      "longitude": "-105.14249000"
+   },
+   {
+      "name": "Sayulilla",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.43822000",
+      "longitude": "-105.39137000"
+   },
+   {
+      "name": "Sayulita",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.87006000",
+      "longitude": "-105.43992000"
+   },
+   {
+      "name": "Sentispac",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.80478000",
+      "longitude": "-105.34593000"
+   },
+   {
+      "name": "Tecuala",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "22.39815000",
+      "longitude": "-105.45808000"
+   },
+   {
+      "name": "Tepic",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.50951000",
+      "longitude": "-104.89569000"
+   },
+   {
+      "name": "Tequepexpan",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.21571000",
+      "longitude": "-104.56958000"
+   },
+   {
+      "name": "Testerazo",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.40242000",
+      "longitude": "-104.89420000"
+   },
+   {
+      "name": "Tetitlán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.12903000",
+      "longitude": "-104.61613000"
+   },
+   {
+      "name": "Unión de Corrientes",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.97644000",
+      "longitude": "-105.43026000"
+   },
+   {
+      "name": "Uzeta",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.11497000",
+      "longitude": "-104.60171000"
+   },
+   {
+      "name": "Valle de Banderas",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "20.80792000",
+      "longitude": "-105.24813000"
+   },
+   {
+      "name": "Villa Hidalgo",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.74185000",
+      "longitude": "-105.23096000"
+   },
+   {
+      "name": "Villa Juárez",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.68917000",
+      "longitude": "-105.38972000"
+   },
+   {
+      "name": "Yago",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.83601000",
+      "longitude": "-105.06451000"
+   },
+   {
+      "name": "Zacualpan",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.24715000",
+      "longitude": "-105.16570000"
+   },
+   {
+      "name": "Zapotanito",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.30533000",
+      "longitude": "-104.60899000"
+   },
+   {
+      "name": "Zapotán",
+      "countryCode": "MX",
+      "stateCode": "NAY",
+      "latitude": "21.08936000",
+      "longitude": "-104.86246000"
+   }
+]

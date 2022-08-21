@@ -1,0 +1,646 @@
+[
+   {
+      "name": "Altuf’yevskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.88333000",
+      "longitude": "37.58333000"
+   },
+   {
+      "name": "Amin’yevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.46667000"
+   },
+   {
+      "name": "Annino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.58333000",
+      "longitude": "37.60000000"
+   },
+   {
+      "name": "Babushkin",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.86931000",
+      "longitude": "37.72966000"
+   },
+   {
+      "name": "Bibirevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.88333000",
+      "longitude": "37.60000000"
+   },
+   {
+      "name": "Biryulëvo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.58635000",
+      "longitude": "37.67781000"
+   },
+   {
+      "name": "Bogorodskoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.81353000",
+      "longitude": "37.71617000"
+   },
+   {
+      "name": "Brateyevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.63755000",
+      "longitude": "37.76438000"
+   },
+   {
+      "name": "Chertanovo Yuzhnoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.59072000",
+      "longitude": "37.59519000"
+   },
+   {
+      "name": "Cherëmushki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.66473000",
+      "longitude": "37.56135000"
+   },
+   {
+      "name": "Davydkovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71815000",
+      "longitude": "37.47271000"
+   },
+   {
+      "name": "Golovinskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.85381000",
+      "longitude": "37.49604000"
+   },
+   {
+      "name": "Gol’yanovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.82299000",
+      "longitude": "37.81306000"
+   },
+   {
+      "name": "Ivanovskoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.76667000",
+      "longitude": "37.83333000"
+   },
+   {
+      "name": "Kapotnya",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.63806000",
+      "longitude": "37.79306000"
+   },
+   {
+      "name": "Kokoshkino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.59769000",
+      "longitude": "37.16950000"
+   },
+   {
+      "name": "Kolomenskoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.66667000",
+      "longitude": "37.68333000"
+   },
+   {
+      "name": "Kotlovka",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65928000",
+      "longitude": "37.60404000"
+   },
+   {
+      "name": "Kozeyevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.86667000",
+      "longitude": "37.61667000"
+   },
+   {
+      "name": "Krasnaya Pahra",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.43223000",
+      "longitude": "37.26966000"
+   },
+   {
+      "name": "Kur’yanovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65000000",
+      "longitude": "37.70000000"
+   },
+   {
+      "name": "Kuz’minki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.80000000"
+   },
+   {
+      "name": "LMS",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.31425000",
+      "longitude": "37.18546000"
+   },
+   {
+      "name": "Lefortovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.76667000",
+      "longitude": "37.70000000"
+   },
+   {
+      "name": "Leonovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.85000000",
+      "longitude": "37.65000000"
+   },
+   {
+      "name": "Lianozovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.89783000",
+      "longitude": "37.58680000"
+   },
+   {
+      "name": "Likhobory",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.85000000",
+      "longitude": "37.56667000"
+   },
+   {
+      "name": "Luzhniki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71599000",
+      "longitude": "37.55376000"
+   },
+   {
+      "name": "Lyublino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.67738000",
+      "longitude": "37.76005000"
+   },
+   {
+      "name": "Mar’ino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65000000",
+      "longitude": "37.71667000"
+   },
+   {
+      "name": "Matveyevskoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71112000",
+      "longitude": "37.47502000"
+   },
+   {
+      "name": "Metrogorodok",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.80961000",
+      "longitude": "37.78739000"
+   },
+   {
+      "name": "Mikhalkovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.68333000",
+      "longitude": "37.43333000"
+   },
+   {
+      "name": "Moscow",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.75222000",
+      "longitude": "37.61556000"
+   },
+   {
+      "name": "Moskovskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.59911000",
+      "longitude": "37.35495000"
+   },
+   {
+      "name": "Nagornyy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65000000",
+      "longitude": "37.61667000"
+   },
+   {
+      "name": "Nekrasovka",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.69328000",
+      "longitude": "37.91148000"
+   },
+   {
+      "name": "Nikol’skoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.68333000",
+      "longitude": "37.48333000"
+   },
+   {
+      "name": "Nikulino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.66943000",
+      "longitude": "37.46598000"
+   },
+   {
+      "name": "Novo-Peredelkino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.64528000",
+      "longitude": "37.33583000"
+   },
+   {
+      "name": "Novogireyevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.75378000",
+      "longitude": "37.81885000"
+   },
+   {
+      "name": "Novokhovrino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.86667000",
+      "longitude": "37.50000000"
+   },
+   {
+      "name": "Novokuz’minki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71667000",
+      "longitude": "37.78333000"
+   },
+   {
+      "name": "Novovladykino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.85000000",
+      "longitude": "37.58333000"
+   },
+   {
+      "name": "Novyye Cherëmushki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.58333000"
+   },
+   {
+      "name": "Novyye Kuz’minki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.75000000"
+   },
+   {
+      "name": "Ochakovo-Matveyevskoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.68432000",
+      "longitude": "37.44654000"
+   },
+   {
+      "name": "Orekhovo-Borisovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.61252000",
+      "longitude": "37.72639000"
+   },
+   {
+      "name": "Orekhovo-Borisovo Severnoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.61667000",
+      "longitude": "37.68333000"
+   },
+   {
+      "name": "Ostankinskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.82957000",
+      "longitude": "37.61604000"
+   },
+   {
+      "name": "Otradnoye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.86667000",
+      "longitude": "37.60000000"
+   },
+   {
+      "name": "Pokrovskoye-Streshnëvo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.80797000",
+      "longitude": "37.45814000"
+   },
+   {
+      "name": "Presnenskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.75000000",
+      "longitude": "37.55000000"
+   },
+   {
+      "name": "Ramenki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.50000000"
+   },
+   {
+      "name": "Rostokino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.83333000",
+      "longitude": "37.66667000"
+   },
+   {
+      "name": "Rublëvo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.78514000",
+      "longitude": "37.35481000"
+   },
+   {
+      "name": "Ryazanskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.73333000",
+      "longitude": "37.76667000"
+   },
+   {
+      "name": "Setun’",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71667000",
+      "longitude": "37.41667000"
+   },
+   {
+      "name": "Severnyy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.93583000",
+      "longitude": "37.54889000"
+   },
+   {
+      "name": "Shcherbinka",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.49972000",
+      "longitude": "37.55972000"
+   },
+   {
+      "name": "Shchukino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.80000000",
+      "longitude": "37.45000000"
+   },
+   {
+      "name": "Slobodka",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.86667000",
+      "longitude": "37.58333000"
+   },
+   {
+      "name": "Sokol",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.80000000",
+      "longitude": "37.51667000"
+   },
+   {
+      "name": "Sokol’niki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.80202000",
+      "longitude": "37.67159000"
+   },
+   {
+      "name": "Solntsevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.63711000",
+      "longitude": "37.38115000"
+   },
+   {
+      "name": "Strogino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.81838000",
+      "longitude": "37.41224000"
+   },
+   {
+      "name": "Sviblovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.85000000",
+      "longitude": "37.63333000"
+   },
+   {
+      "name": "Taganskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.73333000",
+      "longitude": "37.66667000"
+   },
+   {
+      "name": "Tekstil’shchiki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70033000",
+      "longitude": "37.74271000"
+   },
+   {
+      "name": "Tolstopal’tsevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.61026000",
+      "longitude": "37.21834000"
+   },
+   {
+      "name": "Troitsk",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.48498000",
+      "longitude": "37.30736000"
+   },
+   {
+      "name": "Troparëvo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65625000",
+      "longitude": "37.48496000"
+   },
+   {
+      "name": "Tsaritsyno",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.62540000",
+      "longitude": "37.65032000"
+   },
+   {
+      "name": "Tsentral’nyy Administrativnyy Okrug",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.74943000",
+      "longitude": "37.62371000"
+   },
+   {
+      "name": "Tyoply Stan",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.62047000",
+      "longitude": "37.49338000"
+   },
+   {
+      "name": "Vagonoremont",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.90000000",
+      "longitude": "37.55000000"
+   },
+   {
+      "name": "Vatutinki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.49650000",
+      "longitude": "37.32988000"
+   },
+   {
+      "name": "Vatutino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.88441000",
+      "longitude": "37.69055000"
+   },
+   {
+      "name": "Veshnyaki",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.72393000",
+      "longitude": "37.81952000"
+   },
+   {
+      "name": "Vnukovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.61194000",
+      "longitude": "37.29611000"
+   },
+   {
+      "name": "Vorob’yovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.71667000",
+      "longitude": "37.53333000"
+   },
+   {
+      "name": "Vostochnoe Degunino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.88010000",
+      "longitude": "37.55758000"
+   },
+   {
+      "name": "Vostochnyy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.81667000",
+      "longitude": "37.86667000"
+   },
+   {
+      "name": "Vykhino-Zhulebino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70196000",
+      "longitude": "37.81178000"
+   },
+   {
+      "name": "Yaroslavskiy",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.88333000",
+      "longitude": "37.71667000"
+   },
+   {
+      "name": "Yasenevo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.60686000",
+      "longitude": "37.51991000"
+   },
+   {
+      "name": "Zagor’ye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.57657000",
+      "longitude": "37.66709000"
+   },
+   {
+      "name": "Zamoskvorech’ye",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.73333000",
+      "longitude": "37.63333000"
+   },
+   {
+      "name": "Zelenograd",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.98250000",
+      "longitude": "37.18139000"
+   },
+   {
+      "name": "Zhulebino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.70000000",
+      "longitude": "37.85000000"
+   },
+   {
+      "name": "Zyablikovo",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.61667000",
+      "longitude": "37.76667000"
+   },
+   {
+      "name": "Zyuzino",
+      "countryCode": "RU",
+      "stateCode": "MOW",
+      "latitude": "55.65608000",
+      "longitude": "37.56846000"
+   }
+]

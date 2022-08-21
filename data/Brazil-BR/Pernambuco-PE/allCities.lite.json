@@ -1,0 +1,967 @@
+[
+   {
+      "name": "Abreu e Lima",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Afogados da Ingazeira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Afrânio",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Agrestina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Alagoinha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Aliança",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Altinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Amaraji",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Angelim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Araripina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Araçoiaba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Arcoverde",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Barra de Guabiraba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Barreiros",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Belo Jardim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Belém de Maria",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Belém de São Francisco",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Belém do São Francisco",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Betânia",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Bezerros",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Bodocó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Bom Conselho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Bom Jardim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Bonito",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Brejinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Brejo da Madre de Deus",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Brejão",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Buenos Aires",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Buíque",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cabo",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cabo de Santo Agostinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cabrobó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cachoeirinha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Caetés",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Calumbi",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Calçado",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Camaragibe",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Camocim de São Félix",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Camutanga",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Canhotinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Capoeiras",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Carnaubeira da Penha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Carnaíba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Carpina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Caruaru",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Casinhas",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Catende",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cedro",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Chã Grande",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Chã de Alegria",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Colônia Leopoldina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Condado",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Correntes",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cortês",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cumaru",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Cupira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Custódia",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Dormentes",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Escada",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Exu",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Feira Nova",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Fernando de Noronha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Fernando de Noronha (Distrito Estadual)",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ferreiros",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Flores",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Floresta",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Frei Miguelinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Gameleira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Garanhuns",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Glória do Goitá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Goiana",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Granito",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Gravatá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Guabiraba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Iati",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ibimirim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ibirajuba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Igarassu",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Iguaracy",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ilha de Itamaracá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Inajá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ingazeira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ipojuca",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ipubi",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itacuruba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itamaracá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itambé",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itapetim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itapissuma",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itaquitinga",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Itaíba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jaboatão",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jaboatão dos Guararapes",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jaqueira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jataúba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jatobá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Joaquim Nabuco",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "João Alfredo",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jucati",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jupi",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Jurema",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa Grande",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa de Itaenga",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa do Carro",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa do Itaenga",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa do Ouro",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lagoa dos Gatos",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Lajedo",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Limoeiro",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Macaparana",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Machados",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Manari",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Maraial",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Mirandiba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Moreilândia",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Moreno",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Nazaré da Mata",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Olinda",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Orobó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Orocó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ouricuri",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Palmares",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Palmeirina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Panelas",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Paranatama",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Parnamirim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Passira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Paudalho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Paulista",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Pedra",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Pesqueira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Petrolina",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Petrolândia",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Pombos",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Poção",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Primavera",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Quipapá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Quixaba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Recife",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Riacho das Almas",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Ribeirão",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Rio Formoso",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Sairé",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Salgadinho",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Salgueiro",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Saloá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Sanharó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Cruz da Baixa Verde",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Cruz do Capibaribe",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Filomena",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Maria da Boa Vista",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Maria do Cambucá",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Santa Terezinha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Serra Talhada",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Serrita",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Sertânia",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Sirinhaém",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Solidão",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Surubim",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Benedito do Sul",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Bento do Una",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Caitano",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Joaquim do Monte",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São José da Coroa Grande",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São José do Belmonte",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São José do Egito",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São João",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Lourenço da Mata",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "São Vicente Férrer",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tabira",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tacaimbó",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tacaratu",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tamandaré",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Taquaritinga do Norte",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Terezinha",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Terra Nova",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Timbaúba",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Toritama",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tracunhaém",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Trindade",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Triunfo",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tupanatinga",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Tuparetama",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Venturosa",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Verdejante",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Vertente do Lério",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Vertentes",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Vicência",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Vitória de Santo Antão",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Xexéu",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Água Preta",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   },
+   {
+      "name": "Águas Belas",
+      "countryCode": "BR",
+      "stateCode": "PE"
+   }
+]

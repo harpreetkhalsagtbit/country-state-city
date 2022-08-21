@@ -1,0 +1,779 @@
+[
+   {
+      "name": "Badu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.81028000",
+      "longitude": "119.56417000"
+   },
+   {
+      "name": "Baiqi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.88244000",
+      "longitude": "118.70869000"
+   },
+   {
+      "name": "Baiyun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.03648000",
+      "longitude": "118.90622000"
+   },
+   {
+      "name": "Beishancun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.43732000",
+      "longitude": "119.63372000"
+   },
+   {
+      "name": "Changqiao",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.82139000",
+      "longitude": "118.84361000"
+   },
+   {
+      "name": "Chengmen",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "25.99339000",
+      "longitude": "119.36136000"
+   },
+   {
+      "name": "Chixi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.91111000",
+      "longitude": "119.48306000"
+   },
+   {
+      "name": "Chongru",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.95111000",
+      "longitude": "119.92528000"
+   },
+   {
+      "name": "Dadeng",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.54386000",
+      "longitude": "118.32753000"
+   },
+   {
+      "name": "Daixi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.81250000",
+      "longitude": "119.11417000"
+   },
+   {
+      "name": "Danyang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.35102000",
+      "longitude": "119.48030000"
+   },
+   {
+      "name": "Daqiao",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.61500000",
+      "longitude": "118.90639000"
+   },
+   {
+      "name": "Dazuo",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.88616000",
+      "longitude": "118.96433000"
+   },
+   {
+      "name": "Dinghaicun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.28022000",
+      "longitude": "119.78964000"
+   },
+   {
+      "name": "Dingtoucun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.83977000",
+      "longitude": "119.66111000"
+   },
+   {
+      "name": "Dongchongcun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.54001000",
+      "longitude": "119.83257000"
+   },
+   {
+      "name": "Dongdai",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.24366000",
+      "longitude": "119.61566000"
+   },
+   {
+      "name": "Donghu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.23453000",
+      "longitude": "119.51430000"
+   },
+   {
+      "name": "Dongling",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.98271000",
+      "longitude": "118.89790000"
+   },
+   {
+      "name": "Dongyuan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.91738000",
+      "longitude": "118.75236000"
+   },
+   {
+      "name": "Feiluan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.56250000",
+      "longitude": "119.59750000"
+   },
+   {
+      "name": "Fengpu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.68276000",
+      "longitude": "118.76006000"
+   },
+   {
+      "name": "Fengzhou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.95762000",
+      "longitude": "118.53365000"
+   },
+   {
+      "name": "Fuding",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.32734000",
+      "longitude": "120.21399000"
+   },
+   {
+      "name": "Fuqing",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "25.72500000",
+      "longitude": "119.37944000"
+   },
+   {
+      "name": "Fuzhou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.06139000",
+      "longitude": "119.30611000"
+   },
+   {
+      "name": "Fu’an",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.06372000",
+      "longitude": "119.65280000"
+   },
+   {
+      "name": "Gantang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.92000000",
+      "longitude": "119.63333000"
+   },
+   {
+      "name": "Guantou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.13593000",
+      "longitude": "119.56162000"
+   },
+   {
+      "name": "Gufeng",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.90833000",
+      "longitude": "118.98194000"
+   },
+   {
+      "name": "Hetang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.66276000",
+      "longitude": "119.11062000"
+   },
+   {
+      "name": "Hongtang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.07056000",
+      "longitude": "119.23083000"
+   },
+   {
+      "name": "Hongyang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.52861000",
+      "longitude": "119.46250000"
+   },
+   {
+      "name": "Houyu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.05958000",
+      "longitude": "119.53502000"
+   },
+   {
+      "name": "Huai’an",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.09899000",
+      "longitude": "119.22171000"
+   },
+   {
+      "name": "Huangtian",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.43851000",
+      "longitude": "118.62398000"
+   },
+   {
+      "name": "Huotong",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.84972000",
+      "longitude": "119.41806000"
+   },
+   {
+      "name": "Jiangkou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "25.48694000",
+      "longitude": "119.19834000"
+   },
+   {
+      "name": "Jianjiang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.54972000",
+      "longitude": "119.75500000"
+   },
+   {
+      "name": "Jian’ou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.04694000",
+      "longitude": "118.32528000"
+   },
+   {
+      "name": "Jingfeng",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.97441000",
+      "longitude": "118.96486000"
+   },
+   {
+      "name": "Jinjiang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.81978000",
+      "longitude": "118.57415000"
+   },
+   {
+      "name": "Jinjing",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.57500000",
+      "longitude": "118.59722000"
+   },
+   {
+      "name": "Jitoucun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.47681000",
+      "longitude": "119.60517000"
+   },
+   {
+      "name": "Kengyuan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.33964000",
+      "longitude": "119.76476000"
+   },
+   {
+      "name": "Kerencun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.58213000",
+      "longitude": "118.66046000"
+   },
+   {
+      "name": "Kuai’an",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.03417000",
+      "longitude": "119.41639000"
+   },
+   {
+      "name": "Lianhecun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.58932000",
+      "longitude": "118.33903000"
+   },
+   {
+      "name": "Liuwudiancun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.56923000",
+      "longitude": "118.19064000"
+   },
+   {
+      "name": "Longmen",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.95972000",
+      "longitude": "118.08889000"
+   },
+   {
+      "name": "Longyan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "25.10722000",
+      "longitude": "117.02250000"
+   },
+   {
+      "name": "Luoqiao",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.47265000",
+      "longitude": "119.00392000"
+   },
+   {
+      "name": "Luoyang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.95938000",
+      "longitude": "118.68300000"
+   },
+   {
+      "name": "Luxia",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.93000000",
+      "longitude": "118.80722000"
+   },
+   {
+      "name": "Maping",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.68722000",
+      "longitude": "118.55278000"
+   },
+   {
+      "name": "Meipu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.21120000",
+      "longitude": "118.89561000"
+   },
+   {
+      "name": "Min’an",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.04962000",
+      "longitude": "119.49964000"
+   },
+   {
+      "name": "Nanping",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.64500000",
+      "longitude": "118.17361000"
+   },
+   {
+      "name": "Neikeng",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.78544000",
+      "longitude": "118.46037000"
+   },
+   {
+      "name": "Ningde",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.66167000",
+      "longitude": "119.52278000"
+   },
+   {
+      "name": "Pandu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.23639000",
+      "longitude": "119.45026000"
+   },
+   {
+      "name": "Pucheng",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.92333000",
+      "longitude": "118.53333000"
+   },
+   {
+      "name": "Putian",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "25.43944000",
+      "longitude": "119.01028000"
+   },
+   {
+      "name": "Qibu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.50750000",
+      "longitude": "119.54500000"
+   },
+   {
+      "name": "Qidu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.76528000",
+      "longitude": "119.54722000"
+   },
+   {
+      "name": "Quanzhou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.91389000",
+      "longitude": "118.58583000"
+   },
+   {
+      "name": "Rong’an",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.12472000",
+      "longitude": "119.12139000"
+   },
+   {
+      "name": "Sanming",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.24861000",
+      "longitude": "117.61861000"
+   },
+   {
+      "name": "Shajiang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.78250000",
+      "longitude": "119.96694000"
+   },
+   {
+      "name": "Shangjie",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.08679000",
+      "longitude": "119.18494000"
+   },
+   {
+      "name": "Shanxia",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.93802000",
+      "longitude": "118.88170000"
+   },
+   {
+      "name": "Shanyang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.67019000",
+      "longitude": "119.20509000"
+   },
+   {
+      "name": "Shaowu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.34089000",
+      "longitude": "117.48310000"
+   },
+   {
+      "name": "Shijing",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.61956000",
+      "longitude": "118.42437000"
+   },
+   {
+      "name": "Shima",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.44647000",
+      "longitude": "117.81216000"
+   },
+   {
+      "name": "Shoushan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.96444000",
+      "longitude": "119.16167000"
+   },
+   {
+      "name": "Shuangxi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.02248000",
+      "longitude": "119.04140000"
+   },
+   {
+      "name": "Shuangzhu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.63114000",
+      "longitude": "118.64570000"
+   },
+   {
+      "name": "Shuikou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.38360000",
+      "longitude": "118.73027000"
+   },
+   {
+      "name": "Tangkou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.95417000",
+      "longitude": "119.01278000"
+   },
+   {
+      "name": "Tantou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.03033000",
+      "longitude": "119.59739000"
+   },
+   {
+      "name": "Tatou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.61732000",
+      "longitude": "118.52672000"
+   },
+   {
+      "name": "Tingjiang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.07401000",
+      "longitude": "119.50574000"
+   },
+   {
+      "name": "Tuzhai",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.98301000",
+      "longitude": "118.83194000"
+   },
+   {
+      "name": "Wubao",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.59589000",
+      "longitude": "118.55359000"
+   },
+   {
+      "name": "Wuyishan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "27.75995000",
+      "longitude": "118.03066000"
+   },
+   {
+      "name": "Wuyucun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.33551000",
+      "longitude": "118.14489000"
+   },
+   {
+      "name": "Xiabaishi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.81528000",
+      "longitude": "119.67917000"
+   },
+   {
+      "name": "Xiahu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.61056000",
+      "longitude": "119.94833000"
+   },
+   {
+      "name": "Xiamen",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.47979000",
+      "longitude": "118.08187000"
+   },
+   {
+      "name": "Xiancun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.93861000",
+      "longitude": "119.36028000"
+   },
+   {
+      "name": "Xiangyun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.97111000",
+      "longitude": "118.16028000"
+   },
+   {
+      "name": "Xibing",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.98139000",
+      "longitude": "119.72472000"
+   },
+   {
+      "name": "Xiling",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.81444000",
+      "longitude": "119.04722000"
+   },
+   {
+      "name": "Ximei",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.98773000",
+      "longitude": "118.38580000"
+   },
+   {
+      "name": "Xinan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.72000000",
+      "longitude": "119.85556000"
+   },
+   {
+      "name": "Xindian",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.61006000",
+      "longitude": "118.24068000"
+   },
+   {
+      "name": "Yakou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.67194000",
+      "longitude": "118.63722000"
+   },
+   {
+      "name": "Yanghou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.64083000",
+      "longitude": "118.50806000"
+   },
+   {
+      "name": "Yangzhong",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.70556000",
+      "longitude": "119.37444000"
+   },
+   {
+      "name": "Yantian",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.85333000",
+      "longitude": "119.85750000"
+   },
+   {
+      "name": "Yingdu",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.97167000",
+      "longitude": "118.24417000"
+   },
+   {
+      "name": "Yinglin",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.63222000",
+      "longitude": "118.58056000"
+   },
+   {
+      "name": "Yongning",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.68000000",
+      "longitude": "118.69000000"
+   },
+   {
+      "name": "Yushan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.90863000",
+      "longitude": "118.56713000"
+   },
+   {
+      "name": "Zhangwan",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.71139000",
+      "longitude": "119.59194000"
+   },
+   {
+      "name": "Zhangzhou",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.51333000",
+      "longitude": "117.65556000"
+   },
+   {
+      "name": "Zhenhaicun",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "24.25894000",
+      "longitude": "118.09186000"
+   },
+   {
+      "name": "Zhongfang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.60083000",
+      "longitude": "119.42583000"
+   },
+   {
+      "name": "Zhuoyang",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.63003000",
+      "longitude": "119.02150000"
+   },
+   {
+      "name": "Zhuqi",
+      "countryCode": "CN",
+      "stateCode": "FJ",
+      "latitude": "26.14860000",
+      "longitude": "119.10216000"
+   }
+]

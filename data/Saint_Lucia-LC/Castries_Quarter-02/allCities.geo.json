@@ -1,0 +1,835 @@
+[
+   {
+      "name": "Active Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01940000",
+      "longitude": "-60.97767000"
+   },
+   {
+      "name": "Agard Lands/Morne Dudon",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00768000",
+      "longitude": "-60.96462000"
+   },
+   {
+      "name": "Almondale",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01848000",
+      "longitude": "-60.96162000"
+   },
+   {
+      "name": "Aurendel Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00069000",
+      "longitude": "-60.98670000"
+   },
+   {
+      "name": "Babonneau Proper",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00535000",
+      "longitude": "-60.94640000"
+   },
+   {
+      "name": "Bagatelle",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99797000",
+      "longitude": "-60.98156000"
+   },
+   {
+      "name": "Balata",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01471000",
+      "longitude": "-60.95167000"
+   },
+   {
+      "name": "Banannes Bay",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01087000",
+      "longitude": "-61.00135000"
+   },
+   {
+      "name": "Barnard Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01423000",
+      "longitude": "-60.98924000"
+   },
+   {
+      "name": "Barre Denis",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96809000",
+      "longitude": "-60.99073000"
+   },
+   {
+      "name": "Barre Duchaussee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96190000",
+      "longitude": "-60.99678000"
+   },
+   {
+      "name": "Barre St.Joseph",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.97247000",
+      "longitude": "-61.01829000"
+   },
+   {
+      "name": "Belair",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95283000",
+      "longitude": "-60.99747000"
+   },
+   {
+      "name": "Bella Rosa",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00777000",
+      "longitude": "-60.99628000"
+   },
+   {
+      "name": "Bexon",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96077000",
+      "longitude": "-60.97497000"
+   },
+   {
+      "name": "Bisee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02429000",
+      "longitude": "-60.97445000"
+   },
+   {
+      "name": "Bishop'S Gap",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00019000",
+      "longitude": "-60.98498000"
+   },
+   {
+      "name": "Bissee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02255000",
+      "longitude": "-60.97489000"
+   },
+   {
+      "name": "Black Mallet",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00457000",
+      "longitude": "-60.98811000"
+   },
+   {
+      "name": "Bocage",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00199000",
+      "longitude": "-60.96954000"
+   },
+   {
+      "name": "Bois Catchet",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00399000",
+      "longitude": "-60.99437000"
+   },
+   {
+      "name": "Bois Patat",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00892000",
+      "longitude": "-60.98214000"
+   },
+   {
+      "name": "Cabiche/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00583000",
+      "longitude": "-60.95432000"
+   },
+   {
+      "name": "Cacoa/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98875000",
+      "longitude": "-60.95113000"
+   },
+   {
+      "name": "Calvary",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01391000",
+      "longitude": "-60.98664000"
+   },
+   {
+      "name": "Capital Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99307000",
+      "longitude": "-60.99097000"
+   },
+   {
+      "name": "Carellie",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01889000",
+      "longitude": "-60.96851000"
+   },
+   {
+      "name": "Castries",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99570000",
+      "longitude": "-61.00614000"
+   },
+   {
+      "name": "Cedars",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00601000",
+      "longitude": "-60.98232000"
+   },
+   {
+      "name": "Chase Gardens",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01481000",
+      "longitude": "-60.97395000"
+   },
+   {
+      "name": "Chassin/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99100000",
+      "longitude": "-60.92187000"
+   },
+   {
+      "name": "Choppin Ridge/Sarot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95597000",
+      "longitude": "-60.98624000"
+   },
+   {
+      "name": "Ciceron",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99296000",
+      "longitude": "-61.00878000"
+   },
+   {
+      "name": "City",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00946000",
+      "longitude": "-60.99027000"
+   },
+   {
+      "name": "City Gate/La Clery",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02124000",
+      "longitude": "-60.98149000"
+   },
+   {
+      "name": "Conway/Waterfront",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01389000",
+      "longitude": "-60.99055000"
+   },
+   {
+      "name": "Coolie Town",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95684000",
+      "longitude": "-61.01437000"
+   },
+   {
+      "name": "Coubaril",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00223000",
+      "longitude": "-61.00919000"
+   },
+   {
+      "name": "Crownlands/Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95174000",
+      "longitude": "-60.97150000"
+   },
+   {
+      "name": "Cul De Sac",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98084000",
+      "longitude": "-61.00645000"
+   },
+   {
+      "name": "Darling Road",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01355000",
+      "longitude": "-60.98779000"
+   },
+   {
+      "name": "Deglos",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.97727000",
+      "longitude": "-60.97329000"
+   },
+   {
+      "name": "Derierre Fort/Old Victoria Road",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99474000",
+      "longitude": "-60.98513000"
+   },
+   {
+      "name": "Dubrassay",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98382000",
+      "longitude": "-60.97154000"
+   },
+   {
+      "name": "En Pois Doux/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98853000",
+      "longitude": "-60.94099000"
+   },
+   {
+      "name": "Entrepot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99978000",
+      "longitude": "-60.97953000"
+   },
+   {
+      "name": "Faux A Chaud",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00878000",
+      "longitude": "-60.99558000"
+   },
+   {
+      "name": "Ferrand",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98684000",
+      "longitude": "-60.98494000"
+   },
+   {
+      "name": "Floissac/Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96283000",
+      "longitude": "-60.95880000"
+   },
+   {
+      "name": "Fond Assau/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99491000",
+      "longitude": "-60.93626000"
+   },
+   {
+      "name": "Fond Canie",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99195000",
+      "longitude": "-60.95954000"
+   },
+   {
+      "name": "Forestiere",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.97775000",
+      "longitude": "-60.95766000"
+   },
+   {
+      "name": "George Charles Boulevard",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00499000",
+      "longitude": "-60.98673000"
+   },
+   {
+      "name": "Girard",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00004000",
+      "longitude": "-60.95960000"
+   },
+   {
+      "name": "Goergeville",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01311000",
+      "longitude": "-60.98446000"
+   },
+   {
+      "name": "Goodlands",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99121000",
+      "longitude": "-60.99840000"
+   },
+   {
+      "name": "Grass Street",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00706000",
+      "longitude": "-60.98763000"
+   },
+   {
+      "name": "Green Gold",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99603000",
+      "longitude": "-60.95284000"
+   },
+   {
+      "name": "Guesneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99084000",
+      "longitude": "-60.96486000"
+   },
+   {
+      "name": "Hill 20/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99941000",
+      "longitude": "-60.94988000"
+   },
+   {
+      "name": "Hillcrest Gardens",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01115000",
+      "longitude": "-60.97083000"
+   },
+   {
+      "name": "Hospital Road",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00914000",
+      "longitude": "-60.99906000"
+   },
+   {
+      "name": "Independence City",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00199000",
+      "longitude": "-60.97879000"
+   },
+   {
+      "name": "John Compton Highway",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01909000",
+      "longitude": "-60.99110000"
+   },
+   {
+      "name": "L'Anse Road",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01875000",
+      "longitude": "-60.98799000"
+   },
+   {
+      "name": "La Carierre",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01806000",
+      "longitude": "-60.98723000"
+   },
+   {
+      "name": "La Clery",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01846000",
+      "longitude": "-60.98422000"
+   },
+   {
+      "name": "La Croix Maingot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96569000",
+      "longitude": "-61.00582000"
+   },
+   {
+      "name": "La Pansee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01368000",
+      "longitude": "-60.98187000"
+   },
+   {
+      "name": "La Toc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00824000",
+      "longitude": "-61.00404000"
+   },
+   {
+      "name": "Labayee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.94044000",
+      "longitude": "-60.97316000"
+   },
+   {
+      "name": "Lastic Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00755000",
+      "longitude": "-60.98321000"
+   },
+   {
+      "name": "Leslie Land",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00752000",
+      "longitude": "-60.98674000"
+   },
+   {
+      "name": "Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95688000",
+      "longitude": "-60.95724000"
+   },
+   {
+      "name": "Marchand",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00415000",
+      "longitude": "-60.98532000"
+   },
+   {
+      "name": "Marigot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.96212000",
+      "longitude": "-61.02205000"
+   },
+   {
+      "name": "Maynard Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00314000",
+      "longitude": "-60.98966000"
+   },
+   {
+      "name": "Miami/Bexon",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.92295000",
+      "longitude": "-60.96945000"
+   },
+   {
+      "name": "Monkey Town Ciceron",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98885000",
+      "longitude": "-61.00615000"
+   },
+   {
+      "name": "Morne Assau/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99079000",
+      "longitude": "-60.93241000"
+   },
+   {
+      "name": "Morne Dudon",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01194000",
+      "longitude": "-60.96378000"
+   },
+   {
+      "name": "Morne Road",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00544000",
+      "longitude": "-60.99693000"
+   },
+   {
+      "name": "Morne Rouge/Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95838000",
+      "longitude": "-60.96972000"
+   },
+   {
+      "name": "Mount Pleasant",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01494000",
+      "longitude": "-60.98576000"
+   },
+   {
+      "name": "New Village",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01104000",
+      "longitude": "-60.98456000"
+   },
+   {
+      "name": "Odsan",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.97479000",
+      "longitude": "-60.98319000"
+   },
+   {
+      "name": "Parker'S Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00378000",
+      "longitude": "-60.99049000"
+   },
+   {
+      "name": "Patterson'S Gap",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00655000",
+      "longitude": "-60.98473000"
+   },
+   {
+      "name": "Pavee",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00282000",
+      "longitude": "-60.99191000"
+   },
+   {
+      "name": "Peart'S Gap",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01035000",
+      "longitude": "-60.98598000"
+   },
+   {
+      "name": "Perou",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.95960000",
+      "longitude": "-61.00726000"
+   },
+   {
+      "name": "Pointe Seraphine",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01575000",
+      "longitude": "-60.99305000"
+   },
+   {
+      "name": "Quarte Chemins",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99136000",
+      "longitude": "-60.97630000"
+   },
+   {
+      "name": "Ravine Chabot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00051000",
+      "longitude": "-60.97617000"
+   },
+   {
+      "name": "Ravine Poisson",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.93156000",
+      "longitude": "-60.96849000"
+   },
+   {
+      "name": "Ravine Touterelle",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00325000",
+      "longitude": "-60.98806000"
+   },
+   {
+      "name": "Resinard/Babonneau",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00289000",
+      "longitude": "-60.94200000"
+   },
+   {
+      "name": "Rock Hall",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00009000",
+      "longitude": "-60.98928000"
+   },
+   {
+      "name": "Rose Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00816000",
+      "longitude": "-60.98560000"
+   },
+   {
+      "name": "San Soucis",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01695000",
+      "longitude": "-60.98985000"
+   },
+   {
+      "name": "Sand De Feu",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.92781000",
+      "longitude": "-60.98026000"
+   },
+   {
+      "name": "Sarot",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.94212000",
+      "longitude": "-60.98489000"
+   },
+   {
+      "name": "Summersdale",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02582000",
+      "longitude": "-60.97644000"
+   },
+   {
+      "name": "Sunbilt",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00561000",
+      "longitude": "-60.97922000"
+   },
+   {
+      "name": "Sunny Acres",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02810000",
+      "longitude": "-60.97361000"
+   },
+   {
+      "name": "Talvern",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99578000",
+      "longitude": "-60.94410000"
+   },
+   {
+      "name": "Tapion",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01383000",
+      "longitude": "-61.00489000"
+   },
+   {
+      "name": "The Morne",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99778000",
+      "longitude": "-60.99620000"
+   },
+   {
+      "name": "Ti Colon",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.97071000",
+      "longitude": "-61.00229000"
+   },
+   {
+      "name": "Ti Rocher",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.99490000",
+      "longitude": "-60.97110000"
+   },
+   {
+      "name": "Trois Piton",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.98890000",
+      "longitude": "-60.97259000"
+   },
+   {
+      "name": "Trou Cochan/Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.94220000",
+      "longitude": "-60.96199000"
+   },
+   {
+      "name": "Trou Florent/Marc",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "13.94525000",
+      "longitude": "-60.95382000"
+   },
+   {
+      "name": "Trou Rouge",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00602000",
+      "longitude": "-60.98950000"
+   },
+   {
+      "name": "Vide Bouteille",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02439000",
+      "longitude": "-60.98066000"
+   },
+   {
+      "name": "Vigie",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.02053000",
+      "longitude": "-60.99611000"
+   },
+   {
+      "name": "Waterworks",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00498000",
+      "longitude": "-60.97635000"
+   },
+   {
+      "name": "Wilton'S Yard/Grave Yard",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.00968000",
+      "longitude": "-60.98639000"
+   },
+   {
+      "name": "Yorke Hill",
+      "countryCode": "LC",
+      "stateCode": "02",
+      "latitude": "14.01694000",
+      "longitude": "-60.97919000"
+   }
+]

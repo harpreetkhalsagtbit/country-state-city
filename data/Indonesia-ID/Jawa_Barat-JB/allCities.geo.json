@@ -1,0 +1,625 @@
+[
+   {
+      "name": "Arjawinangun",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.64528000",
+      "longitude": "108.41028000"
+   },
+   {
+      "name": "Astanajapura",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.80170000",
+      "longitude": "108.63110000"
+   },
+   {
+      "name": "Bandung",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.92222000",
+      "longitude": "107.60694000"
+   },
+   {
+      "name": "Banjar",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.19550000",
+      "longitude": "107.43130000"
+   },
+   {
+      "name": "Banjaran",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.04528000",
+      "longitude": "107.58778000"
+   },
+   {
+      "name": "Bekasi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.23490000",
+      "longitude": "106.98960000"
+   },
+   {
+      "name": "Bogor",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.59444000",
+      "longitude": "106.78917000"
+   },
+   {
+      "name": "Caringin",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.70611000",
+      "longitude": "106.82139000"
+   },
+   {
+      "name": "Ciamis",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.32570000",
+      "longitude": "108.35340000"
+   },
+   {
+      "name": "Ciampea",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.55472000",
+      "longitude": "106.70083000"
+   },
+   {
+      "name": "Cibinong",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.48167000",
+      "longitude": "106.85417000"
+   },
+   {
+      "name": "Cicurug",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.78139000",
+      "longitude": "106.78250000"
+   },
+   {
+      "name": "Cikampek",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.41972000",
+      "longitude": "107.45583000"
+   },
+   {
+      "name": "Cikarang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.26111000",
+      "longitude": "107.15278000"
+   },
+   {
+      "name": "Cikupa",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.23639000",
+      "longitude": "106.50833000"
+   },
+   {
+      "name": "Cileungsir",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.39472000",
+      "longitude": "106.95917000"
+   },
+   {
+      "name": "Cileunyi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.93889000",
+      "longitude": "107.75278000"
+   },
+   {
+      "name": "Cimahi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.87222000",
+      "longitude": "107.54250000"
+   },
+   {
+      "name": "Ciputat",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.23750000",
+      "longitude": "106.69556000"
+   },
+   {
+      "name": "Ciranjang-hilir",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.82000000",
+      "longitude": "107.25722000"
+   },
+   {
+      "name": "Cirebon",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.70630000",
+      "longitude": "108.55700000"
+   },
+   {
+      "name": "Citeureup",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.48556000",
+      "longitude": "106.88194000"
+   },
+   {
+      "name": "Depok",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.40000000",
+      "longitude": "106.81861000"
+   },
+   {
+      "name": "Indramayu",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.32639000",
+      "longitude": "108.32000000"
+   },
+   {
+      "name": "Jatibarang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.47472000",
+      "longitude": "108.31528000"
+   },
+   {
+      "name": "Jatiwangi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.73361000",
+      "longitude": "108.26278000"
+   },
+   {
+      "name": "Kabupaten Bandung",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.10000000",
+      "longitude": "107.60000000"
+   },
+   {
+      "name": "Kabupaten Bandung Barat",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.83333000",
+      "longitude": "107.48333000"
+   },
+   {
+      "name": "Kabupaten Bekasi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.24667000",
+      "longitude": "107.10833000"
+   },
+   {
+      "name": "Kabupaten Bogor",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.58333000",
+      "longitude": "106.71667000"
+   },
+   {
+      "name": "Kabupaten Ciamis",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.28333000",
+      "longitude": "108.41667000"
+   },
+   {
+      "name": "Kabupaten Cianjur",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.77250000",
+      "longitude": "107.08306000"
+   },
+   {
+      "name": "Kabupaten Cirebon",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.80000000",
+      "longitude": "108.56667000"
+   },
+   {
+      "name": "Kabupaten Garut",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.38333000",
+      "longitude": "107.76667000"
+   },
+   {
+      "name": "Kabupaten Indramayu",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.45000000",
+      "longitude": "108.16667000"
+   },
+   {
+      "name": "Kabupaten Karawang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.26667000",
+      "longitude": "107.41667000"
+   },
+   {
+      "name": "Kabupaten Kuningan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.00000000",
+      "longitude": "108.55000000"
+   },
+   {
+      "name": "Kabupaten Majalengka",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.81667000",
+      "longitude": "108.28333000"
+   },
+   {
+      "name": "Kabupaten Pangandaran",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.66730000",
+      "longitude": "108.64037000"
+   },
+   {
+      "name": "Kabupaten Purwakarta",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.58333000",
+      "longitude": "107.45000000"
+   },
+   {
+      "name": "Kabupaten Subang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.50833000",
+      "longitude": "107.70250000"
+   },
+   {
+      "name": "Kabupaten Sukabumi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.06667000",
+      "longitude": "106.70000000"
+   },
+   {
+      "name": "Kabupaten Sumedang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.81667000",
+      "longitude": "107.98333000"
+   },
+   {
+      "name": "Kabupaten Tasikmalaya",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.50000000",
+      "longitude": "108.13333000"
+   },
+   {
+      "name": "Karangampel",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.46222000",
+      "longitude": "108.45194000"
+   },
+   {
+      "name": "Karangsembung",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.84870000",
+      "longitude": "108.64220000"
+   },
+   {
+      "name": "Kawalu",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.38170000",
+      "longitude": "108.20820000"
+   },
+   {
+      "name": "Klangenan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.70944000",
+      "longitude": "108.44000000"
+   },
+   {
+      "name": "Kota Bandung",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.91750000",
+      "longitude": "107.62444000"
+   },
+   {
+      "name": "Kota Banjar",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.36996000",
+      "longitude": "108.53209000"
+   },
+   {
+      "name": "Kota Bekasi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.28333000",
+      "longitude": "106.98333000"
+   },
+   {
+      "name": "Kota Bogor",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.59167000",
+      "longitude": "106.80000000"
+   },
+   {
+      "name": "Kota Cimahi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.89167000",
+      "longitude": "107.55000000"
+   },
+   {
+      "name": "Kota Cirebon",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.75000000",
+      "longitude": "108.55000000"
+   },
+   {
+      "name": "Kota Depok",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.40000000",
+      "longitude": "106.81667000"
+   },
+   {
+      "name": "Kota Sukabumi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.95000000",
+      "longitude": "106.93333000"
+   },
+   {
+      "name": "Kota Tasikmalaya",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.35000000",
+      "longitude": "108.21667000"
+   },
+   {
+      "name": "Kresek",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.13139000",
+      "longitude": "106.37972000"
+   },
+   {
+      "name": "Kuningan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.97583000",
+      "longitude": "108.48306000"
+   },
+   {
+      "name": "Lembang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.81167000",
+      "longitude": "107.61750000"
+   },
+   {
+      "name": "Majalengka",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.83611000",
+      "longitude": "108.22778000"
+   },
+   {
+      "name": "Margahayukencana",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.97083000",
+      "longitude": "107.56750000"
+   },
+   {
+      "name": "Ngawi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.40380000",
+      "longitude": "111.44610000"
+   },
+   {
+      "name": "Padalarang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.83778000",
+      "longitude": "107.47278000"
+   },
+   {
+      "name": "Palimanan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.70694000",
+      "longitude": "108.42417000"
+   },
+   {
+      "name": "Pamanukan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.28417000",
+      "longitude": "107.81056000"
+   },
+   {
+      "name": "Pameungpeuk",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.01833000",
+      "longitude": "107.60389000"
+   },
+   {
+      "name": "Pamulang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.34278000",
+      "longitude": "106.73833000"
+   },
+   {
+      "name": "Parung",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.42139000",
+      "longitude": "106.73306000"
+   },
+   {
+      "name": "Pasarkemis",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.17028000",
+      "longitude": "106.53028000"
+   },
+   {
+      "name": "Paseh",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.10260000",
+      "longitude": "107.76410000"
+   },
+   {
+      "name": "Pelabuhanratu",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.98750000",
+      "longitude": "106.55139000"
+   },
+   {
+      "name": "Plumbon",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.70500000",
+      "longitude": "108.47278000"
+   },
+   {
+      "name": "Purwakarta",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.55694000",
+      "longitude": "107.44333000"
+   },
+   {
+      "name": "Rajapolah",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.22100000",
+      "longitude": "108.18960000"
+   },
+   {
+      "name": "Rengasdengklok",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.15917000",
+      "longitude": "107.29806000"
+   },
+   {
+      "name": "Sawangan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.40278000",
+      "longitude": "106.77444000"
+   },
+   {
+      "name": "Sepatan",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.11889000",
+      "longitude": "106.57500000"
+   },
+   {
+      "name": "Serpong",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.31694000",
+      "longitude": "106.66417000"
+   },
+   {
+      "name": "Singaparna",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.35150000",
+      "longitude": "108.11100000"
+   },
+   {
+      "name": "Soreang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.03306000",
+      "longitude": "107.51833000"
+   },
+   {
+      "name": "Sukabumi",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.91806000",
+      "longitude": "106.92667000"
+   },
+   {
+      "name": "Sumber",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.76028000",
+      "longitude": "108.48306000"
+   },
+   {
+      "name": "Sumedang",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.85861000",
+      "longitude": "107.91639000"
+   },
+   {
+      "name": "Sumedang Utara",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.85000000",
+      "longitude": "107.91667000"
+   },
+   {
+      "name": "Tasikmalaya",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.32740000",
+      "longitude": "108.22070000"
+   },
+   {
+      "name": "Teluknaga",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.09889000",
+      "longitude": "106.63806000"
+   },
+   {
+      "name": "Wanaraja",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-7.17490000",
+      "longitude": "107.98080000"
+   },
+   {
+      "name": "Weru",
+      "countryCode": "ID",
+      "stateCode": "JB",
+      "latitude": "-6.71100000",
+      "longitude": "108.50370000"
+   }
+]

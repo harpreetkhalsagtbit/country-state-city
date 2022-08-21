@@ -1,0 +1,667 @@
+[
+   {
+      "name": "Adams County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Amidon",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Ashley",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Barnes County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Beach",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Belcourt",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Belfield",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Benson County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Beulah",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Billings County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bismarck",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bottineau",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bottineau County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bowbells",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bowman",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Bowman County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Burke County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Burleigh County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Burlington",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Cando",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Carrington",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Carson",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Cass County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Casselton",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Cavalier",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Cavalier County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Center",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Cooperstown",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Crosby",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Devils Lake",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Dickey County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Dickinson",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Divide County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Dunn County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Eddy County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Ellendale",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Emmons County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Fargo",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Fessenden",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Finley",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Forman",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Fort Totten",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Fort Yates",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Foster County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Garrison",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Golden Valley County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Grafton",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Grand Forks",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Grand Forks Air Force Base",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Grand Forks County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Grant County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Griggs County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Harvey",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Hazen",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Hettinger",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Hettinger County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Hillsboro",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Horace",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Jamestown",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Kenmare",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Kidder County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Killdeer",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "LaMoure County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Lakota",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Langdon",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Larimore",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Lincoln",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Linton",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Lisbon",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Logan County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mandan",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Manning",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mayville",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "McClusky",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "McHenry County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "McIntosh County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "McKenzie County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "McLean County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Medora",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mercer County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Minnewaukan",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Minot",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Minot Air Force Base",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mohall",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Morton County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mott",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Mountrail County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Napoleon",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Nelson County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "New Rockford",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "New Town",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Oakes",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Oliver County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Park River",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Parshall",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Pembina County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Pierce County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Ramsey County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Ransom County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Renville County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Richland County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Rolette County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Rolla",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Rugby",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Sargent County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Sheldon",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Shell Valley",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Sheridan County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Sioux County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Slope County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Stanley",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Stanton",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Stark County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Steele",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Steele County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Stutsman County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Surrey",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Thompson",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Tioga",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Towner",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Towner County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Traill County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Valley City",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Velva",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Wahpeton",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Walsh County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Ward County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Washburn",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Watford City",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Wells County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "West Fargo",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Williams County",
+      "countryCode": "US",
+      "stateCode": "ND"
+   },
+   {
+      "name": "Williston",
+      "countryCode": "US",
+      "stateCode": "ND"
+   }
+]

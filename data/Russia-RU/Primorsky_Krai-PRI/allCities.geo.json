@@ -1,0 +1,674 @@
+[
+   {
+      "name": "Anuchino",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.96571000",
+      "longitude": "133.05846000"
+   },
+   {
+      "name": "Anuchinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.00000000",
+      "longitude": "133.00000000"
+   },
+   {
+      "name": "Arsen’yev",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.15254000",
+      "longitude": "133.27791000"
+   },
+   {
+      "name": "Artëm",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.35950000",
+      "longitude": "132.18887000"
+   },
+   {
+      "name": "Barabash",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.19948000",
+      "longitude": "131.49185000"
+   },
+   {
+      "name": "Blagodatnoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.32285000",
+      "longitude": "132.09050000"
+   },
+   {
+      "name": "Bol’shoy Kamen’",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.11283000",
+      "longitude": "132.35400000"
+   },
+   {
+      "name": "Chernigovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.34216000",
+      "longitude": "132.56937000"
+   },
+   {
+      "name": "Chernigovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.33333000",
+      "longitude": "132.58333000"
+   },
+   {
+      "name": "Chernyshëvka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.19971000",
+      "longitude": "133.13193000"
+   },
+   {
+      "name": "Chkalovskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.83808000",
+      "longitude": "133.04332000"
+   },
+   {
+      "name": "Chuguyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.16652000",
+      "longitude": "133.86495000"
+   },
+   {
+      "name": "Dalnegorsk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.55745000",
+      "longitude": "135.62090000"
+   },
+   {
+      "name": "Dalnerechensk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.93149000",
+      "longitude": "133.73906000"
+   },
+   {
+      "name": "Dostoyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.32554000",
+      "longitude": "133.48134000"
+   },
+   {
+      "name": "Dunay",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.87881000",
+      "longitude": "132.33521000"
+   },
+   {
+      "name": "Emar",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.20417000",
+      "longitude": "132.15643000"
+   },
+   {
+      "name": "Fokino",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.97429000",
+      "longitude": "132.40574000"
+   },
+   {
+      "name": "Gornorechenskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.26555000",
+      "longitude": "135.11465000"
+   },
+   {
+      "name": "Gornyye Klyuchi",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.24221000",
+      "longitude": "133.50601000"
+   },
+   {
+      "name": "Grazhdanka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.21630000",
+      "longitude": "133.17706000"
+   },
+   {
+      "name": "Ivanovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.96879000",
+      "longitude": "132.48331000"
+   },
+   {
+      "name": "Kamenka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.45865000",
+      "longitude": "136.01403000"
+   },
+   {
+      "name": "Kamen’-Rybolov",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.74520000",
+      "longitude": "132.04650000"
+   },
+   {
+      "name": "Kavalerovo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.27221000",
+      "longitude": "135.05227000"
+   },
+   {
+      "name": "Khasanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.75000000",
+      "longitude": "131.00000000"
+   },
+   {
+      "name": "Khorol’",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.42631000",
+      "longitude": "132.07638000"
+   },
+   {
+      "name": "Kirovskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.09272000",
+      "longitude": "133.50084000"
+   },
+   {
+      "name": "Knevichi",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.39975000",
+      "longitude": "132.18808000"
+   },
+   {
+      "name": "Kraskino",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.71071000",
+      "longitude": "130.78126000"
+   },
+   {
+      "name": "Krasnorechenskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.62807000",
+      "longitude": "135.35262000"
+   },
+   {
+      "name": "Lazo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.38563000",
+      "longitude": "133.90610000"
+   },
+   {
+      "name": "Lazovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.25000000",
+      "longitude": "134.00000000"
+   },
+   {
+      "name": "Lesozavodsk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.47885000",
+      "longitude": "133.42825000"
+   },
+   {
+      "name": "Lipovtsy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.20018000",
+      "longitude": "131.72373000"
+   },
+   {
+      "name": "Livadiya",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.86820000",
+      "longitude": "132.67367000"
+   },
+   {
+      "name": "Luchegorsk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "46.47656000",
+      "longitude": "134.19532000"
+   },
+   {
+      "name": "Luchki",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.28613000",
+      "longitude": "132.25975000"
+   },
+   {
+      "name": "Lyalichi",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.07352000",
+      "longitude": "132.38991000"
+   },
+   {
+      "name": "Mikhaylovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.93283000",
+      "longitude": "132.00911000"
+   },
+   {
+      "name": "Mikhaylovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.00000000",
+      "longitude": "132.00000000"
+   },
+   {
+      "name": "Mnogoudobnoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.46802000",
+      "longitude": "132.46675000"
+   },
+   {
+      "name": "Monastyrishche",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.19641000",
+      "longitude": "132.50223000"
+   },
+   {
+      "name": "Nadezhdinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.41667000",
+      "longitude": "132.00000000"
+   },
+   {
+      "name": "Nakhodka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.81384000",
+      "longitude": "132.87348000"
+   },
+   {
+      "name": "Novonikol’sk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.85518000",
+      "longitude": "131.86257000"
+   },
+   {
+      "name": "Novopokrovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.85296000",
+      "longitude": "134.50035000"
+   },
+   {
+      "name": "Novoshakhtinskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.02576000",
+      "longitude": "132.16583000"
+   },
+   {
+      "name": "Novosysoyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.23470000",
+      "longitude": "133.36420000"
+   },
+   {
+      "name": "Novyy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.36438000",
+      "longitude": "132.02109000"
+   },
+   {
+      "name": "Ol’ga",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.74735000",
+      "longitude": "135.29090000"
+   },
+   {
+      "name": "Partizansk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.12165000",
+      "longitude": "133.12347000"
+   },
+   {
+      "name": "Plastun",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.76077000",
+      "longitude": "136.28048000"
+   },
+   {
+      "name": "Pogranichnyy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.40970000",
+      "longitude": "131.37780000"
+   },
+   {
+      "name": "Pokrovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.95331000",
+      "longitude": "131.63443000"
+   },
+   {
+      "name": "Popova",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.96096000",
+      "longitude": "131.72494000"
+   },
+   {
+      "name": "Preobrazheniye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.90117000",
+      "longitude": "133.90430000"
+   },
+   {
+      "name": "Primorskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.09962000",
+      "longitude": "131.58938000"
+   },
+   {
+      "name": "Putyatin",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.86179000",
+      "longitude": "132.41564000"
+   },
+   {
+      "name": "Razdol’noye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.53894000",
+      "longitude": "131.89691000"
+   },
+   {
+      "name": "Rettikhovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.17038000",
+      "longitude": "132.77083000"
+   },
+   {
+      "name": "Romanovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.23294000",
+      "longitude": "132.45714000"
+   },
+   {
+      "name": "Rudnaya Pristan’",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.35812000",
+      "longitude": "135.81478000"
+   },
+   {
+      "name": "Rudnyy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.27759000",
+      "longitude": "134.96106000"
+   },
+   {
+      "name": "Russkiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.02240000",
+      "longitude": "131.86010000"
+   },
+   {
+      "name": "Sergeyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.34909000",
+      "longitude": "133.35972000"
+   },
+   {
+      "name": "Shkotovo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.32092000",
+      "longitude": "132.35433000"
+   },
+   {
+      "name": "Shkotovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.33333000",
+      "longitude": "132.58333000"
+   },
+   {
+      "name": "Shtykovo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.38918000",
+      "longitude": "132.36129000"
+   },
+   {
+      "name": "Sivakovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.47838000",
+      "longitude": "132.36718000"
+   },
+   {
+      "name": "Slavyanka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.86413000",
+      "longitude": "131.38820000"
+   },
+   {
+      "name": "Smolyaninovo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.28801000",
+      "longitude": "132.45586000"
+   },
+   {
+      "name": "Spassk-Dal’niy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.59884000",
+      "longitude": "132.82593000"
+   },
+   {
+      "name": "Spasskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.50000000",
+      "longitude": "133.00000000"
+   },
+   {
+      "name": "Spasskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.61215000",
+      "longitude": "132.80007000"
+   },
+   {
+      "name": "Svetlaya",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "46.54217000",
+      "longitude": "138.32973000"
+   },
+   {
+      "name": "Tavrichanka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.32551000",
+      "longitude": "131.86264000"
+   },
+   {
+      "name": "Terney",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "45.05278000",
+      "longitude": "136.60881000"
+   },
+   {
+      "name": "Trudovoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.29823000",
+      "longitude": "132.06877000"
+   },
+   {
+      "name": "Uglekamensk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.21996000",
+      "longitude": "133.23177000"
+   },
+   {
+      "name": "Uglovoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.32807000",
+      "longitude": "132.08832000"
+   },
+   {
+      "name": "Ussuriysk",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.80291000",
+      "longitude": "131.94578000"
+   },
+   {
+      "name": "Vladimiro-Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.89134000",
+      "longitude": "133.07801000"
+   },
+   {
+      "name": "Vladivostok",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.10562000",
+      "longitude": "131.87353000"
+   },
+   {
+      "name": "Volchanets",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.91388000",
+      "longitude": "132.76222000"
+   },
+   {
+      "name": "Vol’no-Nadezhdinskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.37496000",
+      "longitude": "131.99675000"
+   },
+   {
+      "name": "Vostok",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "46.45148000",
+      "longitude": "135.82738000"
+   },
+   {
+      "name": "Vozdvizhenka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.89413000",
+      "longitude": "131.94589000"
+   },
+   {
+      "name": "Vrangel’",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.73021000",
+      "longitude": "133.08322000"
+   },
+   {
+      "name": "Yakovlevka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.42588000",
+      "longitude": "133.47406000"
+   },
+   {
+      "name": "Yakovlevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.41667000",
+      "longitude": "133.50000000"
+   },
+   {
+      "name": "Yaroslavskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.18578000",
+      "longitude": "132.22862000"
+   },
+   {
+      "name": "Yekaterinovka",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.92525000",
+      "longitude": "133.04922000"
+   },
+   {
+      "name": "Zarubino",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "42.63257000",
+      "longitude": "131.09005000"
+   },
+   {
+      "name": "Zavodskoy",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "43.46242000",
+      "longitude": "132.28494000"
+   },
+   {
+      "name": "Zharikovo",
+      "countryCode": "RU",
+      "stateCode": "PRI",
+      "latitude": "44.58800000",
+      "longitude": "131.72770000"
+   }
+]

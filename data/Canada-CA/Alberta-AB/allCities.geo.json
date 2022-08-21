@@ -1,0 +1,807 @@
+[
+   {
+      "name": "Airdrie",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.30011000",
+      "longitude": "-114.03528000"
+   },
+   {
+      "name": "Athabasca",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.71687000",
+      "longitude": "-113.28537000"
+   },
+   {
+      "name": "Banff",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.17622000",
+      "longitude": "-115.56982000"
+   },
+   {
+      "name": "Barrhead",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.13345000",
+      "longitude": "-114.40211000"
+   },
+   {
+      "name": "Bassano",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.78342000",
+      "longitude": "-112.46854000"
+   },
+   {
+      "name": "Beaumont",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.35013000",
+      "longitude": "-113.41871000"
+   },
+   {
+      "name": "Beaverlodge",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.21664000",
+      "longitude": "-119.43605000"
+   },
+   {
+      "name": "Black Diamond",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.70011000",
+      "longitude": "-114.23530000"
+   },
+   {
+      "name": "Blackfalds",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.38342000",
+      "longitude": "-113.78530000"
+   },
+   {
+      "name": "Bon Accord",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.83345000",
+      "longitude": "-113.41872000"
+   },
+   {
+      "name": "Bonnyville",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.26684000",
+      "longitude": "-110.73505000"
+   },
+   {
+      "name": "Bow Island",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.86676000",
+      "longitude": "-111.36843000"
+   },
+   {
+      "name": "Brooks",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.58341000",
+      "longitude": "-111.88509000"
+   },
+   {
+      "name": "Calgary",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.05011000",
+      "longitude": "-114.08529000"
+   },
+   {
+      "name": "Calmar",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.26683000",
+      "longitude": "-113.81874000"
+   },
+   {
+      "name": "Camrose",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.01684000",
+      "longitude": "-112.83525000"
+   },
+   {
+      "name": "Canmore",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.08335000",
+      "longitude": "-115.35206000"
+   },
+   {
+      "name": "Cardston",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.19998000",
+      "longitude": "-113.30190000"
+   },
+   {
+      "name": "Carstairs",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.56681000",
+      "longitude": "-114.10200000"
+   },
+   {
+      "name": "Chestermere",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.03341000",
+      "longitude": "-113.81867000"
+   },
+   {
+      "name": "Claresholm",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.03332000",
+      "longitude": "-113.58524000"
+   },
+   {
+      "name": "Coaldale",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.71670000",
+      "longitude": "-112.61854000"
+   },
+   {
+      "name": "Coalhurst",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.74640000",
+      "longitude": "-112.93246000"
+   },
+   {
+      "name": "Cochrane",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.18341000",
+      "longitude": "-114.46871000"
+   },
+   {
+      "name": "Cold Lake",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.46525000",
+      "longitude": "-110.18154000"
+   },
+   {
+      "name": "Crossfield",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.43341000",
+      "longitude": "-114.03528000"
+   },
+   {
+      "name": "Devon",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.36683000",
+      "longitude": "-113.73533000"
+   },
+   {
+      "name": "Didsbury",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.66681000",
+      "longitude": "-114.13529000"
+   },
+   {
+      "name": "Drayton Valley",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.21682000",
+      "longitude": "-114.98544000"
+   },
+   {
+      "name": "Edmonton",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.55014000",
+      "longitude": "-113.46871000"
+   },
+   {
+      "name": "Edson",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.58345000",
+      "longitude": "-116.43559000"
+   },
+   {
+      "name": "Elk Point",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.90017000",
+      "longitude": "-110.90170000"
+   },
+   {
+      "name": "Fairview",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "56.06675000",
+      "longitude": "-118.38606000"
+   },
+   {
+      "name": "Falher",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.73339000",
+      "longitude": "-117.20262000"
+   },
+   {
+      "name": "Fort Macleod",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.71671000",
+      "longitude": "-113.41857000"
+   },
+   {
+      "name": "Fort McMurray",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "56.72676000",
+      "longitude": "-111.38103000"
+   },
+   {
+      "name": "Fort Saskatchewan",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.71684000",
+      "longitude": "-113.21870000"
+   },
+   {
+      "name": "Fox Creek",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.40007000",
+      "longitude": "-116.80238000"
+   },
+   {
+      "name": "Gibbons",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.83345000",
+      "longitude": "-113.33531000"
+   },
+   {
+      "name": "Grand Centre",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.41628000",
+      "longitude": "-110.21304000"
+   },
+   {
+      "name": "Grande Cache",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.88335000",
+      "longitude": "-119.13585000"
+   },
+   {
+      "name": "Grande Prairie",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.16667000",
+      "longitude": "-118.80271000"
+   },
+   {
+      "name": "Grimshaw",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "56.18339000",
+      "longitude": "-117.60270000"
+   },
+   {
+      "name": "Hanna",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.63343000",
+      "longitude": "-111.90181000"
+   },
+   {
+      "name": "Heritage Pointe",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.84213000",
+      "longitude": "-114.00493000"
+   },
+   {
+      "name": "High Level",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "58.51688000",
+      "longitude": "-117.13605000"
+   },
+   {
+      "name": "High Prairie",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.43340000",
+      "longitude": "-116.48580000"
+   },
+   {
+      "name": "High River",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.58341000",
+      "longitude": "-113.86867000"
+   },
+   {
+      "name": "Hinton",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.40009000",
+      "longitude": "-117.58567000"
+   },
+   {
+      "name": "Irricana",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.32372000",
+      "longitude": "-113.60475000"
+   },
+   {
+      "name": "Jasper Park Lodge",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.88633000",
+      "longitude": "-118.05625000"
+   },
+   {
+      "name": "Killam",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.78344000",
+      "longitude": "-111.85175000"
+   },
+   {
+      "name": "Lac La Biche",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.76690000",
+      "longitude": "-111.96861000"
+   },
+   {
+      "name": "Lacombe",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.46681000",
+      "longitude": "-113.73530000"
+   },
+   {
+      "name": "Lamont",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.76686000",
+      "longitude": "-112.80195000"
+   },
+   {
+      "name": "Larkspur",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.47942000",
+      "longitude": "-113.38142000"
+   },
+   {
+      "name": "Laurel",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.44667000",
+      "longitude": "-113.38197000"
+   },
+   {
+      "name": "Leduc",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.26682000",
+      "longitude": "-113.55201000"
+   },
+   {
+      "name": "Lethbridge",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.69999000",
+      "longitude": "-112.81856000"
+   },
+   {
+      "name": "Lloydminster",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.27237000",
+      "longitude": "-110.02256000"
+   },
+   {
+      "name": "Magrath",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.41668000",
+      "longitude": "-112.86856000"
+   },
+   {
+      "name": "Manning",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "56.91683000",
+      "longitude": "-117.61945000"
+   },
+   {
+      "name": "Mannville",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.33764000",
+      "longitude": "-111.17750000"
+   },
+   {
+      "name": "Maple Ridge",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.50172000",
+      "longitude": "-113.36274000"
+   },
+   {
+      "name": "Mayerthorpe",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.95015000",
+      "longitude": "-115.13547000"
+   },
+   {
+      "name": "Medicine Hat",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.03928000",
+      "longitude": "-110.67661000"
+   },
+   {
+      "name": "Mill Woods Town Centre",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.45639000",
+      "longitude": "-113.42751000"
+   },
+   {
+      "name": "Millet",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.10013000",
+      "longitude": "-113.46870000"
+   },
+   {
+      "name": "Morinville",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.80014000",
+      "longitude": "-113.65203000"
+   },
+   {
+      "name": "Nanton",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.35008000",
+      "longitude": "-113.76866000"
+   },
+   {
+      "name": "Okotoks",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.72885000",
+      "longitude": "-113.98281000"
+   },
+   {
+      "name": "Olds",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.78341000",
+      "longitude": "-114.10199000"
+   },
+   {
+      "name": "Peace River",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "56.23715000",
+      "longitude": "-117.29176000"
+   },
+   {
+      "name": "Penhold",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.13342000",
+      "longitude": "-113.86870000"
+   },
+   {
+      "name": "Picture Butte",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.88330000",
+      "longitude": "-112.78516000"
+   },
+   {
+      "name": "Pincher Creek",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.48328000",
+      "longitude": "-113.95195000"
+   },
+   {
+      "name": "Ponoka",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.67680000",
+      "longitude": "-113.58147000"
+   },
+   {
+      "name": "Provost",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.35014000",
+      "longitude": "-110.26828000"
+   },
+   {
+      "name": "Raymond",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.44998000",
+      "longitude": "-112.65185000"
+   },
+   {
+      "name": "Red Deer",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.26682000",
+      "longitude": "-113.80200000"
+   },
+   {
+      "name": "Rideau Park",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.47899000",
+      "longitude": "-113.50470000"
+   },
+   {
+      "name": "Rimbey",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.63340000",
+      "longitude": "-114.23532000"
+   },
+   {
+      "name": "Rocky Mountain House",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.36683000",
+      "longitude": "-114.91880000"
+   },
+   {
+      "name": "Sexsmith",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.34998000",
+      "longitude": "-118.78602000"
+   },
+   {
+      "name": "Sherwood Park",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.51684000",
+      "longitude": "-113.31870000"
+   },
+   {
+      "name": "Silver Berry",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.45787000",
+      "longitude": "-113.38170000"
+   },
+   {
+      "name": "Slave Lake",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.28344000",
+      "longitude": "-114.76896000"
+   },
+   {
+      "name": "Smoky Lake",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.11687000",
+      "longitude": "-112.46863000"
+   },
+   {
+      "name": "Spirit River",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.78327000",
+      "longitude": "-118.83607000"
+   },
+   {
+      "name": "Springbrook",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.17920000",
+      "longitude": "-113.87981000"
+   },
+   {
+      "name": "Spruce Grove",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.53344000",
+      "longitude": "-113.91874000"
+   },
+   {
+      "name": "St. Albert",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.63344000",
+      "longitude": "-113.63533000"
+   },
+   {
+      "name": "Stettler",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.31683000",
+      "longitude": "-112.71861000"
+   },
+   {
+      "name": "Stony Plain",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.53343000",
+      "longitude": "-114.00205000"
+   },
+   {
+      "name": "Strathmore",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.05011000",
+      "longitude": "-113.38523000"
+   },
+   {
+      "name": "Sundre",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.80010000",
+      "longitude": "-114.63532000"
+   },
+   {
+      "name": "Swan Hills",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.71681000",
+      "longitude": "-115.40226000"
+   },
+   {
+      "name": "Sylvan Lake",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.31100000",
+      "longitude": "-114.08375000"
+   },
+   {
+      "name": "Taber",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "49.78703000",
+      "longitude": "-112.14603000"
+   },
+   {
+      "name": "Tamarack",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.46441000",
+      "longitude": "-113.36235000"
+   },
+   {
+      "name": "Three Hills",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "51.70012000",
+      "longitude": "-113.26863000"
+   },
+   {
+      "name": "Tofield",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.36684000",
+      "longitude": "-112.66862000"
+   },
+   {
+      "name": "Two Hills",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.71686000",
+      "longitude": "-111.75181000"
+   },
+   {
+      "name": "Valleyview",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.06673000",
+      "longitude": "-117.28585000"
+   },
+   {
+      "name": "Vegreville",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.50015000",
+      "longitude": "-112.05182000"
+   },
+   {
+      "name": "Vermilion",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.35409000",
+      "longitude": "-110.85849000"
+   },
+   {
+      "name": "Viking",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.10014000",
+      "longitude": "-111.76844000"
+   },
+   {
+      "name": "Vulcan",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "50.40008000",
+      "longitude": "-113.25189000"
+   },
+   {
+      "name": "Wainwright",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.83482000",
+      "longitude": "-110.85342000"
+   },
+   {
+      "name": "Wembley",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.14995000",
+      "longitude": "-119.13602000"
+   },
+   {
+      "name": "Westlake",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "55.22228000",
+      "longitude": "-118.80415000"
+   },
+   {
+      "name": "Westlock",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.15016000",
+      "longitude": "-113.86876000"
+   },
+   {
+      "name": "Wetaskiwin",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "52.96683000",
+      "longitude": "-113.36869000"
+   },
+   {
+      "name": "Whitecourt",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "54.15015000",
+      "longitude": "-115.68548000"
+   },
+   {
+      "name": "Wild Rose",
+      "countryCode": "CA",
+      "stateCode": "AB",
+      "latitude": "53.47080000",
+      "longitude": "-113.38119000"
+   }
+]

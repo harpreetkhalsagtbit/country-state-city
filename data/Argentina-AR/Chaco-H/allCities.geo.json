@@ -1,0 +1,520 @@
+[
+   {
+      "name": "Aviá Terai",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.68532000",
+      "longitude": "-60.72920000"
+   },
+   {
+      "name": "Barranqueras",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.48132000",
+      "longitude": "-58.93925000"
+   },
+   {
+      "name": "Basail",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.88539000",
+      "longitude": "-59.28245000"
+   },
+   {
+      "name": "Campo Largo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.80077000",
+      "longitude": "-60.84215000"
+   },
+   {
+      "name": "Capitán Solari",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.80215000",
+      "longitude": "-59.56089000"
+   },
+   {
+      "name": "Castelli",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-25.94679000",
+      "longitude": "-60.61947000"
+   },
+   {
+      "name": "Charadai",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.65503000",
+      "longitude": "-59.86291000"
+   },
+   {
+      "name": "Charata",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.21438000",
+      "longitude": "-61.18795000"
+   },
+   {
+      "name": "Chorotis",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.91578000",
+      "longitude": "-61.39982000"
+   },
+   {
+      "name": "Ciervo Petiso",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.58041000",
+      "longitude": "-59.63094000"
+   },
+   {
+      "name": "Colonia Benítez",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.33099000",
+      "longitude": "-58.94622000"
+   },
+   {
+      "name": "Colonia Elisa",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.93041000",
+      "longitude": "-59.51861000"
+   },
+   {
+      "name": "Colonias Unidas",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.69825000",
+      "longitude": "-59.63154000"
+   },
+   {
+      "name": "Concepción del Bermejo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.59926000",
+      "longitude": "-60.94617000"
+   },
+   {
+      "name": "Coronel Du Graty",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.68038000",
+      "longitude": "-60.91462000"
+   },
+   {
+      "name": "Corzuela",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.95374000",
+      "longitude": "-60.96928000"
+   },
+   {
+      "name": "Coté-Lai",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.50000000",
+      "longitude": "-59.60000000"
+   },
+   {
+      "name": "Departamento de Almirante Brown",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-25.81662000",
+      "longitude": "-61.45576000"
+   },
+   {
+      "name": "Departamento de Bermejo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.00000000",
+      "longitude": "-58.66667000"
+   },
+   {
+      "name": "Departamento de Comandante Fernández",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.83333000",
+      "longitude": "-60.50000000"
+   },
+   {
+      "name": "Departamento de Doce de Octubre",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.41667000",
+      "longitude": "-61.33333000"
+   },
+   {
+      "name": "Departamento de Dos de Abril",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.60932000",
+      "longitude": "-61.34473000"
+   },
+   {
+      "name": "Departamento de General Donovan",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.16667000",
+      "longitude": "-59.33333000"
+   },
+   {
+      "name": "Departamento de General Güemes",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-25.16667000",
+      "longitude": "-61.41667000"
+   },
+   {
+      "name": "Departamento de Independencia",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.66667000",
+      "longitude": "-60.66667000"
+   },
+   {
+      "name": "Departamento de Libertad",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.33333000",
+      "longitude": "-59.33333000"
+   },
+   {
+      "name": "Departamento de Maipú",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.33333000",
+      "longitude": "-60.41667000"
+   },
+   {
+      "name": "Departamento de Nueve de Julio",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.95331000",
+      "longitude": "-61.27627000"
+   },
+   {
+      "name": "Departamento de O’Higgins",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.25000000",
+      "longitude": "-60.66667000"
+   },
+   {
+      "name": "Departamento de Presidencia de la Plaza",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.00000000",
+      "longitude": "-59.75000000"
+   },
+   {
+      "name": "Departamento de Quitilipi",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.66667000",
+      "longitude": "-60.16667000"
+   },
+   {
+      "name": "Departamento de San Fernando",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.66667000",
+      "longitude": "-59.16667000"
+   },
+   {
+      "name": "Departamento de San Lorenzo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.33333000",
+      "longitude": "-60.41667000"
+   },
+   {
+      "name": "Departamento de Sargento Cabral",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.83333000",
+      "longitude": "-59.50000000"
+   },
+   {
+      "name": "Departamento de Tapenagá",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.50000000",
+      "longitude": "-59.75000000"
+   },
+   {
+      "name": "Fontana",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.41813000",
+      "longitude": "-59.02392000"
+   },
+   {
+      "name": "Gancedo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.49038000",
+      "longitude": "-61.67571000"
+   },
+   {
+      "name": "General José de San Martín",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.53743000",
+      "longitude": "-59.34158000"
+   },
+   {
+      "name": "General Pinedo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.31667000",
+      "longitude": "-61.28333000"
+   },
+   {
+      "name": "General Vedia",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.93382000",
+      "longitude": "-58.66040000"
+   },
+   {
+      "name": "Hermoso Campo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.60816000",
+      "longitude": "-61.34441000"
+   },
+   {
+      "name": "La Clotilde",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.13333000",
+      "longitude": "-60.66667000"
+   },
+   {
+      "name": "La Eduvigis",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.83607000",
+      "longitude": "-59.06211000"
+   },
+   {
+      "name": "La Escondida",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.10724000",
+      "longitude": "-59.44784000"
+   },
+   {
+      "name": "La Leonesa",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.03786000",
+      "longitude": "-58.70347000"
+   },
+   {
+      "name": "La Tigra",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.10996000",
+      "longitude": "-60.58719000"
+   },
+   {
+      "name": "La Verde",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.12634000",
+      "longitude": "-59.37352000"
+   },
+   {
+      "name": "Laguna Limpia",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.49565000",
+      "longitude": "-59.68083000"
+   },
+   {
+      "name": "Lapachito",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.15997000",
+      "longitude": "-59.38605000"
+   },
+   {
+      "name": "Las Breñas",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.08966000",
+      "longitude": "-61.08161000"
+   },
+   {
+      "name": "Las Garcitas",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.61802000",
+      "longitude": "-59.80135000"
+   },
+   {
+      "name": "Los Frentones",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.40770000",
+      "longitude": "-61.41367000"
+   },
+   {
+      "name": "Machagai",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.92614000",
+      "longitude": "-60.04955000"
+   },
+   {
+      "name": "Makallé",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.20687000",
+      "longitude": "-59.28696000"
+   },
+   {
+      "name": "Margarita Belén",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.26160000",
+      "longitude": "-58.97219000"
+   },
+   {
+      "name": "Napenay",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.73333000",
+      "longitude": "-60.61667000"
+   },
+   {
+      "name": "Pampa Almirón",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.70039000",
+      "longitude": "-59.12331000"
+   },
+   {
+      "name": "Pampa del Indio",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.04982000",
+      "longitude": "-59.93728000"
+   },
+   {
+      "name": "Pampa del Infierno",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.50517000",
+      "longitude": "-61.17436000"
+   },
+   {
+      "name": "Presidencia Roca",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.14090000",
+      "longitude": "-59.59541000"
+   },
+   {
+      "name": "Presidencia Roque Sáenz Peña",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.78522000",
+      "longitude": "-60.43876000"
+   },
+   {
+      "name": "Presidencia de la Plaza",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.00147000",
+      "longitude": "-59.84243000"
+   },
+   {
+      "name": "Puerto Bermejo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.92739000",
+      "longitude": "-58.50917000"
+   },
+   {
+      "name": "Puerto Tirol",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.37218000",
+      "longitude": "-59.08206000"
+   },
+   {
+      "name": "Puerto Vilelas",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.51414000",
+      "longitude": "-58.93906000"
+   },
+   {
+      "name": "Quitilipi",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.86913000",
+      "longitude": "-60.21683000"
+   },
+   {
+      "name": "Resistencia",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.46056000",
+      "longitude": "-58.98389000"
+   },
+   {
+      "name": "Samuhú",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.52116000",
+      "longitude": "-60.39167000"
+   },
+   {
+      "name": "San Bernardo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.28782000",
+      "longitude": "-60.71252000"
+   },
+   {
+      "name": "Santa Sylvina",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.83261000",
+      "longitude": "-61.13747000"
+   },
+   {
+      "name": "Taco Pozo",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-25.61557000",
+      "longitude": "-63.26708000"
+   },
+   {
+      "name": "Tres Isletas",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-26.34067000",
+      "longitude": "-60.43207000"
+   },
+   {
+      "name": "Villa Berthet",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.29174000",
+      "longitude": "-60.41263000"
+   },
+   {
+      "name": "Villa Ángela",
+      "countryCode": "AR",
+      "stateCode": "H",
+      "latitude": "-27.57383000",
+      "longitude": "-60.71526000"
+   }
+]

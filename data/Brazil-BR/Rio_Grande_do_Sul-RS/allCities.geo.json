@@ -1,0 +1,3509 @@
+[
+   {
+      "name": "Aceguá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.64597000",
+      "longitude": "-54.10715000"
+   },
+   {
+      "name": "Agudo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.62631000",
+      "longitude": "-53.22404000"
+   },
+   {
+      "name": "Ajuricaba",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.20723000",
+      "longitude": "-53.74458000"
+   },
+   {
+      "name": "Alecrim",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.65897000",
+      "longitude": "-54.75943000"
+   },
+   {
+      "name": "Alegrete",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.78306000",
+      "longitude": "-55.79194000"
+   },
+   {
+      "name": "Alegria",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.79967000",
+      "longitude": "-54.05855000"
+   },
+   {
+      "name": "Almirante Tamandaré do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.15104000",
+      "longitude": "-52.91142000"
+   },
+   {
+      "name": "Alpestre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.22135000",
+      "longitude": "-53.05749000"
+   },
+   {
+      "name": "Alto Alegre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.79752000",
+      "longitude": "-52.98177000"
+   },
+   {
+      "name": "Alto Feliz",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.36438000",
+      "longitude": "-51.30068000"
+   },
+   {
+      "name": "Alvorada",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.98897000",
+      "longitude": "-51.03717000"
+   },
+   {
+      "name": "Amaral Ferrador",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.80769000",
+      "longitude": "-52.29964000"
+   },
+   {
+      "name": "Ametista do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.36698000",
+      "longitude": "-53.18701000"
+   },
+   {
+      "name": "André da Rocha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.58832000",
+      "longitude": "-51.49976000"
+   },
+   {
+      "name": "Anta Gorda",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.96836000",
+      "longitude": "-51.97107000"
+   },
+   {
+      "name": "Antônio Prado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.87322000",
+      "longitude": "-51.31744000"
+   },
+   {
+      "name": "Arambaré",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.91331000",
+      "longitude": "-51.55614000"
+   },
+   {
+      "name": "Araricá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.64987000",
+      "longitude": "-50.93350000"
+   },
+   {
+      "name": "Aratiba",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.37708000",
+      "longitude": "-52.29009000"
+   },
+   {
+      "name": "Arroio Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-32.17945000",
+      "longitude": "-52.86652000"
+   },
+   {
+      "name": "Arroio do Meio",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.40111000",
+      "longitude": "-51.94500000"
+   },
+   {
+      "name": "Arroio do Padre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.43927000",
+      "longitude": "-52.39642000"
+   },
+   {
+      "name": "Arroio do Sal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.52930000",
+      "longitude": "-49.89148000"
+   },
+   {
+      "name": "Arroio do Tigre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.26209000",
+      "longitude": "-53.06060000"
+   },
+   {
+      "name": "Arroio dos Ratos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.07722000",
+      "longitude": "-51.72917000"
+   },
+   {
+      "name": "Arvorezinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.86971000",
+      "longitude": "-52.19631000"
+   },
+   {
+      "name": "Augusto Pestana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.54034000",
+      "longitude": "-53.97927000"
+   },
+   {
+      "name": "Bagé",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.33139000",
+      "longitude": "-54.10694000"
+   },
+   {
+      "name": "Balneário Pinhal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.21275000",
+      "longitude": "-50.29309000"
+   },
+   {
+      "name": "Barra Funda",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.91562000",
+      "longitude": "-53.03286000"
+   },
+   {
+      "name": "Barra do Guarita",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.21739000",
+      "longitude": "-53.76461000"
+   },
+   {
+      "name": "Barra do Quaraí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.17445000",
+      "longitude": "-57.31007000"
+   },
+   {
+      "name": "Barra do Ribeiro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.34435000",
+      "longitude": "-51.36125000"
+   },
+   {
+      "name": "Barra do Rio Azul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.39848000",
+      "longitude": "-52.40887000"
+   },
+   {
+      "name": "Barracão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.73726000",
+      "longitude": "-51.44229000"
+   },
+   {
+      "name": "Barros Cassal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.13534000",
+      "longitude": "-52.57508000"
+   },
+   {
+      "name": "Barão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.39636000",
+      "longitude": "-51.54620000"
+   },
+   {
+      "name": "Barão de Cotegipe",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.55108000",
+      "longitude": "-52.44751000"
+   },
+   {
+      "name": "Barão do Triunfo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.39257000",
+      "longitude": "-51.79493000"
+   },
+   {
+      "name": "Benjamin Constant do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.48726000",
+      "longitude": "-52.65470000"
+   },
+   {
+      "name": "Bento Gonçalves",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.09958000",
+      "longitude": "-51.54344000"
+   },
+   {
+      "name": "Boa Vista das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.69239000",
+      "longitude": "-53.35253000"
+   },
+   {
+      "name": "Boa Vista do Buricá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.68021000",
+      "longitude": "-54.10928000"
+   },
+   {
+      "name": "Boa Vista do Cadeado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.62211000",
+      "longitude": "-53.81616000"
+   },
+   {
+      "name": "Boa Vista do Incra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.84193000",
+      "longitude": "-53.45649000"
+   },
+   {
+      "name": "Boa Vista do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.34197000",
+      "longitude": "-51.68079000"
+   },
+   {
+      "name": "Bom Jesus",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.59981000",
+      "longitude": "-50.46197000"
+   },
+   {
+      "name": "Bom Princípio",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.46171000",
+      "longitude": "-51.36405000"
+   },
+   {
+      "name": "Bom Progresso",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.54223000",
+      "longitude": "-53.82889000"
+   },
+   {
+      "name": "Bom Retiro do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.63558000",
+      "longitude": "-51.91097000"
+   },
+   {
+      "name": "Boqueirão do Leão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.31252000",
+      "longitude": "-52.39841000"
+   },
+   {
+      "name": "Bossoroca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.67113000",
+      "longitude": "-54.96188000"
+   },
+   {
+      "name": "Bozano",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.36580000",
+      "longitude": "-53.76893000"
+   },
+   {
+      "name": "Braga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.57218000",
+      "longitude": "-53.76214000"
+   },
+   {
+      "name": "Brochier",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.55754000",
+      "longitude": "-51.59193000"
+   },
+   {
+      "name": "Butiá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.11972000",
+      "longitude": "-51.96222000"
+   },
+   {
+      "name": "Cacequi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.88361000",
+      "longitude": "-54.82500000"
+   },
+   {
+      "name": "Cachoeira do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.20808000",
+      "longitude": "-52.97067000"
+   },
+   {
+      "name": "Cachoeirinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.95111000",
+      "longitude": "-51.09389000"
+   },
+   {
+      "name": "Cacique Doble",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.81730000",
+      "longitude": "-51.68271000"
+   },
+   {
+      "name": "Caibaté",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.30429000",
+      "longitude": "-54.65585000"
+   },
+   {
+      "name": "Caiçara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.24828000",
+      "longitude": "-53.45824000"
+   },
+   {
+      "name": "Camaquã",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.91965000",
+      "longitude": "-51.85302000"
+   },
+   {
+      "name": "Camargo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.61437000",
+      "longitude": "-52.21986000"
+   },
+   {
+      "name": "Cambará do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.06727000",
+      "longitude": "-50.11848000"
+   },
+   {
+      "name": "Campestre da Serra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.70645000",
+      "longitude": "-51.11921000"
+   },
+   {
+      "name": "Campina das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.98729000",
+      "longitude": "-54.83020000"
+   },
+   {
+      "name": "Campinas do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.70629000",
+      "longitude": "-52.63937000"
+   },
+   {
+      "name": "Campo Bom",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.66716000",
+      "longitude": "-51.05054000"
+   },
+   {
+      "name": "Campo Novo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.67313000",
+      "longitude": "-53.81745000"
+   },
+   {
+      "name": "Campos Borges",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.89387000",
+      "longitude": "-53.02543000"
+   },
+   {
+      "name": "Candelária",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.71623000",
+      "longitude": "-52.80968000"
+   },
+   {
+      "name": "Candiota",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.49089000",
+      "longitude": "-53.70274000"
+   },
+   {
+      "name": "Canela",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.34715000",
+      "longitude": "-50.77536000"
+   },
+   {
+      "name": "Canguçu",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.39500000",
+      "longitude": "-52.67556000"
+   },
+   {
+      "name": "Canoas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.91778000",
+      "longitude": "-51.18361000"
+   },
+   {
+      "name": "Canudos do Vale",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.32055000",
+      "longitude": "-52.22476000"
+   },
+   {
+      "name": "Capela de Santana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.71236000",
+      "longitude": "-51.38078000"
+   },
+   {
+      "name": "Capitão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.28020000",
+      "longitude": "-51.98317000"
+   },
+   {
+      "name": "Capivari do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.17289000",
+      "longitude": "-50.48702000"
+   },
+   {
+      "name": "Capão Bonito do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.17432000",
+      "longitude": "-51.42298000"
+   },
+   {
+      "name": "Capão da Canoa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.66118000",
+      "longitude": "-50.01422000"
+   },
+   {
+      "name": "Capão do Cipó",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.94987000",
+      "longitude": "-54.60368000"
+   },
+   {
+      "name": "Capão do Leão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.84324000",
+      "longitude": "-52.55323000"
+   },
+   {
+      "name": "Carazinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.28389000",
+      "longitude": "-52.78639000"
+   },
+   {
+      "name": "Caraá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.77397000",
+      "longitude": "-50.35369000"
+   },
+   {
+      "name": "Carlos Barbosa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.29750000",
+      "longitude": "-51.50361000"
+   },
+   {
+      "name": "Carlos Gomes",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.71183000",
+      "longitude": "-51.90645000"
+   },
+   {
+      "name": "Casca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.57590000",
+      "longitude": "-51.91980000"
+   },
+   {
+      "name": "Caseiros",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.23222000",
+      "longitude": "-51.78157000"
+   },
+   {
+      "name": "Catuípe",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.19806000",
+      "longitude": "-54.05868000"
+   },
+   {
+      "name": "Caxias do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.16806000",
+      "longitude": "-51.17944000"
+   },
+   {
+      "name": "Caçapava do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.61002000",
+      "longitude": "-53.47227000"
+   },
+   {
+      "name": "Centenário",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.78654000",
+      "longitude": "-52.00905000"
+   },
+   {
+      "name": "Cerrito",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.73952000",
+      "longitude": "-52.78378000"
+   },
+   {
+      "name": "Cerro Branco",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.63374000",
+      "longitude": "-52.98725000"
+   },
+   {
+      "name": "Cerro Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.62261000",
+      "longitude": "-53.16028000"
+   },
+   {
+      "name": "Cerro Grande do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.58623000",
+      "longitude": "-51.74239000"
+   },
+   {
+      "name": "Cerro Largo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.13490000",
+      "longitude": "-54.73667000"
+   },
+   {
+      "name": "Chapada",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.10434000",
+      "longitude": "-53.08861000"
+   },
+   {
+      "name": "Charqueadas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.95472000",
+      "longitude": "-51.62528000"
+   },
+   {
+      "name": "Charrua",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.94543000",
+      "longitude": "-51.99053000"
+   },
+   {
+      "name": "Chiapetta",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.97630000",
+      "longitude": "-53.92051000"
+   },
+   {
+      "name": "Chuvisca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.77649000",
+      "longitude": "-52.00221000"
+   },
+   {
+      "name": "Chuí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-33.69111000",
+      "longitude": "-53.45667000"
+   },
+   {
+      "name": "Cidreira",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.09103000",
+      "longitude": "-50.26938000"
+   },
+   {
+      "name": "Ciríaco",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.37066000",
+      "longitude": "-51.91242000"
+   },
+   {
+      "name": "Colinas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.39282000",
+      "longitude": "-51.86831000"
+   },
+   {
+      "name": "Colorado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.48320000",
+      "longitude": "-52.99088000"
+   },
+   {
+      "name": "Condor",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.19261000",
+      "longitude": "-53.49261000"
+   },
+   {
+      "name": "Constantina",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.70625000",
+      "longitude": "-53.00221000"
+   },
+   {
+      "name": "Coqueiro Baixo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.17479000",
+      "longitude": "-52.10209000"
+   },
+   {
+      "name": "Coqueiros do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.13683000",
+      "longitude": "-52.76136000"
+   },
+   {
+      "name": "Coronel Barros",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.39445000",
+      "longitude": "-54.06367000"
+   },
+   {
+      "name": "Coronel Bicaco",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.79949000",
+      "longitude": "-53.65310000"
+   },
+   {
+      "name": "Coronel Pilar",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.25977000",
+      "longitude": "-51.71821000"
+   },
+   {
+      "name": "Cotiporã",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.00719000",
+      "longitude": "-51.69528000"
+   },
+   {
+      "name": "Coxilha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.10327000",
+      "longitude": "-52.36576000"
+   },
+   {
+      "name": "Crissiumal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.48087000",
+      "longitude": "-54.14173000"
+   },
+   {
+      "name": "Cristal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.02454000",
+      "longitude": "-52.02929000"
+   },
+   {
+      "name": "Cristal do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.42515000",
+      "longitude": "-53.24362000"
+   },
+   {
+      "name": "Cruz Alta",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.64397000",
+      "longitude": "-53.60633000"
+   },
+   {
+      "name": "Cruzaltense",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.64105000",
+      "longitude": "-52.63264000"
+   },
+   {
+      "name": "Cruzeiro do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.56709000",
+      "longitude": "-52.03042000"
+   },
+   {
+      "name": "Cândido Godói",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.89509000",
+      "longitude": "-54.74128000"
+   },
+   {
+      "name": "David Canabarro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.41776000",
+      "longitude": "-51.81680000"
+   },
+   {
+      "name": "Derrubadas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.25025000",
+      "longitude": "-53.88415000"
+   },
+   {
+      "name": "Dezesseis de Novembro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.19125000",
+      "longitude": "-55.07548000"
+   },
+   {
+      "name": "Dilermando de Aguiar",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.80603000",
+      "longitude": "-54.15398000"
+   },
+   {
+      "name": "Dois Irmãos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.61158000",
+      "longitude": "-51.09333000"
+   },
+   {
+      "name": "Dois Irmãos das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.68117000",
+      "longitude": "-53.51477000"
+   },
+   {
+      "name": "Dois Lajeados",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.97092000",
+      "longitude": "-51.84970000"
+   },
+   {
+      "name": "Dom Feliciano",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.61390000",
+      "longitude": "-52.19315000"
+   },
+   {
+      "name": "Dom Pedrito",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.98278000",
+      "longitude": "-54.67306000"
+   },
+   {
+      "name": "Dom Pedro de Alcântara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.35681000",
+      "longitude": "-49.87288000"
+   },
+   {
+      "name": "Dona Francisca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.58683000",
+      "longitude": "-53.33964000"
+   },
+   {
+      "name": "Doutor Maurício Cardoso",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.49540000",
+      "longitude": "-54.36400000"
+   },
+   {
+      "name": "Doutor Ricardo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.10117000",
+      "longitude": "-51.97440000"
+   },
+   {
+      "name": "Eldorado do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.08896000",
+      "longitude": "-51.53400000"
+   },
+   {
+      "name": "Encantado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.23611000",
+      "longitude": "-51.86972000"
+   },
+   {
+      "name": "Encruzilhada do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.60368000",
+      "longitude": "-52.68280000"
+   },
+   {
+      "name": "Engenho Velho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.67698000",
+      "longitude": "-52.91040000"
+   },
+   {
+      "name": "Entre Rios do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.50821000",
+      "longitude": "-52.72855000"
+   },
+   {
+      "name": "Entre-Ijuís",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.46066000",
+      "longitude": "-54.30321000"
+   },
+   {
+      "name": "Erebango",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.82558000",
+      "longitude": "-52.31909000"
+   },
+   {
+      "name": "Erechim",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.63461000",
+      "longitude": "-52.27540000"
+   },
+   {
+      "name": "Ernestina",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.42323000",
+      "longitude": "-52.57365000"
+   },
+   {
+      "name": "Erval Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.36138000",
+      "longitude": "-52.57486000"
+   },
+   {
+      "name": "Erval Seco",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.49433000",
+      "longitude": "-53.52792000"
+   },
+   {
+      "name": "Esmeralda",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.98347000",
+      "longitude": "-51.19413000"
+   },
+   {
+      "name": "Esperança do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.32100000",
+      "longitude": "-54.01108000"
+   },
+   {
+      "name": "Espumoso",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.72472000",
+      "longitude": "-52.84972000"
+   },
+   {
+      "name": "Estação",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.93562000",
+      "longitude": "-52.29516000"
+   },
+   {
+      "name": "Esteio",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.86139000",
+      "longitude": "-51.17917000"
+   },
+   {
+      "name": "Estrela",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.06111000",
+      "longitude": "-50.93833000"
+   },
+   {
+      "name": "Estrela Velha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.22360000",
+      "longitude": "-53.17076000"
+   },
+   {
+      "name": "Estância Velha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.64833000",
+      "longitude": "-51.17389000"
+   },
+   {
+      "name": "Eugênio de Castro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.57179000",
+      "longitude": "-54.26582000"
+   },
+   {
+      "name": "Fagundes Varela",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.88133000",
+      "longitude": "-51.72861000"
+   },
+   {
+      "name": "Farroupilha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.22500000",
+      "longitude": "-51.34778000"
+   },
+   {
+      "name": "Faxinal do Soturno",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.57197000",
+      "longitude": "-53.47332000"
+   },
+   {
+      "name": "Faxinalzinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.37178000",
+      "longitude": "-52.66899000"
+   },
+   {
+      "name": "Fazenda Vilanova",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.59817000",
+      "longitude": "-51.84244000"
+   },
+   {
+      "name": "Feliz",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45459000",
+      "longitude": "-51.27775000"
+   },
+   {
+      "name": "Flores da Cunha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.02889000",
+      "longitude": "-51.18167000"
+   },
+   {
+      "name": "Floriano Peixoto",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.85241000",
+      "longitude": "-52.03361000"
+   },
+   {
+      "name": "Fontoura Xavier",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.01054000",
+      "longitude": "-52.36771000"
+   },
+   {
+      "name": "Formigueiro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.96944000",
+      "longitude": "-53.46743000"
+   },
+   {
+      "name": "Forquetinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.39695000",
+      "longitude": "-52.11762000"
+   },
+   {
+      "name": "Fortaleza dos Valos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.91268000",
+      "longitude": "-53.33891000"
+   },
+   {
+      "name": "Frederico Westphalen",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.35917000",
+      "longitude": "-53.39444000"
+   },
+   {
+      "name": "Garibaldi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.25611000",
+      "longitude": "-51.53361000"
+   },
+   {
+      "name": "Garruchos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.25602000",
+      "longitude": "-55.51556000"
+   },
+   {
+      "name": "Gaurama",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.61693000",
+      "longitude": "-52.10405000"
+   },
+   {
+      "name": "General Câmara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.83922000",
+      "longitude": "-51.94718000"
+   },
+   {
+      "name": "Gentil",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.38797000",
+      "longitude": "-52.04926000"
+   },
+   {
+      "name": "Getúlio Vargas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.87411000",
+      "longitude": "-52.16526000"
+   },
+   {
+      "name": "Giruá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.01046000",
+      "longitude": "-54.30456000"
+   },
+   {
+      "name": "Glorinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.85685000",
+      "longitude": "-50.75086000"
+   },
+   {
+      "name": "Gramado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.36252000",
+      "longitude": "-50.90318000"
+   },
+   {
+      "name": "Gramado Xavier",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.28655000",
+      "longitude": "-52.61202000"
+   },
+   {
+      "name": "Gramado dos Loureiros",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.45441000",
+      "longitude": "-52.91705000"
+   },
+   {
+      "name": "Gravataí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.94218000",
+      "longitude": "-50.99278000"
+   },
+   {
+      "name": "Guabiju",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.58817000",
+      "longitude": "-51.64765000"
+   },
+   {
+      "name": "Guaporé",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.84191000",
+      "longitude": "-51.91880000"
+   },
+   {
+      "name": "Guarani das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.15071000",
+      "longitude": "-54.60026000"
+   },
+   {
+      "name": "Guaíba",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.11389000",
+      "longitude": "-51.32500000"
+   },
+   {
+      "name": "Harmonia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54904000",
+      "longitude": "-51.42357000"
+   },
+   {
+      "name": "Herval",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-32.02361000",
+      "longitude": "-53.39556000"
+   },
+   {
+      "name": "Herveiras",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.43864000",
+      "longitude": "-52.67366000"
+   },
+   {
+      "name": "Horizontina",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.62583000",
+      "longitude": "-54.30778000"
+   },
+   {
+      "name": "Hulha Negra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.57199000",
+      "longitude": "-53.86271000"
+   },
+   {
+      "name": "Humaitá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.58561000",
+      "longitude": "-53.99627000"
+   },
+   {
+      "name": "Ibarama",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.40889000",
+      "longitude": "-53.18252000"
+   },
+   {
+      "name": "Ibiaçá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.10474000",
+      "longitude": "-51.80283000"
+   },
+   {
+      "name": "Ibiraiaras",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.38729000",
+      "longitude": "-51.62710000"
+   },
+   {
+      "name": "Ibirapuitã",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.61696000",
+      "longitude": "-52.47077000"
+   },
+   {
+      "name": "Ibirubá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.62750000",
+      "longitude": "-53.08972000"
+   },
+   {
+      "name": "Igrejinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.57444000",
+      "longitude": "-50.79028000"
+   },
+   {
+      "name": "Ijuí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.38778000",
+      "longitude": "-53.91472000"
+   },
+   {
+      "name": "Ilópolis",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.91690000",
+      "longitude": "-52.14813000"
+   },
+   {
+      "name": "Imbé",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.92719000",
+      "longitude": "-50.12826000"
+   },
+   {
+      "name": "Imigrante",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.34023000",
+      "longitude": "-51.75667000"
+   },
+   {
+      "name": "Independência",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.89333000",
+      "longitude": "-54.19784000"
+   },
+   {
+      "name": "Inhacorá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.91435000",
+      "longitude": "-54.03786000"
+   },
+   {
+      "name": "Ipiranga do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.94208000",
+      "longitude": "-52.43068000"
+   },
+   {
+      "name": "Ipê",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.71616000",
+      "longitude": "-51.27787000"
+   },
+   {
+      "name": "Iraí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.27078000",
+      "longitude": "-53.23696000"
+   },
+   {
+      "name": "Itaara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.56305000",
+      "longitude": "-53.74584000"
+   },
+   {
+      "name": "Itacurubi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.78540000",
+      "longitude": "-55.26568000"
+   },
+   {
+      "name": "Itapuca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.77178000",
+      "longitude": "-52.20012000"
+   },
+   {
+      "name": "Itaqui",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.12528000",
+      "longitude": "-56.55306000"
+   },
+   {
+      "name": "Itati",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.42840000",
+      "longitude": "-50.17775000"
+   },
+   {
+      "name": "Itatiba do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.36303000",
+      "longitude": "-52.49074000"
+   },
+   {
+      "name": "Ivorá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.50743000",
+      "longitude": "-53.56819000"
+   },
+   {
+      "name": "Ivoti",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.59111000",
+      "longitude": "-51.16056000"
+   },
+   {
+      "name": "Jaboticaba",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.60969000",
+      "longitude": "-53.27016000"
+   },
+   {
+      "name": "Jacuizinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.03095000",
+      "longitude": "-53.06796000"
+   },
+   {
+      "name": "Jacutinga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.77469000",
+      "longitude": "-52.52224000"
+   },
+   {
+      "name": "Jaguari",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45245000",
+      "longitude": "-54.64626000"
+   },
+   {
+      "name": "Jaguarão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-32.56611000",
+      "longitude": "-53.37583000"
+   },
+   {
+      "name": "Jaquirana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.93470000",
+      "longitude": "-50.36430000"
+   },
+   {
+      "name": "Jari",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.28796000",
+      "longitude": "-54.29784000"
+   },
+   {
+      "name": "Jóia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.72932000",
+      "longitude": "-54.12253000"
+   },
+   {
+      "name": "Júlio de Castilhos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.26449000",
+      "longitude": "-53.62459000"
+   },
+   {
+      "name": "Lagoa Bonita do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.49396000",
+      "longitude": "-53.03470000"
+   },
+   {
+      "name": "Lagoa Vermelha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.21995000",
+      "longitude": "-51.47225000"
+   },
+   {
+      "name": "Lagoa dos Três Cantos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.56607000",
+      "longitude": "-52.84650000"
+   },
+   {
+      "name": "Lagoão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.25902000",
+      "longitude": "-52.76687000"
+   },
+   {
+      "name": "Lajeado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.46694000",
+      "longitude": "-51.96139000"
+   },
+   {
+      "name": "Lajeado do Bugre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.70327000",
+      "longitude": "-53.20742000"
+   },
+   {
+      "name": "Lavras do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.84980000",
+      "longitude": "-54.02830000"
+   },
+   {
+      "name": "Liberato Salzano",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.53845000",
+      "longitude": "-53.07401000"
+   },
+   {
+      "name": "Lindolfo Collor",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.57482000",
+      "longitude": "-51.22786000"
+   },
+   {
+      "name": "Linha Nova",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45535000",
+      "longitude": "-51.21876000"
+   },
+   {
+      "name": "Machadinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.59183000",
+      "longitude": "-51.68758000"
+   },
+   {
+      "name": "Mampituba",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.26145000",
+      "longitude": "-50.01070000"
+   },
+   {
+      "name": "Manoel Viana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.40696000",
+      "longitude": "-55.56870000"
+   },
+   {
+      "name": "Maquiné",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.57608000",
+      "longitude": "-50.25993000"
+   },
+   {
+      "name": "Maratá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54921000",
+      "longitude": "-51.55693000"
+   },
+   {
+      "name": "Marau",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.44217000",
+      "longitude": "-52.27411000"
+   },
+   {
+      "name": "Marcelino Ramos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.47851000",
+      "longitude": "-51.95065000"
+   },
+   {
+      "name": "Mariana Pimentel",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.30220000",
+      "longitude": "-51.58133000"
+   },
+   {
+      "name": "Mariano Moro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.35013000",
+      "longitude": "-52.18363000"
+   },
+   {
+      "name": "Marques de Souza",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.27327000",
+      "longitude": "-52.15720000"
+   },
+   {
+      "name": "Mata",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54895000",
+      "longitude": "-54.44545000"
+   },
+   {
+      "name": "Mato Castelhano",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.27248000",
+      "longitude": "-52.17628000"
+   },
+   {
+      "name": "Mato Leitão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.51457000",
+      "longitude": "-52.13856000"
+   },
+   {
+      "name": "Mato Queimado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.25680000",
+      "longitude": "-54.67109000"
+   },
+   {
+      "name": "Maximiliano de Almeida",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.58802000",
+      "longitude": "-51.80358000"
+   },
+   {
+      "name": "Maçambará",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.05822000",
+      "longitude": "-55.61102000"
+   },
+   {
+      "name": "Minas do Leão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.07189000",
+      "longitude": "-52.11996000"
+   },
+   {
+      "name": "Miraguaí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.48658000",
+      "longitude": "-53.75549000"
+   },
+   {
+      "name": "Montauri",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.66498000",
+      "longitude": "-52.05388000"
+   },
+   {
+      "name": "Monte Alegre dos Campos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.70177000",
+      "longitude": "-50.80405000"
+   },
+   {
+      "name": "Monte Belo do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.13180000",
+      "longitude": "-51.64287000"
+   },
+   {
+      "name": "Montenegro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.68861000",
+      "longitude": "-51.46111000"
+   },
+   {
+      "name": "Mormaço",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.69004000",
+      "longitude": "-52.66928000"
+   },
+   {
+      "name": "Morrinhos do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.34362000",
+      "longitude": "-49.96435000"
+   },
+   {
+      "name": "Morro Redondo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.63833000",
+      "longitude": "-52.63569000"
+   },
+   {
+      "name": "Morro Reuter",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.51567000",
+      "longitude": "-51.01861000"
+   },
+   {
+      "name": "Mostardas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.92226000",
+      "longitude": "-50.85421000"
+   },
+   {
+      "name": "Muitos Capões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.43447000",
+      "longitude": "-51.24691000"
+   },
+   {
+      "name": "Muliterno",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.31235000",
+      "longitude": "-51.78652000"
+   },
+   {
+      "name": "Muçum",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.14017000",
+      "longitude": "-51.82330000"
+   },
+   {
+      "name": "Nicolau Vergueiro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.52442000",
+      "longitude": "-52.44444000"
+   },
+   {
+      "name": "Nonoai",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.36903000",
+      "longitude": "-52.87590000"
+   },
+   {
+      "name": "Nova Alvorada",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.70497000",
+      "longitude": "-52.16616000"
+   },
+   {
+      "name": "Nova Araçá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.64411000",
+      "longitude": "-51.73489000"
+   },
+   {
+      "name": "Nova Bassano",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.70293000",
+      "longitude": "-51.80542000"
+   },
+   {
+      "name": "Nova Boa Vista",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.00887000",
+      "longitude": "-52.98206000"
+   },
+   {
+      "name": "Nova Bréscia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.20206000",
+      "longitude": "-52.04822000"
+   },
+   {
+      "name": "Nova Candelária",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.59344000",
+      "longitude": "-54.12172000"
+   },
+   {
+      "name": "Nova Esperança do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.39225000",
+      "longitude": "-54.83460000"
+   },
+   {
+      "name": "Nova Hartz",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.59640000",
+      "longitude": "-50.90836000"
+   },
+   {
+      "name": "Nova Palma",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.40710000",
+      "longitude": "-53.43240000"
+   },
+   {
+      "name": "Nova Petrópolis",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.37639000",
+      "longitude": "-51.11444000"
+   },
+   {
+      "name": "Nova Prata",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.78389000",
+      "longitude": "-51.61000000"
+   },
+   {
+      "name": "Nova Pádua",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.01222000",
+      "longitude": "-51.31451000"
+   },
+   {
+      "name": "Nova Ramada",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.09297000",
+      "longitude": "-53.69502000"
+   },
+   {
+      "name": "Nova Roma do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.99091000",
+      "longitude": "-51.41443000"
+   },
+   {
+      "name": "Nova Santa Rita",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.83265000",
+      "longitude": "-51.27431000"
+   },
+   {
+      "name": "Novo Barreiro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.89154000",
+      "longitude": "-53.11220000"
+   },
+   {
+      "name": "Novo Cabrais",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.76161000",
+      "longitude": "-52.98402000"
+   },
+   {
+      "name": "Novo Hamburgo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.67833000",
+      "longitude": "-51.13056000"
+   },
+   {
+      "name": "Novo Machado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.55482000",
+      "longitude": "-54.53613000"
+   },
+   {
+      "name": "Novo Tiradentes",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.55948000",
+      "longitude": "-53.15567000"
+   },
+   {
+      "name": "Novo Xingu",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.74556000",
+      "longitude": "-53.04043000"
+   },
+   {
+      "name": "Não Me Toque",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.45917000",
+      "longitude": "-52.82083000"
+   },
+   {
+      "name": "Não-Me-Toque",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.47423000",
+      "longitude": "-52.80396000"
+   },
+   {
+      "name": "Osório",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.89454000",
+      "longitude": "-50.23467000"
+   },
+   {
+      "name": "Paim Filho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.72984000",
+      "longitude": "-51.78102000"
+   },
+   {
+      "name": "Palmares do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.25778000",
+      "longitude": "-50.50972000"
+   },
+   {
+      "name": "Palmeira das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.89944000",
+      "longitude": "-53.31361000"
+   },
+   {
+      "name": "Palmitinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.32268000",
+      "longitude": "-53.59220000"
+   },
+   {
+      "name": "Panambi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.29250000",
+      "longitude": "-53.50167000"
+   },
+   {
+      "name": "Pantano Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.25817000",
+      "longitude": "-52.34168000"
+   },
+   {
+      "name": "Paraí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.59575000",
+      "longitude": "-51.79731000"
+   },
+   {
+      "name": "Paraíso do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.72404000",
+      "longitude": "-53.11162000"
+   },
+   {
+      "name": "Pareci Novo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.61153000",
+      "longitude": "-51.42691000"
+   },
+   {
+      "name": "Parobé",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.62861000",
+      "longitude": "-50.83472000"
+   },
+   {
+      "name": "Passa Sete",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.43060000",
+      "longitude": "-52.86514000"
+   },
+   {
+      "name": "Passo Fundo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.26278000",
+      "longitude": "-52.40667000"
+   },
+   {
+      "name": "Passo do Sobrado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.73133000",
+      "longitude": "-52.23175000"
+   },
+   {
+      "name": "Paulo Bento",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.73673000",
+      "longitude": "-52.39667000"
+   },
+   {
+      "name": "Paverama",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.59556000",
+      "longitude": "-51.72344000"
+   },
+   {
+      "name": "Pedras Altas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.83276000",
+      "longitude": "-53.63272000"
+   },
+   {
+      "name": "Pedro Osório",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.95760000",
+      "longitude": "-52.89419000"
+   },
+   {
+      "name": "Pejuçara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.45442000",
+      "longitude": "-53.61044000"
+   },
+   {
+      "name": "Pelotas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.76997000",
+      "longitude": "-52.34101000"
+   },
+   {
+      "name": "Picada Café",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.44757000",
+      "longitude": "-51.11522000"
+   },
+   {
+      "name": "Pinhal",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.52636000",
+      "longitude": "-53.23425000"
+   },
+   {
+      "name": "Pinhal Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.27075000",
+      "longitude": "-53.34587000"
+   },
+   {
+      "name": "Pinhal da Serra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.88164000",
+      "longitude": "-51.22450000"
+   },
+   {
+      "name": "Pinheirinho do Vale",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.22637000",
+      "longitude": "-53.63352000"
+   },
+   {
+      "name": "Pinheiro Machado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.57833000",
+      "longitude": "-53.38111000"
+   },
+   {
+      "name": "Pinheiros",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.78333000",
+      "longitude": "-52.73333000"
+   },
+   {
+      "name": "Pinto Bandeira",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.09289000",
+      "longitude": "-51.46180000"
+   },
+   {
+      "name": "Pirapó",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.05287000",
+      "longitude": "-55.23460000"
+   },
+   {
+      "name": "Piratini",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.41655000",
+      "longitude": "-53.11163000"
+   },
+   {
+      "name": "Planalto",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.34391000",
+      "longitude": "-53.08947000"
+   },
+   {
+      "name": "Ponte Preta",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.67688000",
+      "longitude": "-52.51736000"
+   },
+   {
+      "name": "Pontão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.04977000",
+      "longitude": "-52.63740000"
+   },
+   {
+      "name": "Porto Alegre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.03283000",
+      "longitude": "-51.23019000"
+   },
+   {
+      "name": "Porto Lucena",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.84663000",
+      "longitude": "-54.96059000"
+   },
+   {
+      "name": "Porto Mauá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.59808000",
+      "longitude": "-54.65773000"
+   },
+   {
+      "name": "Porto Vera Cruz",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.76244000",
+      "longitude": "-54.90094000"
+   },
+   {
+      "name": "Porto Xavier",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.93317000",
+      "longitude": "-55.15422000"
+   },
+   {
+      "name": "Portão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.70746000",
+      "longitude": "-51.23572000"
+   },
+   {
+      "name": "Pouso Novo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.16777000",
+      "longitude": "-52.22165000"
+   },
+   {
+      "name": "Poço das Antas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45339000",
+      "longitude": "-51.66969000"
+   },
+   {
+      "name": "Presidente Lucena",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.52778000",
+      "longitude": "-51.19285000"
+   },
+   {
+      "name": "Progresso",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.22873000",
+      "longitude": "-52.30960000"
+   },
+   {
+      "name": "Protásio Alves",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.74413000",
+      "longitude": "-51.49620000"
+   },
+   {
+      "name": "Putinga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.04776000",
+      "longitude": "-52.16503000"
+   },
+   {
+      "name": "Quaraí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.38750000",
+      "longitude": "-56.45139000"
+   },
+   {
+      "name": "Quatro Irmãos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.81251000",
+      "longitude": "-52.46069000"
+   },
+   {
+      "name": "Quevedos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.30670000",
+      "longitude": "-54.07002000"
+   },
+   {
+      "name": "Quinze de Novembro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.74442000",
+      "longitude": "-53.11648000"
+   },
+   {
+      "name": "Redentora",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.56833000",
+      "longitude": "-53.60924000"
+   },
+   {
+      "name": "Relvado",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.12666000",
+      "longitude": "-52.05393000"
+   },
+   {
+      "name": "Restinga Sêca",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.82715000",
+      "longitude": "-53.34008000"
+   },
+   {
+      "name": "Rio Grande",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-32.07811000",
+      "longitude": "-52.35014000"
+   },
+   {
+      "name": "Rio Pardo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.98972000",
+      "longitude": "-52.37806000"
+   },
+   {
+      "name": "Rio dos Índios",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.25523000",
+      "longitude": "-52.87641000"
+   },
+   {
+      "name": "Riozinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.59847000",
+      "longitude": "-50.39225000"
+   },
+   {
+      "name": "Roca Sales",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.22637000",
+      "longitude": "-51.82440000"
+   },
+   {
+      "name": "Rodeio Bonito",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.46968000",
+      "longitude": "-53.17038000"
+   },
+   {
+      "name": "Rolador",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.27096000",
+      "longitude": "-54.85608000"
+   },
+   {
+      "name": "Rolante",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.65056000",
+      "longitude": "-50.57583000"
+   },
+   {
+      "name": "Ronda Alta",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.82614000",
+      "longitude": "-52.72873000"
+   },
+   {
+      "name": "Rondinha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.83287000",
+      "longitude": "-52.91661000"
+   },
+   {
+      "name": "Roque Gonzales",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.05673000",
+      "longitude": "-55.12048000"
+   },
+   {
+      "name": "Rosário do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.25833000",
+      "longitude": "-54.91417000"
+   },
+   {
+      "name": "Sagrada Família",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.71478000",
+      "longitude": "-53.12850000"
+   },
+   {
+      "name": "Saldanha Marinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.38701000",
+      "longitude": "-53.09584000"
+   },
+   {
+      "name": "Salto do Jacuí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.04212000",
+      "longitude": "-53.16909000"
+   },
+   {
+      "name": "Salvador das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.07697000",
+      "longitude": "-54.82880000"
+   },
+   {
+      "name": "Salvador do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.48006000",
+      "longitude": "-51.51407000"
+   },
+   {
+      "name": "Sananduva",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.94972000",
+      "longitude": "-51.80667000"
+   },
+   {
+      "name": "Sant'Ana do Livramento",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.78069000",
+      "longitude": "-55.48158000"
+   },
+   {
+      "name": "Santa Bárbara do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.37429000",
+      "longitude": "-53.25738000"
+   },
+   {
+      "name": "Santa Cecília do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.17256000",
+      "longitude": "-51.92401000"
+   },
+   {
+      "name": "Santa Clara do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45575000",
+      "longitude": "-52.14362000"
+   },
+   {
+      "name": "Santa Cruz do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.71750000",
+      "longitude": "-52.42583000"
+   },
+   {
+      "name": "Santa Margarida do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.36744000",
+      "longitude": "-54.10999000"
+   },
+   {
+      "name": "Santa Maria",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.68417000",
+      "longitude": "-53.80694000"
+   },
+   {
+      "name": "Santa Maria do Herval",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.47954000",
+      "longitude": "-50.98806000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.87083000",
+      "longitude": "-54.48139000"
+   },
+   {
+      "name": "Santa Tereza",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.15063000",
+      "longitude": "-51.72160000"
+   },
+   {
+      "name": "Santa Vitória do Palmar",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-33.51889000",
+      "longitude": "-53.36806000"
+   },
+   {
+      "name": "Santana da Boa Vista",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.76195000",
+      "longitude": "-53.18297000"
+   },
+   {
+      "name": "Santana do Livramento",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.89083000",
+      "longitude": "-55.53278000"
+   },
+   {
+      "name": "Santiago",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.11368000",
+      "longitude": "-54.73359000"
+   },
+   {
+      "name": "Santo Antônio da Patrulha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.82214000",
+      "longitude": "-50.56024000"
+   },
+   {
+      "name": "Santo Antônio das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.47797000",
+      "longitude": "-55.40876000"
+   },
+   {
+      "name": "Santo Antônio do Palma",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.48630000",
+      "longitude": "-52.01930000"
+   },
+   {
+      "name": "Santo Antônio do Planalto",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.38607000",
+      "longitude": "-52.66579000"
+   },
+   {
+      "name": "Santo Augusto",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.85083000",
+      "longitude": "-53.77722000"
+   },
+   {
+      "name": "Santo Cristo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.78844000",
+      "longitude": "-54.70378000"
+   },
+   {
+      "name": "Santo Expedito do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.92306000",
+      "longitude": "-51.67042000"
+   },
+   {
+      "name": "Santo Ângelo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.29917000",
+      "longitude": "-54.26306000"
+   },
+   {
+      "name": "Sapiranga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.63806000",
+      "longitude": "-51.00694000"
+   },
+   {
+      "name": "Sapucaia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.83333000",
+      "longitude": "-51.15000000"
+   },
+   {
+      "name": "Sapucaia do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.81826000",
+      "longitude": "-51.15527000"
+   },
+   {
+      "name": "Sarandi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.94389000",
+      "longitude": "-52.92306000"
+   },
+   {
+      "name": "Seberi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.50884000",
+      "longitude": "-53.36482000"
+   },
+   {
+      "name": "Sede Nova",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.64490000",
+      "longitude": "-53.96149000"
+   },
+   {
+      "name": "Segredo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.29705000",
+      "longitude": "-52.92281000"
+   },
+   {
+      "name": "Selbach",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.67641000",
+      "longitude": "-52.98236000"
+   },
+   {
+      "name": "Senador Salgado Filho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.02951000",
+      "longitude": "-54.52396000"
+   },
+   {
+      "name": "Sentinela do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.60341000",
+      "longitude": "-51.62096000"
+   },
+   {
+      "name": "Serafina Corrêa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.69115000",
+      "longitude": "-51.92671000"
+   },
+   {
+      "name": "Sertão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.00412000",
+      "longitude": "-52.35664000"
+   },
+   {
+      "name": "Sertão Santana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.49105000",
+      "longitude": "-51.66541000"
+   },
+   {
+      "name": "Sete de Setembro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.12546000",
+      "longitude": "-54.47905000"
+   },
+   {
+      "name": "Severiano de Almeida",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.40649000",
+      "longitude": "-52.10747000"
+   },
+   {
+      "name": "Silveira Martins",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.63635000",
+      "longitude": "-53.54609000"
+   },
+   {
+      "name": "Sinimbu",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.41512000",
+      "longitude": "-52.60499000"
+   },
+   {
+      "name": "Sobradinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.41325000",
+      "longitude": "-53.02018000"
+   },
+   {
+      "name": "Soledade",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.84047000",
+      "longitude": "-52.51015000"
+   },
+   {
+      "name": "São Borja",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.66056000",
+      "longitude": "-56.00444000"
+   },
+   {
+      "name": "São Domingos do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.54446000",
+      "longitude": "-51.87330000"
+   },
+   {
+      "name": "São Francisco de Assis",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.55028000",
+      "longitude": "-55.13111000"
+   },
+   {
+      "name": "São Francisco de Paula",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.24246000",
+      "longitude": "-50.44928000"
+   },
+   {
+      "name": "São Gabriel",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.33369000",
+      "longitude": "-54.33029000"
+   },
+   {
+      "name": "São Jerônimo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.95917000",
+      "longitude": "-51.72222000"
+   },
+   {
+      "name": "São Jorge",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.49890000",
+      "longitude": "-51.73076000"
+   },
+   {
+      "name": "São José das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.79738000",
+      "longitude": "-53.12963000"
+   },
+   {
+      "name": "São José do Herval",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.06441000",
+      "longitude": "-52.27281000"
+   },
+   {
+      "name": "São José do Hortêncio",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54364000",
+      "longitude": "-51.24977000"
+   },
+   {
+      "name": "São José do Inhacorá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.73525000",
+      "longitude": "-54.12155000"
+   },
+   {
+      "name": "São José do Norte",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.80089000",
+      "longitude": "-51.76198000"
+   },
+   {
+      "name": "São José do Ouro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.75580000",
+      "longitude": "-51.55722000"
+   },
+   {
+      "name": "São José do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54416000",
+      "longitude": "-51.49254000"
+   },
+   {
+      "name": "São José dos Ausentes",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.68307000",
+      "longitude": "-49.94674000"
+   },
+   {
+      "name": "São João da Urtiga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.79677000",
+      "longitude": "-51.83882000"
+   },
+   {
+      "name": "São João do Polêsine",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.64559000",
+      "longitude": "-53.47291000"
+   },
+   {
+      "name": "São Leopoldo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.76028000",
+      "longitude": "-51.14722000"
+   },
+   {
+      "name": "São Lourenço do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.36528000",
+      "longitude": "-51.97833000"
+   },
+   {
+      "name": "São Luiz Gonzaga",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.40833000",
+      "longitude": "-54.96083000"
+   },
+   {
+      "name": "São Marcos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.96872000",
+      "longitude": "-51.04900000"
+   },
+   {
+      "name": "São Martinho",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.72779000",
+      "longitude": "-53.96611000"
+   },
+   {
+      "name": "São Martinho da Serra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.45793000",
+      "longitude": "-53.88452000"
+   },
+   {
+      "name": "São Miguel das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.72430000",
+      "longitude": "-54.50818000"
+   },
+   {
+      "name": "São Nicolau",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.22363000",
+      "longitude": "-55.25589000"
+   },
+   {
+      "name": "São Paulo das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.96215000",
+      "longitude": "-54.95513000"
+   },
+   {
+      "name": "São Pedro da Serra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.42131000",
+      "longitude": "-51.51442000"
+   },
+   {
+      "name": "São Pedro das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.79277000",
+      "longitude": "-53.24444000"
+   },
+   {
+      "name": "São Pedro do Butiá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.15561000",
+      "longitude": "-54.90336000"
+   },
+   {
+      "name": "São Pedro do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.62056000",
+      "longitude": "-54.17889000"
+   },
+   {
+      "name": "São Sebastião do Caí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.58667000",
+      "longitude": "-51.37556000"
+   },
+   {
+      "name": "São Sepé",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.16056000",
+      "longitude": "-53.56528000"
+   },
+   {
+      "name": "São Valentim",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.55106000",
+      "longitude": "-52.58722000"
+   },
+   {
+      "name": "São Valentim do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.06303000",
+      "longitude": "-51.73687000"
+   },
+   {
+      "name": "São Valério do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.81235000",
+      "longitude": "-53.92050000"
+   },
+   {
+      "name": "São Vendelino",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.38319000",
+      "longitude": "-51.37289000"
+   },
+   {
+      "name": "São Vicente do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.71725000",
+      "longitude": "-54.76241000"
+   },
+   {
+      "name": "Sério",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.40642000",
+      "longitude": "-52.24358000"
+   },
+   {
+      "name": "Tabaí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.66719000",
+      "longitude": "-51.72796000"
+   },
+   {
+      "name": "Tapejara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.06426000",
+      "longitude": "-52.00823000"
+   },
+   {
+      "name": "Tapera",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.66758000",
+      "longitude": "-52.86620000"
+   },
+   {
+      "name": "Tapes",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.67333000",
+      "longitude": "-51.39583000"
+   },
+   {
+      "name": "Taquara",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.66336000",
+      "longitude": "-50.76365000"
+   },
+   {
+      "name": "Taquari",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.79972000",
+      "longitude": "-51.86444000"
+   },
+   {
+      "name": "Taquaruçu do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.40719000",
+      "longitude": "-53.49914000"
+   },
+   {
+      "name": "Tavares",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.27291000",
+      "longitude": "-51.07758000"
+   },
+   {
+      "name": "Tenente Portela",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.36291000",
+      "longitude": "-53.77115000"
+   },
+   {
+      "name": "Terra de Areia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.58443000",
+      "longitude": "-50.06135000"
+   },
+   {
+      "name": "Teutônia",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.46814000",
+      "longitude": "-51.77144000"
+   },
+   {
+      "name": "Tio Hugo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.58180000",
+      "longitude": "-52.59736000"
+   },
+   {
+      "name": "Tiradentes do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.38183000",
+      "longitude": "-54.11303000"
+   },
+   {
+      "name": "Toropi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.47869000",
+      "longitude": "-54.29307000"
+   },
+   {
+      "name": "Torres",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.29667000",
+      "longitude": "-49.81982000"
+   },
+   {
+      "name": "Tramandaí",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.03977000",
+      "longitude": "-50.23016000"
+   },
+   {
+      "name": "Travesseiro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.28808000",
+      "longitude": "-52.09974000"
+   },
+   {
+      "name": "Trindade do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.52679000",
+      "longitude": "-52.91351000"
+   },
+   {
+      "name": "Triunfo",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.82246000",
+      "longitude": "-51.56027000"
+   },
+   {
+      "name": "Três Arroios",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.48222000",
+      "longitude": "-52.18370000"
+   },
+   {
+      "name": "Três Cachoeiras",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.47525000",
+      "longitude": "-49.98487000"
+   },
+   {
+      "name": "Três Coroas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.46604000",
+      "longitude": "-50.77684000"
+   },
+   {
+      "name": "Três Forquilhas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.43246000",
+      "longitude": "-50.08341000"
+   },
+   {
+      "name": "Três Palmeiras",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.61276000",
+      "longitude": "-52.86635000"
+   },
+   {
+      "name": "Três Passos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.43083000",
+      "longitude": "-53.92238000"
+   },
+   {
+      "name": "Três de Maio",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.73449000",
+      "longitude": "-54.26018000"
+   },
+   {
+      "name": "Tucunduva",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.64923000",
+      "longitude": "-54.43972000"
+   },
+   {
+      "name": "Tunas",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.10586000",
+      "longitude": "-52.89867000"
+   },
+   {
+      "name": "Tupanci do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.92640000",
+      "longitude": "-51.54450000"
+   },
+   {
+      "name": "Tupanciretã",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.02190000",
+      "longitude": "-53.97471000"
+   },
+   {
+      "name": "Tupandi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.48000000",
+      "longitude": "-51.43044000"
+   },
+   {
+      "name": "Tuparendi",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.68918000",
+      "longitude": "-54.55912000"
+   },
+   {
+      "name": "Turuçu",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-31.52317000",
+      "longitude": "-52.12870000"
+   },
+   {
+      "name": "Ubiretama",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.05186000",
+      "longitude": "-54.66252000"
+   },
+   {
+      "name": "Unistalda",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.08248000",
+      "longitude": "-55.19194000"
+   },
+   {
+      "name": "União da Serra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.78526000",
+      "longitude": "-52.03971000"
+   },
+   {
+      "name": "Uruguaiana",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.82797000",
+      "longitude": "-56.63224000"
+   },
+   {
+      "name": "Vacaria",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.41223000",
+      "longitude": "-50.94431000"
+   },
+   {
+      "name": "Vale Real",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.34986000",
+      "longitude": "-51.23013000"
+   },
+   {
+      "name": "Vale Verde",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.83509000",
+      "longitude": "-52.10562000"
+   },
+   {
+      "name": "Vale do Sol",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.58160000",
+      "longitude": "-52.68161000"
+   },
+   {
+      "name": "Vanini",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.48831000",
+      "longitude": "-51.83316000"
+   },
+   {
+      "name": "Venâncio Aires",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.54206000",
+      "longitude": "-52.21959000"
+   },
+   {
+      "name": "Vera Cruz",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.77275000",
+      "longitude": "-52.52818000"
+   },
+   {
+      "name": "Veranópolis",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.97791000",
+      "longitude": "-51.55656000"
+   },
+   {
+      "name": "Vespasiano Corrêa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.07064000",
+      "longitude": "-51.86646000"
+   },
+   {
+      "name": "Viadutos",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.57743000",
+      "longitude": "-51.98735000"
+   },
+   {
+      "name": "Viamão",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.08111000",
+      "longitude": "-51.02333000"
+   },
+   {
+      "name": "Vicente Dutra",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.17975000",
+      "longitude": "-53.39966000"
+   },
+   {
+      "name": "Victor Graeff",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.54502000",
+      "longitude": "-52.68069000"
+   },
+   {
+      "name": "Vila Flores",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.86838000",
+      "longitude": "-51.52935000"
+   },
+   {
+      "name": "Vila Lângaro",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.12778000",
+      "longitude": "-52.14152000"
+   },
+   {
+      "name": "Vila Maria",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.55505000",
+      "longitude": "-52.16380000"
+   },
+   {
+      "name": "Vila Nova do Sul",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-30.33711000",
+      "longitude": "-53.88004000"
+   },
+   {
+      "name": "Vista Alegre",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.31083000",
+      "longitude": "-53.51572000"
+   },
+   {
+      "name": "Vista Alegre do Prata",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.83075000",
+      "longitude": "-51.79221000"
+   },
+   {
+      "name": "Vista Gaúcha",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.26738000",
+      "longitude": "-53.69737000"
+   },
+   {
+      "name": "Vitória das Missões",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.35473000",
+      "longitude": "-54.48174000"
+   },
+   {
+      "name": "Westfália",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.42302000",
+      "longitude": "-51.75617000"
+   },
+   {
+      "name": "Xangri-lá",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-29.81049000",
+      "longitude": "-50.09223000"
+   },
+   {
+      "name": "Água Santa",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-28.18543000",
+      "longitude": "-52.01286000"
+   },
+   {
+      "name": "Áurea",
+      "countryCode": "BR",
+      "stateCode": "RS",
+      "latitude": "-27.69538000",
+      "longitude": "-52.06560000"
+   }
+]

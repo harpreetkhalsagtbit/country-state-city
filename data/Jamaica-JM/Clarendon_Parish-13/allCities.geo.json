@@ -1,0 +1,604 @@
+[
+   {
+      "name": "Aenon Town",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.21027000",
+      "longitude": "-77.39851000"
+   },
+   {
+      "name": "Alley",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.79036000",
+      "longitude": "-77.27085000"
+   },
+   {
+      "name": "Alston",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.17639000",
+      "longitude": "-77.43468000"
+   },
+   {
+      "name": "Ashley",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.01440000",
+      "longitude": "-77.34019000"
+   },
+   {
+      "name": "Banks",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.83222000",
+      "longitude": "-77.30731000"
+   },
+   {
+      "name": "Beckford Kraal",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.08545000",
+      "longitude": "-77.32399000"
+   },
+   {
+      "name": "Brandon Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.15110000",
+      "longitude": "-77.23663000"
+   },
+   {
+      "name": "Brixton Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.02039000",
+      "longitude": "-77.31744000"
+   },
+   {
+      "name": "Bucknor",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.00619000",
+      "longitude": "-77.23749000"
+   },
+   {
+      "name": "Bucks Common",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.98228000",
+      "longitude": "-77.23846000"
+   },
+   {
+      "name": "Bushy Park",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.98243000",
+      "longitude": "-77.25135000"
+   },
+   {
+      "name": "Chapelton",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.08333000",
+      "longitude": "-77.26667000"
+   },
+   {
+      "name": "Chateau",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.98972000",
+      "longitude": "-77.18737000"
+   },
+   {
+      "name": "Cockpit",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.88872000",
+      "longitude": "-77.15835000"
+   },
+   {
+      "name": "Coffee Piece",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.13835000",
+      "longitude": "-77.40648000"
+   },
+   {
+      "name": "Colonels Ridge",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.13525000",
+      "longitude": "-77.25550000"
+   },
+   {
+      "name": "Coxswain",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.10272000",
+      "longitude": "-77.23444000"
+   },
+   {
+      "name": "Crofts Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.13268000",
+      "longitude": "-77.20507000"
+   },
+   {
+      "name": "Crooked River",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.14289000",
+      "longitude": "-77.30000000"
+   },
+   {
+      "name": "Cumberland",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.10522000",
+      "longitude": "-77.41617000"
+   },
+   {
+      "name": "Curatoe Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.93982000",
+      "longitude": "-77.24836000"
+   },
+   {
+      "name": "Dawkins",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.05540000",
+      "longitude": "-77.33303000"
+   },
+   {
+      "name": "Effortville",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.99270000",
+      "longitude": "-77.21860000"
+   },
+   {
+      "name": "Four Paths",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.97089000",
+      "longitude": "-77.29599000"
+   },
+   {
+      "name": "Frankfield",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.14971000",
+      "longitude": "-77.36498000"
+   },
+   {
+      "name": "Freetown",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.92192000",
+      "longitude": "-77.14781000"
+   },
+   {
+      "name": "Gimme-me-bit",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.88946000",
+      "longitude": "-77.28469000"
+   },
+   {
+      "name": "Glenmuir",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.96801000",
+      "longitude": "-77.25394000"
+   },
+   {
+      "name": "Grantham",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.15839000",
+      "longitude": "-77.39643000"
+   },
+   {
+      "name": "Gravel Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.90968000",
+      "longitude": "-77.33354000"
+   },
+   {
+      "name": "Hayes",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.87569000",
+      "longitude": "-77.23711000"
+   },
+   {
+      "name": "Hazard",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.95382000",
+      "longitude": "-77.23147000"
+   },
+   {
+      "name": "Inverness",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.91195000",
+      "longitude": "-77.19032000"
+   },
+   {
+      "name": "James Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.18750000",
+      "longitude": "-77.33700000"
+   },
+   {
+      "name": "Johns Hall",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.18876000",
+      "longitude": "-77.38063000"
+   },
+   {
+      "name": "Kellits",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.16184000",
+      "longitude": "-77.27049000"
+   },
+   {
+      "name": "Limit",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.15287000",
+      "longitude": "-77.47121000"
+   },
+   {
+      "name": "Lionel Town",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.81007000",
+      "longitude": "-77.24061000"
+   },
+   {
+      "name": "Longville Park",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.91188000",
+      "longitude": "-77.15983000"
+   },
+   {
+      "name": "Longwood",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.80754000",
+      "longitude": "-77.28728000"
+   },
+   {
+      "name": "May Pen",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.96454000",
+      "longitude": "-77.24515000"
+   },
+   {
+      "name": "May Pen Proper",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.97034000",
+      "longitude": "-77.23911000"
+   },
+   {
+      "name": "Milk River",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.87560000",
+      "longitude": "-77.35139000"
+   },
+   {
+      "name": "Mineral Heights",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.94183000",
+      "longitude": "-77.23276000"
+   },
+   {
+      "name": "Mitchell Town",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.81281000",
+      "longitude": "-77.20531000"
+   },
+   {
+      "name": "Moores",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.02926000",
+      "longitude": "-77.18540000"
+   },
+   {
+      "name": "Morgans Forest",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.19088000",
+      "longitude": "-77.41021000"
+   },
+   {
+      "name": "Morgans Pass",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.12123000",
+      "longitude": "-77.27493000"
+   },
+   {
+      "name": "Mount Airy",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.01843000",
+      "longitude": "-77.36357000"
+   },
+   {
+      "name": "New Denbigh",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.98563000",
+      "longitude": "-77.27104000"
+   },
+   {
+      "name": "New Longsville",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.03072000",
+      "longitude": "-77.23048000"
+   },
+   {
+      "name": "Old Denbigh",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.96116000",
+      "longitude": "-77.26701000"
+   },
+   {
+      "name": "Orange Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.11788000",
+      "longitude": "-77.35942000"
+   },
+   {
+      "name": "Osbourne Store",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.95892000",
+      "longitude": "-77.32827000"
+   },
+   {
+      "name": "Paisley",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.96293000",
+      "longitude": "-77.22368000"
+   },
+   {
+      "name": "Palmers Cross",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.95000000",
+      "longitude": "-77.20338000"
+   },
+   {
+      "name": "Part of Banana Ground",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.08022000",
+      "longitude": "-77.40971000"
+   },
+   {
+      "name": "Part of Douglas Castle",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.18703000",
+      "longitude": "-77.27538000"
+   },
+   {
+      "name": "Part of Kellits",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.17159000",
+      "longitude": "-77.25120000"
+   },
+   {
+      "name": "Peckham",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.17147000",
+      "longitude": "-77.39766000"
+   },
+   {
+      "name": "Pennants",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.11025000",
+      "longitude": "-77.31306000"
+   },
+   {
+      "name": "Pleasant Valley",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.01101000",
+      "longitude": "-77.29027000"
+   },
+   {
+      "name": "Portland Cottage",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.74620000",
+      "longitude": "-77.18772000"
+   },
+   {
+      "name": "Porus",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.05202000",
+      "longitude": "-77.40007000"
+   },
+   {
+      "name": "Race Course",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.84019000",
+      "longitude": "-77.28223000"
+   },
+   {
+      "name": "Richmond Park",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.05172000",
+      "longitude": "-77.37642000"
+   },
+   {
+      "name": "Ritchies",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.13904000",
+      "longitude": "-77.42893000"
+   },
+   {
+      "name": "Rock",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.99122000",
+      "longitude": "-77.33702000"
+   },
+   {
+      "name": "Rock River",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.06548000",
+      "longitude": "-77.19707000"
+   },
+   {
+      "name": "Rocky Point",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.77695000",
+      "longitude": "-77.24816000"
+   },
+   {
+      "name": "Salt River",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.84143000",
+      "longitude": "-77.17413000"
+   },
+   {
+      "name": "Sandy Bay",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.95105000",
+      "longitude": "-77.16225000"
+   },
+   {
+      "name": "Sanguinetti",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.15585000",
+      "longitude": "-77.42938000"
+   },
+   {
+      "name": "Sedgepond",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.84753000",
+      "longitude": "-77.32638000"
+   },
+   {
+      "name": "Silent Hill",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.19152000",
+      "longitude": "-77.45918000"
+   },
+   {
+      "name": "Smithville",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.11977000",
+      "longitude": "-77.38561000"
+   },
+   {
+      "name": "Spaldings",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.16875000",
+      "longitude": "-77.45798000"
+   },
+   {
+      "name": "Summerfield",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.09433000",
+      "longitude": "-77.28429000"
+   },
+   {
+      "name": "Thompson Town",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.08968000",
+      "longitude": "-77.37186000"
+   },
+   {
+      "name": "Tollgate",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.97195000",
+      "longitude": "-77.36566000"
+   },
+   {
+      "name": "Treadlight",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.99264000",
+      "longitude": "-77.25531000"
+   },
+   {
+      "name": "Trout Hall",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.13779000",
+      "longitude": "-77.33299000"
+   },
+   {
+      "name": "Turners",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.06647000",
+      "longitude": "-77.23523000"
+   },
+   {
+      "name": "Water Lane",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.82452000",
+      "longitude": "-77.25946000"
+   },
+   {
+      "name": "Woodhall",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "18.04757000",
+      "longitude": "-77.27575000"
+   },
+   {
+      "name": "York Town",
+      "countryCode": "JM",
+      "stateCode": "13",
+      "latitude": "17.92515000",
+      "longitude": "-77.30002000"
+   }
+]

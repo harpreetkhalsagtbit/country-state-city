@@ -1,0 +1,597 @@
+[
+   {
+      "name": "Baćkowice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bałtów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bejsce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bieliny",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bliżyn",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bodzentyn",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Bogoria",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Brody",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Brzeziny",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Busko-Zdrój",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Chmielnik",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Chęciny",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Czarnocin",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Daleszyce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Domaszowice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Dwikozy",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Działoszyce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Fałków",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Gnojno",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Gowarczów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Grzybowa Góra",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Górno",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Imielno",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Iwaniska",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Jędrzejów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kaniów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kazimierza Wielka",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kielce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kije",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Klimontów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Koprzywnica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kostomłoty Drugie",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kostomłoty Pierwsze",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Końskie",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Krasocin",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Kunów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Lipnik",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Masłów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Małogoszcz",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Michałów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Miedziana Góra",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Mirzec",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Mniów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Morawica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Nagłowice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Nowa Słupia",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Nowy Korczyn",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Obrazów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Oksa",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Oleśnica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Opatowiec",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Opatów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Osiedle-Nowiny",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Osiek",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Ostrowiec Świętokrzyski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Ożarów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Pacanów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Pawłów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Piekoszów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Pierzchnica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Pińczów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat buski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat jędrzejowski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat kazimierski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat kielecki",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat konecki",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat opatowski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat ostrowiecki",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat pińczowski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat sandomierski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat skarżyski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat starachowicki",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat staszowski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Powiat włoszczowski",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Połaniec",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Radoszyce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Raków",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Rogów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Ruda Maleniecka",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Rytwiany",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Sadowie",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Samborzec",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Sandomierz",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Secemin",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Skalbmierz",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Skarżysko Kościelne",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Skarżysko-Kamienna",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Smyków",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Sobków",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Solec-Zdrój",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Starachowice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Staszów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Stopnica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Strawczyn",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Stąporków",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Suchedniów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Szydłów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Sędziszów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Słupia",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Tarłów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Tuczępy",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Waśniów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wielka Wieś",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wilczyce",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wiślica",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wodzisław",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wojciechowice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wola Jachowa",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Wąchock",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Włoszczowa",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Zagnańsk",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Zawichost",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Złota",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Ćmielów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Łagów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Łoniów",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Łopuszno",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Łubnice",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   },
+   {
+      "name": "Łączna",
+      "countryCode": "PL",
+      "stateCode": "SK"
+   }
+]

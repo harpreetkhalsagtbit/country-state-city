@@ -1,0 +1,602 @@
+[
+   {
+      "name": "Achikulak",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Aleksandriya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Aleksandriyskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Andzhiyevskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Arzgir",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Balakhonovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Barsukovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Bekeshevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Beshpagir",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Bezopasnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Blagodarnyy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Blagodatnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Borgustanskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Budënnovsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Burlatskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Chernolesskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Divnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Dmitriyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Donskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Edissiya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Etoka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Galyugayevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Georgiyevsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Georgiyevskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Gofitskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Goryachevodskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Grazhdanskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Grecheskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Grigoropolisskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Inozemtsevo",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Ipatovo",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Irgakly",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Ivanovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Izobil’nyy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kalinovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kangly",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kara-Tyube",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kayasula",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kevsala",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kislovodsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kochubeyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Komsomolets",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Konstantinovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Konstantinovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Krasnogvardeyskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Krasnokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kruglolesskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kursavka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Kurskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Ladovskaya Balka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Lermontov",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Letnyaya Stavka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Levokumka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Levokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Lysogorskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Mikhaylovsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Mineralnye Vody",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Moskovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Nadezhda",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Nagutskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Neftekumsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Nevinnomyssk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Nezhinskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Nezlobnaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Niny",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novoaleksandrovsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novoblagodarnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novopavlovsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novoselitskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novoterskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novotroitskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Novozavedennoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Orlovka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Otkaznoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Ovoshchi",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pelagiada",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Podgornaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Podkumskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pokoynoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Praskoveya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pravokumskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pregradnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pyatigorsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Pyatigorskiy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Rasshevatskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Ryzdvyanyy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Severnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Soldato-Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Solomenskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Soluno-Dmitriyevskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Sotnikovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Sovetskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Spitsevka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Starodubskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Staropavlovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Stavropol’",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Stepnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Sukhaya Buyvola",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Suvorovskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Svetlograd",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Svobody",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Tatarka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Temizhbekskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Tishchenskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Trunovskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Urozhaynoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Vinsady",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Vostochny",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Vysotskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Yasnaya Polyana",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Yelizavetinskoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Yessentuki",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Yessentukskaya",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Yutsa",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Zaterechnyy",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Zavetnoye",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Zelenokumsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Zheleznovodsk",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   },
+   {
+      "name": "Zmeyka",
+      "countryCode": "RU",
+      "stateCode": "STA"
+   }
+]

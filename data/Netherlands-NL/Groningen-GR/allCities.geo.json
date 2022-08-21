@@ -1,0 +1,555 @@
+[
+   {
+      "name": "Aduard",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.25667000",
+      "longitude": "6.45972000"
+   },
+   {
+      "name": "Appingedam",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.32167000",
+      "longitude": "6.85833000"
+   },
+   {
+      "name": "Baflo",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.36250000",
+      "longitude": "6.51389000"
+   },
+   {
+      "name": "Bedum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.30083000",
+      "longitude": "6.60278000"
+   },
+   {
+      "name": "Bellingwolde",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.11583000",
+      "longitude": "7.16528000"
+   },
+   {
+      "name": "Blijham",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.10917000",
+      "longitude": "7.07639000"
+   },
+   {
+      "name": "Coendersborg",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.19410000",
+      "longitude": "6.58944000"
+   },
+   {
+      "name": "De Wijert",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.19450000",
+      "longitude": "6.57117000"
+   },
+   {
+      "name": "Delfzijl",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33000000",
+      "longitude": "6.91806000"
+   },
+   {
+      "name": "Eenrum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.36250000",
+      "longitude": "6.45833000"
+   },
+   {
+      "name": "Eexta",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16386000",
+      "longitude": "6.98344000"
+   },
+   {
+      "name": "Farmsum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.32167000",
+      "longitude": "6.92639000"
+   },
+   {
+      "name": "Gemeente  Oldambt",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16859000",
+      "longitude": "7.04224000"
+   },
+   {
+      "name": "Gemeente Appingedam",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.31926000",
+      "longitude": "6.84864000"
+   },
+   {
+      "name": "Gemeente Delfzijl",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.30019000",
+      "longitude": "6.93129000"
+   },
+   {
+      "name": "Gemeente Groningen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.22369000",
+      "longitude": "6.56479000"
+   },
+   {
+      "name": "Gemeente Loppersum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33849000",
+      "longitude": "6.72149000"
+   },
+   {
+      "name": "Gemeente Pekela",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.05969000",
+      "longitude": "6.96510000"
+   },
+   {
+      "name": "Gemeente Stadskanaal",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.00005000",
+      "longitude": "6.98906000"
+   },
+   {
+      "name": "Gemeente Veendam",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.08951000",
+      "longitude": "6.87923000"
+   },
+   {
+      "name": "Glimmen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.13917000",
+      "longitude": "6.62917000"
+   },
+   {
+      "name": "Grijpskerk",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.26250000",
+      "longitude": "6.30833000"
+   },
+   {
+      "name": "Groningen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.21917000",
+      "longitude": "6.56667000"
+   },
+   {
+      "name": "Grootegast",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.21250000",
+      "longitude": "6.27361000"
+   },
+   {
+      "name": "Haren",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.17209000",
+      "longitude": "6.60931000"
+   },
+   {
+      "name": "Harkstede",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.21333000",
+      "longitude": "6.69861000"
+   },
+   {
+      "name": "Heiligerlee",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.15667000",
+      "longitude": "7.00972000"
+   },
+   {
+      "name": "Helpman",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.19794000",
+      "longitude": "6.57978000"
+   },
+   {
+      "name": "Hoogezand",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16167000",
+      "longitude": "6.76111000"
+   },
+   {
+      "name": "Korrewegwijk",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.23235000",
+      "longitude": "6.56804000"
+   },
+   {
+      "name": "Leek",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16250000",
+      "longitude": "6.37639000"
+   },
+   {
+      "name": "Leens",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.36000000",
+      "longitude": "6.37917000"
+   },
+   {
+      "name": "Loppersum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33167000",
+      "longitude": "6.74722000"
+   },
+   {
+      "name": "Marum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.14417000",
+      "longitude": "6.26250000"
+   },
+   {
+      "name": "Meeden",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.14000000",
+      "longitude": "6.92639000"
+   },
+   {
+      "name": "Middelstum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.34667000",
+      "longitude": "6.64167000"
+   },
+   {
+      "name": "Midden-Groningen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.15113000",
+      "longitude": "6.83313000"
+   },
+   {
+      "name": "Midwolda",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.19500000",
+      "longitude": "7.01389000"
+   },
+   {
+      "name": "Niekerk",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.22500000",
+      "longitude": "6.35278000"
+   },
+   {
+      "name": "Nieuwe Pekela",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.07917000",
+      "longitude": "6.96528000"
+   },
+   {
+      "name": "Nieuwolda",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.24417000",
+      "longitude": "6.97500000"
+   },
+   {
+      "name": "Noordbroek",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.19500000",
+      "longitude": "6.87361000"
+   },
+   {
+      "name": "Noordhorn",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.26167000",
+      "longitude": "6.39583000"
+   },
+   {
+      "name": "Obergum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33333000",
+      "longitude": "6.51667000"
+   },
+   {
+      "name": "Oldehove",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.30333000",
+      "longitude": "6.39583000"
+   },
+   {
+      "name": "Ommelanderwijk",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.08917000",
+      "longitude": "6.90556000"
+   },
+   {
+      "name": "Onstwedde",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.03500000",
+      "longitude": "7.04028000"
+   },
+   {
+      "name": "Oosterhoogebrug",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.22892000",
+      "longitude": "6.60141000"
+   },
+   {
+      "name": "Oosterpark",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.22370000",
+      "longitude": "6.58530000"
+   },
+   {
+      "name": "Oude Pekela",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.10417000",
+      "longitude": "7.00972000"
+   },
+   {
+      "name": "Reitdiep",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.24252000",
+      "longitude": "6.51957000"
+   },
+   {
+      "name": "Sappemeer",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16417000",
+      "longitude": "6.79028000"
+   },
+   {
+      "name": "Scheemda",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.17333000",
+      "longitude": "6.97222000"
+   },
+   {
+      "name": "Schildwolde",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.23327000",
+      "longitude": "6.81566000"
+   },
+   {
+      "name": "Sellingen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "52.94583000",
+      "longitude": "7.15139000"
+   },
+   {
+      "name": "Selwerd",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.23520000",
+      "longitude": "6.55450000"
+   },
+   {
+      "name": "Siddeburen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.25000000",
+      "longitude": "6.86806000"
+   },
+   {
+      "name": "Slochteren",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.22078000",
+      "longitude": "6.80547000"
+   },
+   {
+      "name": "Spijk",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.39000000",
+      "longitude": "6.83750000"
+   },
+   {
+      "name": "Stadskanaal",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "52.98947000",
+      "longitude": "6.95040000"
+   },
+   {
+      "name": "Ten Boer",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.27583000",
+      "longitude": "6.69444000"
+   },
+   {
+      "name": "Ter Apel",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "52.87667000",
+      "longitude": "7.05972000"
+   },
+   {
+      "name": "Tuikwerd",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.31667000",
+      "longitude": "6.90000000"
+   },
+   {
+      "name": "Uithuizen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.40750000",
+      "longitude": "6.67083000"
+   },
+   {
+      "name": "Uithuizermeeden",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.41417000",
+      "longitude": "6.72361000"
+   },
+   {
+      "name": "Ulrum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.35917000",
+      "longitude": "6.33333000"
+   },
+   {
+      "name": "Usquert",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.40250000",
+      "longitude": "6.61111000"
+   },
+   {
+      "name": "Veendam",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.10667000",
+      "longitude": "6.87917000"
+   },
+   {
+      "name": "Vlagtwedde",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.02750000",
+      "longitude": "7.10833000"
+   },
+   {
+      "name": "Wagenborgen",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.25583000",
+      "longitude": "6.93333000"
+   },
+   {
+      "name": "Warffum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.39250000",
+      "longitude": "6.55833000"
+   },
+   {
+      "name": "Westerlee",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.14583000",
+      "longitude": "6.98750000"
+   },
+   {
+      "name": "Westerwolde",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.02800000",
+      "longitude": "7.15671000"
+   },
+   {
+      "name": "Wildervank",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.08083000",
+      "longitude": "6.86250000"
+   },
+   {
+      "name": "Winschoten",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.14417000",
+      "longitude": "7.03472000"
+   },
+   {
+      "name": "Winsum",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33000000",
+      "longitude": "6.52083000"
+   },
+   {
+      "name": "Zoutkamp",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.33917000",
+      "longitude": "6.30417000"
+   },
+   {
+      "name": "Zuidbroek",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.16333000",
+      "longitude": "6.86111000"
+   },
+   {
+      "name": "Zuidhorn",
+      "countryCode": "NL",
+      "stateCode": "GR",
+      "latitude": "53.24667000",
+      "longitude": "6.40278000"
+   }
+]

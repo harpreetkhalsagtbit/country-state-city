@@ -1,0 +1,387 @@
+[
+   {
+      "name": "Alterswil",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.79587000",
+      "longitude": "7.25877000"
+   },
+   {
+      "name": "Attalens",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.50555000",
+      "longitude": "6.85039000"
+   },
+   {
+      "name": "Avry-sur-Matran",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.78753000",
+      "longitude": "7.06735000"
+   },
+   {
+      "name": "Bas-Vully",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.96194000",
+      "longitude": "7.11251000"
+   },
+   {
+      "name": "Belfaux",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.82171000",
+      "longitude": "7.10674000"
+   },
+   {
+      "name": "Broc",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.60513000",
+      "longitude": "7.09891000"
+   },
+   {
+      "name": "Broye District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.82212000",
+      "longitude": "6.90249000"
+   },
+   {
+      "name": "Bulle",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.61797000",
+      "longitude": "7.05690000"
+   },
+   {
+      "name": "Bösingen",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.89229000",
+      "longitude": "7.22770000"
+   },
+   {
+      "name": "Charmey",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.61957000",
+      "longitude": "7.16486000"
+   },
+   {
+      "name": "Châtel-Saint-Denis",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.52691000",
+      "longitude": "6.90083000"
+   },
+   {
+      "name": "Corminboeuf",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.81029000",
+      "longitude": "7.10535000"
+   },
+   {
+      "name": "Courgevaux",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.90648000",
+      "longitude": "7.11215000"
+   },
+   {
+      "name": "Cugy",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.81479000",
+      "longitude": "6.88888000"
+   },
+   {
+      "name": "Domdidier",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.86716000",
+      "longitude": "7.01337000"
+   },
+   {
+      "name": "Düdingen",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.84916000",
+      "longitude": "7.19150000"
+   },
+   {
+      "name": "Ecublens",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.60735000",
+      "longitude": "6.80895000"
+   },
+   {
+      "name": "Ependes",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.75368000",
+      "longitude": "7.14609000"
+   },
+   {
+      "name": "Estavayer-le-Lac",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.84876000",
+      "longitude": "6.84650000"
+   },
+   {
+      "name": "Flamatt",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.88994000",
+      "longitude": "7.32204000"
+   },
+   {
+      "name": "Fribourg",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.80237000",
+      "longitude": "7.15128000"
+   },
+   {
+      "name": "Giffers",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.76230000",
+      "longitude": "7.20845000"
+   },
+   {
+      "name": "Givisiez",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.81201000",
+      "longitude": "7.12639000"
+   },
+   {
+      "name": "Glâne District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.66667000",
+      "longitude": "6.91667000"
+   },
+   {
+      "name": "Grolley",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.83360000",
+      "longitude": "7.07116000"
+   },
+   {
+      "name": "Gruyère District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.60753000",
+      "longitude": "7.10741000"
+   },
+   {
+      "name": "Gruyères",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.58338000",
+      "longitude": "7.08207000"
+   },
+   {
+      "name": "Heitenried",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.82762000",
+      "longitude": "7.29944000"
+   },
+   {
+      "name": "Kerzers",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.97586000",
+      "longitude": "7.19570000"
+   },
+   {
+      "name": "La Roche",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.69620000",
+      "longitude": "7.13721000"
+   },
+   {
+      "name": "La Tour-de-Trême",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.61061000",
+      "longitude": "7.06496000"
+   },
+   {
+      "name": "Lake District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.91016000",
+      "longitude": "7.14088000"
+   },
+   {
+      "name": "Marly",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.77611000",
+      "longitude": "7.16459000"
+   },
+   {
+      "name": "Marsens",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.65644000",
+      "longitude": "7.05948000"
+   },
+   {
+      "name": "Murten/Morat",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.92827000",
+      "longitude": "7.11715000"
+   },
+   {
+      "name": "Mézières",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.67958000",
+      "longitude": "6.92630000"
+   },
+   {
+      "name": "Oberschrot",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.74126000",
+      "longitude": "7.28149000"
+   },
+   {
+      "name": "Plaffeien",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.74198000",
+      "longitude": "7.28666000"
+   },
+   {
+      "name": "Praroman",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.75145000",
+      "longitude": "7.17778000"
+   },
+   {
+      "name": "Rechthalten",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.76766000",
+      "longitude": "7.24028000"
+   },
+   {
+      "name": "Riaz",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.64224000",
+      "longitude": "7.06183000"
+   },
+   {
+      "name": "Romont",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.69652000",
+      "longitude": "6.91898000"
+   },
+   {
+      "name": "Rue",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.61916000",
+      "longitude": "6.82225000"
+   },
+   {
+      "name": "Sankt Antoni",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.82207000",
+      "longitude": "7.26091000"
+   },
+   {
+      "name": "Sarine District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.78435000",
+      "longitude": "7.09993000"
+   },
+   {
+      "name": "Schmitten",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.85750000",
+      "longitude": "7.25031000"
+   },
+   {
+      "name": "Sense District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.80132000",
+      "longitude": "7.26028000"
+   },
+   {
+      "name": "Sâles",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.63473000",
+      "longitude": "6.97336000"
+   },
+   {
+      "name": "Tafers",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.81483000",
+      "longitude": "7.21852000"
+   },
+   {
+      "name": "Treyvaux",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.72796000",
+      "longitude": "7.13769000"
+   },
+   {
+      "name": "Ueberstorf",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.86587000",
+      "longitude": "7.30998000"
+   },
+   {
+      "name": "Veveyse District",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.55083000",
+      "longitude": "6.91085000"
+   },
+   {
+      "name": "Villars-sur-Glâne",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.79054000",
+      "longitude": "7.11717000"
+   },
+   {
+      "name": "Villaz-Saint-Pierre",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.72074000",
+      "longitude": "6.95638000"
+   },
+   {
+      "name": "Vuadens",
+      "countryCode": "CH",
+      "stateCode": "FR",
+      "latitude": "46.61545000",
+      "longitude": "7.01732000"
+   }
+]

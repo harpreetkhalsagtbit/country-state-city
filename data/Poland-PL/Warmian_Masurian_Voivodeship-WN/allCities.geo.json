@@ -1,0 +1,716 @@
+[
+   {
+      "name": "Banie Mazurskie",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.24662000",
+      "longitude": "22.03617000"
+   },
+   {
+      "name": "Barciany",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.21993000",
+      "longitude": "21.35347000"
+   },
+   {
+      "name": "Barczewo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.83055000",
+      "longitude": "20.69112000"
+   },
+   {
+      "name": "Bartoszyce",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.25354000",
+      "longitude": "20.80819000"
+   },
+   {
+      "name": "Biała Piska",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.61191000",
+      "longitude": "22.06321000"
+   },
+   {
+      "name": "Biskupiec",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.86467000",
+      "longitude": "20.95692000"
+   },
+   {
+      "name": "Bisztynek",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.08633000",
+      "longitude": "20.90192000"
+   },
+   {
+      "name": "Braniewo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.37971000",
+      "longitude": "19.81959000"
+   },
+   {
+      "name": "Czerwonka",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.91627000",
+      "longitude": "20.89685000"
+   },
+   {
+      "name": "Dobre Miasto",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.98668000",
+      "longitude": "20.39749000"
+   },
+   {
+      "name": "Dywity",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.83759000",
+      "longitude": "20.47817000"
+   },
+   {
+      "name": "Działdowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.23958000",
+      "longitude": "20.17004000"
+   },
+   {
+      "name": "Dąbrówno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.43408000",
+      "longitude": "20.03529000"
+   },
+   {
+      "name": "Dźwierzuty",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.70494000",
+      "longitude": "20.96037000"
+   },
+   {
+      "name": "Elbląg",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.15220000",
+      "longitude": "19.40884000"
+   },
+   {
+      "name": "Ełk",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.82824000",
+      "longitude": "22.36469000"
+   },
+   {
+      "name": "Frombork",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.35766000",
+      "longitude": "19.68029000"
+   },
+   {
+      "name": "Gierzwałd",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.54128000",
+      "longitude": "20.08867000"
+   },
+   {
+      "name": "Gierłoż",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.08134000",
+      "longitude": "21.49551000"
+   },
+   {
+      "name": "Gietrzwałd",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.74617000",
+      "longitude": "20.23742000"
+   },
+   {
+      "name": "Giżycko",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.03811000",
+      "longitude": "21.76441000"
+   },
+   {
+      "name": "Gołdap",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.30631000",
+      "longitude": "22.30362000"
+   },
+   {
+      "name": "Gronowo Elbląskie",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.08588000",
+      "longitude": "19.30598000"
+   },
+   {
+      "name": "Gronowo Górne",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.13863000",
+      "longitude": "19.45988000"
+   },
+   {
+      "name": "Górowo Iławeckie",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.28559000",
+      "longitude": "20.48886000"
+   },
+   {
+      "name": "Iława",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.59601000",
+      "longitude": "19.56849000"
+   },
+   {
+      "name": "Iłowo -Osada",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.16808000",
+      "longitude": "20.29295000"
+   },
+   {
+      "name": "Jedwabno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.52990000",
+      "longitude": "20.72657000"
+   },
+   {
+      "name": "Jeziorany",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.97578000",
+      "longitude": "20.74639000"
+   },
+   {
+      "name": "Jonkowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.82817000",
+      "longitude": "20.31054000"
+   },
+   {
+      "name": "Kisielice",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.60855000",
+      "longitude": "19.26350000"
+   },
+   {
+      "name": "Korsze",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.17002000",
+      "longitude": "21.13915000"
+   },
+   {
+      "name": "Kortowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.75731000",
+      "longitude": "20.45620000"
+   },
+   {
+      "name": "Kowale Oleckie",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.16354000",
+      "longitude": "22.41666000"
+   },
+   {
+      "name": "Kozłowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.30652000",
+      "longitude": "20.29098000"
+   },
+   {
+      "name": "Kruklanki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.08855000",
+      "longitude": "21.92227000"
+   },
+   {
+      "name": "Kurzętnik",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.39858000",
+      "longitude": "19.57858000"
+   },
+   {
+      "name": "Kętrzyn",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.07676000",
+      "longitude": "21.37527000"
+   },
+   {
+      "name": "Lelkowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.32458000",
+      "longitude": "20.22480000"
+   },
+   {
+      "name": "Lidzbark",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.26283000",
+      "longitude": "19.82663000"
+   },
+   {
+      "name": "Lidzbark Warmiński",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.12588000",
+      "longitude": "20.57954000"
+   },
+   {
+      "name": "Lubawa",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.50428000",
+      "longitude": "19.74966000"
+   },
+   {
+      "name": "Lubomino",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.06684000",
+      "longitude": "20.23956000"
+   },
+   {
+      "name": "Małdyty",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.91981000",
+      "longitude": "19.74398000"
+   },
+   {
+      "name": "Mikołajki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.80288000",
+      "longitude": "21.57011000"
+   },
+   {
+      "name": "Miłakowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.00923000",
+      "longitude": "20.07125000"
+   },
+   {
+      "name": "Miłomłyn",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.76449000",
+      "longitude": "19.83800000"
+   },
+   {
+      "name": "Morąg",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.91711000",
+      "longitude": "19.92602000"
+   },
+   {
+      "name": "Mrągowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.86437000",
+      "longitude": "21.30507000"
+   },
+   {
+      "name": "Młynary",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.18690000",
+      "longitude": "19.72149000"
+   },
+   {
+      "name": "Nidzica",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.36052000",
+      "longitude": "20.42749000"
+   },
+   {
+      "name": "Nowe Miasto Lubawskie",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.42079000",
+      "longitude": "19.59515000"
+   },
+   {
+      "name": "Olecko",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.03374000",
+      "longitude": "22.50704000"
+   },
+   {
+      "name": "Olsztyn",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.77657000",
+      "longitude": "20.46657000"
+   },
+   {
+      "name": "Olsztynek",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.58374000",
+      "longitude": "20.28471000"
+   },
+   {
+      "name": "Orneta",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.11483000",
+      "longitude": "20.13328000"
+   },
+   {
+      "name": "Orzysz",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.80967000",
+      "longitude": "21.94811000"
+   },
+   {
+      "name": "Ostróda",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.69671000",
+      "longitude": "19.96486000"
+   },
+   {
+      "name": "Pasym",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.65069000",
+      "longitude": "20.79188000"
+   },
+   {
+      "name": "Pasłęk",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.06160000",
+      "longitude": "19.65932000"
+   },
+   {
+      "name": "Piecki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.75759000",
+      "longitude": "21.33914000"
+   },
+   {
+      "name": "Pieniężno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.23649000",
+      "longitude": "20.12833000"
+   },
+   {
+      "name": "Pisz",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.62744000",
+      "longitude": "21.81253000"
+   },
+   {
+      "name": "Powiat bartoszycki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.21253000",
+      "longitude": "20.74076000"
+   },
+   {
+      "name": "Powiat braniewski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.27782000",
+      "longitude": "20.00630000"
+   },
+   {
+      "name": "Powiat działdowski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.28883000",
+      "longitude": "20.04817000"
+   },
+   {
+      "name": "Powiat elbląski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.15928000",
+      "longitude": "19.63768000"
+   },
+   {
+      "name": "Powiat ełcki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.81673000",
+      "longitude": "22.40465000"
+   },
+   {
+      "name": "Powiat giżycki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.01808000",
+      "longitude": "21.82191000"
+   },
+   {
+      "name": "Powiat gołdapski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.26090000",
+      "longitude": "22.37192000"
+   },
+   {
+      "name": "Powiat iławski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.67477000",
+      "longitude": "19.53792000"
+   },
+   {
+      "name": "Powiat kętrzyński",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.13651000",
+      "longitude": "21.31217000"
+   },
+   {
+      "name": "Powiat lidzbarski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.10581000",
+      "longitude": "20.38045000"
+   },
+   {
+      "name": "Powiat mrągowski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.81063000",
+      "longitude": "21.39758000"
+   },
+   {
+      "name": "Powiat nidzicki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.37240000",
+      "longitude": "20.49858000"
+   },
+   {
+      "name": "Powiat nowomiejski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.43572000",
+      "longitude": "19.54662000"
+   },
+   {
+      "name": "Powiat olecki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.05129000",
+      "longitude": "22.41695000"
+   },
+   {
+      "name": "Powiat olsztyński",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.72922000",
+      "longitude": "20.56641000"
+   },
+   {
+      "name": "Powiat ostródzki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.72906000",
+      "longitude": "19.91440000"
+   },
+   {
+      "name": "Powiat piski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.68076000",
+      "longitude": "21.85723000"
+   },
+   {
+      "name": "Powiat szczycieński",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.54176000",
+      "longitude": "21.07034000"
+   },
+   {
+      "name": "Powiat węgorzewski",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.20728000",
+      "longitude": "21.77861000"
+   },
+   {
+      "name": "Pozezdrze",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.14147000",
+      "longitude": "21.85970000"
+   },
+   {
+      "name": "Prostki",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.69901000",
+      "longitude": "22.43183000"
+   },
+   {
+      "name": "Purda",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.70844000",
+      "longitude": "20.70683000"
+   },
+   {
+      "name": "Reszel",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.05042000",
+      "longitude": "21.14585000"
+   },
+   {
+      "name": "Rozogi",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.48549000",
+      "longitude": "21.36223000"
+   },
+   {
+      "name": "Ruciane-Nida",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.64161000",
+      "longitude": "21.53964000"
+   },
+   {
+      "name": "Rybno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.38348000",
+      "longitude": "19.93229000"
+   },
+   {
+      "name": "Ryn",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.93770000",
+      "longitude": "21.54642000"
+   },
+   {
+      "name": "Srokowo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.21416000",
+      "longitude": "21.52282000"
+   },
+   {
+      "name": "Stare Juchy",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.92198000",
+      "longitude": "22.17367000"
+   },
+   {
+      "name": "Stawiguda",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.65720000",
+      "longitude": "20.40041000"
+   },
+   {
+      "name": "Susz",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.71743000",
+      "longitude": "19.33645000"
+   },
+   {
+      "name": "Swiętajno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.00151000",
+      "longitude": "22.31830000"
+   },
+   {
+      "name": "Szczytno",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.56259000",
+      "longitude": "20.98747000"
+   },
+   {
+      "name": "Sępopol",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.26903000",
+      "longitude": "21.01453000"
+   },
+   {
+      "name": "Tolkmicko",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.32038000",
+      "longitude": "19.52695000"
+   },
+   {
+      "name": "Wielbark",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.39858000",
+      "longitude": "20.94629000"
+   },
+   {
+      "name": "Wydminy",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.98194000",
+      "longitude": "22.03239000"
+   },
+   {
+      "name": "Węgorzewo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "54.21567000",
+      "longitude": "21.73720000"
+   },
+   {
+      "name": "Zalewo",
+      "countryCode": "PL",
+      "stateCode": "WN",
+      "latitude": "53.84534000",
+      "longitude": "19.60519000"
+   }
+]

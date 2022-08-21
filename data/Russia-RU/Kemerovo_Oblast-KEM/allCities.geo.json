@@ -1,0 +1,506 @@
+[
+   {
+      "name": "Abagur",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.73080000",
+      "longitude": "87.25260000"
+   },
+   {
+      "name": "Anzhero-Sudzhensk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.08100000",
+      "longitude": "86.02850000"
+   },
+   {
+      "name": "Artyshta",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.12220000",
+      "longitude": "86.29090000"
+   },
+   {
+      "name": "Bachatskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.29270000",
+      "longitude": "86.12850000"
+   },
+   {
+      "name": "Barzas",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.72912000",
+      "longitude": "86.32233000"
+   },
+   {
+      "name": "Belogorsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.01778000",
+      "longitude": "88.48972000"
+   },
+   {
+      "name": "Belovo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.41650000",
+      "longitude": "86.29760000"
+   },
+   {
+      "name": "Berëzovskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.60000000",
+      "longitude": "86.20000000"
+   },
+   {
+      "name": "Borovoy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.43333000",
+      "longitude": "86.08333000"
+   },
+   {
+      "name": "Chistogorskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.98350000",
+      "longitude": "87.38430000"
+   },
+   {
+      "name": "Gramoteino",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.53680000",
+      "longitude": "86.38390000"
+   },
+   {
+      "name": "Gur’yevsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.28333000",
+      "longitude": "85.93333000"
+   },
+   {
+      "name": "Inskoy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.42970000",
+      "longitude": "86.44000000"
+   },
+   {
+      "name": "Itatskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.07000000",
+      "longitude": "89.03694000"
+   },
+   {
+      "name": "Izhmorskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.19239000",
+      "longitude": "86.64161000"
+   },
+   {
+      "name": "Kaltan",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.53470000",
+      "longitude": "87.24570000"
+   },
+   {
+      "name": "Karagayla",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.17200000",
+      "longitude": "86.55210000"
+   },
+   {
+      "name": "Kaz",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "52.91130000",
+      "longitude": "87.31050000"
+   },
+   {
+      "name": "Kedrovka",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.53333000",
+      "longitude": "86.05000000"
+   },
+   {
+      "name": "Kemerovo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.33333000",
+      "longitude": "86.08333000"
+   },
+   {
+      "name": "Kiselëvsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.99000000",
+      "longitude": "86.66210000"
+   },
+   {
+      "name": "Krapivinskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.99920000",
+      "longitude": "86.81330000"
+   },
+   {
+      "name": "Krasnobrodskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.15810000",
+      "longitude": "86.44860000"
+   },
+   {
+      "name": "Krasnogorskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.54710000",
+      "longitude": "86.28100000"
+   },
+   {
+      "name": "Krasnoye",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.60680000",
+      "longitude": "85.38990000"
+   },
+   {
+      "name": "Kuzedeyevo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.33080000",
+      "longitude": "87.20190000"
+   },
+   {
+      "name": "Leninsk-Kuznetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.66667000",
+      "longitude": "86.00000000"
+   },
+   {
+      "name": "Leninsk-Kuznetsky",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.65670000",
+      "longitude": "86.17370000"
+   },
+   {
+      "name": "Listvyagi",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.67720000",
+      "longitude": "86.95100000"
+   },
+   {
+      "name": "Mariinsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.21389000",
+      "longitude": "87.74722000"
+   },
+   {
+      "name": "Mezhdurechensk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.69417000",
+      "longitude": "88.06028000"
+   },
+   {
+      "name": "Mundybash",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.21100000",
+      "longitude": "87.29830000"
+   },
+   {
+      "name": "Myski",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.70900000",
+      "longitude": "87.80140000"
+   },
+   {
+      "name": "Nikitinskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.58450000",
+      "longitude": "86.01150000"
+   },
+   {
+      "name": "Novokuznetsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.75570000",
+      "longitude": "87.10990000"
+   },
+   {
+      "name": "Novokuznetskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.75000000",
+      "longitude": "87.08333000"
+   },
+   {
+      "name": "Novopesterevo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.44290000",
+      "longitude": "85.74010000"
+   },
+   {
+      "name": "Osinniki",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.62390000",
+      "longitude": "87.35980000"
+   },
+   {
+      "name": "Pioner",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.31660000",
+      "longitude": "85.95080000"
+   },
+   {
+      "name": "Plotnikovo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.02472000",
+      "longitude": "85.94361000"
+   },
+   {
+      "name": "Polysayevo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.60120000",
+      "longitude": "86.24590000"
+   },
+   {
+      "name": "Pritomskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.77240000",
+      "longitude": "87.60820000"
+   },
+   {
+      "name": "Prokop’yevsk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.90590000",
+      "longitude": "86.71900000"
+   },
+   {
+      "name": "Prokop’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.00000000",
+      "longitude": "86.66667000"
+   },
+   {
+      "name": "Promyshlennaya",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.91590000",
+      "longitude": "85.63850000"
+   },
+   {
+      "name": "Promyshlennovskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.48333000",
+      "longitude": "86.20000000"
+   },
+   {
+      "name": "Rudnichnyy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.08469000",
+      "longitude": "86.24988000"
+   },
+   {
+      "name": "Salair",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.23120000",
+      "longitude": "85.79720000"
+   },
+   {
+      "name": "Sheregesh",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "52.92090000",
+      "longitude": "87.98690000"
+   },
+   {
+      "name": "Sosnovka",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.66760000",
+      "longitude": "87.15270000"
+   },
+   {
+      "name": "Spassk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "52.74700000",
+      "longitude": "87.75450000"
+   },
+   {
+      "name": "Starobachaty",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.24250000",
+      "longitude": "86.20720000"
+   },
+   {
+      "name": "Staropesterevo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.50010000",
+      "longitude": "86.40940000"
+   },
+   {
+      "name": "Suslovo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.21667000",
+      "longitude": "88.11667000"
+   },
+   {
+      "name": "Tashtagol",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "52.76570000",
+      "longitude": "87.88940000"
+   },
+   {
+      "name": "Tashtagol’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "52.78333000",
+      "longitude": "87.88333000"
+   },
+   {
+      "name": "Tayga",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.06402000",
+      "longitude": "85.62238000"
+   },
+   {
+      "name": "Tayzhina",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.66790000",
+      "longitude": "87.43620000"
+   },
+   {
+      "name": "Temirtau",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "53.13770000",
+      "longitude": "87.45380000"
+   },
+   {
+      "name": "Tisul’",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.76173000",
+      "longitude": "88.31228000"
+   },
+   {
+      "name": "Topki",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.27690000",
+      "longitude": "85.61630000"
+   },
+   {
+      "name": "Trudarmeyskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.13200000",
+      "longitude": "86.40980000"
+   },
+   {
+      "name": "Tyazhinskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.11607000",
+      "longitude": "88.52279000"
+   },
+   {
+      "name": "Ursk",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "54.45417000",
+      "longitude": "85.40028000"
+   },
+   {
+      "name": "Verkh-Chebula",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.03062000",
+      "longitude": "87.62215000"
+   },
+   {
+      "name": "Yagunovo",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.24645000",
+      "longitude": "86.01097000"
+   },
+   {
+      "name": "Yagunovskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.28280000",
+      "longitude": "85.97800000"
+   },
+   {
+      "name": "Yashkino",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.87360000",
+      "longitude": "85.42650000"
+   },
+   {
+      "name": "Yaya",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "56.20600000",
+      "longitude": "86.44000000"
+   },
+   {
+      "name": "Yurga",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.72306000",
+      "longitude": "84.88611000"
+   },
+   {
+      "name": "Yurginskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.75000000",
+      "longitude": "84.75000000"
+   },
+   {
+      "name": "Zelenogorskiy",
+      "countryCode": "RU",
+      "stateCode": "KEM",
+      "latitude": "55.03333000",
+      "longitude": "87.00000000"
+   }
+]

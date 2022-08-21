@@ -1,0 +1,472 @@
+[
+   {
+      "name": "Angra dos Reis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Aperibé",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Araruama",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Areal",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Armação dos Búzios",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Arraial do Cabo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Barra Mansa",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Barra do Piraí",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Belford Roxo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bom Jardim",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bom Jesus do Itabapoana",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cabo Frio",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cachoeiras de Macacu",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cambuci",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Campos dos Goytacazes",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cantagalo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Carapebus",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cardoso Moreira",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Carmo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Casimiro de Abreu",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Comendador Levy Gasparian",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Conceição de Macabu",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Cordeiro",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Duas Barras",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Duque de Caxias",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Engenheiro Paulo de Frontin",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Guapimirim",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Iguaba Grande",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Ilha Grande",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Itaboraí",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Itaguaí",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Italva",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Itaocara",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Itaperuna",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Itatiaia",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Japeri",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Laje do Muriaé",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Macaé",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Macuco",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Magé",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mangaratiba",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Maricá",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mendes",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mesquita",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Miguel Pereira",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Miracema",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Natividade",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nilópolis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Niterói",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nova Friburgo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nova Iguaçu",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Paracambi",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Paraty",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Paraíba do Sul",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Paty do Alferes",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Petrópolis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Pinheiral",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Piraí",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Porciúncula",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Porto Real",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Quatis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Queimados",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Quissamã",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Resende",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rio Bonito",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rio Claro",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rio das Flores",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rio das Ostras",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rio de Janeiro",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Santa Maria Madalena",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Santo Antônio de Pádua",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Sapucaia",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Saquarema",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Seropédica",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Silva Jardim",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Sumidouro",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Fidélis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Francisco de Itabapoana",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Gonçalo",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São José de Ubá",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São José do Vale do Rio Preto",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São João da Barra",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São João de Meriti",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Pedro",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Pedro da Aldeia",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "São Sebastião do Alto",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Tanguá",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Teresópolis",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Trajano de Moraes",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Três Rios",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Valença",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Varre-Sai",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Vassouras",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Volta Redonda",
+      "countryCode": "BR",
+      "stateCode": "RJ"
+   }
+]

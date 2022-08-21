@@ -1,0 +1,957 @@
+[
+   {
+      "name": "Bakov nad Jizerou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Benešov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Benátky nad Jizerou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Beroun",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Bohutín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Brandýs nad Labem-Stará Boleslav",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Brandýsek",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Buštěhrad",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Bystřice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Byšice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Bělá pod Bezdězem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Březnice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Cerhenice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Chyňava",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Církvice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Cítov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Davle",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Divišov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dobrovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dobřichovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dobříš",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Doksy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dolní Beřkovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dolní Bousov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Dolní Břežany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Horní Počaply",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Horoměřice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hostivice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hostomice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hovorčovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hořovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hradištko",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hudlice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hýskov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Hřebeč",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Jeneč",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Jesenice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Jince",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Jirny",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Jílové u Prahy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kamenice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kamenné Žehrovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kamenný Přívoz",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kačice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kladno",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Klecany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Klobuky",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kněžmost",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kolín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Komárov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kosmonosy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kosova Hora",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kostelec nad Labem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kostelec nad Černými Lesy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kouřim",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kralupy nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Králův Dvůr",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Krásná Hora nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Kutná Hora",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Křinec",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Libice nad Cidlinou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Libiš",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Libušín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Libčice nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Lochovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Loděnice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Loučeň",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Luštěnice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Lužec nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Lužná",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Lysá nad Labem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Lány",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Líbeznice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Milovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Milín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mladá Boleslav",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mnichovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mnichovo Hradiště",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mníšek pod Brdy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mukařov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mělník",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Městec Králové",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Měšice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Mšeno",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Načeradec",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nehvizdy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nelahozeves",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Neratovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Netvořice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Neveklov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nižbor",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nové Strašecí",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nový Knín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Nymburk",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Obecnice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Odolena Voda",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Benešov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Beroun",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Kladno",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Kolín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Kutná Hora",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Mladá Boleslav",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Mělník",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Nymburk",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Praha-východ",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Praha-západ",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Příbram",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Okres Rakovník",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Ondřejov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Pavlíkov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Pchery",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Petrovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Pečky",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Plaňany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Poděbrady",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Postupice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Poříčany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Poříčí nad Sázavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Průhonice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Psáry",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Pyšely",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Přerov nad Labem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Příbram",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Rakovník",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Roztoky",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Rožmitál pod Třemšínem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Rožďalovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Rudná",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Sadská",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Sedlec",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Sedlčany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Slaný",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Smečno",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Stará Huť",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Starý Kolín",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Stochov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Strančice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Suchdol",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Sázava",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Tišice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Trhový Štěpánov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Tuchlovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Tuchoměřice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Týnec nad Labem",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Týnec nad Sázavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Třebotov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Uhlířské Janovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Unhošť",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velim",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velká Dobrá",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velké Popovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velké Přílepy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velký Osek",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Veltruby",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Veltrusy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Velvary",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Vestec",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Vinařice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Vlašim",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Votice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Vrané nad Vltavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Vrdy",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Všenory",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Všetaty",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zaječov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zbraslavice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zdiby",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zdice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zeleneč",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zlonice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zruč nad Sázavou",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zvole",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Zásmuky",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Úvaly",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Čechtice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Čelákovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Černošice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Červené Pečky",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Čerčany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Český Brod",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Čáslav",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Řevnice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Řevničov",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Řež",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Říčany",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Šestajovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Štěchovice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Žebrák",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Žiželice",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Žleby",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   },
+   {
+      "name": "Žďár",
+      "countryCode": "CZ",
+      "stateCode": "20"
+   }
+]

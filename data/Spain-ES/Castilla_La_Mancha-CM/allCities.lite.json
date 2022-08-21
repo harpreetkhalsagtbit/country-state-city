@@ -1,0 +1,4042 @@
+[
+   {
+      "name": "Abengibre",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Abenójar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ablanque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Abánades",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Adobes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Agudo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ajofrín",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alamillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alaminos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alarcón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alarilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alatoz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albacete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albaladejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albaladejo del Cuende",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albalate de Zorita",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albalate de las Nogueras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albarreal de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albatana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albendea",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Albendiego",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alborea",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcabón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcadozo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcalá de la Vega",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcalá del Júcar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcantud",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcaraz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcañizo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcoba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcocer",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcohujate",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcolea de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcolea de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcolea de las Peñas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcolea del Pinar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alconchel de la Estrella",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcoroches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcubillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcázar de San Juan",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alcázar del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aldea del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aldeanueva de Barbarroya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aldeanueva de Guadalajara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aldeanueva de San Bartolomé",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Algar de Mesa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Algarra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Algora",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alhambra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alhóndiga",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aliaguilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alique",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almadrones",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almadén",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almagro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almansa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almedina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almendral de la Cañada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almodóvar del Campo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almodóvar del Pinar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almoguera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almonacid de Zorita",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almonacid del Marquesado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Almorox",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alocén",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alovera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alpera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Altarejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Alustante",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Anchuras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Anguita",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Anquela del Ducado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Anquela del Pedregal",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arandilla del Arroyo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Aranzueque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arbancón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arbeteta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arcicóllar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arcos de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arenas de San Juan",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Argamasilla de Alba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Argamasilla de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Argecilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arguisuelas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Armallones",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Armuña de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arrancacepas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Arroyo de las Fraguas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Atalaya del Cañavate",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Atanzón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Atienza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Auñón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ayna",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Azuqueca de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Azután",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Añover de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Baides",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Balazote",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ballesteros de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Balsa de Ves",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Barajas de Melo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Barchín del Hoyo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Barcience",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bargas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Barrax",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Barriopedro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bascuñana de San Pedro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Baños de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bañuelos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Beamud",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Belinchón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Belmonte",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Belmontejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Belvis de la Jara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Berninches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Beteta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bienservida",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bogarra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bolaños de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bonete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Boniches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Borox",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Brazatortas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Brihuega",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Buciegas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Budia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Buenache de Alarcón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Buenaventura",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Buendía",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bujalaro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Burguillos de Toledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Burujón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Bustares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cabanillas del Campo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cabañas de Yepes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cabañas de la Sagra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cabezamesada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cabezarados",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Calera y Chozas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Caleruela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Camarena",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Camarenilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campillo de Altobuey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campillo de Dueñas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campillo de Ranas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campillos-Paravientos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campillos-Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campisábalos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Campo de Criptana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Camuñas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Canalejas del Arroyo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Canredondo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cantalojas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carboneras de Guadazaón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carcelén",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cardenete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cardiel de los Montes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carmena",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carranque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carrascosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carrascosa de Haro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carriches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carrizosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Carrión de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casa de Uceda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casarrubios del Monte",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas Ibáñez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Benítez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Fernando Alonso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Garcimolina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Guijarro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Haro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Juan Núñez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Lázaro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de San Galindo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de Ves",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casas de los Pinos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casasbuenas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Casasimarro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Caspueñas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castejón de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castellar de Santiago",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castellar de la Muela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castilforte",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castillejo de Iniesta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castillejo-Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castillo de Bayuela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castillo de Garcimuñoz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castillo-Albaráñez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Castilnuevo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Caudete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cazalegas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañada de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañada del Hoyo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañamares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañaveras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañaveruelas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañizar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cañizares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cebolla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cedillo del Condado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cendejas de la Torre",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cenizate",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Centenera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cervera de los Montes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cervera del Llano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Checa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chequilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chillarón de Cuenca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chillarón del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chiloeches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chinchilla de Monte Aragón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chozas de Canales",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chueca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Chumillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cifuentes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cincovillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ciruelas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ciruelos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ciudad Real",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cobeja",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cobeta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cobisa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cogollor",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cogolludo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Condemios de Abajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Condemios de Arriba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Congostrina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Consuegra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Copernal",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Corduente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Corral de Almaguer",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Corral de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Corral-Rubio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cotillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cuenca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cuerva",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cueva del Hierro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Cózar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Daimiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Domingo Pérez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Dosbarrios",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Driebes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Durón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Bonillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Carpio de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Casar de Escalona",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Pedernoso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Provencio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Puente del Arzobispo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Real de San Vicente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Robledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Toboso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "El Viso de San Juan",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Elche de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Embid",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Enguídanos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Erustes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Escalona",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Escalonilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Escamilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Escariche",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Escopete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Espinosa de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Espinoso del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Esplegares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Esquivias",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Establés",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Estriégana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fontanar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fontanarejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fresneda de Altarejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fresneda de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuembellida",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuencaliente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuencemillán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuenllana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuensalida",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuensanta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuente de Pedro Naharro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuente el Fresno",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuente-Álamo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentealbilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelahiguera de Albatages",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelencina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelespino de Haro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelespino de Moya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelsaz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentelviejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentenovilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuentes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Fuertescusa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Férez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gabaldón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gajanejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Galve de Sorbe",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Galápagos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Garaballa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gascueña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gascueña de Bornova",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gerindote",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Golosalvo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Graja de Campalbo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Graja de Iniesta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Guadalajara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Guadalmez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Guadamur",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Gálvez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hellín",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Henarejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Henche",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Herencia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Herreruela de Oropesa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Herrería",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hiendelaencina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Higueruela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hijes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hinojosa de San Vicente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hinojosas de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hita",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hombrados",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Honrubia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hontanar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hontanaya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hontecillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hontoba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Horcajo de Santiago",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Horche",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hormigos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hoya-Gonzalo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huecas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huelves",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huerta de Valdecarábanos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huerta de la Obispalía",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huerta del Marquesado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huertahernando",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Hueva",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Humanes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huélamo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huérguina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Huérmeces del Cerro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Illana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Illescas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Illán de Vacas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Infantes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Iniesta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Iniéstola",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Irueste",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Jirueque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Jorquera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Alameda de la Sagra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Alberca de Záncara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Calzada de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Frontera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Gineta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Guardia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Puebla de Almoradiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Puebla de Montalbán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Pueblanueva",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Roda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Solana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "La Torre de Esteban Hambrán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lagartera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Laguna del Marquesado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lagunaseca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Landete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Las Mesas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Las Pedroñeras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Las Ventas de Retamosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Layos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ledanca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ledaña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Leganiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Letur",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lezuza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Liétor",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lominchar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Loranca de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Los Hinojosos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Los Navalmorales",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Los Navalucillos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Los Yébenes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lucillos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Lupiana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Luzaga",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Luzón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Madridejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Madrigueras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Magán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mahora",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Majaelrayo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Malaguilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Malagón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Malpica",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mandayona",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mantiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Manzanares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Manzaneque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Maqueda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Maranchón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Marchamalo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mariana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Marjaliza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mascaraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Masegosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Masegoso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Masegoso de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Matarrubia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Matillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mazarambroz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mazarete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mazuecos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Medranda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Megina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mejorada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Membrilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Membrillera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Menasalbas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mestanza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Miedes de Atienza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Miguel Esteban",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Miguelturra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Millana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Milmarcos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Minaya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Minglanilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mira",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mirabueno",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Miralrío",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mocejón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mochales",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mohedas de la Jara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mohernando",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Molina de Aragón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Molinicos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Monasterio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mondéjar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Monreal del Llano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montalbanejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montalbo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montalvos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montarrón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Monteagudo de las Salinas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montealegre del Castillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montearagón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montesclaros",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Montiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mora",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Moral de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Moratilla de los Meleros",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Morenilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mota de Altarejos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Mota del Cuervo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Motilla del Palancar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Motilleja",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Moya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Muduex",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Munera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Málaga del Fresno",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Méntrida",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Nambroca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Narboneta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navahermosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navalcán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navalmoralejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navalpino",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navamorcuende",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navas de Estena",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Navas de Jorquera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Negredo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Nerpio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Noblejas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Noez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Nombela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Novés",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Numancia de la Sagra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Nuño Gómez",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ocaña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ocentejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olivares de Júcar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olmeda de Cobeta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olmeda de la Cuesta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olmeda del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olmedilla de Alarcón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olmedilla de Eliz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Olías del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ontur",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ontígola",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Orea",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Orgaz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Oropesa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Osa de la Vega",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ossa de Montiel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Otero",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pajaroncillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pajarón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Palomares del Campo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Palomeque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pantoja",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Paracuellos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Paredes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Paredes de Escalona",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Paredes de Sigüenza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pareja",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Parrillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pastrana",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Paterna del Madera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pedro Muñoz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pelahustán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Peralejos de las Truchas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Peralveche",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Peñalver",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Peñalén",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Peñas de San Pedro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Picón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Piedrabuena",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pinarejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pineda de Gigüela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pinilla de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pinilla de Molina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pioz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Piqueras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Piqueras del Castillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Poblete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Polán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Portilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Portillo de Toledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Porzuna",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Poveda de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Povedilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozo de Almoguera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozo de Guadalajara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozo-Cañada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozoamargo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozohondo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozorrubio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozuelo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pozuelo de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Prados Redondos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Priego",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Province of Toledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Provincia de Albacete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Provincia de Ciudad Real",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Provincia de Cuenca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Provincia de Guadalajara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Prádena de Atienza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puebla de Almenara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puebla de Beleña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puebla de Don Rodrigo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puebla del Príncipe",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puebla del Salvador",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puerto Lápice",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puerto de San Vicente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Puertollano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pulgar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pálmaces de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Pétrola",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Quer",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Quero",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Quintanar de la Orden",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Quintanar del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Quismondo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rada de Haro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rebollosa de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Recas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Renera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Retiendas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Retuerta de Bullaque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Reíllo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Riba de Saelices",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rielves",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rillo de Gallo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Riópar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Robledillo de Mohernando",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Robledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Robledo de Corpes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Romanillos de Atienza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Romanones",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rozalén del Monte",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Rueda de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ruidera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sacecorbo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Saceda-Trasierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sacedón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Saceruela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Saelices",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Saelices de la Sal",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Salinas del Manzano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Salmerón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Salobre",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Salvacañete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Andrés del Congosto",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Andrés del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Bartolomé de las Abiertas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Carlos del Valle",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Clemente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Lorenzo de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Lorenzo de la Parrilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Martín de Boniches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Martín de Montalbán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Martín de Pusa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Pedro",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "San Pedro Palmiches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Ana de Pusa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Cruz de Moya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Cruz de Mudela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Cruz de la Zarza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Cruz de los Cáñamos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Cruz del Retamar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa María del Campo Rus",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa María del Val",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santa Olalla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Santiuste",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sartajada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sayatón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Saúca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Segurilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Selas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Semillas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Seseña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Setiles",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sevilleja de la Jara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sienes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sigüenza",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sisante",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Socovos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Socuéllamos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Solanillos del Extremo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Somolinos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sonseca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sotillo de las Palomas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Sotodosos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Talavera de la Reina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tamajón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Taragudo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tarancón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Taravilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tarazona de la Mancha",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tartanedo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tejadillos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tembleque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tendilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Terrinches",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Terzaga",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tierzo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tinajas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tobarra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Toledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tomelloso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tordellego",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tordelrábano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tordesilos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torija",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torralba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torralba de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torralba de Oropesa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torre de Juan Abad",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torre del Burgo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrecilla de la Jara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrecuadrada de Molina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrecuadradilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrejoncillo del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrejón del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torremocha de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torremocha del Campo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torremocha del Pinar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torremochuela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrenueva",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrico",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrijos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrubia",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrubia del Campo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Torrubia del Castillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tortuera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tortuero",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Totanés",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tresjuncos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tribaldos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Trijueque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Trillo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Turleque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tébar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Tórtola de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Uceda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Uclés",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ugena",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ujados",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Urda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Utande",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Uña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdarachas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdearenas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeavellano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeaveruelo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeconcha",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeganga",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdegrudas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdelcubo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdemanco del Esteras",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdemeca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdemorillo de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdemoro-Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeolivas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdepeñas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdepeñas de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valderrebollo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdesotos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valdeverdeja",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valenzuela de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valfermoso de Tajuña",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valhermoso",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valhermoso de la Fuente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valmojado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valsalobre",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valtablado del Río",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valverde de Júcar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valverde de los Arroyos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Valverdejo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Vara de Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Vega del Codorno",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Velada",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Vellisca",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Ventas con Peña Aguilera",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Viana de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villa de Don Fadrique",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villa de Ves",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villacañas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaconejos de Trabaque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villafranca de los Caballeros",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villagarcía del Llano",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villagordo del Júcar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villahermosa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villalba de la Sierra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villalba del Rey",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villalgordo del Marquesado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villalpardo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamalea",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamanrique",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamayor de Calatrava",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamayor de Santiago",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamiel de Toledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaminaya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villamuelas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de Alcardete",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de Alcorón",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de Argecilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de Bogas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de San Carlos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de la Fuente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de la Jara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villanueva de la Torre",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villapalacios",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar de Cañas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar de Domingo García",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar de Olalla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar de la Encina",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar del Humo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar del Infantado",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villar del Pozo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarejo de Fuentes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarejo de Montalbán",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarejo de la Peñuela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarejo-Periesteban",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villares de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villares del Saz",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarrobledo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarrubia de Santiago",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarrubia de los Ojos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarrubio",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarta",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villarta de San Juan",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaseca de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaseca de Uceda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaseca de la Sagra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villasequilla de Yepes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villatobas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villatoya",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villavaliente",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaverde de Guadalimar",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villaverde y Pasaconsol",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Villel de Mesa",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Vindel",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Viso del Marqués",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Viveros",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Viñuelas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yebes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yebra",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yeles",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yepes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yeste",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yuncler",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yuncos",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yunquera de Henares",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yélamos de Abajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yélamos de Arriba",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Yémeda",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zafra de Záncara",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zafrilla",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zaorejas",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zarza de Tajo",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zarzuela",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zarzuela de Jadraque",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   },
+   {
+      "name": "Zorita de los Canes",
+      "countryCode": "ES",
+      "stateCode": "CM"
+   }
+]

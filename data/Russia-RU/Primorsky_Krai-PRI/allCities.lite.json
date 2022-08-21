@@ -1,0 +1,482 @@
+[
+   {
+      "name": "Anuchino",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Anuchinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Arsen’yev",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Artëm",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Barabash",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Blagodatnoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Bol’shoy Kamen’",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Chernigovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Chernigovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Chernyshëvka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Chkalovskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Chuguyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Dalnegorsk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Dalnerechensk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Dostoyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Dunay",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Emar",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Fokino",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Gornorechenskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Gornyye Klyuchi",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Grazhdanka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Ivanovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Kamenka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Kamen’-Rybolov",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Kavalerovo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Khasanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Khorol’",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Kirovskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Knevichi",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Kraskino",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Krasnorechenskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Lazo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Lazovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Lesozavodsk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Lipovtsy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Livadiya",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Luchegorsk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Luchki",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Lyalichi",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Mikhaylovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Mikhaylovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Mnogoudobnoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Monastyrishche",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Nadezhdinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Nakhodka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Novonikol’sk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Novopokrovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Novoshakhtinskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Novosysoyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Novyy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Ol’ga",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Partizansk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Plastun",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Pogranichnyy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Pokrovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Popova",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Preobrazheniye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Primorskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Putyatin",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Razdol’noye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Rettikhovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Romanovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Rudnaya Pristan’",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Rudnyy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Russkiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Sergeyevka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Shkotovo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Shkotovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Shtykovo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Sivakovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Slavyanka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Smolyaninovo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Spassk-Dal’niy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Spasskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Spasskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Svetlaya",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Tavrichanka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Terney",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Trudovoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Uglekamensk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Uglovoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Ussuriysk",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vladimiro-Aleksandrovskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vladivostok",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Volchanets",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vol’no-Nadezhdinskoye",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vostok",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vozdvizhenka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Vrangel’",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Yakovlevka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Yakovlevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Yaroslavskiy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Yekaterinovka",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Zarubino",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Zavodskoy",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   },
+   {
+      "name": "Zharikovo",
+      "countryCode": "RU",
+      "stateCode": "PRI"
+   }
+]

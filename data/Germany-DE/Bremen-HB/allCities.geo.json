@@ -1,0 +1,30 @@
+[
+   {
+      "name": "Bremen",
+      "countryCode": "DE",
+      "stateCode": "HB",
+      "latitude": "53.07516000",
+      "longitude": "8.80777000"
+   },
+   {
+      "name": "Bremerhaven",
+      "countryCode": "DE",
+      "stateCode": "HB",
+      "latitude": "53.55021000",
+      "longitude": "8.57673000"
+   },
+   {
+      "name": "Burglesum",
+      "countryCode": "DE",
+      "stateCode": "HB",
+      "latitude": "53.16532000",
+      "longitude": "8.68873000"
+   },
+   {
+      "name": "Vegesack",
+      "countryCode": "DE",
+      "stateCode": "HB",
+      "latitude": "53.16667000",
+      "longitude": "8.61667000"
+   }
+]

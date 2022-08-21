@@ -1,0 +1,767 @@
+[
+   {
+      "name": "Aleysk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Aleyskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Altayskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Anton’yevka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Aya",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Barnaul",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Barnaul Urban Okrug",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bastan",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bayevo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bayunovskiye Klyuchi",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Belokurikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Beloyarsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Berëzovka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Biysk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Blagoveshchenka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bobrovka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Borovikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Burla",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bystryanka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Bystryy Istok",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Charyshskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Cheremnoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Gal’bshtadt",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Gon’ba",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Gornyak",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Grishkovka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Inya",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kalmanka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kalmanskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kamen’-na-Obi",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Khabarskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Khabary",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Klyuchi",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kosikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kosikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Krasnogorskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Krasnoshchekovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Krasnyy Yar",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Krutikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kulunda",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kulundinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kur’inskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kusak",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Kytmanovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Lebyazh’ye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Lesnoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Logovskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Loktevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Malinovoye Ozero",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Malougrenevo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Mamontovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Mamontovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Martynovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Mikhaylovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Mikhaylovskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Nagornyy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Nalobikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Natsional’nyy Rayon Nemetskiy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Nauchnyy Gorodok",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Nikolayevka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novichikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novichikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novikovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novoaltaysk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novosilikatnyy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novotyryshkino",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Novyye Zori",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pankrushikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pankrushikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pavlovsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pavlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pervomayskiy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pervomayskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pervomayskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Petropavlovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Petropavlovskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Podsosnovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pospelikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Pospelikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rebrikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rebrikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rodino",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rodinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Romanovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Romanovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rubtsovsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Rubtsovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sannikovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Severka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shakhi",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shelabolikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shelabolikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shipunovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shipunovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shubenka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Shul’gin Log",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sibirskiy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Slavgorod",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Slavgorodskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Smolenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Smolenskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sokolovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Soloneshenskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Soloneshnoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Solton",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Soltonskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sorokino",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sovetskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Srostki",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Stan-Bekhtemir",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Staroaleyskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Starobelokurikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Staryy Togul",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Stukovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Sychëvka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tabuny",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tal’menka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tal’menskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Togul",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Togul’skiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Topchikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Topol’noye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Troitskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tselinnoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tyumentsevo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Tyumentsevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Uglovskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Ust’-Charyshskaya Pristan’",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Ust’-Isha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Ust’-Kalmanka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Ust’yanka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Usyatskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Verkh-Katunskoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Verkh-Suetka",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Verkhniy Bekhtemir",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Veseloyarsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Vlasikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Volchikha",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Volchikhinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Yarovoye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Yegor’yevskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Yel’tsovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Yuzhnyy",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zalesovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zarinsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zarinskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zarya",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zaton",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zav’yalovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zav’yalovskiy Rayon",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zmeinogorsk",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zonal’noye",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   },
+   {
+      "name": "Zudilovo",
+      "countryCode": "RU",
+      "stateCode": "ALT"
+   }
+]

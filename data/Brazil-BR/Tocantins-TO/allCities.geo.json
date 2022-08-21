@@ -1,0 +1,975 @@
+[
+   {
+      "name": "Abreulândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.43672000",
+      "longitude": "-49.31733000"
+   },
+   {
+      "name": "Aguiarnópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.48176000",
+      "longitude": "-47.51435000"
+   },
+   {
+      "name": "Aliança do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.32864000",
+      "longitude": "-48.95855000"
+   },
+   {
+      "name": "Almas",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.43527000",
+      "longitude": "-47.23635000"
+   },
+   {
+      "name": "Alvorada",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.48000000",
+      "longitude": "-49.12472000"
+   },
+   {
+      "name": "Ananás",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.14621000",
+      "longitude": "-48.21505000"
+   },
+   {
+      "name": "Angico",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.34335000",
+      "longitude": "-47.93112000"
+   },
+   {
+      "name": "Aparecida do Rio Negro",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.06183000",
+      "longitude": "-47.96514000"
+   },
+   {
+      "name": "Aragominas",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.89259000",
+      "longitude": "-48.61589000"
+   },
+   {
+      "name": "Araguacema",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.91352000",
+      "longitude": "-49.40915000"
+   },
+   {
+      "name": "Araguanã",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.76634000",
+      "longitude": "-48.52702000"
+   },
+   {
+      "name": "Araguatins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.64071000",
+      "longitude": "-48.08859000"
+   },
+   {
+      "name": "Araguaçu",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.72579000",
+      "longitude": "-49.74942000"
+   },
+   {
+      "name": "Araguaína",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.31139000",
+      "longitude": "-48.62113000"
+   },
+   {
+      "name": "Arapoema",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.71941000",
+      "longitude": "-49.03285000"
+   },
+   {
+      "name": "Arraias",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.84110000",
+      "longitude": "-46.90868000"
+   },
+   {
+      "name": "Augustinópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.51080000",
+      "longitude": "-47.91538000"
+   },
+   {
+      "name": "Aurora do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.61624000",
+      "longitude": "-46.44441000"
+   },
+   {
+      "name": "Axixá do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.64850000",
+      "longitude": "-47.77278000"
+   },
+   {
+      "name": "Babaçulândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.20516000",
+      "longitude": "-47.76821000"
+   },
+   {
+      "name": "Bandeirantes do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.00418000",
+      "longitude": "-48.68223000"
+   },
+   {
+      "name": "Barra do Ouro",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.75845000",
+      "longitude": "-47.58781000"
+   },
+   {
+      "name": "Barrolândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.84999000",
+      "longitude": "-48.83437000"
+   },
+   {
+      "name": "Bernardo Sayão",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.97377000",
+      "longitude": "-48.98609000"
+   },
+   {
+      "name": "Bom Jesus do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.01838000",
+      "longitude": "-47.86969000"
+   },
+   {
+      "name": "Brasilândia do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.26045000",
+      "longitude": "-48.43450000"
+   },
+   {
+      "name": "Brejinho de Nazaré",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.01872000",
+      "longitude": "-48.64695000"
+   },
+   {
+      "name": "Buriti do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.37057000",
+      "longitude": "-48.13476000"
+   },
+   {
+      "name": "Cachoeirinha",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.09807000",
+      "longitude": "-47.87888000"
+   },
+   {
+      "name": "Campos Lindos",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.22553000",
+      "longitude": "-46.84507000"
+   },
+   {
+      "name": "Cariri do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.94500000",
+      "longitude": "-49.20796000"
+   },
+   {
+      "name": "Carmolândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.03001000",
+      "longitude": "-48.35627000"
+   },
+   {
+      "name": "Carrasco Bonito",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.31027000",
+      "longitude": "-48.03360000"
+   },
+   {
+      "name": "Caseara",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.45982000",
+      "longitude": "-49.83604000"
+   },
+   {
+      "name": "Centenário",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.15331000",
+      "longitude": "-47.44772000"
+   },
+   {
+      "name": "Chapada da Natividade",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.54159000",
+      "longitude": "-47.88094000"
+   },
+   {
+      "name": "Chapada de Areia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.14838000",
+      "longitude": "-49.19998000"
+   },
+   {
+      "name": "Colinas do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.09451000",
+      "longitude": "-48.52143000"
+   },
+   {
+      "name": "Colméia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.87655000",
+      "longitude": "-48.75788000"
+   },
+   {
+      "name": "Combinado",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.82321000",
+      "longitude": "-46.53424000"
+   },
+   {
+      "name": "Conceição do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.09878000",
+      "longitude": "-47.27047000"
+   },
+   {
+      "name": "Couto Magalhães",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.50138000",
+      "longitude": "-49.17287000"
+   },
+   {
+      "name": "Cristalândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.62568000",
+      "longitude": "-49.36863000"
+   },
+   {
+      "name": "Crixás do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.16426000",
+      "longitude": "-49.07254000"
+   },
+   {
+      "name": "Darcinópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.76072000",
+      "longitude": "-47.75687000"
+   },
+   {
+      "name": "Dianópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.69578000",
+      "longitude": "-46.73544000"
+   },
+   {
+      "name": "Divinópolis do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.65731000",
+      "longitude": "-49.38737000"
+   },
+   {
+      "name": "Dois Irmãos do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.29074000",
+      "longitude": "-49.15573000"
+   },
+   {
+      "name": "Dueré",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.35537000",
+      "longitude": "-49.46137000"
+   },
+   {
+      "name": "Esperantina",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.30432000",
+      "longitude": "-48.54762000"
+   },
+   {
+      "name": "Figueirópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.26857000",
+      "longitude": "-49.28976000"
+   },
+   {
+      "name": "Filadélfia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.48804000",
+      "longitude": "-47.85623000"
+   },
+   {
+      "name": "Formoso do Araguaia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.95898000",
+      "longitude": "-50.09809000"
+   },
+   {
+      "name": "Fortaleza do Tabocão",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.08805000",
+      "longitude": "-48.55638000"
+   },
+   {
+      "name": "Fátima",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.81953000",
+      "longitude": "-48.86757000"
+   },
+   {
+      "name": "Goianorte",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.83664000",
+      "longitude": "-48.99356000"
+   },
+   {
+      "name": "Goiatins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.04432000",
+      "longitude": "-47.47183000"
+   },
+   {
+      "name": "Guaraí",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.70233000",
+      "longitude": "-48.40251000"
+   },
+   {
+      "name": "Gurupi",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.72917000",
+      "longitude": "-49.06861000"
+   },
+   {
+      "name": "Ipueiras",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.15847000",
+      "longitude": "-48.37886000"
+   },
+   {
+      "name": "Itacajá",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.55538000",
+      "longitude": "-47.62201000"
+   },
+   {
+      "name": "Itaguatins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.81408000",
+      "longitude": "-47.65425000"
+   },
+   {
+      "name": "Itapiratins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.35820000",
+      "longitude": "-47.99703000"
+   },
+   {
+      "name": "Itaporã do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.50178000",
+      "longitude": "-48.75214000"
+   },
+   {
+      "name": "Jaú do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.83943000",
+      "longitude": "-48.63203000"
+   },
+   {
+      "name": "Juarina",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.10180000",
+      "longitude": "-49.07995000"
+   },
+   {
+      "name": "Lagoa da Confusão",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.99307000",
+      "longitude": "-49.93702000"
+   },
+   {
+      "name": "Lagoa do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.33721000",
+      "longitude": "-47.48133000"
+   },
+   {
+      "name": "Lajeado",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.86927000",
+      "longitude": "-48.28058000"
+   },
+   {
+      "name": "Lavandeira",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.83658000",
+      "longitude": "-46.39307000"
+   },
+   {
+      "name": "Lizarda",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.52341000",
+      "longitude": "-46.97679000"
+   },
+   {
+      "name": "Luzinópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.20636000",
+      "longitude": "-47.83045000"
+   },
+   {
+      "name": "Marianópolis do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.81443000",
+      "longitude": "-49.71607000"
+   },
+   {
+      "name": "Mateiros",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.41802000",
+      "longitude": "-46.48380000"
+   },
+   {
+      "name": "Maurilândia do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.98609000",
+      "longitude": "-47.57986000"
+   },
+   {
+      "name": "Miracema do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.76855000",
+      "longitude": "-48.58348000"
+   },
+   {
+      "name": "Miranorte",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.39114000",
+      "longitude": "-48.66598000"
+   },
+   {
+      "name": "Monte Santo do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.00972000",
+      "longitude": "-49.12747000"
+   },
+   {
+      "name": "Monte do Carmo",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.72034000",
+      "longitude": "-48.01807000"
+   },
+   {
+      "name": "Muricilândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.98598000",
+      "longitude": "-48.79167000"
+   },
+   {
+      "name": "Natividade",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.75889000",
+      "longitude": "-47.64485000"
+   },
+   {
+      "name": "Nazaré",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.31311000",
+      "longitude": "-47.78944000"
+   },
+   {
+      "name": "Nova Olinda",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.68973000",
+      "longitude": "-48.28152000"
+   },
+   {
+      "name": "Nova Rosalândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.56285000",
+      "longitude": "-48.97053000"
+   },
+   {
+      "name": "Novo Acordo",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.15197000",
+      "longitude": "-47.47165000"
+   },
+   {
+      "name": "Novo Alegre",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.87311000",
+      "longitude": "-46.56936000"
+   },
+   {
+      "name": "Novo Jardim",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.75148000",
+      "longitude": "-46.54138000"
+   },
+   {
+      "name": "Oliveira de Fátima",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.67053000",
+      "longitude": "-48.90783000"
+   },
+   {
+      "name": "Palmas",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.16745000",
+      "longitude": "-48.32766000"
+   },
+   {
+      "name": "Palmeirante",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.86937000",
+      "longitude": "-48.17585000"
+   },
+   {
+      "name": "Palmeiras do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.61304000",
+      "longitude": "-47.66259000"
+   },
+   {
+      "name": "Palmeirópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-13.06026000",
+      "longitude": "-48.38866000"
+   },
+   {
+      "name": "Paranã",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.73875000",
+      "longitude": "-47.94338000"
+   },
+   {
+      "name": "Paraíso do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.23212000",
+      "longitude": "-48.88032000"
+   },
+   {
+      "name": "Pau d'Arco",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.55877000",
+      "longitude": "-48.93697000"
+   },
+   {
+      "name": "Pedro Afonso",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.20623000",
+      "longitude": "-47.97805000"
+   },
+   {
+      "name": "Peixe",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.99612000",
+      "longitude": "-48.53284000"
+   },
+   {
+      "name": "Pequizeiro",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.40977000",
+      "longitude": "-48.94148000"
+   },
+   {
+      "name": "Pindorama do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.13233000",
+      "longitude": "-47.56170000"
+   },
+   {
+      "name": "Piraquê",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.68862000",
+      "longitude": "-48.23711000"
+   },
+   {
+      "name": "Pium",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.07399000",
+      "longitude": "-49.69857000"
+   },
+   {
+      "name": "Ponte Alta do Bom Jesus",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.09696000",
+      "longitude": "-46.62629000"
+   },
+   {
+      "name": "Ponte Alta do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.78604000",
+      "longitude": "-47.18130000"
+   },
+   {
+      "name": "Porto Alegre do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.53239000",
+      "longitude": "-47.03453000"
+   },
+   {
+      "name": "Porto Nacional",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.52826000",
+      "longitude": "-48.47443000"
+   },
+   {
+      "name": "Praia Norte",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.46958000",
+      "longitude": "-47.79732000"
+   },
+   {
+      "name": "Presidente Kennedy",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.48264000",
+      "longitude": "-48.44075000"
+   },
+   {
+      "name": "Pugmil",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.42875000",
+      "longitude": "-48.85558000"
+   },
+   {
+      "name": "Recursolândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.66852000",
+      "longitude": "-47.07333000"
+   },
+   {
+      "name": "Riachinho",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.46034000",
+      "longitude": "-48.13618000"
+   },
+   {
+      "name": "Rio Sono",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.64479000",
+      "longitude": "-47.38387000"
+   },
+   {
+      "name": "Rio da Conceição",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.36815000",
+      "longitude": "-46.77445000"
+   },
+   {
+      "name": "Rio dos Bois",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.20901000",
+      "longitude": "-48.44308000"
+   },
+   {
+      "name": "Sampaio",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.36587000",
+      "longitude": "-47.91898000"
+   },
+   {
+      "name": "Sandolândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.40743000",
+      "longitude": "-49.85491000"
+   },
+   {
+      "name": "Santa Fé do Araguaia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-7.10746000",
+      "longitude": "-48.95580000"
+   },
+   {
+      "name": "Santa Maria do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.81566000",
+      "longitude": "-47.85337000"
+   },
+   {
+      "name": "Santa Rita do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.97360000",
+      "longitude": "-49.37112000"
+   },
+   {
+      "name": "Santa Rosa do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.38278000",
+      "longitude": "-48.07295000"
+   },
+   {
+      "name": "Santa Tereza do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.29980000",
+      "longitude": "-47.72597000"
+   },
+   {
+      "name": "Santa Terezinha do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.48040000",
+      "longitude": "-47.70055000"
+   },
+   {
+      "name": "Silvanópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.11343000",
+      "longitude": "-48.22341000"
+   },
+   {
+      "name": "Sucupira",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.01900000",
+      "longitude": "-48.84477000"
+   },
+   {
+      "name": "São Bento do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.95028000",
+      "longitude": "-47.99630000"
+   },
+   {
+      "name": "São Félix do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-10.06488000",
+      "longitude": "-46.72778000"
+   },
+   {
+      "name": "São Miguel do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.53458000",
+      "longitude": "-47.60820000"
+   },
+   {
+      "name": "São Salvador do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.54945000",
+      "longitude": "-48.40184000"
+   },
+   {
+      "name": "São Sebastião do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.25181000",
+      "longitude": "-48.34602000"
+   },
+   {
+      "name": "São Valério",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-11.86029000",
+      "longitude": "-48.13995000"
+   },
+   {
+      "name": "Sítio Novo do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-5.62990000",
+      "longitude": "-47.68644000"
+   },
+   {
+      "name": "Taguatinga",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.38568000",
+      "longitude": "-46.57110000"
+   },
+   {
+      "name": "Taipas do Tocantins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.15677000",
+      "longitude": "-47.03342000"
+   },
+   {
+      "name": "Talismã",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-12.67795000",
+      "longitude": "-49.07863000"
+   },
+   {
+      "name": "Tocantinópolis",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.26254000",
+      "longitude": "-47.55767000"
+   },
+   {
+      "name": "Tocantínia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-9.56440000",
+      "longitude": "-48.18709000"
+   },
+   {
+      "name": "Tupirama",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.91920000",
+      "longitude": "-48.27661000"
+   },
+   {
+      "name": "Tupiratins",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-8.38578000",
+      "longitude": "-48.22299000"
+   },
+   {
+      "name": "Wanderlândia",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.79803000",
+      "longitude": "-48.00415000"
+   },
+   {
+      "name": "Xambioá",
+      "countryCode": "BR",
+      "stateCode": "TO",
+      "latitude": "-6.59413000",
+      "longitude": "-48.43142000"
+   }
+]

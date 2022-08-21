@@ -1,0 +1,401 @@
+[
+   {
+      "name": "Abanilla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.20537000",
+      "longitude": "-1.04153000"
+   },
+   {
+      "name": "Abarán",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.20551000",
+      "longitude": "-1.39907000"
+   },
+   {
+      "name": "Albudeite",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.02895000",
+      "longitude": "-1.38664000"
+   },
+   {
+      "name": "Alcantarilla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.96939000",
+      "longitude": "-1.21714000"
+   },
+   {
+      "name": "Aledo",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.79341000",
+      "longitude": "-1.57356000"
+   },
+   {
+      "name": "Alguazas",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.05356000",
+      "longitude": "-1.25051000"
+   },
+   {
+      "name": "Alhama de Murcia",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.85103000",
+      "longitude": "-1.42507000"
+   },
+   {
+      "name": "Archena",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.11631000",
+      "longitude": "-1.30043000"
+   },
+   {
+      "name": "Atamaría",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.59989000",
+      "longitude": "-0.80682000"
+   },
+   {
+      "name": "Barrio de la Concepción",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.60000000",
+      "longitude": "-1.00000000"
+   },
+   {
+      "name": "Beniel",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.04636000",
+      "longitude": "-1.00233000"
+   },
+   {
+      "name": "Blanca",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.17910000",
+      "longitude": "-1.37473000"
+   },
+   {
+      "name": "Bullas",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.04667000",
+      "longitude": "-1.67227000"
+   },
+   {
+      "name": "Calasparra",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.22997000",
+      "longitude": "-1.69986000"
+   },
+   {
+      "name": "Campos del Río",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.03966000",
+      "longitude": "-1.35306000"
+   },
+   {
+      "name": "Caravaca",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.10558000",
+      "longitude": "-1.86343000"
+   },
+   {
+      "name": "Cartagena",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.60512000",
+      "longitude": "-0.98623000"
+   },
+   {
+      "name": "Cehegín",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.09242000",
+      "longitude": "-1.79850000"
+   },
+   {
+      "name": "Ceuti",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.07859000",
+      "longitude": "-1.27467000"
+   },
+   {
+      "name": "Cieza",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.23998000",
+      "longitude": "-1.41987000"
+   },
+   {
+      "name": "Cobatillas",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.05545000",
+      "longitude": "-1.07683000"
+   },
+   {
+      "name": "El Plan",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.65000000",
+      "longitude": "-1.01667000"
+   },
+   {
+      "name": "Esparragal",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.03333000",
+      "longitude": "-1.08333000"
+   },
+   {
+      "name": "Fortuna",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.18140000",
+      "longitude": "-1.12590000"
+   },
+   {
+      "name": "Fuente-Álamo de Murcia",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.72389000",
+      "longitude": "-1.16972000"
+   },
+   {
+      "name": "Jumilla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.47917000",
+      "longitude": "-1.32500000"
+   },
+   {
+      "name": "La Manga del Mar Menor",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.64129000",
+      "longitude": "-0.71651000"
+   },
+   {
+      "name": "La Torrecilla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.62363000",
+      "longitude": "-1.72785000"
+   },
+   {
+      "name": "La Unión",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.61915000",
+      "longitude": "-0.87799000"
+   },
+   {
+      "name": "Las Torres de Cotillas",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.02822000",
+      "longitude": "-1.24188000"
+   },
+   {
+      "name": "Librilla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.88642000",
+      "longitude": "-1.35557000"
+   },
+   {
+      "name": "Lo Pagán",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.81761000",
+      "longitude": "-0.78832000"
+   },
+   {
+      "name": "Lorca",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.67119000",
+      "longitude": "-1.70170000"
+   },
+   {
+      "name": "Lorquí",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.08261000",
+      "longitude": "-1.25103000"
+   },
+   {
+      "name": "Los Alcázares",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.74425000",
+      "longitude": "-0.85041000"
+   },
+   {
+      "name": "Los Gabatos",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.63333000",
+      "longitude": "-1.00000000"
+   },
+   {
+      "name": "Los Martínez",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.81841000",
+      "longitude": "-1.07880000"
+   },
+   {
+      "name": "Mazarrón",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.59920000",
+      "longitude": "-1.31493000"
+   },
+   {
+      "name": "Molina de Segura",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.05456000",
+      "longitude": "-1.20763000"
+   },
+   {
+      "name": "Moratalla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.18928000",
+      "longitude": "-1.89183000"
+   },
+   {
+      "name": "Mula",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.04095000",
+      "longitude": "-1.49014000"
+   },
+   {
+      "name": "Murcia",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.98662000",
+      "longitude": "-1.14146000"
+   },
+   {
+      "name": "Ojós",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.14700000",
+      "longitude": "-1.34261000"
+   },
+   {
+      "name": "Pliego",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.98946000",
+      "longitude": "-1.50444000"
+   },
+   {
+      "name": "Puerto Lumbreras",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.56329000",
+      "longitude": "-1.80974000"
+   },
+   {
+      "name": "Ricote",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.15338000",
+      "longitude": "-1.36557000"
+   },
+   {
+      "name": "San Javier",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.80626000",
+      "longitude": "-0.83736000"
+   },
+   {
+      "name": "San Pedro del Pinatar",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.83568000",
+      "longitude": "-0.79102000"
+   },
+   {
+      "name": "Sangonera la Verde",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.92862000",
+      "longitude": "-1.20794000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.02180000",
+      "longitude": "-1.05749000"
+   },
+   {
+      "name": "Santiago de la Ribera",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.79681000",
+      "longitude": "-0.80544000"
+   },
+   {
+      "name": "Santomera",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.06147000",
+      "longitude": "-1.04877000"
+   },
+   {
+      "name": "Torre-Pacheco",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.74293000",
+      "longitude": "-0.95396000"
+   },
+   {
+      "name": "Totana",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.76880000",
+      "longitude": "-1.50229000"
+   },
+   {
+      "name": "Ulea",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.14045000",
+      "longitude": "-1.33007000"
+   },
+   {
+      "name": "Yecla",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "38.61365000",
+      "longitude": "-1.11468000"
+   },
+   {
+      "name": "Águilas",
+      "countryCode": "ES",
+      "stateCode": "MC",
+      "latitude": "37.40630000",
+      "longitude": "-1.58289000"
+   }
+]

@@ -1,0 +1,882 @@
+[
+   {
+      "name": "Aleksandrów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Aleksandrów Łódzki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Andrespol",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bedlno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bełchatów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Biała Rawska",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Białaczów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bielawy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bobrowniki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bolesławiec",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Bolimów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Brzeziny",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Brzeźnio",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Brójce",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Brąszewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Buczek",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Budziszewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Burzenin",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Będków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Błaszki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Chąśno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Cielądz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Czarnocin",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Czarnożyły",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Czastary",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Czerniewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Dalików",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Daszyna",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Dmosin",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Dobroń",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Domaniewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Drużbice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Drzewica",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Działoszyn",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Dąbrowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Dłutów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Galewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Gałków Mały",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Gidle",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Godzianów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Gomunice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Gorzkowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Goszczanów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Grabica",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Grabów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Góra Świętej Małgorzaty",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Głowno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Głuchów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Inowłódz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Jeżów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kamieńsk",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kawęczyn Nowy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kiernozia",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kleszczów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Klonowa",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kluki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kocierzew Południowy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Koluszki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Konstantynów Łódzki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kowiesy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Krośniewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Krzyżanów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ksawerów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Kutno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Lgota Wielka",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Lipce Reymontowskie",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Lubochnia",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Lutomiersk",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Lututów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Maków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Mniszków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Mokrsko",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Moszczenica",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Nieborów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Nowe Ostrowy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Opoczno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Oporów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Osjaków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ostrowy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ozorków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ożarów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Pabianice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Pajęczno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Paradyż",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Parzęczew",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Piotrków Trybunalski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Piątek",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Poddębice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat bełchatowski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat brzeziński",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat kutnowski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat opoczyński",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat pabianicki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat pajęczański",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat piotrkowski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat poddębicki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat radomszczański",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat rawski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat sieradzki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat skierniewicki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat tomaszowski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat wieluński",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat wieruszowski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat zduńskowolski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat zgierski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat łaski",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat łódzki wschodni",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Powiat łęczycki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Poświętne",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Przedbórz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Pątnów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Pęczniew",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Pławno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Radomsko",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rawa Mazowiecka",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Regnów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rogów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rokiciny",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rokiciny-Kolonia",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rozprza",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rusiec",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rzeczyca",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Rzgów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ręczno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sadkowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Siemkowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sieradz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Skierniewice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Skomlin",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sokolniki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Starowa Góra",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Stryków",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Strzelce",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Strzelce Wielkie",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sulejów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sulmierzyce",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Szadek",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Szczerców",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sędziejowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Sławno",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Słupia",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Tomaszów Mazowiecki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Tuszyn",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Ujazd",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Uniejów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Walichnowy",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Warta",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wartkowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Widawa",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wieluń",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wieruszów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wierzchlas",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Witonia",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wodzierady",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wola Krzysztoporska",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wolbórz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Wróblew",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Zadzim",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Zapolice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Zduńska Wola",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Zelów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Zgierz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Złoczew",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "powiat Łowicki",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łanięta",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łask",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łowicz",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łubnice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łyszkowice",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łódź",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łęczyca",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Łęki Szlacheckie",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Świnice Warckie",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Żarnów",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Żelechlinek",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   },
+   {
+      "name": "Żychlin",
+      "countryCode": "PL",
+      "stateCode": "LD"
+   }
+]
