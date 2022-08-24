@@ -4,7 +4,7 @@
   "description": "Library for fetching Country, its States and Cities",
   "main": "./lib/cjs/index.js",
   "module": "./lib/index.js",
-  "types": "dist/index.d.ts",
+  "types": "./lib/index.d.ts",
   "sideEffects": false,
   "scripts": {
     "test": "jest",
