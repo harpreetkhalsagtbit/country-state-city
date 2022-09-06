@@ -9,6 +9,14 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 # Install
 `npm i country-state-city`
 
+# Demos - Tree Shaking
+1. Next.js
+	- [Repo Link](https://github.com/harpreetkhalsagtbit/next-js-country-state-city-tree-shake-demo)
+	- [Demo](https://next-js-country-state-city-tree-shake-demo.vercel.app) (production build)
+3. React.js
+	- [Repo Link](https://github.com/harpreetkhalsagtbit/react-js-country-state-city-tree-shake-demo)
+	- [Demo](https://react-js-country-state-city-tree-shake-demo.vercel.app) (production build)
+
 # Release Info & Documentation
 1. [Release v3.1.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v310)
     1. [Overview](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#overview)
