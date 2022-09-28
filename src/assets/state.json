@@ -34746,5 +34746,47 @@
       "countryCode": "MC",
       "latitude": "43.73649270",
       "longitude": "7.41533830"
+   },
+   {
+      "name": "Grand Turk",
+      "isoCode": "05",
+      "countryCode": "TC",
+      "latitude": "21.472222",
+      "longitude": "-71.138889"
+   },
+   {
+      "name": "Middle Caicos",
+      "isoCode": "03",
+      "countryCode": "TC",
+      "latitude": "21.788192",
+      "longitude": "-71.734542"
+   },
+   {
+      "name": "North Caicos",
+      "isoCode": "02",
+      "countryCode": "TC",
+      "latitude": "21.891389",
+      "longitude": "-71.946111"
+   },
+   {
+      "name": "Providenciales and West Caicos",
+      "isoCode": "01",
+      "countryCode": "TC",
+      "latitude": "21.7775",
+      "longitude": "-72.262222"
+   },
+   {
+      "name": "Salt Cay",
+      "isoCode": "06",
+      "countryCode": "TC",
+      "latitude": "21.325",
+      "longitude": "-71.208333"
+   },
+   {
+      "name": "South Caicos and East Caicos",
+      "isoCode": "04",
+      "countryCode": "TC",
+      "latitude": "21.509444",
+      "longitude": "-71.517778"
    }
 ]
