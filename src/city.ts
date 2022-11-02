@@ -3,12 +3,12 @@ import { compare } from './utils';
 import { ICity } from './interface';
 
 // Get a list of all cities.
-function getAllCities() {
+export function getAllCities() {
 	return cityList;
 }
 
 // Get a list of cities belonging to a specific state and country.
-function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
+export function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
@@ -20,7 +20,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 }
 
 // Get a list of cities belonging to a specific country.
-function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
+export function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
 	const cities = cityList.filter((value: { countryCode: string }) => {
