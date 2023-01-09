@@ -105,7 +105,7 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 
 # Docs
 
-City.getCountryByCode(countryCode)
+Country.getCountryByCode(countryCode)
 ---------------
 
 It accepts a valid `CountryCode` eg: `'AS'` and   returns *Country Details*
