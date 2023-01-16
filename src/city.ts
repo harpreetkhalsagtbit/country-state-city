@@ -29,8 +29,19 @@ function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	return cities.sort(compare);
 }
 
+function sortByStateAndName(cities: ICity[]): ICity[] {
+	return cities.sort((a, b) => {
+		const result = compare<ICity>(a, b, (entity) => {
+			return `${entity.countryCode}-${entity.stateCode}`;
+		});
+		if (result !== 0) return result;
+		return compare(a, b);
+	});
+}
+
 export default {
 	getAllCities,
 	getCitiesOfState,
 	getCitiesOfCountry,
+	sortByStateAndName,
 };
