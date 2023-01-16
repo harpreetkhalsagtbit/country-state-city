@@ -12,7 +12,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string; stateCode: string }) => {
+	const cities = (cityList as ICity[]).filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
 
@@ -23,7 +23,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string }) => {
+	const cities = (cityList as ICity[]).filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
 	return cities.sort(compare);
