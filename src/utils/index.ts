@@ -1,3 +1,5 @@
+import { ICountry, IState, ICity } from '../interface';
+
 export const findEntryByCode = (source: any, code: string) => {
 	if (code && source != null) {
 		const codex = source.findIndex((c: any) => {
@@ -17,8 +19,18 @@ export const findStateByCodeAndCountryCode = (source: any, code: string, country
 	}
 	return undefined;
 };
-export const compare = (a: any, b: any) => {
-	if (a.name < b.name) return -1;
-	if (a.name > b.name) return 1;
+
+export function defaultKeyToCompare<T extends ICountry | IState | ICity>(entity: T) {
+	return entity.name;
+}
+
+export const compare = <T extends ICountry | IState | ICity>(
+	a: T,
+	b: T,
+	// eslint-disable-next-line no-unused-vars
+	keyToCompare: (entity: T) => string = defaultKeyToCompare,
+) => {
+	if (keyToCompare(a) < keyToCompare(b)) return -1;
+	if (keyToCompare(a) > keyToCompare(b)) return 1;
 	return 0;
 };

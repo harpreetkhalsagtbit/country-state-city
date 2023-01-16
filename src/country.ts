@@ -1,5 +1,5 @@
 import countryList from './assets/country.json';
-import { findEntryByCode } from './utils';
+import { compare, findEntryByCode } from './utils';
 import { ICountry } from './interface';
 
 // Get a country by isoCode.
@@ -14,7 +14,16 @@ function getAllCountries(): ICountry[] {
 	return countryList;
 }
 
+function sortByIsoCode(countries: ICountry[]): ICountry[] {
+	return countries.sort((a, b) => {
+		return compare<ICountry>(a, b, (entity) => {
+			return entity.isoCode;
+		});
+	});
+}
+
 export default {
 	getCountryByCode,
 	getAllCountries,
+	sortByIsoCode,
 };

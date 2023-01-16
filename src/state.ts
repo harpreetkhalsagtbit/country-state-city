@@ -34,9 +34,19 @@ export function getStateByCode(isoCode: string): IState | undefined {
 
 	return findEntryByCode(stateList, isoCode);
 }
+
+function sortByIsoCode(countries: IState[]): IState[] {
+	return countries.sort((a, b) => {
+		return compare<IState>(a, b, (entity) => {
+			return `${entity.countryCode}-${entity.isoCode}`;
+		});
+	});
+}
+
 export default {
 	getAllStates,
 	getStatesOfCountry,
 	getStateByCodeAndCountry,
 	getStateByCode,
+	sortByIsoCode,
 };
