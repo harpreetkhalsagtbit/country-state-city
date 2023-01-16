@@ -1,82 +1,82 @@
 [
-   {
-      "name": "Schleswig-Holstein",
-      "isoCode": "SH",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Baden-Württemberg",
-      "isoCode": "BW",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Mecklenburg-Vorpommern",
-      "isoCode": "MV",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Lower Saxony",
-      "isoCode": "NI",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Bavaria",
-      "isoCode": "BY",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Berlin",
-      "isoCode": "BE",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Saxony-Anhalt",
-      "isoCode": "ST",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Brandenburg",
-      "isoCode": "BB",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Bremen",
-      "isoCode": "HB",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Thuringia",
-      "isoCode": "TH",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Hamburg",
-      "isoCode": "HH",
-      "countryCode": "DE"
-   },
-   {
-      "name": "North Rhine-Westphalia",
-      "isoCode": "NW",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Hesse",
-      "isoCode": "HE",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Rhineland-Palatinate",
-      "isoCode": "RP",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Saarland",
-      "isoCode": "SL",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Saxony",
-      "isoCode": "SN",
-      "countryCode": "DE"
-   }
+	{
+		"name": "Schleswig-Holstein",
+		"isoCode": "SH",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Baden-Württemberg",
+		"isoCode": "BW",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Mecklenburg-Vorpommern",
+		"isoCode": "MV",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Lower Saxony",
+		"isoCode": "NI",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Bayern",
+		"isoCode": "BY",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Berlin",
+		"isoCode": "BE",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Saxony-Anhalt",
+		"isoCode": "ST",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Brandenburg",
+		"isoCode": "BB",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Bremen",
+		"isoCode": "HB",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Thuringia",
+		"isoCode": "TH",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Hamburg",
+		"isoCode": "HH",
+		"countryCode": "DE"
+	},
+	{
+		"name": "North Rhine-Westphalia",
+		"isoCode": "NW",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Hesse",
+		"isoCode": "HE",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Rhineland-Palatinate",
+		"isoCode": "RP",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Saarland",
+		"isoCode": "SL",
+		"countryCode": "DE"
+	},
+	{
+		"name": "Saxony",
+		"isoCode": "SN",
+		"countryCode": "DE"
+	}
 ]
