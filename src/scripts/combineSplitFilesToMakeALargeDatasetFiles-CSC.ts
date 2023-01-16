@@ -1,13 +1,17 @@
 // Combine all the split files to one Country, State, City file
+/* eslint-disable no-console */
+import assert from 'assert';
 import fs from 'fs';
 import path from 'path';
+import { ICountry, IState, ICity } from '../interface';
+import { State, City } from '../index';
 
 const PATH_TO_DATA_FOLDER = '../../data';
 
 /**
  * Country
  */
-const allCountries: any[] = [];
+const allCountries: ICountry[] = [];
 
 const main = JSON.parse(fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allCountries.json'), 'utf-8'));
 const lite = JSON.parse(fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allCountries.lite.json'), 'utf-8'));
@@ -24,58 +28,104 @@ main.map((item: any, index: number) => {
 
 fs.writeFileSync(path.join(__dirname, '../', 'assets/country.json'), JSON.stringify(allCountries, null, 3));
 
+const countryMetas: { [Property: string]: { countryPath: string } } = allCountries.reduce((accumulator, country) => {
+	accumulator[country.isoCode] = { countryPath: `${country.name.replace(/\W/g, '_')}-${country.isoCode}` };
+	return accumulator;
+}, {} as { [Property: string]: { countryPath: string } });
+
 /**
  * State
  */
-const allStates: any[] = [];
-const alStatesNestedLite = JSON.parse(
-	fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allStatesNested.lite.json'), 'utf-8'),
-);
-const alStatesNestedGeo = JSON.parse(
-	fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allStatesNested.geo.json'), 'utf-8'),
-);
+const allStates: IState[] = [];
+allCountries.forEach((country) => {
+	process.stdout.write(`Combining ${country.name}-${country.isoCode}...`);
+	const allStatesLite = new Map<string, IState>();
+	const allStatesGeo = new Map<string, IState>();
+	try {
+		const { countryPath } = countryMetas[country.isoCode]; // `${country.name.replace(/\W/g, '_')}-${country.isoCode}`;
+		(JSON.parse(
+			fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.lite.json'), 'utf-8'),
+		) as IState[]).reduce((accumulator, item) => {
+			accumulator.set(item.isoCode, item);
+			return accumulator;
+		}, allStatesLite);
 
-Object.keys(alStatesNestedLite).map((key) => {
-	alStatesNestedLite[key].map((item: any, index: number) => {
-		const combine = { ...item, ...alStatesNestedGeo[key][index] };
-		allStates.push(combine);
-		return item;
-	});
-	return key;
+		(JSON.parse(
+			fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.geo.json'), 'utf-8'),
+		) as IState[]).reduce((accumulator, item) => {
+			accumulator.set(item.isoCode, item);
+			return accumulator;
+		}, allStatesGeo);
+
+		[...allStatesLite.keys()].forEach((key) => {
+			assert(allStatesGeo.get(key));
+			const combine: IState = { ...allStatesLite.get(key)!, ...allStatesGeo.get(key)! };
+			allStates.push(combine);
+		});
+	} catch (error) {
+		process.stdout.write(` ${error.message}\n`);
+	} finally {
+		process.stdout.write(`\rCombined ${country.name}-${country.isoCode}: ${allStatesLite.size} Cities\n`);
+	}
 });
 
-fs.writeFileSync(path.join(__dirname, '../', 'assets/state.json'), JSON.stringify(allStates, null, 3));
+fs.writeFileSync(
+	path.join(__dirname, '../', 'assets/state.json'),
+	JSON.stringify(State.sortByIsoCode(allStates), null, 3),
+);
 
-// "Andorra-AD": {
-// 	"Andorra_la_Vella-07": [
-// 	   {
-// 		  "name": "Andorra la Vella",
-// 		  "countryCode": "AD",
-// 		  "stateCode": "07"
-// 	   }
-// 	],
+const stateMetas: { [Property: string]: { stateSubPath: string } } = allStates.reduce((accumulator, state) => {
+	accumulator[`${state.countryCode}-${state.isoCode}`] = {
+		stateSubPath: `${state.name.replace(/\W/g, '_')}-${state.isoCode}`,
+	};
+	return accumulator;
+}, {} as { [Property: string]: { stateSubPath: string } });
 
 /**
  * City
  */
-const allCitiesNestedLite = JSON.parse(
-	fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allCitiesNested.lite.json'), 'utf-8'),
-);
-const allCitiesNestedGeo = JSON.parse(
-	fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, '/allCitiesNested.geo.json'), 'utf-8'),
-);
+const allCities: ICity[] = [];
+allStates.forEach((state) => {
+	process.stdout.write(`Combining ${state.countryCode}-${state.isoCode}...`);
+	const { countryPath } = countryMetas[state.countryCode]; // `${country.name.replace(/\W/g, '_')}-${country.isoCode}`;
+	const { stateSubPath } = stateMetas[`${state.countryCode}-${state.isoCode}`]; // `${country.name.replace(/\W/g, '_')}-${country.isoCode}`;
 
-const allCities: any[] = [];
-Object.keys(allCitiesNestedLite).map((stateKey) => {
-	Object.keys(allCitiesNestedLite[stateKey]).map((cityKey) => {
-		allCitiesNestedLite[stateKey][cityKey].map((item: any, index: number) => {
-			const combine = { ...item, ...allCitiesNestedGeo[stateKey][cityKey][index] };
+	const allCitiesLite: Map<string, ICity> = new Map();
+	const allCitiesGeo: Map<string, ICity> = new Map();
+	try {
+		(JSON.parse(
+			fs.readFileSync(
+				path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.lite.json'),
+				'utf-8',
+			),
+		) as ICity[]).reduce((accumulator, item) => {
+			accumulator.set(item.name, item);
+			return accumulator;
+		}, allCitiesLite);
+
+		(JSON.parse(
+			fs.readFileSync(
+				path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.geo.json'),
+				'utf-8',
+			),
+		) as ICity[]).reduce((accumulator, item) => {
+			accumulator.set(item.name, item);
+			return accumulator;
+		}, allCitiesGeo);
+
+		[...allCitiesLite.keys()].forEach((key) => {
+			assert(allCitiesGeo.get(key));
+			const combine: ICity = { ...allCitiesLite.get(key)!, ...allCitiesGeo.get(key)! };
 			allCities.push(combine);
-			return item;
 		});
-		return cityKey;
-	});
-	return stateKey;
+	} catch (error) {
+		process.stdout.write(` ${error.message}\n`);
+	} finally {
+		process.stdout.write(`\rCombined ${state.countryCode}-${state.isoCode}: ${allCitiesLite.size} States\n`);
+	}
 });
 
-fs.writeFileSync(path.join(__dirname, '../', 'assets/city.json'), JSON.stringify(allCities, null, 3));
+fs.writeFileSync(
+	path.join(__dirname, '../', 'assets/city.json'),
+	JSON.stringify(City.sortByStateAndName(allCities), null, 3),
+);
