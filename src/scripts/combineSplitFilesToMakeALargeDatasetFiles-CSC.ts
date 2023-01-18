@@ -26,7 +26,7 @@ main.map((item: any, index: number) => {
 	return item;
 });
 
-fs.writeFileSync(path.join(__dirname, '../', 'assets/country.json'), JSON.stringify(allCountries, null, 3));
+fs.writeFileSync(path.join(__dirname, '../', 'assets/allCountryNew.json'), JSON.stringify(allCountries, null, 3));
 
 const countryMetas: { [Property: string]: { countryPath: string } } = allCountries.reduce((accumulator, country) => {
 	accumulator[country.isoCode] = { countryPath: `${country.name.replace(/\W/g, '_')}-${country.isoCode}` };
@@ -70,7 +70,7 @@ allCountries.forEach((country) => {
 });
 
 fs.writeFileSync(
-	path.join(__dirname, '../', 'assets/state.json'),
+	path.join(__dirname, '../', 'assets/allStatesNew.json'),
 	JSON.stringify(State.sortByIsoCode(allStates), null, 3),
 );
 
@@ -126,6 +126,6 @@ allStates.forEach((state) => {
 });
 
 fs.writeFileSync(
-	path.join(__dirname, '../', 'assets/city.json'),
+	path.join(__dirname, '../', 'assets/allCitiesNew.json'),
 	JSON.stringify(City.sortByStateAndName(allCities), null, 3),
 );
