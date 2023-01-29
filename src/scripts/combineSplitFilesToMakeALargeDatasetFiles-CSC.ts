@@ -3,6 +3,8 @@
 import assert from 'assert';
 import fs from 'fs';
 import path from 'path';
+import { promisify } from 'util';
+import { deflate } from 'zlib';
 import { ICountry, IState, ICity } from '../interface';
 import { State, City } from '../index';
 
@@ -129,3 +131,16 @@ fs.writeFileSync(
 	path.join(__dirname, '../', 'assets/allCitiesNew.json'),
 	JSON.stringify(City.sortByStateAndName(allCities), null, 3),
 );
+
+const deflatePromise = promisify(deflate);
+deflatePromise(JSON.stringify(allCountries, null, 3)).then((zipped) => {
+	fs.writeFileSync(path.join(__dirname, '../', 'assets/country.gz'), zipped);
+});
+
+deflatePromise(JSON.stringify(allStates, null, 3)).then((zipped) => {
+	fs.writeFileSync(path.join(__dirname, '../', 'assets/states.gz'), zipped);
+});
+
+deflatePromise(JSON.stringify(allCities, null, 3)).then((zipped) => {
+	fs.writeFileSync(path.join(__dirname, '../', 'assets/cities.gz'), zipped);
+});
