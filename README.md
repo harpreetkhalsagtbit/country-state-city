@@ -56,7 +56,6 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 6. **Deleting - Country, State, City** - remove the necessary files/folder - update the necessary files and raise the PR or simply share the updated JSONs in an issue with a proper and up to date reference.
 7. Queries/Issues related to wrong data must be provided with some references.
 8. For any **Geo-Political** related **queries, border conflicts** - things will be updated when multiple proper references has been provided.
-9. Please follow this [guidelines]()
 
 ## Data updation guide
 Please follow this [guidelines](/dataUpdateGuide.md)
