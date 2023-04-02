@@ -50,12 +50,16 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 
 ## How to contribute to Country, State, City Database, request changes and report issue?
 1. **Code change** - make the necessary change, raise the PR.
-2. **Data changes** - Database is in `data` folder in the root.
+2. **Data changes** - Database is in `data` folder in the root. Please follow this [guidelines](/dataUpdateGuide.md).
 3. **Update**: Add the necessary changes in the particular files with proper structure and format and then raise the PR.
 4. **Add New - Country, State, City** - follow the proper folder structure and raise the P.R or simply share the JSONs in an issue with proper and up to date reference.  
 6. **Deleting - Country, State, City** - remove the necessary files/folder - update the necessary files and raise the PR or simply share the updated JSONs in an issue with a proper and up to date reference.
 7. Queries/Issues related to wrong data must be provided with some references.
 8. For any **Geo-Political** related **queries, border conflicts** - things will be updated when multiple proper references has been provided.
+9. Please follow this [guidelines]()
+
+## Data updation guide
+Please follow this [guidelines](/dataUpdateGuide.md)
 
 ## How Data will be Released finally?
 1. After the changes gets merged, a script will be run to combine all the data in a separate but single file for each Country, State, City as we have earlier without affecting out library functions and only those three files are passed to the build code and then it gets released.
