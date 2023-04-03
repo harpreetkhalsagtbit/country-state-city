@@ -45,16 +45,20 @@ allCountries.forEach((country) => {
 	const allStatesGeo = new Map<string, IState>();
 	try {
 		const { countryPath } = countryMetas[country.isoCode]; // `${country.name.replace(/\W/g, '_')}-${country.isoCode}`;
-		(JSON.parse(
-			fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.lite.json'), 'utf-8'),
-		) as IState[]).reduce((accumulator, item) => {
+		(
+			JSON.parse(
+				fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.lite.json'), 'utf-8'),
+			) as IState[]
+		).reduce((accumulator, item) => {
 			accumulator.set(item.isoCode, item);
 			return accumulator;
 		}, allStatesLite);
 
-		(JSON.parse(
-			fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.geo.json'), 'utf-8'),
-		) as IState[]).reduce((accumulator, item) => {
+		(
+			JSON.parse(
+				fs.readFileSync(path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, 'allStates.geo.json'), 'utf-8'),
+			) as IState[]
+		).reduce((accumulator, item) => {
 			accumulator.set(item.isoCode, item);
 			return accumulator;
 		}, allStatesGeo);
@@ -95,22 +99,26 @@ allStates.forEach((state) => {
 	const allCitiesLite: Map<string, ICity> = new Map();
 	const allCitiesGeo: Map<string, ICity> = new Map();
 	try {
-		(JSON.parse(
-			fs.readFileSync(
-				path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.lite.json'),
-				'utf-8',
-			),
-		) as ICity[]).reduce((accumulator, item) => {
+		(
+			JSON.parse(
+				fs.readFileSync(
+					path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.lite.json'),
+					'utf-8',
+				),
+			) as ICity[]
+		).reduce((accumulator, item) => {
 			accumulator.set(item.name, item);
 			return accumulator;
 		}, allCitiesLite);
 
-		(JSON.parse(
-			fs.readFileSync(
-				path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.geo.json'),
-				'utf-8',
-			),
-		) as ICity[]).reduce((accumulator, item) => {
+		(
+			JSON.parse(
+				fs.readFileSync(
+					path.join(__dirname, PATH_TO_DATA_FOLDER, countryPath, stateSubPath, 'allCities.geo.json'),
+					'utf-8',
+				),
+			) as ICity[]
+		).reduce((accumulator, item) => {
 			accumulator.set(item.name, item);
 			return accumulator;
 		}, allCitiesGeo);
