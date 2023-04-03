@@ -69,7 +69,7 @@ allCountries.forEach((country) => {
 			allStates.push(combine);
 		});
 	} catch (error) {
-		process.stdout.write(` ${error.message}\n`);
+		process.stderr.write(` ${error.message}\n`);
 	} finally {
 		process.stdout.write(`\rCombined ${country.name}-${country.isoCode}: ${allStatesLite.size} Cities\n`);
 	}
@@ -129,7 +129,7 @@ allStates.forEach((state) => {
 			allCities.push(combine);
 		});
 	} catch (error) {
-		process.stdout.write(` ${error.message}\n`);
+		process.stderr.write(` ${error.message}\n`);
 	} finally {
 		process.stdout.write(`\rCombined ${state.countryCode}-${state.isoCode}: ${allCitiesLite.size} States\n`);
 	}
