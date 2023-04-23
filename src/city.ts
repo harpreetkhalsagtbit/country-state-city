@@ -12,7 +12,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string; stateCode: string }) => {
+	const cities = (cityList as ICity[]).filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
 
@@ -23,14 +23,25 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
-	const cities = cityList.filter((value: { countryCode: string }) => {
+	const cities = (cityList as ICity[]).filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
 	return cities.sort(compare);
+}
+
+function sortByStateAndName(cities: ICity[]): ICity[] {
+	return cities.sort((a, b) => {
+		const result = compare<ICity>(a, b, (entity) => {
+			return `${entity.countryCode}-${entity.stateCode}`;
+		});
+		if (result !== 0) return result;
+		return compare(a, b);
+	});
 }
 
 export default {
 	getAllCities,
 	getCitiesOfState,
 	getCitiesOfCountry,
+	sortByStateAndName,
 };
