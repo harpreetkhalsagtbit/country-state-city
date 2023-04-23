@@ -55,6 +55,11 @@
       "stateCode": "CAU"
    },
    {
+      "name": "Guachené",
+      "countryCode": "CO",
+      "stateCode": "CAU"
+   },
+   {
       "name": "Guapi",
       "countryCode": "CO",
       "stateCode": "CAU"
@@ -105,12 +110,12 @@
       "stateCode": "CAU"
    },
    {
-      "name": "Páez",
+      "name": "Patía",
       "countryCode": "CO",
       "stateCode": "CAU"
    },
    {
-      "name": "Patía",
+      "name": "Piamonte",
       "countryCode": "CO",
       "stateCode": "CAU"
    },
@@ -135,12 +140,22 @@
       "stateCode": "CAU"
    },
    {
+      "name": "Páez",
+      "countryCode": "CO",
+      "stateCode": "CAU"
+   },
+   {
       "name": "Rosas",
       "countryCode": "CO",
       "stateCode": "CAU"
    },
    {
       "name": "San Sebastián",
+      "countryCode": "CO",
+      "stateCode": "CAU"
+   },
+   {
+      "name": "Santa Rosa",
       "countryCode": "CO",
       "stateCode": "CAU"
    },
@@ -175,6 +190,11 @@
       "stateCode": "CAU"
    },
    {
+      "name": "Timbío",
+      "countryCode": "CO",
+      "stateCode": "CAU"
+   },
+   {
       "name": "Toribio",
       "countryCode": "CO",
       "stateCode": "CAU"
@@ -186,26 +206,6 @@
    },
    {
       "name": "Villa Rica",
-      "countryCode": "CO",
-      "stateCode": "CAU"
-   },
-   {
-      "name": "Guachené",
-      "countryCode": "CO",
-      "stateCode": "CAU"
-   },
-   {
-      "name": "Piamonte",
-      "countryCode": "CO",
-      "stateCode": "CAU"
-   },
-   {
-      "name": "Santa Rosa",
-      "countryCode": "CO",
-      "stateCode": "CAU"
-   },
-   {
-      "name": "Timbío",
       "countryCode": "CO",
       "stateCode": "CAU"
    }

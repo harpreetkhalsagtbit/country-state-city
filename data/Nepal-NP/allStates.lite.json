@@ -1,5 +1,10 @@
 [
    {
+      "name": "Central Region",
+      "isoCode": "1",
+      "countryCode": "NP"
+   },
+   {
       "name": "Mid-Western Region",
       "isoCode": "2",
       "countryCode": "NP"
@@ -10,63 +15,23 @@
       "countryCode": "NP"
    },
    {
-      "name": "Far-Western Development Region",
-      "isoCode": "5",
-      "countryCode": "NP"
-   },
-   {
       "name": "Eastern Development Region",
       "isoCode": "4",
       "countryCode": "NP"
    },
    {
-      "name": "Mechi Zone",
-      "isoCode": "ME",
+      "name": "Far-Western Development Region",
+      "isoCode": "5",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Bagmati Zone",
+      "isoCode": "BA",
       "countryCode": "NP"
    },
    {
       "name": "Bheri Zone",
       "isoCode": "BH",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Kosi Zone",
-      "isoCode": "KO",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Central Region",
-      "isoCode": "1",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Lumbini Zone",
-      "isoCode": "LU",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Narayani Zone",
-      "isoCode": "NA",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Janakpur Zone",
-      "isoCode": "JA",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Rapti Zone",
-      "isoCode": "RA",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Seti Zone",
-      "isoCode": "SE",
-      "countryCode": "NP"
-   },
-   {
-      "name": "Karnali Zone",
-      "isoCode": "KA",
       "countryCode": "NP"
    },
    {
@@ -80,8 +45,23 @@
       "countryCode": "NP"
    },
    {
-      "name": "Bagmati Zone",
-      "isoCode": "BA",
+      "name": "Janakpur Zone",
+      "isoCode": "JA",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Karnali Zone",
+      "isoCode": "KA",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Kosi Zone",
+      "isoCode": "KO",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Lumbini Zone",
+      "isoCode": "LU",
       "countryCode": "NP"
    },
    {
@@ -90,8 +70,28 @@
       "countryCode": "NP"
    },
    {
+      "name": "Mechi Zone",
+      "isoCode": "ME",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Narayani Zone",
+      "isoCode": "NA",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Rapti Zone",
+      "isoCode": "RA",
+      "countryCode": "NP"
+   },
+   {
       "name": "Sagarmatha Zone",
       "isoCode": "SA",
+      "countryCode": "NP"
+   },
+   {
+      "name": "Seti Zone",
+      "isoCode": "SE",
       "countryCode": "NP"
    }
 ]

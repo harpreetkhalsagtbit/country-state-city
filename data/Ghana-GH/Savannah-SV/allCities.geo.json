@@ -14,13 +14,6 @@
       "longitude": "-1.95369720"
    },
    {
-      "name": "North Gonja",
-      "countryCode": "GH",
-      "stateCode": "SV",
-      "latitude": "9.54130850",
-      "longitude": "-1.39766920"
-   },
-   {
       "name": "East Gonja",
       "countryCode": "GH",
       "stateCode": "SV",
@@ -33,6 +26,13 @@
       "stateCode": "SV",
       "latitude": "9.11746690",
       "longitude": "-0.55579360"
+   },
+   {
+      "name": "North Gonja",
+      "countryCode": "GH",
+      "stateCode": "SV",
+      "latitude": "9.54130850",
+      "longitude": "-1.39766920"
    },
    {
       "name": "Sawla-Tuna-Kalba",

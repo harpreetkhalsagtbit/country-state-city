@@ -1,37 +1,12 @@
 [
    {
-      "name": "Northland Region",
-      "isoCode": "NTL",
+      "name": "Auckland Region",
+      "isoCode": "AUK",
       "countryCode": "NZ"
    },
    {
-      "name": "Manawatu-Wanganui Region",
-      "isoCode": "MWT",
-      "countryCode": "NZ"
-   },
-   {
-      "name": "Waikato Region",
-      "isoCode": "WKO",
-      "countryCode": "NZ"
-   },
-   {
-      "name": "Otago Region",
-      "isoCode": "OTA",
-      "countryCode": "NZ"
-   },
-   {
-      "name": "Marlborough Region",
-      "isoCode": "MBH",
-      "countryCode": "NZ"
-   },
-   {
-      "name": "West Coast Region",
-      "isoCode": "WTC",
-      "countryCode": "NZ"
-   },
-   {
-      "name": "Wellington Region",
-      "isoCode": "WGN",
+      "name": "Bay of Plenty Region",
+      "isoCode": "BOP",
       "countryCode": "NZ"
    },
    {
@@ -50,8 +25,18 @@
       "countryCode": "NZ"
    },
    {
-      "name": "Taranaki Region",
-      "isoCode": "TKI",
+      "name": "Hawke's Bay Region",
+      "isoCode": "HKB",
+      "countryCode": "NZ"
+   },
+   {
+      "name": "Marlborough Region",
+      "isoCode": "MBH",
+      "countryCode": "NZ"
+   },
+   {
+      "name": "Manawatu-Wanganui Region",
+      "isoCode": "MWT",
       "countryCode": "NZ"
    },
    {
@@ -60,13 +45,18 @@
       "countryCode": "NZ"
    },
    {
-      "name": "Southland Region",
-      "isoCode": "STL",
+      "name": "Northland Region",
+      "isoCode": "NTL",
       "countryCode": "NZ"
    },
    {
-      "name": "Auckland Region",
-      "isoCode": "AUK",
+      "name": "Otago Region",
+      "isoCode": "OTA",
+      "countryCode": "NZ"
+   },
+   {
+      "name": "Southland Region",
+      "isoCode": "STL",
       "countryCode": "NZ"
    },
    {
@@ -75,13 +65,23 @@
       "countryCode": "NZ"
    },
    {
-      "name": "Bay of Plenty Region",
-      "isoCode": "BOP",
+      "name": "Taranaki Region",
+      "isoCode": "TKI",
       "countryCode": "NZ"
    },
    {
-      "name": "Hawke's Bay Region",
-      "isoCode": "HKB",
+      "name": "Wellington Region",
+      "isoCode": "WGN",
+      "countryCode": "NZ"
+   },
+   {
+      "name": "Waikato Region",
+      "isoCode": "WKO",
+      "countryCode": "NZ"
+   },
+   {
+      "name": "West Coast Region",
+      "isoCode": "WTC",
       "countryCode": "NZ"
    }
 ]

@@ -28,7 +28,7 @@ main.map((item: any, index: number) => {
 	return item;
 });
 
-fs.writeFileSync(path.join(__dirname, '../', 'assets/allCountryNew.json'), JSON.stringify(allCountries, null, 3));
+fs.writeFileSync(path.join(__dirname, '../', 'assets/country.json'), JSON.stringify(allCountries, null, 3));
 
 const countryMetas: { [Property: string]: { countryPath: string } } = allCountries.reduce((accumulator, country) => {
 	accumulator[country.isoCode] = { countryPath: `${country.name.replace(/\W/g, '_')}-${country.isoCode}` };
@@ -69,14 +69,19 @@ allCountries.forEach((country) => {
 			allStates.push(combine);
 		});
 	} catch (error) {
-		process.stderr.write(` ${error.message}\n`);
+		if (error instanceof Error) {
+			// ✅ TypeScript knows err is Error console.log(error.message);
+			process.stderr.write(` ${error.message}\n`);
+		} else {
+			console.log('Unexpected error', error);
+		}
 	} finally {
 		process.stdout.write(`\rCombined ${country.name}-${country.isoCode}: ${allStatesLite.size} Cities\n`);
 	}
 });
 
 fs.writeFileSync(
-	path.join(__dirname, '../', 'assets/allStatesNew.json'),
+	path.join(__dirname, '../', 'assets/state.json'),
 	JSON.stringify(State.sortByIsoCode(allStates), null, 3),
 );
 
@@ -129,26 +134,32 @@ allStates.forEach((state) => {
 			allCities.push(combine);
 		});
 	} catch (error) {
-		process.stderr.write(` ${error.message}\n`);
+		if (error instanceof Error) {
+			// ✅ TypeScript knows err is Error console.log(error.message);
+			process.stderr.write(` ${error.message}\n`);
+		} else {
+			console.log('Unexpected error', error);
+		}
 	} finally {
 		process.stdout.write(`\rCombined ${state.countryCode}-${state.isoCode}: ${allCitiesLite.size} States\n`);
 	}
 });
-
 fs.writeFileSync(
-	path.join(__dirname, '../', 'assets/allCitiesNew.json'),
+	path.join(__dirname, '../', 'assets/city.json'),
 	JSON.stringify(City.sortByStateAndName(allCities), null, 3),
 );
 
-const deflatePromise = promisify(deflate);
-deflatePromise(JSON.stringify(allCountries, null, 3)).then((zipped) => {
-	fs.writeFileSync(path.join(__dirname, '../', 'assets/country.gz'), zipped);
-});
+if (process.env.gz === 'true') {
+	const deflatePromise = promisify(deflate);
+	deflatePromise(JSON.stringify(allCountries, null, 3)).then((zipped) => {
+		fs.writeFileSync(path.join(__dirname, '../', 'assets/country.gz'), zipped);
+	});
 
-deflatePromise(JSON.stringify(allStates, null, 3)).then((zipped) => {
-	fs.writeFileSync(path.join(__dirname, '../', 'assets/states.gz'), zipped);
-});
+	deflatePromise(JSON.stringify(allStates, null, 3)).then((zipped) => {
+		fs.writeFileSync(path.join(__dirname, '../', 'assets/states.gz'), zipped);
+	});
 
-deflatePromise(JSON.stringify(allCities, null, 3)).then((zipped) => {
-	fs.writeFileSync(path.join(__dirname, '../', 'assets/cities.gz'), zipped);
-});
+	deflatePromise(JSON.stringify(allCities, null, 3)).then((zipped) => {
+		fs.writeFileSync(path.join(__dirname, '../', 'assets/cities.gz'), zipped);
+	});
+}

@@ -21,13 +21,6 @@
       "longitude": "-74.13583000"
    },
    {
-      "name": "San Sebastián de Buenavista",
-      "countryCode": "CO",
-      "stateCode": "MAG",
-      "latitude": "9.23916666",
-      "longitude": "-74.35194444"
-   },
-   {
       "name": "Cerro de San Antonio",
       "countryCode": "CO",
       "stateCode": "MAG",
@@ -152,6 +145,13 @@
       "stateCode": "MAG",
       "latitude": "10.49027000",
       "longitude": "-74.79463000"
+   },
+   {
+      "name": "San Sebastián de Buenavista",
+      "countryCode": "CO",
+      "stateCode": "MAG",
+      "latitude": "9.23916666",
+      "longitude": "-74.35194444"
    },
    {
       "name": "San Zenón",

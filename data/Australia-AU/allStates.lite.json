@@ -1,32 +1,7 @@
 [
    {
-      "name": "Victoria",
-      "isoCode": "VIC",
-      "countryCode": "AU"
-   },
-   {
-      "name": "South Australia",
-      "isoCode": "SA",
-      "countryCode": "AU"
-   },
-   {
-      "name": "Queensland",
-      "isoCode": "QLD",
-      "countryCode": "AU"
-   },
-   {
-      "name": "Western Australia",
-      "isoCode": "WA",
-      "countryCode": "AU"
-   },
-   {
       "name": "Australian Capital Territory",
       "isoCode": "ACT",
-      "countryCode": "AU"
-   },
-   {
-      "name": "Tasmania",
-      "isoCode": "TAS",
       "countryCode": "AU"
    },
    {
@@ -37,6 +12,31 @@
    {
       "name": "Northern Territory",
       "isoCode": "NT",
+      "countryCode": "AU"
+   },
+   {
+      "name": "Queensland",
+      "isoCode": "QLD",
+      "countryCode": "AU"
+   },
+   {
+      "name": "South Australia",
+      "isoCode": "SA",
+      "countryCode": "AU"
+   },
+   {
+      "name": "Tasmania",
+      "isoCode": "TAS",
+      "countryCode": "AU"
+   },
+   {
+      "name": "Victoria",
+      "isoCode": "VIC",
+      "countryCode": "AU"
+   },
+   {
+      "name": "Western Australia",
+      "isoCode": "WA",
       "countryCode": "AU"
    }
 ]

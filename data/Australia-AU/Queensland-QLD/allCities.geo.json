@@ -1806,6 +1806,13 @@
       "longitude": "152.80000000"
    },
    {
+      "name": "Eagle Farm",
+      "countryCode": "AU",
+      "stateCode": "QLD",
+      "latitude": "-27.43151850",
+      "longitude": "153.07229130"
+   },
+   {
       "name": "Eagleby",
       "countryCode": "AU",
       "stateCode": "QLD",
@@ -6018,12 +6025,5 @@
       "stateCode": "QLD",
       "latitude": "-23.28867000",
       "longitude": "150.79820000"
-   },
-   {
-      "name": "Eagle Farm",
-      "countryCode": "AU",
-      "stateCode": "QLD",
-      "latitude": "-27.43151850",
-      "longitude": "153.07229130"
    }
 ]

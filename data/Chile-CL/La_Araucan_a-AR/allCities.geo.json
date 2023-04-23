@@ -14,95 +14,18 @@
       "longitude": "-73.16101000"
    },
    {
-      "name": "Collipulli",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-37.95453000",
-      "longitude": "-72.43438000"
-   },
-   {
-      "name": "Freire",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.95252000",
-      "longitude": "-72.62653000"
-   },
-   {
-      "name": "Lautaro",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.53066000",
-      "longitude": "-72.43652000"
-   },
-   {
-      "name": "Loncoche",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-39.36708000",
-      "longitude": "-72.63087000"
-   },
-   {
-      "name": "Nueva Imperial",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.74451000",
-      "longitude": "-72.95025000"
-   },
-   {
-      "name": "Pitrufquén",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.98635000",
-      "longitude": "-72.63721000"
-   },
-   {
-      "name": "Pucón",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-39.28223000",
-      "longitude": "-71.95427000"
-   },
-   {
-      "name": "Temuco",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.73965000",
-      "longitude": "-72.59842000"
-   },
-   {
-      "name": "Traiguén",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.24960000",
-      "longitude": "-72.67027000"
-   },
-   {
-      "name": "Victoria",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.23291000",
-      "longitude": "-72.33292000"
-   },
-   {
-      "name": "Vilcún",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-38.66875000",
-      "longitude": "-72.22565000"
-   },
-   {
-      "name": "Villarrica",
-      "countryCode": "CL",
-      "stateCode": "AR",
-      "latitude": "-39.28569000",
-      "longitude": "-72.22790000"
-   },
-   {
       "name": "Cholchol",
       "countryCode": "CL",
       "stateCode": "AR",
       "latitude": "-38.60000000",
       "longitude": "-72.85000000"
+   },
+   {
+      "name": "Collipulli",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-37.95453000",
+      "longitude": "-72.43438000"
    },
    {
       "name": "Cunco",
@@ -133,6 +56,13 @@
       "longitude": "-72.38333333"
    },
    {
+      "name": "Freire",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.95252000",
+      "longitude": "-72.62653000"
+   },
+   {
       "name": "Galvarino",
       "countryCode": "CL",
       "stateCode": "AR",
@@ -145,6 +75,20 @@
       "stateCode": "AR",
       "latitude": "-39.10000000",
       "longitude": "-72.68333333"
+   },
+   {
+      "name": "Lautaro",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.53066000",
+      "longitude": "-72.43652000"
+   },
+   {
+      "name": "Loncoche",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-39.36708000",
+      "longitude": "-72.63087000"
    },
    {
       "name": "Lonquimay",
@@ -175,6 +119,13 @@
       "longitude": "-71.70000000"
    },
    {
+      "name": "Nueva Imperial",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.74451000",
+      "longitude": "-72.95025000"
+   },
+   {
       "name": "Padre Las Casas",
       "countryCode": "CL",
       "stateCode": "AR",
@@ -187,6 +138,20 @@
       "stateCode": "AR",
       "latitude": "-38.41666667",
       "longitude": "-72.38333333"
+   },
+   {
+      "name": "Pitrufquén",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.98635000",
+      "longitude": "-72.63721000"
+   },
+   {
+      "name": "Pucón",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-39.28223000",
+      "longitude": "-71.95427000"
    },
    {
       "name": "Purén",
@@ -210,6 +175,13 @@
       "longitude": "-73.40000000"
    },
    {
+      "name": "Temuco",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.73965000",
+      "longitude": "-72.59842000"
+   },
+   {
       "name": "Teodoro Schmidt",
       "countryCode": "CL",
       "stateCode": "AR",
@@ -222,5 +194,33 @@
       "stateCode": "AR",
       "latitude": "-39.17852000",
       "longitude": "-73.16448000"
+   },
+   {
+      "name": "Traiguén",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.24960000",
+      "longitude": "-72.67027000"
+   },
+   {
+      "name": "Victoria",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.23291000",
+      "longitude": "-72.33292000"
+   },
+   {
+      "name": "Vilcún",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-38.66875000",
+      "longitude": "-72.22565000"
+   },
+   {
+      "name": "Villarrica",
+      "countryCode": "CL",
+      "stateCode": "AR",
+      "latitude": "-39.28569000",
+      "longitude": "-72.22790000"
    }
 ]

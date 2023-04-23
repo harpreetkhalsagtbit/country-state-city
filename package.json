@@ -10,7 +10,10 @@
 		"test": "jest",
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
 		"prepublish": "npm run build",
-		"lint": "eslint index.ts __test__ --fix"
+		"lint": "eslint index.ts __test__ --fix",
+		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
+		"update-data":"ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
+		"update-data-with-gz":"gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
 	},
 	"author": "harpreetkhalsagtbit@gmail.com",
 	"license": "GPL-3.0",

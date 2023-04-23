@@ -973,6 +973,34 @@
       "longitude": "27.60000000"
    },
    {
+      "name": "Sălcioara",
+      "countryCode": "RO",
+      "stateCode": "IL",
+      "latitude": "44.53333000",
+      "longitude": "26.88333000"
+   },
+   {
+      "name": "Sărățeni",
+      "countryCode": "RO",
+      "stateCode": "IL",
+      "latitude": "44.63422000",
+      "longitude": "26.92686000"
+   },
+   {
+      "name": "Săveni",
+      "countryCode": "RO",
+      "stateCode": "IL",
+      "latitude": "44.60000000",
+      "longitude": "27.65000000"
+   },
+   {
+      "name": "Traian",
+      "countryCode": "RO",
+      "stateCode": "IL",
+      "latitude": "44.76350000",
+      "longitude": "27.34337000"
+   },
+   {
       "name": "Urziceni",
       "countryCode": "RO",
       "stateCode": "IL",
@@ -1013,33 +1041,5 @@
       "stateCode": "IL",
       "latitude": "44.65000000",
       "longitude": "27.66667000"
-   },
-   {
-      "name": "Sălcioara",
-      "countryCode": "RO",
-      "stateCode": "IL",
-      "latitude": "44.53333000",
-      "longitude": "26.88333000"
-   },
-   {
-      "name": "Sărățeni",
-      "countryCode": "RO",
-      "stateCode": "IL",
-      "latitude": "44.63422000",
-      "longitude": "26.92686000"
-   },
-   {
-      "name": "Săveni",
-      "countryCode": "RO",
-      "stateCode": "IL",
-      "latitude": "44.60000000",
-      "longitude": "27.65000000"
-   },
-   {
-      "name": "Traian",
-      "countryCode": "RO",
-      "stateCode": "IL",
-      "latitude": "44.76350000",
-      "longitude": "27.34337000"
    }
 ]

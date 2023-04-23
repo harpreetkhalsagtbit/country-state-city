@@ -1,12 +1,5 @@
 [
    {
-      "name": "Iquique",
-      "countryCode": "CL",
-      "stateCode": "TA",
-      "latitude": "-20.21326000",
-      "longitude": "-70.15027000"
-   },
-   {
       "name": "Alto Hospicio",
       "countryCode": "CL",
       "stateCode": "TA",
@@ -33,6 +26,13 @@
       "stateCode": "TA",
       "latitude": "-19.96666667",
       "longitude": "-69.76666667"
+   },
+   {
+      "name": "Iquique",
+      "countryCode": "CL",
+      "stateCode": "TA",
+      "latitude": "-20.21326000",
+      "longitude": "-70.15027000"
    },
    {
       "name": "Pica",

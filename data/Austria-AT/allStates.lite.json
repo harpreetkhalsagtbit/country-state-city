@@ -1,7 +1,17 @@
 [
    {
+      "name": "Burgenland",
+      "isoCode": "1",
+      "countryCode": "AT"
+   },
+   {
       "name": "Carinthia",
       "isoCode": "2",
+      "countryCode": "AT"
+   },
+   {
+      "name": "Lower Austria",
+      "isoCode": "3",
       "countryCode": "AT"
    },
    {
@@ -10,28 +20,13 @@
       "countryCode": "AT"
    },
    {
-      "name": "Styria",
-      "isoCode": "6",
-      "countryCode": "AT"
-   },
-   {
-      "name": "Vienna",
-      "isoCode": "9",
-      "countryCode": "AT"
-   },
-   {
       "name": "Salzburg",
       "isoCode": "5",
       "countryCode": "AT"
    },
    {
-      "name": "Burgenland",
-      "isoCode": "1",
-      "countryCode": "AT"
-   },
-   {
-      "name": "Vorarlberg",
-      "isoCode": "8",
+      "name": "Styria",
+      "isoCode": "6",
       "countryCode": "AT"
    },
    {
@@ -40,8 +35,13 @@
       "countryCode": "AT"
    },
    {
-      "name": "Lower Austria",
-      "isoCode": "3",
+      "name": "Vorarlberg",
+      "isoCode": "8",
+      "countryCode": "AT"
+   },
+   {
+      "name": "Vienna",
+      "isoCode": "9",
       "countryCode": "AT"
    }
 ]

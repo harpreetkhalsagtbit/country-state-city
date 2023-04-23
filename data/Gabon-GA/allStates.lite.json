@@ -1,37 +1,12 @@
 [
    {
-      "name": "Woleu-Ntem Province",
-      "isoCode": "9",
-      "countryCode": "GA"
-   },
-   {
-      "name": "Ogooué-Ivindo Province",
-      "isoCode": "6",
-      "countryCode": "GA"
-   },
-   {
-      "name": "Nyanga Province",
-      "isoCode": "5",
-      "countryCode": "GA"
-   },
-   {
-      "name": "Haut-Ogooué Province",
-      "isoCode": "2",
-      "countryCode": "GA"
-   },
-   {
       "name": "Estuaire Province",
       "isoCode": "1",
       "countryCode": "GA"
    },
    {
-      "name": "Ogooué-Maritime Province",
-      "isoCode": "8",
-      "countryCode": "GA"
-   },
-   {
-      "name": "Ogooué-Lolo Province",
-      "isoCode": "7",
+      "name": "Haut-Ogooué Province",
+      "isoCode": "2",
       "countryCode": "GA"
    },
    {
@@ -42,6 +17,31 @@
    {
       "name": "Ngounié Province",
       "isoCode": "4",
+      "countryCode": "GA"
+   },
+   {
+      "name": "Nyanga Province",
+      "isoCode": "5",
+      "countryCode": "GA"
+   },
+   {
+      "name": "Ogooué-Ivindo Province",
+      "isoCode": "6",
+      "countryCode": "GA"
+   },
+   {
+      "name": "Ogooué-Lolo Province",
+      "isoCode": "7",
+      "countryCode": "GA"
+   },
+   {
+      "name": "Ogooué-Maritime Province",
+      "isoCode": "8",
+      "countryCode": "GA"
+   },
+   {
+      "name": "Woleu-Ntem Province",
+      "isoCode": "9",
       "countryCode": "GA"
    }
 ]

@@ -98,6 +98,34 @@
       "longitude": "49.66667000"
    },
    {
+      "name": "Al Ubaylah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "21.98417000",
+      "longitude": "50.93966000"
+   },
+   {
+      "name": "Al-Awamiyah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.58333300",
+      "longitude": "49.98333300"
+   },
+   {
+      "name": "Al-Awjam",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.55830000",
+      "longitude": "49.95030000"
+   },
+   {
+      "name": "Al-Mubarraz",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "25.44160000",
+      "longitude": "49.66420000"
+   },
+   {
       "name": "As Saffānīyah",
       "countryCode": "SA",
       "stateCode": "04",
@@ -133,102 +161,18 @@
       "longitude": "50.11396000"
    },
    {
-      "name": "Hafar Al-Batin",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "28.43279000",
-      "longitude": "45.97077000"
-   },
-   {
-      "name": "Julayjilah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "25.50000000",
-      "longitude": "49.60000000"
-   },
-   {
-      "name": "Khobar",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.27944000",
-      "longitude": "50.20833000"
-   },
-   {
-      "name": "Mulayjah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "27.27103000",
-      "longitude": "48.42419000"
-   },
-   {
-      "name": "Qaisumah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "28.31117000",
-      "longitude": "46.12729000"
-   },
-   {
-      "name": "Raḩīmah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.70791000",
-      "longitude": "50.06194000"
-   },
-   {
-      "name": "Tārūt",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.57330000",
-      "longitude": "50.04028000"
-   },
-   {
-      "name": "Umm as Sāhik",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.65361000",
-      "longitude": "49.91639000"
-   },
-   {
-      "name": "Şafwá",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.64970000",
-      "longitude": "49.95522000"
-   },
-   {
-      "name": "Al Ubaylah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "21.98417000",
-      "longitude": "50.93966000"
-   },
-   {
-      "name": "Al-Awamiyah",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.58333300",
-      "longitude": "49.98333300"
-   },
-   {
-      "name": "Al-Awjam",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "26.55830000",
-      "longitude": "49.95030000"
-   },
-   {
-      "name": "Al-Mubarraz",
-      "countryCode": "SA",
-      "stateCode": "04",
-      "latitude": "25.44160000",
-      "longitude": "49.66420000"
-   },
-   {
       "name": "Ha'il ",
       "countryCode": "SA",
       "stateCode": "04",
       "latitude": "27.51666667",
       "longitude": "41.68333333"
+   },
+   {
+      "name": "Hafar Al-Batin",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "28.43279000",
+      "longitude": "45.97077000"
    },
    {
       "name": "Haradh",
@@ -245,11 +189,32 @@
       "longitude": "40.94160000"
    },
    {
+      "name": "Julayjilah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "25.50000000",
+      "longitude": "49.60000000"
+   },
+   {
+      "name": "Khobar",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.27944000",
+      "longitude": "50.20833000"
+   },
+   {
       "name": "Mawqaq",
       "countryCode": "SA",
       "stateCode": "04",
       "latitude": "27.38398000",
       "longitude": "41.17635000"
+   },
+   {
+      "name": "Mulayjah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "27.27103000",
+      "longitude": "48.42419000"
    },
    {
       "name": "Nariyah",
@@ -259,11 +224,25 @@
       "longitude": "48.48440000"
    },
    {
+      "name": "Qaisumah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "28.31117000",
+      "longitude": "46.12729000"
+   },
+   {
       "name": "Qufar",
       "countryCode": "SA",
       "stateCode": "04",
       "latitude": "27.41534000",
       "longitude": "41.61903000"
+   },
+   {
+      "name": "Raḩīmah",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.70791000",
+      "longitude": "50.06194000"
    },
    {
       "name": "Sayhāt",
@@ -280,6 +259,13 @@
       "longitude": "42.12494000"
    },
    {
+      "name": "Tārūt",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.57330000",
+      "longitude": "50.04028000"
+   },
+   {
       "name": "Udhailiyah",
       "countryCode": "SA",
       "stateCode": "04",
@@ -287,10 +273,24 @@
       "longitude": "49.30000000"
    },
    {
+      "name": "Umm as Sāhik",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.65361000",
+      "longitude": "49.91639000"
+   },
+   {
       "name": "Uqair",
       "countryCode": "SA",
       "stateCode": "04",
       "latitude": "25.64310000",
       "longitude": "50.21440000"
+   },
+   {
+      "name": "Şafwá",
+      "countryCode": "SA",
+      "stateCode": "04",
+      "latitude": "26.64970000",
+      "longitude": "49.95522000"
    }
 ]

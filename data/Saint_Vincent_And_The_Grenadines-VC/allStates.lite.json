@@ -1,12 +1,7 @@
 [
    {
-      "name": "Saint George Parish",
-      "isoCode": "04",
-      "countryCode": "VC"
-   },
-   {
-      "name": "Saint Patrick Parish",
-      "isoCode": "05",
+      "name": "Charlotte Parish",
+      "isoCode": "01",
       "countryCode": "VC"
    },
    {
@@ -20,13 +15,18 @@
       "countryCode": "VC"
    },
    {
-      "name": "Grenadines Parish",
-      "isoCode": "06",
+      "name": "Saint George Parish",
+      "isoCode": "04",
       "countryCode": "VC"
    },
    {
-      "name": "Charlotte Parish",
-      "isoCode": "01",
+      "name": "Saint Patrick Parish",
+      "isoCode": "05",
+      "countryCode": "VC"
+   },
+   {
+      "name": "Grenadines Parish",
+      "isoCode": "06",
       "countryCode": "VC"
    }
 ]

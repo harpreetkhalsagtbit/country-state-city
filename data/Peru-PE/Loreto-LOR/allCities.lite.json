@@ -1,6 +1,6 @@
 [
    {
-      "name": "Iquitos",
+      "name": "Andoas",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
@@ -10,17 +10,22 @@
       "stateCode": "LOR"
    },
    {
-      "name": "Nauta",
+      "name": "Caballococha",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
    {
-      "name": "San Pablo",
+      "name": "Cape Pantoja",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
    {
-      "name": "Andoas",
+      "name": "Indiana",
+      "countryCode": "PE",
+      "stateCode": "LOR"
+   },
+   {
+      "name": "Iquitos",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
@@ -35,32 +40,12 @@
       "stateCode": "LOR"
    },
    {
-      "name": "Cape Pantoja",
-      "countryCode": "PE",
-      "stateCode": "LOR"
-   },
-   {
       "name": "Lagunas",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
    {
-      "name": "Caballococha",
-      "countryCode": "PE",
-      "stateCode": "LOR"
-   },
-   {
-      "name": "San Lorenzo",
-      "countryCode": "PE",
-      "stateCode": "LOR"
-   },
-   {
-      "name": "Tamshiyacu",
-      "countryCode": "PE",
-      "stateCode": "LOR"
-   },
-   {
-      "name": "Indiana",
+      "name": "Nauta",
       "countryCode": "PE",
       "stateCode": "LOR"
    },
@@ -76,6 +61,21 @@
    },
    {
       "name": "San Antonio del Estrecho",
+      "countryCode": "PE",
+      "stateCode": "LOR"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "PE",
+      "stateCode": "LOR"
+   },
+   {
+      "name": "San Pablo",
+      "countryCode": "PE",
+      "stateCode": "LOR"
+   },
+   {
+      "name": "Tamshiyacu",
       "countryCode": "PE",
       "stateCode": "LOR"
    },

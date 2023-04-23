@@ -40,6 +40,11 @@
       "stateCode": "CUN"
    },
    {
+      "name": "Bogotá D.C.",
+      "countryCode": "CO",
+      "stateCode": "CUN"
+   },
+   {
       "name": "Bojacá",
       "countryCode": "CO",
       "stateCode": "CUN"
@@ -576,11 +581,6 @@
    },
    {
       "name": "Útica",
-      "countryCode": "CO",
-      "stateCode": "CUN"
-   },
-   {
-      "name": "Bogotá D.C.",
       "countryCode": "CO",
       "stateCode": "CUN"
    }

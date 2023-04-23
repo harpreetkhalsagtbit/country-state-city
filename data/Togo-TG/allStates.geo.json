@@ -7,6 +7,13 @@
       "longitude": "1.05861350"
    },
    {
+      "name": "Kara Region",
+      "isoCode": "K",
+      "countryCode": "TG",
+      "latitude": "9.72163930",
+      "longitude": "1.05861350"
+   },
+   {
       "name": "Maritime",
       "isoCode": "M",
       "countryCode": "TG",
@@ -26,12 +33,5 @@
       "countryCode": "TG",
       "latitude": "10.52917810",
       "longitude": "0.52578230"
-   },
-   {
-      "name": "Kara Region",
-      "isoCode": "K",
-      "countryCode": "TG",
-      "latitude": "9.72163930",
-      "longitude": "1.05861350"
    }
 ]

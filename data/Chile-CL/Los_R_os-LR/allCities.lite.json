@@ -5,27 +5,12 @@
       "stateCode": "LR"
    },
    {
-      "name": "La Unión",
-      "countryCode": "CL",
-      "stateCode": "LR"
-   },
-   {
-      "name": "Panguipulli",
-      "countryCode": "CL",
-      "stateCode": "LR"
-   },
-   {
-      "name": "Río Bueno",
-      "countryCode": "CL",
-      "stateCode": "LR"
-   },
-   {
-      "name": "Valdivia",
-      "countryCode": "CL",
-      "stateCode": "LR"
-   },
-   {
       "name": "Futrono",
+      "countryCode": "CL",
+      "stateCode": "LR"
+   },
+   {
+      "name": "La Unión",
       "countryCode": "CL",
       "stateCode": "LR"
    },
@@ -56,6 +41,21 @@
    },
    {
       "name": "Paillaco",
+      "countryCode": "CL",
+      "stateCode": "LR"
+   },
+   {
+      "name": "Panguipulli",
+      "countryCode": "CL",
+      "stateCode": "LR"
+   },
+   {
+      "name": "Río Bueno",
+      "countryCode": "CL",
+      "stateCode": "LR"
+   },
+   {
+      "name": "Valdivia",
       "countryCode": "CL",
       "stateCode": "LR"
    }

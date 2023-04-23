@@ -1,27 +1,17 @@
 [
    {
-      "name": "Flores Department",
-      "isoCode": "FS",
-      "countryCode": "UY"
-   },
-   {
-      "name": "San José Department",
-      "isoCode": "SJ",
-      "countryCode": "UY"
-   },
-   {
       "name": "Artigas Department",
       "isoCode": "AR",
       "countryCode": "UY"
    },
    {
-      "name": "Maldonado Department",
-      "isoCode": "MA",
+      "name": "Canelones Department",
+      "isoCode": "CA",
       "countryCode": "UY"
    },
    {
-      "name": "Rivera Department",
-      "isoCode": "RV",
+      "name": "Cerro Largo Department",
+      "isoCode": "CL",
       "countryCode": "UY"
    },
    {
@@ -35,28 +25,13 @@
       "countryCode": "UY"
    },
    {
-      "name": "Río Negro Department",
-      "isoCode": "RN",
+      "name": "Florida Department",
+      "isoCode": "FD",
       "countryCode": "UY"
    },
    {
-      "name": "Cerro Largo Department",
-      "isoCode": "CL",
-      "countryCode": "UY"
-   },
-   {
-      "name": "Paysandú Department",
-      "isoCode": "PA",
-      "countryCode": "UY"
-   },
-   {
-      "name": "Canelones Department",
-      "isoCode": "CA",
-      "countryCode": "UY"
-   },
-   {
-      "name": "Treinta y Tres Department",
-      "isoCode": "TT",
+      "name": "Flores Department",
+      "isoCode": "FS",
       "countryCode": "UY"
    },
    {
@@ -65,13 +40,8 @@
       "countryCode": "UY"
    },
    {
-      "name": "Rocha Department",
-      "isoCode": "RO",
-      "countryCode": "UY"
-   },
-   {
-      "name": "Florida Department",
-      "isoCode": "FD",
+      "name": "Maldonado Department",
+      "isoCode": "MA",
       "countryCode": "UY"
    },
    {
@@ -80,8 +50,23 @@
       "countryCode": "UY"
    },
    {
-      "name": "Soriano Department",
-      "isoCode": "SO",
+      "name": "Paysandú Department",
+      "isoCode": "PA",
+      "countryCode": "UY"
+   },
+   {
+      "name": "Río Negro Department",
+      "isoCode": "RN",
+      "countryCode": "UY"
+   },
+   {
+      "name": "Rocha Department",
+      "isoCode": "RO",
+      "countryCode": "UY"
+   },
+   {
+      "name": "Rivera Department",
+      "isoCode": "RV",
       "countryCode": "UY"
    },
    {
@@ -90,8 +75,23 @@
       "countryCode": "UY"
    },
    {
+      "name": "San José Department",
+      "isoCode": "SJ",
+      "countryCode": "UY"
+   },
+   {
+      "name": "Soriano Department",
+      "isoCode": "SO",
+      "countryCode": "UY"
+   },
+   {
       "name": "Tacuarembó Department",
       "isoCode": "TA",
+      "countryCode": "UY"
+   },
+   {
+      "name": "Treinta y Tres Department",
+      "isoCode": "TT",
       "countryCode": "UY"
    }
 ]

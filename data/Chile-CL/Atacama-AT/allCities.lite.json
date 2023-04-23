@@ -1,5 +1,20 @@
 [
    {
+      "name": "Alto del Carmen",
+      "countryCode": "CL",
+      "stateCode": "AT"
+   },
+   {
+      "name": "Caldera",
+      "countryCode": "CL",
+      "stateCode": "AT"
+   },
+   {
+      "name": "Chañaral",
+      "countryCode": "CL",
+      "stateCode": "AT"
+   },
+   {
       "name": "Copiapó",
       "countryCode": "CL",
       "stateCode": "AT"
@@ -10,7 +25,7 @@
       "stateCode": "AT"
    },
    {
-      "name": "Chañaral",
+      "name": "Freirina",
       "countryCode": "CL",
       "stateCode": "AT"
    },
@@ -20,27 +35,12 @@
       "stateCode": "AT"
    },
    {
-      "name": "Vallenar",
-      "countryCode": "CL",
-      "stateCode": "AT"
-   },
-   {
-      "name": "Caldera",
-      "countryCode": "CL",
-      "stateCode": "AT"
-   },
-   {
       "name": "Tierra Amarilla",
       "countryCode": "CL",
       "stateCode": "AT"
    },
    {
-      "name": "Alto del Carmen",
-      "countryCode": "CL",
-      "stateCode": "AT"
-   },
-   {
-      "name": "Freirina",
+      "name": "Vallenar",
       "countryCode": "CL",
       "stateCode": "AT"
    }

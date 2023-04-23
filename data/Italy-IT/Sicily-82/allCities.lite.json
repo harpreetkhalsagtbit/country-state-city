@@ -1,960 +1,5 @@
 [
    {
-      "name": "Pagliara",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palagonia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palazzo Adriano",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palazzolo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palazzolo Acreide",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palermo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Palma di Montechiaro",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pantelleria",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Partanna",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Partinico",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pasteria-Lapide",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Paternò",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Patti",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pedagaggi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pedalino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pedara",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pennisi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Petralia Soprana",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Petralia Sottana",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Petrosino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pettineo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piana degli Albanesi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piano Maglio-Blandino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piano dei Geli",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pianoconte",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piazza Armerina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piedimonte Etneo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pietraperzia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pioppo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Piraino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Polizzi Generosa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pollina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Portella di Mare",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Porto Empedocle",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Portopalo di Capo Passero",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Pozzallo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Priolo Gargallo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Prizzi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Provincia di Caltanissetta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Provincia di Siracusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Racalmuto",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Raccuja",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Raddusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Raffadali",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ragalna",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ragusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ramacca",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Randazzo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ravanusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Realmonte",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Regalbuto",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Reitano",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Resuttano",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ribera",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Riesi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rilievo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Riposto",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rocca di Capri Leone",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccafiorita",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccalumera",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccamena",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccapalumba",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccavaldina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Roccella Valdemone",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rodì",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rometta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rometta Marea",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Rosolini",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Salaparuta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Salemi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sambuca di Sicilia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Biagio Platani",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Cataldo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Cipirello",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Ciro-Ulmi-Filci",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Cono",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Filippo del Mela",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Fratello",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Giorgio",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Giovanni",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Giovanni Gemini",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Giovanni la Punta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Giuseppe Jato",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Gregorio di Catania",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Leone Mosè",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Marco d'Alunzio",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Mauro Castelverde",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Michele di Ganzaria",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Pier Niceto",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Piero Patti",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Pietro Clarenza",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Salvatore di Fitalia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Teodoro",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "San Vito Lo Capo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Agata Li Battiati",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Agata di Militello",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Alessio Siculo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Alfio",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Angelo Muxaro",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sant'Angelo di Brolo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Caterina Villarmosa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Cristina Gela",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Croce Camerina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Domenica Vittoria",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Elisabetta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Flavia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Lucia del Mela",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Margherita di Belice",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Maria di Licodia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Maria la Stella",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Marina Salina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Ninfa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Teresa di Riva",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santa Venerina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santo Stefano Quisquina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Santo Stefano di Camastra",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Saponara",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Saponara Marittima",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sasi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Savoca",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Scaletta Zanclea",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sciacca",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sciara",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Scicli",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Scillato",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sclafani Bagni",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Scoglitti",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Scordia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Serradifalco",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sfaranda",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sferracavallo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Siculiana",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sinagra",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Siracusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Solarino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sommatino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sortino",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Spadafora",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sparta'",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sperlinga",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Sutera",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Taormina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Terme",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Termini Imerese",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Terrasini",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tonnara di Bonagia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tonnarella",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Torre Colonna-Sperone",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Torregrotta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Torrenova",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Torretta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tortorici",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Trabia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Trapani",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Trappeto",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tre Fontane",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Trecastagni",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tremestieri Etneo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tripi",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Triscina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Troina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Tusa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ucria",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ustica",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Valderice",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Valdina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Valguarnera Caropepe",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Valledolmo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vallelunga Pratameno",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Valverde",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vambolieri",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Venetico Marina",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Venetico Superiore",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Ventimiglia di Sicilia",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Viagrande",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vicari",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vigliatore 2",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villa Ciambra",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villabate",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villafranca Sicula",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villafranca Tirrena",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villafrati",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villaggio del Pino-Le Ginestre",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villalba",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villarosa",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villaseta",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Villasmundo",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vita",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vittoria",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Vizzini",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
-      "name": "Zafferana Etnea",
-      "countryCode": "IT",
-      "stateCode": "82"
-   },
-   {
       "name": "Acate",
       "countryCode": "IT",
       "stateCode": "82"
@@ -2366,6 +1411,961 @@
    },
    {
       "name": "Pachino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pagliara",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palagonia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palazzo Adriano",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palazzolo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palazzolo Acreide",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palermo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Palma di Montechiaro",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pantelleria",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Partanna",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Partinico",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pasteria-Lapide",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Paternò",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Patti",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pedagaggi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pedalino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pedara",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pennisi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Petralia Soprana",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Petralia Sottana",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Petrosino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pettineo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piana degli Albanesi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piano Maglio-Blandino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piano dei Geli",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pianoconte",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piazza Armerina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piedimonte Etneo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pietraperzia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pioppo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Piraino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Polizzi Generosa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pollina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Portella di Mare",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Porto Empedocle",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Portopalo di Capo Passero",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Pozzallo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Priolo Gargallo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Prizzi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Provincia di Caltanissetta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Provincia di Siracusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Racalmuto",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Raccuja",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Raddusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Raffadali",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ragalna",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ragusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ramacca",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Randazzo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ravanusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Realmonte",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Regalbuto",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Reitano",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Resuttano",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ribera",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Riesi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rilievo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Riposto",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rocca di Capri Leone",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccafiorita",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccalumera",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccamena",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccapalumba",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccavaldina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Roccella Valdemone",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rodì",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rometta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rometta Marea",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Rosolini",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Salaparuta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Salemi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sambuca di Sicilia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Biagio Platani",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Cataldo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Cipirello",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Ciro-Ulmi-Filci",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Cono",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Filippo del Mela",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Fratello",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Giorgio",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Giovanni",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Giovanni Gemini",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Giovanni la Punta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Giuseppe Jato",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Gregorio di Catania",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Leone Mosè",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Marco d'Alunzio",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Mauro Castelverde",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Michele di Ganzaria",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Pier Niceto",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Piero Patti",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Pietro Clarenza",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Salvatore di Fitalia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Teodoro",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "San Vito Lo Capo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Agata Li Battiati",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Agata di Militello",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Alessio Siculo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Alfio",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Angelo Muxaro",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sant'Angelo di Brolo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Caterina Villarmosa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Cristina Gela",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Croce Camerina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Domenica Vittoria",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Elisabetta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Flavia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Lucia del Mela",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Margherita di Belice",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Maria di Licodia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Maria la Stella",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Marina Salina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Ninfa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Teresa di Riva",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santa Venerina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santo Stefano Quisquina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Santo Stefano di Camastra",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Saponara",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Saponara Marittima",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sasi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Savoca",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Scaletta Zanclea",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sciacca",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sciara",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Scicli",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Scillato",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sclafani Bagni",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Scoglitti",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Scordia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Serradifalco",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sfaranda",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sferracavallo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Siculiana",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sinagra",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Siracusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Solarino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sommatino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sortino",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Spadafora",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sparta'",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sperlinga",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Sutera",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Taormina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Terme",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Termini Imerese",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Terrasini",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tonnara di Bonagia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tonnarella",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Torre Colonna-Sperone",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Torregrotta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Torrenova",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Torretta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tortorici",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Trabia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Trapani",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Trappeto",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tre Fontane",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Trecastagni",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tremestieri Etneo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tripi",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Triscina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Troina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Tusa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ucria",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ustica",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Valderice",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Valdina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Valguarnera Caropepe",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Valledolmo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vallelunga Pratameno",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Valverde",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vambolieri",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Venetico Marina",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Venetico Superiore",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Ventimiglia di Sicilia",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Viagrande",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vicari",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vigliatore 2",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villa Ciambra",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villabate",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villafranca Sicula",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villafranca Tirrena",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villafrati",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villaggio del Pino-Le Ginestre",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villalba",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villarosa",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villaseta",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Villasmundo",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vita",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vittoria",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Vizzini",
+      "countryCode": "IT",
+      "stateCode": "82"
+   },
+   {
+      "name": "Zafferana Etnea",
       "countryCode": "IT",
       "stateCode": "82"
    }

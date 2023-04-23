@@ -1,5 +1,10 @@
 [
    {
+      "name": "Albeck",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Althofen",
       "countryCode": "AT",
       "stateCode": "2"
@@ -21,6 +26,21 @@
    },
    {
       "name": "Auen",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Bad Bleiberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Bad Eisenkappel",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Bad Kleinkirchheim",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -70,6 +90,11 @@
       "stateCode": "2"
    },
    {
+      "name": "Deutsch-Griffen",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Diex",
       "countryCode": "AT",
       "stateCode": "2"
@@ -100,7 +125,22 @@
       "stateCode": "2"
    },
    {
+      "name": "Ebriach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Eisenkappel-Vellach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Faak am See",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Feffernitz",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -126,6 +166,11 @@
    },
    {
       "name": "Feld am See",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Feldkirchen District",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -156,6 +201,11 @@
    },
    {
       "name": "Flattach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Frantschach-Sankt Gertraud",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -200,6 +250,21 @@
       "stateCode": "2"
    },
    {
+      "name": "Gemmersdorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Gerlamoos",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Gitschtal",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Glanegg",
       "countryCode": "AT",
       "stateCode": "2"
@@ -216,6 +281,11 @@
    },
    {
       "name": "Gmünd",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Gmünd in Kärnten",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -260,12 +330,27 @@
       "stateCode": "2"
    },
    {
+      "name": "Görtschach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Heiligenblut",
       "countryCode": "AT",
       "stateCode": "2"
    },
    {
       "name": "Hermagor",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Hermagor District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Hermagor-Pressegger See",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -310,7 +395,22 @@
       "stateCode": "2"
    },
    {
+      "name": "Klagenfurt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Klagenfurt am Wörthersee",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Klagenfurt-Land District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Kleblach-Lind",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -325,6 +425,11 @@
       "stateCode": "2"
    },
    {
+      "name": "Krems",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Krumpendorf",
       "countryCode": "AT",
       "stateCode": "2"
@@ -335,12 +440,22 @@
       "stateCode": "2"
    },
    {
+      "name": "Kötschach-Mauthen",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Köttmannsdorf",
       "countryCode": "AT",
       "stateCode": "2"
    },
    {
       "name": "Kühnsdorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Lamnitz",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -370,6 +485,16 @@
       "stateCode": "2"
    },
    {
+      "name": "Leppen",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Lesachtal",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Liebenfels",
       "countryCode": "AT",
       "stateCode": "2"
@@ -380,7 +505,32 @@
       "stateCode": "2"
    },
    {
+      "name": "Lobersberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Ludmannsdorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Lurnfeld",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Magdalensberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Mallnitz",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Malta",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -460,7 +610,22 @@
       "stateCode": "2"
    },
    {
+      "name": "Nötsch im Gailtal",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Oberdrauburg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Oberdörfl",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Obermillstatt",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -480,47 +645,12 @@
       "stateCode": "2"
    },
    {
+      "name": "Pischeldorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Poggersdorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Feldkirchen District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Hermagor District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Klagenfurt-Land District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Veit an der Glan District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Spittal an der Drau District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Villach-Land District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Völkermarkt District",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Wolfsberg District",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -531,6 +661,16 @@
    },
    {
       "name": "Priel",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Pusarnitz",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Pöckau",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -560,12 +700,27 @@
       "stateCode": "2"
    },
    {
+      "name": "Reichenau",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Reichenfels",
       "countryCode": "AT",
       "stateCode": "2"
    },
    {
+      "name": "Reißeck",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Rennweg am Katschberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Rittersdorf",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -586,6 +741,36 @@
    },
    {
       "name": "Sankt Andrä",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Egyden an der Drau",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Georgen am Längsee",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Georgen im Lavanttal",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Jakob",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Jakob im Rosental",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Kanzian am Klopeiner See",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -630,7 +815,22 @@
       "stateCode": "2"
    },
    {
+      "name": "Sankt Stefan im Gailtal",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Urban",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Sankt Veit an der Glan",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Sankt Veit an der Glan District",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -660,6 +860,11 @@
       "stateCode": "2"
    },
    {
+      "name": "Sirnitz",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Sittersdorf",
       "countryCode": "AT",
       "stateCode": "2"
@@ -670,367 +875,12 @@
       "stateCode": "2"
    },
    {
+      "name": "Spittal an der Drau District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "St. Agathen und Perau",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Georgen am Längsee",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "St. Veiter Vorstadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Stall",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Steindorf am Ossiacher See",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Steinfeld",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Steuerberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Stockenboi",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Straßburg-Stadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Trebesing",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Treibach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Untere Fellach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Velden am Wörthersee",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Viktring",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Viktringer Vorstadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Villach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Villach-Innere Stadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Villacher Vorstadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Völkendorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Völkermarkt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Völkermarkter Vorstadt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Waiern",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Warmbad-Judendorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Weitensfeld",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Wernberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Winklern",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Wolfsberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Wudmath",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Wölfnitz",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Albeck",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Bad Bleiberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Bad Eisenkappel",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Bad Kleinkirchheim",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Deutsch-Griffen",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Ebriach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Eisenkappel-Vellach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Feffernitz",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Frantschach-Sankt Gertraud",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Gemmersdorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Gerlamoos",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Gitschtal",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Gmünd in Kärnten",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Görtschach",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Hermagor-Pressegger See",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Klagenfurt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Kleblach-Lind",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Krems",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Kötschach-Mauthen",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Lamnitz",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Leppen",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Lesachtal",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Lobersberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Lurnfeld",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Magdalensberg",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Mallnitz",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Malta",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Nötsch im Gailtal",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Oberdörfl",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Obermillstatt",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Pischeldorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Pusarnitz",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Pöckau",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Reichenau",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Reißeck",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Rittersdorf",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Egyden an der Drau",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Georgen im Lavanttal",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Jakob",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Jakob im Rosental",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Kanzian am Klopeiner See",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Stefan im Gailtal",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sankt Urban",
-      "countryCode": "AT",
-      "stateCode": "2"
-   },
-   {
-      "name": "Sirnitz",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -1065,7 +915,42 @@
       "stateCode": "2"
    },
    {
+      "name": "St. Veiter Vorstadt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Stall",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Steindorf am Ossiacher See",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Steinfeld",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Steuerberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Stockenboi",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Straßburg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Straßburg-Stadt",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -1085,7 +970,17 @@
       "stateCode": "2"
    },
    {
+      "name": "Trebesing",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Treffen",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Treibach",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -1100,7 +995,82 @@
       "stateCode": "2"
    },
    {
+      "name": "Untere Fellach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
       "name": "Velden am Wörther See",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Velden am Wörthersee",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Viktring",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Viktringer Vorstadt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Villach",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Villach-Innere Stadt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Villach-Land District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Villacher Vorstadt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Völkendorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Völkermarkt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Völkermarkt District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Völkermarkter Vorstadt",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Waiern",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Warmbad-Judendorf",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Weitensfeld",
       "countryCode": "AT",
       "stateCode": "2"
    },
@@ -1116,6 +1086,36 @@
    },
    {
       "name": "Weißenstein",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Wernberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Winklern",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Wolfsberg",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Wolfsberg District",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Wudmath",
+      "countryCode": "AT",
+      "stateCode": "2"
+   },
+   {
+      "name": "Wölfnitz",
       "countryCode": "AT",
       "stateCode": "2"
    },

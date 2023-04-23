@@ -28,39 +28,18 @@
       "longitude": "44.22228000"
    },
    {
-      "name": "Ar Rass",
-      "countryCode": "SA",
-      "stateCode": "05",
-      "latitude": "25.86944000",
-      "longitude": "43.49730000"
-   },
-   {
-      "name": "Buraydah",
-      "countryCode": "SA",
-      "stateCode": "05",
-      "latitude": "26.32599000",
-      "longitude": "43.97497000"
-   },
-   {
-      "name": "Tanūmah",
-      "countryCode": "SA",
-      "stateCode": "05",
-      "latitude": "27.10000000",
-      "longitude": "44.13333000"
-   },
-   {
-      "name": "Wed Alnkil",
-      "countryCode": "SA",
-      "stateCode": "05",
-      "latitude": "25.42670000",
-      "longitude": "42.83430000"
-   },
-   {
       "name": "Al Thybiyah",
       "countryCode": "SA",
       "stateCode": "05",
       "latitude": "26.02700000",
       "longitude": "43.15700000"
+   },
+   {
+      "name": "Ar Rass",
+      "countryCode": "SA",
+      "stateCode": "05",
+      "latitude": "25.86944000",
+      "longitude": "43.49730000"
    },
    {
       "name": "Arar",
@@ -75,6 +54,13 @@
       "stateCode": "05",
       "latitude": "26.33333333",
       "longitude": "43.96666667"
+   },
+   {
+      "name": "Buraydah",
+      "countryCode": "SA",
+      "stateCode": "05",
+      "latitude": "26.32599000",
+      "longitude": "43.97497000"
    },
    {
       "name": "Dukhnah",
@@ -98,10 +84,24 @@
       "longitude": "44.32770000"
    },
    {
+      "name": "Tanūmah",
+      "countryCode": "SA",
+      "stateCode": "05",
+      "latitude": "27.10000000",
+      "longitude": "44.13333000"
+   },
+   {
       "name": "Umm Radamah",
       "countryCode": "SA",
       "stateCode": "05",
       "latitude": "28.67985000",
       "longitude": "44.69549000"
+   },
+   {
+      "name": "Wed Alnkil",
+      "countryCode": "SA",
+      "stateCode": "05",
+      "latitude": "25.42670000",
+      "longitude": "42.83430000"
    }
 ]

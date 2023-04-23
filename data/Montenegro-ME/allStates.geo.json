@@ -1,10 +1,10 @@
 [
    {
-      "name": "Petnjica Municipality",
-      "isoCode": "23",
+      "name": "Andrijevica Municipality",
+      "isoCode": "01",
       "countryCode": "ME",
-      "latitude": "42.93534800",
-      "longitude": "20.02114490"
+      "latitude": "42.73624770",
+      "longitude": "19.78595560"
    },
    {
       "name": "Bar Municipality",
@@ -14,6 +14,34 @@
       "longitude": "19.14043800"
    },
    {
+      "name": "Berane Municipality",
+      "isoCode": "03",
+      "countryCode": "ME",
+      "latitude": "42.82572890",
+      "longitude": "19.90205090"
+   },
+   {
+      "name": "Bijelo Polje Municipality",
+      "isoCode": "04",
+      "countryCode": "ME",
+      "latitude": "43.08465260",
+      "longitude": "19.71154720"
+   },
+   {
+      "name": "Budva Municipality",
+      "isoCode": "05",
+      "countryCode": "ME",
+      "latitude": "42.31407200",
+      "longitude": "18.83138320"
+   },
+   {
+      "name": "Old Royal Capital Cetinje",
+      "isoCode": "06",
+      "countryCode": "ME",
+      "latitude": "42.39309590",
+      "longitude": "18.91159640"
+   },
+   {
       "name": "Danilovgrad Municipality",
       "isoCode": "07",
       "countryCode": "ME",
@@ -21,18 +49,25 @@
       "longitude": "19.14043800"
    },
    {
-      "name": "Rožaje Municipality",
-      "isoCode": "17",
+      "name": "Kolašin Municipality",
+      "isoCode": "09",
       "countryCode": "ME",
-      "latitude": "42.84083890",
-      "longitude": "20.16706280"
+      "latitude": "42.76019160",
+      "longitude": "19.42591140"
    },
    {
-      "name": "Plužine Municipality",
-      "isoCode": "15",
+      "name": "Kotor Municipality",
+      "isoCode": "10",
       "countryCode": "ME",
-      "latitude": "43.15933840",
-      "longitude": "18.85514840"
+      "latitude": "42.57402610",
+      "longitude": "18.64131450"
+   },
+   {
+      "name": "Mojkovac Municipality",
+      "isoCode": "11",
+      "countryCode": "ME",
+      "latitude": "42.96880180",
+      "longitude": "19.52110630"
    },
    {
       "name": "Nikšić Municipality",
@@ -40,13 +75,6 @@
       "countryCode": "ME",
       "latitude": "42.79971840",
       "longitude": "18.76009630"
-   },
-   {
-      "name": "Šavnik Municipality",
-      "isoCode": "18",
-      "countryCode": "ME",
-      "latitude": "42.96037560",
-      "longitude": "19.14043800"
    },
    {
       "name": "Plav Municipality",
@@ -63,46 +91,11 @@
       "longitude": "19.28315310"
    },
    {
-      "name": "Berane Municipality",
-      "isoCode": "03",
+      "name": "Plužine Municipality",
+      "isoCode": "15",
       "countryCode": "ME",
-      "latitude": "42.82572890",
-      "longitude": "19.90205090"
-   },
-   {
-      "name": "Mojkovac Municipality",
-      "isoCode": "11",
-      "countryCode": "ME",
-      "latitude": "42.96880180",
-      "longitude": "19.52110630"
-   },
-   {
-      "name": "Andrijevica Municipality",
-      "isoCode": "01",
-      "countryCode": "ME",
-      "latitude": "42.73624770",
-      "longitude": "19.78595560"
-   },
-   {
-      "name": "Gusinje Municipality",
-      "isoCode": "22",
-      "countryCode": "ME",
-      "latitude": "42.55634550",
-      "longitude": "19.83060510"
-   },
-   {
-      "name": "Bijelo Polje Municipality",
-      "isoCode": "04",
-      "countryCode": "ME",
-      "latitude": "43.08465260",
-      "longitude": "19.71154720"
-   },
-   {
-      "name": "Kotor Municipality",
-      "isoCode": "10",
-      "countryCode": "ME",
-      "latitude": "42.57402610",
-      "longitude": "18.64131450"
+      "latitude": "43.15933840",
+      "longitude": "18.85514840"
    },
    {
       "name": "Podgorica Municipality",
@@ -112,11 +105,18 @@
       "longitude": "19.28315310"
    },
    {
-      "name": "Old Royal Capital Cetinje",
-      "isoCode": "06",
+      "name": "Rožaje Municipality",
+      "isoCode": "17",
       "countryCode": "ME",
-      "latitude": "42.39309590",
-      "longitude": "18.91159640"
+      "latitude": "42.84083890",
+      "longitude": "20.16706280"
+   },
+   {
+      "name": "Šavnik Municipality",
+      "isoCode": "18",
+      "countryCode": "ME",
+      "latitude": "42.96037560",
+      "longitude": "19.14043800"
    },
    {
       "name": "Tivat Municipality",
@@ -126,18 +126,11 @@
       "longitude": "18.71851840"
    },
    {
-      "name": "Budva Municipality",
-      "isoCode": "05",
+      "name": "Ulcinj Municipality",
+      "isoCode": "20",
       "countryCode": "ME",
-      "latitude": "42.31407200",
-      "longitude": "18.83138320"
-   },
-   {
-      "name": "Kolašin Municipality",
-      "isoCode": "09",
-      "countryCode": "ME",
-      "latitude": "42.76019160",
-      "longitude": "19.42591140"
+      "latitude": "41.96527950",
+      "longitude": "19.30694320"
    },
    {
       "name": "Žabljak Municipality",
@@ -147,10 +140,17 @@
       "longitude": "19.12260180"
    },
    {
-      "name": "Ulcinj Municipality",
-      "isoCode": "20",
+      "name": "Gusinje Municipality",
+      "isoCode": "22",
       "countryCode": "ME",
-      "latitude": "41.96527950",
-      "longitude": "19.30694320"
+      "latitude": "42.55634550",
+      "longitude": "19.83060510"
+   },
+   {
+      "name": "Petnjica Municipality",
+      "isoCode": "23",
+      "countryCode": "ME",
+      "latitude": "42.93534800",
+      "longitude": "20.02114490"
    }
 ]

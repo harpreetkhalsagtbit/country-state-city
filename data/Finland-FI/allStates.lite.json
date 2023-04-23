@@ -1,27 +1,7 @@
 [
    {
-      "name": "Eastern Finland Province",
-      "isoCode": "IS",
-      "countryCode": "FI"
-   },
-   {
-      "name": "Tavastia Proper",
-      "isoCode": "06",
-      "countryCode": "FI"
-   },
-   {
-      "name": "Central Ostrobothnia",
-      "isoCode": "07",
-      "countryCode": "FI"
-   },
-   {
-      "name": "Southern Savonia",
-      "isoCode": "04",
-      "countryCode": "FI"
-   },
-   {
-      "name": "Kainuu",
-      "isoCode": "05",
+      "name": "Åland Islands",
+      "isoCode": "01",
       "countryCode": "FI"
    },
    {
@@ -35,28 +15,43 @@
       "countryCode": "FI"
    },
    {
-      "name": "Oulu Province",
-      "isoCode": "OL",
+      "name": "Southern Savonia",
+      "isoCode": "04",
       "countryCode": "FI"
    },
    {
-      "name": "Lapland",
-      "isoCode": "LL",
+      "name": "Kainuu",
+      "isoCode": "05",
       "countryCode": "FI"
    },
    {
-      "name": "Satakunta",
-      "isoCode": "17",
+      "name": "Tavastia Proper",
+      "isoCode": "06",
       "countryCode": "FI"
    },
    {
-      "name": "Päijänne Tavastia",
-      "isoCode": "16",
+      "name": "Central Ostrobothnia",
+      "isoCode": "07",
       "countryCode": "FI"
    },
    {
-      "name": "Northern Savonia",
-      "isoCode": "15",
+      "name": "Central Finland",
+      "isoCode": "08",
+      "countryCode": "FI"
+   },
+   {
+      "name": "Kymenlaakso",
+      "isoCode": "09",
+      "countryCode": "FI"
+   },
+   {
+      "name": "Pirkanmaa",
+      "isoCode": "11",
+      "countryCode": "FI"
+   },
+   {
+      "name": "Ostrobothnia",
+      "isoCode": "12",
       "countryCode": "FI"
    },
    {
@@ -70,23 +65,18 @@
       "countryCode": "FI"
    },
    {
-      "name": "Pirkanmaa",
-      "isoCode": "11",
+      "name": "Northern Savonia",
+      "isoCode": "15",
       "countryCode": "FI"
    },
    {
-      "name": "Finland Proper",
-      "isoCode": "19",
+      "name": "Päijänne Tavastia",
+      "isoCode": "16",
       "countryCode": "FI"
    },
    {
-      "name": "Ostrobothnia",
-      "isoCode": "12",
-      "countryCode": "FI"
-   },
-   {
-      "name": "Åland Islands",
-      "isoCode": "01",
+      "name": "Satakunta",
+      "isoCode": "17",
       "countryCode": "FI"
    },
    {
@@ -95,13 +85,23 @@
       "countryCode": "FI"
    },
    {
-      "name": "Central Finland",
-      "isoCode": "08",
+      "name": "Finland Proper",
+      "isoCode": "19",
       "countryCode": "FI"
    },
    {
-      "name": "Kymenlaakso",
-      "isoCode": "09",
+      "name": "Eastern Finland Province",
+      "isoCode": "IS",
+      "countryCode": "FI"
+   },
+   {
+      "name": "Lapland",
+      "isoCode": "LL",
+      "countryCode": "FI"
+   },
+   {
+      "name": "Oulu Province",
+      "isoCode": "OL",
       "countryCode": "FI"
    }
 ]

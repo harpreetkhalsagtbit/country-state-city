@@ -1,12 +1,7 @@
 [
    {
-      "name": "Ghazni",
-      "isoCode": "GHA",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Badghis",
-      "isoCode": "BDG",
+      "name": "Balkh",
+      "isoCode": "BAL",
       "countryCode": "AF"
    },
    {
@@ -15,13 +10,13 @@
       "countryCode": "AF"
    },
    {
-      "name": "Helmand",
-      "isoCode": "HEL",
+      "name": "Badghis",
+      "isoCode": "BDG",
       "countryCode": "AF"
    },
    {
-      "name": "Zabul",
-      "isoCode": "ZAB",
+      "name": "Badakhshan",
+      "isoCode": "BDS",
       "countryCode": "AF"
    },
    {
@@ -30,13 +25,63 @@
       "countryCode": "AF"
    },
    {
-      "name": "Kunar",
-      "isoCode": "KNR",
+      "name": "Daykundi",
+      "isoCode": "DAY",
       "countryCode": "AF"
    },
    {
-      "name": "Paktika",
-      "isoCode": "PKA",
+      "name": "Farah",
+      "isoCode": "FRA",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Faryab",
+      "isoCode": "FYB",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Ghazni",
+      "isoCode": "GHA",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Ghōr",
+      "isoCode": "GHO",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Helmand",
+      "isoCode": "HEL",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Herat",
+      "isoCode": "HER",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Jowzjan",
+      "isoCode": "JOW",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Kabul",
+      "isoCode": "KAB",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Kandahar",
+      "isoCode": "KAN",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Kapisa",
+      "isoCode": "KAP",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Kunduz Province",
+      "isoCode": "KDZ",
       "countryCode": "AF"
    },
    {
@@ -45,8 +90,28 @@
       "countryCode": "AF"
    },
    {
-      "name": "Kapisa",
-      "isoCode": "KAP",
+      "name": "Kunar",
+      "isoCode": "KNR",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Laghman",
+      "isoCode": "LAG",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Logar",
+      "isoCode": "LOG",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Nangarhar",
+      "isoCode": "NAN",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Nimruz",
+      "isoCode": "NIM",
       "countryCode": "AF"
    },
    {
@@ -60,63 +125,8 @@
       "countryCode": "AF"
    },
    {
-      "name": "Nangarhar",
-      "isoCode": "NAN",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Samangan",
-      "isoCode": "SAM",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Balkh",
-      "isoCode": "BAL",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Sar-e Pol",
-      "isoCode": "SAR",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Jowzjan",
-      "isoCode": "JOW",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Herat",
-      "isoCode": "HER",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Ghōr",
-      "isoCode": "GHO",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Faryab",
-      "isoCode": "FYB",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Kandahar",
-      "isoCode": "KAN",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Laghman",
-      "isoCode": "LAG",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Daykundi",
-      "isoCode": "DAY",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Takhar",
-      "isoCode": "TAK",
+      "name": "Parwan",
+      "isoCode": "PAR",
       "countryCode": "AF"
    },
    {
@@ -125,18 +135,23 @@
       "countryCode": "AF"
    },
    {
-      "name": "Parwan",
-      "isoCode": "PAR",
+      "name": "Paktika",
+      "isoCode": "PKA",
       "countryCode": "AF"
    },
    {
-      "name": "Nimruz",
-      "isoCode": "NIM",
+      "name": "Samangan",
+      "isoCode": "SAM",
       "countryCode": "AF"
    },
    {
-      "name": "Logar",
-      "isoCode": "LOG",
+      "name": "Sar-e Pol",
+      "isoCode": "SAR",
+      "countryCode": "AF"
+   },
+   {
+      "name": "Takhar",
+      "isoCode": "TAK",
       "countryCode": "AF"
    },
    {
@@ -145,23 +160,8 @@
       "countryCode": "AF"
    },
    {
-      "name": "Farah",
-      "isoCode": "FRA",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Kunduz Province",
-      "isoCode": "KDZ",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Badakhshan",
-      "isoCode": "BDS",
-      "countryCode": "AF"
-   },
-   {
-      "name": "Kabul",
-      "isoCode": "KAB",
+      "name": "Zabul",
+      "isoCode": "ZAB",
       "countryCode": "AF"
    }
 ]

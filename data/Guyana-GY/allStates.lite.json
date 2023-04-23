@@ -1,37 +1,12 @@
 [
    {
-      "name": "Cuyuni-Mazaruni",
-      "isoCode": "CU",
-      "countryCode": "GY"
-   },
-   {
-      "name": "Potaro-Siparuni",
-      "isoCode": "PT",
-      "countryCode": "GY"
-   },
-   {
-      "name": "Mahaica-Berbice",
-      "isoCode": "MA",
-      "countryCode": "GY"
-   },
-   {
-      "name": "Upper Demerara-Berbice",
-      "isoCode": "UD",
-      "countryCode": "GY"
-   },
-   {
       "name": "Barima-Waini",
       "isoCode": "BA",
       "countryCode": "GY"
    },
    {
-      "name": "Pomeroon-Supenaam",
-      "isoCode": "PM",
-      "countryCode": "GY"
-   },
-   {
-      "name": "East Berbice-Corentyne",
-      "isoCode": "EB",
+      "name": "Cuyuni-Mazaruni",
+      "isoCode": "CU",
       "countryCode": "GY"
    },
    {
@@ -40,8 +15,33 @@
       "countryCode": "GY"
    },
    {
+      "name": "East Berbice-Corentyne",
+      "isoCode": "EB",
+      "countryCode": "GY"
+   },
+   {
       "name": "Essequibo Islands-West Demerara",
       "isoCode": "ES",
+      "countryCode": "GY"
+   },
+   {
+      "name": "Mahaica-Berbice",
+      "isoCode": "MA",
+      "countryCode": "GY"
+   },
+   {
+      "name": "Pomeroon-Supenaam",
+      "isoCode": "PM",
+      "countryCode": "GY"
+   },
+   {
+      "name": "Potaro-Siparuni",
+      "isoCode": "PT",
+      "countryCode": "GY"
+   },
+   {
+      "name": "Upper Demerara-Berbice",
+      "isoCode": "UD",
       "countryCode": "GY"
    },
    {

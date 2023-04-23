@@ -1,68 +1,5 @@
 [
    {
-      "name": "Presidente Hayes Department",
-      "isoCode": "15",
-      "countryCode": "PY",
-      "latitude": "-23.35126050",
-      "longitude": "-58.73736340"
-   },
-   {
-      "name": "Canindeyú",
-      "isoCode": "14",
-      "countryCode": "PY",
-      "latitude": "-24.13787350",
-      "longitude": "-55.66896360"
-   },
-   {
-      "name": "Guairá Department",
-      "isoCode": "4",
-      "countryCode": "PY",
-      "latitude": "-25.88109320",
-      "longitude": "-56.29293810"
-   },
-   {
-      "name": "Caaguazú",
-      "isoCode": "5",
-      "countryCode": "PY",
-      "latitude": "-25.46458180",
-      "longitude": "-56.01385100"
-   },
-   {
-      "name": "Paraguarí Department",
-      "isoCode": "9",
-      "countryCode": "PY",
-      "latitude": "-25.62621740",
-      "longitude": "-57.15206420"
-   },
-   {
-      "name": "Caazapá",
-      "isoCode": "6",
-      "countryCode": "PY",
-      "latitude": "-26.18277130",
-      "longitude": "-56.37123270"
-   },
-   {
-      "name": "San Pedro Department",
-      "isoCode": "2",
-      "countryCode": "PY",
-      "latitude": "-24.19486680",
-      "longitude": "-56.56164700"
-   },
-   {
-      "name": "Central Department",
-      "isoCode": "11",
-      "countryCode": "PY",
-      "latitude": "36.15592290",
-      "longitude": "-95.96620750"
-   },
-   {
-      "name": "Itapúa",
-      "isoCode": "7",
-      "countryCode": "PY",
-      "latitude": "-26.79236230",
-      "longitude": "-55.66896360"
-   },
-   {
       "name": "Concepción Department",
       "isoCode": "1",
       "countryCode": "PY",
@@ -70,11 +7,18 @@
       "longitude": "-57.43444510"
    },
    {
-      "name": "Boquerón Department",
-      "isoCode": "19",
+      "name": "Alto Paraná Department",
+      "isoCode": "10",
       "countryCode": "PY",
-      "latitude": "-21.74492540",
-      "longitude": "-60.95400730"
+      "latitude": "-25.60755460",
+      "longitude": "-54.96118360"
+   },
+   {
+      "name": "Central Department",
+      "isoCode": "11",
+      "countryCode": "PY",
+      "latitude": "36.15592290",
+      "longitude": "-95.96620750"
    },
    {
       "name": "Ñeembucú Department",
@@ -91,18 +35,18 @@
       "longitude": "-56.02499820"
    },
    {
-      "name": "Cordillera Department",
-      "isoCode": "3",
+      "name": "Canindeyú",
+      "isoCode": "14",
       "countryCode": "PY",
-      "latitude": "-25.22894910",
-      "longitude": "-57.01116810"
+      "latitude": "-24.13787350",
+      "longitude": "-55.66896360"
    },
    {
-      "name": "Alto Paraná Department",
-      "isoCode": "10",
+      "name": "Presidente Hayes Department",
+      "isoCode": "15",
       "countryCode": "PY",
-      "latitude": "-25.60755460",
-      "longitude": "-54.96118360"
+      "latitude": "-23.35126050",
+      "longitude": "-58.73736340"
    },
    {
       "name": "Alto Paraguay Department",
@@ -112,10 +56,66 @@
       "longitude": "-59.47209040"
    },
    {
+      "name": "Boquerón Department",
+      "isoCode": "19",
+      "countryCode": "PY",
+      "latitude": "-21.74492540",
+      "longitude": "-60.95400730"
+   },
+   {
+      "name": "San Pedro Department",
+      "isoCode": "2",
+      "countryCode": "PY",
+      "latitude": "-24.19486680",
+      "longitude": "-56.56164700"
+   },
+   {
+      "name": "Cordillera Department",
+      "isoCode": "3",
+      "countryCode": "PY",
+      "latitude": "-25.22894910",
+      "longitude": "-57.01116810"
+   },
+   {
+      "name": "Guairá Department",
+      "isoCode": "4",
+      "countryCode": "PY",
+      "latitude": "-25.88109320",
+      "longitude": "-56.29293810"
+   },
+   {
+      "name": "Caaguazú",
+      "isoCode": "5",
+      "countryCode": "PY",
+      "latitude": "-25.46458180",
+      "longitude": "-56.01385100"
+   },
+   {
+      "name": "Caazapá",
+      "isoCode": "6",
+      "countryCode": "PY",
+      "latitude": "-26.18277130",
+      "longitude": "-56.37123270"
+   },
+   {
+      "name": "Itapúa",
+      "isoCode": "7",
+      "countryCode": "PY",
+      "latitude": "-26.79236230",
+      "longitude": "-55.66896360"
+   },
+   {
       "name": "Misiones Department",
       "isoCode": "8",
       "countryCode": "PY",
       "latitude": "-26.84335120",
       "longitude": "-57.10131880"
+   },
+   {
+      "name": "Paraguarí Department",
+      "isoCode": "9",
+      "countryCode": "PY",
+      "latitude": "-25.62621740",
+      "longitude": "-57.15206420"
    }
 ]

@@ -21,11 +21,11 @@
       "longitude": "78.20596000"
    },
    {
-      "name": "Bhowali",
+      "name": "Bazpur",
       "countryCode": "IN",
       "stateCode": "UT",
-      "latitude": "29.38985000",
-      "longitude": "79.50481000"
+      "latitude": "29.15299000",
+      "longitude": "79.10814000"
    },
    {
       "name": "Bhim Tal",
@@ -35,18 +35,18 @@
       "longitude": "79.56336000"
    },
    {
+      "name": "Bhowali",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "29.38985000",
+      "longitude": "79.50481000"
+   },
+   {
       "name": "Birbhaddar",
       "countryCode": "IN",
       "stateCode": "UT",
       "latitude": "30.07120000",
       "longitude": "78.28189000"
-   },
-   {
-      "name": "Bazpur",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "29.15299000",
-      "longitude": "79.10814000"
    },
    {
       "name": "Chakrata",
@@ -161,6 +161,20 @@
       "longitude": "79.56436000"
    },
    {
+      "name": "Kaladhungi",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "29.28351000",
+      "longitude": "79.35100000"
+   },
+   {
+      "name": "Kalagarh Project Colony",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "29.47780000",
+      "longitude": "78.78449000"
+   },
+   {
       "name": "Kashipur",
       "countryCode": "IN",
       "stateCode": "UT",
@@ -187,20 +201,6 @@
       "stateCode": "UT",
       "latitude": "29.74612000",
       "longitude": "78.52219000"
-   },
-   {
-      "name": "Kaladhungi",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "29.28351000",
-      "longitude": "79.35100000"
-   },
-   {
-      "name": "Kalagarh Project Colony",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "29.47780000",
-      "longitude": "78.78449000"
    },
    {
       "name": "Laksar",
@@ -259,6 +259,13 @@
       "longitude": "78.77710000"
    },
    {
+      "name": "Pipalkoti",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "30.42553000",
+      "longitude": "79.43066000"
+   },
+   {
       "name": "Pithoragarh",
       "countryCode": "IN",
       "stateCode": "UT",
@@ -266,11 +273,32 @@
       "longitude": "80.25000000"
    },
    {
-      "name": "Pipalkoti",
+      "name": "Raipur",
       "countryCode": "IN",
       "stateCode": "UT",
-      "latitude": "30.42553000",
-      "longitude": "79.43066000"
+      "latitude": "30.31097000",
+      "longitude": "78.08979000"
+   },
+   {
+      "name": "Raiwala Bara",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "30.01864000",
+      "longitude": "78.22930000"
+   },
+   {
+      "name": "Ramnagar",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "29.39250000",
+      "longitude": "79.12830000"
+   },
+   {
+      "name": "Ranikhet",
+      "countryCode": "IN",
+      "stateCode": "UT",
+      "latitude": "29.64082000",
+      "longitude": "79.43229000"
    },
    {
       "name": "Rishikesh",
@@ -292,34 +320,6 @@
       "stateCode": "UT",
       "latitude": "30.60872000",
       "longitude": "79.06517000"
-   },
-   {
-      "name": "Raipur",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "30.31097000",
-      "longitude": "78.08979000"
-   },
-   {
-      "name": "Ramnagar",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "29.39250000",
-      "longitude": "79.12830000"
-   },
-   {
-      "name": "Ranikhet",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "29.64082000",
-      "longitude": "79.43229000"
-   },
-   {
-      "name": "Raiwala Bara",
-      "countryCode": "IN",
-      "stateCode": "UT",
-      "latitude": "30.01864000",
-      "longitude": "78.22930000"
    },
    {
       "name": "Sitarganj",

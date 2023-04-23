@@ -1,1587 +1,5 @@
 [
    {
-      "name": "Pagliarelle",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.14017000",
-      "longitude": "16.75101000"
-   },
-   {
-      "name": "Palermiti",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.74868000",
-      "longitude": "16.45220000"
-   },
-   {
-      "name": "Palizzi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.96667000",
-      "longitude": "15.98670000"
-   },
-   {
-      "name": "Palizzi Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.91995000",
-      "longitude": "15.97927000"
-   },
-   {
-      "name": "Pallagorio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.30764000",
-      "longitude": "16.90816000"
-   },
-   {
-      "name": "Palmi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.35943000",
-      "longitude": "15.85155000"
-   },
-   {
-      "name": "Paludi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.52943000",
-      "longitude": "16.67963000"
-   },
-   {
-      "name": "Panettieri",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.06007000",
-      "longitude": "16.45375000"
-   },
-   {
-      "name": "Pannaconi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.69291000",
-      "longitude": "16.04411000"
-   },
-   {
-      "name": "Paola",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.36313000",
-      "longitude": "16.03691000"
-   },
-   {
-      "name": "Papanice",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.07077000",
-      "longitude": "17.02721000"
-   },
-   {
-      "name": "Papasidero",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.87159000",
-      "longitude": "15.90581000"
-   },
-   {
-      "name": "Paravati",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.59020000",
-      "longitude": "16.05815000"
-   },
-   {
-      "name": "Parenti",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.16071000",
-      "longitude": "16.41140000"
-   },
-   {
-      "name": "Parghelia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.68189000",
-      "longitude": "15.92075000"
-   },
-   {
-      "name": "Paterno Calabro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.22849000",
-      "longitude": "16.26489000"
-   },
-   {
-      "name": "Pavigliana",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.10721000",
-      "longitude": "15.72108000"
-   },
-   {
-      "name": "Pazzano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.47612000",
-      "longitude": "16.45107000"
-   },
-   {
-      "name": "Pedace-Perito",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.27639000",
-      "longitude": "16.33639000"
-   },
-   {
-      "name": "Pedivigliano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.11034000",
-      "longitude": "16.30486000"
-   },
-   {
-      "name": "Pellaro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.01667000",
-      "longitude": "15.65000000"
-   },
-   {
-      "name": "Pentone",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.98579000",
-      "longitude": "16.58250000"
-   },
-   {
-      "name": "Pernocari-Presinaci",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.61184000",
-      "longitude": "16.00463000"
-   },
-   {
-      "name": "Petilia Policastro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.11293000",
-      "longitude": "16.78167000"
-   },
-   {
-      "name": "Petrizzi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.70179000",
-      "longitude": "16.47187000"
-   },
-   {
-      "name": "Petronà",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.04370000",
-      "longitude": "16.75796000"
-   },
-   {
-      "name": "Piane Crati",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.23472000",
-      "longitude": "16.32313000"
-   },
-   {
-      "name": "Pianopoli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.95246000",
-      "longitude": "16.38863000"
-   },
-   {
-      "name": "Pietrafitta",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.26103000",
-      "longitude": "16.33940000"
-   },
-   {
-      "name": "Pietrapaola",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.48701000",
-      "longitude": "16.81597000"
-   },
-   {
-      "name": "Piscopio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.66361000",
-      "longitude": "16.11101000"
-   },
-   {
-      "name": "Pizzo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.75259000",
-      "longitude": "16.18696000"
-   },
-   {
-      "name": "Pizzoni",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.62286000",
-      "longitude": "16.24876000"
-   },
-   {
-      "name": "Placanica",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.41078000",
-      "longitude": "16.45274000"
-   },
-   {
-      "name": "Plataci",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.90042000",
-      "longitude": "16.43272000"
-   },
-   {
-      "name": "Platania",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.00620000",
-      "longitude": "16.32194000"
-   },
-   {
-      "name": "Platì",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.22149000",
-      "longitude": "16.04530000"
-   },
-   {
-      "name": "Polia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.75118000",
-      "longitude": "16.31220000"
-   },
-   {
-      "name": "Polistena",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.40544000",
-      "longitude": "16.07330000"
-   },
-   {
-      "name": "Portigliola",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.22712000",
-      "longitude": "16.20287000"
-   },
-   {
-      "name": "Praia a Mare",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.89410000",
-      "longitude": "15.78421000"
-   },
-   {
-      "name": "Provincia di Catanzaro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.91667000",
-      "longitude": "16.43333000"
-   },
-   {
-      "name": "Provincia di Cosenza",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.55697000",
-      "longitude": "16.35491000"
-   },
-   {
-      "name": "Provincia di Crotone",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.12007000",
-      "longitude": "17.08134000"
-   },
-   {
-      "name": "Provincia di Reggio Calabria",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.31667000",
-      "longitude": "16.08333000"
-   },
-   {
-      "name": "Provincia di Vibo-Valentia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.69958000",
-      "longitude": "16.12741000"
-   },
-   {
-      "name": "Quattromiglia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.34474000",
-      "longitude": "16.23802000"
-   },
-   {
-      "name": "Reggio Calabria",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.11047000",
-      "longitude": "15.66129000"
-   },
-   {
-      "name": "Rende",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.33154000",
-      "longitude": "16.18041000"
-   },
-   {
-      "name": "Riace",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.41828000",
-      "longitude": "16.48121000"
-   },
-   {
-      "name": "Riace Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.39186000",
-      "longitude": "16.53033000"
-   },
-   {
-      "name": "Ricadi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.62517000",
-      "longitude": "15.86674000"
-   },
-   {
-      "name": "Rizziconi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.40994000",
-      "longitude": "15.95974000"
-   },
-   {
-      "name": "Rocca Imperiale",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "40.11014000",
-      "longitude": "16.57822000"
-   },
-   {
-      "name": "Rocca Imperiale Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "40.09962000",
-      "longitude": "16.61336000"
-   },
-   {
-      "name": "Rocca di Neto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.18292000",
-      "longitude": "17.00764000"
-   },
-   {
-      "name": "Roccabernarda",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.13276000",
-      "longitude": "16.86082000"
-   },
-   {
-      "name": "Roccaforte del Greco",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.04751000",
-      "longitude": "15.89198000"
-   },
-   {
-      "name": "Roccella Ionica",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.32117000",
-      "longitude": "16.39689000"
-   },
-   {
-      "name": "Roccelletta",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.81126000",
-      "longitude": "16.59820000"
-   },
-   {
-      "name": "Roggiano Gravina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.61786000",
-      "longitude": "16.16173000"
-   },
-   {
-      "name": "Roghudi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.92499000",
-      "longitude": "15.76537000"
-   },
-   {
-      "name": "Rogliano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.17841000",
-      "longitude": "16.31709000"
-   },
-   {
-      "name": "Rombiolo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.59535000",
-      "longitude": "16.00237000"
-   },
-   {
-      "name": "Rosario",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.29104000",
-      "longitude": "16.23125000"
-   },
-   {
-      "name": "Rosarno",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.48717000",
-      "longitude": "15.97956000"
-   },
-   {
-      "name": "Rose",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.39932000",
-      "longitude": "16.29446000"
-   },
-   {
-      "name": "Roseto Capo Spulico",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.98643000",
-      "longitude": "16.60363000"
-   },
-   {
-      "name": "Rossano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.57622000",
-      "longitude": "16.63447000"
-   },
-   {
-      "name": "Rossano Stazione",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.59855000",
-      "longitude": "16.63485000"
-   },
-   {
-      "name": "Rota Greca",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.46703000",
-      "longitude": "16.11412000"
-   },
-   {
-      "name": "Rovito",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.30636000",
-      "longitude": "16.31746000"
-   },
-   {
-      "name": "Saline Ioniche",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.93957000",
-      "longitude": "15.71943000"
-   },
-   {
-      "name": "Sambiase",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.96667000",
-      "longitude": "16.28333000"
-   },
-   {
-      "name": "Samo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.07399000",
-      "longitude": "16.05933000"
-   },
-   {
-      "name": "San Basile",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.80960000",
-      "longitude": "16.16328000"
-   },
-   {
-      "name": "San Benedetto Ullano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.42710000",
-      "longitude": "16.12379000"
-   },
-   {
-      "name": "San Calogero",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.57447000",
-      "longitude": "16.01933000"
-   },
-   {
-      "name": "San Carlo-Condofuri Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.93324000",
-      "longitude": "15.87166000"
-   },
-   {
-      "name": "San Cosmo Albanese",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.58363000",
-      "longitude": "16.41469000"
-   },
-   {
-      "name": "San Costantino Calabro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.63283000",
-      "longitude": "16.07571000"
-   },
-   {
-      "name": "San Demetrio Corone",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.56990000",
-      "longitude": "16.36149000"
-   },
-   {
-      "name": "San Donato di Ninea",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.71156000",
-      "longitude": "16.04742000"
-   },
-   {
-      "name": "San Ferdinando",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.48403000",
-      "longitude": "15.91877000"
-   },
-   {
-      "name": "San Fili",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.33971000",
-      "longitude": "16.14448000"
-   },
-   {
-      "name": "San Floro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.83799000",
-      "longitude": "16.51870000"
-   },
-   {
-      "name": "San Giorgio Albanese",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.58230000",
-      "longitude": "16.45349000"
-   },
-   {
-      "name": "San Giorgio Morgeto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.39190000",
-      "longitude": "16.08790000"
-   },
-   {
-      "name": "San Giovanni di Gerace",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.36508000",
-      "longitude": "16.27770000"
-   },
-   {
-      "name": "San Giovanni in Fiore",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.25446000",
-      "longitude": "16.69699000"
-   },
-   {
-      "name": "San Gregorio d'Ippona",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.64528000",
-      "longitude": "16.10356000"
-   },
-   {
-      "name": "San Lorenzo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.01097000",
-      "longitude": "15.83440000"
-   },
-   {
-      "name": "San Lorenzo Bellizzi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.88867000",
-      "longitude": "16.33029000"
-   },
-   {
-      "name": "San Lorenzo del Vallo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.66739000",
-      "longitude": "16.29866000"
-   },
-   {
-      "name": "San Luca",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.14672000",
-      "longitude": "16.06625000"
-   },
-   {
-      "name": "San Lucido",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.31012000",
-      "longitude": "16.05317000"
-   },
-   {
-      "name": "San Mango d'Aquino",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.06036000",
-      "longitude": "16.19224000"
-   },
-   {
-      "name": "San Marco Argentano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.55725000",
-      "longitude": "16.12452000"
-   },
-   {
-      "name": "San Martino",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.36157000",
-      "longitude": "15.97634000"
-   },
-   {
-      "name": "San Martino di Finita",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.48988000",
-      "longitude": "16.10968000"
-   },
-   {
-      "name": "San Mauro Marchesato",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.10559000",
-      "longitude": "16.92561000"
-   },
-   {
-      "name": "San Nico",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.66906000",
-      "longitude": "16.43182000"
-   },
-   {
-      "name": "San Nicola",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.21199000",
-      "longitude": "15.69381000"
-   },
-   {
-      "name": "San Nicola Arcella",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.84341000",
-      "longitude": "15.78634000"
-   },
-   {
-      "name": "San Nicola da Crissa",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.66354000",
-      "longitude": "16.28592000"
-   },
-   {
-      "name": "San Nicola dell'Alto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.29094000",
-      "longitude": "16.97179000"
-   },
-   {
-      "name": "San Nicolò",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.63426000",
-      "longitude": "15.85147000"
-   },
-   {
-      "name": "San Pietro Apostolo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.00413000",
-      "longitude": "16.46783000"
-   },
-   {
-      "name": "San Pietro a Maida",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.84731000",
-      "longitude": "16.34116000"
-   },
-   {
-      "name": "San Pietro di Caridà",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.52368000",
-      "longitude": "16.13530000"
-   },
-   {
-      "name": "San Pietro in Amantea",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.13658000",
-      "longitude": "16.11243000"
-   },
-   {
-      "name": "San Pietro in Guarano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.34164000",
-      "longitude": "16.31304000"
-   },
-   {
-      "name": "San Procopio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.28214000",
-      "longitude": "15.89083000"
-   },
-   {
-      "name": "San Roberto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.21114000",
-      "longitude": "15.73594000"
-   },
-   {
-      "name": "San Sostene",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.63733000",
-      "longitude": "16.48751000"
-   },
-   {
-      "name": "San Sosti",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.65879000",
-      "longitude": "16.02958000"
-   },
-   {
-      "name": "San Vincenzo la Costa",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.36544000",
-      "longitude": "16.15110000"
-   },
-   {
-      "name": "San Vito Sullo Ionio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.70749000",
-      "longitude": "16.40862000"
-   },
-   {
-      "name": "Sangineto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.60553000",
-      "longitude": "15.91481000"
-   },
-   {
-      "name": "Sant'Agata del Bianco",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.09242000",
-      "longitude": "16.08251000"
-   },
-   {
-      "name": "Sant'Agata di Esaro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.62235000",
-      "longitude": "15.98295000"
-   },
-   {
-      "name": "Sant'Alessio in Aspromonte",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.17220000",
-      "longitude": "15.75730000"
-   },
-   {
-      "name": "Sant'Andrea Apostolo dello Ionio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.62165000",
-      "longitude": "16.53048000"
-   },
-   {
-      "name": "Sant'Andrea Ionio Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.62001000",
-      "longitude": "16.54927000"
-   },
-   {
-      "name": "Sant'Elia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.95788000",
-      "longitude": "16.58521000"
-   },
-   {
-      "name": "Sant'Eufemia d'Aspromonte",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.26314000",
-      "longitude": "15.85669000"
-   },
-   {
-      "name": "Sant'Ilario dello Ionio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.21914000",
-      "longitude": "16.19517000"
-   },
-   {
-      "name": "Sant'Onofrio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.69752000",
-      "longitude": "16.14755000"
-   },
-   {
-      "name": "Santa Caterina Albanese",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.58590000",
-      "longitude": "16.07039000"
-   },
-   {
-      "name": "Santa Caterina dello Ionio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.53324000",
-      "longitude": "16.52176000"
-   },
-   {
-      "name": "Santa Caterina dello Ionio Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.52736000",
-      "longitude": "16.57071000"
-   },
-   {
-      "name": "Santa Cristina d'Aspromonte",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.25480000",
-      "longitude": "15.96996000"
-   },
-   {
-      "name": "Santa Domenica",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.66220000",
-      "longitude": "15.86289000"
-   },
-   {
-      "name": "Santa Domenica Talao",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.81875000",
-      "longitude": "15.85380000"
-   },
-   {
-      "name": "Santa Eufemia Lamezia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.91982000",
-      "longitude": "16.25221000"
-   },
-   {
-      "name": "Santa Maria del Cedro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.74620000",
-      "longitude": "15.83638000"
-   },
-   {
-      "name": "Santa Severina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.14770000",
-      "longitude": "16.91112000"
-   },
-   {
-      "name": "Santa Sofia d'Epiro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.54597000",
-      "longitude": "16.32815000"
-   },
-   {
-      "name": "Santo Stefano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.34734000",
-      "longitude": "16.19898000"
-   },
-   {
-      "name": "Santo Stefano di Rogliano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.19223000",
-      "longitude": "16.32079000"
-   },
-   {
-      "name": "Santo Stefano in Aspromonte",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.16909000",
-      "longitude": "15.78983000"
-   },
-   {
-      "name": "Saracena",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.77862000",
-      "longitude": "16.15913000"
-   },
-   {
-      "name": "Sartano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.51169000",
-      "longitude": "16.17915000"
-   },
-   {
-      "name": "Satriano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.66640000",
-      "longitude": "16.47970000"
-   },
-   {
-      "name": "Savelli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.31278000",
-      "longitude": "16.77642000"
-   },
-   {
-      "name": "Scala Coeli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.44824000",
-      "longitude": "16.88658000"
-   },
-   {
-      "name": "Scalea",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.80605000",
-      "longitude": "15.79635000"
-   },
-   {
-      "name": "Scandale",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.12339000",
-      "longitude": "16.96185000"
-   },
-   {
-      "name": "Scarcelli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.40000000",
-      "longitude": "16.01667000"
-   },
-   {
-      "name": "Scido",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.24439000",
-      "longitude": "15.93251000"
-   },
-   {
-      "name": "Scilla",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.25201000",
-      "longitude": "15.71837000"
-   },
-   {
-      "name": "Sellia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.98206000",
-      "longitude": "16.63070000"
-   },
-   {
-      "name": "Sellia Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.88599000",
-      "longitude": "16.74931000"
-   },
-   {
-      "name": "Seminara",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.33603000",
-      "longitude": "15.87025000"
-   },
-   {
-      "name": "Serra Pedace",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.27898000",
-      "longitude": "16.34557000"
-   },
-   {
-      "name": "Serra San Bruno",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.57474000",
-      "longitude": "16.32622000"
-   },
-   {
-      "name": "Serra d'Aiello",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.09004000",
-      "longitude": "16.12612000"
-   },
-   {
-      "name": "Serrastretta",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.01319000",
-      "longitude": "16.41630000"
-   },
-   {
-      "name": "Serrata",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.51288000",
-      "longitude": "16.10070000"
-   },
-   {
-      "name": "Sersale",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.01013000",
-      "longitude": "16.72960000"
-   },
-   {
-      "name": "Settimo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.39158000",
-      "longitude": "16.23998000"
-   },
-   {
-      "name": "Settingiano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.91139000",
-      "longitude": "16.51390000"
-   },
-   {
-      "name": "Siano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.91547000",
-      "longitude": "16.60224000"
-   },
-   {
-      "name": "Sibari",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.74733000",
-      "longitude": "16.45510000"
-   },
-   {
-      "name": "Siderno",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.26993000",
-      "longitude": "16.29607000"
-   },
-   {
-      "name": "Simbario",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.61157000",
-      "longitude": "16.33597000"
-   },
-   {
-      "name": "Sinopoli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.26342000",
-      "longitude": "15.87710000"
-   },
-   {
-      "name": "Sorbo San Basile",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.01939000",
-      "longitude": "16.56910000"
-   },
-   {
-      "name": "Sorianello",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.59415000",
-      "longitude": "16.23212000"
-   },
-   {
-      "name": "Soriano Calabro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.60038000",
-      "longitude": "16.22205000"
-   },
-   {
-      "name": "Soverato Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.68498000",
-      "longitude": "16.54991000"
-   },
-   {
-      "name": "Soverato Superiore",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.68993000",
-      "longitude": "16.53391000"
-   },
-   {
-      "name": "Soveria Mannelli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.07784000",
-      "longitude": "16.37708000"
-   },
-   {
-      "name": "Soveria Simeri",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.94986000",
-      "longitude": "16.67854000"
-   },
-   {
-      "name": "Spadola",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.60378000",
-      "longitude": "16.33700000"
-   },
-   {
-      "name": "Spezzano Albanese",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.66854000",
-      "longitude": "16.30939000"
-   },
-   {
-      "name": "Spezzano Piccolo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.29010000",
-      "longitude": "16.34211000"
-   },
-   {
-      "name": "Spezzano della Sila",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.30033000",
-      "longitude": "16.33923000"
-   },
-   {
-      "name": "Spilinga",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.62825000",
-      "longitude": "15.90572000"
-   },
-   {
-      "name": "Squillace",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.78091000",
-      "longitude": "16.51175000"
-   },
-   {
-      "name": "Squillace Lido",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.77781000",
-      "longitude": "16.57007000"
-   },
-   {
-      "name": "Staiti",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.99989000",
-      "longitude": "16.03341000"
-   },
-   {
-      "name": "Staletti",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.76428000",
-      "longitude": "16.53932000"
-   },
-   {
-      "name": "Stazione Montalto-Coretto",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.40720000",
-      "longitude": "16.24313000"
-   },
-   {
-      "name": "Stefanaconi",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.67788000",
-      "longitude": "16.12420000"
-   },
-   {
-      "name": "Stignano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.41705000",
-      "longitude": "16.47011000"
-   },
-   {
-      "name": "Stilo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.47628000",
-      "longitude": "16.46746000"
-   },
-   {
-      "name": "Strongoli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.26576000",
-      "longitude": "17.05413000"
-   },
-   {
-      "name": "Surdo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.32752000",
-      "longitude": "16.20139000"
-   },
-   {
-      "name": "Tarsia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.62311000",
-      "longitude": "16.27337000"
-   },
-   {
-      "name": "Taurianova",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.35525000",
-      "longitude": "16.01306000"
-   },
-   {
-      "name": "Taverna",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.02200000",
-      "longitude": "16.58081000"
-   },
-   {
-      "name": "Terranova Sappo Minulio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.32175000",
-      "longitude": "16.00747000"
-   },
-   {
-      "name": "Terranova da Sibari",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.65548000",
-      "longitude": "16.33979000"
-   },
-   {
-      "name": "Terravecchia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.46594000",
-      "longitude": "16.94623000"
-   },
-   {
-      "name": "Tiriolo",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.94069000",
-      "longitude": "16.51046000"
-   },
-   {
-      "name": "Tivolille Pasquali-Merenzata",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.27953000",
-      "longitude": "16.20738000"
-   },
-   {
-      "name": "Torano Castello",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.50396000",
-      "longitude": "16.16103000"
-   },
-   {
-      "name": "Torre Melissa",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.31013000",
-      "longitude": "17.10660000"
-   },
-   {
-      "name": "Torre di Ruggiero",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.65293000",
-      "longitude": "16.37211000"
-   },
-   {
-      "name": "Torretta",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.45358000",
-      "longitude": "17.03632000"
-   },
-   {
-      "name": "Tortora",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.94130000",
-      "longitude": "15.80518000"
-   },
-   {
-      "name": "Tortora Marina",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.92293000",
-      "longitude": "15.76943000"
-   },
-   {
-      "name": "Trebisacce",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.87128000",
-      "longitude": "16.53420000"
-   },
-   {
-      "name": "Trenta",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.28541000",
-      "longitude": "16.32093000"
-   },
-   {
-      "name": "Tronca",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.24617000",
-      "longitude": "17.10582000"
-   },
-   {
-      "name": "Tropea",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.67449000",
-      "longitude": "15.89505000"
-   },
-   {
-      "name": "Umbriatico",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.35336000",
-      "longitude": "16.91798000"
-   },
-   {
-      "name": "Vaccarizzo Albanese",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.58540000",
-      "longitude": "16.43289000"
-   },
-   {
-      "name": "Vadue",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.28060000",
-      "longitude": "16.22875000"
-   },
-   {
-      "name": "Vallefiorita",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.77638000",
-      "longitude": "16.46100000"
-   },
-   {
-      "name": "Vallelonga",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.64742000",
-      "longitude": "16.29659000"
-   },
-   {
-      "name": "Varapodio",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.31633000",
-      "longitude": "15.98347000"
-   },
-   {
-      "name": "Vazzano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.63288000",
-      "longitude": "16.24800000"
-   },
-   {
-      "name": "Verbicaro",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.76076000",
-      "longitude": "15.90730000"
-   },
-   {
-      "name": "Verzino",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.31325000",
-      "longitude": "16.85613000"
-   },
-   {
-      "name": "Vibo Valentia",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.67618000",
-      "longitude": "16.10094000"
-   },
-   {
-      "name": "Villa San Giovanni",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.21991000",
-      "longitude": "15.63689000"
-   },
-   {
-      "name": "Villapiana",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.84573000",
-      "longitude": "16.45528000"
-   },
-   {
-      "name": "Villapiana Lido",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.81203000",
-      "longitude": "16.48820000"
-   },
-   {
-      "name": "Weather Station",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "37.96136000",
-      "longitude": "16.09970000"
-   },
-   {
-      "name": "Zaccanopoli",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.66548000",
-      "longitude": "15.92874000"
-   },
-   {
-      "name": "Zagarise",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.99985000",
-      "longitude": "16.66420000"
-   },
-   {
-      "name": "Zambrone",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.69878000",
-      "longitude": "15.98982000"
-   },
-   {
-      "name": "Zumpano",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "39.31053000",
-      "longitude": "16.29269000"
-   },
-   {
-      "name": "Zungri",
-      "countryCode": "IT",
-      "stateCode": "78",
-      "latitude": "38.65668000",
-      "longitude": "15.98409000"
-   },
-   {
       "name": "Acconia",
       "countryCode": "IT",
       "stateCode": "78",
@@ -3547,5 +1965,1587 @@
       "stateCode": "78",
       "latitude": "39.79910000",
       "longitude": "15.90748000"
+   },
+   {
+      "name": "Pagliarelle",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.14017000",
+      "longitude": "16.75101000"
+   },
+   {
+      "name": "Palermiti",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.74868000",
+      "longitude": "16.45220000"
+   },
+   {
+      "name": "Palizzi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.96667000",
+      "longitude": "15.98670000"
+   },
+   {
+      "name": "Palizzi Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.91995000",
+      "longitude": "15.97927000"
+   },
+   {
+      "name": "Pallagorio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.30764000",
+      "longitude": "16.90816000"
+   },
+   {
+      "name": "Palmi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.35943000",
+      "longitude": "15.85155000"
+   },
+   {
+      "name": "Paludi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.52943000",
+      "longitude": "16.67963000"
+   },
+   {
+      "name": "Panettieri",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.06007000",
+      "longitude": "16.45375000"
+   },
+   {
+      "name": "Pannaconi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.69291000",
+      "longitude": "16.04411000"
+   },
+   {
+      "name": "Paola",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.36313000",
+      "longitude": "16.03691000"
+   },
+   {
+      "name": "Papanice",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.07077000",
+      "longitude": "17.02721000"
+   },
+   {
+      "name": "Papasidero",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.87159000",
+      "longitude": "15.90581000"
+   },
+   {
+      "name": "Paravati",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.59020000",
+      "longitude": "16.05815000"
+   },
+   {
+      "name": "Parenti",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.16071000",
+      "longitude": "16.41140000"
+   },
+   {
+      "name": "Parghelia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.68189000",
+      "longitude": "15.92075000"
+   },
+   {
+      "name": "Paterno Calabro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.22849000",
+      "longitude": "16.26489000"
+   },
+   {
+      "name": "Pavigliana",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.10721000",
+      "longitude": "15.72108000"
+   },
+   {
+      "name": "Pazzano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.47612000",
+      "longitude": "16.45107000"
+   },
+   {
+      "name": "Pedace-Perito",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.27639000",
+      "longitude": "16.33639000"
+   },
+   {
+      "name": "Pedivigliano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.11034000",
+      "longitude": "16.30486000"
+   },
+   {
+      "name": "Pellaro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.01667000",
+      "longitude": "15.65000000"
+   },
+   {
+      "name": "Pentone",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.98579000",
+      "longitude": "16.58250000"
+   },
+   {
+      "name": "Pernocari-Presinaci",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.61184000",
+      "longitude": "16.00463000"
+   },
+   {
+      "name": "Petilia Policastro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.11293000",
+      "longitude": "16.78167000"
+   },
+   {
+      "name": "Petrizzi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.70179000",
+      "longitude": "16.47187000"
+   },
+   {
+      "name": "Petronà",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.04370000",
+      "longitude": "16.75796000"
+   },
+   {
+      "name": "Piane Crati",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.23472000",
+      "longitude": "16.32313000"
+   },
+   {
+      "name": "Pianopoli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.95246000",
+      "longitude": "16.38863000"
+   },
+   {
+      "name": "Pietrafitta",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.26103000",
+      "longitude": "16.33940000"
+   },
+   {
+      "name": "Pietrapaola",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.48701000",
+      "longitude": "16.81597000"
+   },
+   {
+      "name": "Piscopio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.66361000",
+      "longitude": "16.11101000"
+   },
+   {
+      "name": "Pizzo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.75259000",
+      "longitude": "16.18696000"
+   },
+   {
+      "name": "Pizzoni",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.62286000",
+      "longitude": "16.24876000"
+   },
+   {
+      "name": "Placanica",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.41078000",
+      "longitude": "16.45274000"
+   },
+   {
+      "name": "Plataci",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.90042000",
+      "longitude": "16.43272000"
+   },
+   {
+      "name": "Platania",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.00620000",
+      "longitude": "16.32194000"
+   },
+   {
+      "name": "Platì",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.22149000",
+      "longitude": "16.04530000"
+   },
+   {
+      "name": "Polia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.75118000",
+      "longitude": "16.31220000"
+   },
+   {
+      "name": "Polistena",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.40544000",
+      "longitude": "16.07330000"
+   },
+   {
+      "name": "Portigliola",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.22712000",
+      "longitude": "16.20287000"
+   },
+   {
+      "name": "Praia a Mare",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.89410000",
+      "longitude": "15.78421000"
+   },
+   {
+      "name": "Provincia di Catanzaro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.91667000",
+      "longitude": "16.43333000"
+   },
+   {
+      "name": "Provincia di Cosenza",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.55697000",
+      "longitude": "16.35491000"
+   },
+   {
+      "name": "Provincia di Crotone",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.12007000",
+      "longitude": "17.08134000"
+   },
+   {
+      "name": "Provincia di Reggio Calabria",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.31667000",
+      "longitude": "16.08333000"
+   },
+   {
+      "name": "Provincia di Vibo-Valentia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.69958000",
+      "longitude": "16.12741000"
+   },
+   {
+      "name": "Quattromiglia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.34474000",
+      "longitude": "16.23802000"
+   },
+   {
+      "name": "Reggio Calabria",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.11047000",
+      "longitude": "15.66129000"
+   },
+   {
+      "name": "Rende",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.33154000",
+      "longitude": "16.18041000"
+   },
+   {
+      "name": "Riace",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.41828000",
+      "longitude": "16.48121000"
+   },
+   {
+      "name": "Riace Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.39186000",
+      "longitude": "16.53033000"
+   },
+   {
+      "name": "Ricadi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.62517000",
+      "longitude": "15.86674000"
+   },
+   {
+      "name": "Rizziconi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.40994000",
+      "longitude": "15.95974000"
+   },
+   {
+      "name": "Rocca Imperiale",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "40.11014000",
+      "longitude": "16.57822000"
+   },
+   {
+      "name": "Rocca Imperiale Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "40.09962000",
+      "longitude": "16.61336000"
+   },
+   {
+      "name": "Rocca di Neto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.18292000",
+      "longitude": "17.00764000"
+   },
+   {
+      "name": "Roccabernarda",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.13276000",
+      "longitude": "16.86082000"
+   },
+   {
+      "name": "Roccaforte del Greco",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.04751000",
+      "longitude": "15.89198000"
+   },
+   {
+      "name": "Roccella Ionica",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.32117000",
+      "longitude": "16.39689000"
+   },
+   {
+      "name": "Roccelletta",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.81126000",
+      "longitude": "16.59820000"
+   },
+   {
+      "name": "Roggiano Gravina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.61786000",
+      "longitude": "16.16173000"
+   },
+   {
+      "name": "Roghudi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.92499000",
+      "longitude": "15.76537000"
+   },
+   {
+      "name": "Rogliano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.17841000",
+      "longitude": "16.31709000"
+   },
+   {
+      "name": "Rombiolo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.59535000",
+      "longitude": "16.00237000"
+   },
+   {
+      "name": "Rosario",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.29104000",
+      "longitude": "16.23125000"
+   },
+   {
+      "name": "Rosarno",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.48717000",
+      "longitude": "15.97956000"
+   },
+   {
+      "name": "Rose",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.39932000",
+      "longitude": "16.29446000"
+   },
+   {
+      "name": "Roseto Capo Spulico",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.98643000",
+      "longitude": "16.60363000"
+   },
+   {
+      "name": "Rossano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.57622000",
+      "longitude": "16.63447000"
+   },
+   {
+      "name": "Rossano Stazione",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.59855000",
+      "longitude": "16.63485000"
+   },
+   {
+      "name": "Rota Greca",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.46703000",
+      "longitude": "16.11412000"
+   },
+   {
+      "name": "Rovito",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.30636000",
+      "longitude": "16.31746000"
+   },
+   {
+      "name": "Saline Ioniche",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.93957000",
+      "longitude": "15.71943000"
+   },
+   {
+      "name": "Sambiase",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.96667000",
+      "longitude": "16.28333000"
+   },
+   {
+      "name": "Samo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.07399000",
+      "longitude": "16.05933000"
+   },
+   {
+      "name": "San Basile",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.80960000",
+      "longitude": "16.16328000"
+   },
+   {
+      "name": "San Benedetto Ullano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.42710000",
+      "longitude": "16.12379000"
+   },
+   {
+      "name": "San Calogero",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.57447000",
+      "longitude": "16.01933000"
+   },
+   {
+      "name": "San Carlo-Condofuri Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.93324000",
+      "longitude": "15.87166000"
+   },
+   {
+      "name": "San Cosmo Albanese",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.58363000",
+      "longitude": "16.41469000"
+   },
+   {
+      "name": "San Costantino Calabro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.63283000",
+      "longitude": "16.07571000"
+   },
+   {
+      "name": "San Demetrio Corone",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.56990000",
+      "longitude": "16.36149000"
+   },
+   {
+      "name": "San Donato di Ninea",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.71156000",
+      "longitude": "16.04742000"
+   },
+   {
+      "name": "San Ferdinando",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.48403000",
+      "longitude": "15.91877000"
+   },
+   {
+      "name": "San Fili",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.33971000",
+      "longitude": "16.14448000"
+   },
+   {
+      "name": "San Floro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.83799000",
+      "longitude": "16.51870000"
+   },
+   {
+      "name": "San Giorgio Albanese",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.58230000",
+      "longitude": "16.45349000"
+   },
+   {
+      "name": "San Giorgio Morgeto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.39190000",
+      "longitude": "16.08790000"
+   },
+   {
+      "name": "San Giovanni di Gerace",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.36508000",
+      "longitude": "16.27770000"
+   },
+   {
+      "name": "San Giovanni in Fiore",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.25446000",
+      "longitude": "16.69699000"
+   },
+   {
+      "name": "San Gregorio d'Ippona",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.64528000",
+      "longitude": "16.10356000"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.01097000",
+      "longitude": "15.83440000"
+   },
+   {
+      "name": "San Lorenzo Bellizzi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.88867000",
+      "longitude": "16.33029000"
+   },
+   {
+      "name": "San Lorenzo del Vallo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.66739000",
+      "longitude": "16.29866000"
+   },
+   {
+      "name": "San Luca",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.14672000",
+      "longitude": "16.06625000"
+   },
+   {
+      "name": "San Lucido",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.31012000",
+      "longitude": "16.05317000"
+   },
+   {
+      "name": "San Mango d'Aquino",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.06036000",
+      "longitude": "16.19224000"
+   },
+   {
+      "name": "San Marco Argentano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.55725000",
+      "longitude": "16.12452000"
+   },
+   {
+      "name": "San Martino",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.36157000",
+      "longitude": "15.97634000"
+   },
+   {
+      "name": "San Martino di Finita",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.48988000",
+      "longitude": "16.10968000"
+   },
+   {
+      "name": "San Mauro Marchesato",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.10559000",
+      "longitude": "16.92561000"
+   },
+   {
+      "name": "San Nico",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.66906000",
+      "longitude": "16.43182000"
+   },
+   {
+      "name": "San Nicola",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.21199000",
+      "longitude": "15.69381000"
+   },
+   {
+      "name": "San Nicola Arcella",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.84341000",
+      "longitude": "15.78634000"
+   },
+   {
+      "name": "San Nicola da Crissa",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.66354000",
+      "longitude": "16.28592000"
+   },
+   {
+      "name": "San Nicola dell'Alto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.29094000",
+      "longitude": "16.97179000"
+   },
+   {
+      "name": "San Nicolò",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.63426000",
+      "longitude": "15.85147000"
+   },
+   {
+      "name": "San Pietro Apostolo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.00413000",
+      "longitude": "16.46783000"
+   },
+   {
+      "name": "San Pietro a Maida",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.84731000",
+      "longitude": "16.34116000"
+   },
+   {
+      "name": "San Pietro di Caridà",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.52368000",
+      "longitude": "16.13530000"
+   },
+   {
+      "name": "San Pietro in Amantea",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.13658000",
+      "longitude": "16.11243000"
+   },
+   {
+      "name": "San Pietro in Guarano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.34164000",
+      "longitude": "16.31304000"
+   },
+   {
+      "name": "San Procopio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.28214000",
+      "longitude": "15.89083000"
+   },
+   {
+      "name": "San Roberto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.21114000",
+      "longitude": "15.73594000"
+   },
+   {
+      "name": "San Sostene",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.63733000",
+      "longitude": "16.48751000"
+   },
+   {
+      "name": "San Sosti",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.65879000",
+      "longitude": "16.02958000"
+   },
+   {
+      "name": "San Vincenzo la Costa",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.36544000",
+      "longitude": "16.15110000"
+   },
+   {
+      "name": "San Vito Sullo Ionio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.70749000",
+      "longitude": "16.40862000"
+   },
+   {
+      "name": "Sangineto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.60553000",
+      "longitude": "15.91481000"
+   },
+   {
+      "name": "Sant'Agata del Bianco",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.09242000",
+      "longitude": "16.08251000"
+   },
+   {
+      "name": "Sant'Agata di Esaro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.62235000",
+      "longitude": "15.98295000"
+   },
+   {
+      "name": "Sant'Alessio in Aspromonte",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.17220000",
+      "longitude": "15.75730000"
+   },
+   {
+      "name": "Sant'Andrea Apostolo dello Ionio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.62165000",
+      "longitude": "16.53048000"
+   },
+   {
+      "name": "Sant'Andrea Ionio Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.62001000",
+      "longitude": "16.54927000"
+   },
+   {
+      "name": "Sant'Elia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.95788000",
+      "longitude": "16.58521000"
+   },
+   {
+      "name": "Sant'Eufemia d'Aspromonte",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.26314000",
+      "longitude": "15.85669000"
+   },
+   {
+      "name": "Sant'Ilario dello Ionio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.21914000",
+      "longitude": "16.19517000"
+   },
+   {
+      "name": "Sant'Onofrio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.69752000",
+      "longitude": "16.14755000"
+   },
+   {
+      "name": "Santa Caterina Albanese",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.58590000",
+      "longitude": "16.07039000"
+   },
+   {
+      "name": "Santa Caterina dello Ionio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.53324000",
+      "longitude": "16.52176000"
+   },
+   {
+      "name": "Santa Caterina dello Ionio Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.52736000",
+      "longitude": "16.57071000"
+   },
+   {
+      "name": "Santa Cristina d'Aspromonte",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.25480000",
+      "longitude": "15.96996000"
+   },
+   {
+      "name": "Santa Domenica",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.66220000",
+      "longitude": "15.86289000"
+   },
+   {
+      "name": "Santa Domenica Talao",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.81875000",
+      "longitude": "15.85380000"
+   },
+   {
+      "name": "Santa Eufemia Lamezia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.91982000",
+      "longitude": "16.25221000"
+   },
+   {
+      "name": "Santa Maria del Cedro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.74620000",
+      "longitude": "15.83638000"
+   },
+   {
+      "name": "Santa Severina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.14770000",
+      "longitude": "16.91112000"
+   },
+   {
+      "name": "Santa Sofia d'Epiro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.54597000",
+      "longitude": "16.32815000"
+   },
+   {
+      "name": "Santo Stefano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.34734000",
+      "longitude": "16.19898000"
+   },
+   {
+      "name": "Santo Stefano di Rogliano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.19223000",
+      "longitude": "16.32079000"
+   },
+   {
+      "name": "Santo Stefano in Aspromonte",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.16909000",
+      "longitude": "15.78983000"
+   },
+   {
+      "name": "Saracena",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.77862000",
+      "longitude": "16.15913000"
+   },
+   {
+      "name": "Sartano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.51169000",
+      "longitude": "16.17915000"
+   },
+   {
+      "name": "Satriano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.66640000",
+      "longitude": "16.47970000"
+   },
+   {
+      "name": "Savelli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.31278000",
+      "longitude": "16.77642000"
+   },
+   {
+      "name": "Scala Coeli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.44824000",
+      "longitude": "16.88658000"
+   },
+   {
+      "name": "Scalea",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.80605000",
+      "longitude": "15.79635000"
+   },
+   {
+      "name": "Scandale",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.12339000",
+      "longitude": "16.96185000"
+   },
+   {
+      "name": "Scarcelli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.40000000",
+      "longitude": "16.01667000"
+   },
+   {
+      "name": "Scido",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.24439000",
+      "longitude": "15.93251000"
+   },
+   {
+      "name": "Scilla",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.25201000",
+      "longitude": "15.71837000"
+   },
+   {
+      "name": "Sellia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.98206000",
+      "longitude": "16.63070000"
+   },
+   {
+      "name": "Sellia Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.88599000",
+      "longitude": "16.74931000"
+   },
+   {
+      "name": "Seminara",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.33603000",
+      "longitude": "15.87025000"
+   },
+   {
+      "name": "Serra Pedace",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.27898000",
+      "longitude": "16.34557000"
+   },
+   {
+      "name": "Serra San Bruno",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.57474000",
+      "longitude": "16.32622000"
+   },
+   {
+      "name": "Serra d'Aiello",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.09004000",
+      "longitude": "16.12612000"
+   },
+   {
+      "name": "Serrastretta",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.01319000",
+      "longitude": "16.41630000"
+   },
+   {
+      "name": "Serrata",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.51288000",
+      "longitude": "16.10070000"
+   },
+   {
+      "name": "Sersale",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.01013000",
+      "longitude": "16.72960000"
+   },
+   {
+      "name": "Settimo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.39158000",
+      "longitude": "16.23998000"
+   },
+   {
+      "name": "Settingiano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.91139000",
+      "longitude": "16.51390000"
+   },
+   {
+      "name": "Siano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.91547000",
+      "longitude": "16.60224000"
+   },
+   {
+      "name": "Sibari",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.74733000",
+      "longitude": "16.45510000"
+   },
+   {
+      "name": "Siderno",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.26993000",
+      "longitude": "16.29607000"
+   },
+   {
+      "name": "Simbario",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.61157000",
+      "longitude": "16.33597000"
+   },
+   {
+      "name": "Sinopoli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.26342000",
+      "longitude": "15.87710000"
+   },
+   {
+      "name": "Sorbo San Basile",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.01939000",
+      "longitude": "16.56910000"
+   },
+   {
+      "name": "Sorianello",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.59415000",
+      "longitude": "16.23212000"
+   },
+   {
+      "name": "Soriano Calabro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.60038000",
+      "longitude": "16.22205000"
+   },
+   {
+      "name": "Soverato Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.68498000",
+      "longitude": "16.54991000"
+   },
+   {
+      "name": "Soverato Superiore",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.68993000",
+      "longitude": "16.53391000"
+   },
+   {
+      "name": "Soveria Mannelli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.07784000",
+      "longitude": "16.37708000"
+   },
+   {
+      "name": "Soveria Simeri",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.94986000",
+      "longitude": "16.67854000"
+   },
+   {
+      "name": "Spadola",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.60378000",
+      "longitude": "16.33700000"
+   },
+   {
+      "name": "Spezzano Albanese",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.66854000",
+      "longitude": "16.30939000"
+   },
+   {
+      "name": "Spezzano Piccolo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.29010000",
+      "longitude": "16.34211000"
+   },
+   {
+      "name": "Spezzano della Sila",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.30033000",
+      "longitude": "16.33923000"
+   },
+   {
+      "name": "Spilinga",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.62825000",
+      "longitude": "15.90572000"
+   },
+   {
+      "name": "Squillace",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.78091000",
+      "longitude": "16.51175000"
+   },
+   {
+      "name": "Squillace Lido",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.77781000",
+      "longitude": "16.57007000"
+   },
+   {
+      "name": "Staiti",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.99989000",
+      "longitude": "16.03341000"
+   },
+   {
+      "name": "Staletti",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.76428000",
+      "longitude": "16.53932000"
+   },
+   {
+      "name": "Stazione Montalto-Coretto",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.40720000",
+      "longitude": "16.24313000"
+   },
+   {
+      "name": "Stefanaconi",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.67788000",
+      "longitude": "16.12420000"
+   },
+   {
+      "name": "Stignano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.41705000",
+      "longitude": "16.47011000"
+   },
+   {
+      "name": "Stilo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.47628000",
+      "longitude": "16.46746000"
+   },
+   {
+      "name": "Strongoli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.26576000",
+      "longitude": "17.05413000"
+   },
+   {
+      "name": "Surdo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.32752000",
+      "longitude": "16.20139000"
+   },
+   {
+      "name": "Tarsia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.62311000",
+      "longitude": "16.27337000"
+   },
+   {
+      "name": "Taurianova",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.35525000",
+      "longitude": "16.01306000"
+   },
+   {
+      "name": "Taverna",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.02200000",
+      "longitude": "16.58081000"
+   },
+   {
+      "name": "Terranova Sappo Minulio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.32175000",
+      "longitude": "16.00747000"
+   },
+   {
+      "name": "Terranova da Sibari",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.65548000",
+      "longitude": "16.33979000"
+   },
+   {
+      "name": "Terravecchia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.46594000",
+      "longitude": "16.94623000"
+   },
+   {
+      "name": "Tiriolo",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.94069000",
+      "longitude": "16.51046000"
+   },
+   {
+      "name": "Tivolille Pasquali-Merenzata",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.27953000",
+      "longitude": "16.20738000"
+   },
+   {
+      "name": "Torano Castello",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.50396000",
+      "longitude": "16.16103000"
+   },
+   {
+      "name": "Torre Melissa",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.31013000",
+      "longitude": "17.10660000"
+   },
+   {
+      "name": "Torre di Ruggiero",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.65293000",
+      "longitude": "16.37211000"
+   },
+   {
+      "name": "Torretta",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.45358000",
+      "longitude": "17.03632000"
+   },
+   {
+      "name": "Tortora",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.94130000",
+      "longitude": "15.80518000"
+   },
+   {
+      "name": "Tortora Marina",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.92293000",
+      "longitude": "15.76943000"
+   },
+   {
+      "name": "Trebisacce",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.87128000",
+      "longitude": "16.53420000"
+   },
+   {
+      "name": "Trenta",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.28541000",
+      "longitude": "16.32093000"
+   },
+   {
+      "name": "Tronca",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.24617000",
+      "longitude": "17.10582000"
+   },
+   {
+      "name": "Tropea",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.67449000",
+      "longitude": "15.89505000"
+   },
+   {
+      "name": "Umbriatico",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.35336000",
+      "longitude": "16.91798000"
+   },
+   {
+      "name": "Vaccarizzo Albanese",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.58540000",
+      "longitude": "16.43289000"
+   },
+   {
+      "name": "Vadue",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.28060000",
+      "longitude": "16.22875000"
+   },
+   {
+      "name": "Vallefiorita",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.77638000",
+      "longitude": "16.46100000"
+   },
+   {
+      "name": "Vallelonga",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.64742000",
+      "longitude": "16.29659000"
+   },
+   {
+      "name": "Varapodio",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.31633000",
+      "longitude": "15.98347000"
+   },
+   {
+      "name": "Vazzano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.63288000",
+      "longitude": "16.24800000"
+   },
+   {
+      "name": "Verbicaro",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.76076000",
+      "longitude": "15.90730000"
+   },
+   {
+      "name": "Verzino",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.31325000",
+      "longitude": "16.85613000"
+   },
+   {
+      "name": "Vibo Valentia",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.67618000",
+      "longitude": "16.10094000"
+   },
+   {
+      "name": "Villa San Giovanni",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.21991000",
+      "longitude": "15.63689000"
+   },
+   {
+      "name": "Villapiana",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.84573000",
+      "longitude": "16.45528000"
+   },
+   {
+      "name": "Villapiana Lido",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.81203000",
+      "longitude": "16.48820000"
+   },
+   {
+      "name": "Weather Station",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "37.96136000",
+      "longitude": "16.09970000"
+   },
+   {
+      "name": "Zaccanopoli",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.66548000",
+      "longitude": "15.92874000"
+   },
+   {
+      "name": "Zagarise",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.99985000",
+      "longitude": "16.66420000"
+   },
+   {
+      "name": "Zambrone",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.69878000",
+      "longitude": "15.98982000"
+   },
+   {
+      "name": "Zumpano",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "39.31053000",
+      "longitude": "16.29269000"
+   },
+   {
+      "name": "Zungri",
+      "countryCode": "IT",
+      "stateCode": "78",
+      "latitude": "38.65668000",
+      "longitude": "15.98409000"
    }
 ]

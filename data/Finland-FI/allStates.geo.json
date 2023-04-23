@@ -1,38 +1,10 @@
 [
    {
-      "name": "Eastern Finland Province",
-      "isoCode": "IS",
+      "name": "Åland Islands",
+      "isoCode": "01",
       "countryCode": "FI",
-      "latitude": "62.56338910",
-      "longitude": "28.50240420"
-   },
-   {
-      "name": "Tavastia Proper",
-      "isoCode": "06",
-      "countryCode": "FI",
-      "latitude": "60.90701500",
-      "longitude": "24.30054980"
-   },
-   {
-      "name": "Central Ostrobothnia",
-      "isoCode": "07",
-      "countryCode": "FI",
-      "latitude": "63.56217350",
-      "longitude": "24.00136310"
-   },
-   {
-      "name": "Southern Savonia",
-      "isoCode": "04",
-      "countryCode": "FI",
-      "latitude": "61.69451480",
-      "longitude": "27.80050150"
-   },
-   {
-      "name": "Kainuu",
-      "isoCode": "05",
-      "countryCode": "FI",
-      "latitude": "64.37365640",
-      "longitude": "28.74374750"
+      "latitude": "60.17852470",
+      "longitude": "19.91561050"
    },
    {
       "name": "South Karelia",
@@ -49,39 +21,60 @@
       "longitude": "23.52852670"
    },
    {
-      "name": "Oulu Province",
-      "isoCode": "OL",
+      "name": "Southern Savonia",
+      "isoCode": "04",
       "countryCode": "FI",
-      "latitude": "65.01207480",
-      "longitude": "25.46504960"
+      "latitude": "61.69451480",
+      "longitude": "27.80050150"
    },
    {
-      "name": "Lapland",
-      "isoCode": "LL",
+      "name": "Kainuu",
+      "isoCode": "05",
       "countryCode": "FI",
-      "latitude": "67.92223040",
-      "longitude": "26.50464380"
+      "latitude": "64.37365640",
+      "longitude": "28.74374750"
    },
    {
-      "name": "Satakunta",
-      "isoCode": "17",
+      "name": "Tavastia Proper",
+      "isoCode": "06",
       "countryCode": "FI",
-      "latitude": "61.59327580",
-      "longitude": "22.14830810"
+      "latitude": "60.90701500",
+      "longitude": "24.30054980"
    },
    {
-      "name": "Päijänne Tavastia",
-      "isoCode": "16",
+      "name": "Central Ostrobothnia",
+      "isoCode": "07",
       "countryCode": "FI",
-      "latitude": "61.32300410",
-      "longitude": "25.73224960"
+      "latitude": "63.56217350",
+      "longitude": "24.00136310"
    },
    {
-      "name": "Northern Savonia",
-      "isoCode": "15",
+      "name": "Central Finland",
+      "isoCode": "08",
       "countryCode": "FI",
-      "latitude": "63.08448000",
-      "longitude": "27.02535040"
+      "latitude": "62.56667430",
+      "longitude": "25.55494450"
+   },
+   {
+      "name": "Kymenlaakso",
+      "isoCode": "09",
+      "countryCode": "FI",
+      "latitude": "60.78051200",
+      "longitude": "26.88293360"
+   },
+   {
+      "name": "Pirkanmaa",
+      "isoCode": "11",
+      "countryCode": "FI",
+      "latitude": "61.69869180",
+      "longitude": "23.78955980"
+   },
+   {
+      "name": "Ostrobothnia",
+      "isoCode": "12",
+      "countryCode": "FI",
+      "latitude": "63.11817570",
+      "longitude": "21.90610620"
    },
    {
       "name": "North Karelia",
@@ -98,32 +91,25 @@
       "longitude": "26.28904170"
    },
    {
-      "name": "Pirkanmaa",
-      "isoCode": "11",
+      "name": "Northern Savonia",
+      "isoCode": "15",
       "countryCode": "FI",
-      "latitude": "61.69869180",
-      "longitude": "23.78955980"
+      "latitude": "63.08448000",
+      "longitude": "27.02535040"
    },
    {
-      "name": "Finland Proper",
-      "isoCode": "19",
+      "name": "Päijänne Tavastia",
+      "isoCode": "16",
       "countryCode": "FI",
-      "latitude": "60.36279140",
-      "longitude": "22.44393690"
+      "latitude": "61.32300410",
+      "longitude": "25.73224960"
    },
    {
-      "name": "Ostrobothnia",
-      "isoCode": "12",
+      "name": "Satakunta",
+      "isoCode": "17",
       "countryCode": "FI",
-      "latitude": "63.11817570",
-      "longitude": "21.90610620"
-   },
-   {
-      "name": "Åland Islands",
-      "isoCode": "01",
-      "countryCode": "FI",
-      "latitude": "60.17852470",
-      "longitude": "19.91561050"
+      "latitude": "61.59327580",
+      "longitude": "22.14830810"
    },
    {
       "name": "Uusimaa",
@@ -133,17 +119,31 @@
       "longitude": "25.27162100"
    },
    {
-      "name": "Central Finland",
-      "isoCode": "08",
+      "name": "Finland Proper",
+      "isoCode": "19",
       "countryCode": "FI",
-      "latitude": "62.56667430",
-      "longitude": "25.55494450"
+      "latitude": "60.36279140",
+      "longitude": "22.44393690"
    },
    {
-      "name": "Kymenlaakso",
-      "isoCode": "09",
+      "name": "Eastern Finland Province",
+      "isoCode": "IS",
       "countryCode": "FI",
-      "latitude": "60.78051200",
-      "longitude": "26.88293360"
+      "latitude": "62.56338910",
+      "longitude": "28.50240420"
+   },
+   {
+      "name": "Lapland",
+      "isoCode": "LL",
+      "countryCode": "FI",
+      "latitude": "67.92223040",
+      "longitude": "26.50464380"
+   },
+   {
+      "name": "Oulu Province",
+      "isoCode": "OL",
+      "countryCode": "FI",
+      "latitude": "65.01207480",
+      "longitude": "25.46504960"
    }
 ]

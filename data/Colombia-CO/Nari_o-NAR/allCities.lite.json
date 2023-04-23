@@ -175,6 +175,11 @@
       "stateCode": "NAR"
    },
    {
+      "name": "Magüí Payán",
+      "countryCode": "CO",
+      "stateCode": "NAR"
+   },
+   {
       "name": "Mallama",
       "countryCode": "CO",
       "stateCode": "NAR"
@@ -205,17 +210,17 @@
       "stateCode": "NAR"
    },
    {
-      "name": "Magüí Payán",
-      "countryCode": "CO",
-      "stateCode": "NAR"
-   },
-   {
       "name": "Policarpa",
       "countryCode": "CO",
       "stateCode": "NAR"
    },
    {
       "name": "Potosí",
+      "countryCode": "CO",
+      "stateCode": "NAR"
+   },
+   {
+      "name": "Providencia",
       "countryCode": "CO",
       "stateCode": "NAR"
    },
@@ -311,11 +316,6 @@
    },
    {
       "name": "Yacuanquer",
-      "countryCode": "CO",
-      "stateCode": "NAR"
-   },
-   {
-      "name": "Providencia",
       "countryCode": "CO",
       "stateCode": "NAR"
    }

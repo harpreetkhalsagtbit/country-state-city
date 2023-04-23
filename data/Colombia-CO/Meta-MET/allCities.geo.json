@@ -56,6 +56,13 @@
       "longitude": "-73.79488000"
    },
    {
+      "name": "El Dorado",
+      "countryCode": "CO",
+      "stateCode": "MET",
+      "latitude": "3.73916777",
+      "longitude": "-73.83527888"
+   },
+   {
       "name": "Fuente de Oro",
       "countryCode": "CO",
       "stateCode": "MET",
@@ -161,11 +168,25 @@
       "longitude": "-73.82065000"
    },
    {
+      "name": "San Juanito",
+      "countryCode": "CO",
+      "stateCode": "MET",
+      "latitude": "4.45861111",
+      "longitude": "-73.67555666"
+   },
+   {
       "name": "San Martín",
       "countryCode": "CO",
       "stateCode": "MET",
       "latitude": "3.50819000",
       "longitude": "-73.03975000"
+   },
+   {
+      "name": "Uribe",
+      "countryCode": "CO",
+      "stateCode": "MET",
+      "latitude": "3.24083333",
+      "longitude": "-74.35361111"
    },
    {
       "name": "Villavicencio",
@@ -180,26 +201,5 @@
       "stateCode": "MET",
       "latitude": "3.12428000",
       "longitude": "-73.75156000"
-   },
-   {
-      "name": "El Dorado",
-      "countryCode": "CO",
-      "stateCode": "MET",
-      "latitude": "3.73916777",
-      "longitude": "-73.83527888"
-   },
-   {
-      "name": "San Juanito",
-      "countryCode": "CO",
-      "stateCode": "MET",
-      "latitude": "4.45861111",
-      "longitude": "-73.67555666"
-   },
-   {
-      "name": "Uribe",
-      "countryCode": "CO",
-      "stateCode": "MET",
-      "latitude": "3.24083333",
-      "longitude": "-74.35361111"
    }
 ]

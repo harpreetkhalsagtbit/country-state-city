@@ -1,52 +1,17 @@
 [
    {
-      "name": "Quindío",
-      "isoCode": "QUI",
+      "name": "Amazonas",
+      "isoCode": "AMA",
       "countryCode": "CO",
-      "latitude": "4.46101910",
-      "longitude": "-75.66735600"
+      "latitude": "-1.44291230",
+      "longitude": "-71.57239530"
    },
    {
-      "name": "Cundinamarca",
-      "isoCode": "CUN",
+      "name": "Antioquia",
+      "isoCode": "ANT",
       "countryCode": "CO",
-      "latitude": "5.02600300",
-      "longitude": "-74.03001220"
-   },
-   {
-      "name": "Chocó",
-      "isoCode": "CHO",
-      "countryCode": "CO",
-      "latitude": "5.25280330",
-      "longitude": "-76.82596520"
-   },
-   {
-      "name": "Norte de Santander",
-      "isoCode": "NSA",
-      "countryCode": "CO",
-      "latitude": "7.94628310",
-      "longitude": "-72.89880690"
-   },
-   {
-      "name": "Meta",
-      "isoCode": "MET",
-      "countryCode": "CO",
-      "latitude": "39.76732580",
-      "longitude": "-104.97535950"
-   },
-   {
-      "name": "Risaralda",
-      "isoCode": "RIS",
-      "countryCode": "CO",
-      "latitude": "5.31584750",
-      "longitude": "-75.99276520"
-   },
-   {
-      "name": "Atlántico",
-      "isoCode": "ATL",
-      "countryCode": "CO",
-      "latitude": "10.69661590",
-      "longitude": "-74.87410450"
+      "latitude": "7.19860640",
+      "longitude": "-75.34121790"
    },
    {
       "name": "Arauca",
@@ -56,39 +21,25 @@
       "longitude": "-71.00223110"
    },
    {
-      "name": "Guainía",
-      "isoCode": "GUA",
+      "name": "Atlántico",
+      "isoCode": "ATL",
       "countryCode": "CO",
-      "latitude": "2.58539300",
-      "longitude": "-68.52471490"
+      "latitude": "10.69661590",
+      "longitude": "-74.87410450"
    },
    {
-      "name": "Tolima",
-      "isoCode": "TOL",
+      "name": "Bolívar",
+      "isoCode": "BOL",
       "countryCode": "CO",
-      "latitude": "4.09251680",
-      "longitude": "-75.15453810"
+      "latitude": "8.67043820",
+      "longitude": "-74.03001220"
    },
    {
-      "name": "Cauca",
-      "isoCode": "CAU",
+      "name": "Boyacá",
+      "isoCode": "BOY",
       "countryCode": "CO",
-      "latitude": "2.70498130",
-      "longitude": "-76.82596520"
-   },
-   {
-      "name": "Vaupés",
-      "isoCode": "VAU",
-      "countryCode": "CO",
-      "latitude": "0.85535610",
-      "longitude": "-70.81199530"
-   },
-   {
-      "name": "Magdalena",
-      "isoCode": "MAG",
-      "countryCode": "CO",
-      "latitude": "10.41130140",
-      "longitude": "-74.40566120"
+      "latitude": "5.45451100",
+      "longitude": "-73.36200300"
    },
    {
       "name": "Caldas",
@@ -96,27 +47,6 @@
       "countryCode": "CO",
       "latitude": "5.29826000",
       "longitude": "-75.24790610"
-   },
-   {
-      "name": "Guaviare",
-      "isoCode": "GUV",
-      "countryCode": "CO",
-      "latitude": "2.04392400",
-      "longitude": "-72.33111300"
-   },
-   {
-      "name": "La Guajira",
-      "isoCode": "LAG",
-      "countryCode": "CO",
-      "latitude": "11.35477430",
-      "longitude": "-72.52048270"
-   },
-   {
-      "name": "Antioquia",
-      "isoCode": "ANT",
-      "countryCode": "CO",
-      "latitude": "7.19860640",
-      "longitude": "-75.34121790"
    },
    {
       "name": "Caquetá",
@@ -133,39 +63,25 @@
       "longitude": "-71.57239530"
    },
    {
-      "name": "Bolívar",
-      "isoCode": "BOL",
+      "name": "Cauca",
+      "isoCode": "CAU",
       "countryCode": "CO",
-      "latitude": "8.67043820",
-      "longitude": "-74.03001220"
+      "latitude": "2.70498130",
+      "longitude": "-76.82596520"
    },
    {
-      "name": "Vichada",
-      "isoCode": "VID",
+      "name": "Cesar",
+      "isoCode": "CES",
       "countryCode": "CO",
-      "latitude": "4.42344520",
-      "longitude": "-69.28775350"
+      "latitude": "9.33729480",
+      "longitude": "-73.65362090"
    },
    {
-      "name": "Amazonas",
-      "isoCode": "AMA",
+      "name": "Chocó",
+      "isoCode": "CHO",
       "countryCode": "CO",
-      "latitude": "-1.44291230",
-      "longitude": "-71.57239530"
-   },
-   {
-      "name": "Putumayo",
-      "isoCode": "PUT",
-      "countryCode": "CO",
-      "latitude": "0.43595060",
-      "longitude": "-75.52766990"
-   },
-   {
-      "name": "Nariño",
-      "isoCode": "NAR",
-      "countryCode": "CO",
-      "latitude": "1.28915100",
-      "longitude": "-77.35794000"
+      "latitude": "5.25280330",
+      "longitude": "-76.82596520"
    },
    {
       "name": "Córdoba",
@@ -175,10 +91,101 @@
       "longitude": "-75.57405000"
    },
    {
-      "name": "Cesar",
-      "isoCode": "CES",
+      "name": "Cundinamarca",
+      "isoCode": "CUN",
       "countryCode": "CO",
-      "latitude": "9.33729480",
+      "latitude": "5.02600300",
+      "longitude": "-74.03001220"
+   },
+   {
+      "name": "Bogotá D.C.",
+      "isoCode": "DC",
+      "countryCode": "CO",
+      "latitude": "4.28204150",
+      "longitude": "-74.50270420"
+   },
+   {
+      "name": "Guainía",
+      "isoCode": "GUA",
+      "countryCode": "CO",
+      "latitude": "2.58539300",
+      "longitude": "-68.52471490"
+   },
+   {
+      "name": "Guaviare",
+      "isoCode": "GUV",
+      "countryCode": "CO",
+      "latitude": "2.04392400",
+      "longitude": "-72.33111300"
+   },
+   {
+      "name": "Huila",
+      "isoCode": "HUI",
+      "countryCode": "CO",
+      "latitude": "2.53593490",
+      "longitude": "-75.52766990"
+   },
+   {
+      "name": "La Guajira",
+      "isoCode": "LAG",
+      "countryCode": "CO",
+      "latitude": "11.35477430",
+      "longitude": "-72.52048270"
+   },
+   {
+      "name": "Magdalena",
+      "isoCode": "MAG",
+      "countryCode": "CO",
+      "latitude": "10.41130140",
+      "longitude": "-74.40566120"
+   },
+   {
+      "name": "Meta",
+      "isoCode": "MET",
+      "countryCode": "CO",
+      "latitude": "39.76732580",
+      "longitude": "-104.97535950"
+   },
+   {
+      "name": "Nariño",
+      "isoCode": "NAR",
+      "countryCode": "CO",
+      "latitude": "1.28915100",
+      "longitude": "-77.35794000"
+   },
+   {
+      "name": "Norte de Santander",
+      "isoCode": "NSA",
+      "countryCode": "CO",
+      "latitude": "7.94628310",
+      "longitude": "-72.89880690"
+   },
+   {
+      "name": "Putumayo",
+      "isoCode": "PUT",
+      "countryCode": "CO",
+      "latitude": "0.43595060",
+      "longitude": "-75.52766990"
+   },
+   {
+      "name": "Quindío",
+      "isoCode": "QUI",
+      "countryCode": "CO",
+      "latitude": "4.46101910",
+      "longitude": "-75.66735600"
+   },
+   {
+      "name": "Risaralda",
+      "isoCode": "RIS",
+      "countryCode": "CO",
+      "latitude": "5.31584750",
+      "longitude": "-75.99276520"
+   },
+   {
+      "name": "Santander",
+      "isoCode": "SAN",
+      "countryCode": "CO",
+      "latitude": "6.64370760",
       "longitude": "-73.65362090"
    },
    {
@@ -189,13 +196,6 @@
       "longitude": "-81.71852530"
    },
    {
-      "name": "Santander",
-      "isoCode": "SAN",
-      "countryCode": "CO",
-      "latitude": "6.64370760",
-      "longitude": "-73.65362090"
-   },
-   {
       "name": "Sucre",
       "isoCode": "SUC",
       "countryCode": "CO",
@@ -203,11 +203,11 @@
       "longitude": "-74.72328300"
    },
    {
-      "name": "Boyacá",
-      "isoCode": "BOY",
+      "name": "Tolima",
+      "isoCode": "TOL",
       "countryCode": "CO",
-      "latitude": "5.45451100",
-      "longitude": "-73.36200300"
+      "latitude": "4.09251680",
+      "longitude": "-75.15453810"
    },
    {
       "name": "Valle del Cauca",
@@ -217,17 +217,17 @@
       "longitude": "-76.64127120"
    },
    {
-      "name": "Huila",
-      "isoCode": "HUI",
+      "name": "Vaupés",
+      "isoCode": "VAU",
       "countryCode": "CO",
-      "latitude": "2.53593490",
-      "longitude": "-75.52766990"
+      "latitude": "0.85535610",
+      "longitude": "-70.81199530"
    },
    {
-      "name": "Bogotá D.C.",
-      "isoCode": "DC",
+      "name": "Vichada",
+      "isoCode": "VID",
       "countryCode": "CO",
-      "latitude": "4.28204150",
-      "longitude": "-74.50270420"
+      "latitude": "4.42344520",
+      "longitude": "-69.28775350"
    }
 ]

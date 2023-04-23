@@ -56,6 +56,13 @@
       "longitude": "-74.53925000"
    },
    {
+      "name": "Bogotá D.C.",
+      "countryCode": "CO",
+      "stateCode": "CUN",
+      "latitude": "4.61263889",
+      "longitude": "-74.07050000"
+   },
+   {
       "name": "Bojacá",
       "countryCode": "CO",
       "stateCode": "CUN",
@@ -810,12 +817,5 @@
       "stateCode": "CUN",
       "latitude": "5.16977000",
       "longitude": "-74.50134000"
-   },
-   {
-      "name": "Bogotá D.C.",
-      "countryCode": "CO",
-      "stateCode": "CUN",
-      "latitude": "4.61263889",
-      "longitude": "-74.07050000"
    }
 ]

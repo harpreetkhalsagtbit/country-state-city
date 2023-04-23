@@ -1,12 +1,27 @@
 [
    {
-      "name": "Brčko District",
-      "isoCode": "BRC",
+      "name": "Una-Sana Canton",
+      "isoCode": "01",
+      "countryCode": "BA"
+   },
+   {
+      "name": "Posavina Canton",
+      "isoCode": "02",
       "countryCode": "BA"
    },
    {
       "name": "Tuzla Canton",
       "isoCode": "03",
+      "countryCode": "BA"
+   },
+   {
+      "name": "Zenica-Doboj Canton",
+      "isoCode": "04",
+      "countryCode": "BA"
+   },
+   {
+      "name": "Bosnian Podrinje Canton",
+      "isoCode": "05",
       "countryCode": "BA"
    },
    {
@@ -20,13 +35,8 @@
       "countryCode": "BA"
    },
    {
-      "name": "Posavina Canton",
-      "isoCode": "02",
-      "countryCode": "BA"
-   },
-   {
-      "name": "Una-Sana Canton",
-      "isoCode": "01",
+      "name": "West Herzegovina Canton",
+      "isoCode": "08",
       "countryCode": "BA"
    },
    {
@@ -35,33 +45,23 @@
       "countryCode": "BA"
    },
    {
-      "name": "Federation of Bosnia and Herzegovina",
-      "isoCode": "BIH",
-      "countryCode": "BA"
-   },
-   {
-      "name": "Zenica-Doboj Canton",
-      "isoCode": "04",
-      "countryCode": "BA"
-   },
-   {
-      "name": "West Herzegovina Canton",
-      "isoCode": "08",
-      "countryCode": "BA"
-   },
-   {
-      "name": "Republika Srpska",
-      "isoCode": "SRP",
-      "countryCode": "BA"
-   },
-   {
       "name": "Canton 10",
       "isoCode": "10",
       "countryCode": "BA"
    },
    {
-      "name": "Bosnian Podrinje Canton",
-      "isoCode": "05",
+      "name": "Federation of Bosnia and Herzegovina",
+      "isoCode": "BIH",
+      "countryCode": "BA"
+   },
+   {
+      "name": "Brčko District",
+      "isoCode": "BRC",
+      "countryCode": "BA"
+   },
+   {
+      "name": "Republika Srpska",
+      "isoCode": "SRP",
       "countryCode": "BA"
    }
 ]

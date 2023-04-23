@@ -1,17 +1,17 @@
 [
    {
-      "name": "Ahmedpur East",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "29.14269000",
-      "longitude": "71.25771000"
-   },
-   {
       "name": "Ahmadpur Sial",
       "countryCode": "PK",
       "stateCode": "PB",
       "latitude": "30.67791000",
       "longitude": "71.74344000"
+   },
+   {
+      "name": "Ahmedpur East",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "29.14269000",
+      "longitude": "71.25771000"
    },
    {
       "name": "Alipur Chatha",
@@ -175,13 +175,6 @@
       "longitude": "74.70507000"
    },
    {
-      "name": "Rabwah",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "31.75511000",
-      "longitude": "72.91403000"
-   },
-   {
       "name": "Chichawatni",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -208,6 +201,13 @@
       "stateCode": "PB",
       "latitude": "32.71962000",
       "longitude": "72.98625000"
+   },
+   {
+      "name": "Chuhar Kana",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "31.75000000",
+      "longitude": "73.80000000"
    },
    {
       "name": "Chunian",
@@ -252,6 +252,13 @@
       "longitude": "74.35039000"
    },
    {
+      "name": "Daud Khel",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "32.87498000",
+      "longitude": "71.57013000"
+   },
+   {
       "name": "Daultala",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -278,6 +285,13 @@
       "stateCode": "PB",
       "latitude": "32.40613000",
       "longitude": "74.13706000"
+   },
+   {
+      "name": "Dhok Awan",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "32.84452000",
+      "longitude": "72.52357000"
    },
    {
       "name": "Dijkot",
@@ -364,6 +378,13 @@
       "longitude": "75.06583000"
    },
    {
+      "name": "Ferozewala",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "29.30000000",
+      "longitude": "70.43333333"
+   },
+   {
       "name": "Fort Abbas",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -399,6 +420,13 @@
       "longitude": "74.18705000"
    },
    {
+      "name": "Gujranwala Division",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "32.45000000",
+      "longitude": "74.13333000"
+   },
+   {
       "name": "Gujrat",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -432,6 +460,13 @@
       "stateCode": "PB",
       "latitude": "29.61206000",
       "longitude": "73.13802000"
+   },
+   {
+      "name": "Hasan Abdal",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "33.81948611",
+      "longitude": "72.68902778"
    },
    {
       "name": "Hasilpur",
@@ -735,6 +770,13 @@
       "longitude": "72.35250000"
    },
    {
+      "name": "Kohror Pakka",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "29.62382000",
+      "longitude": "71.91673000"
+   },
+   {
       "name": "Kot Addu Tehsil",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -903,6 +945,13 @@
       "longitude": "73.49123000"
    },
    {
+      "name": "Mandi Bahauddin District",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "32.58333333",
+      "longitude": "73.50000000"
+   },
+   {
       "name": "Mangla",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -971,6 +1020,13 @@
       "stateCode": "PB",
       "latitude": "30.19679000",
       "longitude": "71.47824000"
+   },
+   {
+      "name": "Multan District",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "30.08333333",
+      "longitude": "71.66666667"
    },
    {
       "name": "Muridke",
@@ -1043,6 +1099,13 @@
       "longitude": "73.45155000"
    },
    {
+      "name": "Pakki Shagwanwali",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "30.79033000",
+      "longitude": "70.87139000"
+   },
+   {
       "name": "Pakpattan",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -1106,11 +1169,32 @@
       "longitude": "71.67164000"
    },
    {
+      "name": "Qila Didar Singh",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "32.80000000",
+      "longitude": "74.10000000"
+   },
+   {
+      "name": "Rabwah",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "31.75511000",
+      "longitude": "72.91403000"
+   },
+   {
       "name": "Rahim Yar Khan",
       "countryCode": "PK",
       "stateCode": "PB",
       "latitude": "28.41987000",
       "longitude": "70.30345000"
+   },
+   {
+      "name": "Rahimyar Khan District",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "28.46020000",
+      "longitude": "70.52837000"
    },
    {
       "name": "Raiwind",
@@ -1225,11 +1309,11 @@
       "longitude": "72.67418000"
    },
    {
-      "name": "Shorkot",
+      "name": "Shahkot Tehsil",
       "countryCode": "PK",
       "stateCode": "PB",
-      "latitude": "30.50000000",
-      "longitude": "72.40000000"
+      "latitude": "31.56166667",
+      "longitude": "73.48750000"
    },
    {
       "name": "Shahpur",
@@ -1265,6 +1349,13 @@
       "stateCode": "PB",
       "latitude": "31.71287000",
       "longitude": "73.98556000"
+   },
+   {
+      "name": "Shorkot",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "30.50000000",
+      "longitude": "72.40000000"
    },
    {
       "name": "Shujaabad",
@@ -1344,6 +1435,13 @@
       "longitude": "72.48275000"
    },
    {
+      "name": "Umerkot",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "25.36138889",
+      "longitude": "69.73611111"
+   },
+   {
       "name": "Vihari",
       "countryCode": "PK",
       "stateCode": "PB",
@@ -1351,11 +1449,32 @@
       "longitude": "72.35560000"
    },
    {
+      "name": "Wah",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "33.81000000",
+      "longitude": "72.70972222"
+   },
+   {
+      "name": "Warburton",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "31.55000000",
+      "longitude": "73.83330000"
+   },
+   {
       "name": "Wazirabad",
       "countryCode": "PK",
       "stateCode": "PB",
       "latitude": "32.44324000",
       "longitude": "74.12000000"
+   },
+   {
+      "name": "West Punjab",
+      "countryCode": "PK",
+      "stateCode": "PB",
+      "latitude": "31.00000000",
+      "longitude": "72.00000000"
    },
    {
       "name": "Yazman",
@@ -1377,124 +1496,5 @@
       "stateCode": "PB",
       "latitude": "28.81284000",
       "longitude": "70.52341000"
-   },
-   {
-      "name": "Chuhar Kana",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "31.75000000",
-      "longitude": "73.80000000"
-   },
-   {
-      "name": "Dhok Awan",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "32.84452000",
-      "longitude": "72.52357000"
-   },
-   {
-      "name": "Daud Khel",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "32.87498000",
-      "longitude": "71.57013000"
-   },
-   {
-      "name": "Ferozewala",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "29.30000000",
-      "longitude": "70.43333333"
-   },
-   {
-      "name": "Gujranwala Division",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "32.45000000",
-      "longitude": "74.13333000"
-   },
-   {
-      "name": "Hasan Abdal",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "33.81948611",
-      "longitude": "72.68902778"
-   },
-   {
-      "name": "Kohror Pakka",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "29.62382000",
-      "longitude": "71.91673000"
-   },
-   {
-      "name": "Mandi Bahauddin District",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "32.58333333",
-      "longitude": "73.50000000"
-   },
-   {
-      "name": "Multan District",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "30.08333333",
-      "longitude": "71.66666667"
-   },
-   {
-      "name": "Pakki Shagwanwali",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "30.79033000",
-      "longitude": "70.87139000"
-   },
-   {
-      "name": "Qila Didar Singh",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "32.80000000",
-      "longitude": "74.10000000"
-   },
-   {
-      "name": "Rahimyar Khan District",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "28.46020000",
-      "longitude": "70.52837000"
-   },
-   {
-      "name": "Shahkot Tehsil",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "31.56166667",
-      "longitude": "73.48750000"
-   },
-   {
-      "name": "Umerkot",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "25.36138889",
-      "longitude": "69.73611111"
-   },
-   {
-      "name": "Wah",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "33.81000000",
-      "longitude": "72.70972222"
-   },
-   {
-      "name": "Warburton",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "31.55000000",
-      "longitude": "73.83330000"
-   },
-   {
-      "name": "West Punjab",
-      "countryCode": "PK",
-      "stateCode": "PB",
-      "latitude": "31.00000000",
-      "longitude": "72.00000000"
    }
 ]

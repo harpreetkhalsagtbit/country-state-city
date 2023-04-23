@@ -1,12 +1,5 @@
 [
    {
-      "name": "Northern Red Sea Region",
-      "isoCode": "SK",
-      "countryCode": "ER",
-      "latitude": "16.25839970",
-      "longitude": "38.82054540"
-   },
-   {
       "name": "Anseba Region",
       "isoCode": "AN",
       "countryCode": "ER",
@@ -14,11 +7,11 @@
       "longitude": "37.80876930"
    },
    {
-      "name": "Maekel Region",
-      "isoCode": "MA",
+      "name": "Southern Red Sea Region",
+      "isoCode": "DK",
       "countryCode": "ER",
-      "latitude": "15.35514090",
-      "longitude": "38.86236830"
+      "latitude": "13.51371030",
+      "longitude": "41.76064720"
    },
    {
       "name": "Debub Region",
@@ -35,10 +28,17 @@
       "longitude": "37.63866220"
    },
    {
-      "name": "Southern Red Sea Region",
-      "isoCode": "DK",
+      "name": "Maekel Region",
+      "isoCode": "MA",
       "countryCode": "ER",
-      "latitude": "13.51371030",
-      "longitude": "41.76064720"
+      "latitude": "15.35514090",
+      "longitude": "38.86236830"
+   },
+   {
+      "name": "Northern Red Sea Region",
+      "isoCode": "SK",
+      "countryCode": "ER",
+      "latitude": "16.25839970",
+      "longitude": "38.82054540"
    }
 ]

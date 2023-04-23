@@ -7,18 +7,18 @@
       "longitude": "56.61666670"
    },
    {
-      "name": "Rodrigues",
-      "isoCode": "RO",
+      "name": "Rivière Noire District",
+      "isoCode": "BL",
       "countryCode": "MU",
-      "latitude": "-19.72453850",
-      "longitude": "63.42721850"
+      "latitude": "-20.37084920",
+      "longitude": "57.39486490"
    },
    {
-      "name": "Pamplemousses District",
-      "isoCode": "PA",
+      "name": "Beau Bassin-Rose Hill",
+      "isoCode": "BR",
       "countryCode": "MU",
-      "latitude": "-20.11360080",
-      "longitude": "57.57592600"
+      "latitude": "-20.22303050",
+      "longitude": "57.46838300"
    },
    {
       "name": "Cargados Carajos",
@@ -28,18 +28,11 @@
       "longitude": "59.61666700"
    },
    {
-      "name": "Vacoas-Phoenix",
-      "isoCode": "VP",
+      "name": "Curepipe",
+      "isoCode": "CU",
       "countryCode": "MU",
-      "latitude": "-20.29840260",
-      "longitude": "57.49383550"
-   },
-   {
-      "name": "Moka District",
-      "isoCode": "MO",
-      "countryCode": "MU",
-      "latitude": "-20.23997820",
-      "longitude": "57.57592600"
+      "latitude": "-20.31708720",
+      "longitude": "57.52652890"
    },
    {
       "name": "Flacq District",
@@ -49,11 +42,32 @@
       "longitude": "57.71192740"
    },
    {
-      "name": "Curepipe",
-      "isoCode": "CU",
+      "name": "Grand Port District",
+      "isoCode": "GP",
       "countryCode": "MU",
-      "latitude": "-20.31708720",
-      "longitude": "57.52652890"
+      "latitude": "-20.38515460",
+      "longitude": "57.66657420"
+   },
+   {
+      "name": "Moka District",
+      "isoCode": "MO",
+      "countryCode": "MU",
+      "latitude": "-20.23997820",
+      "longitude": "57.57592600"
+   },
+   {
+      "name": "Pamplemousses District",
+      "isoCode": "PA",
+      "countryCode": "MU",
+      "latitude": "-20.11360080",
+      "longitude": "57.57592600"
+   },
+   {
+      "name": "Port Louis District",
+      "isoCode": "PL",
+      "countryCode": "MU",
+      "latitude": "-20.16089120",
+      "longitude": "57.50122220"
    },
    {
       "name": "Port Louis",
@@ -63,10 +77,10 @@
       "longitude": "57.50122220"
    },
    {
-      "name": "Savanne District",
-      "isoCode": "SA",
+      "name": "Plaines Wilhems District",
+      "isoCode": "PW",
       "countryCode": "MU",
-      "latitude": "-20.47395300",
+      "latitude": "-20.30548720",
       "longitude": "57.48535610"
    },
    {
@@ -77,18 +91,11 @@
       "longitude": "57.47969810"
    },
    {
-      "name": "Rivière Noire District",
-      "isoCode": "BL",
+      "name": "Rodrigues",
+      "isoCode": "RO",
       "countryCode": "MU",
-      "latitude": "-20.37084920",
-      "longitude": "57.39486490"
-   },
-   {
-      "name": "Port Louis District",
-      "isoCode": "PL",
-      "countryCode": "MU",
-      "latitude": "-20.16089120",
-      "longitude": "57.50122220"
+      "latitude": "-19.72453850",
+      "longitude": "63.42721850"
    },
    {
       "name": "Rivière du Rempart District",
@@ -98,24 +105,17 @@
       "longitude": "57.65523890"
    },
    {
-      "name": "Beau Bassin-Rose Hill",
-      "isoCode": "BR",
+      "name": "Savanne District",
+      "isoCode": "SA",
       "countryCode": "MU",
-      "latitude": "-20.22303050",
-      "longitude": "57.46838300"
-   },
-   {
-      "name": "Plaines Wilhems District",
-      "isoCode": "PW",
-      "countryCode": "MU",
-      "latitude": "-20.30548720",
+      "latitude": "-20.47395300",
       "longitude": "57.48535610"
    },
    {
-      "name": "Grand Port District",
-      "isoCode": "GP",
+      "name": "Vacoas-Phoenix",
+      "isoCode": "VP",
       "countryCode": "MU",
-      "latitude": "-20.38515460",
-      "longitude": "57.66657420"
+      "latitude": "-20.29840260",
+      "longitude": "57.49383550"
    }
 ]

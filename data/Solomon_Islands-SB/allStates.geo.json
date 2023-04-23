@@ -1,24 +1,10 @@
 [
    {
-      "name": "Honiara",
-      "isoCode": "CT",
+      "name": "Central Province",
+      "isoCode": "CE",
       "countryCode": "SB",
-      "latitude": "-9.44563810",
-      "longitude": "159.97289990"
-   },
-   {
-      "name": "Temotu Province",
-      "isoCode": "TE",
-      "countryCode": "SB",
-      "latitude": "-10.68692900",
-      "longitude": "166.06239790"
-   },
-   {
-      "name": "Isabel Province",
-      "isoCode": "IS",
-      "countryCode": "SB",
-      "latitude": "-8.05923530",
-      "longitude": "159.14470810"
+      "latitude": null,
+      "longitude": null
    },
    {
       "name": "Choiseul Province",
@@ -26,6 +12,27 @@
       "countryCode": "SB",
       "latitude": "-7.05014940",
       "longitude": "156.95114590"
+   },
+   {
+      "name": "Honiara",
+      "isoCode": "CT",
+      "countryCode": "SB",
+      "latitude": "-9.44563810",
+      "longitude": "159.97289990"
+   },
+   {
+      "name": "Guadalcanal Province",
+      "isoCode": "GU",
+      "countryCode": "SB",
+      "latitude": "-9.57732840",
+      "longitude": "160.14558050"
+   },
+   {
+      "name": "Isabel Province",
+      "isoCode": "IS",
+      "countryCode": "SB",
+      "latitude": "-8.05923530",
+      "longitude": "159.14470810"
    },
    {
       "name": "Makira-Ulawa Province",
@@ -42,18 +49,18 @@
       "longitude": "160.90712360"
    },
    {
-      "name": "Central Province",
-      "isoCode": "CE",
+      "name": "Rennell and Bellona Province",
+      "isoCode": "RB",
       "countryCode": "SB",
-      "latitude": null,
-      "longitude": null
+      "latitude": "-11.61314350",
+      "longitude": "160.16939490"
    },
    {
-      "name": "Guadalcanal Province",
-      "isoCode": "GU",
+      "name": "Temotu Province",
+      "isoCode": "TE",
       "countryCode": "SB",
-      "latitude": "-9.57732840",
-      "longitude": "160.14558050"
+      "latitude": "-10.68692900",
+      "longitude": "166.06239790"
    },
    {
       "name": "Western Province",
@@ -61,12 +68,5 @@
       "countryCode": "SB",
       "latitude": null,
       "longitude": null
-   },
-   {
-      "name": "Rennell and Bellona Province",
-      "isoCode": "RB",
-      "countryCode": "SB",
-      "latitude": "-11.61314350",
-      "longitude": "160.16939490"
    }
 ]

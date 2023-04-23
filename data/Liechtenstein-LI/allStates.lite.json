@@ -1,12 +1,7 @@
 [
    {
-      "name": "Schellenberg",
-      "isoCode": "08",
-      "countryCode": "LI"
-   },
-   {
-      "name": "Schaan",
-      "isoCode": "07",
+      "name": "Balzers",
+      "isoCode": "01",
       "countryCode": "LI"
    },
    {
@@ -15,18 +10,8 @@
       "countryCode": "LI"
    },
    {
-      "name": "Vaduz",
-      "isoCode": "11",
-      "countryCode": "LI"
-   },
-   {
-      "name": "Ruggell",
-      "isoCode": "06",
-      "countryCode": "LI"
-   },
-   {
-      "name": "Planken",
-      "isoCode": "05",
+      "name": "Gamprin",
+      "isoCode": "03",
       "countryCode": "LI"
    },
    {
@@ -35,23 +20,38 @@
       "countryCode": "LI"
    },
    {
-      "name": "Triesenberg",
-      "isoCode": "10",
+      "name": "Planken",
+      "isoCode": "05",
       "countryCode": "LI"
    },
    {
-      "name": "Gamprin",
-      "isoCode": "03",
+      "name": "Ruggell",
+      "isoCode": "06",
       "countryCode": "LI"
    },
    {
-      "name": "Balzers",
-      "isoCode": "01",
+      "name": "Schaan",
+      "isoCode": "07",
+      "countryCode": "LI"
+   },
+   {
+      "name": "Schellenberg",
+      "isoCode": "08",
       "countryCode": "LI"
    },
    {
       "name": "Triesen",
       "isoCode": "09",
+      "countryCode": "LI"
+   },
+   {
+      "name": "Triesenberg",
+      "isoCode": "10",
+      "countryCode": "LI"
+   },
+   {
+      "name": "Vaduz",
+      "isoCode": "11",
       "countryCode": "LI"
    }
 ]

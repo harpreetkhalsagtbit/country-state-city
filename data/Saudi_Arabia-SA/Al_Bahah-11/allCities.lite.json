@@ -1,15 +1,5 @@
 [
    {
-      "name": "Al Bahah",
-      "countryCode": "SA",
-      "stateCode": "11"
-   },
-   {
-      "name": "Al Mindak",
-      "countryCode": "SA",
-      "stateCode": "11"
-   },
-   {
       "name": "Abu Hisani",
       "countryCode": "SA",
       "stateCode": "11"
@@ -51,6 +41,11 @@
    },
    {
       "name": "Al Ashraf",
+      "countryCode": "SA",
+      "stateCode": "11"
+   },
+   {
+      "name": "Al Bahah",
       "countryCode": "SA",
       "stateCode": "11"
    },
@@ -241,6 +236,11 @@
    },
    {
       "name": "Al Mathnah",
+      "countryCode": "SA",
+      "stateCode": "11"
+   },
+   {
+      "name": "Al Mindak",
       "countryCode": "SA",
       "stateCode": "11"
    },

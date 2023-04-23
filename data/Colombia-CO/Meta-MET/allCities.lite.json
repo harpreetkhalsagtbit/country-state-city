@@ -40,6 +40,11 @@
       "stateCode": "MET"
    },
    {
+      "name": "El Dorado",
+      "countryCode": "CO",
+      "stateCode": "MET"
+   },
+   {
       "name": "Fuente de Oro",
       "countryCode": "CO",
       "stateCode": "MET"
@@ -115,7 +120,17 @@
       "stateCode": "MET"
    },
    {
+      "name": "San Juanito",
+      "countryCode": "CO",
+      "stateCode": "MET"
+   },
+   {
       "name": "San Martín",
+      "countryCode": "CO",
+      "stateCode": "MET"
+   },
+   {
+      "name": "Uribe",
       "countryCode": "CO",
       "stateCode": "MET"
    },
@@ -126,21 +141,6 @@
    },
    {
       "name": "Vistahermosa",
-      "countryCode": "CO",
-      "stateCode": "MET"
-   },
-   {
-      "name": "El Dorado",
-      "countryCode": "CO",
-      "stateCode": "MET"
-   },
-   {
-      "name": "San Juanito",
-      "countryCode": "CO",
-      "stateCode": "MET"
-   },
-   {
-      "name": "Uribe",
       "countryCode": "CO",
       "stateCode": "MET"
    }

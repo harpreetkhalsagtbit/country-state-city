@@ -1,32 +1,7 @@
 [
    {
-      "name": "Yilan",
-      "isoCode": "ILA",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Penghu",
-      "isoCode": "PEN",
-      "countryCode": "TW"
-   },
-   {
       "name": "Changhua",
       "isoCode": "CHA",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Pingtung",
-      "isoCode": "PIF",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Taichung",
-      "isoCode": "TXG",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Nantou",
-      "isoCode": "NAN",
       "countryCode": "TW"
    },
    {
@@ -35,33 +10,13 @@
       "countryCode": "TW"
    },
    {
-      "name": "Taitung",
-      "isoCode": "TTT",
+      "name": "Chiayi",
+      "isoCode": "CYQ",
       "countryCode": "TW"
    },
    {
-      "name": "Hualien",
-      "isoCode": "HUA",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Kaohsiung",
-      "isoCode": "KHH",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Miaoli",
-      "isoCode": "MIA",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Kinmen",
-      "isoCode": "KIN",
-      "countryCode": "TW"
-   },
-   {
-      "name": "Yunlin",
-      "isoCode": "YUN",
+      "name": "Hsinchu",
+      "isoCode": "HSQ",
       "countryCode": "TW"
    },
    {
@@ -70,18 +25,63 @@
       "countryCode": "TW"
    },
    {
-      "name": "Chiayi",
-      "isoCode": "CYQ",
+      "name": "Hualien",
+      "isoCode": "HUA",
       "countryCode": "TW"
    },
    {
-      "name": "Taoyuan",
-      "isoCode": "TAO",
+      "name": "Yilan",
+      "isoCode": "ILA",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Keelung",
+      "isoCode": "KEE",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Kaohsiung",
+      "isoCode": "KHH",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Kinmen",
+      "isoCode": "KIN",
       "countryCode": "TW"
    },
    {
       "name": "Lienchiang",
       "isoCode": "LIE",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Miaoli",
+      "isoCode": "MIA",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Nantou",
+      "isoCode": "NAN",
+      "countryCode": "TW"
+   },
+   {
+      "name": "New Taipei",
+      "isoCode": "NWT",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Penghu",
+      "isoCode": "PEN",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Pingtung",
+      "isoCode": "PIF",
+      "countryCode": "TW"
+   },
+   {
+      "name": "Taoyuan",
+      "isoCode": "TAO",
       "countryCode": "TW"
    },
    {
@@ -95,18 +95,18 @@
       "countryCode": "TW"
    },
    {
-      "name": "Hsinchu",
-      "isoCode": "HSQ",
+      "name": "Taitung",
+      "isoCode": "TTT",
       "countryCode": "TW"
    },
    {
-      "name": "Keelung",
-      "isoCode": "KEE",
+      "name": "Taichung",
+      "isoCode": "TXG",
       "countryCode": "TW"
    },
    {
-      "name": "New Taipei",
-      "isoCode": "NWT",
+      "name": "Yunlin",
+      "isoCode": "YUN",
       "countryCode": "TW"
    }
 ]

@@ -10,12 +10,37 @@
       "stateCode": "NCR"
    },
    {
+      "name": "Dasmariñas Village",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Ermita",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Intramuros",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
       "name": "Las Piñas",
       "countryCode": "PH",
       "stateCode": "NCR"
    },
    {
       "name": "Makati",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Malabon",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Malate",
       "countryCode": "PH",
       "stateCode": "NCR"
    },
@@ -30,6 +55,21 @@
       "stateCode": "NCR"
    },
    {
+      "name": "Marikina",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Muntinlupa",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "National Capital Region",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
       "name": "Navotas",
       "countryCode": "PH",
       "stateCode": "NCR"
@@ -40,12 +80,32 @@
       "stateCode": "NCR"
    },
    {
+      "name": "Paco",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Pandacan",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Parañaque",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
       "name": "Pasay",
       "countryCode": "PH",
       "stateCode": "NCR"
    },
    {
       "name": "Pasig",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Pateros",
       "countryCode": "PH",
       "stateCode": "NCR"
    },
@@ -75,76 +135,6 @@
       "stateCode": "NCR"
    },
    {
-      "name": "Taguig",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Tanza",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Dasmariñas Village",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Ermita",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Intramuros",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Malabon",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Malate",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Marikina",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Muntinlupa",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "National Capital Region",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Paco",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Pandacan",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Parañaque",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
-      "name": "Pateros",
-      "countryCode": "PH",
-      "stateCode": "NCR"
-   },
-   {
       "name": "San Miguel",
       "countryCode": "PH",
       "stateCode": "NCR"
@@ -161,6 +151,16 @@
    },
    {
       "name": "Singkamas",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Taguig",
+      "countryCode": "PH",
+      "stateCode": "NCR"
+   },
+   {
+      "name": "Tanza",
       "countryCode": "PH",
       "stateCode": "NCR"
    },

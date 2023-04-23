@@ -5,6 +5,16 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Abu",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Abu Road",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Ajmer",
       "countryCode": "IN",
       "stateCode": "RJ"
@@ -35,117 +45,17 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Asind",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Bagar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
       "name": "Bakani",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Baran",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bari Sadri",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Basi",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Basni",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Baswa",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bayana",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Begun",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Behror",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Beawar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bharatpur",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhasawar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhindar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhiwadi",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhuma",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhadra",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhadasar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhilwara",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bhinmal",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bilara",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Bissau",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Borkhera",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -170,7 +80,17 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Baran",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Bari",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bari Sadri",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -180,7 +100,102 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Basi",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Basni",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Baswa",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bayana",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Beawar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Begun",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Behror",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhadasar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhadra",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bharatpur",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhasawar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhilwara",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhindar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhinmal",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhiwadi",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bhuma",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Bikaner",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bilara",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Bissau",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Borkhera",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -205,12 +220,12 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Chhoti Sadri",
+      "name": "Chhapar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Chhapar",
+      "name": "Chhoti Sadri",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -345,7 +360,7 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Jhunjhunun",
+      "name": "Jhalawar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -355,7 +370,7 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Jhalawar",
+      "name": "Jhunjhunun",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -366,6 +381,21 @@
    },
    {
       "name": "Jodhpur",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Kaman",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Kanor",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Kapren",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -395,12 +425,12 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Khetri",
+      "name": "Khanpur",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Khanpur",
+      "name": "Khetri",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -420,32 +450,12 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Kuchera",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Kuchaman",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Kushalgarh",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Kaman",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Kanor",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Kapren",
+      "name": "Kuchera",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -455,12 +465,12 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Lachhmangarh Sikar",
+      "name": "Kushalgarh",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Losal",
+      "name": "Lachhmangarh Sikar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -480,6 +490,11 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Losal",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Mahwah",
       "countryCode": "IN",
       "stateCode": "RJ"
@@ -490,7 +505,27 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Malpura",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mandal",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mandalgarh",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Mandawar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Mangrol",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -515,32 +550,22 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Malpura",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Mandal",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Mandalgarh",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Mangrol",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Mundwa",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
+      "name": "Nadbai",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Nagar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nagaur",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -565,12 +590,32 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Nathdwara",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nawa",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Nawalgarh",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
       "name": "Neem ka Thana",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nimaj",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Nimbahera",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -590,37 +635,12 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Nadbai",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Nagaur",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Nathdwara",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Nawa",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Nimbahera",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Nimaj",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Padampur",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Pali",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -645,17 +665,22 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Pilibangan",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Pilani",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
+      "name": "Pilibangan",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Pindwara",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Pipar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -680,32 +705,17 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Pali",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Pipar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Raipur",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Rajsamand",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Ratangarh",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Raisinghnagar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Rajakhera",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -720,7 +730,7 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Rajakhera",
+      "name": "Rajsamand",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -740,6 +750,11 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Ratangarh",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Rawatbhata",
       "countryCode": "IN",
       "stateCode": "RJ"
@@ -755,7 +770,27 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Sadri",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Salumbar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Sambhar",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Samdari",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Sanchor",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -785,12 +820,17 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Shahpura",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Sheoganj",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
-      "name": "Shahpura",
+      "name": "Sikar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -820,42 +860,17 @@
       "stateCode": "RJ"
    },
    {
+      "name": "Sujangarh",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
       "name": "Suket",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
    {
       "name": "Sunel",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Sadri",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Salumbar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Sambhar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Sanchor",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Sikar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Sujangarh",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -871,6 +886,11 @@
    },
    {
       "name": "Takhatgarh",
+      "countryCode": "IN",
+      "stateCode": "RJ"
+   },
+   {
+      "name": "Taranagar",
       "countryCode": "IN",
       "stateCode": "RJ"
    },
@@ -895,11 +915,6 @@
       "stateCode": "RJ"
    },
    {
-      "name": "Taranagar",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
       "name": "Udaipur",
       "countryCode": "IN",
       "stateCode": "RJ"
@@ -916,21 +931,6 @@
    },
    {
       "name": "Wer",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Abu",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Abu Road",
-      "countryCode": "IN",
-      "stateCode": "RJ"
-   },
-   {
-      "name": "Asind",
       "countryCode": "IN",
       "stateCode": "RJ"
    }

@@ -1,12 +1,12 @@
 [
    {
-      "name": "Cabo Delgado Province",
-      "isoCode": "P",
+      "name": "Niassa Province",
+      "isoCode": "A",
       "countryCode": "MZ"
    },
    {
-      "name": "Zambezia Province",
-      "isoCode": "Q",
+      "name": "Manica Province",
+      "isoCode": "B",
       "countryCode": "MZ"
    },
    {
@@ -20,23 +20,8 @@
       "countryCode": "MZ"
    },
    {
-      "name": "Sofala Province",
-      "isoCode": "S",
-      "countryCode": "MZ"
-   },
-   {
       "name": "Maputo Province",
       "isoCode": "L",
-      "countryCode": "MZ"
-   },
-   {
-      "name": "Niassa Province",
-      "isoCode": "A",
-      "countryCode": "MZ"
-   },
-   {
-      "name": "Tete Province",
-      "isoCode": "T",
       "countryCode": "MZ"
    },
    {
@@ -50,8 +35,23 @@
       "countryCode": "MZ"
    },
    {
-      "name": "Manica Province",
-      "isoCode": "B",
+      "name": "Cabo Delgado Province",
+      "isoCode": "P",
+      "countryCode": "MZ"
+   },
+   {
+      "name": "Zambezia Province",
+      "isoCode": "Q",
+      "countryCode": "MZ"
+   },
+   {
+      "name": "Sofala Province",
+      "isoCode": "S",
+      "countryCode": "MZ"
+   },
+   {
+      "name": "Tete Province",
+      "isoCode": "T",
       "countryCode": "MZ"
    }
 ]

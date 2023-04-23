@@ -1,33 +1,5 @@
 [
    {
-      "name": "Cuyuni-Mazaruni",
-      "isoCode": "CU",
-      "countryCode": "GY",
-      "latitude": "6.46421410",
-      "longitude": "-60.21107520"
-   },
-   {
-      "name": "Potaro-Siparuni",
-      "isoCode": "PT",
-      "countryCode": "GY",
-      "latitude": "4.78558530",
-      "longitude": "-59.28799770"
-   },
-   {
-      "name": "Mahaica-Berbice",
-      "isoCode": "MA",
-      "countryCode": "GY",
-      "latitude": "6.23849600",
-      "longitude": "-57.91625550"
-   },
-   {
-      "name": "Upper Demerara-Berbice",
-      "isoCode": "UD",
-      "countryCode": "GY",
-      "latitude": "5.30648790",
-      "longitude": "-58.18929210"
-   },
-   {
       "name": "Barima-Waini",
       "isoCode": "BA",
       "countryCode": "GY",
@@ -35,18 +7,11 @@
       "longitude": "-59.65644940"
    },
    {
-      "name": "Pomeroon-Supenaam",
-      "isoCode": "PM",
+      "name": "Cuyuni-Mazaruni",
+      "isoCode": "CU",
       "countryCode": "GY",
-      "latitude": "7.12941660",
-      "longitude": "-58.92062950"
-   },
-   {
-      "name": "East Berbice-Corentyne",
-      "isoCode": "EB",
-      "countryCode": "GY",
-      "latitude": "2.74779220",
-      "longitude": "-57.46272590"
+      "latitude": "6.46421410",
+      "longitude": "-60.21107520"
    },
    {
       "name": "Demerara-Mahaica",
@@ -56,11 +21,46 @@
       "longitude": "-58.09820460"
    },
    {
+      "name": "East Berbice-Corentyne",
+      "isoCode": "EB",
+      "countryCode": "GY",
+      "latitude": "2.74779220",
+      "longitude": "-57.46272590"
+   },
+   {
       "name": "Essequibo Islands-West Demerara",
       "isoCode": "ES",
       "countryCode": "GY",
       "latitude": "6.57201320",
       "longitude": "-58.46299970"
+   },
+   {
+      "name": "Mahaica-Berbice",
+      "isoCode": "MA",
+      "countryCode": "GY",
+      "latitude": "6.23849600",
+      "longitude": "-57.91625550"
+   },
+   {
+      "name": "Pomeroon-Supenaam",
+      "isoCode": "PM",
+      "countryCode": "GY",
+      "latitude": "7.12941660",
+      "longitude": "-58.92062950"
+   },
+   {
+      "name": "Potaro-Siparuni",
+      "isoCode": "PT",
+      "countryCode": "GY",
+      "latitude": "4.78558530",
+      "longitude": "-59.28799770"
+   },
+   {
+      "name": "Upper Demerara-Berbice",
+      "isoCode": "UD",
+      "countryCode": "GY",
+      "latitude": "5.30648790",
+      "longitude": "-58.18929210"
    },
    {
       "name": "Upper Takutu-Upper Essequibo",

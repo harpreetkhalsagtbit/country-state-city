@@ -1,6 +1,16 @@
 [
    {
+      "name": "Aysén",
+      "countryCode": "CL",
+      "stateCode": "AI"
+   },
+   {
       "name": "Chile Chico",
+      "countryCode": "CL",
+      "stateCode": "AI"
+   },
+   {
+      "name": "Cisnes",
       "countryCode": "CL",
       "stateCode": "AI"
    },
@@ -11,16 +21,6 @@
    },
    {
       "name": "Coyhaique",
-      "countryCode": "CL",
-      "stateCode": "AI"
-   },
-   {
-      "name": "Aysén",
-      "countryCode": "CL",
-      "stateCode": "AI"
-   },
-   {
-      "name": "Cisnes",
       "countryCode": "CL",
       "stateCode": "AI"
    },

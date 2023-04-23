@@ -1,5 +1,15 @@
 [
    {
+      "name": "Adilabad",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Alampur",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
       "name": "Andol",
       "countryCode": "IN",
       "stateCode": "TG"
@@ -10,17 +20,27 @@
       "stateCode": "TG"
    },
    {
+      "name": "Balapur",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Banswada",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
       "name": "Bellampalli",
       "countryCode": "IN",
       "stateCode": "TG"
    },
    {
-      "name": "Bhadradri Kothagudem",
+      "name": "Bhadrachalam",
       "countryCode": "IN",
       "stateCode": "TG"
    },
    {
-      "name": "Bhadrachalam",
+      "name": "Bhadradri Kothagudem",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -36,16 +56,6 @@
    },
    {
       "name": "Bodhan",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Balapur",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Banswada",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -140,6 +150,11 @@
       "stateCode": "TG"
    },
    {
+      "name": "Kamareddi",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
       "name": "Kamareddy",
       "countryCode": "IN",
       "stateCode": "TG"
@@ -180,17 +195,12 @@
       "stateCode": "TG"
    },
    {
-      "name": "Kyathampalle",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Kamareddi",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
       "name": "Kukatpalli",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Kyathampalle",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -260,7 +270,27 @@
       "stateCode": "TG"
    },
    {
+      "name": "Nagar Karnul",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
       "name": "Nalgonda",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Narayanpet",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Narsingi",
+      "countryCode": "IN",
+      "stateCode": "TG"
+   },
+   {
+      "name": "Naspur",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -275,22 +305,7 @@
       "stateCode": "TG"
    },
    {
-      "name": "Nagar Karnul",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Narsingi",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Narayanpet",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Naspur",
+      "name": "Paloncha",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -310,11 +325,6 @@
       "stateCode": "TG"
    },
    {
-      "name": "Paloncha",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
       "name": "Quthbullapur",
       "countryCode": "IN",
       "stateCode": "TG"
@@ -330,12 +340,12 @@
       "stateCode": "TG"
    },
    {
-      "name": "Rangareddi",
+      "name": "Ramgundam",
       "countryCode": "IN",
       "stateCode": "TG"
    },
    {
-      "name": "Ramgundam",
+      "name": "Rangareddi",
       "countryCode": "IN",
       "stateCode": "TG"
    },
@@ -431,16 +441,6 @@
    },
    {
       "name": "Zahirabad",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Adilabad",
-      "countryCode": "IN",
-      "stateCode": "TG"
-   },
-   {
-      "name": "Alampur",
       "countryCode": "IN",
       "stateCode": "TG"
    }

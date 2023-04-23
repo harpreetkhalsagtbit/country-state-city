@@ -1407,6 +1407,62 @@
       "longitude": "20.81834000"
    },
    {
+      "name": "Săcălaz",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.75833000",
+      "longitude": "21.11222000"
+   },
+   {
+      "name": "Teremia Mare",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.93528000",
+      "longitude": "20.52500000"
+   },
+   {
+      "name": "Timişoara",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.75372000",
+      "longitude": "21.22571000"
+   },
+   {
+      "name": "Tomeşti",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.78333000",
+      "longitude": "22.30000000"
+   },
+   {
+      "name": "Tomnatic",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.98857000",
+      "longitude": "20.66186000"
+   },
+   {
+      "name": "Topolovăţu Mare",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.77389000",
+      "longitude": "21.61889000"
+   },
+   {
+      "name": "Tormac",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.52083000",
+      "longitude": "21.49361000"
+   },
+   {
+      "name": "Traian Vuia",
+      "countryCode": "RO",
+      "stateCode": "TM",
+      "latitude": "45.80000000",
+      "longitude": "22.06667000"
+   },
+   {
       "name": "Uivar",
       "countryCode": "RO",
       "stateCode": "TM",
@@ -1475,61 +1531,5 @@
       "stateCode": "TM",
       "latitude": "45.57139000",
       "longitude": "21.97667000"
-   },
-   {
-      "name": "Săcălaz",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.75833000",
-      "longitude": "21.11222000"
-   },
-   {
-      "name": "Teremia Mare",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.93528000",
-      "longitude": "20.52500000"
-   },
-   {
-      "name": "Timişoara",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.75372000",
-      "longitude": "21.22571000"
-   },
-   {
-      "name": "Tomeşti",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.78333000",
-      "longitude": "22.30000000"
-   },
-   {
-      "name": "Tomnatic",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.98857000",
-      "longitude": "20.66186000"
-   },
-   {
-      "name": "Topolovăţu Mare",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.77389000",
-      "longitude": "21.61889000"
-   },
-   {
-      "name": "Tormac",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.52083000",
-      "longitude": "21.49361000"
-   },
-   {
-      "name": "Traian Vuia",
-      "countryCode": "RO",
-      "stateCode": "TM",
-      "latitude": "45.80000000",
-      "longitude": "22.06667000"
    }
 ]

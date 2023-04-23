@@ -1,6 +1,41 @@
 [
    {
+      "name": "ChangZhou",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "HuaiAn",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "LianYunGang",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
       "name": "NanJing",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "NanTong",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "SuQian",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "SuZhou",
+      "countryCode": "CN",
+      "stateCode": "JS"
+   },
+   {
+      "name": "TaiZhou",
       "countryCode": "CN",
       "stateCode": "JS"
    },
@@ -11,31 +46,6 @@
    },
    {
       "name": "XuZhou",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "ChangZhou",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "SuZhou",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "NanTong",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "LianYunGang",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "HuaiAn",
       "countryCode": "CN",
       "stateCode": "JS"
    },
@@ -51,16 +61,6 @@
    },
    {
       "name": "ZhenJiang",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "TaiZhou",
-      "countryCode": "CN",
-      "stateCode": "JS"
-   },
-   {
-      "name": "SuQian",
       "countryCode": "CN",
       "stateCode": "JS"
    }

@@ -959,6 +959,62 @@
       "longitude": "22.80000000"
    },
    {
+      "name": "Săcăşeni",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.48333000",
+      "longitude": "22.68333000"
+   },
+   {
+      "name": "Sărăuad",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.47944000",
+      "longitude": "22.62559000"
+   },
+   {
+      "name": "Sătmărel",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.73470000",
+      "longitude": "22.79536000"
+   },
+   {
+      "name": "Săuca",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.46667000",
+      "longitude": "22.48333000"
+   },
+   {
+      "name": "Tarna Mare",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "48.09175000",
+      "longitude": "23.19369000"
+   },
+   {
+      "name": "Terebeşti",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.68333000",
+      "longitude": "22.71667000"
+   },
+   {
+      "name": "Tiream",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.61667000",
+      "longitude": "22.46667000"
+   },
+   {
+      "name": "Trip",
+      "countryCode": "RO",
+      "stateCode": "SM",
+      "latitude": "47.92450000",
+      "longitude": "23.37648000"
+   },
+   {
       "name": "Tur",
       "countryCode": "RO",
       "stateCode": "SM",
@@ -1041,61 +1097,5 @@
       "stateCode": "SM",
       "latitude": "47.66667000",
       "longitude": "22.95000000"
-   },
-   {
-      "name": "Săcăşeni",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.48333000",
-      "longitude": "22.68333000"
-   },
-   {
-      "name": "Sărăuad",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.47944000",
-      "longitude": "22.62559000"
-   },
-   {
-      "name": "Sătmărel",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.73470000",
-      "longitude": "22.79536000"
-   },
-   {
-      "name": "Săuca",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.46667000",
-      "longitude": "22.48333000"
-   },
-   {
-      "name": "Tarna Mare",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "48.09175000",
-      "longitude": "23.19369000"
-   },
-   {
-      "name": "Terebeşti",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.68333000",
-      "longitude": "22.71667000"
-   },
-   {
-      "name": "Tiream",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.61667000",
-      "longitude": "22.46667000"
-   },
-   {
-      "name": "Trip",
-      "countryCode": "RO",
-      "stateCode": "SM",
-      "latitude": "47.92450000",
-      "longitude": "23.37648000"
    }
 ]

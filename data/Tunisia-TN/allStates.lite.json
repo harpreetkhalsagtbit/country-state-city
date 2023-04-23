@@ -1,27 +1,17 @@
 [
    {
+      "name": "Tunis Governorate",
+      "isoCode": "11",
+      "countryCode": "TN"
+   },
+   {
       "name": "Ariana Governorate",
       "isoCode": "12",
       "countryCode": "TN"
    },
    {
-      "name": "Bizerte Governorate",
-      "isoCode": "23",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Jendouba Governorate",
-      "isoCode": "32",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Monastir Governorate",
-      "isoCode": "52",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Tunis Governorate",
-      "isoCode": "11",
+      "name": "Ben Arous Governorate",
+      "isoCode": "13",
       "countryCode": "TN"
    },
    {
@@ -30,38 +20,28 @@
       "countryCode": "TN"
    },
    {
-      "name": "Gafsa Governorate",
-      "isoCode": "71",
+      "name": "Zaghouan Governorate",
+      "isoCode": "22",
       "countryCode": "TN"
    },
    {
-      "name": "Sfax Governorate",
-      "isoCode": "61",
+      "name": "Bizerte Governorate",
+      "isoCode": "23",
       "countryCode": "TN"
    },
    {
-      "name": "Gabès Governorate",
-      "isoCode": "81",
+      "name": "Kassrine",
+      "isoCode": "31",
       "countryCode": "TN"
    },
    {
-      "name": "Tataouine Governorate",
-      "isoCode": "83",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Medenine Governorate",
-      "isoCode": "82",
+      "name": "Jendouba Governorate",
+      "isoCode": "32",
       "countryCode": "TN"
    },
    {
       "name": "Kef Governorate",
       "isoCode": "33",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Kebili Governorate",
-      "isoCode": "73",
       "countryCode": "TN"
    },
    {
@@ -75,13 +55,8 @@
       "countryCode": "TN"
    },
    {
-      "name": "Zaghouan Governorate",
-      "isoCode": "22",
-      "countryCode": "TN"
-   },
-   {
-      "name": "Ben Arous Governorate",
-      "isoCode": "13",
+      "name": "Kasserine Governorate",
+      "isoCode": "42",
       "countryCode": "TN"
    },
    {
@@ -90,8 +65,28 @@
       "countryCode": "TN"
    },
    {
+      "name": "Sousse Governorate",
+      "isoCode": "51",
+      "countryCode": "TN"
+   },
+   {
+      "name": "Monastir Governorate",
+      "isoCode": "52",
+      "countryCode": "TN"
+   },
+   {
       "name": "Mahdia Governorate",
       "isoCode": "53",
+      "countryCode": "TN"
+   },
+   {
+      "name": "Sfax Governorate",
+      "isoCode": "61",
+      "countryCode": "TN"
+   },
+   {
+      "name": "Gafsa Governorate",
+      "isoCode": "71",
       "countryCode": "TN"
    },
    {
@@ -100,18 +95,23 @@
       "countryCode": "TN"
    },
    {
-      "name": "Kasserine Governorate",
-      "isoCode": "42",
+      "name": "Kebili Governorate",
+      "isoCode": "73",
       "countryCode": "TN"
    },
    {
-      "name": "Sousse Governorate",
-      "isoCode": "51",
+      "name": "Gabès Governorate",
+      "isoCode": "81",
       "countryCode": "TN"
    },
    {
-      "name": "Kassrine",
-      "isoCode": "31",
+      "name": "Medenine Governorate",
+      "isoCode": "82",
+      "countryCode": "TN"
+   },
+   {
+      "name": "Tataouine Governorate",
+      "isoCode": "83",
       "countryCode": "TN"
    }
 ]

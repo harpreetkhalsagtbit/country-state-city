@@ -1,7 +1,7 @@
 [
    {
-      "name": "Torba",
-      "isoCode": "TOB",
+      "name": "Malampa",
+      "isoCode": "MAP",
       "countryCode": "VU"
    },
    {
@@ -10,23 +10,23 @@
       "countryCode": "VU"
    },
    {
-      "name": "Shefa",
-      "isoCode": "SEE",
-      "countryCode": "VU"
-   },
-   {
-      "name": "Malampa",
-      "isoCode": "MAP",
-      "countryCode": "VU"
-   },
-   {
       "name": "Sanma",
       "isoCode": "SAM",
       "countryCode": "VU"
    },
    {
+      "name": "Shefa",
+      "isoCode": "SEE",
+      "countryCode": "VU"
+   },
+   {
       "name": "Tafea",
       "isoCode": "TAE",
+      "countryCode": "VU"
+   },
+   {
+      "name": "Torba",
+      "isoCode": "TOB",
       "countryCode": "VU"
    }
 ]

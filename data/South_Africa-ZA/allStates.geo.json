@@ -1,10 +1,10 @@
 [
    {
-      "name": "Northern Cape",
-      "isoCode": "NC",
+      "name": "Eastern Cape",
+      "isoCode": "EC",
       "countryCode": "ZA",
-      "latitude": "-29.04668080",
-      "longitude": "21.85685860"
+      "latitude": "-32.29684020",
+      "longitude": "26.41938900"
    },
    {
       "name": "Free State",
@@ -14,18 +14,11 @@
       "longitude": "-97.28112560"
    },
    {
-      "name": "Limpopo",
-      "isoCode": "LP",
+      "name": "Gauteng",
+      "isoCode": "GP",
       "countryCode": "ZA",
-      "latitude": "-23.40129460",
-      "longitude": "29.41793240"
-   },
-   {
-      "name": "North West",
-      "isoCode": "NW",
-      "countryCode": "ZA",
-      "latitude": "32.75885200",
-      "longitude": "-97.32880600"
+      "latitude": "-26.27075930",
+      "longitude": "28.11226790"
    },
    {
       "name": "KwaZulu-Natal",
@@ -35,11 +28,11 @@
       "longitude": "30.89582420"
    },
    {
-      "name": "Gauteng",
-      "isoCode": "GP",
+      "name": "Limpopo",
+      "isoCode": "LP",
       "countryCode": "ZA",
-      "latitude": "-26.27075930",
-      "longitude": "28.11226790"
+      "latitude": "-23.40129460",
+      "longitude": "29.41793240"
    },
    {
       "name": "Mpumalanga",
@@ -49,11 +42,18 @@
       "longitude": "30.52790960"
    },
    {
-      "name": "Eastern Cape",
-      "isoCode": "EC",
+      "name": "Northern Cape",
+      "isoCode": "NC",
       "countryCode": "ZA",
-      "latitude": "-32.29684020",
-      "longitude": "26.41938900"
+      "latitude": "-29.04668080",
+      "longitude": "21.85685860"
+   },
+   {
+      "name": "North West",
+      "isoCode": "NW",
+      "countryCode": "ZA",
+      "latitude": "32.75885200",
+      "longitude": "-97.32880600"
    },
    {
       "name": "Western Cape",

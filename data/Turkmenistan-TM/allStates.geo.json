@@ -1,24 +1,10 @@
 [
    {
-      "name": "Mary Region",
-      "isoCode": "M",
+      "name": "Ahal Region",
+      "isoCode": "A",
       "countryCode": "TM",
-      "latitude": "36.94816230",
-      "longitude": "62.45041540"
-   },
-   {
-      "name": "Lebap Region",
-      "isoCode": "L",
-      "countryCode": "TM",
-      "latitude": "38.12724620",
-      "longitude": "64.71624150"
-   },
-   {
-      "name": "Ashgabat",
-      "isoCode": "S",
-      "countryCode": "TM",
-      "latitude": "37.96007660",
-      "longitude": "58.32606290"
+      "latitude": "38.63993980",
+      "longitude": "59.47209040"
    },
    {
       "name": "Balkan Region",
@@ -35,10 +21,24 @@
       "longitude": "59.96519040"
    },
    {
-      "name": "Ahal Region",
-      "isoCode": "A",
+      "name": "Lebap Region",
+      "isoCode": "L",
       "countryCode": "TM",
-      "latitude": "38.63993980",
-      "longitude": "59.47209040"
+      "latitude": "38.12724620",
+      "longitude": "64.71624150"
+   },
+   {
+      "name": "Mary Region",
+      "isoCode": "M",
+      "countryCode": "TM",
+      "latitude": "36.94816230",
+      "longitude": "62.45041540"
+   },
+   {
+      "name": "Ashgabat",
+      "isoCode": "S",
+      "countryCode": "TM",
+      "latitude": "37.96007660",
+      "longitude": "58.32606290"
    }
 ]

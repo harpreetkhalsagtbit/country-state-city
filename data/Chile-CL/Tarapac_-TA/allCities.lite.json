@@ -1,10 +1,5 @@
 [
    {
-      "name": "Iquique",
-      "countryCode": "CL",
-      "stateCode": "TA"
-   },
-   {
       "name": "Alto Hospicio",
       "countryCode": "CL",
       "stateCode": "TA"
@@ -21,6 +16,11 @@
    },
    {
       "name": "Huara",
+      "countryCode": "CL",
+      "stateCode": "TA"
+   },
+   {
+      "name": "Iquique",
       "countryCode": "CL",
       "stateCode": "TA"
    },

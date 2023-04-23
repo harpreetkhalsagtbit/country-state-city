@@ -903,6 +903,34 @@
       "longitude": "24.33589000"
    },
    {
+      "name": "Teaca",
+      "countryCode": "RO",
+      "stateCode": "BN",
+      "latitude": "46.91667000",
+      "longitude": "24.51667000"
+   },
+   {
+      "name": "Telciu",
+      "countryCode": "RO",
+      "stateCode": "BN",
+      "latitude": "47.43333000",
+      "longitude": "24.40000000"
+   },
+   {
+      "name": "Telcișor",
+      "countryCode": "RO",
+      "stateCode": "BN",
+      "latitude": "47.46000000",
+      "longitude": "24.45158000"
+   },
+   {
+      "name": "Tiha Bârgăului",
+      "countryCode": "RO",
+      "stateCode": "BN",
+      "latitude": "47.23333000",
+      "longitude": "24.76667000"
+   },
+   {
       "name": "Tureac",
       "countryCode": "RO",
       "stateCode": "BN",
@@ -1006,33 +1034,5 @@
       "stateCode": "BN",
       "latitude": "47.45000000",
       "longitude": "24.90000000"
-   },
-   {
-      "name": "Teaca",
-      "countryCode": "RO",
-      "stateCode": "BN",
-      "latitude": "46.91667000",
-      "longitude": "24.51667000"
-   },
-   {
-      "name": "Telciu",
-      "countryCode": "RO",
-      "stateCode": "BN",
-      "latitude": "47.43333000",
-      "longitude": "24.40000000"
-   },
-   {
-      "name": "Telcișor",
-      "countryCode": "RO",
-      "stateCode": "BN",
-      "latitude": "47.46000000",
-      "longitude": "24.45158000"
-   },
-   {
-      "name": "Tiha Bârgăului",
-      "countryCode": "RO",
-      "stateCode": "BN",
-      "latitude": "47.23333000",
-      "longitude": "24.76667000"
    }
 ]

@@ -35,6 +35,11 @@
       "stateCode": "JK"
    },
    {
+      "name": "Baramula",
+      "countryCode": "IN",
+      "stateCode": "JK"
+   },
+   {
       "name": "Batoti",
       "countryCode": "IN",
       "stateCode": "JK"
@@ -55,12 +60,12 @@
       "stateCode": "JK"
    },
    {
-      "name": "Baramula",
+      "name": "Doda",
       "countryCode": "IN",
       "stateCode": "JK"
    },
    {
-      "name": "Doda",
+      "name": "Gandarbal",
       "countryCode": "IN",
       "stateCode": "JK"
    },
@@ -75,17 +80,12 @@
       "stateCode": "JK"
    },
    {
-      "name": "Gandarbal",
+      "name": "Hajan",
       "countryCode": "IN",
       "stateCode": "JK"
    },
    {
       "name": "Hiranagar",
-      "countryCode": "IN",
-      "stateCode": "JK"
-   },
-   {
-      "name": "Hajan",
       "countryCode": "IN",
       "stateCode": "JK"
    },
@@ -120,17 +120,17 @@
       "stateCode": "JK"
    },
    {
+      "name": "Kud",
+      "countryCode": "IN",
+      "stateCode": "JK"
+   },
+   {
       "name": "Kulgam",
       "countryCode": "IN",
       "stateCode": "JK"
    },
    {
       "name": "Kupwara",
-      "countryCode": "IN",
-      "stateCode": "JK"
-   },
-   {
-      "name": "Kud",
       "countryCode": "IN",
       "stateCode": "JK"
    },
@@ -195,17 +195,12 @@
       "stateCode": "JK"
    },
    {
-      "name": "Ramban",
-      "countryCode": "IN",
-      "stateCode": "JK"
-   },
-   {
-      "name": "Riasi",
-      "countryCode": "IN",
-      "stateCode": "JK"
-   },
-   {
       "name": "Rajauri",
+      "countryCode": "IN",
+      "stateCode": "JK"
+   },
+   {
+      "name": "Ramban",
       "countryCode": "IN",
       "stateCode": "JK"
    },
@@ -216,6 +211,11 @@
    },
    {
       "name": "Ramnagar",
+      "countryCode": "IN",
+      "stateCode": "JK"
+   },
+   {
+      "name": "Riasi",
       "countryCode": "IN",
       "stateCode": "JK"
    },

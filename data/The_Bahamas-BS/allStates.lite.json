@@ -1,42 +1,7 @@
 [
    {
-      "name": "Berry Islands",
-      "isoCode": "BY",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Nichollstown and Berry Islands",
-      "isoCode": "NB",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Green Turtle Cay",
-      "isoCode": "GT",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Central Eleuthera",
-      "isoCode": "CE",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Governor's Harbour",
-      "isoCode": "GH",
-      "countryCode": "BS"
-   },
-   {
-      "name": "High Rock",
-      "isoCode": "HR",
-      "countryCode": "BS"
-   },
-   {
-      "name": "West Grand Bahama",
-      "isoCode": "WG",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Rum Cay District",
-      "isoCode": "RC",
+      "name": "Acklins and Crooked Islands",
+      "isoCode": "AC",
       "countryCode": "BS"
    },
    {
@@ -45,18 +10,8 @@
       "countryCode": "BS"
    },
    {
-      "name": "North Eleuthera",
-      "isoCode": "NE",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Central Abaco",
-      "isoCode": "CO",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Marsh Harbour",
-      "isoCode": "MH",
+      "name": "Bimini",
+      "isoCode": "BI",
       "countryCode": "BS"
    },
    {
@@ -65,8 +20,158 @@
       "countryCode": "BS"
    },
    {
-      "name": "Sandy Point",
-      "isoCode": "SP",
+      "name": "Berry Islands",
+      "isoCode": "BY",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Central Eleuthera",
+      "isoCode": "CE",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Cat Island",
+      "isoCode": "CI",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Crooked Island",
+      "isoCode": "CK",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Central Abaco",
+      "isoCode": "CO",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Central Andros",
+      "isoCode": "CS",
+      "countryCode": "BS"
+   },
+   {
+      "name": "East Grand Bahama",
+      "isoCode": "EG",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Exuma",
+      "isoCode": "EX",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Fresh Creek",
+      "isoCode": "FC",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Freeport",
+      "isoCode": "FP",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Grand Cay",
+      "isoCode": "GC",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Governor's Harbour",
+      "isoCode": "GH",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Green Turtle Cay",
+      "isoCode": "GT",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Harbour Island",
+      "isoCode": "HI",
+      "countryCode": "BS"
+   },
+   {
+      "name": "High Rock",
+      "isoCode": "HR",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Hope Town",
+      "isoCode": "HT",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Inagua",
+      "isoCode": "IN",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Kemps Bay",
+      "isoCode": "KB",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Long Island",
+      "isoCode": "LI",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Mangrove Cay",
+      "isoCode": "MC",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Mayaguana District",
+      "isoCode": "MG",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Marsh Harbour",
+      "isoCode": "MH",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Nichollstown and Berry Islands",
+      "isoCode": "NB",
+      "countryCode": "BS"
+   },
+   {
+      "name": "North Eleuthera",
+      "isoCode": "NE",
+      "countryCode": "BS"
+   },
+   {
+      "name": "North Abaco",
+      "isoCode": "NO",
+      "countryCode": "BS"
+   },
+   {
+      "name": "New Providence",
+      "isoCode": "NP",
+      "countryCode": "BS"
+   },
+   {
+      "name": "North Andros",
+      "isoCode": "NS",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Rum Cay District",
+      "isoCode": "RC",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Ragged Island",
+      "isoCode": "RI",
+      "countryCode": "BS"
+   },
+   {
+      "name": "Rock Sound",
+      "isoCode": "RS",
+      "countryCode": "BS"
+   },
+   {
+      "name": "South Andros",
+      "isoCode": "SA",
       "countryCode": "BS"
    },
    {
@@ -80,58 +185,8 @@
       "countryCode": "BS"
    },
    {
-      "name": "Inagua",
-      "isoCode": "IN",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Long Island",
-      "isoCode": "LI",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Cat Island",
-      "isoCode": "CI",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Exuma",
-      "isoCode": "EX",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Harbour Island",
-      "isoCode": "HI",
-      "countryCode": "BS"
-   },
-   {
-      "name": "East Grand Bahama",
-      "isoCode": "EG",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Ragged Island",
-      "isoCode": "RI",
-      "countryCode": "BS"
-   },
-   {
-      "name": "North Abaco",
-      "isoCode": "NO",
-      "countryCode": "BS"
-   },
-   {
-      "name": "North Andros",
-      "isoCode": "NS",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Kemps Bay",
-      "isoCode": "KB",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Fresh Creek",
-      "isoCode": "FC",
+      "name": "Sandy Point",
+      "isoCode": "SP",
       "countryCode": "BS"
    },
    {
@@ -140,48 +195,8 @@
       "countryCode": "BS"
    },
    {
-      "name": "Crooked Island",
-      "isoCode": "CK",
-      "countryCode": "BS"
-   },
-   {
-      "name": "South Andros",
-      "isoCode": "SA",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Rock Sound",
-      "isoCode": "RS",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Hope Town",
-      "isoCode": "HT",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Mangrove Cay",
-      "isoCode": "MC",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Freeport",
-      "isoCode": "FP",
-      "countryCode": "BS"
-   },
-   {
       "name": "San Salvador Island",
       "isoCode": "SS",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Acklins and Crooked Islands",
-      "isoCode": "AC",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Bimini",
-      "isoCode": "BI",
       "countryCode": "BS"
    },
    {
@@ -190,23 +205,8 @@
       "countryCode": "BS"
    },
    {
-      "name": "Central Andros",
-      "isoCode": "CS",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Grand Cay",
-      "isoCode": "GC",
-      "countryCode": "BS"
-   },
-   {
-      "name": "Mayaguana District",
-      "isoCode": "MG",
-      "countryCode": "BS"
-   },
-   {
-      "name": "New Providence",
-      "isoCode": "NP",
+      "name": "West Grand Bahama",
+      "isoCode": "WG",
       "countryCode": "BS"
    }
 ]

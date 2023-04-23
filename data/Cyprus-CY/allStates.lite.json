@@ -1,22 +1,7 @@
 [
    {
-      "name": "Kyrenia District (Keryneia)",
-      "isoCode": "06",
-      "countryCode": "CY"
-   },
-   {
       "name": "Nicosia District (Lefkoşa)",
       "isoCode": "01",
-      "countryCode": "CY"
-   },
-   {
-      "name": "Paphos District (Pafos)",
-      "isoCode": "05",
-      "countryCode": "CY"
-   },
-   {
-      "name": "Larnaca District (Larnaka)",
-      "isoCode": "03",
       "countryCode": "CY"
    },
    {
@@ -25,8 +10,23 @@
       "countryCode": "CY"
    },
    {
+      "name": "Larnaca District (Larnaka)",
+      "isoCode": "03",
+      "countryCode": "CY"
+   },
+   {
       "name": "Famagusta District (Mağusa)",
       "isoCode": "04",
+      "countryCode": "CY"
+   },
+   {
+      "name": "Paphos District (Pafos)",
+      "isoCode": "05",
+      "countryCode": "CY"
+   },
+   {
+      "name": "Kyrenia District (Keryneia)",
+      "isoCode": "06",
       "countryCode": "CY"
    }
 ]

@@ -1176,6 +1176,41 @@
       "longitude": "23.41667000"
    },
    {
+      "name": "Săcuieu",
+      "countryCode": "RO",
+      "stateCode": "CJ",
+      "latitude": "46.82335000",
+      "longitude": "22.88824000"
+   },
+   {
+      "name": "Sănduleşti",
+      "countryCode": "RO",
+      "stateCode": "CJ",
+      "latitude": "46.58333000",
+      "longitude": "23.71667000"
+   },
+   {
+      "name": "Săvădisla",
+      "countryCode": "RO",
+      "stateCode": "CJ",
+      "latitude": "46.68333000",
+      "longitude": "23.45000000"
+   },
+   {
+      "name": "Tritenii de Jos",
+      "countryCode": "RO",
+      "stateCode": "CJ",
+      "latitude": "46.58333000",
+      "longitude": "24.00000000"
+   },
+   {
+      "name": "Tritenii de Sus",
+      "countryCode": "RO",
+      "stateCode": "CJ",
+      "latitude": "46.60544000",
+      "longitude": "23.99849000"
+   },
+   {
       "name": "Turda",
       "countryCode": "RO",
       "stateCode": "CJ",
@@ -1244,40 +1279,5 @@
       "stateCode": "CJ",
       "latitude": "46.95000000",
       "longitude": "24.05000000"
-   },
-   {
-      "name": "Săcuieu",
-      "countryCode": "RO",
-      "stateCode": "CJ",
-      "latitude": "46.82335000",
-      "longitude": "22.88824000"
-   },
-   {
-      "name": "Sănduleşti",
-      "countryCode": "RO",
-      "stateCode": "CJ",
-      "latitude": "46.58333000",
-      "longitude": "23.71667000"
-   },
-   {
-      "name": "Săvădisla",
-      "countryCode": "RO",
-      "stateCode": "CJ",
-      "latitude": "46.68333000",
-      "longitude": "23.45000000"
-   },
-   {
-      "name": "Tritenii de Jos",
-      "countryCode": "RO",
-      "stateCode": "CJ",
-      "latitude": "46.58333000",
-      "longitude": "24.00000000"
-   },
-   {
-      "name": "Tritenii de Sus",
-      "countryCode": "RO",
-      "stateCode": "CJ",
-      "latitude": "46.60544000",
-      "longitude": "23.99849000"
    }
 ]

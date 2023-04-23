@@ -1,30 +1,5 @@
 [
    {
-      "name": "Al-Ula",
-      "countryCode": "SA",
-      "stateCode": "03"
-   },
-   {
-      "name": "Badr Ḩunayn",
-      "countryCode": "SA",
-      "stateCode": "03"
-   },
-   {
-      "name": "Medina",
-      "countryCode": "SA",
-      "stateCode": "03"
-   },
-   {
-      "name": "Sulţānah",
-      "countryCode": "SA",
-      "stateCode": "03"
-   },
-   {
-      "name": "Yanbu",
-      "countryCode": "SA",
-      "stateCode": "03"
-   },
-   {
       "name": "Abu Dhiba",
       "countryCode": "SA",
       "stateCode": "03"
@@ -145,6 +120,11 @@
       "stateCode": "03"
    },
    {
+      "name": "Al-Ula",
+      "countryCode": "SA",
+      "stateCode": "03"
+   },
+   {
       "name": "Ar Rass",
       "countryCode": "SA",
       "stateCode": "03"
@@ -176,6 +156,11 @@
    },
    {
       "name": "Asira",
+      "countryCode": "SA",
+      "stateCode": "03"
+   },
+   {
+      "name": "Badr Ḩunayn",
       "countryCode": "SA",
       "stateCode": "03"
    },
@@ -285,6 +270,11 @@
       "stateCode": "03"
    },
    {
+      "name": "Medina",
+      "countryCode": "SA",
+      "stateCode": "03"
+   },
+   {
       "name": "Milhah",
       "countryCode": "SA",
       "stateCode": "03"
@@ -320,6 +310,11 @@
       "stateCode": "03"
    },
    {
+      "name": "Sulţānah",
+      "countryCode": "SA",
+      "stateCode": "03"
+   },
+   {
       "name": "Suq Suwayq",
       "countryCode": "SA",
       "stateCode": "03"
@@ -341,6 +336,11 @@
    },
    {
       "name": "Wasitah",
+      "countryCode": "SA",
+      "stateCode": "03"
+   },
+   {
+      "name": "Yanbu",
       "countryCode": "SA",
       "stateCode": "03"
    },

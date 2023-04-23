@@ -1,5 +1,10 @@
 [
    {
+      "name": "Eastern Province",
+      "isoCode": "E",
+      "countryCode": "SL"
+   },
+   {
       "name": "Northern Province",
       "isoCode": "N",
       "countryCode": "SL"
@@ -12,11 +17,6 @@
    {
       "name": "Western Area",
       "isoCode": "W",
-      "countryCode": "SL"
-   },
-   {
-      "name": "Eastern Province",
-      "isoCode": "E",
       "countryCode": "SL"
    }
 ]

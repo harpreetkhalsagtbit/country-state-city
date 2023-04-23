@@ -805,6 +805,27 @@
       "longitude": "26.85424000"
    },
    {
+      "name": "Săpunari",
+      "countryCode": "RO",
+      "stateCode": "CL",
+      "latitude": "44.50141000",
+      "longitude": "26.83665000"
+   },
+   {
+      "name": "Săruleşti",
+      "countryCode": "RO",
+      "stateCode": "CL",
+      "latitude": "44.41667000",
+      "longitude": "26.65000000"
+   },
+   {
+      "name": "Sărulești-Gară",
+      "countryCode": "RO",
+      "stateCode": "CL",
+      "latitude": "44.44444000",
+      "longitude": "26.65780000"
+   },
+   {
       "name": "Tămădău Mare",
       "countryCode": "RO",
       "stateCode": "CL",
@@ -894,26 +915,5 @@
       "stateCode": "CL",
       "latitude": "44.42639000",
       "longitude": "27.64556000"
-   },
-   {
-      "name": "Săpunari",
-      "countryCode": "RO",
-      "stateCode": "CL",
-      "latitude": "44.50141000",
-      "longitude": "26.83665000"
-   },
-   {
-      "name": "Săruleşti",
-      "countryCode": "RO",
-      "stateCode": "CL",
-      "latitude": "44.41667000",
-      "longitude": "26.65000000"
-   },
-   {
-      "name": "Sărulești-Gară",
-      "countryCode": "RO",
-      "stateCode": "CL",
-      "latitude": "44.44444000",
-      "longitude": "26.65780000"
    }
 ]

@@ -1,7 +1,21 @@
 [
    {
-      "name": "Southern Province",
-      "isoCode": "05",
+      "name": "Kigali district",
+      "isoCode": "01",
+      "countryCode": "RW",
+      "latitude": "-1.94407270",
+      "longitude": "30.06188510"
+   },
+   {
+      "name": "Eastern Province",
+      "isoCode": "02",
+      "countryCode": "RW",
+      "latitude": null,
+      "longitude": null
+   },
+   {
+      "name": "Northern Province",
+      "isoCode": "03",
       "countryCode": "RW",
       "latitude": null,
       "longitude": null
@@ -14,22 +28,8 @@
       "longitude": null
    },
    {
-      "name": "Eastern Province",
-      "isoCode": "02",
-      "countryCode": "RW",
-      "latitude": null,
-      "longitude": null
-   },
-   {
-      "name": "Kigali district",
-      "isoCode": "01",
-      "countryCode": "RW",
-      "latitude": "-1.94407270",
-      "longitude": "30.06188510"
-   },
-   {
-      "name": "Northern Province",
-      "isoCode": "03",
+      "name": "Southern Province",
+      "isoCode": "05",
       "countryCode": "RW",
       "latitude": null,
       "longitude": null

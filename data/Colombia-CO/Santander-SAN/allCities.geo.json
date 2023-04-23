@@ -525,6 +525,13 @@
       "longitude": "-72.90700000"
    },
    {
+      "name": "Santa Helena Del Opón",
+      "countryCode": "CO",
+      "stateCode": "SAN",
+      "latitude": "6.33916777",
+      "longitude": "-73.61666777"
+   },
+   {
       "name": "Simacota",
       "countryCode": "CO",
       "stateCode": "SAN",
@@ -600,12 +607,5 @@
       "stateCode": "SAN",
       "latitude": "6.81532000",
       "longitude": "-73.26768000"
-   },
-   {
-      "name": "Santa Helena Del Opón",
-      "countryCode": "CO",
-      "stateCode": "SAN",
-      "latitude": "6.33916777",
-      "longitude": "-73.61666777"
    }
 ]

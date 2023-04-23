@@ -28,6 +28,13 @@
       "longitude": "-76.49571000"
    },
    {
+      "name": "Puerto Caicedo",
+      "countryCode": "CO",
+      "stateCode": "PUT",
+      "latitude": "0.68555555",
+      "longitude": "-76.60444444"
+   },
+   {
       "name": "Puerto Guzmán",
       "countryCode": "CO",
       "stateCode": "PUT",
@@ -82,12 +89,5 @@
       "stateCode": "PUT",
       "latitude": "0.89663000",
       "longitude": "-76.72794000"
-   },
-   {
-      "name": "Puerto Caicedo",
-      "countryCode": "CO",
-      "stateCode": "PUT",
-      "latitude": "0.68555555",
-      "longitude": "-76.60444444"
    }
 ]

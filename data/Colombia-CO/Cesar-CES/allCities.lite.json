@@ -20,6 +20,11 @@
       "stateCode": "CES"
    },
    {
+      "name": "Bosconia",
+      "countryCode": "CO",
+      "stateCode": "CES"
+   },
+   {
       "name": "Chimichagua",
       "countryCode": "CO",
       "stateCode": "CES"
@@ -85,6 +90,11 @@
       "stateCode": "CES"
    },
    {
+      "name": "Pueblo Bello",
+      "countryCode": "CO",
+      "stateCode": "CES"
+   },
+   {
       "name": "Río de Oro",
       "countryCode": "CO",
       "stateCode": "CES"
@@ -111,16 +121,6 @@
    },
    {
       "name": "Valledupar",
-      "countryCode": "CO",
-      "stateCode": "CES"
-   },
-   {
-      "name": "Bosconia",
-      "countryCode": "CO",
-      "stateCode": "CES"
-   },
-   {
-      "name": "Pueblo Bello",
       "countryCode": "CO",
       "stateCode": "CES"
    }

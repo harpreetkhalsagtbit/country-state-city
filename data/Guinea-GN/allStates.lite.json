@@ -1,37 +1,37 @@
 [
    {
-      "name": "Beyla Prefecture",
-      "isoCode": "BE",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Mandiana Prefecture",
-      "isoCode": "MD",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Yomou Prefecture",
-      "isoCode": "YO",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Fria Prefecture",
-      "isoCode": "FR",
-      "countryCode": "GN"
-   },
-   {
       "name": "Boké Region",
       "isoCode": "B",
       "countryCode": "GN"
    },
    {
-      "name": "Labé Region",
-      "isoCode": "L",
+      "name": "Beyla Prefecture",
+      "isoCode": "BE",
       "countryCode": "GN"
    },
    {
-      "name": "Nzérékoré Prefecture",
-      "isoCode": "NZ",
+      "name": "Boffa Prefecture",
+      "isoCode": "BF",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Boké Prefecture",
+      "isoCode": "BK",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Conakry",
+      "isoCode": "C",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Coyah Prefecture",
+      "isoCode": "CO",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Kindia Region",
+      "isoCode": "D",
       "countryCode": "GN"
    },
    {
@@ -40,8 +40,13 @@
       "countryCode": "GN"
    },
    {
-      "name": "Labé Prefecture",
-      "isoCode": "LA",
+      "name": "Dinguiraye Prefecture",
+      "isoCode": "DI",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Dalaba Prefecture",
+      "isoCode": "DL",
       "countryCode": "GN"
    },
    {
@@ -60,8 +65,8 @@
       "countryCode": "GN"
    },
    {
-      "name": "Nzérékoré Region",
-      "isoCode": "N",
+      "name": "Fria Prefecture",
+      "isoCode": "FR",
       "countryCode": "GN"
    },
    {
@@ -70,33 +75,18 @@
       "countryCode": "GN"
    },
    {
-      "name": "Conakry",
-      "isoCode": "C",
+      "name": "Guéckédou Prefecture",
+      "isoCode": "GU",
       "countryCode": "GN"
    },
    {
-      "name": "Télimélé Prefecture",
-      "isoCode": "TE",
+      "name": "Kankan Region",
+      "isoCode": "K",
       "countryCode": "GN"
    },
    {
-      "name": "Dinguiraye Prefecture",
-      "isoCode": "DI",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Mamou Prefecture",
-      "isoCode": "MM",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Lélouma Prefecture",
-      "isoCode": "LE",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Kissidougou Prefecture",
-      "isoCode": "KS",
+      "name": "Kankan Prefecture",
+      "isoCode": "KA",
       "countryCode": "GN"
    },
    {
@@ -110,48 +100,8 @@
       "countryCode": "GN"
    },
    {
-      "name": "Pita Prefecture",
-      "isoCode": "PI",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Kouroussa Prefecture",
-      "isoCode": "KO",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Tougué Prefecture",
-      "isoCode": "TO",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Kankan Region",
-      "isoCode": "K",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Mamou Region",
-      "isoCode": "M",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Boffa Prefecture",
-      "isoCode": "BF",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Mali Prefecture",
-      "isoCode": "ML",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Kindia Region",
-      "isoCode": "D",
-      "countryCode": "GN"
-   },
-   {
-      "name": "Macenta Prefecture",
-      "isoCode": "MC",
+      "name": "Kérouané Prefecture",
+      "isoCode": "KE",
       "countryCode": "GN"
    },
    {
@@ -160,23 +110,28 @@
       "countryCode": "GN"
    },
    {
-      "name": "Kankan Prefecture",
-      "isoCode": "KA",
+      "name": "Kouroussa Prefecture",
+      "isoCode": "KO",
       "countryCode": "GN"
    },
    {
-      "name": "Coyah Prefecture",
-      "isoCode": "CO",
+      "name": "Kissidougou Prefecture",
+      "isoCode": "KS",
       "countryCode": "GN"
    },
    {
-      "name": "Dalaba Prefecture",
-      "isoCode": "DL",
+      "name": "Labé Region",
+      "isoCode": "L",
       "countryCode": "GN"
    },
    {
-      "name": "Siguiri Prefecture",
-      "isoCode": "SI",
+      "name": "Labé Prefecture",
+      "isoCode": "LA",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Lélouma Prefecture",
+      "isoCode": "LE",
       "countryCode": "GN"
    },
    {
@@ -185,18 +140,63 @@
       "countryCode": "GN"
    },
    {
-      "name": "Boké Prefecture",
-      "isoCode": "BK",
+      "name": "Mamou Region",
+      "isoCode": "M",
       "countryCode": "GN"
    },
    {
-      "name": "Kérouané Prefecture",
-      "isoCode": "KE",
+      "name": "Macenta Prefecture",
+      "isoCode": "MC",
       "countryCode": "GN"
    },
    {
-      "name": "Guéckédou Prefecture",
-      "isoCode": "GU",
+      "name": "Mandiana Prefecture",
+      "isoCode": "MD",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Mali Prefecture",
+      "isoCode": "ML",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Mamou Prefecture",
+      "isoCode": "MM",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Nzérékoré Region",
+      "isoCode": "N",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Nzérékoré Prefecture",
+      "isoCode": "NZ",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Pita Prefecture",
+      "isoCode": "PI",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Siguiri Prefecture",
+      "isoCode": "SI",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Télimélé Prefecture",
+      "isoCode": "TE",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Tougué Prefecture",
+      "isoCode": "TO",
+      "countryCode": "GN"
+   },
+   {
+      "name": "Yomou Prefecture",
+      "isoCode": "YO",
       "countryCode": "GN"
    }
 ]

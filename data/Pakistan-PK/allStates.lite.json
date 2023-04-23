@@ -1,7 +1,7 @@
 [
    {
-      "name": "Islamabad Capital Territory",
-      "isoCode": "IS",
+      "name": "Balochistan",
+      "isoCode": "BA",
       "countryCode": "PK"
    },
    {
@@ -10,8 +10,8 @@
       "countryCode": "PK"
    },
    {
-      "name": "Khyber Pakhtunkhwa",
-      "isoCode": "KP",
+      "name": "Islamabad Capital Territory",
+      "isoCode": "IS",
       "countryCode": "PK"
    },
    {
@@ -20,13 +20,13 @@
       "countryCode": "PK"
    },
    {
-      "name": "Federally Administered Tribal Areas",
-      "isoCode": "TA",
+      "name": "Khyber Pakhtunkhwa",
+      "isoCode": "KP",
       "countryCode": "PK"
    },
    {
-      "name": "Balochistan",
-      "isoCode": "BA",
+      "name": "Punjab",
+      "isoCode": "PB",
       "countryCode": "PK"
    },
    {
@@ -35,8 +35,8 @@
       "countryCode": "PK"
    },
    {
-      "name": "Punjab",
-      "isoCode": "PB",
+      "name": "Federally Administered Tribal Areas",
+      "isoCode": "TA",
       "countryCode": "PK"
    }
 ]

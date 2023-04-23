@@ -115,12 +115,12 @@
       "stateCode": "KL"
    },
    {
-      "name": "Ernakulam",
+      "name": "Erattupetta",
       "countryCode": "IN",
       "stateCode": "KL"
    },
    {
-      "name": "Erattupetta",
+      "name": "Ernakulam",
       "countryCode": "IN",
       "stateCode": "KL"
    },
@@ -170,6 +170,11 @@
       "stateCode": "KL"
    },
    {
+      "name": "Kannangad",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
       "name": "Kannavam",
       "countryCode": "IN",
       "stateCode": "KL"
@@ -180,7 +185,22 @@
       "stateCode": "KL"
    },
    {
+      "name": "Kasaragod",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
+      "name": "Kasaragod District",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
       "name": "Kattanam",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
+      "name": "Kayankulam",
       "countryCode": "IN",
       "stateCode": "KL"
    },
@@ -250,26 +270,6 @@
       "stateCode": "KL"
    },
    {
-      "name": "Kannangad",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Kasaragod",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Kasaragod District",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Kayankulam",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
       "name": "Lalam",
       "countryCode": "IN",
       "stateCode": "KL"
@@ -310,6 +310,11 @@
       "stateCode": "KL"
    },
    {
+      "name": "Mavelikara",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
       "name": "Mavoor",
       "countryCode": "IN",
       "stateCode": "KL"
@@ -325,17 +330,17 @@
       "stateCode": "KL"
    },
    {
+      "name": "Muvattupula",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
       "name": "Muvattupuzha",
       "countryCode": "IN",
       "stateCode": "KL"
    },
    {
-      "name": "Mavelikara",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Muvattupula",
+      "name": "Nadapuram",
       "countryCode": "IN",
       "stateCode": "KL"
    },
@@ -351,11 +356,6 @@
    },
    {
       "name": "Neyyattinkara",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Nadapuram",
       "countryCode": "IN",
       "stateCode": "KL"
    },
@@ -380,7 +380,17 @@
       "stateCode": "KL"
    },
    {
+      "name": "Palghat",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
       "name": "Panamaram",
+      "countryCode": "IN",
+      "stateCode": "KL"
+   },
+   {
+      "name": "Pappinisshēri",
       "countryCode": "IN",
       "stateCode": "KL"
    },
@@ -441,16 +451,6 @@
    },
    {
       "name": "Punalur",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Palghat",
-      "countryCode": "IN",
-      "stateCode": "KL"
-   },
-   {
-      "name": "Pappinisshēri",
       "countryCode": "IN",
       "stateCode": "KL"
    },

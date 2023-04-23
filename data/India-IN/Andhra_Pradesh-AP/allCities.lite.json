@@ -5,6 +5,11 @@
       "stateCode": "AP"
    },
    {
+      "name": "Adoni",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Akasahebpet",
       "countryCode": "IN",
       "stateCode": "AP"
@@ -65,6 +70,11 @@
       "stateCode": "AP"
    },
    {
+      "name": "Bapatla",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Betamcherla",
       "countryCode": "IN",
       "stateCode": "AP"
@@ -90,11 +100,6 @@
       "stateCode": "AP"
    },
    {
-      "name": "Bapatla",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Challapalle",
       "countryCode": "IN",
       "stateCode": "AP"
@@ -115,22 +120,22 @@
       "stateCode": "AP"
    },
    {
-      "name": "Chittoor",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Chodavaram",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Chipurupalle",
       "countryCode": "IN",
       "stateCode": "AP"
    },
    {
       "name": "Chirala",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Chittoor",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Chodavaram",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -240,17 +245,17 @@
       "stateCode": "AP"
    },
    {
+      "name": "Gudur",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Guntakal Junction",
       "countryCode": "IN",
       "stateCode": "AP"
    },
    {
       "name": "Guntur",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Gudur",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -285,7 +290,17 @@
       "stateCode": "AP"
    },
    {
+      "name": "Kakinada",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Kalyandurg",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Kamalapuram",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -306,6 +321,11 @@
    },
    {
       "name": "Kanuru",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Kavali",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -350,17 +370,7 @@
       "stateCode": "AP"
    },
    {
-      "name": "Kakinada",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Kamalapuram",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Kavali",
+      "name": "Macherla",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -371,6 +381,11 @@
    },
    {
       "name": "Madanapalle",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Madugula",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -390,22 +405,17 @@
       "stateCode": "AP"
    },
    {
-      "name": "Macherla",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Madugula",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Markapur",
       "countryCode": "IN",
       "stateCode": "AP"
    },
    {
       "name": "Nagari",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Nagireddipalli",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -445,7 +455,17 @@
       "stateCode": "AP"
    },
    {
+      "name": "Narayanavanam",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Narsipatnam",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Nayudupet",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -460,27 +480,32 @@
       "stateCode": "AP"
    },
    {
-      "name": "Nagireddipalli",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Narayanavanam",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Nayudupet",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Nuzvid",
       "countryCode": "IN",
       "stateCode": "AP"
    },
    {
       "name": "Ongole",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Pakala",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Palakollu",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Palasa",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Palkonda",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -495,12 +520,12 @@
       "stateCode": "AP"
    },
    {
-      "name": "Palasa",
+      "name": "Parlakimidi",
       "countryCode": "IN",
       "stateCode": "AP"
    },
    {
-      "name": "Parlakimidi",
+      "name": "Parvatipuram",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -590,46 +615,6 @@
       "stateCode": "AP"
    },
    {
-      "name": "Pakala",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Palakollu",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Palkonda",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Parvatipuram",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Ramanayyapeta",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Rampachodavaram",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Renigunta",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Repalle",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Rajahmundry",
       "countryCode": "IN",
       "stateCode": "AP"
@@ -640,7 +625,17 @@
       "stateCode": "AP"
    },
    {
+      "name": "Ramanayyapeta",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Ramapuram",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Rampachodavaram",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -655,6 +650,11 @@
       "stateCode": "AP"
    },
    {
+      "name": "Razam",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
       "name": "Razampeta",
       "countryCode": "IN",
       "stateCode": "AP"
@@ -665,7 +665,22 @@
       "stateCode": "AP"
    },
    {
-      "name": "Razam",
+      "name": "Renigunta",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Repalle",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Salur",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Samalkot",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -695,17 +710,22 @@
       "stateCode": "AP"
    },
    {
-      "name": "Salur",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Samalkot",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
       "name": "Suluru",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Tadepalle",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Tadepallegudem",
+      "countryCode": "IN",
+      "stateCode": "AP"
+   },
+   {
+      "name": "Tadpatri",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -731,21 +751,6 @@
    },
    {
       "name": "Tuni",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Tadepalle",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Tadepallegudem",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Tadpatri",
       "countryCode": "IN",
       "stateCode": "AP"
    },
@@ -831,11 +836,6 @@
    },
    {
       "name": "vadlamuru",
-      "countryCode": "IN",
-      "stateCode": "AP"
-   },
-   {
-      "name": "Adoni",
       "countryCode": "IN",
       "stateCode": "AP"
    }

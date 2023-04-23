@@ -25,46 +25,6 @@
       "stateCode": "01"
    },
    {
-      "name": "Al Kharj",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "As Sulayyil",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "Az Zulfī",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "Marāt",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "Riyadh",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "Sājir",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "Tumayr",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
-      "name": "shokhaibٍ",
-      "countryCode": "SA",
-      "stateCode": "01"
-   },
-   {
       "name": "Al Bir",
       "countryCode": "SA",
       "stateCode": "01"
@@ -80,12 +40,27 @@
       "stateCode": "01"
    },
    {
+      "name": "Al Kharj",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
       "name": "Ar Rayn",
       "countryCode": "SA",
       "stateCode": "01"
    },
    {
       "name": "As Salamiyah",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "As Sulayyil",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "Az Zulfī",
       "countryCode": "SA",
       "stateCode": "01"
    },
@@ -120,12 +95,37 @@
       "stateCode": "01"
    },
    {
+      "name": "Marāt",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
       "name": "Najan",
       "countryCode": "SA",
       "stateCode": "01"
    },
    {
       "name": "Najran",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "Riyadh",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "Sājir",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "Tumayr",
+      "countryCode": "SA",
+      "stateCode": "01"
+   },
+   {
+      "name": "shokhaibٍ",
       "countryCode": "SA",
       "stateCode": "01"
    }

@@ -1652,6 +1652,41 @@
       "longitude": "24.41667000"
    },
    {
+      "name": "Teslui",
+      "countryCode": "RO",
+      "stateCode": "OT",
+      "latitude": "44.51667000",
+      "longitude": "24.36667000"
+   },
+   {
+      "name": "Tia Mare",
+      "countryCode": "RO",
+      "stateCode": "OT",
+      "latitude": "43.86667000",
+      "longitude": "24.63333000"
+   },
+   {
+      "name": "Topana",
+      "countryCode": "RO",
+      "stateCode": "OT",
+      "latitude": "44.81667000",
+      "longitude": "24.51667000"
+   },
+   {
+      "name": "Traian",
+      "countryCode": "RO",
+      "stateCode": "OT",
+      "latitude": "44.01667000",
+      "longitude": "24.45000000"
+   },
+   {
+      "name": "Tufeni",
+      "countryCode": "RO",
+      "stateCode": "OT",
+      "latitude": "44.36667000",
+      "longitude": "24.78333000"
+   },
+   {
       "name": "Tătuleşti",
       "countryCode": "RO",
       "stateCode": "OT",
@@ -1804,40 +1839,5 @@
       "stateCode": "OT",
       "latitude": "43.81124000",
       "longitude": "24.22039000"
-   },
-   {
-      "name": "Teslui",
-      "countryCode": "RO",
-      "stateCode": "OT",
-      "latitude": "44.51667000",
-      "longitude": "24.36667000"
-   },
-   {
-      "name": "Tia Mare",
-      "countryCode": "RO",
-      "stateCode": "OT",
-      "latitude": "43.86667000",
-      "longitude": "24.63333000"
-   },
-   {
-      "name": "Topana",
-      "countryCode": "RO",
-      "stateCode": "OT",
-      "latitude": "44.81667000",
-      "longitude": "24.51667000"
-   },
-   {
-      "name": "Traian",
-      "countryCode": "RO",
-      "stateCode": "OT",
-      "latitude": "44.01667000",
-      "longitude": "24.45000000"
-   },
-   {
-      "name": "Tufeni",
-      "countryCode": "RO",
-      "stateCode": "OT",
-      "latitude": "44.36667000",
-      "longitude": "24.78333000"
    }
 ]

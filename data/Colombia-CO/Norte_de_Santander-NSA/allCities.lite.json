@@ -175,6 +175,11 @@
       "stateCode": "NSA"
    },
    {
+      "name": "Teorama",
+      "countryCode": "CO",
+      "stateCode": "NSA"
+   },
+   {
       "name": "Tibú",
       "countryCode": "CO",
       "stateCode": "NSA"
@@ -185,17 +190,12 @@
       "stateCode": "NSA"
    },
    {
-      "name": "Villa del Rosario",
-      "countryCode": "CO",
-      "stateCode": "NSA"
-   },
-   {
-      "name": "Teorama",
-      "countryCode": "CO",
-      "stateCode": "NSA"
-   },
-   {
       "name": "Villa Caro",
+      "countryCode": "CO",
+      "stateCode": "NSA"
+   },
+   {
+      "name": "Villa del Rosario",
       "countryCode": "CO",
       "stateCode": "NSA"
    }

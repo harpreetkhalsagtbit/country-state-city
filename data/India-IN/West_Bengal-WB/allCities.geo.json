@@ -28,6 +28,13 @@
       "longitude": "89.52796000"
    },
    {
+      "name": "Amlagora",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "22.84616000",
+      "longitude": "87.33559000"
+   },
+   {
       "name": "Amta",
       "countryCode": "IN",
       "stateCode": "WB",
@@ -131,6 +138,13 @@
       "stateCode": "WB",
       "latitude": "23.09714000",
       "longitude": "86.22292000"
+   },
+   {
+      "name": "Bali Chak",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "22.36482000",
+      "longitude": "87.55304000"
    },
    {
       "name": "Bally",
@@ -259,6 +273,13 @@
       "longitude": "88.89416667"
    },
    {
+      "name": "Bawali",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "22.42563000",
+      "longitude": "88.19336000"
+   },
+   {
       "name": "Begampur",
       "countryCode": "IN",
       "stateCode": "WB",
@@ -350,20 +371,6 @@
       "longitude": "88.17000000"
    },
    {
-      "name": "Bali Chak",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "22.36482000",
-      "longitude": "87.55304000"
-   },
-   {
-      "name": "Bawali",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "22.42563000",
-      "longitude": "88.19336000"
-   },
-   {
       "name": "Canning",
       "countryCode": "IN",
       "stateCode": "WB",
@@ -390,6 +397,13 @@
       "stateCode": "WB",
       "latitude": "22.83000000",
       "longitude": "87.96000000"
+   },
+   {
+      "name": "Champahati",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "22.40026000",
+      "longitude": "88.49209000"
    },
    {
       "name": "Champdani",
@@ -425,13 +439,6 @@
       "stateCode": "WB",
       "latitude": "23.78000000",
       "longitude": "87.08000000"
-   },
-   {
-      "name": "Champahati",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "22.40026000",
-      "longitude": "88.49209000"
    },
    {
       "name": "Contai",
@@ -672,18 +679,18 @@
       "longitude": "88.09139000"
    },
    {
-      "name": "Gopinathpur",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "23.22000000",
-      "longitude": "88.15000000"
-   },
-   {
       "name": "Gopalpur",
       "countryCode": "IN",
       "stateCode": "WB",
       "latitude": "22.61845000",
       "longitude": "88.75119000"
+   },
+   {
+      "name": "Gopinathpur",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "23.22000000",
+      "longitude": "88.15000000"
    },
    {
       "name": "Gorubathan",
@@ -1428,6 +1435,13 @@
       "longitude": "88.75000000"
    },
    {
+      "name": "Patrasaer",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "23.19697000",
+      "longitude": "87.53319000"
+   },
+   {
       "name": "Patuli",
       "countryCode": "IN",
       "stateCode": "WB",
@@ -1461,13 +1475,6 @@
       "stateCode": "WB",
       "latitude": "23.33333333",
       "longitude": "86.36666667"
-   },
-   {
-      "name": "Patrasaer",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "23.19697000",
-      "longitude": "87.53319000"
    },
    {
       "name": "Raghudebbati",
@@ -1519,6 +1526,13 @@
       "longitude": "87.62000000"
    },
    {
+      "name": "Ramnagar",
+      "countryCode": "IN",
+      "stateCode": "WB",
+      "latitude": "22.77778000",
+      "longitude": "88.24639000"
+   },
+   {
       "name": "Rampur Hat",
       "countryCode": "IN",
       "stateCode": "WB",
@@ -1552,13 +1566,6 @@
       "stateCode": "WB",
       "latitude": "22.71000000",
       "longitude": "88.35000000"
-   },
-   {
-      "name": "Ramnagar",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "22.77778000",
-      "longitude": "88.24639000"
    },
    {
       "name": "Sahapur",
@@ -1811,12 +1818,5 @@
       "stateCode": "WB",
       "latitude": "22.67000000",
       "longitude": "88.35000000"
-   },
-   {
-      "name": "Amlagora",
-      "countryCode": "IN",
-      "stateCode": "WB",
-      "latitude": "22.84616000",
-      "longitude": "87.33559000"
    }
 ]

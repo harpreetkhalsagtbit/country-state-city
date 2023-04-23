@@ -686,6 +686,13 @@
       "longitude": "26.18333000"
    },
    {
+      "name": "Tamași",
+      "countryCode": "RO",
+      "stateCode": "IF",
+      "latitude": "44.58438000",
+      "longitude": "26.00724000"
+   },
+   {
       "name": "Tunari",
       "countryCode": "RO",
       "stateCode": "IF",
@@ -733,12 +740,5 @@
       "stateCode": "IF",
       "latitude": "44.53333000",
       "longitude": "26.20000000"
-   },
-   {
-      "name": "Tamași",
-      "countryCode": "RO",
-      "stateCode": "IF",
-      "latitude": "44.58438000",
-      "longitude": "26.00724000"
    }
 ]

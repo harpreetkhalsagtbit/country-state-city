@@ -955,6 +955,11 @@
       "stateCode": "NJ"
    },
    {
+      "name": "Hazlet Township",
+      "countryCode": "US",
+      "stateCode": "NJ"
+   },
+   {
       "name": "Heathcote",
       "countryCode": "US",
       "stateCode": "NJ"
@@ -1321,6 +1326,11 @@
    },
    {
       "name": "Manasquan",
+      "countryCode": "US",
+      "stateCode": "NJ"
+   },
+   {
+      "name": "Mantua Township",
       "countryCode": "US",
       "stateCode": "NJ"
    },
@@ -2741,16 +2751,6 @@
    },
    {
       "name": "Yorketown",
-      "countryCode": "US",
-      "stateCode": "NJ"
-   },
-   {
-      "name": "Mantua Township",
-      "countryCode": "US",
-      "stateCode": "NJ"
-   },
-   {
-      "name": "Hazlet Township",
       "countryCode": "US",
       "stateCode": "NJ"
    }

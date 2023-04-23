@@ -1,24 +1,17 @@
 [
    {
-      "name": "Kayin State",
-      "isoCode": "13",
+      "name": "Sagaing Region",
+      "isoCode": "01",
       "countryCode": "MM",
-      "latitude": "16.94593460",
-      "longitude": "97.95928630"
+      "latitude": "24.42838100",
+      "longitude": "95.39395510"
    },
    {
-      "name": "Mandalay Region",
-      "isoCode": "04",
+      "name": "Bago",
+      "isoCode": "02",
       "countryCode": "MM",
-      "latitude": "21.56190580",
-      "longitude": "95.89871390"
-   },
-   {
-      "name": "Yangon Region",
-      "isoCode": "06",
-      "countryCode": "MM",
-      "latitude": "16.91434880",
-      "longitude": "96.15269850"
+      "latitude": "17.32207110",
+      "longitude": "96.46632860"
    },
    {
       "name": "Magway Region",
@@ -28,25 +21,11 @@
       "longitude": "94.72775280"
    },
    {
-      "name": "Chin State",
-      "isoCode": "14",
+      "name": "Mandalay Region",
+      "isoCode": "04",
       "countryCode": "MM",
-      "latitude": "22.00869780",
-      "longitude": "93.58126920"
-   },
-   {
-      "name": "Rakhine State",
-      "isoCode": "16",
-      "countryCode": "MM",
-      "latitude": "20.10408180",
-      "longitude": "93.58126920"
-   },
-   {
-      "name": "Shan State",
-      "isoCode": "17",
-      "countryCode": "MM",
-      "latitude": "22.03619850",
-      "longitude": "98.13385580"
+      "latitude": "21.56190580",
+      "longitude": "95.89871390"
    },
    {
       "name": "Tanintharyi Region",
@@ -56,11 +35,11 @@
       "longitude": "99.01289260"
    },
    {
-      "name": "Bago",
-      "isoCode": "02",
+      "name": "Yangon Region",
+      "isoCode": "06",
       "countryCode": "MM",
-      "latitude": "17.32207110",
-      "longitude": "96.46632860"
+      "latitude": "16.91434880",
+      "longitude": "96.15269850"
    },
    {
       "name": "Ayeyarwady Region",
@@ -84,18 +63,18 @@
       "longitude": "97.26528580"
    },
    {
-      "name": "Sagaing Region",
-      "isoCode": "01",
+      "name": "Kayin State",
+      "isoCode": "13",
       "countryCode": "MM",
-      "latitude": "24.42838100",
-      "longitude": "95.39395510"
+      "latitude": "16.94593460",
+      "longitude": "97.95928630"
    },
    {
-      "name": "Naypyidaw Union Territory",
-      "isoCode": "18",
+      "name": "Chin State",
+      "isoCode": "14",
       "countryCode": "MM",
-      "latitude": "19.93862450",
-      "longitude": "96.15269850"
+      "latitude": "22.00869780",
+      "longitude": "93.58126920"
    },
    {
       "name": "Mon State",
@@ -103,5 +82,26 @@
       "countryCode": "MM",
       "latitude": "16.30031330",
       "longitude": "97.69822720"
+   },
+   {
+      "name": "Rakhine State",
+      "isoCode": "16",
+      "countryCode": "MM",
+      "latitude": "20.10408180",
+      "longitude": "93.58126920"
+   },
+   {
+      "name": "Shan State",
+      "isoCode": "17",
+      "countryCode": "MM",
+      "latitude": "22.03619850",
+      "longitude": "98.13385580"
+   },
+   {
+      "name": "Naypyidaw Union Territory",
+      "isoCode": "18",
+      "countryCode": "MM",
+      "latitude": "19.93862450",
+      "longitude": "96.15269850"
    }
 ]

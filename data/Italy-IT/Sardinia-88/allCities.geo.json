@@ -1,1195 +1,5 @@
 [
    {
-      "name": "Palau",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "41.17936000",
-      "longitude": "9.38190000"
-   },
-   {
-      "name": "Palmas Arborea",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.87670000",
-      "longitude": "8.64391000"
-   },
-   {
-      "name": "Pattada",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.58067000",
-      "longitude": "9.11129000"
-   },
-   {
-      "name": "Pau",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.79167000",
-      "longitude": "8.80222000"
-   },
-   {
-      "name": "Pauli Arbarei",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.66183000",
-      "longitude": "8.92212000"
-   },
-   {
-      "name": "Paulilatino",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.08470000",
-      "longitude": "8.76449000"
-   },
-   {
-      "name": "Perdasdefogu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.67959000",
-      "longitude": "9.44082000"
-   },
-   {
-      "name": "Perdaxius",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.16028000",
-      "longitude": "8.61083000"
-   },
-   {
-      "name": "Perfugas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.83231000",
-      "longitude": "8.88354000"
-   },
-   {
-      "name": "Pimentel",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.48718000",
-      "longitude": "9.06516000"
-   },
-   {
-      "name": "Piscinas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.07435000",
-      "longitude": "8.66634000"
-   },
-   {
-      "name": "Ploaghe",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.67068000",
-      "longitude": "8.74962000"
-   },
-   {
-      "name": "Poggio dei Pini",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.14717000",
-      "longitude": "8.97139000"
-   },
-   {
-      "name": "Pompu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.72518000",
-      "longitude": "8.79640000"
-   },
-   {
-      "name": "Porto Cervo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "41.14063000",
-      "longitude": "9.53267000"
-   },
-   {
-      "name": "Porto Torres",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.83375000",
-      "longitude": "8.40531000"
-   },
-   {
-      "name": "Portoscuso",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.20739000",
-      "longitude": "8.38086000"
-   },
-   {
-      "name": "Posada",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.63203000",
-      "longitude": "9.71904000"
-   },
-   {
-      "name": "Pozzomaggiore",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.39767000",
-      "longitude": "8.65931000"
-   },
-   {
-      "name": "Provincia di Cagliari",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.24502000",
-      "longitude": "9.09119000"
-   },
-   {
-      "name": "Provincia di Nuoro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.21397000",
-      "longitude": "9.37095000"
-   },
-   {
-      "name": "Provincia di Oristano",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.01682000",
-      "longitude": "8.73131000"
-   },
-   {
-      "name": "Provincia di Sassari",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.77014000",
-      "longitude": "8.75885000"
-   },
-   {
-      "name": "Pula",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.00727000",
-      "longitude": "9.00223000"
-   },
-   {
-      "name": "Putifigari",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.56145000",
-      "longitude": "8.46063000"
-   },
-   {
-      "name": "Quartu Sant'Elena",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.22935000",
-      "longitude": "9.25004000"
-   },
-   {
-      "name": "Quartucciu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.25262000",
-      "longitude": "9.17764000"
-   },
-   {
-      "name": "Riola Sardo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.99361000",
-      "longitude": "8.54127000"
-   },
-   {
-      "name": "Romana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.48439000",
-      "longitude": "8.58571000"
-   },
-   {
-      "name": "Ruinas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.90631000",
-      "longitude": "8.89705000"
-   },
-   {
-      "name": "Sadali",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.81456000",
-      "longitude": "9.27246000"
-   },
-   {
-      "name": "Sagama",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.26155000",
-      "longitude": "8.57752000"
-   },
-   {
-      "name": "Samassi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.48208000",
-      "longitude": "8.90538000"
-   },
-   {
-      "name": "Samatzai",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.48297000",
-      "longitude": "9.03466000"
-   },
-   {
-      "name": "Samugheo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.94854000",
-      "longitude": "8.94152000"
-   },
-   {
-      "name": "San Basilio",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.53785000",
-      "longitude": "9.19753000"
-   },
-   {
-      "name": "San Gavino Monreale",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.55008000",
-      "longitude": "8.79065000"
-   },
-   {
-      "name": "San Giovanni Suergiu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.10955000",
-      "longitude": "8.52039000"
-   },
-   {
-      "name": "San Nicola",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.61055000",
-      "longitude": "8.98841000"
-   },
-   {
-      "name": "San Nicolo'Gerrei",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.49833000",
-      "longitude": "9.30611000"
-   },
-   {
-      "name": "San Nicolò d'Arcidano",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.68417000",
-      "longitude": "8.64361000"
-   },
-   {
-      "name": "San Sperate",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.35758000",
-      "longitude": "9.00814000"
-   },
-   {
-      "name": "San Teodoro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.77354000",
-      "longitude": "9.66929000"
-   },
-   {
-      "name": "San Vero Milis",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.01377000",
-      "longitude": "8.59833000"
-   },
-   {
-      "name": "San Vito",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.44142000",
-      "longitude": "9.54065000"
-   },
-   {
-      "name": "Sanluri",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.56176000",
-      "longitude": "8.89969000"
-   },
-   {
-      "name": "Sant'Andrea Frius",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.47917000",
-      "longitude": "9.17000000"
-   },
-   {
-      "name": "Sant'Anna Arresi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.00618000",
-      "longitude": "8.64236000"
-   },
-   {
-      "name": "Sant'Antioco",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.07017000",
-      "longitude": "8.45243000"
-   },
-   {
-      "name": "Sant'Antonio di Gallura",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.99146000",
-      "longitude": "9.30153000"
-   },
-   {
-      "name": "Santa Giusta",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.88070000",
-      "longitude": "8.60916000"
-   },
-   {
-      "name": "Santa Maria Coghinas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.90423000",
-      "longitude": "8.86383000"
-   },
-   {
-      "name": "Santa Maria Navarrese",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.99029000",
-      "longitude": "9.68398000"
-   },
-   {
-      "name": "Santa Teresa Gallura",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "41.23859000",
-      "longitude": "9.18873000"
-   },
-   {
-      "name": "Santadi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.09356000",
-      "longitude": "8.71259000"
-   },
-   {
-      "name": "Santu Lussurgiu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.14110000",
-      "longitude": "8.65539000"
-   },
-   {
-      "name": "Sardara",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.61465000",
-      "longitude": "8.82088000"
-   },
-   {
-      "name": "Sarroch",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.06577000",
-      "longitude": "9.00937000"
-   },
-   {
-      "name": "Sarule",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.22796000",
-      "longitude": "9.16644000"
-   },
-   {
-      "name": "Sassari",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.72586000",
-      "longitude": "8.55552000"
-   },
-   {
-      "name": "Scano di Montiferro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.21525000",
-      "longitude": "8.58692000"
-   },
-   {
-      "name": "Sedilo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.17292000",
-      "longitude": "8.91993000"
-   },
-   {
-      "name": "Sedini",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.85277000",
-      "longitude": "8.81670000"
-   },
-   {
-      "name": "Segariu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.56403000",
-      "longitude": "8.98163000"
-   },
-   {
-      "name": "Selargius",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.25779000",
-      "longitude": "9.16323000"
-   },
-   {
-      "name": "Selegas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.56780000",
-      "longitude": "9.10348000"
-   },
-   {
-      "name": "Semestene",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.39846000",
-      "longitude": "8.72542000"
-   },
-   {
-      "name": "Seneghe",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.08128000",
-      "longitude": "8.61353000"
-   },
-   {
-      "name": "Senis",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.82318000",
-      "longitude": "8.93916000"
-   },
-   {
-      "name": "Sennariolo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.21235000",
-      "longitude": "8.55572000"
-   },
-   {
-      "name": "Sennori",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.78780000",
-      "longitude": "8.59285000"
-   },
-   {
-      "name": "Senorbì",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.53341000",
-      "longitude": "9.13168000"
-   },
-   {
-      "name": "Serdiana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.37457000",
-      "longitude": "9.15851000"
-   },
-   {
-      "name": "Serramanna",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.42335000",
-      "longitude": "8.92243000"
-   },
-   {
-      "name": "Serrenti",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.49277000",
-      "longitude": "8.97659000"
-   },
-   {
-      "name": "Serri",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.70150000",
-      "longitude": "9.14490000"
-   },
-   {
-      "name": "Sestu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.29846000",
-      "longitude": "9.09248000"
-   },
-   {
-      "name": "Settimo San Pietro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.29110000",
-      "longitude": "9.18570000"
-   },
-   {
-      "name": "Setzu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.72306000",
-      "longitude": "8.93972000"
-   },
-   {
-      "name": "Seui",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.83908000",
-      "longitude": "9.32347000"
-   },
-   {
-      "name": "Seulo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.86955000",
-      "longitude": "9.23606000"
-   },
-   {
-      "name": "Siamaggiore",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.94966000",
-      "longitude": "8.63461000"
-   },
-   {
-      "name": "Siamanna",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.91936000",
-      "longitude": "8.76185000"
-   },
-   {
-      "name": "Siapiccia",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.92765000",
-      "longitude": "8.76270000"
-   },
-   {
-      "name": "Siddi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.67255000",
-      "longitude": "8.88815000"
-   },
-   {
-      "name": "Silanus",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.28709000",
-      "longitude": "8.89199000"
-   },
-   {
-      "name": "Siligo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.57483000",
-      "longitude": "8.72835000"
-   },
-   {
-      "name": "Siliqua",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.30100000",
-      "longitude": "8.80584000"
-   },
-   {
-      "name": "Silius",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.51695000",
-      "longitude": "9.29360000"
-   },
-   {
-      "name": "Silì",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.91789000",
-      "longitude": "8.62194000"
-   },
-   {
-      "name": "Simala",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.72099000",
-      "longitude": "8.82802000"
-   },
-   {
-      "name": "Simaxis",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.92995000",
-      "longitude": "8.68979000"
-   },
-   {
-      "name": "Sindia",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.29518000",
-      "longitude": "8.65707000"
-   },
-   {
-      "name": "Sini",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.75353000",
-      "longitude": "8.90486000"
-   },
-   {
-      "name": "Siniscola",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.57344000",
-      "longitude": "9.69695000"
-   },
-   {
-      "name": "Sinnai",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.30286000",
-      "longitude": "9.20283000"
-   },
-   {
-      "name": "Siris",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.71228000",
-      "longitude": "8.77507000"
-   },
-   {
-      "name": "Siurgus Donigala",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.59961000",
-      "longitude": "9.18746000"
-   },
-   {
-      "name": "Soddì",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.12991000",
-      "longitude": "8.87798000"
-   },
-   {
-      "name": "Solanas",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.93031000",
-      "longitude": "8.55340000"
-   },
-   {
-      "name": "Solarussa",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.95499000",
-      "longitude": "8.67393000"
-   },
-   {
-      "name": "Soleminis",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.34760000",
-      "longitude": "9.18127000"
-   },
-   {
-      "name": "Sorgono",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.02595000",
-      "longitude": "9.10203000"
-   },
-   {
-      "name": "Sorradile",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.10634000",
-      "longitude": "8.93236000"
-   },
-   {
-      "name": "Sorso",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.79949000",
-      "longitude": "8.57570000"
-   },
-   {
-      "name": "Stintino",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.95201000",
-      "longitude": "8.21978000"
-   },
-   {
-      "name": "Su Planu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.25487000",
-      "longitude": "9.10660000"
-   },
-   {
-      "name": "Suelli",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.56257000",
-      "longitude": "9.13245000"
-   },
-   {
-      "name": "Suni",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.28085000",
-      "longitude": "8.54942000"
-   },
-   {
-      "name": "Tadasuni",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.10995000",
-      "longitude": "8.88353000"
-   },
-   {
-      "name": "Talana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.04157000",
-      "longitude": "9.49554000"
-   },
-   {
-      "name": "Telti",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.87575000",
-      "longitude": "9.35328000"
-   },
-   {
-      "name": "Tempio Pausania",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.90068000",
-      "longitude": "9.10456000"
-   },
-   {
-      "name": "Tergu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.86652000",
-      "longitude": "8.71467000"
-   },
-   {
-      "name": "Terralba",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.72056000",
-      "longitude": "8.63504000"
-   },
-   {
-      "name": "Tertenia",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.69518000",
-      "longitude": "9.57878000"
-   },
-   {
-      "name": "Teti",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.09737000",
-      "longitude": "9.11923000"
-   },
-   {
-      "name": "Teulada",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "38.96658000",
-      "longitude": "8.77149000"
-   },
-   {
-      "name": "Thiesi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.52398000",
-      "longitude": "8.72001000"
-   },
-   {
-      "name": "Tiana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.06746000",
-      "longitude": "9.14817000"
-   },
-   {
-      "name": "Tinnura",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.26916000",
-      "longitude": "8.54815000"
-   },
-   {
-      "name": "Tissi",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.67832000",
-      "longitude": "8.56127000"
-   },
-   {
-      "name": "Tonara",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.02465000",
-      "longitude": "9.17204000"
-   },
-   {
-      "name": "Torpè",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.62780000",
-      "longitude": "9.67916000"
-   },
-   {
-      "name": "Torralba",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.51296000",
-      "longitude": "8.76532000"
-   },
-   {
-      "name": "Tortolì",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.92626000",
-      "longitude": "9.65569000"
-   },
-   {
-      "name": "Tramatza",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.00292000",
-      "longitude": "8.64944000"
-   },
-   {
-      "name": "Tratalias",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.10347000",
-      "longitude": "8.57858000"
-   },
-   {
-      "name": "Tresnuraghes",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.25235000",
-      "longitude": "8.52092000"
-   },
-   {
-      "name": "Triei",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.03498000",
-      "longitude": "9.63995000"
-   },
-   {
-      "name": "Trinità d'Agultu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.98589000",
-      "longitude": "8.91377000"
-   },
-   {
-      "name": "Trinità d'Agultu e Vignola",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.98377000",
-      "longitude": "8.91562000"
-   },
-   {
-      "name": "Tuili",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.71477000",
-      "longitude": "8.96020000"
-   },
-   {
-      "name": "Tula",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.73246000",
-      "longitude": "8.98392000"
-   },
-   {
-      "name": "Turri",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.70476000",
-      "longitude": "8.91656000"
-   },
-   {
-      "name": "Ulassai",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.81033000",
-      "longitude": "9.49962000"
-   },
-   {
-      "name": "Ulà Tirso",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.04570000",
-      "longitude": "8.90326000"
-   },
-   {
-      "name": "Uras",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.69799000",
-      "longitude": "8.70143000"
-   },
-   {
-      "name": "Uri",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.63841000",
-      "longitude": "8.48881000"
-   },
-   {
-      "name": "Urzulei",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.09284000",
-      "longitude": "9.50800000"
-   },
-   {
-      "name": "Usellus",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.80833000",
-      "longitude": "8.85167000"
-   },
-   {
-      "name": "Usini",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.66416000",
-      "longitude": "8.53919000"
-   },
-   {
-      "name": "Ussana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.39374000",
-      "longitude": "9.07496000"
-   },
-   {
-      "name": "Ussaramanna",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.69250000",
-      "longitude": "8.90850000"
-   },
-   {
-      "name": "Ussassai",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.80998000",
-      "longitude": "9.39508000"
-   },
-   {
-      "name": "Uta",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.29186000",
-      "longitude": "8.95234000"
-   },
-   {
-      "name": "Valledoria",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.92867000",
-      "longitude": "8.82321000"
-   },
-   {
-      "name": "Vallermosa",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.36389000",
-      "longitude": "8.79556000"
-   },
-   {
-      "name": "Viddalba",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.91259000",
-      "longitude": "8.89009000"
-   },
-   {
-      "name": "Villa San Pietro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.03554000",
-      "longitude": "8.99695000"
-   },
-   {
-      "name": "Villa Sant'Antonio",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.85915000",
-      "longitude": "8.90153000"
-   },
-   {
-      "name": "Villa Verde",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.79551000",
-      "longitude": "8.82114000"
-   },
-   {
-      "name": "Villacidro",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.45734000",
-      "longitude": "8.74105000"
-   },
-   {
-      "name": "Villagrande Strisaili",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.95929000",
-      "longitude": "9.50943000"
-   },
-   {
-      "name": "Villamar",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.61884000",
-      "longitude": "8.95877000"
-   },
-   {
-      "name": "Villamassargia",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.27484000",
-      "longitude": "8.64110000"
-   },
-   {
-      "name": "Villanova Monteleone",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "40.50264000",
-      "longitude": "8.47115000"
-   },
-   {
-      "name": "Villanova Truschedu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.98842000",
-      "longitude": "8.75177000"
-   },
-   {
-      "name": "Villanova Tulo",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.77995000",
-      "longitude": "9.21424000"
-   },
-   {
-      "name": "Villanovaforru",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.63196000",
-      "longitude": "8.86979000"
-   },
-   {
-      "name": "Villanovafranca",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.64442000",
-      "longitude": "9.00244000"
-   },
-   {
-      "name": "Villaperuccio",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.11183000",
-      "longitude": "8.67004000"
-   },
-   {
-      "name": "Villaputzu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.44058000",
-      "longitude": "9.57564000"
-   },
-   {
-      "name": "Villasalto",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.49209000",
-      "longitude": "9.39023000"
-   },
-   {
-      "name": "Villasimius",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.14481000",
-      "longitude": "9.51823000"
-   },
-   {
-      "name": "Villasor",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.38130000",
-      "longitude": "8.94270000"
-   },
-   {
-      "name": "Villaspeciosa",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.31142000",
-      "longitude": "8.92584000"
-   },
-   {
-      "name": "Villaurbana",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.88505000",
-      "longitude": "8.77831000"
-   },
-   {
-      "name": "Zeddiani",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.98898000",
-      "longitude": "8.59580000"
-   },
-   {
-      "name": "Zerfaliu",
-      "countryCode": "IT",
-      "stateCode": "88",
-      "latitude": "39.96088000",
-      "longitude": "8.70971000"
-   },
-   {
       "name": "Abbasanta",
       "countryCode": "IT",
       "stateCode": "88",
@@ -2812,5 +1622,1195 @@
       "stateCode": "88",
       "latitude": "40.76619000",
       "longitude": "9.52100000"
+   },
+   {
+      "name": "Palau",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "41.17936000",
+      "longitude": "9.38190000"
+   },
+   {
+      "name": "Palmas Arborea",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.87670000",
+      "longitude": "8.64391000"
+   },
+   {
+      "name": "Pattada",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.58067000",
+      "longitude": "9.11129000"
+   },
+   {
+      "name": "Pau",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.79167000",
+      "longitude": "8.80222000"
+   },
+   {
+      "name": "Pauli Arbarei",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.66183000",
+      "longitude": "8.92212000"
+   },
+   {
+      "name": "Paulilatino",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.08470000",
+      "longitude": "8.76449000"
+   },
+   {
+      "name": "Perdasdefogu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.67959000",
+      "longitude": "9.44082000"
+   },
+   {
+      "name": "Perdaxius",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.16028000",
+      "longitude": "8.61083000"
+   },
+   {
+      "name": "Perfugas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.83231000",
+      "longitude": "8.88354000"
+   },
+   {
+      "name": "Pimentel",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.48718000",
+      "longitude": "9.06516000"
+   },
+   {
+      "name": "Piscinas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.07435000",
+      "longitude": "8.66634000"
+   },
+   {
+      "name": "Ploaghe",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.67068000",
+      "longitude": "8.74962000"
+   },
+   {
+      "name": "Poggio dei Pini",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.14717000",
+      "longitude": "8.97139000"
+   },
+   {
+      "name": "Pompu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.72518000",
+      "longitude": "8.79640000"
+   },
+   {
+      "name": "Porto Cervo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "41.14063000",
+      "longitude": "9.53267000"
+   },
+   {
+      "name": "Porto Torres",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.83375000",
+      "longitude": "8.40531000"
+   },
+   {
+      "name": "Portoscuso",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.20739000",
+      "longitude": "8.38086000"
+   },
+   {
+      "name": "Posada",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.63203000",
+      "longitude": "9.71904000"
+   },
+   {
+      "name": "Pozzomaggiore",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.39767000",
+      "longitude": "8.65931000"
+   },
+   {
+      "name": "Provincia di Cagliari",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.24502000",
+      "longitude": "9.09119000"
+   },
+   {
+      "name": "Provincia di Nuoro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.21397000",
+      "longitude": "9.37095000"
+   },
+   {
+      "name": "Provincia di Oristano",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.01682000",
+      "longitude": "8.73131000"
+   },
+   {
+      "name": "Provincia di Sassari",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.77014000",
+      "longitude": "8.75885000"
+   },
+   {
+      "name": "Pula",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.00727000",
+      "longitude": "9.00223000"
+   },
+   {
+      "name": "Putifigari",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.56145000",
+      "longitude": "8.46063000"
+   },
+   {
+      "name": "Quartu Sant'Elena",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.22935000",
+      "longitude": "9.25004000"
+   },
+   {
+      "name": "Quartucciu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.25262000",
+      "longitude": "9.17764000"
+   },
+   {
+      "name": "Riola Sardo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.99361000",
+      "longitude": "8.54127000"
+   },
+   {
+      "name": "Romana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.48439000",
+      "longitude": "8.58571000"
+   },
+   {
+      "name": "Ruinas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.90631000",
+      "longitude": "8.89705000"
+   },
+   {
+      "name": "Sadali",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.81456000",
+      "longitude": "9.27246000"
+   },
+   {
+      "name": "Sagama",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.26155000",
+      "longitude": "8.57752000"
+   },
+   {
+      "name": "Samassi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.48208000",
+      "longitude": "8.90538000"
+   },
+   {
+      "name": "Samatzai",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.48297000",
+      "longitude": "9.03466000"
+   },
+   {
+      "name": "Samugheo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.94854000",
+      "longitude": "8.94152000"
+   },
+   {
+      "name": "San Basilio",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.53785000",
+      "longitude": "9.19753000"
+   },
+   {
+      "name": "San Gavino Monreale",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.55008000",
+      "longitude": "8.79065000"
+   },
+   {
+      "name": "San Giovanni Suergiu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.10955000",
+      "longitude": "8.52039000"
+   },
+   {
+      "name": "San Nicola",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.61055000",
+      "longitude": "8.98841000"
+   },
+   {
+      "name": "San Nicolo'Gerrei",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.49833000",
+      "longitude": "9.30611000"
+   },
+   {
+      "name": "San Nicolò d'Arcidano",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.68417000",
+      "longitude": "8.64361000"
+   },
+   {
+      "name": "San Sperate",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.35758000",
+      "longitude": "9.00814000"
+   },
+   {
+      "name": "San Teodoro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.77354000",
+      "longitude": "9.66929000"
+   },
+   {
+      "name": "San Vero Milis",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.01377000",
+      "longitude": "8.59833000"
+   },
+   {
+      "name": "San Vito",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.44142000",
+      "longitude": "9.54065000"
+   },
+   {
+      "name": "Sanluri",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.56176000",
+      "longitude": "8.89969000"
+   },
+   {
+      "name": "Sant'Andrea Frius",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.47917000",
+      "longitude": "9.17000000"
+   },
+   {
+      "name": "Sant'Anna Arresi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.00618000",
+      "longitude": "8.64236000"
+   },
+   {
+      "name": "Sant'Antioco",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.07017000",
+      "longitude": "8.45243000"
+   },
+   {
+      "name": "Sant'Antonio di Gallura",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.99146000",
+      "longitude": "9.30153000"
+   },
+   {
+      "name": "Santa Giusta",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.88070000",
+      "longitude": "8.60916000"
+   },
+   {
+      "name": "Santa Maria Coghinas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.90423000",
+      "longitude": "8.86383000"
+   },
+   {
+      "name": "Santa Maria Navarrese",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.99029000",
+      "longitude": "9.68398000"
+   },
+   {
+      "name": "Santa Teresa Gallura",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "41.23859000",
+      "longitude": "9.18873000"
+   },
+   {
+      "name": "Santadi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.09356000",
+      "longitude": "8.71259000"
+   },
+   {
+      "name": "Santu Lussurgiu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.14110000",
+      "longitude": "8.65539000"
+   },
+   {
+      "name": "Sardara",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.61465000",
+      "longitude": "8.82088000"
+   },
+   {
+      "name": "Sarroch",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.06577000",
+      "longitude": "9.00937000"
+   },
+   {
+      "name": "Sarule",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.22796000",
+      "longitude": "9.16644000"
+   },
+   {
+      "name": "Sassari",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.72586000",
+      "longitude": "8.55552000"
+   },
+   {
+      "name": "Scano di Montiferro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.21525000",
+      "longitude": "8.58692000"
+   },
+   {
+      "name": "Sedilo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.17292000",
+      "longitude": "8.91993000"
+   },
+   {
+      "name": "Sedini",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.85277000",
+      "longitude": "8.81670000"
+   },
+   {
+      "name": "Segariu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.56403000",
+      "longitude": "8.98163000"
+   },
+   {
+      "name": "Selargius",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.25779000",
+      "longitude": "9.16323000"
+   },
+   {
+      "name": "Selegas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.56780000",
+      "longitude": "9.10348000"
+   },
+   {
+      "name": "Semestene",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.39846000",
+      "longitude": "8.72542000"
+   },
+   {
+      "name": "Seneghe",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.08128000",
+      "longitude": "8.61353000"
+   },
+   {
+      "name": "Senis",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.82318000",
+      "longitude": "8.93916000"
+   },
+   {
+      "name": "Sennariolo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.21235000",
+      "longitude": "8.55572000"
+   },
+   {
+      "name": "Sennori",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.78780000",
+      "longitude": "8.59285000"
+   },
+   {
+      "name": "Senorbì",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.53341000",
+      "longitude": "9.13168000"
+   },
+   {
+      "name": "Serdiana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.37457000",
+      "longitude": "9.15851000"
+   },
+   {
+      "name": "Serramanna",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.42335000",
+      "longitude": "8.92243000"
+   },
+   {
+      "name": "Serrenti",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.49277000",
+      "longitude": "8.97659000"
+   },
+   {
+      "name": "Serri",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.70150000",
+      "longitude": "9.14490000"
+   },
+   {
+      "name": "Sestu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.29846000",
+      "longitude": "9.09248000"
+   },
+   {
+      "name": "Settimo San Pietro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.29110000",
+      "longitude": "9.18570000"
+   },
+   {
+      "name": "Setzu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.72306000",
+      "longitude": "8.93972000"
+   },
+   {
+      "name": "Seui",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.83908000",
+      "longitude": "9.32347000"
+   },
+   {
+      "name": "Seulo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.86955000",
+      "longitude": "9.23606000"
+   },
+   {
+      "name": "Siamaggiore",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.94966000",
+      "longitude": "8.63461000"
+   },
+   {
+      "name": "Siamanna",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.91936000",
+      "longitude": "8.76185000"
+   },
+   {
+      "name": "Siapiccia",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.92765000",
+      "longitude": "8.76270000"
+   },
+   {
+      "name": "Siddi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.67255000",
+      "longitude": "8.88815000"
+   },
+   {
+      "name": "Silanus",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.28709000",
+      "longitude": "8.89199000"
+   },
+   {
+      "name": "Siligo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.57483000",
+      "longitude": "8.72835000"
+   },
+   {
+      "name": "Siliqua",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.30100000",
+      "longitude": "8.80584000"
+   },
+   {
+      "name": "Silius",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.51695000",
+      "longitude": "9.29360000"
+   },
+   {
+      "name": "Silì",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.91789000",
+      "longitude": "8.62194000"
+   },
+   {
+      "name": "Simala",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.72099000",
+      "longitude": "8.82802000"
+   },
+   {
+      "name": "Simaxis",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.92995000",
+      "longitude": "8.68979000"
+   },
+   {
+      "name": "Sindia",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.29518000",
+      "longitude": "8.65707000"
+   },
+   {
+      "name": "Sini",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.75353000",
+      "longitude": "8.90486000"
+   },
+   {
+      "name": "Siniscola",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.57344000",
+      "longitude": "9.69695000"
+   },
+   {
+      "name": "Sinnai",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.30286000",
+      "longitude": "9.20283000"
+   },
+   {
+      "name": "Siris",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.71228000",
+      "longitude": "8.77507000"
+   },
+   {
+      "name": "Siurgus Donigala",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.59961000",
+      "longitude": "9.18746000"
+   },
+   {
+      "name": "Soddì",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.12991000",
+      "longitude": "8.87798000"
+   },
+   {
+      "name": "Solanas",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.93031000",
+      "longitude": "8.55340000"
+   },
+   {
+      "name": "Solarussa",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.95499000",
+      "longitude": "8.67393000"
+   },
+   {
+      "name": "Soleminis",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.34760000",
+      "longitude": "9.18127000"
+   },
+   {
+      "name": "Sorgono",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.02595000",
+      "longitude": "9.10203000"
+   },
+   {
+      "name": "Sorradile",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.10634000",
+      "longitude": "8.93236000"
+   },
+   {
+      "name": "Sorso",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.79949000",
+      "longitude": "8.57570000"
+   },
+   {
+      "name": "Stintino",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.95201000",
+      "longitude": "8.21978000"
+   },
+   {
+      "name": "Su Planu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.25487000",
+      "longitude": "9.10660000"
+   },
+   {
+      "name": "Suelli",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.56257000",
+      "longitude": "9.13245000"
+   },
+   {
+      "name": "Suni",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.28085000",
+      "longitude": "8.54942000"
+   },
+   {
+      "name": "Tadasuni",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.10995000",
+      "longitude": "8.88353000"
+   },
+   {
+      "name": "Talana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.04157000",
+      "longitude": "9.49554000"
+   },
+   {
+      "name": "Telti",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.87575000",
+      "longitude": "9.35328000"
+   },
+   {
+      "name": "Tempio Pausania",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.90068000",
+      "longitude": "9.10456000"
+   },
+   {
+      "name": "Tergu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.86652000",
+      "longitude": "8.71467000"
+   },
+   {
+      "name": "Terralba",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.72056000",
+      "longitude": "8.63504000"
+   },
+   {
+      "name": "Tertenia",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.69518000",
+      "longitude": "9.57878000"
+   },
+   {
+      "name": "Teti",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.09737000",
+      "longitude": "9.11923000"
+   },
+   {
+      "name": "Teulada",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "38.96658000",
+      "longitude": "8.77149000"
+   },
+   {
+      "name": "Thiesi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.52398000",
+      "longitude": "8.72001000"
+   },
+   {
+      "name": "Tiana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.06746000",
+      "longitude": "9.14817000"
+   },
+   {
+      "name": "Tinnura",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.26916000",
+      "longitude": "8.54815000"
+   },
+   {
+      "name": "Tissi",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.67832000",
+      "longitude": "8.56127000"
+   },
+   {
+      "name": "Tonara",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.02465000",
+      "longitude": "9.17204000"
+   },
+   {
+      "name": "Torpè",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.62780000",
+      "longitude": "9.67916000"
+   },
+   {
+      "name": "Torralba",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.51296000",
+      "longitude": "8.76532000"
+   },
+   {
+      "name": "Tortolì",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.92626000",
+      "longitude": "9.65569000"
+   },
+   {
+      "name": "Tramatza",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.00292000",
+      "longitude": "8.64944000"
+   },
+   {
+      "name": "Tratalias",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.10347000",
+      "longitude": "8.57858000"
+   },
+   {
+      "name": "Tresnuraghes",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.25235000",
+      "longitude": "8.52092000"
+   },
+   {
+      "name": "Triei",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.03498000",
+      "longitude": "9.63995000"
+   },
+   {
+      "name": "Trinità d'Agultu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.98589000",
+      "longitude": "8.91377000"
+   },
+   {
+      "name": "Trinità d'Agultu e Vignola",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.98377000",
+      "longitude": "8.91562000"
+   },
+   {
+      "name": "Tuili",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.71477000",
+      "longitude": "8.96020000"
+   },
+   {
+      "name": "Tula",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.73246000",
+      "longitude": "8.98392000"
+   },
+   {
+      "name": "Turri",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.70476000",
+      "longitude": "8.91656000"
+   },
+   {
+      "name": "Ulassai",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.81033000",
+      "longitude": "9.49962000"
+   },
+   {
+      "name": "Ulà Tirso",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.04570000",
+      "longitude": "8.90326000"
+   },
+   {
+      "name": "Uras",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.69799000",
+      "longitude": "8.70143000"
+   },
+   {
+      "name": "Uri",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.63841000",
+      "longitude": "8.48881000"
+   },
+   {
+      "name": "Urzulei",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.09284000",
+      "longitude": "9.50800000"
+   },
+   {
+      "name": "Usellus",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.80833000",
+      "longitude": "8.85167000"
+   },
+   {
+      "name": "Usini",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.66416000",
+      "longitude": "8.53919000"
+   },
+   {
+      "name": "Ussana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.39374000",
+      "longitude": "9.07496000"
+   },
+   {
+      "name": "Ussaramanna",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.69250000",
+      "longitude": "8.90850000"
+   },
+   {
+      "name": "Ussassai",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.80998000",
+      "longitude": "9.39508000"
+   },
+   {
+      "name": "Uta",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.29186000",
+      "longitude": "8.95234000"
+   },
+   {
+      "name": "Valledoria",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.92867000",
+      "longitude": "8.82321000"
+   },
+   {
+      "name": "Vallermosa",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.36389000",
+      "longitude": "8.79556000"
+   },
+   {
+      "name": "Viddalba",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.91259000",
+      "longitude": "8.89009000"
+   },
+   {
+      "name": "Villa San Pietro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.03554000",
+      "longitude": "8.99695000"
+   },
+   {
+      "name": "Villa Sant'Antonio",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.85915000",
+      "longitude": "8.90153000"
+   },
+   {
+      "name": "Villa Verde",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.79551000",
+      "longitude": "8.82114000"
+   },
+   {
+      "name": "Villacidro",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.45734000",
+      "longitude": "8.74105000"
+   },
+   {
+      "name": "Villagrande Strisaili",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.95929000",
+      "longitude": "9.50943000"
+   },
+   {
+      "name": "Villamar",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.61884000",
+      "longitude": "8.95877000"
+   },
+   {
+      "name": "Villamassargia",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.27484000",
+      "longitude": "8.64110000"
+   },
+   {
+      "name": "Villanova Monteleone",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "40.50264000",
+      "longitude": "8.47115000"
+   },
+   {
+      "name": "Villanova Truschedu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.98842000",
+      "longitude": "8.75177000"
+   },
+   {
+      "name": "Villanova Tulo",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.77995000",
+      "longitude": "9.21424000"
+   },
+   {
+      "name": "Villanovaforru",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.63196000",
+      "longitude": "8.86979000"
+   },
+   {
+      "name": "Villanovafranca",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.64442000",
+      "longitude": "9.00244000"
+   },
+   {
+      "name": "Villaperuccio",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.11183000",
+      "longitude": "8.67004000"
+   },
+   {
+      "name": "Villaputzu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.44058000",
+      "longitude": "9.57564000"
+   },
+   {
+      "name": "Villasalto",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.49209000",
+      "longitude": "9.39023000"
+   },
+   {
+      "name": "Villasimius",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.14481000",
+      "longitude": "9.51823000"
+   },
+   {
+      "name": "Villasor",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.38130000",
+      "longitude": "8.94270000"
+   },
+   {
+      "name": "Villaspeciosa",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.31142000",
+      "longitude": "8.92584000"
+   },
+   {
+      "name": "Villaurbana",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.88505000",
+      "longitude": "8.77831000"
+   },
+   {
+      "name": "Zeddiani",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.98898000",
+      "longitude": "8.59580000"
+   },
+   {
+      "name": "Zerfaliu",
+      "countryCode": "IT",
+      "stateCode": "88",
+      "latitude": "39.96088000",
+      "longitude": "8.70971000"
    }
 ]

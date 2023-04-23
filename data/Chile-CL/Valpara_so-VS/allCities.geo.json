@@ -1,96 +1,5 @@
 [
    {
-      "name": "Cartagena",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.55384000",
-      "longitude": "-71.60761000"
-   },
-   {
-      "name": "La Ligua",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-32.45242000",
-      "longitude": "-71.23106000"
-   },
-   {
-      "name": "Limache",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.01667000",
-      "longitude": "-71.26667000"
-   },
-   {
-      "name": "Llaillay",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-32.84043000",
-      "longitude": "-70.95623000"
-   },
-   {
-      "name": "Los Andes",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-32.83369000",
-      "longitude": "-70.59827000"
-   },
-   {
-      "name": "Isla de Pascua",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-27.11048000",
-      "longitude": "-109.29749000"
-   },
-   {
-      "name": "Quillota",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-32.88341000",
-      "longitude": "-71.24882000"
-   },
-   {
-      "name": "Quilpué",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.04752000",
-      "longitude": "-71.44249000"
-   },
-   {
-      "name": "San Antonio",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.59473000",
-      "longitude": "-71.60746000"
-   },
-   {
-      "name": "San Felipe",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-32.74976000",
-      "longitude": "-70.72584000"
-   },
-   {
-      "name": "Valparaíso",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.03600000",
-      "longitude": "-71.62963000"
-   },
-   {
-      "name": "Villa Alemana",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.04222000",
-      "longitude": "-71.37333000"
-   },
-   {
-      "name": "Viña del Mar",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.02457000",
-      "longitude": "-71.55183000"
-   },
-   {
       "name": "Algarrobo",
       "countryCode": "CL",
       "stateCode": "VS",
@@ -110,6 +19,13 @@
       "stateCode": "VS",
       "latitude": "-32.85000000",
       "longitude": "-70.63333333"
+   },
+   {
+      "name": "Cartagena",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.55384000",
+      "longitude": "-71.60761000"
    },
    {
       "name": "Casablanca",
@@ -154,18 +70,18 @@
       "longitude": "-71.16666667"
    },
    {
+      "name": "Isla de Pascua",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-27.11048000",
+      "longitude": "-109.29749000"
+   },
+   {
       "name": "Juan Fernández",
       "countryCode": "CL",
       "stateCode": "VS",
       "latitude": "-30.02564270",
       "longitude": "-82.05192080"
-   },
-   {
-      "name": "Santo Domingo",
-      "countryCode": "CL",
-      "stateCode": "VS",
-      "latitude": "-33.64719330",
-      "longitude": "-71.63527900"
    },
    {
       "name": "La Calera",
@@ -180,6 +96,34 @@
       "stateCode": "VS",
       "latitude": "-32.81666667",
       "longitude": "-71.23333333"
+   },
+   {
+      "name": "La Ligua",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-32.45242000",
+      "longitude": "-71.23106000"
+   },
+   {
+      "name": "Limache",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.01667000",
+      "longitude": "-71.26667000"
+   },
+   {
+      "name": "Llaillay",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-32.84043000",
+      "longitude": "-70.95623000"
+   },
+   {
+      "name": "Los Andes",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-32.83369000",
+      "longitude": "-70.59827000"
    },
    {
       "name": "Nogales",
@@ -231,6 +175,20 @@
       "longitude": "-70.73333333"
    },
    {
+      "name": "Quillota",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-32.88341000",
+      "longitude": "-71.24882000"
+   },
+   {
+      "name": "Quilpué",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.04752000",
+      "longitude": "-71.44249000"
+   },
+   {
       "name": "Quintero",
       "countryCode": "CL",
       "stateCode": "VS",
@@ -245,6 +203,13 @@
       "longitude": "-70.70000000"
    },
    {
+      "name": "San Antonio",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.59473000",
+      "longitude": "-71.60746000"
+   },
+   {
       "name": "San Esteban",
       "countryCode": "CL",
       "stateCode": "VS",
@@ -252,11 +217,46 @@
       "longitude": "-70.58333333"
    },
    {
+      "name": "San Felipe",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-32.74976000",
+      "longitude": "-70.72584000"
+   },
+   {
       "name": "Santa María",
       "countryCode": "CL",
       "stateCode": "VS",
       "latitude": "-32.75000000",
       "longitude": "-70.66666667"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.64719330",
+      "longitude": "-71.63527900"
+   },
+   {
+      "name": "Valparaíso",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.03600000",
+      "longitude": "-71.62963000"
+   },
+   {
+      "name": "Villa Alemana",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.04222000",
+      "longitude": "-71.37333000"
+   },
+   {
+      "name": "Viña del Mar",
+      "countryCode": "CL",
+      "stateCode": "VS",
+      "latitude": "-33.02457000",
+      "longitude": "-71.55183000"
    },
    {
       "name": "Zapallar",

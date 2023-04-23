@@ -1,5 +1,453 @@
 [
    {
+      "name": "Ampatuan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.83480000",
+      "longitude": "124.45810278"
+   },
+   {
+      "name": "Andalan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.95944444",
+      "longitude": "121.39027778"
+   },
+   {
+      "name": "Anuling",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.03555556",
+      "longitude": "121.00666667"
+   },
+   {
+      "name": "Awang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.15305556",
+      "longitude": "124.22111111"
+   },
+   {
+      "name": "Bacayawan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.76666667",
+      "longitude": "124.23333333"
+   },
+   {
+      "name": "Bacolod Grande",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.88333000",
+      "longitude": "124.11667000"
+   },
+   {
+      "name": "Bacolod-Kalawi",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.85551944",
+      "longitude": "124.13982778"
+   },
+   {
+      "name": "Badak",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.84722222",
+      "longitude": "124.72055556"
+   },
+   {
+      "name": "Bagan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.92555556",
+      "longitude": "124.42027778"
+   },
+   {
+      "name": "Baka",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.27611111",
+      "longitude": "124.26416667"
+   },
+   {
+      "name": "Bakung",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "4.89111111",
+      "longitude": "119.79416667"
+   },
+   {
+      "name": "Balabagan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.53333333",
+      "longitude": "124.11666667"
+   },
+   {
+      "name": "Balas",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.68750000",
+      "longitude": "122.13805556"
+   },
+   {
+      "name": "Balindong",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.91666667",
+      "longitude": "124.20000000"
+   },
+   {
+      "name": "Bangkal",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.06666667",
+      "longitude": "121.06666667"
+   },
+   {
+      "name": "Banguingui",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.06666667",
+      "longitude": "121.78333333"
+   },
+   {
+      "name": "Bankaw",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.01916667",
+      "longitude": "120.00916667"
+   },
+   {
+      "name": "Barira",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.48333333",
+      "longitude": "124.30000000"
+   },
+   {
+      "name": "Barurao",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.89805556",
+      "longitude": "124.59750000"
+   },
+   {
+      "name": "Bato Bato",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.03444444",
+      "longitude": "120.94638889"
+   },
+   {
+      "name": "Baunu-Timbangan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.00555556",
+      "longitude": "120.99416667"
+   },
+   {
+      "name": "Bawison",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.93750000",
+      "longitude": "120.87444444"
+   },
+   {
+      "name": "Bayang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.79300000",
+      "longitude": "124.19200000"
+   },
+   {
+      "name": "Bayanga",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.52138889",
+      "longitude": "124.25222222"
+   },
+   {
+      "name": "Begang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.69083333",
+      "longitude": "122.01666667"
+   },
+   {
+      "name": "Binidayan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.80000000",
+      "longitude": "124.16666667"
+   },
+   {
+      "name": "Binuang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.95694444",
+      "longitude": "121.06000000"
+   },
+   {
+      "name": "Blinsung",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.01805556",
+      "longitude": "124.18055556"
+   },
+   {
+      "name": "Bongao",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.02917000",
+      "longitude": "119.77306000"
+   },
+   {
+      "name": "Bongued",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.11666667",
+      "longitude": "124.40000000"
+   },
+   {
+      "name": "Buadiposo-Buntong",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.96666667",
+      "longitude": "124.38333333"
+   },
+   {
+      "name": "Bualan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.75000000",
+      "longitude": "124.26666667"
+   },
+   {
+      "name": "Buan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "5.16083333",
+      "longitude": "120.04250000"
+   },
+   {
+      "name": "Buansa",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.02583333",
+      "longitude": "120.96138889"
+   },
+   {
+      "name": "Bubong",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "8.01666667",
+      "longitude": "124.48333333"
+   },
+   {
+      "name": "Budta",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.20416667",
+      "longitude": "124.43972222"
+   },
+   {
+      "name": "Bugasan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.44083333",
+      "longitude": "124.25916667"
+   },
+   {
+      "name": "Buldon",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.51666667",
+      "longitude": "124.36666667"
+   },
+   {
+      "name": "Buliok",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.01666667",
+      "longitude": "124.70000000"
+   },
+   {
+      "name": "Bulit",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.11527778",
+      "longitude": "124.78944444"
+   },
+   {
+      "name": "Buluan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.71540556",
+      "longitude": "124.78544722"
+   },
+   {
+      "name": "Butig",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.72388889",
+      "longitude": "124.30111111"
+   },
+   {
+      "name": "Cagayan de Tawi-Tawi",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.01667000",
+      "longitude": "118.46667000"
+   },
+   {
+      "name": "Calanogas",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.75000000",
+      "longitude": "124.10000000"
+   },
+   {
+      "name": "Colonia",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.64361111",
+      "longitude": "122.15750000"
+   },
+   {
+      "name": "Dado",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.05000000",
+      "longitude": "124.45972222"
+   },
+   {
+      "name": "Dadus",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.05750000",
+      "longitude": "124.32166667"
+   },
+   {
+      "name": "Dalican",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.96666667",
+      "longitude": "124.40000000"
+   },
+   {
+      "name": "Dalumangcob",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.21666667",
+      "longitude": "124.30000000"
+   },
+   {
+      "name": "Damabalas",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.01555556",
+      "longitude": "124.51416667"
+   },
+   {
+      "name": "Damatulan",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.03888889",
+      "longitude": "124.48277778"
+   },
+   {
+      "name": "Datu Blah T. Sinsuat",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.92278000",
+      "longitude": "123.96833000"
+   },
+   {
+      "name": "Datu Odin Sinsuat",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.18888889",
+      "longitude": "124.18388889"
+   },
+   {
+      "name": "Datu Paglas",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.76694444",
+      "longitude": "124.85000000"
+   },
+   {
+      "name": "Datu Piang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.01781000",
+      "longitude": "124.49744000"
+   },
+   {
+      "name": "Digal",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.75305556",
+      "longitude": "124.79638889"
+   },
+   {
+      "name": "Dinaig",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.08333000",
+      "longitude": "124.26667000"
+   },
+   {
+      "name": "Dinganen",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.32833333",
+      "longitude": "124.37833333"
+   },
+   {
+      "name": "Ditsaan-Ramain",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.96666667",
+      "longitude": "124.35000000"
+   },
+   {
+      "name": "Ebcor Town",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.44055556",
+      "longitude": "124.39722222"
+   },
+   {
+      "name": "Gadung",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.80250000",
+      "longitude": "124.02000000"
+   },
+   {
+      "name": "Ganassi",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.82694000",
+      "longitude": "124.10344000"
+   },
+   {
+      "name": "Gang",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "7.24583333",
+      "longitude": "124.26638889"
+   },
+   {
+      "name": "Guiong",
+      "countryCode": "PH",
+      "stateCode": "CAG",
+      "latitude": "6.41861111",
+      "longitude": "122.02583333"
+   },
+   {
       "name": "Idtig",
       "countryCode": "PH",
       "stateCode": "CAG",
@@ -553,69 +1001,6 @@
       "longitude": "124.69873056"
    },
    {
-      "name": "Ampatuan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.83480000",
-      "longitude": "124.45810278"
-   },
-   {
-      "name": "Andalan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.95944444",
-      "longitude": "121.39027778"
-   },
-   {
-      "name": "Anuling",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.03555556",
-      "longitude": "121.00666667"
-   },
-   {
-      "name": "Awang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.15305556",
-      "longitude": "124.22111111"
-   },
-   {
-      "name": "Bacayawan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.76666667",
-      "longitude": "124.23333333"
-   },
-   {
-      "name": "Bacolod Grande",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.88333000",
-      "longitude": "124.11667000"
-   },
-   {
-      "name": "Bacolod-Kalawi",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.85551944",
-      "longitude": "124.13982778"
-   },
-   {
-      "name": "Badak",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.84722222",
-      "longitude": "124.72055556"
-   },
-   {
-      "name": "Bagan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.92555556",
-      "longitude": "124.42027778"
-   },
-   {
       "name": "Pagatin",
       "countryCode": "PH",
       "stateCode": "CAG",
@@ -670,195 +1055,6 @@
       "stateCode": "CAG",
       "latitude": "5.98888889",
       "longitude": "121.16583333"
-   },
-   {
-      "name": "Baka",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.27611111",
-      "longitude": "124.26416667"
-   },
-   {
-      "name": "Bakung",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "4.89111111",
-      "longitude": "119.79416667"
-   },
-   {
-      "name": "Balabagan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.53333333",
-      "longitude": "124.11666667"
-   },
-   {
-      "name": "Balas",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.68750000",
-      "longitude": "122.13805556"
-   },
-   {
-      "name": "Balindong",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.91666667",
-      "longitude": "124.20000000"
-   },
-   {
-      "name": "Bangkal",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.06666667",
-      "longitude": "121.06666667"
-   },
-   {
-      "name": "Banguingui",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.06666667",
-      "longitude": "121.78333333"
-   },
-   {
-      "name": "Bankaw",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.01916667",
-      "longitude": "120.00916667"
-   },
-   {
-      "name": "Barira",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.48333333",
-      "longitude": "124.30000000"
-   },
-   {
-      "name": "Barurao",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.89805556",
-      "longitude": "124.59750000"
-   },
-   {
-      "name": "Bato Bato",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.03444444",
-      "longitude": "120.94638889"
-   },
-   {
-      "name": "Baunu-Timbangan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.00555556",
-      "longitude": "120.99416667"
-   },
-   {
-      "name": "Bawison",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.93750000",
-      "longitude": "120.87444444"
-   },
-   {
-      "name": "Bayang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.79300000",
-      "longitude": "124.19200000"
-   },
-   {
-      "name": "Bayanga",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.52138889",
-      "longitude": "124.25222222"
-   },
-   {
-      "name": "Begang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.69083333",
-      "longitude": "122.01666667"
-   },
-   {
-      "name": "Binidayan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.80000000",
-      "longitude": "124.16666667"
-   },
-   {
-      "name": "Binuang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.95694444",
-      "longitude": "121.06000000"
-   },
-   {
-      "name": "Blinsung",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.01805556",
-      "longitude": "124.18055556"
-   },
-   {
-      "name": "Bongao",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.02917000",
-      "longitude": "119.77306000"
-   },
-   {
-      "name": "Bongued",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.11666667",
-      "longitude": "124.40000000"
-   },
-   {
-      "name": "Buadiposo-Buntong",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.96666667",
-      "longitude": "124.38333333"
-   },
-   {
-      "name": "Bualan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.75000000",
-      "longitude": "124.26666667"
-   },
-   {
-      "name": "Buan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "5.16083333",
-      "longitude": "120.04250000"
-   },
-   {
-      "name": "Buansa",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.02583333",
-      "longitude": "120.96138889"
-   },
-   {
-      "name": "Bubong",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "8.01666667",
-      "longitude": "124.48333333"
-   },
-   {
-      "name": "Budta",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.20416667",
-      "longitude": "124.43972222"
    },
    {
       "name": "Pandami",
@@ -922,202 +1118,6 @@
       "stateCode": "CAG",
       "latitude": "5.84440833",
       "longitude": "121.14386111"
-   },
-   {
-      "name": "Bugasan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.44083333",
-      "longitude": "124.25916667"
-   },
-   {
-      "name": "Buldon",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.51666667",
-      "longitude": "124.36666667"
-   },
-   {
-      "name": "Buliok",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.01666667",
-      "longitude": "124.70000000"
-   },
-   {
-      "name": "Bulit",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.11527778",
-      "longitude": "124.78944444"
-   },
-   {
-      "name": "Buluan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.71540556",
-      "longitude": "124.78544722"
-   },
-   {
-      "name": "Butig",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.72388889",
-      "longitude": "124.30111111"
-   },
-   {
-      "name": "Cagayan de Tawi-Tawi",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.01667000",
-      "longitude": "118.46667000"
-   },
-   {
-      "name": "Calanogas",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.75000000",
-      "longitude": "124.10000000"
-   },
-   {
-      "name": "Colonia",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.64361111",
-      "longitude": "122.15750000"
-   },
-   {
-      "name": "Dado",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.05000000",
-      "longitude": "124.45972222"
-   },
-   {
-      "name": "Dadus",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.05750000",
-      "longitude": "124.32166667"
-   },
-   {
-      "name": "Dalican",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.96666667",
-      "longitude": "124.40000000"
-   },
-   {
-      "name": "Dalumangcob",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.21666667",
-      "longitude": "124.30000000"
-   },
-   {
-      "name": "Damabalas",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.01555556",
-      "longitude": "124.51416667"
-   },
-   {
-      "name": "Damatulan",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.03888889",
-      "longitude": "124.48277778"
-   },
-   {
-      "name": "Datu Blah T. Sinsuat",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.92278000",
-      "longitude": "123.96833000"
-   },
-   {
-      "name": "Datu Odin Sinsuat",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.18888889",
-      "longitude": "124.18388889"
-   },
-   {
-      "name": "Datu Paglas",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.76694444",
-      "longitude": "124.85000000"
-   },
-   {
-      "name": "Datu Piang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.01781000",
-      "longitude": "124.49744000"
-   },
-   {
-      "name": "Digal",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.75305556",
-      "longitude": "124.79638889"
-   },
-   {
-      "name": "Dinaig",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.08333000",
-      "longitude": "124.26667000"
-   },
-   {
-      "name": "Dinganen",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.32833333",
-      "longitude": "124.37833333"
-   },
-   {
-      "name": "Ditsaan-Ramain",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.96666667",
-      "longitude": "124.35000000"
-   },
-   {
-      "name": "Ebcor Town",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.44055556",
-      "longitude": "124.39722222"
-   },
-   {
-      "name": "Gadung",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.80250000",
-      "longitude": "124.02000000"
-   },
-   {
-      "name": "Ganassi",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.82694000",
-      "longitude": "124.10344000"
-   },
-   {
-      "name": "Gang",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "7.24583333",
-      "longitude": "124.26638889"
-   },
-   {
-      "name": "Guiong",
-      "countryCode": "PH",
-      "stateCode": "CAG",
-      "latitude": "6.41861111",
-      "longitude": "122.02583333"
    },
    {
       "name": "Patikul",

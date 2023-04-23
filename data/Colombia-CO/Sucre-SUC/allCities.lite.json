@@ -1,5 +1,10 @@
 [
    {
+      "name": "Buenavista",
+      "countryCode": "CO",
+      "stateCode": "SUC"
+   },
+   {
       "name": "Caimito",
       "countryCode": "CO",
       "stateCode": "SUC"
@@ -121,11 +126,6 @@
    },
    {
       "name": "Tolú Viejo",
-      "countryCode": "CO",
-      "stateCode": "SUC"
-   },
-   {
-      "name": "Buenavista",
       "countryCode": "CO",
       "stateCode": "SUC"
    }

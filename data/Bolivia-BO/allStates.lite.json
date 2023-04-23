@@ -5,31 +5,6 @@
       "countryCode": "BO"
    },
    {
-      "name": "Oruro Department",
-      "isoCode": "O",
-      "countryCode": "BO"
-   },
-   {
-      "name": "Santa Cruz Department",
-      "isoCode": "S",
-      "countryCode": "BO"
-   },
-   {
-      "name": "Tarija Department",
-      "isoCode": "T",
-      "countryCode": "BO"
-   },
-   {
-      "name": "Pando Department",
-      "isoCode": "N",
-      "countryCode": "BO"
-   },
-   {
-      "name": "La Paz Department",
-      "isoCode": "L",
-      "countryCode": "BO"
-   },
-   {
       "name": "Cochabamba Department",
       "isoCode": "C",
       "countryCode": "BO"
@@ -40,8 +15,33 @@
       "countryCode": "BO"
    },
    {
+      "name": "La Paz Department",
+      "isoCode": "L",
+      "countryCode": "BO"
+   },
+   {
+      "name": "Pando Department",
+      "isoCode": "N",
+      "countryCode": "BO"
+   },
+   {
+      "name": "Oruro Department",
+      "isoCode": "O",
+      "countryCode": "BO"
+   },
+   {
       "name": "Potosí Department",
       "isoCode": "P",
+      "countryCode": "BO"
+   },
+   {
+      "name": "Santa Cruz Department",
+      "isoCode": "S",
+      "countryCode": "BO"
+   },
+   {
+      "name": "Tarija Department",
+      "isoCode": "T",
       "countryCode": "BO"
    }
 ]

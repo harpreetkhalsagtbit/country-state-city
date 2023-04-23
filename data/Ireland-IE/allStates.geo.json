@@ -1,157 +1,10 @@
 [
    {
-      "name": "Tipperary",
-      "isoCode": "TA",
-      "countryCode": "IE",
-      "latitude": "52.47378940",
-      "longitude": "-8.16185140"
-   },
-   {
-      "name": "Sligo",
-      "isoCode": "SO",
-      "countryCode": "IE",
-      "latitude": "54.15532770",
-      "longitude": "-8.60645320"
-   },
-   {
-      "name": "Donegal",
-      "isoCode": "DL",
-      "countryCode": "IE",
-      "latitude": "54.65489930",
-      "longitude": "-8.10409670"
-   },
-   {
-      "name": "Dublin",
-      "isoCode": "D",
-      "countryCode": "IE",
-      "latitude": "53.34980530",
-      "longitude": "-6.26030970"
-   },
-   {
-      "name": "Leinster",
-      "isoCode": "L",
-      "countryCode": "IE",
-      "latitude": "53.32715380",
-      "longitude": "-7.51408410"
-   },
-   {
-      "name": "Cork",
-      "isoCode": "CO",
-      "countryCode": "IE",
-      "latitude": "51.89851430",
-      "longitude": "-8.47560350"
-   },
-   {
-      "name": "Monaghan",
-      "isoCode": "MN",
-      "countryCode": "IE",
-      "latitude": "54.24920460",
-      "longitude": "-6.96831320"
-   },
-   {
-      "name": "Longford",
-      "isoCode": "LD",
-      "countryCode": "IE",
-      "latitude": "53.72749820",
-      "longitude": "-7.79315270"
-   },
-   {
-      "name": "Kerry",
-      "isoCode": "KY",
-      "countryCode": "IE",
-      "latitude": "52.15446070",
-      "longitude": "-9.56686330"
-   },
-   {
-      "name": "Offaly",
-      "isoCode": "OY",
-      "countryCode": "IE",
-      "latitude": "53.23568710",
-      "longitude": "-7.71222290"
-   },
-   {
-      "name": "Galway",
-      "isoCode": "G",
-      "countryCode": "IE",
-      "latitude": "53.35645090",
-      "longitude": "-8.85341130"
-   },
-   {
-      "name": "Munster",
-      "isoCode": "M",
-      "countryCode": "IE",
-      "latitude": "51.94711970",
-      "longitude": "7.58453200"
-   },
-   {
-      "name": "Roscommon",
-      "isoCode": "RN",
-      "countryCode": "IE",
-      "latitude": "53.75926040",
-      "longitude": "-8.26816210"
-   },
-   {
-      "name": "Kildare",
-      "isoCode": "KE",
-      "countryCode": "IE",
-      "latitude": "53.21204340",
-      "longitude": "-6.81947080"
-   },
-   {
-      "name": "Louth",
-      "isoCode": "LH",
-      "countryCode": "IE",
-      "latitude": "53.92523240",
-      "longitude": "-6.48894230"
-   },
-   {
-      "name": "Mayo",
-      "isoCode": "MO",
-      "countryCode": "IE",
-      "latitude": "54.01526040",
-      "longitude": "-9.42893690"
-   },
-   {
-      "name": "Wicklow",
-      "isoCode": "WW",
-      "countryCode": "IE",
-      "latitude": "52.98623130",
-      "longitude": "-6.36725430"
-   },
-   {
-      "name": "Ulster",
-      "isoCode": "U",
-      "countryCode": "IE",
-      "latitude": "54.76165550",
-      "longitude": "-6.96122730"
-   },
-   {
       "name": "Connacht",
       "isoCode": "C",
       "countryCode": "IE",
       "latitude": "53.83762430",
       "longitude": "-8.95844810"
-   },
-   {
-      "name": "Cavan",
-      "isoCode": "CN",
-      "countryCode": "IE",
-      "latitude": "53.97654240",
-      "longitude": "-7.29966230"
-   },
-   {
-      "name": "Waterford",
-      "isoCode": "WD",
-      "countryCode": "IE",
-      "latitude": "52.19435490",
-      "longitude": "-7.62275120"
-   },
-   {
-      "name": "Kilkenny",
-      "isoCode": "KK",
-      "countryCode": "IE",
-      "latitude": "52.57769570",
-      "longitude": "-7.21800200"
    },
    {
       "name": "Clare",
@@ -161,25 +14,18 @@
       "longitude": "-87.89958100"
    },
    {
-      "name": "Meath",
-      "isoCode": "MH",
+      "name": "Cavan",
+      "isoCode": "CN",
       "countryCode": "IE",
-      "latitude": "53.60554800",
-      "longitude": "-6.65641690"
+      "latitude": "53.97654240",
+      "longitude": "-7.29966230"
    },
    {
-      "name": "Wexford",
-      "isoCode": "WX",
+      "name": "Cork",
+      "isoCode": "CO",
       "countryCode": "IE",
-      "latitude": "52.47936030",
-      "longitude": "-6.58399130"
-   },
-   {
-      "name": "Limerick",
-      "isoCode": "LK",
-      "countryCode": "IE",
-      "latitude": "52.50905170",
-      "longitude": "-8.74749550"
+      "latitude": "51.89851430",
+      "longitude": "-8.47560350"
    },
    {
       "name": "Carlow",
@@ -189,6 +35,76 @@
       "longitude": "-6.81082950"
    },
    {
+      "name": "Dublin",
+      "isoCode": "D",
+      "countryCode": "IE",
+      "latitude": "53.34980530",
+      "longitude": "-6.26030970"
+   },
+   {
+      "name": "Donegal",
+      "isoCode": "DL",
+      "countryCode": "IE",
+      "latitude": "54.65489930",
+      "longitude": "-8.10409670"
+   },
+   {
+      "name": "Galway",
+      "isoCode": "G",
+      "countryCode": "IE",
+      "latitude": "53.35645090",
+      "longitude": "-8.85341130"
+   },
+   {
+      "name": "Kildare",
+      "isoCode": "KE",
+      "countryCode": "IE",
+      "latitude": "53.21204340",
+      "longitude": "-6.81947080"
+   },
+   {
+      "name": "Kilkenny",
+      "isoCode": "KK",
+      "countryCode": "IE",
+      "latitude": "52.57769570",
+      "longitude": "-7.21800200"
+   },
+   {
+      "name": "Kerry",
+      "isoCode": "KY",
+      "countryCode": "IE",
+      "latitude": "52.15446070",
+      "longitude": "-9.56686330"
+   },
+   {
+      "name": "Leinster",
+      "isoCode": "L",
+      "countryCode": "IE",
+      "latitude": "53.32715380",
+      "longitude": "-7.51408410"
+   },
+   {
+      "name": "Longford",
+      "isoCode": "LD",
+      "countryCode": "IE",
+      "latitude": "53.72749820",
+      "longitude": "-7.79315270"
+   },
+   {
+      "name": "Louth",
+      "isoCode": "LH",
+      "countryCode": "IE",
+      "latitude": "53.92523240",
+      "longitude": "-6.48894230"
+   },
+   {
+      "name": "Limerick",
+      "isoCode": "LK",
+      "countryCode": "IE",
+      "latitude": "52.50905170",
+      "longitude": "-8.74749550"
+   },
+   {
       "name": "Laois",
       "isoCode": "LS",
       "countryCode": "IE",
@@ -196,10 +112,94 @@
       "longitude": "-7.33230070"
    },
    {
+      "name": "Munster",
+      "isoCode": "M",
+      "countryCode": "IE",
+      "latitude": "51.94711970",
+      "longitude": "7.58453200"
+   },
+   {
+      "name": "Meath",
+      "isoCode": "MH",
+      "countryCode": "IE",
+      "latitude": "53.60554800",
+      "longitude": "-6.65641690"
+   },
+   {
+      "name": "Monaghan",
+      "isoCode": "MN",
+      "countryCode": "IE",
+      "latitude": "54.24920460",
+      "longitude": "-6.96831320"
+   },
+   {
+      "name": "Mayo",
+      "isoCode": "MO",
+      "countryCode": "IE",
+      "latitude": "54.01526040",
+      "longitude": "-9.42893690"
+   },
+   {
+      "name": "Offaly",
+      "isoCode": "OY",
+      "countryCode": "IE",
+      "latitude": "53.23568710",
+      "longitude": "-7.71222290"
+   },
+   {
+      "name": "Roscommon",
+      "isoCode": "RN",
+      "countryCode": "IE",
+      "latitude": "53.75926040",
+      "longitude": "-8.26816210"
+   },
+   {
+      "name": "Sligo",
+      "isoCode": "SO",
+      "countryCode": "IE",
+      "latitude": "54.15532770",
+      "longitude": "-8.60645320"
+   },
+   {
+      "name": "Tipperary",
+      "isoCode": "TA",
+      "countryCode": "IE",
+      "latitude": "52.47378940",
+      "longitude": "-8.16185140"
+   },
+   {
+      "name": "Ulster",
+      "isoCode": "U",
+      "countryCode": "IE",
+      "latitude": "54.76165550",
+      "longitude": "-6.96122730"
+   },
+   {
+      "name": "Waterford",
+      "isoCode": "WD",
+      "countryCode": "IE",
+      "latitude": "52.19435490",
+      "longitude": "-7.62275120"
+   },
+   {
       "name": "Westmeath",
       "isoCode": "WH",
       "countryCode": "IE",
       "latitude": "53.53453080",
       "longitude": "-7.46532170"
+   },
+   {
+      "name": "Wicklow",
+      "isoCode": "WW",
+      "countryCode": "IE",
+      "latitude": "52.98623130",
+      "longitude": "-6.36725430"
+   },
+   {
+      "name": "Wexford",
+      "isoCode": "WX",
+      "countryCode": "IE",
+      "latitude": "52.47936030",
+      "longitude": "-6.58399130"
    }
 ]

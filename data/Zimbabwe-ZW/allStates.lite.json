@@ -1,37 +1,7 @@
 [
    {
-      "name": "Mashonaland East Province",
-      "isoCode": "ME",
-      "countryCode": "ZW"
-   },
-   {
-      "name": "Matabeleland South Province",
-      "isoCode": "MS",
-      "countryCode": "ZW"
-   },
-   {
-      "name": "Mashonaland West Province",
-      "isoCode": "MW",
-      "countryCode": "ZW"
-   },
-   {
-      "name": "Matabeleland North Province",
-      "isoCode": "MN",
-      "countryCode": "ZW"
-   },
-   {
-      "name": "Mashonaland Central Province",
-      "isoCode": "MC",
-      "countryCode": "ZW"
-   },
-   {
       "name": "Bulawayo Province",
       "isoCode": "BU",
-      "countryCode": "ZW"
-   },
-   {
-      "name": "Midlands Province",
-      "isoCode": "MI",
       "countryCode": "ZW"
    },
    {
@@ -45,8 +15,38 @@
       "countryCode": "ZW"
    },
    {
+      "name": "Mashonaland Central Province",
+      "isoCode": "MC",
+      "countryCode": "ZW"
+   },
+   {
+      "name": "Mashonaland East Province",
+      "isoCode": "ME",
+      "countryCode": "ZW"
+   },
+   {
+      "name": "Midlands Province",
+      "isoCode": "MI",
+      "countryCode": "ZW"
+   },
+   {
+      "name": "Matabeleland North Province",
+      "isoCode": "MN",
+      "countryCode": "ZW"
+   },
+   {
+      "name": "Matabeleland South Province",
+      "isoCode": "MS",
+      "countryCode": "ZW"
+   },
+   {
       "name": "Masvingo Province",
       "isoCode": "MV",
+      "countryCode": "ZW"
+   },
+   {
+      "name": "Mashonaland West Province",
+      "isoCode": "MW",
       "countryCode": "ZW"
    }
 ]

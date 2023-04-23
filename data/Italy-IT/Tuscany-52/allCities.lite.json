@@ -1,1025 +1,5 @@
 [
    {
-      "name": "Palaia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Palazzuolo sul Senio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pallerone",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Panzano in Chianti",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Patigno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Peccioli",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pelago",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pergine Valdarno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pescaglia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pescia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pian di Mugnone",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pian di Scò",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piancastagnaio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piano di Conca",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piano di Coreglia-Ghivizzano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piano di Mommio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piazza al Serchio-San Michele",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pienza",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pietrasanta",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pieve Fosciana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pieve Santo Stefano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pieve a Nievole",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pieve al Toppo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piombino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pisa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pistoia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Piteglio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pitigliano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Podenzana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Poggetto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Poggibonsi",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Poggio A Caiano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pomarance",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponsacco",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pontasserchio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pontassieve",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponte A Elsa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponte A Tressa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponte Buggianese",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponte a Poppi",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pontedera",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pontestazzemese",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ponticino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pontremoli",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Poppi",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Porcari",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Porto Azzurro",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Porto Ercole",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Porto Santo Stefano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Portoferraio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pozzale-Case Nuove",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pratantico-Indicatore",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Prato",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Pratovecchio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Province of Arezzo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Province of Florence",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Province of Pisa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Grosseto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Livorno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Lucca",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Massa-Carrara",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Pistoia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Prato",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Provincia di Siena",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Quarata",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Quarrata",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Quattro Strade",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Quercianella",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Radda in Chianti",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Radicofani",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Radicondoli",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rapolano Terme",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rassina",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Reggello",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ribolla",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rignano sull'Arno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rio Marina",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rio nell'Elba",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ripa-Pozzi-Querceta-Ponterosso",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Riparbella",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Roccalbegna",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Roccastrada",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Ronta",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rosia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rosignano Marittimo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rosignano Solvay-Castiglioncello",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Rufina",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "S.P. in Palazzi",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Saline",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sambuca",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sambuca Pistoiese",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Casciano dei Bagni",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Casciano in Val di Pesa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Cipriano-S.Barbara-Centinale",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Donato",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Donnino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Francesco",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Gimignano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Giovanni Valdarno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Giovanni d'Asso",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Giuliano Terme",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Giustino Valdarno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Godenzo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Jacopo al Girone",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Marcello Pistoiese",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Martino in Freddana-Monsagrati",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Mauro",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Miniato",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Miniato Basso",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Pierino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Piero a Sieve",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Pietro Belvedere",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Quirico d'Orcia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Rocco",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Romano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Romano in Garfagnana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Vincenzo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "San Vito-Cerreto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sansepolcro",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sant'Albino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Santa Croce sull'Arno",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Santa Fiora",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Santa Luce",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Santa Lucia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Santa Maria a Monte",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sarteano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sassetta",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Scandicci",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Scansano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Scarlino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Scarlino Scalo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Scarperia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Seano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Seggiano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Selvatelle",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Semproniano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Seravezza",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Serravalle Pistoiese",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Serre di Rapolano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sestino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sesto Fiorentino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sieci",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Siena",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Signa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sillano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sinalunga",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Soci",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sorano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Sovicille",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Spianate",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Spicchio-Sovigliana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Stabbia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Staggia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Stazione",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Stazione Masotti",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Stia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Stiava",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Strada",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Strada in Chianti",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Strettoia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Subbiano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Suvereto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Talla",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Tavarnelle Val di Pesa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Tavarnuzze",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Taverne D'Arbia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Tegoleto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Terontola",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Terranuova Bracciolini",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Terrarossa",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Terricciola",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Torre del Lago Puccini",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Torrenieri",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Torrita di Siena",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Treggiaia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Trequanda",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Tresana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Uggia-Pazzera-Bizzarrino",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Uliveto Terme",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Uzzano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vacchereccia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vada",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vaglia",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vaiano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Val di Cava",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Valdottavo",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Valenzatico",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vecchiano-Nodica",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Venturina",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vernio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vescovado",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Viareggio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vicarello",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vicchio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Viciomaggio",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vicopisano",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vignale Riotorto",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vignole-Olmi",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Villa Basilica",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Villa Collemandina",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Villafranca in Lunigiana",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Vinci",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Volterra",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
-      "name": "Zeri",
-      "countryCode": "IT",
-      "stateCode": "52"
-   },
-   {
       "name": "Abbadia San Salvatore",
       "countryCode": "IT",
       "stateCode": "52"
@@ -2346,6 +1326,1026 @@
    },
    {
       "name": "Orzignano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Palaia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Palazzuolo sul Senio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pallerone",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Panzano in Chianti",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Patigno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Peccioli",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pelago",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pergine Valdarno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pescaglia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pescia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pian di Mugnone",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pian di Scò",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piancastagnaio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piano di Conca",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piano di Coreglia-Ghivizzano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piano di Mommio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piazza al Serchio-San Michele",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pienza",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pietrasanta",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pieve Fosciana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pieve Santo Stefano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pieve a Nievole",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pieve al Toppo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piombino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pisa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pistoia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Piteglio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pitigliano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Podenzana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Poggetto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Poggibonsi",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Poggio A Caiano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pomarance",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponsacco",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pontasserchio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pontassieve",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponte A Elsa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponte A Tressa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponte Buggianese",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponte a Poppi",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pontedera",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pontestazzemese",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ponticino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pontremoli",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Poppi",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Porcari",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Porto Azzurro",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Porto Ercole",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Porto Santo Stefano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Portoferraio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pozzale-Case Nuove",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pratantico-Indicatore",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Prato",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Pratovecchio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Province of Arezzo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Province of Florence",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Province of Pisa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Grosseto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Livorno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Lucca",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Massa-Carrara",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Pistoia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Prato",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Provincia di Siena",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Quarata",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Quarrata",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Quattro Strade",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Quercianella",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Radda in Chianti",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Radicofani",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Radicondoli",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rapolano Terme",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rassina",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Reggello",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ribolla",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rignano sull'Arno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rio Marina",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rio nell'Elba",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ripa-Pozzi-Querceta-Ponterosso",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Riparbella",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Roccalbegna",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Roccastrada",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Ronta",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rosia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rosignano Marittimo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rosignano Solvay-Castiglioncello",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Rufina",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "S.P. in Palazzi",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Saline",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sambuca",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sambuca Pistoiese",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Casciano dei Bagni",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Casciano in Val di Pesa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Cipriano-S.Barbara-Centinale",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Donato",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Donnino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Francesco",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Gimignano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Giovanni Valdarno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Giovanni d'Asso",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Giuliano Terme",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Giustino Valdarno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Godenzo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Jacopo al Girone",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Marcello Pistoiese",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Martino in Freddana-Monsagrati",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Mauro",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Miniato",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Miniato Basso",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Pierino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Piero a Sieve",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Pietro Belvedere",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Quirico d'Orcia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Rocco",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Romano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Romano in Garfagnana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Vincenzo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "San Vito-Cerreto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sansepolcro",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sant'Albino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Santa Croce sull'Arno",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Santa Fiora",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Santa Luce",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Santa Lucia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Santa Maria a Monte",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sarteano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sassetta",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Scandicci",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Scansano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Scarlino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Scarlino Scalo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Scarperia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Seano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Seggiano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Selvatelle",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Semproniano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Seravezza",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Serravalle Pistoiese",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Serre di Rapolano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sestino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sesto Fiorentino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sieci",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Siena",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Signa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sillano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sinalunga",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Soci",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sorano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Sovicille",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Spianate",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Spicchio-Sovigliana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Stabbia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Staggia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Stazione",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Stazione Masotti",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Stia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Stiava",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Strada",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Strada in Chianti",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Strettoia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Subbiano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Suvereto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Talla",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Tavarnelle Val di Pesa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Tavarnuzze",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Taverne D'Arbia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Tegoleto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Terontola",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Terranuova Bracciolini",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Terrarossa",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Terricciola",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Torre del Lago Puccini",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Torrenieri",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Torrita di Siena",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Treggiaia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Trequanda",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Tresana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Uggia-Pazzera-Bizzarrino",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Uliveto Terme",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Uzzano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vacchereccia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vada",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vaglia",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vaiano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Val di Cava",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Valdottavo",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Valenzatico",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vecchiano-Nodica",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Venturina",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vernio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vescovado",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Viareggio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vicarello",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vicchio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Viciomaggio",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vicopisano",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vignale Riotorto",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vignole-Olmi",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Villa Basilica",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Villa Collemandina",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Villafranca in Lunigiana",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Vinci",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Volterra",
+      "countryCode": "IT",
+      "stateCode": "52"
+   },
+   {
+      "name": "Zeri",
       "countryCode": "IT",
       "stateCode": "52"
    }

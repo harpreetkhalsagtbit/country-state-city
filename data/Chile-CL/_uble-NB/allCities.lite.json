@@ -10,21 +10,6 @@
       "stateCode": "NB"
    },
    {
-      "name": "Coihueco",
-      "countryCode": "CL",
-      "stateCode": "NB"
-   },
-   {
-      "name": "Quirihue",
-      "countryCode": "CL",
-      "stateCode": "NB"
-   },
-   {
-      "name": "San Carlos",
-      "countryCode": "CL",
-      "stateCode": "NB"
-   },
-   {
       "name": "Chillán Viejo",
       "countryCode": "CL",
       "stateCode": "NB"
@@ -40,17 +25,17 @@
       "stateCode": "NB"
    },
    {
+      "name": "Coihueco",
+      "countryCode": "CL",
+      "stateCode": "NB"
+   },
+   {
       "name": "El Carmen",
       "countryCode": "CL",
       "stateCode": "NB"
    },
    {
       "name": "Ninhue",
-      "countryCode": "CL",
-      "stateCode": "NB"
-   },
-   {
-      "name": "Ñiquén",
       "countryCode": "CL",
       "stateCode": "NB"
    },
@@ -75,7 +60,17 @@
       "stateCode": "NB"
    },
    {
+      "name": "Quirihue",
+      "countryCode": "CL",
+      "stateCode": "NB"
+   },
+   {
       "name": "Ránquil",
+      "countryCode": "CL",
+      "stateCode": "NB"
+   },
+   {
+      "name": "San Carlos",
       "countryCode": "CL",
       "stateCode": "NB"
    },
@@ -101,6 +96,11 @@
    },
    {
       "name": "Yungay",
+      "countryCode": "CL",
+      "stateCode": "NB"
+   },
+   {
+      "name": "Ñiquén",
       "countryCode": "CL",
       "stateCode": "NB"
    }

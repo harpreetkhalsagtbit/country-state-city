@@ -1,10 +1,17 @@
 [
    {
-      "name": "Mogilev Region",
-      "isoCode": "MA",
+      "name": "Brest Region",
+      "isoCode": "BR",
       "countryCode": "BY",
-      "latitude": "53.51017910",
-      "longitude": "30.40064440"
+      "latitude": "52.52966410",
+      "longitude": "25.46064800"
+   },
+   {
+      "name": "Minsk",
+      "isoCode": "HM",
+      "countryCode": "BY",
+      "latitude": "53.90060110",
+      "longitude": "27.55897200"
    },
    {
       "name": "Gomel Region",
@@ -21,25 +28,18 @@
       "longitude": "25.34485710"
    },
    {
+      "name": "Mogilev Region",
+      "isoCode": "MA",
+      "countryCode": "BY",
+      "latitude": "53.51017910",
+      "longitude": "30.40064440"
+   },
+   {
       "name": "Minsk Region",
       "isoCode": "MI",
       "countryCode": "BY",
       "latitude": "54.10678890",
       "longitude": "27.41292450"
-   },
-   {
-      "name": "Minsk",
-      "isoCode": "HM",
-      "countryCode": "BY",
-      "latitude": "53.90060110",
-      "longitude": "27.55897200"
-   },
-   {
-      "name": "Brest Region",
-      "isoCode": "BR",
-      "countryCode": "BY",
-      "latitude": "52.52966410",
-      "longitude": "25.46064800"
    },
    {
       "name": "Vitebsk Region",

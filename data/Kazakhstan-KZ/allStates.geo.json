@@ -1,73 +1,10 @@
 [
    {
-      "name": "Mangystau Region",
-      "isoCode": "MAN",
-      "countryCode": "KZ",
-      "latitude": "44.59080200",
-      "longitude": "53.84995080"
-   },
-   {
-      "name": "Kyzylorda Region",
-      "isoCode": "KZY",
-      "countryCode": "KZ",
-      "latitude": "44.69226130",
-      "longitude": "62.65718850"
-   },
-   {
-      "name": "Almaty Region",
-      "isoCode": "ALM",
-      "countryCode": "KZ",
-      "latitude": "45.01192270",
-      "longitude": "78.42293920"
-   },
-   {
-      "name": "North Kazakhstan Region",
-      "isoCode": "SEV",
-      "countryCode": "KZ",
-      "latitude": "54.16220660",
-      "longitude": "69.93870710"
-   },
-   {
       "name": "Akmola Region",
       "isoCode": "AKM",
       "countryCode": "KZ",
       "latitude": "51.91653200",
       "longitude": "69.41104940"
-   },
-   {
-      "name": "Pavlodar Region",
-      "isoCode": "PAV",
-      "countryCode": "KZ",
-      "latitude": "52.28784440",
-      "longitude": "76.97334530"
-   },
-   {
-      "name": "Jambyl Region",
-      "isoCode": "ZHA",
-      "countryCode": "KZ",
-      "latitude": "44.22203080",
-      "longitude": "72.36579670"
-   },
-   {
-      "name": "West Kazakhstan Province",
-      "isoCode": "ZAP",
-      "countryCode": "KZ",
-      "latitude": "49.56797270",
-      "longitude": "50.80666160"
-   },
-   {
-      "name": "Turkestan Region",
-      "isoCode": "YUZ",
-      "countryCode": "KZ",
-      "latitude": "43.36669580",
-      "longitude": "68.40944050"
-   },
-   {
-      "name": "Karaganda Region",
-      "isoCode": "KAR",
-      "countryCode": "KZ",
-      "latitude": "47.90221820",
-      "longitude": "71.77068070"
    },
    {
       "name": "Aktobe Region",
@@ -84,25 +21,11 @@
       "longitude": "76.85124850"
    },
    {
-      "name": "Atyrau Region",
-      "isoCode": "ATY",
+      "name": "Almaty Region",
+      "isoCode": "ALM",
       "countryCode": "KZ",
-      "latitude": "47.10761880",
-      "longitude": "51.91413300"
-   },
-   {
-      "name": "East Kazakhstan Region",
-      "isoCode": "VOS",
-      "countryCode": "KZ",
-      "latitude": "48.70626870",
-      "longitude": "80.79225340"
-   },
-   {
-      "name": "Baikonur",
-      "isoCode": "BAY",
-      "countryCode": "KZ",
-      "latitude": "45.96458510",
-      "longitude": "63.30524280"
+      "latitude": "45.01192270",
+      "longitude": "78.42293920"
    },
    {
       "name": "Nur-Sultan",
@@ -112,10 +35,87 @@
       "longitude": "71.47035580"
    },
    {
+      "name": "Atyrau Region",
+      "isoCode": "ATY",
+      "countryCode": "KZ",
+      "latitude": "47.10761880",
+      "longitude": "51.91413300"
+   },
+   {
+      "name": "Baikonur",
+      "isoCode": "BAY",
+      "countryCode": "KZ",
+      "latitude": "45.96458510",
+      "longitude": "63.30524280"
+   },
+   {
+      "name": "Karaganda Region",
+      "isoCode": "KAR",
+      "countryCode": "KZ",
+      "latitude": "47.90221820",
+      "longitude": "71.77068070"
+   },
+   {
       "name": "Kostanay Region",
       "isoCode": "KUS",
       "countryCode": "KZ",
       "latitude": "51.50770960",
       "longitude": "64.04790730"
+   },
+   {
+      "name": "Kyzylorda Region",
+      "isoCode": "KZY",
+      "countryCode": "KZ",
+      "latitude": "44.69226130",
+      "longitude": "62.65718850"
+   },
+   {
+      "name": "Mangystau Region",
+      "isoCode": "MAN",
+      "countryCode": "KZ",
+      "latitude": "44.59080200",
+      "longitude": "53.84995080"
+   },
+   {
+      "name": "Pavlodar Region",
+      "isoCode": "PAV",
+      "countryCode": "KZ",
+      "latitude": "52.28784440",
+      "longitude": "76.97334530"
+   },
+   {
+      "name": "North Kazakhstan Region",
+      "isoCode": "SEV",
+      "countryCode": "KZ",
+      "latitude": "54.16220660",
+      "longitude": "69.93870710"
+   },
+   {
+      "name": "East Kazakhstan Region",
+      "isoCode": "VOS",
+      "countryCode": "KZ",
+      "latitude": "48.70626870",
+      "longitude": "80.79225340"
+   },
+   {
+      "name": "Turkestan Region",
+      "isoCode": "YUZ",
+      "countryCode": "KZ",
+      "latitude": "43.36669580",
+      "longitude": "68.40944050"
+   },
+   {
+      "name": "West Kazakhstan Province",
+      "isoCode": "ZAP",
+      "countryCode": "KZ",
+      "latitude": "49.56797270",
+      "longitude": "50.80666160"
+   },
+   {
+      "name": "Jambyl Region",
+      "isoCode": "ZHA",
+      "countryCode": "KZ",
+      "latitude": "44.22203080",
+      "longitude": "72.36579670"
    }
 ]

@@ -15,7 +15,7 @@
       "stateCode": "UT"
    },
    {
-      "name": "Bhowali",
+      "name": "Bazpur",
       "countryCode": "IN",
       "stateCode": "UT"
    },
@@ -25,12 +25,12 @@
       "stateCode": "UT"
    },
    {
-      "name": "Birbhaddar",
+      "name": "Bhowali",
       "countryCode": "IN",
       "stateCode": "UT"
    },
    {
-      "name": "Bazpur",
+      "name": "Birbhaddar",
       "countryCode": "IN",
       "stateCode": "UT"
    },
@@ -115,6 +115,16 @@
       "stateCode": "UT"
    },
    {
+      "name": "Kaladhungi",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
+      "name": "Kalagarh Project Colony",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
       "name": "Kashipur",
       "countryCode": "IN",
       "stateCode": "UT"
@@ -131,16 +141,6 @@
    },
    {
       "name": "Kotdwara",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Kaladhungi",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Kalagarh Project Colony",
       "countryCode": "IN",
       "stateCode": "UT"
    },
@@ -185,12 +185,32 @@
       "stateCode": "UT"
    },
    {
+      "name": "Pipalkoti",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
       "name": "Pithoragarh",
       "countryCode": "IN",
       "stateCode": "UT"
    },
    {
-      "name": "Pipalkoti",
+      "name": "Raipur",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
+      "name": "Raiwala Bara",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
+      "name": "Ramnagar",
+      "countryCode": "IN",
+      "stateCode": "UT"
+   },
+   {
+      "name": "Ranikhet",
       "countryCode": "IN",
       "stateCode": "UT"
    },
@@ -206,26 +226,6 @@
    },
    {
       "name": "Rudraprayag",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Raipur",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Ramnagar",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Ranikhet",
-      "countryCode": "IN",
-      "stateCode": "UT"
-   },
-   {
-      "name": "Raiwala Bara",
       "countryCode": "IN",
       "stateCode": "UT"
    },

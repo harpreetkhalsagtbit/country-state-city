@@ -1,50 +1,5 @@
 [
    {
-      "name": "Chihuahua",
-      "isoCode": "CHH",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Oaxaca",
-      "isoCode": "OAX",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Sinaloa",
-      "isoCode": "SIN",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Estado de México",
-      "isoCode": "MEX",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Chiapas",
-      "isoCode": "CHP",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Nuevo León",
-      "isoCode": "NLE",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Durango",
-      "isoCode": "DUR",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Tabasco",
-      "isoCode": "TAB",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Querétaro",
-      "isoCode": "QUE",
-      "countryCode": "MX"
-   },
-   {
       "name": "Aguascalientes",
       "isoCode": "AGU",
       "countryCode": "MX"
@@ -55,68 +10,28 @@
       "countryCode": "MX"
    },
    {
-      "name": "Tlaxcala",
-      "isoCode": "TLA",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Guerrero",
-      "isoCode": "GRO",
-      "countryCode": "MX"
-   },
-   {
       "name": "Baja California Sur",
       "isoCode": "BCS",
       "countryCode": "MX"
    },
    {
-      "name": "San Luis Potosí",
-      "isoCode": "SLP",
+      "name": "Campeche",
+      "isoCode": "CAM",
       "countryCode": "MX"
    },
    {
-      "name": "Zacatecas",
-      "isoCode": "ZAC",
+      "name": "Ciudad de México",
+      "isoCode": "CDMX",
       "countryCode": "MX"
    },
    {
-      "name": "Tamaulipas",
-      "isoCode": "TAM",
+      "name": "Chihuahua",
+      "isoCode": "CHH",
       "countryCode": "MX"
    },
    {
-      "name": "Veracruz de Ignacio de la Llave",
-      "isoCode": "VER",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Morelos",
-      "isoCode": "MOR",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Yucatán",
-      "isoCode": "YUC",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Quintana Roo",
-      "isoCode": "ROO",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Sonora",
-      "isoCode": "SON",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Guanajuato",
-      "isoCode": "GUA",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Hidalgo",
-      "isoCode": "HID",
+      "name": "Chiapas",
+      "isoCode": "CHP",
       "countryCode": "MX"
    },
    {
@@ -130,8 +45,33 @@
       "countryCode": "MX"
    },
    {
-      "name": "Ciudad de México",
-      "isoCode": "CDMX",
+      "name": "Durango",
+      "isoCode": "DUR",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Guerrero",
+      "isoCode": "GRO",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Guanajuato",
+      "isoCode": "GUA",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Hidalgo",
+      "isoCode": "HID",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Jalisco",
+      "isoCode": "JAL",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Estado de México",
+      "isoCode": "MEX",
       "countryCode": "MX"
    },
    {
@@ -140,13 +80,8 @@
       "countryCode": "MX"
    },
    {
-      "name": "Campeche",
-      "isoCode": "CAM",
-      "countryCode": "MX"
-   },
-   {
-      "name": "Puebla",
-      "isoCode": "PUE",
+      "name": "Morelos",
+      "isoCode": "MOR",
       "countryCode": "MX"
    },
    {
@@ -155,8 +90,73 @@
       "countryCode": "MX"
    },
    {
-      "name": "Jalisco",
-      "isoCode": "JAL",
+      "name": "Nuevo León",
+      "isoCode": "NLE",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Oaxaca",
+      "isoCode": "OAX",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Puebla",
+      "isoCode": "PUE",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Querétaro",
+      "isoCode": "QUE",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Quintana Roo",
+      "isoCode": "ROO",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Sinaloa",
+      "isoCode": "SIN",
+      "countryCode": "MX"
+   },
+   {
+      "name": "San Luis Potosí",
+      "isoCode": "SLP",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Sonora",
+      "isoCode": "SON",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Tabasco",
+      "isoCode": "TAB",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Tamaulipas",
+      "isoCode": "TAM",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Tlaxcala",
+      "isoCode": "TLA",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Veracruz de Ignacio de la Llave",
+      "isoCode": "VER",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Yucatán",
+      "isoCode": "YUC",
+      "countryCode": "MX"
+   },
+   {
+      "name": "Zacatecas",
+      "isoCode": "ZAC",
       "countryCode": "MX"
    }
 ]

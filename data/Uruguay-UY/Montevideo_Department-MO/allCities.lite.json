@@ -1,20 +1,5 @@
 [
    {
-      "name": "Montevideo",
-      "countryCode": "UY",
-      "stateCode": "MO"
-   },
-   {
-      "name": "Pajas Blancas",
-      "countryCode": "UY",
-      "stateCode": "MO"
-   },
-   {
-      "name": "Santiago Vázquez",
-      "countryCode": "UY",
-      "stateCode": "MO"
-   },
-   {
       "name": "Bella Vista",
       "countryCode": "UY",
       "stateCode": "MO"
@@ -105,7 +90,17 @@
       "stateCode": "MO"
    },
    {
+      "name": "Montevideo",
+      "countryCode": "UY",
+      "stateCode": "MO"
+   },
+   {
       "name": "Nuevo París",
+      "countryCode": "UY",
+      "stateCode": "MO"
+   },
+   {
+      "name": "Pajas Blancas",
       "countryCode": "UY",
       "stateCode": "MO"
    },
@@ -141,6 +136,11 @@
    },
    {
       "name": "Reducto",
+      "countryCode": "UY",
+      "stateCode": "MO"
+   },
+   {
+      "name": "Santiago Vázquez",
       "countryCode": "UY",
       "stateCode": "MO"
    },

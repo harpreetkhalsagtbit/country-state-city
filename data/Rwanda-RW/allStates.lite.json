@@ -1,12 +1,7 @@
 [
    {
-      "name": "Southern Province",
-      "isoCode": "05",
-      "countryCode": "RW"
-   },
-   {
-      "name": "Western Province",
-      "isoCode": "04",
+      "name": "Kigali district",
+      "isoCode": "01",
       "countryCode": "RW"
    },
    {
@@ -15,13 +10,18 @@
       "countryCode": "RW"
    },
    {
-      "name": "Kigali district",
-      "isoCode": "01",
+      "name": "Northern Province",
+      "isoCode": "03",
       "countryCode": "RW"
    },
    {
-      "name": "Northern Province",
-      "isoCode": "03",
+      "name": "Western Province",
+      "isoCode": "04",
+      "countryCode": "RW"
+   },
+   {
+      "name": "Southern Province",
+      "isoCode": "05",
       "countryCode": "RW"
    }
 ]

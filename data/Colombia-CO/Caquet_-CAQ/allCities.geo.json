@@ -84,20 +84,6 @@
       "longitude": "-76.16554000"
    },
    {
-      "name": "Solano",
-      "countryCode": "CO",
-      "stateCode": "CAQ",
-      "latitude": "0.22842000",
-      "longitude": "-73.27597000"
-   },
-   {
-      "name": "Valparaíso",
-      "countryCode": "CO",
-      "stateCode": "CAQ",
-      "latitude": "1.19403000",
-      "longitude": "-75.70746000"
-   },
-   {
       "name": "San Vicente del Caguán",
       "countryCode": "CO",
       "stateCode": "CAQ",
@@ -105,10 +91,24 @@
       "longitude": "-74.77777777"
    },
    {
+      "name": "Solano",
+      "countryCode": "CO",
+      "stateCode": "CAQ",
+      "latitude": "0.22842000",
+      "longitude": "-73.27597000"
+   },
+   {
       "name": "Solita",
       "countryCode": "CO",
       "stateCode": "CAQ",
       "latitude": "0.87583333",
       "longitude": "-75.61972222"
+   },
+   {
+      "name": "Valparaíso",
+      "countryCode": "CO",
+      "stateCode": "CAQ",
+      "latitude": "1.19403000",
+      "longitude": "-75.70746000"
    }
 ]

@@ -1,7 +1,14 @@
 [
    {
-      "name": "Saint Patrick Parish",
-      "isoCode": "06",
+      "name": "Saint Andrew Parish",
+      "isoCode": "01",
+      "countryCode": "GD",
+      "latitude": null,
+      "longitude": null
+   },
+   {
+      "name": "Saint David Parish",
+      "isoCode": "02",
       "countryCode": "GD",
       "latitude": null,
       "longitude": null
@@ -14,11 +21,11 @@
       "longitude": null
    },
    {
-      "name": "Saint Andrew Parish",
-      "isoCode": "01",
+      "name": "Saint John Parish",
+      "isoCode": "04",
       "countryCode": "GD",
-      "latitude": null,
-      "longitude": null
+      "latitude": "30.11183310",
+      "longitude": "-90.48799160"
    },
    {
       "name": "Saint Mark Parish",
@@ -28,24 +35,17 @@
       "longitude": "-73.94957010"
    },
    {
+      "name": "Saint Patrick Parish",
+      "isoCode": "06",
+      "countryCode": "GD",
+      "latitude": null,
+      "longitude": null
+   },
+   {
       "name": "Carriacou and Petite Martinique",
       "isoCode": "10",
       "countryCode": "GD",
       "latitude": "12.47858880",
       "longitude": "-61.44938420"
-   },
-   {
-      "name": "Saint John Parish",
-      "isoCode": "04",
-      "countryCode": "GD",
-      "latitude": "30.11183310",
-      "longitude": "-90.48799160"
-   },
-   {
-      "name": "Saint David Parish",
-      "isoCode": "02",
-      "countryCode": "GD",
-      "latitude": null,
-      "longitude": null
    }
 ]

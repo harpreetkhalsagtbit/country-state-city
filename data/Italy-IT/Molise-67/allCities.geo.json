@@ -1,432 +1,5 @@
 [
    {
-      "name": "Palata",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.88790000",
-      "longitude": "14.78778000"
-   },
-   {
-      "name": "Pesche",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.60552000",
-      "longitude": "14.27620000"
-   },
-   {
-      "name": "Pescolanciano",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.67972000",
-      "longitude": "14.33658000"
-   },
-   {
-      "name": "Pescopennataro",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.87777000",
-      "longitude": "14.29398000"
-   },
-   {
-      "name": "Petacciato",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "42.00827000",
-      "longitude": "14.86026000"
-   },
-   {
-      "name": "Petrella Tifernina",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.69135000",
-      "longitude": "14.69751000"
-   },
-   {
-      "name": "Pettoranello del Molise",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.57331000",
-      "longitude": "14.27839000"
-   },
-   {
-      "name": "Pietrabbondante",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.74527000",
-      "longitude": "14.38480000"
-   },
-   {
-      "name": "Pietracatella",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.58064000",
-      "longitude": "14.87298000"
-   },
-   {
-      "name": "Pietracupa",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.68253000",
-      "longitude": "14.51933000"
-   },
-   {
-      "name": "Pizzone",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.67332000",
-      "longitude": "14.03666000"
-   },
-   {
-      "name": "Poggio Sannita",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.77939000",
-      "longitude": "14.41485000"
-   },
-   {
-      "name": "Portocannone",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.91441000",
-      "longitude": "15.00845000"
-   },
-   {
-      "name": "Pozzilli",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.51142000",
-      "longitude": "14.06252000"
-   },
-   {
-      "name": "Provincia di Campobasso",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.70070000",
-      "longitude": "14.75848000"
-   },
-   {
-      "name": "Provincia di Isernia",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.66667000",
-      "longitude": "14.25000000"
-   },
-   {
-      "name": "Provvidenti",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.71795000",
-      "longitude": "14.82349000"
-   },
-   {
-      "name": "Riccia",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.48314000",
-      "longitude": "14.83181000"
-   },
-   {
-      "name": "Rionero Sannitico",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.71219000",
-      "longitude": "14.13917000"
-   },
-   {
-      "name": "Ripabottoni",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.68996000",
-      "longitude": "14.80866000"
-   },
-   {
-      "name": "Ripalimosani",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.61064000",
-      "longitude": "14.66306000"
-   },
-   {
-      "name": "Roccamandolfi",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.49583000",
-      "longitude": "14.35217000"
-   },
-   {
-      "name": "Roccasicura",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.69676000",
-      "longitude": "14.23065000"
-   },
-   {
-      "name": "Roccavivara",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.83336000",
-      "longitude": "14.60013000"
-   },
-   {
-      "name": "Rocchetta Nuova",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.62375000",
-      "longitude": "14.08574000"
-   },
-   {
-      "name": "Rocchetta a Volturno",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.62582000",
-      "longitude": "14.08902000"
-   },
-   {
-      "name": "Rotello",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.74776000",
-      "longitude": "15.00608000"
-   },
-   {
-      "name": "Salcito",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.74640000",
-      "longitude": "14.51085000"
-   },
-   {
-      "name": "San Biase",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.71526000",
-      "longitude": "14.59049000"
-   },
-   {
-      "name": "San Felice del Molise",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.89000000",
-      "longitude": "14.70088000"
-   },
-   {
-      "name": "San Giacomo degli Schiavoni",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.96234000",
-      "longitude": "14.94481000"
-   },
-   {
-      "name": "San Giovanni in Galdo",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.59110000",
-      "longitude": "14.75202000"
-   },
-   {
-      "name": "San Giuliano del Sannio",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.45752000",
-      "longitude": "14.64169000"
-   },
-   {
-      "name": "San Giuliano di Puglia",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.68796000",
-      "longitude": "14.96231000"
-   },
-   {
-      "name": "San Martino in Pensilis",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.87814000",
-      "longitude": "15.01824000"
-   },
-   {
-      "name": "San Massimo",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.49292000",
-      "longitude": "14.41023000"
-   },
-   {
-      "name": "San Pietro Avellana",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.78886000",
-      "longitude": "14.18323000"
-   },
-   {
-      "name": "San Polomatese",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.45932000",
-      "longitude": "14.49343000"
-   },
-   {
-      "name": "Sant'Agapito",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.54372000",
-      "longitude": "14.22204000"
-   },
-   {
-      "name": "Sant'Angelo Limosano",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.69266000",
-      "longitude": "14.60346000"
-   },
-   {
-      "name": "Sant'Angelo del Pesco",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.88193000",
-      "longitude": "14.25354000"
-   },
-   {
-      "name": "Sant'Elena Sannita",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.57525000",
-      "longitude": "14.47070000"
-   },
-   {
-      "name": "Sant'Elia a Pianisi",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.62043000",
-      "longitude": "14.87523000"
-   },
-   {
-      "name": "Santa Croce di Magliano",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.71223000",
-      "longitude": "14.98732000"
-   },
-   {
-      "name": "Santa Maria del Molise",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.55285000",
-      "longitude": "14.36762000"
-   },
-   {
-      "name": "Scapoli",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.61447000",
-      "longitude": "14.05929000"
-   },
-   {
-      "name": "Sepino",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.40782000",
-      "longitude": "14.61938000"
-   },
-   {
-      "name": "Sessano del Molise",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.63926000",
-      "longitude": "14.32779000"
-   },
-   {
-      "name": "Sesto Campano",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.42042000",
-      "longitude": "14.07782000"
-   },
-   {
-      "name": "Spinete",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.54431000",
-      "longitude": "14.48743000"
-   },
-   {
-      "name": "Tavenna",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.90898000",
-      "longitude": "14.76176000"
-   },
-   {
-      "name": "Taverna Ravindola",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.52283000",
-      "longitude": "14.12591000"
-   },
-   {
-      "name": "Termoli",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.99994000",
-      "longitude": "14.99389000"
-   },
-   {
-      "name": "Torella del Sannio",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.63878000",
-      "longitude": "14.52031000"
-   },
-   {
-      "name": "Toro",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.57313000",
-      "longitude": "14.76183000"
-   },
-   {
-      "name": "Trivento",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.77004000",
-      "longitude": "14.54613000"
-   },
-   {
-      "name": "Tufara",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.48203000",
-      "longitude": "14.94654000"
-   },
-   {
-      "name": "Ururi",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.81518000",
-      "longitude": "15.01611000"
-   },
-   {
-      "name": "Vastogirardi",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.77460000",
-      "longitude": "14.25844000"
-   },
-   {
-      "name": "Venafro",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.48275000",
-      "longitude": "14.04773000"
-   },
-   {
-      "name": "Vinchiaturo",
-      "countryCode": "IT",
-      "stateCode": "67",
-      "latitude": "41.49282000",
-      "longitude": "14.59200000"
-   },
-   {
       "name": "Acquaviva Collecroce",
       "countryCode": "IT",
       "stateCode": "67",
@@ -985,5 +558,432 @@
       "stateCode": "67",
       "latitude": "41.58598000",
       "longitude": "14.59463000"
+   },
+   {
+      "name": "Palata",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.88790000",
+      "longitude": "14.78778000"
+   },
+   {
+      "name": "Pesche",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.60552000",
+      "longitude": "14.27620000"
+   },
+   {
+      "name": "Pescolanciano",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.67972000",
+      "longitude": "14.33658000"
+   },
+   {
+      "name": "Pescopennataro",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.87777000",
+      "longitude": "14.29398000"
+   },
+   {
+      "name": "Petacciato",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "42.00827000",
+      "longitude": "14.86026000"
+   },
+   {
+      "name": "Petrella Tifernina",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.69135000",
+      "longitude": "14.69751000"
+   },
+   {
+      "name": "Pettoranello del Molise",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.57331000",
+      "longitude": "14.27839000"
+   },
+   {
+      "name": "Pietrabbondante",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.74527000",
+      "longitude": "14.38480000"
+   },
+   {
+      "name": "Pietracatella",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.58064000",
+      "longitude": "14.87298000"
+   },
+   {
+      "name": "Pietracupa",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.68253000",
+      "longitude": "14.51933000"
+   },
+   {
+      "name": "Pizzone",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.67332000",
+      "longitude": "14.03666000"
+   },
+   {
+      "name": "Poggio Sannita",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.77939000",
+      "longitude": "14.41485000"
+   },
+   {
+      "name": "Portocannone",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.91441000",
+      "longitude": "15.00845000"
+   },
+   {
+      "name": "Pozzilli",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.51142000",
+      "longitude": "14.06252000"
+   },
+   {
+      "name": "Provincia di Campobasso",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.70070000",
+      "longitude": "14.75848000"
+   },
+   {
+      "name": "Provincia di Isernia",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.66667000",
+      "longitude": "14.25000000"
+   },
+   {
+      "name": "Provvidenti",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.71795000",
+      "longitude": "14.82349000"
+   },
+   {
+      "name": "Riccia",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.48314000",
+      "longitude": "14.83181000"
+   },
+   {
+      "name": "Rionero Sannitico",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.71219000",
+      "longitude": "14.13917000"
+   },
+   {
+      "name": "Ripabottoni",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.68996000",
+      "longitude": "14.80866000"
+   },
+   {
+      "name": "Ripalimosani",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.61064000",
+      "longitude": "14.66306000"
+   },
+   {
+      "name": "Roccamandolfi",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.49583000",
+      "longitude": "14.35217000"
+   },
+   {
+      "name": "Roccasicura",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.69676000",
+      "longitude": "14.23065000"
+   },
+   {
+      "name": "Roccavivara",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.83336000",
+      "longitude": "14.60013000"
+   },
+   {
+      "name": "Rocchetta Nuova",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.62375000",
+      "longitude": "14.08574000"
+   },
+   {
+      "name": "Rocchetta a Volturno",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.62582000",
+      "longitude": "14.08902000"
+   },
+   {
+      "name": "Rotello",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.74776000",
+      "longitude": "15.00608000"
+   },
+   {
+      "name": "Salcito",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.74640000",
+      "longitude": "14.51085000"
+   },
+   {
+      "name": "San Biase",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.71526000",
+      "longitude": "14.59049000"
+   },
+   {
+      "name": "San Felice del Molise",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.89000000",
+      "longitude": "14.70088000"
+   },
+   {
+      "name": "San Giacomo degli Schiavoni",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.96234000",
+      "longitude": "14.94481000"
+   },
+   {
+      "name": "San Giovanni in Galdo",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.59110000",
+      "longitude": "14.75202000"
+   },
+   {
+      "name": "San Giuliano del Sannio",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.45752000",
+      "longitude": "14.64169000"
+   },
+   {
+      "name": "San Giuliano di Puglia",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.68796000",
+      "longitude": "14.96231000"
+   },
+   {
+      "name": "San Martino in Pensilis",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.87814000",
+      "longitude": "15.01824000"
+   },
+   {
+      "name": "San Massimo",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.49292000",
+      "longitude": "14.41023000"
+   },
+   {
+      "name": "San Pietro Avellana",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.78886000",
+      "longitude": "14.18323000"
+   },
+   {
+      "name": "San Polomatese",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.45932000",
+      "longitude": "14.49343000"
+   },
+   {
+      "name": "Sant'Agapito",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.54372000",
+      "longitude": "14.22204000"
+   },
+   {
+      "name": "Sant'Angelo Limosano",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.69266000",
+      "longitude": "14.60346000"
+   },
+   {
+      "name": "Sant'Angelo del Pesco",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.88193000",
+      "longitude": "14.25354000"
+   },
+   {
+      "name": "Sant'Elena Sannita",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.57525000",
+      "longitude": "14.47070000"
+   },
+   {
+      "name": "Sant'Elia a Pianisi",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.62043000",
+      "longitude": "14.87523000"
+   },
+   {
+      "name": "Santa Croce di Magliano",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.71223000",
+      "longitude": "14.98732000"
+   },
+   {
+      "name": "Santa Maria del Molise",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.55285000",
+      "longitude": "14.36762000"
+   },
+   {
+      "name": "Scapoli",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.61447000",
+      "longitude": "14.05929000"
+   },
+   {
+      "name": "Sepino",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.40782000",
+      "longitude": "14.61938000"
+   },
+   {
+      "name": "Sessano del Molise",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.63926000",
+      "longitude": "14.32779000"
+   },
+   {
+      "name": "Sesto Campano",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.42042000",
+      "longitude": "14.07782000"
+   },
+   {
+      "name": "Spinete",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.54431000",
+      "longitude": "14.48743000"
+   },
+   {
+      "name": "Tavenna",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.90898000",
+      "longitude": "14.76176000"
+   },
+   {
+      "name": "Taverna Ravindola",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.52283000",
+      "longitude": "14.12591000"
+   },
+   {
+      "name": "Termoli",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.99994000",
+      "longitude": "14.99389000"
+   },
+   {
+      "name": "Torella del Sannio",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.63878000",
+      "longitude": "14.52031000"
+   },
+   {
+      "name": "Toro",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.57313000",
+      "longitude": "14.76183000"
+   },
+   {
+      "name": "Trivento",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.77004000",
+      "longitude": "14.54613000"
+   },
+   {
+      "name": "Tufara",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.48203000",
+      "longitude": "14.94654000"
+   },
+   {
+      "name": "Ururi",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.81518000",
+      "longitude": "15.01611000"
+   },
+   {
+      "name": "Vastogirardi",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.77460000",
+      "longitude": "14.25844000"
+   },
+   {
+      "name": "Venafro",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.48275000",
+      "longitude": "14.04773000"
+   },
+   {
+      "name": "Vinchiaturo",
+      "countryCode": "IT",
+      "stateCode": "67",
+      "latitude": "41.49282000",
+      "longitude": "14.59200000"
    }
 ]

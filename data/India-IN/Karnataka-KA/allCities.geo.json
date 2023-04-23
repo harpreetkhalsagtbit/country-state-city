@@ -84,11 +84,25 @@
       "longitude": "77.41761000"
    },
    {
+      "name": "Badami",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "15.91495000",
+      "longitude": "75.67683000"
+   },
+   {
       "name": "Bagalkot",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "16.18000000",
       "longitude": "75.69000000"
+   },
+   {
+      "name": "Bagepalli",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.78338000",
+      "longitude": "77.79667000"
    },
    {
       "name": "Bail-Hongal",
@@ -103,6 +117,20 @@
       "stateCode": "KA",
       "latitude": "15.15000000",
       "longitude": "76.55000000"
+   },
+   {
+      "name": "Ballary",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "15.14205000",
+      "longitude": "76.92398000"
+   },
+   {
+      "name": "Banavar",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.41029000",
+      "longitude": "76.16314000"
    },
    {
       "name": "Bangalore Rural",
@@ -161,13 +189,6 @@
       "longitude": "74.75000000"
    },
    {
-      "name": "Ballary",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "15.14205000",
-      "longitude": "76.92398000"
-   },
-   {
       "name": "Belluru",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -203,13 +224,6 @@
       "longitude": "75.70502000"
    },
    {
-      "name": "Bhatkal",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.98534000",
-      "longitude": "74.55531000"
-   },
-   {
       "name": "Bhalki",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -217,11 +231,18 @@
       "longitude": "77.20600000"
    },
    {
-      "name": "Vijayapura",
+      "name": "Bhatkal",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "16.82442000",
-      "longitude": "75.71537000"
+      "latitude": "13.98534000",
+      "longitude": "74.55531000"
+   },
+   {
+      "name": "Bidar",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "18.08333000",
+      "longitude": "77.33333000"
    },
    {
       "name": "Bilgi",
@@ -238,13 +259,6 @@
       "longitude": "75.97167000"
    },
    {
-      "name": "Byndoor",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.86667000",
-      "longitude": "74.63333000"
-   },
-   {
       "name": "Byadgi",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -252,32 +266,11 @@
       "longitude": "75.48680000"
    },
    {
-      "name": "Badami",
+      "name": "Byndoor",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "15.91495000",
-      "longitude": "75.67683000"
-   },
-   {
-      "name": "Bagepalli",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.78338000",
-      "longitude": "77.79667000"
-   },
-   {
-      "name": "Banavar",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.41029000",
-      "longitude": "76.16314000"
-   },
-   {
-      "name": "Bidar",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "18.08333000",
-      "longitude": "77.33333000"
+      "latitude": "13.86667000",
+      "longitude": "74.63333000"
    },
    {
       "name": "Canacona",
@@ -371,18 +364,18 @@
       "longitude": "78.05172000"
    },
    {
-      "name": "Chitradurga",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.20000000",
-      "longitude": "76.50000000"
-   },
-   {
       "name": "Chitapur",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "17.12357000",
       "longitude": "77.08240000"
+   },
+   {
+      "name": "Chitradurga",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.20000000",
+      "longitude": "76.50000000"
    },
    {
       "name": "Closepet",
@@ -469,18 +462,18 @@
       "longitude": "75.96976000"
    },
    {
-      "name": "Gangolli",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.65024000",
-      "longitude": "74.67072000"
-   },
-   {
       "name": "Gangawati",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "15.43130000",
       "longitude": "76.52933000"
+   },
+   {
+      "name": "Gangolli",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.65024000",
+      "longitude": "74.67072000"
    },
    {
       "name": "Gokak",
@@ -525,13 +518,6 @@
       "longitude": "77.70414000"
    },
    {
-      "name": "Kalaburgi",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "17.16667000",
-      "longitude": "77.08333000"
-   },
-   {
       "name": "Guledagudda",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -572,6 +558,13 @@
       "stateCode": "KA",
       "latitude": "15.33520000",
       "longitude": "76.46030000"
+   },
+   {
+      "name": "Hangal",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.76465000",
+      "longitude": "75.12460000"
    },
    {
       "name": "Harihar",
@@ -644,18 +637,18 @@
       "longitude": "77.12519000"
    },
    {
-      "name": "Honnali",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.23976000",
-      "longitude": "75.64507000"
-   },
-   {
       "name": "Honavar",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "14.28088000",
       "longitude": "74.44497000"
+   },
+   {
+      "name": "Honnali",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.23976000",
+      "longitude": "75.64507000"
    },
    {
       "name": "Hosanagara",
@@ -721,13 +714,6 @@
       "longitude": "76.29275000"
    },
    {
-      "name": "Hangal",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.76465000",
-      "longitude": "75.12460000"
-   },
-   {
       "name": "Ilkal",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -770,6 +756,13 @@
       "longitude": "76.01164000"
    },
    {
+      "name": "Kalaburgi",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "17.16667000",
+      "longitude": "77.08333000"
+   },
+   {
       "name": "Kalghatgi",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -782,6 +775,20 @@
       "stateCode": "KA",
       "latitude": "15.40626000",
       "longitude": "76.60013000"
+   },
+   {
+      "name": "Kankanhalli",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "12.54654000",
+      "longitude": "77.42005000"
+   },
+   {
+      "name": "Karkala",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.21428000",
+      "longitude": "74.99234000"
    },
    {
       "name": "Karwar",
@@ -903,6 +910,13 @@
       "longitude": "74.85408000"
    },
    {
+      "name": "Kudligi",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.90500000",
+      "longitude": "76.38527000"
+   },
+   {
       "name": "Kumsi",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -938,13 +952,6 @@
       "longitude": "77.35772000"
    },
    {
-      "name": "Kushtagi",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "15.75623000",
-      "longitude": "76.19112000"
-   },
-   {
       "name": "Kushalnagar",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -952,25 +959,11 @@
       "longitude": "75.95904000"
    },
    {
-      "name": "Kankanhalli",
+      "name": "Kushtagi",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "12.54654000",
-      "longitude": "77.42005000"
-   },
-   {
-      "name": "Karkala",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.21428000",
-      "longitude": "74.99234000"
-   },
-   {
-      "name": "Kudligi",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.90500000",
-      "longitude": "76.38527000"
+      "latitude": "15.75623000",
+      "longitude": "76.19112000"
    },
    {
       "name": "Lakshmeshwar",
@@ -1015,6 +1008,13 @@
       "longitude": "75.73820000"
    },
    {
+      "name": "Magadi",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "12.95706000",
+      "longitude": "77.22374000"
+   },
+   {
       "name": "Mahalingpur",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1034,6 +1034,13 @@
       "stateCode": "KA",
       "latitude": "13.34962000",
       "longitude": "74.70394000"
+   },
+   {
+      "name": "Malur",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.00322000",
+      "longitude": "77.93798000"
    },
    {
       "name": "Mandya",
@@ -1057,11 +1064,32 @@
       "longitude": "74.78333000"
    },
    {
+      "name": "Manvi",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "15.99126000",
+      "longitude": "77.05034000"
+   },
+   {
+      "name": "Mayakonda",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.28894000",
+      "longitude": "76.08305000"
+   },
+   {
       "name": "Melukote",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "12.66258000",
       "longitude": "76.64861000"
+   },
+   {
+      "name": "Mudbidri",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.06653000",
+      "longitude": "74.99525000"
    },
    {
       "name": "Muddebihal",
@@ -1106,6 +1134,13 @@
       "longitude": "75.52132000"
    },
    {
+      "name": "Mulki",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.09101000",
+      "longitude": "74.79353000"
+   },
+   {
       "name": "Mundargi",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1141,46 +1176,11 @@
       "longitude": "76.42000000"
    },
    {
-      "name": "Magadi",
+      "name": "Nagamangala",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "12.95706000",
-      "longitude": "77.22374000"
-   },
-   {
-      "name": "Malur",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.00322000",
-      "longitude": "77.93798000"
-   },
-   {
-      "name": "Manvi",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "15.99126000",
-      "longitude": "77.05034000"
-   },
-   {
-      "name": "Mayakonda",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.28894000",
-      "longitude": "76.08305000"
-   },
-   {
-      "name": "Mudbidri",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.06653000",
-      "longitude": "74.99525000"
-   },
-   {
-      "name": "Mulki",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.09101000",
-      "longitude": "74.79353000"
+      "latitude": "12.81939000",
+      "longitude": "76.75456000"
    },
    {
       "name": "Nanjangud",
@@ -1232,11 +1232,18 @@
       "longitude": "75.57641000"
    },
    {
-      "name": "Nagamangala",
+      "name": "Pangala",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "12.81939000",
-      "longitude": "76.75456000"
+      "latitude": "13.25000000",
+      "longitude": "74.75000000"
+   },
+   {
+      "name": "Pavugada",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.09953000",
+      "longitude": "77.28018000"
    },
    {
       "name": "Piriyapatna",
@@ -1260,20 +1267,6 @@
       "longitude": "75.20169000"
    },
    {
-      "name": "Pangala",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.25000000",
-      "longitude": "74.75000000"
-   },
-   {
-      "name": "Pavugada",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "14.09953000",
-      "longitude": "77.28018000"
-   },
-   {
       "name": "Rabkavi",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1295,20 +1288,6 @@
       "longitude": "77.35000000"
    },
    {
-      "name": "Robertsonpet",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "12.95629000",
-      "longitude": "78.27539000"
-   },
-   {
-      "name": "Ron",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "15.69935000",
-      "longitude": "75.73408000"
-   },
-   {
       "name": "Ranibennur",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1323,11 +1302,32 @@
       "longitude": "74.77391000"
    },
    {
+      "name": "Robertsonpet",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "12.95629000",
+      "longitude": "78.27539000"
+   },
+   {
+      "name": "Ron",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "15.69935000",
+      "longitude": "75.73408000"
+   },
+   {
       "name": "Sadalgi",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "16.55870000",
       "longitude": "74.53211000"
+   },
+   {
+      "name": "Sagar",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "14.16498000",
+      "longitude": "75.02901000"
    },
    {
       "name": "Sakleshpur",
@@ -1386,6 +1386,20 @@
       "longitude": "77.28998000"
    },
    {
+      "name": "Shahabad",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "17.13070000",
+      "longitude": "76.94361000"
+   },
+   {
+      "name": "Shahpur",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "16.69605000",
+      "longitude": "76.84220000"
+   },
+   {
       "name": "Shiggaon",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1428,20 +1442,6 @@
       "longitude": "76.68439000"
    },
    {
-      "name": "Shahpur",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "16.69605000",
-      "longitude": "76.84220000"
-   },
-   {
-      "name": "Shahabad",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "17.13070000",
-      "longitude": "76.94361000"
-   },
-   {
       "name": "Siddapur",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1468,6 +1468,13 @@
       "stateCode": "KA",
       "latitude": "15.76983000",
       "longitude": "76.75581000"
+   },
+   {
+      "name": "Sira",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.74155000",
+      "longitude": "76.90430000"
    },
    {
       "name": "Sirsi",
@@ -1505,18 +1512,18 @@
       "longitude": "75.09183000"
    },
    {
-      "name": "Sringeri",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.41698000",
-      "longitude": "75.25271000"
-   },
-   {
       "name": "Sravana Belgola",
       "countryCode": "IN",
       "stateCode": "KA",
       "latitude": "12.85737000",
       "longitude": "76.48886000"
+   },
+   {
+      "name": "Sringeri",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.41698000",
+      "longitude": "75.25271000"
    },
    {
       "name": "Srinivaspur",
@@ -1540,18 +1547,11 @@
       "longitude": "75.82970000"
    },
    {
-      "name": "Sagar",
+      "name": "Talikota",
       "countryCode": "IN",
       "stateCode": "KA",
-      "latitude": "14.16498000",
-      "longitude": "75.02901000"
-   },
-   {
-      "name": "Sira",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.74155000",
-      "longitude": "76.90430000"
+      "latitude": "16.47311000",
+      "longitude": "76.31085000"
    },
    {
       "name": "Tarikere",
@@ -1582,6 +1582,13 @@
       "longitude": "76.47768000"
    },
    {
+      "name": "Tirthahalli",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "13.68835000",
+      "longitude": "75.24548000"
+   },
+   {
       "name": "Tirumakudal Narsipur",
       "countryCode": "IN",
       "stateCode": "KA",
@@ -1601,20 +1608,6 @@
       "stateCode": "KA",
       "latitude": "13.16374000",
       "longitude": "76.66641000"
-   },
-   {
-      "name": "Talikota",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "16.47311000",
-      "longitude": "76.31085000"
-   },
-   {
-      "name": "Tirthahalli",
-      "countryCode": "IN",
-      "stateCode": "KA",
-      "latitude": "13.68835000",
-      "longitude": "75.24548000"
    },
    {
       "name": "Udupi",
@@ -1643,6 +1636,13 @@
       "stateCode": "KA",
       "latitude": "13.29724000",
       "longitude": "77.80184000"
+   },
+   {
+      "name": "Vijayapura",
+      "countryCode": "IN",
+      "stateCode": "KA",
+      "latitude": "16.82442000",
+      "longitude": "75.71537000"
    },
    {
       "name": "Virarajendrapet",

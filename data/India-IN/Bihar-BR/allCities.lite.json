@@ -80,12 +80,22 @@
       "stateCode": "BR"
    },
    {
+      "name": "Barh",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Barhiya",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
       "name": "Bariarpur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Baruni",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -110,6 +120,11 @@
       "stateCode": "BR"
    },
    {
+      "name": "Bhagalpur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Bhagirathpur",
       "countryCode": "IN",
       "stateCode": "BR"
@@ -121,11 +136,6 @@
    },
    {
       "name": "Bhojpur",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Bhagalpur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -145,6 +155,11 @@
       "stateCode": "BR"
    },
    {
+      "name": "Birpur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Buddh Gaya",
       "countryCode": "IN",
       "stateCode": "BR"
@@ -155,32 +170,17 @@
       "stateCode": "BR"
    },
    {
-      "name": "Barh",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Baruni",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Birpur",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Chhatapur",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
       "name": "Chakia",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
       "name": "Chapra",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Chhatapur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -260,17 +260,17 @@
       "stateCode": "BR"
    },
    {
+      "name": "Hajipur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Hilsa",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
       "name": "Hisua",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Hajipur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -290,12 +290,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Jamui",
+      "name": "Jamalpur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Jamalpur",
+      "name": "Jamui",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -310,12 +310,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Jhanjharpur",
+      "name": "Jha-Jha",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Jha-Jha",
+      "name": "Jhanjharpur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -365,12 +365,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Koelwar",
+      "name": "Koath",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Koath",
+      "name": "Koelwar",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -380,12 +380,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Luckeesarai",
+      "name": "Lalganj",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Lalganj",
+      "name": "Luckeesarai",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -475,6 +475,16 @@
       "stateCode": "BR"
    },
    {
+      "name": "Nalanda",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Nasriganj",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Naugachhia",
       "countryCode": "IN",
       "stateCode": "BR"
@@ -486,16 +496,6 @@
    },
    {
       "name": "Nirmali",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Nalanda",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Nasriganj",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -520,12 +520,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Purnia",
+      "name": "Purba Champaran",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Purba Champaran",
+      "name": "Purnia",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -536,6 +536,16 @@
    },
    {
       "name": "Raghunathpur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Rajgir",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Ramnagar",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -560,16 +570,6 @@
       "stateCode": "BR"
    },
    {
-      "name": "Rajgir",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Ramnagar",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
       "name": "Sagauli",
       "countryCode": "IN",
       "stateCode": "BR"
@@ -585,7 +585,17 @@
       "stateCode": "BR"
    },
    {
+      "name": "Saran",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
       "name": "Shahbazpur",
+      "countryCode": "IN",
+      "stateCode": "BR"
+   },
+   {
+      "name": "Shahpur",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -605,12 +615,12 @@
       "stateCode": "BR"
    },
    {
-      "name": "Shahpur",
+      "name": "Silao",
       "countryCode": "IN",
       "stateCode": "BR"
    },
    {
-      "name": "Silao",
+      "name": "Sitamarhi",
       "countryCode": "IN",
       "stateCode": "BR"
    },
@@ -621,16 +631,6 @@
    },
    {
       "name": "Supaul",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Saran",
-      "countryCode": "IN",
-      "stateCode": "BR"
-   },
-   {
-      "name": "Sitamarhi",
       "countryCode": "IN",
       "stateCode": "BR"
    },

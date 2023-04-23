@@ -10,6 +10,11 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Agol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Ahmedabad",
       "countryCode": "IN",
       "stateCode": "GJ"
@@ -20,7 +25,17 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Akrund",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Amod",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Amod,",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -50,922 +65,7 @@
       "stateCode": "GJ"
    },
    {
-      "name": "Bagasra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Banas Kantha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bedi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bhachau",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bharuch",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bhavnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bhuj",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bhanvad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bhayavadar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bilimora",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bilkha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Borsad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Botad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
       "name": "Babra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bantva",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Bardoli",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chaklasi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chalala",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chhala",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chhota Udepur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chikhli",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chotila",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Chanasma",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dabhoi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dahegam",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dayapar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Delvada",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Devbhumi Dwarka",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Devgadh Bariya",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhandhuka",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhanera",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dharampur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhola",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dholka",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhoraji",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhrol",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhrangadhra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhuwaran",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dhari",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dohad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dungarpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dwarka",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dakor",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Damnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Disa",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gadhada",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gandevi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gandhinagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gariadhar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Ghogha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gir Somnath",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Godhra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gondal",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Gandhidham",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Halvad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Hansot",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Himatnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Halol",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Harij",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jalalpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jambusar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jamnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jasdan",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jetalsar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jetpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jhulasan",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jodhpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jodiya Bandar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Junagadh",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kachchh",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kadi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kadod",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kapadvanj",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Karamsad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Katpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kawant",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Keshod",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Khambhat",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kheda",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Khedbrahma",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kheralu",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kodinar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kosamba",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kundla",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kutiyana",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kalol",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kalavad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kandla",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kanodar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kathor",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Lakhtar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Limbdi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Lalpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Lathi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Lunavada",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mahemdavad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mahesana",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mahudha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Meghraj",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mendarda",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Modasa",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Morbi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Morwa",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mundra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Malpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mandal",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mandvi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mangrol",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mansa",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Manavadar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Nadiad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Naliya",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Narmada",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Naroda",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Navsari",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Okha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Olpad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Paddhari",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Padra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Parnera",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Patan",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Petlad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Porbandar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Palanpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Palitana",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Paliyad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Panch Mahals",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Pardi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Roha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Radhanpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Rajkot",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Rajpipla",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Rajula",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Ranavav",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Rapar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sabar Kantha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sachin",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Salaya",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sankheda",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sarkhej",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Savarkundla",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Shivrajpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Shahpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sihor",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sikka",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sinor",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sojitra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Songadh",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Surendranagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sanand",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Sayla",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Surat",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Talaja",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Tankara",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Tapi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Tharad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "The Dangs",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Than",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Thasra",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Umreth",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Umrala",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Un",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Una",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Unjha",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Upleta",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Utran",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vadnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vadodara",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vallabh Vidyanagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Valsad",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vapi",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vartej",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vasa",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vejalpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Veraval",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vijapur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vinchia",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Virpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Visnagar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vyara",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vaghodia",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Visavadar",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Waghai",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Wankaner",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -975,122 +75,7 @@
       "stateCode": "GJ"
    },
    {
-      "name": "Dahod",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Dangs (India)",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Delwada",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jalalpore",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Jodia",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kavant",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Khambhalia",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Kutch district",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mandvi (Surat)",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Mehsana",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Morva (Hadaf)",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Panchmahal district",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Pavi Jetpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Siddhpur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Thangadh",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vallabhipur",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vansda",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vaso",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Vinchhiya",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Wadhai",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Wadhwan",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Agol",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Akrund",
-      "countryCode": "IN",
-      "stateCode": "GJ"
-   },
-   {
-      "name": "Amod,",
+      "name": "Bagasra",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1120,7 +105,32 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Banas Kantha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Bandia",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bantva",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bardoli",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bedi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bhachau",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1135,7 +145,27 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Bhanvad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bharuch",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Bhatha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bhavnagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bhayavadar",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1150,12 +180,72 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Bhuj",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bilimora",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Bilkha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Borsad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Botad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chaklasi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chalala",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Chaloda",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
       "name": "Champaner",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chanasma",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chhala",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chhota Udepur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chikhli",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Chotila",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1170,7 +260,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Dabhoi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dahegam",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dahod",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dakor",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Damnagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Dandi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dangs (India)",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1180,7 +300,42 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Dayapar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Delvada",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Delwada",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Detroj",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Devbhumi Dwarka",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Devgadh Bariya",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhandhuka",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhanera",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1190,7 +345,17 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Dharampur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Dharasana",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhari",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1200,7 +365,47 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Dhola",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Dholera",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dholka",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhoraji",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhrangadhra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhrol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dhuwaran",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Disa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dohad",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1210,7 +415,62 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Dungarpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Dwarka",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gadhada",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gandevi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gandhidham",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gandhinagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gariadhar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Ghodasar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Ghogha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gir Somnath",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Godhra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Gondal",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1225,12 +485,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Halol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Halvad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Hansot",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Harij",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Harsol",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
       "name": "Hathuran",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Himatnagar",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1245,6 +530,16 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Jalalpore",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jalalpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Jalia",
       "countryCode": "IN",
       "stateCode": "GJ"
@@ -1255,12 +550,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Jambusar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jamnagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Jarod,",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
+      "name": "Jasdan",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Jetalpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jetalsar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jetpur",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1275,7 +595,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Jhulasan",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jodhpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Jodhpur (Ahmedabad)",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jodia",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Jodiya Bandar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Junagadh",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kachchh",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1285,7 +635,47 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Kadi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kadod",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kalavad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kalol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kandla",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Kandla port",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kanodar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kapadvanj",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Karamsad",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1300,6 +690,26 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Kathor",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Katpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kavant",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kawant",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Kayavarohan",
       "countryCode": "IN",
       "stateCode": "GJ"
@@ -1310,7 +720,32 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Keshod",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Khambhalia",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Khambhat",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Khavda",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kheda",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Khedbrahma",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1321,6 +756,21 @@
    },
    {
       "name": "Kherali",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kheralu",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kodinar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kosamba",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1345,7 +795,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Kundla",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kutch district",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Kutiyana",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Ladol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Lakhpat",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Lakhtar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Lalpur",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1355,12 +835,22 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Lathi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Limbdi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Limkheda",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
-      "name": "Ladol",
+      "name": "Lunavada",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1375,7 +865,22 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Mahemdavad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mahesana",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Mahisa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mahudha",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1390,12 +895,92 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Malpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Manavadar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mandal",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mandvi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mandvi (Surat)",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mangrol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Mangrol (Junagadh)",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
+      "name": "Mansa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Meghraj",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mehsana",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mendarda",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Mithapur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Modasa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Morbi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Morva (Hadaf)",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Morwa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Mundra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Nadiad",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1415,7 +1000,27 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Naliya",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Nargol",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Narmada",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Naroda",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Navsari",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1435,7 +1040,42 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Okha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Olpad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Paddhari",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Padra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Palanpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Palanswa",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Palitana",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Paliyad",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1450,12 +1090,52 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Panch Mahals",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Panchmahal district",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Pardi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Parnera",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Patan",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Pavi Jetpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Petlad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Pipavav",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
       "name": "Piplod",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Porbandar",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1470,7 +1150,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Radhanpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Rajkot",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Rajpipla",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Rajula",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Ranavav",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Ranpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Rapar",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1480,7 +1190,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Roha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sabar Kantha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sachin",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Salaya",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Samakhiali",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sanand",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sankheda",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1495,7 +1235,17 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Sarkhej",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Sathamba",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Savarkundla",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1505,7 +1255,62 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Sayla",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Shahpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Shivrajpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Siddhpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sihor",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sikka",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sinor",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Sojitra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Songadh",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Supedi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Surat",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Surendranagar",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1515,7 +1320,82 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Talaja",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Tankara",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Tapi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Than",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Thangadh",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Tharad",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Thasra",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "The Dangs",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Umarpada",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Umrala",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Umreth",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Un",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Una",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Unjha",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Upleta",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Utran",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1525,7 +1405,37 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Vadnagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vadodara",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vaghodia",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Vaghodia INA",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vallabh Vidyanagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vallabhipur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Valsad",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1535,7 +1445,27 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Vansda",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Vanthli",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vapi",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vartej",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vasa",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
@@ -1545,12 +1475,82 @@
       "stateCode": "GJ"
    },
    {
+      "name": "Vaso",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Vataman",
       "countryCode": "IN",
       "stateCode": "GJ"
    },
    {
+      "name": "Vejalpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Veraval",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vijapur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vinchhiya",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vinchia",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
       "name": "Viramgam",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Virpur",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Visavadar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Visnagar",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Vyara",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Wadhai",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Wadhwan",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Waghai",
+      "countryCode": "IN",
+      "stateCode": "GJ"
+   },
+   {
+      "name": "Wankaner",
       "countryCode": "IN",
       "stateCode": "GJ"
    }

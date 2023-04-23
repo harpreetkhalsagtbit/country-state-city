@@ -1,10 +1,24 @@
 [
    {
+      "name": "Central Singapore Community Development Council",
+      "isoCode": "01",
+      "countryCode": "SG",
+      "latitude": "1.28951400",
+      "longitude": "103.81438790"
+   },
+   {
       "name": "North East Community Development Council",
       "isoCode": "02",
       "countryCode": "SG",
       "latitude": "45.01181130",
       "longitude": "-93.24681070"
+   },
+   {
+      "name": "North West Community Development Council",
+      "isoCode": "03",
+      "countryCode": "SG",
+      "latitude": "39.10709300",
+      "longitude": "-94.45733600"
    },
    {
       "name": "South East Community Development Council",
@@ -14,24 +28,10 @@
       "longitude": "-76.56912370"
    },
    {
-      "name": "Central Singapore Community Development Council",
-      "isoCode": "01",
-      "countryCode": "SG",
-      "latitude": "1.28951400",
-      "longitude": "103.81438790"
-   },
-   {
       "name": "South West Community Development Council",
       "isoCode": "05",
       "countryCode": "SG",
       "latitude": "39.92569100",
       "longitude": "-75.23105800"
-   },
-   {
-      "name": "North West Community Development Council",
-      "isoCode": "03",
-      "countryCode": "SG",
-      "latitude": "39.10709300",
-      "longitude": "-94.45733600"
    }
 ]

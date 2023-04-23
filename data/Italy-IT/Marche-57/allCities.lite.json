@@ -1,600 +1,5 @@
 [
    {
-      "name": "Pagliare",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Palmiano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Passo Ripe",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Passo di Treia",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pedaso",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Peglio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Penna San Giovanni",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pergola",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pesaro",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Petriano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Petriolo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Petritoli",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piagge",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piandimeleto",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piane",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piane di Montegiorgio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piane di Morro",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pianello",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pianello Vallesina",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piattoni-Villa Sant'Antonio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pie' del Colle",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pie' del Sasso",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piediripa",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pietra la Croce",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pieve Torina",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pievebovigliana",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pinocchio di Ancona",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Piobbico",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pioraco",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Poggio San Marcello",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Poggio San Vicino",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Pollenza",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Polverigi",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Ponzano di Fermo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Porto Potenza Picena",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Porto Recanati",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Porto San Giorgio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Porto Sant'Elpidio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Posatora",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Potenza Picena",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Province of Fermo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Provincia di Ancona",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Provincia di Ascoli Piceno",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Provincia di Macerata",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Provincia di Pesaro e Urbino",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Rapagnano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Recanati",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Rio Salso-Case Bernardi",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Ripatransone",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Ripe",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Ripe San Ginesio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Rosciano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Rosora",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Rotella",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Saltara",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Benedetto del Tronto",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Biagio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Costanzo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Ginesio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Giorgio di Pesaro",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Lorenzo in Campo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Marcello",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Michele",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Paolo di Jesi",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Severino Marche",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Tommaso Tre Archi",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "San Vittoria in Matenano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sant'Angelo in Lizzola",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sant'Angelo in Pontano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sant'Angelo in Vado",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sant'Elpidio a Mare",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sant'Ippolito",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Santa Maria Apparente",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Santa Maria Nuova",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sarnano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sassocorvaro",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sassofeltrio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sassoferrato",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sefro",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Senigallia",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serra San Quirico",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serra Sant'Abbondio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serra de' Conti",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serrapetrona",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serravalle di Chienti",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Serrungarina",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Servigliano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sforzacosta",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Sirolo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Smerillo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Spinetoli",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Staffolo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Stazione",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Stella",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Strada",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Tavernelle",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Tavoleto",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Tavullia",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Tolentino",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Torre San Patrizio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Trebbio",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Treia",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Trodica",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Troviggiano",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Urbania",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Urbino",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Urbisaglia",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Valle e Castello",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Venarotta",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa Ceccolini",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa Musone",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa Pigna",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa Potenza",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa San Filippo",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villa San Giuseppe",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villagrande",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Villanova",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Visso",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
-      "name": "Zona Industriale",
-      "countryCode": "IT",
-      "stateCode": "57"
-   },
-   {
       "name": "Acqualagna",
       "countryCode": "IT",
       "stateCode": "57"
@@ -1571,6 +976,601 @@
    },
    {
       "name": "Padiglione",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pagliare",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Palmiano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Passo Ripe",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Passo di Treia",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pedaso",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Peglio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Penna San Giovanni",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pergola",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pesaro",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Petriano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Petriolo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Petritoli",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piagge",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piandimeleto",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piane",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piane di Montegiorgio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piane di Morro",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pianello",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pianello Vallesina",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piattoni-Villa Sant'Antonio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pie' del Colle",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pie' del Sasso",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piediripa",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pietra la Croce",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pieve Torina",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pievebovigliana",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pinocchio di Ancona",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Piobbico",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pioraco",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Poggio San Marcello",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Poggio San Vicino",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Pollenza",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Polverigi",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Ponzano di Fermo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Porto Potenza Picena",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Porto Recanati",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Porto San Giorgio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Porto Sant'Elpidio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Posatora",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Potenza Picena",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Province of Fermo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Provincia di Ancona",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Provincia di Ascoli Piceno",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Provincia di Macerata",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Provincia di Pesaro e Urbino",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Rapagnano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Recanati",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Rio Salso-Case Bernardi",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Ripatransone",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Ripe",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Ripe San Ginesio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Rosciano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Rosora",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Rotella",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Saltara",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Benedetto del Tronto",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Biagio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Costanzo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Ginesio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Giorgio di Pesaro",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Lorenzo in Campo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Marcello",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Michele",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Paolo di Jesi",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Severino Marche",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Tommaso Tre Archi",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "San Vittoria in Matenano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sant'Angelo in Lizzola",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sant'Angelo in Pontano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sant'Angelo in Vado",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sant'Elpidio a Mare",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sant'Ippolito",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Santa Maria Apparente",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Santa Maria Nuova",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sarnano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sassocorvaro",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sassofeltrio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sassoferrato",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sefro",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Senigallia",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serra San Quirico",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serra Sant'Abbondio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serra de' Conti",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serrapetrona",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serravalle di Chienti",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Serrungarina",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Servigliano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sforzacosta",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Sirolo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Smerillo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Spinetoli",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Staffolo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Stazione",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Stella",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Strada",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Tavernelle",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Tavoleto",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Tavullia",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Tolentino",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Torre San Patrizio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Trebbio",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Treia",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Trodica",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Troviggiano",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Urbania",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Urbino",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Urbisaglia",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Valle e Castello",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Venarotta",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa Ceccolini",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa Musone",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa Pigna",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa Potenza",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa San Filippo",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villa San Giuseppe",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villagrande",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Villanova",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Visso",
+      "countryCode": "IT",
+      "stateCode": "57"
+   },
+   {
+      "name": "Zona Industriale",
       "countryCode": "IT",
       "stateCode": "57"
    }

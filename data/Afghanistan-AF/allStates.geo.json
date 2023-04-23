@@ -1,17 +1,10 @@
 [
    {
-      "name": "Ghazni",
-      "isoCode": "GHA",
+      "name": "Balkh",
+      "isoCode": "BAL",
       "countryCode": "AF",
-      "latitude": "33.54505870",
-      "longitude": "68.41739720"
-   },
-   {
-      "name": "Badghis",
-      "isoCode": "BDG",
-      "countryCode": "AF",
-      "latitude": "35.16713390",
-      "longitude": "63.76953840"
+      "latitude": "36.75506030",
+      "longitude": "66.89753720"
    },
    {
       "name": "Bamyan",
@@ -21,18 +14,18 @@
       "longitude": "67.82121040"
    },
    {
-      "name": "Helmand",
-      "isoCode": "HEL",
+      "name": "Badghis",
+      "isoCode": "BDG",
       "countryCode": "AF",
-      "latitude": "39.29893610",
-      "longitude": "-76.61604720"
+      "latitude": "35.16713390",
+      "longitude": "63.76953840"
    },
    {
-      "name": "Zabul",
-      "isoCode": "ZAB",
+      "name": "Badakhshan",
+      "isoCode": "BDS",
       "countryCode": "AF",
-      "latitude": "32.19187820",
-      "longitude": "67.18944880"
+      "latitude": "36.73477250",
+      "longitude": "70.81199530"
    },
    {
       "name": "Baghlan",
@@ -42,18 +35,88 @@
       "longitude": "68.74530640"
    },
    {
-      "name": "Kunar",
-      "isoCode": "KNR",
+      "name": "Daykundi",
+      "isoCode": "DAY",
       "countryCode": "AF",
-      "latitude": "34.84658930",
-      "longitude": "71.09731700"
+      "latitude": "33.66949500",
+      "longitude": "66.04635340"
    },
    {
-      "name": "Paktika",
-      "isoCode": "PKA",
+      "name": "Farah",
+      "isoCode": "FRA",
       "countryCode": "AF",
-      "latitude": "32.26453860",
-      "longitude": "68.52471490"
+      "latitude": "32.49532800",
+      "longitude": "62.26266270"
+   },
+   {
+      "name": "Faryab",
+      "isoCode": "FYB",
+      "countryCode": "AF",
+      "latitude": "36.07956130",
+      "longitude": "64.90595500"
+   },
+   {
+      "name": "Ghazni",
+      "isoCode": "GHA",
+      "countryCode": "AF",
+      "latitude": "33.54505870",
+      "longitude": "68.41739720"
+   },
+   {
+      "name": "Ghōr",
+      "isoCode": "GHO",
+      "countryCode": "AF",
+      "latitude": "34.09957760",
+      "longitude": "64.90595500"
+   },
+   {
+      "name": "Helmand",
+      "isoCode": "HEL",
+      "countryCode": "AF",
+      "latitude": "39.29893610",
+      "longitude": "-76.61604720"
+   },
+   {
+      "name": "Herat",
+      "isoCode": "HER",
+      "countryCode": "AF",
+      "latitude": "34.35286500",
+      "longitude": "62.20402870"
+   },
+   {
+      "name": "Jowzjan",
+      "isoCode": "JOW",
+      "countryCode": "AF",
+      "latitude": "36.89696920",
+      "longitude": "65.66585680"
+   },
+   {
+      "name": "Kabul",
+      "isoCode": "KAB",
+      "countryCode": "AF",
+      "latitude": "34.55534940",
+      "longitude": "69.20748600"
+   },
+   {
+      "name": "Kandahar",
+      "isoCode": "KAN",
+      "countryCode": "AF",
+      "latitude": "31.62887100",
+      "longitude": "65.73717490"
+   },
+   {
+      "name": "Kapisa",
+      "isoCode": "KAP",
+      "countryCode": "AF",
+      "latitude": "34.98105720",
+      "longitude": "69.62145620"
+   },
+   {
+      "name": "Kunduz Province",
+      "isoCode": "KDZ",
+      "countryCode": "AF",
+      "latitude": "36.72855110",
+      "longitude": "68.86789820"
    },
    {
       "name": "Khost",
@@ -63,11 +126,39 @@
       "longitude": "69.93716730"
    },
    {
-      "name": "Kapisa",
-      "isoCode": "KAP",
+      "name": "Kunar",
+      "isoCode": "KNR",
       "countryCode": "AF",
-      "latitude": "34.98105720",
-      "longitude": "69.62145620"
+      "latitude": "34.84658930",
+      "longitude": "71.09731700"
+   },
+   {
+      "name": "Laghman",
+      "isoCode": "LAG",
+      "countryCode": "AF",
+      "latitude": "34.68976870",
+      "longitude": "70.14558050"
+   },
+   {
+      "name": "Logar",
+      "isoCode": "LOG",
+      "countryCode": "AF",
+      "latitude": "34.01455180",
+      "longitude": "69.19239160"
+   },
+   {
+      "name": "Nangarhar",
+      "isoCode": "NAN",
+      "countryCode": "AF",
+      "latitude": "34.17183130",
+      "longitude": "70.62167940"
+   },
+   {
+      "name": "Nimruz",
+      "isoCode": "NIM",
+      "countryCode": "AF",
+      "latitude": "31.02614880",
+      "longitude": "62.45041540"
    },
    {
       "name": "Nuristan",
@@ -84,88 +175,11 @@
       "longitude": "-77.17172380"
    },
    {
-      "name": "Nangarhar",
-      "isoCode": "NAN",
+      "name": "Parwan",
+      "isoCode": "PAR",
       "countryCode": "AF",
-      "latitude": "34.17183130",
-      "longitude": "70.62167940"
-   },
-   {
-      "name": "Samangan",
-      "isoCode": "SAM",
-      "countryCode": "AF",
-      "latitude": "36.31555060",
-      "longitude": "67.96428630"
-   },
-   {
-      "name": "Balkh",
-      "isoCode": "BAL",
-      "countryCode": "AF",
-      "latitude": "36.75506030",
-      "longitude": "66.89753720"
-   },
-   {
-      "name": "Sar-e Pol",
-      "isoCode": "SAR",
-      "countryCode": "AF",
-      "latitude": "36.21662800",
-      "longitude": "65.93336000"
-   },
-   {
-      "name": "Jowzjan",
-      "isoCode": "JOW",
-      "countryCode": "AF",
-      "latitude": "36.89696920",
-      "longitude": "65.66585680"
-   },
-   {
-      "name": "Herat",
-      "isoCode": "HER",
-      "countryCode": "AF",
-      "latitude": "34.35286500",
-      "longitude": "62.20402870"
-   },
-   {
-      "name": "Ghōr",
-      "isoCode": "GHO",
-      "countryCode": "AF",
-      "latitude": "34.09957760",
-      "longitude": "64.90595500"
-   },
-   {
-      "name": "Faryab",
-      "isoCode": "FYB",
-      "countryCode": "AF",
-      "latitude": "36.07956130",
-      "longitude": "64.90595500"
-   },
-   {
-      "name": "Kandahar",
-      "isoCode": "KAN",
-      "countryCode": "AF",
-      "latitude": "31.62887100",
-      "longitude": "65.73717490"
-   },
-   {
-      "name": "Laghman",
-      "isoCode": "LAG",
-      "countryCode": "AF",
-      "latitude": "34.68976870",
-      "longitude": "70.14558050"
-   },
-   {
-      "name": "Daykundi",
-      "isoCode": "DAY",
-      "countryCode": "AF",
-      "latitude": "33.66949500",
-      "longitude": "66.04635340"
-   },
-   {
-      "name": "Takhar",
-      "isoCode": "TAK",
-      "countryCode": "AF",
-      "latitude": "36.66980130",
-      "longitude": "69.47845410"
+      "latitude": "34.96309770",
+      "longitude": "68.81088490"
    },
    {
       "name": "Paktia",
@@ -175,25 +189,32 @@
       "longitude": "69.38310790"
    },
    {
-      "name": "Parwan",
-      "isoCode": "PAR",
+      "name": "Paktika",
+      "isoCode": "PKA",
       "countryCode": "AF",
-      "latitude": "34.96309770",
-      "longitude": "68.81088490"
+      "latitude": "32.26453860",
+      "longitude": "68.52471490"
    },
    {
-      "name": "Nimruz",
-      "isoCode": "NIM",
+      "name": "Samangan",
+      "isoCode": "SAM",
       "countryCode": "AF",
-      "latitude": "31.02614880",
-      "longitude": "62.45041540"
+      "latitude": "36.31555060",
+      "longitude": "67.96428630"
    },
    {
-      "name": "Logar",
-      "isoCode": "LOG",
+      "name": "Sar-e Pol",
+      "isoCode": "SAR",
       "countryCode": "AF",
-      "latitude": "34.01455180",
-      "longitude": "69.19239160"
+      "latitude": "36.21662800",
+      "longitude": "65.93336000"
+   },
+   {
+      "name": "Takhar",
+      "isoCode": "TAK",
+      "countryCode": "AF",
+      "latitude": "36.66980130",
+      "longitude": "69.47845410"
    },
    {
       "name": "Urozgan",
@@ -203,31 +224,10 @@
       "longitude": "66.14152630"
    },
    {
-      "name": "Farah",
-      "isoCode": "FRA",
+      "name": "Zabul",
+      "isoCode": "ZAB",
       "countryCode": "AF",
-      "latitude": "32.49532800",
-      "longitude": "62.26266270"
-   },
-   {
-      "name": "Kunduz Province",
-      "isoCode": "KDZ",
-      "countryCode": "AF",
-      "latitude": "36.72855110",
-      "longitude": "68.86789820"
-   },
-   {
-      "name": "Badakhshan",
-      "isoCode": "BDS",
-      "countryCode": "AF",
-      "latitude": "36.73477250",
-      "longitude": "70.81199530"
-   },
-   {
-      "name": "Kabul",
-      "isoCode": "KAB",
-      "countryCode": "AF",
-      "latitude": "34.55534940",
-      "longitude": "69.20748600"
+      "latitude": "32.19187820",
+      "longitude": "67.18944880"
    }
 ]

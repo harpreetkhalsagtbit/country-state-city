@@ -390,6 +390,11 @@
       "stateCode": "MA"
    },
    {
+      "name": "Dartmouth",
+      "countryCode": "US",
+      "stateCode": "MA"
+   },
+   {
       "name": "Dedham",
       "countryCode": "US",
       "stateCode": "MA"
@@ -2016,11 +2021,6 @@
    },
    {
       "name": "Yarmouth Port",
-      "countryCode": "US",
-      "stateCode": "MA"
-   },
-   {
-      "name": "Dartmouth",
       "countryCode": "US",
       "stateCode": "MA"
    }

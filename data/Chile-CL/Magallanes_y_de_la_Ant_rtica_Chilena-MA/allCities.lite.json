@@ -1,16 +1,6 @@
 [
    {
-      "name": "Porvenir",
-      "countryCode": "CL",
-      "stateCode": "MA"
-   },
-   {
       "name": "Antártica",
-      "countryCode": "CL",
-      "stateCode": "MA"
-   },
-   {
-      "name": "Punta Arenas",
       "countryCode": "CL",
       "stateCode": "MA"
    },
@@ -30,7 +20,17 @@
       "stateCode": "MA"
    },
    {
+      "name": "Porvenir",
+      "countryCode": "CL",
+      "stateCode": "MA"
+   },
+   {
       "name": "Primavera",
+      "countryCode": "CL",
+      "stateCode": "MA"
+   },
+   {
+      "name": "Punta Arenas",
       "countryCode": "CL",
       "stateCode": "MA"
    },

@@ -1,17 +1,17 @@
 [
    {
-      "name": "Guanacaste Province",
-      "isoCode": "G",
-      "countryCode": "CR"
-   },
-   {
-      "name": "Puntarenas Province",
-      "isoCode": "P",
+      "name": "Alajuela Province",
+      "isoCode": "A",
       "countryCode": "CR"
    },
    {
       "name": "Provincia de Cartago",
       "isoCode": "C",
+      "countryCode": "CR"
+   },
+   {
+      "name": "Guanacaste Province",
+      "isoCode": "G",
       "countryCode": "CR"
    },
    {
@@ -25,13 +25,13 @@
       "countryCode": "CR"
    },
    {
-      "name": "San José Province",
-      "isoCode": "SJ",
+      "name": "Puntarenas Province",
+      "isoCode": "P",
       "countryCode": "CR"
    },
    {
-      "name": "Alajuela Province",
-      "isoCode": "A",
+      "name": "San José Province",
+      "isoCode": "SJ",
       "countryCode": "CR"
    }
 ]

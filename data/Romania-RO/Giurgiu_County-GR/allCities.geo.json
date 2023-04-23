@@ -931,6 +931,27 @@
       "longitude": "25.83333000"
    },
    {
+      "name": "Săbăreni",
+      "countryCode": "RO",
+      "stateCode": "GR",
+      "latitude": "44.50185000",
+      "longitude": "25.88820000"
+   },
+   {
+      "name": "Toporu",
+      "countryCode": "RO",
+      "stateCode": "GR",
+      "latitude": "44.01056000",
+      "longitude": "25.65278000"
+   },
+   {
+      "name": "Trestieni",
+      "countryCode": "RO",
+      "stateCode": "GR",
+      "latitude": "44.50449000",
+      "longitude": "25.75789000"
+   },
+   {
       "name": "Tântava",
       "countryCode": "RO",
       "stateCode": "GR",
@@ -1006,26 +1027,5 @@
       "stateCode": "GR",
       "latitude": "44.37864000",
       "longitude": "25.80678000"
-   },
-   {
-      "name": "Săbăreni",
-      "countryCode": "RO",
-      "stateCode": "GR",
-      "latitude": "44.50185000",
-      "longitude": "25.88820000"
-   },
-   {
-      "name": "Toporu",
-      "countryCode": "RO",
-      "stateCode": "GR",
-      "latitude": "44.01056000",
-      "longitude": "25.65278000"
-   },
-   {
-      "name": "Trestieni",
-      "countryCode": "RO",
-      "stateCode": "GR",
-      "latitude": "44.50449000",
-      "longitude": "25.75789000"
    }
 ]

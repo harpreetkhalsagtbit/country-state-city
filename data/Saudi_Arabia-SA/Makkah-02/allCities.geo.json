@@ -1,75 +1,5 @@
 [
    {
-      "name": "Al Hadā",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.36753000",
-      "longitude": "40.28694000"
-   },
-   {
-      "name": "Al Jumūm",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.61694000",
-      "longitude": "39.69806000"
-   },
-   {
-      "name": "Al Muwayh",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "22.43333000",
-      "longitude": "41.75829000"
-   },
-   {
-      "name": "Ash Shafā",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.07210000",
-      "longitude": "40.31185000"
-   },
-   {
-      "name": "Ghran",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.98027000",
-      "longitude": "39.36521000"
-   },
-   {
-      "name": "Jeddah",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.54238000",
-      "longitude": "39.19797000"
-   },
-   {
-      "name": "Mecca",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.42664000",
-      "longitude": "39.82563000"
-   },
-   {
-      "name": "Rābigh",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "22.79856000",
-      "longitude": "39.03493000"
-   },
-   {
-      "name": "Ta'if",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.27028000",
-      "longitude": "40.41583000"
-   },
-   {
-      "name": "Turabah",
-      "countryCode": "SA",
-      "stateCode": "02",
-      "latitude": "21.21406000",
-      "longitude": "41.63310000"
-   },
-   {
       "name": "Abha",
       "countryCode": "SA",
       "stateCode": "02",
@@ -217,6 +147,13 @@
       "longitude": "39.31670000"
    },
    {
+      "name": "Al Hadā",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.36753000",
+      "longitude": "40.28694000"
+   },
+   {
       "name": "Al Halaqah",
       "countryCode": "SA",
       "stateCode": "02",
@@ -278,6 +215,13 @@
       "stateCode": "02",
       "latitude": "21.56670000",
       "longitude": "39.95000000"
+   },
+   {
+      "name": "Al Jumūm",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.61694000",
+      "longitude": "39.69806000"
    },
    {
       "name": "Al Khadra', Makkah",
@@ -448,6 +392,13 @@
       "longitude": "39.38330000"
    },
    {
+      "name": "Al Muwayh",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "22.43333000",
+      "longitude": "41.75829000"
+   },
+   {
       "name": "Al Qadimah",
       "countryCode": "SA",
       "stateCode": "02",
@@ -614,6 +565,13 @@
       "stateCode": "02",
       "latitude": "21.13390000",
       "longitude": "40.51170000"
+   },
+   {
+      "name": "Ash Shafā",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.07210000",
+      "longitude": "40.31185000"
    },
    {
       "name": "Ash Shajwah",
@@ -812,6 +770,13 @@
       "longitude": "39.38830000"
    },
    {
+      "name": "Ghran",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.98027000",
+      "longitude": "39.36521000"
+   },
+   {
       "name": "Hadda'",
       "countryCode": "SA",
       "stateCode": "02",
@@ -859,6 +824,13 @@
       "stateCode": "02",
       "latitude": "21.43330000",
       "longitude": "39.81670000"
+   },
+   {
+      "name": "Jeddah",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.54238000",
+      "longitude": "39.19797000"
    },
    {
       "name": "Julayyil",
@@ -945,6 +917,13 @@
       "longitude": "39.81940000"
    },
    {
+      "name": "Mecca",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.42664000",
+      "longitude": "39.82563000"
+   },
+   {
       "name": "Mifa",
       "countryCode": "SA",
       "stateCode": "02",
@@ -1022,6 +1001,13 @@
       "longitude": "40.35000000"
    },
    {
+      "name": "Rābigh",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "22.79856000",
+      "longitude": "39.03493000"
+   },
+   {
       "name": "Sabuhah",
       "countryCode": "SA",
       "stateCode": "02",
@@ -1064,6 +1050,13 @@
       "longitude": "39.96670000"
    },
    {
+      "name": "Ta'if",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.27028000",
+      "longitude": "40.41583000"
+   },
+   {
       "name": "Tabālah",
       "countryCode": "SA",
       "stateCode": "02",
@@ -1083,6 +1076,13 @@
       "stateCode": "02",
       "latitude": "22.28333333",
       "longitude": "39.10000000"
+   },
+   {
+      "name": "Turabah",
+      "countryCode": "SA",
+      "stateCode": "02",
+      "latitude": "21.21406000",
+      "longitude": "41.63310000"
    },
    {
       "name": "Usfan",

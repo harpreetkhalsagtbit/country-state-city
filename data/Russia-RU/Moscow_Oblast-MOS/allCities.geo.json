@@ -700,6 +700,13 @@
       "longitude": "36.83333000"
    },
    {
+      "name": "Klyazminskoe Reservoir",
+      "countryCode": "RU",
+      "stateCode": "MOS",
+      "latitude": "55.99507000",
+      "longitude": "37.67199000"
+   },
+   {
       "name": "Kolomenskiy Rayon",
       "countryCode": "RU",
       "stateCode": "MOS",
@@ -1503,13 +1510,6 @@
       "stateCode": "MOS",
       "latitude": "55.07523000",
       "longitude": "37.66727000"
-   },
-   {
-      "name": "Klyazminskoe Reservoir",
-      "countryCode": "RU",
-      "stateCode": "MOS",
-      "latitude": "55.99507000",
-      "longitude": "37.67199000"
    },
    {
       "name": "Posëlok Mar’ino",

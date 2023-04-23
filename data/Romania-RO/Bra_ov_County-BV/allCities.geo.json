@@ -770,6 +770,34 @@
       "longitude": "25.63678000"
    },
    {
+      "name": "Săcele",
+      "countryCode": "RO",
+      "stateCode": "BV",
+      "latitude": "45.61674000",
+      "longitude": "25.71101000"
+   },
+   {
+      "name": "Teliu",
+      "countryCode": "RO",
+      "stateCode": "BV",
+      "latitude": "45.69856000",
+      "longitude": "25.85590000"
+   },
+   {
+      "name": "Ticuşu Vechi",
+      "countryCode": "RO",
+      "stateCode": "BV",
+      "latitude": "45.93333000",
+      "longitude": "25.10000000"
+   },
+   {
+      "name": "Tohanu Nou",
+      "countryCode": "RO",
+      "stateCode": "BV",
+      "latitude": "45.55208000",
+      "longitude": "25.38622000"
+   },
+   {
       "name": "Tunelu-Teliu",
       "countryCode": "RO",
       "stateCode": "BV",
@@ -894,33 +922,5 @@
       "stateCode": "BV",
       "latitude": "45.69457000",
       "longitude": "25.24348000"
-   },
-   {
-      "name": "Săcele",
-      "countryCode": "RO",
-      "stateCode": "BV",
-      "latitude": "45.61674000",
-      "longitude": "25.71101000"
-   },
-   {
-      "name": "Teliu",
-      "countryCode": "RO",
-      "stateCode": "BV",
-      "latitude": "45.69856000",
-      "longitude": "25.85590000"
-   },
-   {
-      "name": "Ticuşu Vechi",
-      "countryCode": "RO",
-      "stateCode": "BV",
-      "latitude": "45.93333000",
-      "longitude": "25.10000000"
-   },
-   {
-      "name": "Tohanu Nou",
-      "countryCode": "RO",
-      "stateCode": "BV",
-      "latitude": "45.55208000",
-      "longitude": "25.38622000"
    }
 ]

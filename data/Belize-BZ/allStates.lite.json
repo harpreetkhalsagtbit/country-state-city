@@ -5,8 +5,8 @@
       "countryCode": "BZ"
    },
    {
-      "name": "Stann Creek District",
-      "isoCode": "SC",
+      "name": "Cayo District",
+      "isoCode": "CY",
       "countryCode": "BZ"
    },
    {
@@ -15,18 +15,18 @@
       "countryCode": "BZ"
    },
    {
-      "name": "Toledo District",
-      "isoCode": "TOL",
-      "countryCode": "BZ"
-   },
-   {
       "name": "Orange Walk District",
       "isoCode": "OW",
       "countryCode": "BZ"
    },
    {
-      "name": "Cayo District",
-      "isoCode": "CY",
+      "name": "Stann Creek District",
+      "isoCode": "SC",
+      "countryCode": "BZ"
+   },
+   {
+      "name": "Toledo District",
+      "isoCode": "TOL",
       "countryCode": "BZ"
    }
 ]

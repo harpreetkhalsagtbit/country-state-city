@@ -70,11 +70,25 @@
       "longitude": "75.29087000"
    },
    {
+      "name": "Bagha Purana",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.68809000",
+      "longitude": "75.09838000"
+   },
+   {
       "name": "Bakloh",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "32.47939000",
       "longitude": "75.91874000"
+   },
+   {
+      "name": "Balachor",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.06062000",
+      "longitude": "76.30166000"
    },
    {
       "name": "Banga",
@@ -98,13 +112,6 @@
       "longitude": "75.54870000"
    },
    {
-      "name": "Bhatinda",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.20747000",
-      "longitude": "74.93893000"
-   },
-   {
       "name": "Batala",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -126,18 +133,18 @@
       "longitude": "75.33049000"
    },
    {
+      "name": "Bhatinda",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.20747000",
+      "longitude": "74.93893000"
+   },
+   {
       "name": "Bhawanigarh",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "30.26685000",
       "longitude": "76.03854000"
-   },
-   {
-      "name": "Bhogpur",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.55442000",
-      "longitude": "75.64271000"
    },
    {
       "name": "Bhikhi",
@@ -147,25 +154,25 @@
       "longitude": "75.53500000"
    },
    {
+      "name": "Bhogpur",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.55442000",
+      "longitude": "75.64271000"
+   },
+   {
+      "name": "Bholath",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.54277778",
+      "longitude": "75.50750000"
+   },
+   {
       "name": "Budhlada",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "29.92799000",
       "longitude": "75.56205000"
-   },
-   {
-      "name": "Bagha Purana",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.68809000",
-      "longitude": "75.09838000"
-   },
-   {
-      "name": "Balachor",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.06062000",
-      "longitude": "76.30166000"
    },
    {
       "name": "Chima",
@@ -189,18 +196,18 @@
       "longitude": "75.02787000"
    },
    {
+      "name": "Dera Bassi",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.58720000",
+      "longitude": "76.84280000"
+   },
+   {
       "name": "Dhanaula",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "30.28216000",
       "longitude": "75.57341000"
-   },
-   {
-      "name": "Dhilwan",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.51432000",
-      "longitude": "75.34574000"
    },
    {
       "name": "Dhariwal",
@@ -210,11 +217,32 @@
       "longitude": "75.32386000"
    },
    {
+      "name": "Dhilwan",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.51432000",
+      "longitude": "75.34574000"
+   },
+   {
+      "name": "Dhudi",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.69636000",
+      "longitude": "74.85246000"
+   },
+   {
       "name": "Dhuri",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "30.36846000",
       "longitude": "75.86791000"
+   },
+   {
+      "name": "Dina Nagar",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "32.13664000",
+      "longitude": "75.47291000"
    },
    {
       "name": "Dirba",
@@ -229,13 +257,6 @@
       "stateCode": "PB",
       "latitude": "30.79953000",
       "longitude": "76.02355000"
-   },
-   {
-      "name": "Dina Nagar",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "32.13664000",
-      "longitude": "75.47291000"
    },
    {
       "name": "Faridkot",
@@ -259,6 +280,13 @@
       "longitude": "76.34787000"
    },
    {
+      "name": "Fazilka",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.40207000",
+      "longitude": "74.02836000"
+   },
+   {
       "name": "Firozpur",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -271,13 +299,6 @@
       "stateCode": "PB",
       "latitude": "30.89000000",
       "longitude": "74.56000000"
-   },
-   {
-      "name": "Fazilka",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.40207000",
-      "longitude": "74.02836000"
    },
    {
       "name": "Gardhiwala",
@@ -322,6 +343,13 @@
       "longitude": "74.40407000"
    },
    {
+      "name": "Hajipur",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.97714000",
+      "longitude": "75.75438000"
+   },
+   {
       "name": "Hariana",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -336,11 +364,11 @@
       "longitude": "75.91269000"
    },
    {
-      "name": "Hajipur",
+      "name": "Ishanpur",
       "countryCode": "IN",
       "stateCode": "PB",
-      "latitude": "31.97714000",
-      "longitude": "75.75438000"
+      "latitude": "30.63929000",
+      "longitude": "76.11761000"
    },
    {
       "name": "Jagraon",
@@ -357,18 +385,18 @@
       "longitude": "74.89189000"
    },
    {
-      "name": "Jalandhar",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.41667000",
-      "longitude": "75.61667000"
-   },
-   {
       "name": "Jalalabad",
       "countryCode": "IN",
       "stateCode": "PB",
       "latitude": "30.60622000",
       "longitude": "74.25727000"
+   },
+   {
+      "name": "Jalandhar",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.41667000",
+      "longitude": "75.61667000"
    },
    {
       "name": "Jandiala",
@@ -462,6 +490,13 @@
       "longitude": "75.85379000"
    },
    {
+      "name": "Machhiwara",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.91557000",
+      "longitude": "76.20016000"
+   },
+   {
       "name": "Majitha",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -481,6 +516,20 @@
       "stateCode": "PB",
       "latitude": "30.21121000",
       "longitude": "74.48180000"
+   },
+   {
+      "name": "Malerkotla",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.53090000",
+      "longitude": "75.87949000"
+   },
+   {
+      "name": "Mansa",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "29.98844000",
+      "longitude": "75.40167000"
    },
    {
       "name": "Maur Mandi",
@@ -518,32 +567,11 @@
       "longitude": "75.61716000"
    },
    {
-      "name": "Sri Muktsar Sahib",
+      "name": "Nabha",
       "countryCode": "IN",
       "stateCode": "PB",
-      "latitude": "30.47426000",
-      "longitude": "74.51660000"
-   },
-   {
-      "name": "Machhiwara",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.91557000",
-      "longitude": "76.20016000"
-   },
-   {
-      "name": "Malerkotla",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.53090000",
-      "longitude": "75.87949000"
-   },
-   {
-      "name": "Mansa",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "29.98844000",
-      "longitude": "75.40167000"
+      "latitude": "30.37577000",
+      "longitude": "76.15292000"
    },
    {
       "name": "Nakodar",
@@ -565,13 +593,6 @@
       "stateCode": "PB",
       "latitude": "31.12450000",
       "longitude": "76.11613000"
-   },
-   {
-      "name": "Nabha",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.37577000",
-      "longitude": "76.15292000"
    },
    {
       "name": "Nurmahal",
@@ -630,13 +651,6 @@
       "longitude": "75.37663000"
    },
    {
-      "name": "Rupnagar",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.04000000",
-      "longitude": "76.52000000"
-   },
-   {
       "name": "Rahon",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -677,6 +691,13 @@
       "stateCode": "PB",
       "latitude": "30.25600000",
       "longitude": "75.24116000"
+   },
+   {
+      "name": "Rupnagar",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "31.04000000",
+      "longitude": "76.52000000"
    },
    {
       "name": "Samrala",
@@ -735,6 +756,13 @@
       "longitude": "76.38421000"
    },
    {
+      "name": "Sri Muktsar Sahib",
+      "countryCode": "IN",
+      "stateCode": "PB",
+      "latitude": "30.47426000",
+      "longitude": "74.51660000"
+   },
+   {
       "name": "Sultanpur Lodhi",
       "countryCode": "IN",
       "stateCode": "PB",
@@ -775,33 +803,5 @@
       "stateCode": "PB",
       "latitude": "30.96853000",
       "longitude": "74.99106000"
-   },
-   {
-      "name": "Bholath",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "31.54277778",
-      "longitude": "75.50750000"
-   },
-   {
-      "name": "Dhudi",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.69636000",
-      "longitude": "74.85246000"
-   },
-   {
-      "name": "Dera Bassi",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.58720000",
-      "longitude": "76.84280000"
-   },
-   {
-      "name": "Ishanpur",
-      "countryCode": "IN",
-      "stateCode": "PB",
-      "latitude": "30.63929000",
-      "longitude": "76.11761000"
    }
 ]

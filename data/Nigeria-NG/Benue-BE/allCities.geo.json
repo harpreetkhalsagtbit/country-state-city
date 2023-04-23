@@ -14,6 +14,13 @@
       "longitude": "7.89303000"
    },
    {
+      "name": "Gboko",
+      "countryCode": "NG",
+      "stateCode": "BE",
+      "latitude": "7.33159530",
+      "longitude": "8.97600680"
+   },
+   {
       "name": "Igbor",
       "countryCode": "NG",
       "stateCode": "BE",
@@ -68,12 +75,5 @@
       "stateCode": "BE",
       "latitude": "7.50671000",
       "longitude": "9.61040000"
-   },
-   {
-      "name": "Gboko",
-      "countryCode": "NG",
-      "stateCode": "BE",
-      "latitude": "7.33159530",
-      "longitude": "8.97600680"
    }
 ]

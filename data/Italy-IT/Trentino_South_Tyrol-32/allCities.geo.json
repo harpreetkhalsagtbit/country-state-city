@@ -1,1265 +1,5 @@
 [
    {
-      "name": "Palù del Fersina",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.12951000",
-      "longitude": "11.35088000"
-   },
-   {
-      "name": "Panchià",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.28648000",
-      "longitude": "11.54061000"
-   },
-   {
-      "name": "Parcines",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.68422000",
-      "longitude": "11.07337000"
-   },
-   {
-      "name": "Pellizzano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.30980000",
-      "longitude": "10.75790000"
-   },
-   {
-      "name": "Pelugo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.08850000",
-      "longitude": "10.72387000"
-   },
-   {
-      "name": "Perca",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.79343000",
-      "longitude": "11.98339000"
-   },
-   {
-      "name": "Pergine Valsugana",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06434000",
-      "longitude": "11.23758000"
-   },
-   {
-      "name": "Piazza",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.87705000",
-      "longitude": "11.15809000"
-   },
-   {
-      "name": "Pietramurata",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.02033000",
-      "longitude": "10.94316000"
-   },
-   {
-      "name": "Pieve Tesino",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06820000",
-      "longitude": "11.61122000"
-   },
-   {
-      "name": "Pieve di Bono",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.94220000",
-      "longitude": "10.64027000"
-   },
-   {
-      "name": "Pieve di Ledro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.88848000",
-      "longitude": "10.73124000"
-   },
-   {
-      "name": "Pineta",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.43994000",
-      "longitude": "11.34727000"
-   },
-   {
-      "name": "Pinzolo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.15976000",
-      "longitude": "10.76376000"
-   },
-   {
-      "name": "Plaus",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.65623000",
-      "longitude": "11.04178000"
-   },
-   {
-      "name": "Pomarolo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.92810000",
-      "longitude": "11.04308000"
-   },
-   {
-      "name": "Ponte Arche",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.03526000",
-      "longitude": "10.87320000"
-   },
-   {
-      "name": "Ponte Gardena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.59712000",
-      "longitude": "11.53088000"
-   },
-   {
-      "name": "Postal",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.60949000",
-      "longitude": "11.19313000"
-   },
-   {
-      "name": "Povo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06698000",
-      "longitude": "11.15503000"
-   },
-   {
-      "name": "Pozza di Fassa",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.42806000",
-      "longitude": "11.68711000"
-   },
-   {
-      "name": "Praso",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.95000000",
-      "longitude": "10.63627000"
-   },
-   {
-      "name": "Prati",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.90003000",
-      "longitude": "11.46507000"
-   },
-   {
-      "name": "Prato Allo Stelvio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.61901000",
-      "longitude": "10.59136000"
-   },
-   {
-      "name": "Predazzo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.31140000",
-      "longitude": "11.59960000"
-   },
-   {
-      "name": "Predoi",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "47.04031000",
-      "longitude": "12.10663000"
-   },
-   {
-      "name": "Preore",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.04663000",
-      "longitude": "10.75969000"
-   },
-   {
-      "name": "Prezzo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.93470000",
-      "longitude": "10.63297000"
-   },
-   {
-      "name": "Proves - Proveis",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.47661000",
-      "longitude": "11.02247000"
-   },
-   {
-      "name": "Provincia autonoma di Trento",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06966000",
-      "longitude": "11.12177000"
-   },
-   {
-      "name": "Rabbi Fonti",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.39886000",
-      "longitude": "10.84951000"
-   },
-   {
-      "name": "Rablà",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.67044000",
-      "longitude": "11.06458000"
-   },
-   {
-      "name": "Racines",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.86667000",
-      "longitude": "11.30000000"
-   },
-   {
-      "name": "Racines - Ratschings",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.88183000",
-      "longitude": "11.37827000"
-   },
-   {
-      "name": "Ragoli",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.05423000",
-      "longitude": "10.77855000"
-   },
-   {
-      "name": "Rasun Anterselva - Rasen-Antholz",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.77853000",
-      "longitude": "12.04729000"
-   },
-   {
-      "name": "Ravina",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.03944000",
-      "longitude": "11.11215000"
-   },
-   {
-      "name": "Renon - Ritten",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.54152000",
-      "longitude": "11.45728000"
-   },
-   {
-      "name": "Revò",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.39226000",
-      "longitude": "11.05808000"
-   },
-   {
-      "name": "Ried",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.92993000",
-      "longitude": "11.52414000"
-   },
-   {
-      "name": "Rifiano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.70287000",
-      "longitude": "11.18057000"
-   },
-   {
-      "name": "Rio di Pusteria",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.79658000",
-      "longitude": "11.66754000"
-   },
-   {
-      "name": "Riscone",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.77685000",
-      "longitude": "11.95149000"
-   },
-   {
-      "name": "Riva del Garda",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.88577000",
-      "longitude": "10.84117000"
-   },
-   {
-      "name": "Rodengo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.80000000",
-      "longitude": "11.70000000"
-   },
-   {
-      "name": "Rodengo - Rodeneck",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.77953000",
-      "longitude": "11.69048000"
-   },
-   {
-      "name": "Romagnano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.01807000",
-      "longitude": "11.10563000"
-   },
-   {
-      "name": "Romallo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.39721000",
-      "longitude": "11.06617000"
-   },
-   {
-      "name": "Romeno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.39452000",
-      "longitude": "11.11920000"
-   },
-   {
-      "name": "Roncegno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.04934000",
-      "longitude": "11.40824000"
-   },
-   {
-      "name": "Ronchi Valsugana",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06841000",
-      "longitude": "11.43519000"
-   },
-   {
-      "name": "Roncone",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.98270000",
-      "longitude": "10.66817000"
-   },
-   {
-      "name": "Ronzo-Chienis",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.88960000",
-      "longitude": "10.95008000"
-   },
-   {
-      "name": "Ronzone",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.42437000",
-      "longitude": "11.15275000"
-   },
-   {
-      "name": "Rovereto",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.89040000",
-      "longitude": "11.04053000"
-   },
-   {
-      "name": "Roverè della Luna",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.25008000",
-      "longitude": "11.17233000"
-   },
-   {
-      "name": "Ruffrè",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.41481000",
-      "longitude": "11.17777000"
-   },
-   {
-      "name": "Rumo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.44141000",
-      "longitude": "11.01857000"
-   },
-   {
-      "name": "Sabbionara",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.74152000",
-      "longitude": "10.95740000"
-   },
-   {
-      "name": "Sagron Mis",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.19471000",
-      "longitude": "11.94320000"
-   },
-   {
-      "name": "Salorno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.24062000",
-      "longitude": "11.21192000"
-   },
-   {
-      "name": "Samone",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.08161000",
-      "longitude": "11.52259000"
-   },
-   {
-      "name": "San Bernardo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.40088000",
-      "longitude": "10.84445000"
-   },
-   {
-      "name": "San Candido",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.73240000",
-      "longitude": "12.27855000"
-   },
-   {
-      "name": "San Felice",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.49429000",
-      "longitude": "11.13022000"
-   },
-   {
-      "name": "San Genesio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.65800000",
-      "longitude": "11.92456000"
-   },
-   {
-      "name": "San Genesio Atesino",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.53460000",
-      "longitude": "11.32971000"
-   },
-   {
-      "name": "San Giacomo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.45624000",
-      "longitude": "11.33365000"
-   },
-   {
-      "name": "San Leonardo in Passiria",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.81282000",
-      "longitude": "11.24577000"
-   },
-   {
-      "name": "San Lorenzo di Sebato",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.78514000",
-      "longitude": "11.90812000"
-   },
-   {
-      "name": "San Lorenzo in Banale",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07660000",
-      "longitude": "10.90847000"
-   },
-   {
-      "name": "San Martino",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.81097000",
-      "longitude": "12.22684000"
-   },
-   {
-      "name": "San Martino in Badia",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.68153000",
-      "longitude": "11.89809000"
-   },
-   {
-      "name": "San Martino in Passiria",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.78392000",
-      "longitude": "11.22727000"
-   },
-   {
-      "name": "San Michele",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.45472000",
-      "longitude": "11.26178000"
-   },
-   {
-      "name": "San Michele All'Adige",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.18967000",
-      "longitude": "11.13212000"
-   },
-   {
-      "name": "San Pancrazio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.58600000",
-      "longitude": "11.08571000"
-   },
-   {
-      "name": "San Paolo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.47207000",
-      "longitude": "11.26021000"
-   },
-   {
-      "name": "San Pietro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.64133000",
-      "longitude": "11.68277000"
-   },
-   {
-      "name": "San Vigilio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.69884000",
-      "longitude": "11.93104000"
-   },
-   {
-      "name": "Sant'Orsola",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.10901000",
-      "longitude": "11.30201000"
-   },
-   {
-      "name": "Sant'Orsola Terme",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.10881000",
-      "longitude": "11.30238000"
-   },
-   {
-      "name": "Santa Cristina Valgardena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.56299000",
-      "longitude": "11.73216000"
-   },
-   {
-      "name": "Santa Valburga",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.55000000",
-      "longitude": "11.00000000"
-   },
-   {
-      "name": "Sanzeno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.36614000",
-      "longitude": "11.07559000"
-   },
-   {
-      "name": "Sarentino",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.64121000",
-      "longitude": "11.35411000"
-   },
-   {
-      "name": "Sarnonico",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.41941000",
-      "longitude": "11.14177000"
-   },
-   {
-      "name": "Scena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.68840000",
-      "longitude": "11.18855000"
-   },
-   {
-      "name": "Scena - Schenna",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.69012000",
-      "longitude": "11.18627000"
-   },
-   {
-      "name": "Sciaves",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.76859000",
-      "longitude": "11.66607000"
-   },
-   {
-      "name": "Scurelle",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06451000",
-      "longitude": "11.50569000"
-   },
-   {
-      "name": "Segonzano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.19021000",
-      "longitude": "11.25988000"
-   },
-   {
-      "name": "Selva",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.55472000",
-      "longitude": "11.76038000"
-   },
-   {
-      "name": "Selva dei Molini",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.89031000",
-      "longitude": "11.85832000"
-   },
-   {
-      "name": "Senale",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.51077000",
-      "longitude": "11.11012000"
-   },
-   {
-      "name": "Senales",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.70602000",
-      "longitude": "10.90846000"
-   },
-   {
-      "name": "Sesto",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.70216000",
-      "longitude": "12.34962000"
-   },
-   {
-      "name": "Sfruz",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.33961000",
-      "longitude": "11.12377000"
-   },
-   {
-      "name": "Silandro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.62831000",
-      "longitude": "10.76809000"
-   },
-   {
-      "name": "Sinigo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.63488000",
-      "longitude": "11.17926000"
-   },
-   {
-      "name": "Siror",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.18784000",
-      "longitude": "11.83116000"
-   },
-   {
-      "name": "Siusi",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.54133000",
-      "longitude": "11.55868000"
-   },
-   {
-      "name": "Sluderno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.66524000",
-      "longitude": "10.58345000"
-   },
-   {
-      "name": "Smarano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.34311000",
-      "longitude": "11.10977000"
-   },
-   {
-      "name": "Soprabolzano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.52899000",
-      "longitude": "11.40408000"
-   },
-   {
-      "name": "Soraga",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.39462000",
-      "longitude": "11.66619000"
-   },
-   {
-      "name": "Sover",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.22171000",
-      "longitude": "11.31568000"
-   },
-   {
-      "name": "Spera",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07031000",
-      "longitude": "11.50899000"
-   },
-   {
-      "name": "Spiazzo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.10360000",
-      "longitude": "10.73937000"
-   },
-   {
-      "name": "Spormaggiore",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.21853000",
-      "longitude": "11.04805000"
-   },
-   {
-      "name": "Sporminore",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.23692000",
-      "longitude": "11.02919000"
-   },
-   {
-      "name": "Stanghe",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.88219000",
-      "longitude": "11.37764000"
-   },
-   {
-      "name": "Stelvio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.59767000",
-      "longitude": "10.54580000"
-   },
-   {
-      "name": "Stenico",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.05124000",
-      "longitude": "10.85562000"
-   },
-   {
-      "name": "Storo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.84925000",
-      "longitude": "10.58022000"
-   },
-   {
-      "name": "Strembo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.12030000",
-      "longitude": "10.75087000"
-   },
-   {
-      "name": "Strigno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06690000",
-      "longitude": "11.52224000"
-   },
-   {
-      "name": "Taio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.32139000",
-      "longitude": "11.06624000"
-   },
-   {
-      "name": "Tassullo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.34298000",
-      "longitude": "11.04539000"
-   },
-   {
-      "name": "Telve",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07011000",
-      "longitude": "11.48022000"
-   },
-   {
-      "name": "Telve di Sopra",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07131000",
-      "longitude": "11.47179000"
-   },
-   {
-      "name": "Tenna",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.01570000",
-      "longitude": "11.26428000"
-   },
-   {
-      "name": "Tenno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.91937000",
-      "longitude": "10.83160000"
-   },
-   {
-      "name": "Terento",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.82992000",
-      "longitude": "11.78288000"
-   },
-   {
-      "name": "Terlago",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.09737000",
-      "longitude": "11.04505000"
-   },
-   {
-      "name": "Terlano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.53216000",
-      "longitude": "11.24689000"
-   },
-   {
-      "name": "Termeno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.34151000",
-      "longitude": "11.24228000"
-   },
-   {
-      "name": "Terragnolo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.87830000",
-      "longitude": "11.15468000"
-   },
-   {
-      "name": "Terres",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.30991000",
-      "longitude": "11.02307000"
-   },
-   {
-      "name": "Terzolas",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.36111000",
-      "longitude": "10.92587000"
-   },
-   {
-      "name": "Tesero",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.29184000",
-      "longitude": "11.50946000"
-   },
-   {
-      "name": "Tesimo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.56542000",
-      "longitude": "11.16937000"
-   },
-   {
-      "name": "Tione di Trento",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.03550000",
-      "longitude": "10.72679000"
-   },
-   {
-      "name": "Tires",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.46817000",
-      "longitude": "11.52704000"
-   },
-   {
-      "name": "Tirolo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.69102000",
-      "longitude": "11.15427000"
-   },
-   {
-      "name": "Tonadico",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.18111000",
-      "longitude": "11.83939000"
-   },
-   {
-      "name": "Torcegno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07431000",
-      "longitude": "11.44979000"
-   },
-   {
-      "name": "Trambileno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.86890000",
-      "longitude": "11.07338000"
-   },
-   {
-      "name": "Transacqua",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.17367000",
-      "longitude": "11.83279000"
-   },
-   {
-      "name": "Trento",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06787000",
-      "longitude": "11.12108000"
-   },
-   {
-      "name": "Tres",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.32179000",
-      "longitude": "11.09654000"
-   },
-   {
-      "name": "Trodena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.32181000",
-      "longitude": "11.34982000"
-   },
-   {
-      "name": "Tubre",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.64403000",
-      "longitude": "10.46328000"
-   },
-   {
-      "name": "Tuenno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.32844000",
-      "longitude": "11.02306000"
-   },
-   {
-      "name": "Ultimo - Ulten",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.54832000",
-      "longitude": "11.00417000"
-   },
-   {
-      "name": "Vadena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.41361000",
-      "longitude": "11.30498000"
-   },
-   {
-      "name": "Valda",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.20721000",
-      "longitude": "11.26488000"
-   },
-   {
-      "name": "Valdaora di Mezzo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.76027000",
-      "longitude": "12.02951000"
-   },
-   {
-      "name": "Valfloriana",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.24971000",
-      "longitude": "11.34308000"
-   },
-   {
-      "name": "Vallarsa",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.78280000",
-      "longitude": "11.11788000"
-   },
-   {
-      "name": "Valle Aurina - Ahrntal",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.99623000",
-      "longitude": "11.97988000"
-   },
-   {
-      "name": "Valle di Casies - Gsies",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.76833000",
-      "longitude": "12.17939000"
-   },
-   {
-      "name": "Vandoies - Vintl",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.81513000",
-      "longitude": "11.72068000"
-   },
-   {
-      "name": "Vandoies di Sotto",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.81600000",
-      "longitude": "11.72183000"
-   },
-   {
-      "name": "Varena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.30671000",
-      "longitude": "11.45828000"
-   },
-   {
-      "name": "Varna",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.73901000",
-      "longitude": "11.63749000"
-   },
-   {
-      "name": "Vattaro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.99388000",
-      "longitude": "11.21792000"
-   },
-   {
-      "name": "Velturno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.66705000",
-      "longitude": "11.59712000"
-   },
-   {
-      "name": "Verano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.60442000",
-      "longitude": "11.22565000"
-   },
-   {
-      "name": "Verano - Voeran",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.60472000",
-      "longitude": "11.22607000"
-   },
-   {
-      "name": "Verla",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.15793000",
-      "longitude": "11.15331000"
-   },
-   {
-      "name": "Vermiglio",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.29691000",
-      "longitude": "10.69136000"
-   },
-   {
-      "name": "Vervò",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.30989000",
-      "longitude": "11.11972000"
-   },
-   {
-      "name": "Vezzano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.07867000",
-      "longitude": "10.99735000"
-   },
-   {
-      "name": "Vignola",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.04436000",
-      "longitude": "11.27738000"
-   },
-   {
-      "name": "Vigo di Fassa",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.41898000",
-      "longitude": "11.67418000"
-   },
-   {
-      "name": "Vigo di Ton",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.26531000",
-      "longitude": "11.08798000"
-   },
-   {
-      "name": "Vigolo Vattaro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.00523000",
-      "longitude": "11.19790000"
-   },
-   {
-      "name": "Villa",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.74591000",
-      "longitude": "11.76243000"
-   },
-   {
-      "name": "Villa Lagarina",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.91843000",
-      "longitude": "11.03303000"
-   },
-   {
-      "name": "Villa Rendena",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.06270000",
-      "longitude": "10.71250000"
-   },
-   {
-      "name": "Villa-Agnedo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.05421000",
-      "longitude": "11.52839000"
-   },
-   {
-      "name": "Villabassa",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.73781000",
-      "longitude": "12.17266000"
-   },
-   {
-      "name": "Villandro",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.63086000",
-      "longitude": "11.53808000"
-   },
-   {
-      "name": "Villandro - Villanders",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.63082000",
-      "longitude": "11.53708000"
-   },
-   {
-      "name": "Vipiteno",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.89313000",
-      "longitude": "11.42961000"
-   },
-   {
-      "name": "Volano",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "45.91718000",
-      "longitude": "11.06351000"
-   },
-   {
-      "name": "Zambana",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.15170000",
-      "longitude": "11.09618000"
-   },
-   {
-      "name": "Ziano di Fiemme",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.28572000",
-      "longitude": "11.56496000"
-   },
-   {
-      "name": "Zuclo",
-      "countryCode": "IT",
-      "stateCode": "32",
-      "latitude": "46.03430000",
-      "longitude": "10.75107000"
-   },
-   {
       "name": "Ala",
       "countryCode": "IT",
       "stateCode": "32",
@@ -2728,5 +1468,1265 @@
       "stateCode": "32",
       "latitude": "46.05982000",
       "longitude": "10.98478000"
+   },
+   {
+      "name": "Palù del Fersina",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.12951000",
+      "longitude": "11.35088000"
+   },
+   {
+      "name": "Panchià",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.28648000",
+      "longitude": "11.54061000"
+   },
+   {
+      "name": "Parcines",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.68422000",
+      "longitude": "11.07337000"
+   },
+   {
+      "name": "Pellizzano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.30980000",
+      "longitude": "10.75790000"
+   },
+   {
+      "name": "Pelugo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.08850000",
+      "longitude": "10.72387000"
+   },
+   {
+      "name": "Perca",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.79343000",
+      "longitude": "11.98339000"
+   },
+   {
+      "name": "Pergine Valsugana",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06434000",
+      "longitude": "11.23758000"
+   },
+   {
+      "name": "Piazza",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.87705000",
+      "longitude": "11.15809000"
+   },
+   {
+      "name": "Pietramurata",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.02033000",
+      "longitude": "10.94316000"
+   },
+   {
+      "name": "Pieve Tesino",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06820000",
+      "longitude": "11.61122000"
+   },
+   {
+      "name": "Pieve di Bono",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.94220000",
+      "longitude": "10.64027000"
+   },
+   {
+      "name": "Pieve di Ledro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.88848000",
+      "longitude": "10.73124000"
+   },
+   {
+      "name": "Pineta",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.43994000",
+      "longitude": "11.34727000"
+   },
+   {
+      "name": "Pinzolo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.15976000",
+      "longitude": "10.76376000"
+   },
+   {
+      "name": "Plaus",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.65623000",
+      "longitude": "11.04178000"
+   },
+   {
+      "name": "Pomarolo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.92810000",
+      "longitude": "11.04308000"
+   },
+   {
+      "name": "Ponte Arche",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.03526000",
+      "longitude": "10.87320000"
+   },
+   {
+      "name": "Ponte Gardena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.59712000",
+      "longitude": "11.53088000"
+   },
+   {
+      "name": "Postal",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.60949000",
+      "longitude": "11.19313000"
+   },
+   {
+      "name": "Povo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06698000",
+      "longitude": "11.15503000"
+   },
+   {
+      "name": "Pozza di Fassa",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.42806000",
+      "longitude": "11.68711000"
+   },
+   {
+      "name": "Praso",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.95000000",
+      "longitude": "10.63627000"
+   },
+   {
+      "name": "Prati",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.90003000",
+      "longitude": "11.46507000"
+   },
+   {
+      "name": "Prato Allo Stelvio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.61901000",
+      "longitude": "10.59136000"
+   },
+   {
+      "name": "Predazzo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.31140000",
+      "longitude": "11.59960000"
+   },
+   {
+      "name": "Predoi",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "47.04031000",
+      "longitude": "12.10663000"
+   },
+   {
+      "name": "Preore",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.04663000",
+      "longitude": "10.75969000"
+   },
+   {
+      "name": "Prezzo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.93470000",
+      "longitude": "10.63297000"
+   },
+   {
+      "name": "Proves - Proveis",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.47661000",
+      "longitude": "11.02247000"
+   },
+   {
+      "name": "Provincia autonoma di Trento",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06966000",
+      "longitude": "11.12177000"
+   },
+   {
+      "name": "Rabbi Fonti",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.39886000",
+      "longitude": "10.84951000"
+   },
+   {
+      "name": "Rablà",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.67044000",
+      "longitude": "11.06458000"
+   },
+   {
+      "name": "Racines",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.86667000",
+      "longitude": "11.30000000"
+   },
+   {
+      "name": "Racines - Ratschings",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.88183000",
+      "longitude": "11.37827000"
+   },
+   {
+      "name": "Ragoli",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.05423000",
+      "longitude": "10.77855000"
+   },
+   {
+      "name": "Rasun Anterselva - Rasen-Antholz",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.77853000",
+      "longitude": "12.04729000"
+   },
+   {
+      "name": "Ravina",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.03944000",
+      "longitude": "11.11215000"
+   },
+   {
+      "name": "Renon - Ritten",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.54152000",
+      "longitude": "11.45728000"
+   },
+   {
+      "name": "Revò",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.39226000",
+      "longitude": "11.05808000"
+   },
+   {
+      "name": "Ried",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.92993000",
+      "longitude": "11.52414000"
+   },
+   {
+      "name": "Rifiano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.70287000",
+      "longitude": "11.18057000"
+   },
+   {
+      "name": "Rio di Pusteria",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.79658000",
+      "longitude": "11.66754000"
+   },
+   {
+      "name": "Riscone",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.77685000",
+      "longitude": "11.95149000"
+   },
+   {
+      "name": "Riva del Garda",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.88577000",
+      "longitude": "10.84117000"
+   },
+   {
+      "name": "Rodengo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.80000000",
+      "longitude": "11.70000000"
+   },
+   {
+      "name": "Rodengo - Rodeneck",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.77953000",
+      "longitude": "11.69048000"
+   },
+   {
+      "name": "Romagnano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.01807000",
+      "longitude": "11.10563000"
+   },
+   {
+      "name": "Romallo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.39721000",
+      "longitude": "11.06617000"
+   },
+   {
+      "name": "Romeno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.39452000",
+      "longitude": "11.11920000"
+   },
+   {
+      "name": "Roncegno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.04934000",
+      "longitude": "11.40824000"
+   },
+   {
+      "name": "Ronchi Valsugana",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06841000",
+      "longitude": "11.43519000"
+   },
+   {
+      "name": "Roncone",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.98270000",
+      "longitude": "10.66817000"
+   },
+   {
+      "name": "Ronzo-Chienis",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.88960000",
+      "longitude": "10.95008000"
+   },
+   {
+      "name": "Ronzone",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.42437000",
+      "longitude": "11.15275000"
+   },
+   {
+      "name": "Rovereto",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.89040000",
+      "longitude": "11.04053000"
+   },
+   {
+      "name": "Roverè della Luna",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.25008000",
+      "longitude": "11.17233000"
+   },
+   {
+      "name": "Ruffrè",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.41481000",
+      "longitude": "11.17777000"
+   },
+   {
+      "name": "Rumo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.44141000",
+      "longitude": "11.01857000"
+   },
+   {
+      "name": "Sabbionara",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.74152000",
+      "longitude": "10.95740000"
+   },
+   {
+      "name": "Sagron Mis",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.19471000",
+      "longitude": "11.94320000"
+   },
+   {
+      "name": "Salorno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.24062000",
+      "longitude": "11.21192000"
+   },
+   {
+      "name": "Samone",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.08161000",
+      "longitude": "11.52259000"
+   },
+   {
+      "name": "San Bernardo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.40088000",
+      "longitude": "10.84445000"
+   },
+   {
+      "name": "San Candido",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.73240000",
+      "longitude": "12.27855000"
+   },
+   {
+      "name": "San Felice",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.49429000",
+      "longitude": "11.13022000"
+   },
+   {
+      "name": "San Genesio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.65800000",
+      "longitude": "11.92456000"
+   },
+   {
+      "name": "San Genesio Atesino",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.53460000",
+      "longitude": "11.32971000"
+   },
+   {
+      "name": "San Giacomo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.45624000",
+      "longitude": "11.33365000"
+   },
+   {
+      "name": "San Leonardo in Passiria",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.81282000",
+      "longitude": "11.24577000"
+   },
+   {
+      "name": "San Lorenzo di Sebato",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.78514000",
+      "longitude": "11.90812000"
+   },
+   {
+      "name": "San Lorenzo in Banale",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07660000",
+      "longitude": "10.90847000"
+   },
+   {
+      "name": "San Martino",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.81097000",
+      "longitude": "12.22684000"
+   },
+   {
+      "name": "San Martino in Badia",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.68153000",
+      "longitude": "11.89809000"
+   },
+   {
+      "name": "San Martino in Passiria",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.78392000",
+      "longitude": "11.22727000"
+   },
+   {
+      "name": "San Michele",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.45472000",
+      "longitude": "11.26178000"
+   },
+   {
+      "name": "San Michele All'Adige",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.18967000",
+      "longitude": "11.13212000"
+   },
+   {
+      "name": "San Pancrazio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.58600000",
+      "longitude": "11.08571000"
+   },
+   {
+      "name": "San Paolo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.47207000",
+      "longitude": "11.26021000"
+   },
+   {
+      "name": "San Pietro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.64133000",
+      "longitude": "11.68277000"
+   },
+   {
+      "name": "San Vigilio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.69884000",
+      "longitude": "11.93104000"
+   },
+   {
+      "name": "Sant'Orsola",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.10901000",
+      "longitude": "11.30201000"
+   },
+   {
+      "name": "Sant'Orsola Terme",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.10881000",
+      "longitude": "11.30238000"
+   },
+   {
+      "name": "Santa Cristina Valgardena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.56299000",
+      "longitude": "11.73216000"
+   },
+   {
+      "name": "Santa Valburga",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.55000000",
+      "longitude": "11.00000000"
+   },
+   {
+      "name": "Sanzeno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.36614000",
+      "longitude": "11.07559000"
+   },
+   {
+      "name": "Sarentino",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.64121000",
+      "longitude": "11.35411000"
+   },
+   {
+      "name": "Sarnonico",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.41941000",
+      "longitude": "11.14177000"
+   },
+   {
+      "name": "Scena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.68840000",
+      "longitude": "11.18855000"
+   },
+   {
+      "name": "Scena - Schenna",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.69012000",
+      "longitude": "11.18627000"
+   },
+   {
+      "name": "Sciaves",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.76859000",
+      "longitude": "11.66607000"
+   },
+   {
+      "name": "Scurelle",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06451000",
+      "longitude": "11.50569000"
+   },
+   {
+      "name": "Segonzano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.19021000",
+      "longitude": "11.25988000"
+   },
+   {
+      "name": "Selva",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.55472000",
+      "longitude": "11.76038000"
+   },
+   {
+      "name": "Selva dei Molini",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.89031000",
+      "longitude": "11.85832000"
+   },
+   {
+      "name": "Senale",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.51077000",
+      "longitude": "11.11012000"
+   },
+   {
+      "name": "Senales",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.70602000",
+      "longitude": "10.90846000"
+   },
+   {
+      "name": "Sesto",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.70216000",
+      "longitude": "12.34962000"
+   },
+   {
+      "name": "Sfruz",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.33961000",
+      "longitude": "11.12377000"
+   },
+   {
+      "name": "Silandro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.62831000",
+      "longitude": "10.76809000"
+   },
+   {
+      "name": "Sinigo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.63488000",
+      "longitude": "11.17926000"
+   },
+   {
+      "name": "Siror",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.18784000",
+      "longitude": "11.83116000"
+   },
+   {
+      "name": "Siusi",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.54133000",
+      "longitude": "11.55868000"
+   },
+   {
+      "name": "Sluderno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.66524000",
+      "longitude": "10.58345000"
+   },
+   {
+      "name": "Smarano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.34311000",
+      "longitude": "11.10977000"
+   },
+   {
+      "name": "Soprabolzano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.52899000",
+      "longitude": "11.40408000"
+   },
+   {
+      "name": "Soraga",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.39462000",
+      "longitude": "11.66619000"
+   },
+   {
+      "name": "Sover",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.22171000",
+      "longitude": "11.31568000"
+   },
+   {
+      "name": "Spera",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07031000",
+      "longitude": "11.50899000"
+   },
+   {
+      "name": "Spiazzo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.10360000",
+      "longitude": "10.73937000"
+   },
+   {
+      "name": "Spormaggiore",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.21853000",
+      "longitude": "11.04805000"
+   },
+   {
+      "name": "Sporminore",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.23692000",
+      "longitude": "11.02919000"
+   },
+   {
+      "name": "Stanghe",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.88219000",
+      "longitude": "11.37764000"
+   },
+   {
+      "name": "Stelvio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.59767000",
+      "longitude": "10.54580000"
+   },
+   {
+      "name": "Stenico",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.05124000",
+      "longitude": "10.85562000"
+   },
+   {
+      "name": "Storo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.84925000",
+      "longitude": "10.58022000"
+   },
+   {
+      "name": "Strembo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.12030000",
+      "longitude": "10.75087000"
+   },
+   {
+      "name": "Strigno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06690000",
+      "longitude": "11.52224000"
+   },
+   {
+      "name": "Taio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.32139000",
+      "longitude": "11.06624000"
+   },
+   {
+      "name": "Tassullo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.34298000",
+      "longitude": "11.04539000"
+   },
+   {
+      "name": "Telve",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07011000",
+      "longitude": "11.48022000"
+   },
+   {
+      "name": "Telve di Sopra",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07131000",
+      "longitude": "11.47179000"
+   },
+   {
+      "name": "Tenna",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.01570000",
+      "longitude": "11.26428000"
+   },
+   {
+      "name": "Tenno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.91937000",
+      "longitude": "10.83160000"
+   },
+   {
+      "name": "Terento",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.82992000",
+      "longitude": "11.78288000"
+   },
+   {
+      "name": "Terlago",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.09737000",
+      "longitude": "11.04505000"
+   },
+   {
+      "name": "Terlano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.53216000",
+      "longitude": "11.24689000"
+   },
+   {
+      "name": "Termeno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.34151000",
+      "longitude": "11.24228000"
+   },
+   {
+      "name": "Terragnolo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.87830000",
+      "longitude": "11.15468000"
+   },
+   {
+      "name": "Terres",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.30991000",
+      "longitude": "11.02307000"
+   },
+   {
+      "name": "Terzolas",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.36111000",
+      "longitude": "10.92587000"
+   },
+   {
+      "name": "Tesero",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.29184000",
+      "longitude": "11.50946000"
+   },
+   {
+      "name": "Tesimo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.56542000",
+      "longitude": "11.16937000"
+   },
+   {
+      "name": "Tione di Trento",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.03550000",
+      "longitude": "10.72679000"
+   },
+   {
+      "name": "Tires",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.46817000",
+      "longitude": "11.52704000"
+   },
+   {
+      "name": "Tirolo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.69102000",
+      "longitude": "11.15427000"
+   },
+   {
+      "name": "Tonadico",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.18111000",
+      "longitude": "11.83939000"
+   },
+   {
+      "name": "Torcegno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07431000",
+      "longitude": "11.44979000"
+   },
+   {
+      "name": "Trambileno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.86890000",
+      "longitude": "11.07338000"
+   },
+   {
+      "name": "Transacqua",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.17367000",
+      "longitude": "11.83279000"
+   },
+   {
+      "name": "Trento",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06787000",
+      "longitude": "11.12108000"
+   },
+   {
+      "name": "Tres",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.32179000",
+      "longitude": "11.09654000"
+   },
+   {
+      "name": "Trodena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.32181000",
+      "longitude": "11.34982000"
+   },
+   {
+      "name": "Tubre",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.64403000",
+      "longitude": "10.46328000"
+   },
+   {
+      "name": "Tuenno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.32844000",
+      "longitude": "11.02306000"
+   },
+   {
+      "name": "Ultimo - Ulten",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.54832000",
+      "longitude": "11.00417000"
+   },
+   {
+      "name": "Vadena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.41361000",
+      "longitude": "11.30498000"
+   },
+   {
+      "name": "Valda",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.20721000",
+      "longitude": "11.26488000"
+   },
+   {
+      "name": "Valdaora di Mezzo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.76027000",
+      "longitude": "12.02951000"
+   },
+   {
+      "name": "Valfloriana",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.24971000",
+      "longitude": "11.34308000"
+   },
+   {
+      "name": "Vallarsa",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.78280000",
+      "longitude": "11.11788000"
+   },
+   {
+      "name": "Valle Aurina - Ahrntal",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.99623000",
+      "longitude": "11.97988000"
+   },
+   {
+      "name": "Valle di Casies - Gsies",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.76833000",
+      "longitude": "12.17939000"
+   },
+   {
+      "name": "Vandoies - Vintl",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.81513000",
+      "longitude": "11.72068000"
+   },
+   {
+      "name": "Vandoies di Sotto",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.81600000",
+      "longitude": "11.72183000"
+   },
+   {
+      "name": "Varena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.30671000",
+      "longitude": "11.45828000"
+   },
+   {
+      "name": "Varna",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.73901000",
+      "longitude": "11.63749000"
+   },
+   {
+      "name": "Vattaro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.99388000",
+      "longitude": "11.21792000"
+   },
+   {
+      "name": "Velturno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.66705000",
+      "longitude": "11.59712000"
+   },
+   {
+      "name": "Verano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.60442000",
+      "longitude": "11.22565000"
+   },
+   {
+      "name": "Verano - Voeran",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.60472000",
+      "longitude": "11.22607000"
+   },
+   {
+      "name": "Verla",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.15793000",
+      "longitude": "11.15331000"
+   },
+   {
+      "name": "Vermiglio",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.29691000",
+      "longitude": "10.69136000"
+   },
+   {
+      "name": "Vervò",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.30989000",
+      "longitude": "11.11972000"
+   },
+   {
+      "name": "Vezzano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.07867000",
+      "longitude": "10.99735000"
+   },
+   {
+      "name": "Vignola",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.04436000",
+      "longitude": "11.27738000"
+   },
+   {
+      "name": "Vigo di Fassa",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.41898000",
+      "longitude": "11.67418000"
+   },
+   {
+      "name": "Vigo di Ton",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.26531000",
+      "longitude": "11.08798000"
+   },
+   {
+      "name": "Vigolo Vattaro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.00523000",
+      "longitude": "11.19790000"
+   },
+   {
+      "name": "Villa",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.74591000",
+      "longitude": "11.76243000"
+   },
+   {
+      "name": "Villa Lagarina",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.91843000",
+      "longitude": "11.03303000"
+   },
+   {
+      "name": "Villa Rendena",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.06270000",
+      "longitude": "10.71250000"
+   },
+   {
+      "name": "Villa-Agnedo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.05421000",
+      "longitude": "11.52839000"
+   },
+   {
+      "name": "Villabassa",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.73781000",
+      "longitude": "12.17266000"
+   },
+   {
+      "name": "Villandro",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.63086000",
+      "longitude": "11.53808000"
+   },
+   {
+      "name": "Villandro - Villanders",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.63082000",
+      "longitude": "11.53708000"
+   },
+   {
+      "name": "Vipiteno",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.89313000",
+      "longitude": "11.42961000"
+   },
+   {
+      "name": "Volano",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "45.91718000",
+      "longitude": "11.06351000"
+   },
+   {
+      "name": "Zambana",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.15170000",
+      "longitude": "11.09618000"
+   },
+   {
+      "name": "Ziano di Fiemme",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.28572000",
+      "longitude": "11.56496000"
+   },
+   {
+      "name": "Zuclo",
+      "countryCode": "IT",
+      "stateCode": "32",
+      "latitude": "46.03430000",
+      "longitude": "10.75107000"
    }
 ]

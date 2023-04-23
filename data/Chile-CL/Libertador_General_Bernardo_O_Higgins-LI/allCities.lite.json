@@ -5,36 +5,6 @@
       "stateCode": "LI"
    },
    {
-      "name": "Graneros",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
-      "name": "Machalí",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
-      "name": "Rancagua",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
-      "name": "Rengo",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
-      "name": "San Vicente",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
-      "name": "Santa Cruz",
-      "countryCode": "CL",
-      "stateCode": "LI"
-   },
-   {
       "name": "Chépica",
       "countryCode": "CL",
       "stateCode": "LI"
@@ -60,6 +30,11 @@
       "stateCode": "LI"
    },
    {
+      "name": "Graneros",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
       "name": "La Estrella",
       "countryCode": "CL",
       "stateCode": "LI"
@@ -76,6 +51,11 @@
    },
    {
       "name": "Lolol",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
+      "name": "Machalí",
       "countryCode": "CL",
       "stateCode": "LI"
    },
@@ -155,12 +135,32 @@
       "stateCode": "LI"
    },
    {
+      "name": "Rancagua",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
+      "name": "Rengo",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
       "name": "Requínoa",
       "countryCode": "CL",
       "stateCode": "LI"
    },
    {
       "name": "San Fernando",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
+      "name": "San Vicente",
+      "countryCode": "CL",
+      "stateCode": "LI"
+   },
+   {
+      "name": "Santa Cruz",
       "countryCode": "CL",
       "stateCode": "LI"
    }

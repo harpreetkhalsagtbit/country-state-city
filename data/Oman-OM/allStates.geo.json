@@ -1,14 +1,7 @@
 [
    {
-      "name": "Ad Dhahirah Governorate",
-      "isoCode": "ZA",
-      "countryCode": "OM",
-      "latitude": "23.21616740",
-      "longitude": "56.49074440"
-   },
-   {
-      "name": "Al Batinah North Governorate",
-      "isoCode": "BS",
+      "name": "Al Batinah Region",
+      "isoCode": "BA",
       "countryCode": "OM",
       "latitude": "24.34198460",
       "longitude": "56.72989040"
@@ -21,18 +14,32 @@
       "longitude": "57.42397960"
    },
    {
-      "name": "Al Batinah Region",
-      "isoCode": "BA",
+      "name": "Al Batinah North Governorate",
+      "isoCode": "BS",
       "countryCode": "OM",
       "latitude": "24.34198460",
       "longitude": "56.72989040"
    },
    {
-      "name": "Ash Sharqiyah Region",
-      "isoCode": "SH",
+      "name": "Al Buraimi Governorate",
+      "isoCode": "BU",
       "countryCode": "OM",
-      "latitude": "22.71411960",
-      "longitude": "58.53080640"
+      "latitude": "24.16714130",
+      "longitude": "56.11422530"
+   },
+   {
+      "name": "Ad Dakhiliyah Governorate",
+      "isoCode": "DA",
+      "countryCode": "OM",
+      "latitude": "22.85887580",
+      "longitude": "57.53943560"
+   },
+   {
+      "name": "Muscat Governorate",
+      "isoCode": "MA",
+      "countryCode": "OM",
+      "latitude": "23.58803070",
+      "longitude": "58.38287170"
    },
    {
       "name": "Musandam Governorate",
@@ -42,8 +49,8 @@
       "longitude": "56.24609490"
    },
    {
-      "name": "Ash Sharqiyah North Governorate",
-      "isoCode": "SS",
+      "name": "Ash Sharqiyah Region",
+      "isoCode": "SH",
       "countryCode": "OM",
       "latitude": "22.71411960",
       "longitude": "58.53080640"
@@ -56,11 +63,11 @@
       "longitude": "59.32519220"
    },
    {
-      "name": "Muscat Governorate",
-      "isoCode": "MA",
+      "name": "Ash Sharqiyah North Governorate",
+      "isoCode": "SS",
       "countryCode": "OM",
-      "latitude": "23.58803070",
-      "longitude": "58.38287170"
+      "latitude": "22.71411960",
+      "longitude": "58.53080640"
    },
    {
       "name": "Al Wusta Governorate",
@@ -70,24 +77,17 @@
       "longitude": "56.27568460"
    },
    {
+      "name": "Ad Dhahirah Governorate",
+      "isoCode": "ZA",
+      "countryCode": "OM",
+      "latitude": "23.21616740",
+      "longitude": "56.49074440"
+   },
+   {
       "name": "Dhofar Governorate",
       "isoCode": "ZU",
       "countryCode": "OM",
       "latitude": "17.03221210",
       "longitude": "54.14252140"
-   },
-   {
-      "name": "Ad Dakhiliyah Governorate",
-      "isoCode": "DA",
-      "countryCode": "OM",
-      "latitude": "22.85887580",
-      "longitude": "57.53943560"
-   },
-   {
-      "name": "Al Buraimi Governorate",
-      "isoCode": "BU",
-      "countryCode": "OM",
-      "latitude": "24.16714130",
-      "longitude": "56.11422530"
    }
 ]

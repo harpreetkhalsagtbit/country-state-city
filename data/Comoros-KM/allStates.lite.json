@@ -1,10 +1,5 @@
 [
    {
-      "name": "Mohéli",
-      "isoCode": "M",
-      "countryCode": "KM"
-   },
-   {
       "name": "Anjouan",
       "isoCode": "A",
       "countryCode": "KM"
@@ -12,6 +7,11 @@
    {
       "name": "Grande Comore",
       "isoCode": "G",
+      "countryCode": "KM"
+   },
+   {
+      "name": "Mohéli",
+      "isoCode": "M",
       "countryCode": "KM"
    }
 ]

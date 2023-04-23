@@ -14,17 +14,17 @@
       "longitude": "-69.86666667"
    },
    {
-      "name": "Putre",
-      "countryCode": "CL",
-      "stateCode": "AP",
-      "latitude": "-18.19640000",
-      "longitude": "-69.55920000"
-   },
-   {
       "name": "General Lagos",
       "countryCode": "CL",
       "stateCode": "AP",
       "latitude": "-17.56666667",
       "longitude": "-69.50000000"
+   },
+   {
+      "name": "Putre",
+      "countryCode": "CL",
+      "stateCode": "AP",
+      "latitude": "-18.19640000",
+      "longitude": "-69.55920000"
    }
 ]

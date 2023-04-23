@@ -1,27 +1,12 @@
 [
    {
-      "name": "Río Muni",
-      "isoCode": "C",
+      "name": "Annobón Province",
+      "isoCode": "AN",
       "countryCode": "GQ"
    },
    {
-      "name": "Kié-Ntem Province",
-      "isoCode": "KN",
-      "countryCode": "GQ"
-   },
-   {
-      "name": "Wele-Nzas Province",
-      "isoCode": "WN",
-      "countryCode": "GQ"
-   },
-   {
-      "name": "Litoral Province",
-      "isoCode": "LI",
-      "countryCode": "GQ"
-   },
-   {
-      "name": "Insular Region",
-      "isoCode": "I",
+      "name": "Bioko Norte Province",
+      "isoCode": "BN",
       "countryCode": "GQ"
    },
    {
@@ -30,8 +15,8 @@
       "countryCode": "GQ"
    },
    {
-      "name": "Annobón Province",
-      "isoCode": "AN",
+      "name": "Río Muni",
+      "isoCode": "C",
       "countryCode": "GQ"
    },
    {
@@ -40,8 +25,23 @@
       "countryCode": "GQ"
    },
    {
-      "name": "Bioko Norte Province",
-      "isoCode": "BN",
+      "name": "Insular Region",
+      "isoCode": "I",
+      "countryCode": "GQ"
+   },
+   {
+      "name": "Kié-Ntem Province",
+      "isoCode": "KN",
+      "countryCode": "GQ"
+   },
+   {
+      "name": "Litoral Province",
+      "isoCode": "LI",
+      "countryCode": "GQ"
+   },
+   {
+      "name": "Wele-Nzas Province",
+      "isoCode": "WN",
       "countryCode": "GQ"
    }
 ]

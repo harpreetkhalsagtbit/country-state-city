@@ -1,12 +1,7 @@
 [
    {
-      "name": "Madre de Dios",
-      "isoCode": "MDD",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Huancavelica",
-      "isoCode": "HUV",
+      "name": "Amazonas",
+      "isoCode": "AMA",
       "countryCode": "PE"
    },
    {
@@ -15,53 +10,13 @@
       "countryCode": "PE"
    },
    {
+      "name": "Apurímac",
+      "isoCode": "APU",
+      "countryCode": "PE"
+   },
+   {
       "name": "Arequipa",
       "isoCode": "ARE",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Puno",
-      "isoCode": "PUN",
-      "countryCode": "PE"
-   },
-   {
-      "name": "La Libertad",
-      "isoCode": "LAL",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Ucayali",
-      "isoCode": "UCA",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Amazonas",
-      "isoCode": "AMA",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Pasco",
-      "isoCode": "PAS",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Huanuco",
-      "isoCode": "HUC",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Cajamarca",
-      "isoCode": "CAJ",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Tumbes",
-      "isoCode": "TUM",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Cusco",
-      "isoCode": "CUS",
       "countryCode": "PE"
    },
    {
@@ -70,43 +25,8 @@
       "countryCode": "PE"
    },
    {
-      "name": "Junín",
-      "isoCode": "JUN",
-      "countryCode": "PE"
-   },
-   {
-      "name": "San Martín",
-      "isoCode": "SAM",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Lima",
-      "isoCode": "LIM",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Tacna",
-      "isoCode": "TAC",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Piura",
-      "isoCode": "PIU",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Moquegua",
-      "isoCode": "MOQ",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Apurímac",
-      "isoCode": "APU",
-      "countryCode": "PE"
-   },
-   {
-      "name": "Ica",
-      "isoCode": "ICA",
+      "name": "Cajamarca",
+      "isoCode": "CAJ",
       "countryCode": "PE"
    },
    {
@@ -115,13 +35,93 @@
       "countryCode": "PE"
    },
    {
+      "name": "Cusco",
+      "isoCode": "CUS",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Huanuco",
+      "isoCode": "HUC",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Huancavelica",
+      "isoCode": "HUV",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Ica",
+      "isoCode": "ICA",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Junín",
+      "isoCode": "JUN",
+      "countryCode": "PE"
+   },
+   {
+      "name": "La Libertad",
+      "isoCode": "LAL",
+      "countryCode": "PE"
+   },
+   {
       "name": "Lambayeque",
       "isoCode": "LAM",
       "countryCode": "PE"
    },
    {
+      "name": "Lima",
+      "isoCode": "LIM",
+      "countryCode": "PE"
+   },
+   {
       "name": "Loreto",
       "isoCode": "LOR",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Madre de Dios",
+      "isoCode": "MDD",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Moquegua",
+      "isoCode": "MOQ",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Pasco",
+      "isoCode": "PAS",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Piura",
+      "isoCode": "PIU",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Puno",
+      "isoCode": "PUN",
+      "countryCode": "PE"
+   },
+   {
+      "name": "San Martín",
+      "isoCode": "SAM",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Tacna",
+      "isoCode": "TAC",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Tumbes",
+      "isoCode": "TUM",
+      "countryCode": "PE"
+   },
+   {
+      "name": "Ucayali",
+      "isoCode": "UCA",
       "countryCode": "PE"
    }
 ]

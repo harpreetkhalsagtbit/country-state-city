@@ -14,6 +14,13 @@
       "longitude": "-99.15766000"
    },
    {
+      "name": "Ciudad de México",
+      "countryCode": "MX",
+      "stateCode": "CDMX",
+      "latitude": "19.42847000",
+      "longitude": "-99.12766000"
+   },
+   {
       "name": "Col. Bosques de las Lomas",
       "countryCode": "MX",
       "stateCode": "CDMX",
@@ -96,13 +103,6 @@
       "stateCode": "CDMX",
       "latitude": "19.33212000",
       "longitude": "-99.21118000"
-   },
-   {
-      "name": "Ciudad de México",
-      "countryCode": "MX",
-      "stateCode": "CDMX",
-      "latitude": "19.42847000",
-      "longitude": "-99.12766000"
    },
    {
       "name": "Miguel Hidalgo",

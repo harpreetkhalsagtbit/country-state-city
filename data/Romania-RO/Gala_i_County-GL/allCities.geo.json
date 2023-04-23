@@ -959,6 +959,27 @@
       "longitude": "27.82678000"
    },
    {
+      "name": "Tecuci",
+      "countryCode": "RO",
+      "stateCode": "GL",
+      "latitude": "45.84973000",
+      "longitude": "27.43441000"
+   },
+   {
+      "name": "Toflea",
+      "countryCode": "RO",
+      "stateCode": "GL",
+      "latitude": "46.06372000",
+      "longitude": "27.33411000"
+   },
+   {
+      "name": "Tudor Vladimirescu",
+      "countryCode": "RO",
+      "stateCode": "GL",
+      "latitude": "45.56667000",
+      "longitude": "27.65000000"
+   },
+   {
       "name": "Tuluceşti",
       "countryCode": "RO",
       "stateCode": "GL",
@@ -1055,26 +1076,5 @@
       "stateCode": "GL",
       "latitude": "45.61285000",
       "longitude": "28.05757000"
-   },
-   {
-      "name": "Tecuci",
-      "countryCode": "RO",
-      "stateCode": "GL",
-      "latitude": "45.84973000",
-      "longitude": "27.43441000"
-   },
-   {
-      "name": "Toflea",
-      "countryCode": "RO",
-      "stateCode": "GL",
-      "latitude": "46.06372000",
-      "longitude": "27.33411000"
-   },
-   {
-      "name": "Tudor Vladimirescu",
-      "countryCode": "RO",
-      "stateCode": "GL",
-      "latitude": "45.56667000",
-      "longitude": "27.65000000"
    }
 ]

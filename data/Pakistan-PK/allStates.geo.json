@@ -1,10 +1,10 @@
 [
    {
-      "name": "Islamabad Capital Territory",
-      "isoCode": "IS",
+      "name": "Balochistan",
+      "isoCode": "BA",
       "countryCode": "PK",
-      "latitude": "33.72049970",
-      "longitude": "73.04052770"
+      "latitude": "28.49073320",
+      "longitude": "65.09577920"
    },
    {
       "name": "Gilgit-Baltistan",
@@ -14,11 +14,11 @@
       "longitude": "74.98318080"
    },
    {
-      "name": "Khyber Pakhtunkhwa",
-      "isoCode": "KP",
+      "name": "Islamabad Capital Territory",
+      "isoCode": "IS",
       "countryCode": "PK",
-      "latitude": "34.95262050",
-      "longitude": "72.33111300"
+      "latitude": "33.72049970",
+      "longitude": "73.04052770"
    },
    {
       "name": "Azad Kashmir",
@@ -28,18 +28,18 @@
       "longitude": "73.78103340"
    },
    {
-      "name": "Federally Administered Tribal Areas",
-      "isoCode": "TA",
+      "name": "Khyber Pakhtunkhwa",
+      "isoCode": "KP",
       "countryCode": "PK",
-      "latitude": "32.66747600",
-      "longitude": "69.85974060"
+      "latitude": "34.95262050",
+      "longitude": "72.33111300"
    },
    {
-      "name": "Balochistan",
-      "isoCode": "BA",
+      "name": "Punjab",
+      "isoCode": "PB",
       "countryCode": "PK",
-      "latitude": "28.49073320",
-      "longitude": "65.09577920"
+      "latitude": "31.14713050",
+      "longitude": "75.34121790"
    },
    {
       "name": "Sindh",
@@ -49,10 +49,10 @@
       "longitude": "68.52471490"
    },
    {
-      "name": "Punjab",
-      "isoCode": "PB",
+      "name": "Federally Administered Tribal Areas",
+      "isoCode": "TA",
       "countryCode": "PK",
-      "latitude": "31.14713050",
-      "longitude": "75.34121790"
+      "latitude": "32.66747600",
+      "longitude": "69.85974060"
    }
 ]

@@ -1,22 +1,12 @@
 [
    {
-      "name": "Aiga-i-le-Tai",
-      "isoCode": "AL",
-      "countryCode": "WS"
-   },
-   {
-      "name": "Satupa'itea",
-      "isoCode": "SA",
-      "countryCode": "WS"
-   },
-   {
       "name": "A'ana",
       "isoCode": "AA",
       "countryCode": "WS"
    },
    {
-      "name": "Fa'asaleleaga",
-      "isoCode": "FA",
+      "name": "Aiga-i-le-Tai",
+      "isoCode": "AL",
       "countryCode": "WS"
    },
    {
@@ -25,18 +15,8 @@
       "countryCode": "WS"
    },
    {
-      "name": "Vaisigano",
-      "isoCode": "VS",
-      "countryCode": "WS"
-   },
-   {
-      "name": "Palauli",
-      "isoCode": "PA",
-      "countryCode": "WS"
-   },
-   {
-      "name": "Va'a-o-Fonoti",
-      "isoCode": "VF",
+      "name": "Fa'asaleleaga",
+      "isoCode": "FA",
       "countryCode": "WS"
    },
    {
@@ -45,13 +25,33 @@
       "countryCode": "WS"
    },
    {
+      "name": "Gaga'ifomauga",
+      "isoCode": "GI",
+      "countryCode": "WS"
+   },
+   {
+      "name": "Palauli",
+      "isoCode": "PA",
+      "countryCode": "WS"
+   },
+   {
+      "name": "Satupa'itea",
+      "isoCode": "SA",
+      "countryCode": "WS"
+   },
+   {
       "name": "Tuamasaga",
       "isoCode": "TU",
       "countryCode": "WS"
    },
    {
-      "name": "Gaga'ifomauga",
-      "isoCode": "GI",
+      "name": "Va'a-o-Fonoti",
+      "isoCode": "VF",
+      "countryCode": "WS"
+   },
+   {
+      "name": "Vaisigano",
+      "isoCode": "VS",
       "countryCode": "WS"
    }
 ]

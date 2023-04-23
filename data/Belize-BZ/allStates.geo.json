@@ -7,11 +7,11 @@
       "longitude": "-88.40160410"
    },
    {
-      "name": "Stann Creek District",
-      "isoCode": "SC",
+      "name": "Cayo District",
+      "isoCode": "CY",
       "countryCode": "BZ",
-      "latitude": "16.81166310",
-      "longitude": "-88.40160410"
+      "latitude": "17.09844450",
+      "longitude": "-88.94138650"
    },
    {
       "name": "Corozal District",
@@ -21,13 +21,6 @@
       "longitude": "-88.24611830"
    },
    {
-      "name": "Toledo District",
-      "isoCode": "TOL",
-      "countryCode": "BZ",
-      "latitude": "16.24919230",
-      "longitude": "-88.86469800"
-   },
-   {
       "name": "Orange Walk District",
       "isoCode": "OW",
       "countryCode": "BZ",
@@ -35,10 +28,17 @@
       "longitude": "-88.86469800"
    },
    {
-      "name": "Cayo District",
-      "isoCode": "CY",
+      "name": "Stann Creek District",
+      "isoCode": "SC",
       "countryCode": "BZ",
-      "latitude": "17.09844450",
-      "longitude": "-88.94138650"
+      "latitude": "16.81166310",
+      "longitude": "-88.40160410"
+   },
+   {
+      "name": "Toledo District",
+      "isoCode": "TOL",
+      "countryCode": "BZ",
+      "latitude": "16.24919230",
+      "longitude": "-88.86469800"
    }
 ]

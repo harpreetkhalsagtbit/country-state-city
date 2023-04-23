@@ -5,6 +5,11 @@
       "stateCode": "HR"
    },
    {
+      "name": "Asandh",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
       "name": "Ateli Mandi",
       "countryCode": "IN",
       "stateCode": "HR"
@@ -25,6 +30,11 @@
       "stateCode": "HR"
    },
    {
+      "name": "Bawal",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
       "name": "Beri Khas",
       "countryCode": "IN",
       "stateCode": "HR"
@@ -36,11 +46,6 @@
    },
    {
       "name": "Bilaspur",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
-      "name": "Bawal",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -90,12 +95,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Fatehabad District",
+      "name": "Fatehabad",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
-      "name": "Fatehabad",
+      "name": "Fatehabad District",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -125,6 +130,11 @@
       "stateCode": "HR"
    },
    {
+      "name": "Hansi",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
       "name": "Hasanpur",
       "countryCode": "IN",
       "stateCode": "HR"
@@ -136,11 +146,6 @@
    },
    {
       "name": "Hodal",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
-      "name": "Hansi",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -160,12 +165,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Jhajjar",
+      "name": "Jakhal",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
-      "name": "Jakhal",
+      "name": "Jhajjar",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -181,6 +186,11 @@
    },
    {
       "name": "Kalanaur",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
+      "name": "Kalanwali",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -210,17 +220,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Kalanwali",
+      "name": "Ladwa",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
       "name": "Loharu",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
-      "name": "Ladwa",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -245,11 +250,6 @@
       "stateCode": "HR"
    },
    {
-      "name": "Narwana",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
       "name": "Narayangarh",
       "countryCode": "IN",
       "stateCode": "HR"
@@ -261,6 +261,11 @@
    },
    {
       "name": "Narnaund",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
+      "name": "Narwana",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -305,12 +310,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Pundri",
+      "name": "Punahana",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
-      "name": "Punahana",
+      "name": "Pundri",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -320,12 +325,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Ratia",
+      "name": "Rania",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
-      "name": "Rewari District",
+      "name": "Ratia",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -335,12 +340,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Rohtak",
+      "name": "Rewari District",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
-      "name": "Rania",
+      "name": "Rohtak",
       "countryCode": "IN",
       "stateCode": "HR"
    },
@@ -380,6 +385,11 @@
       "stateCode": "HR"
    },
    {
+      "name": "Taoru",
+      "countryCode": "IN",
+      "stateCode": "HR"
+   },
+   {
       "name": "Thanesar",
       "countryCode": "IN",
       "stateCode": "HR"
@@ -395,22 +405,12 @@
       "stateCode": "HR"
    },
    {
-      "name": "Taoru",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
       "name": "Uklana",
       "countryCode": "IN",
       "stateCode": "HR"
    },
    {
       "name": "Yamunanagar",
-      "countryCode": "IN",
-      "stateCode": "HR"
-   },
-   {
-      "name": "Asandh",
       "countryCode": "IN",
       "stateCode": "HR"
    }

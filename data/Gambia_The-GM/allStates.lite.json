@@ -5,13 +5,8 @@
       "countryCode": "GM"
    },
    {
-      "name": "West Coast Division",
-      "isoCode": "W",
-      "countryCode": "GM"
-   },
-   {
-      "name": "Upper River Division",
-      "isoCode": "U",
+      "name": "Lower River Division",
+      "isoCode": "L",
       "countryCode": "GM"
    },
    {
@@ -20,13 +15,18 @@
       "countryCode": "GM"
    },
    {
-      "name": "Lower River Division",
-      "isoCode": "L",
+      "name": "North Bank Division",
+      "isoCode": "N",
       "countryCode": "GM"
    },
    {
-      "name": "North Bank Division",
-      "isoCode": "N",
+      "name": "Upper River Division",
+      "isoCode": "U",
+      "countryCode": "GM"
+   },
+   {
+      "name": "West Coast Division",
+      "isoCode": "W",
       "countryCode": "GM"
    }
 ]

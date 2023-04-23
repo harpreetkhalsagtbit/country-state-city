@@ -1,10 +1,24 @@
 [
    {
+      "name": "Burgenland",
+      "isoCode": "1",
+      "countryCode": "AT",
+      "latitude": "47.15371650",
+      "longitude": "16.26887970"
+   },
+   {
       "name": "Carinthia",
       "isoCode": "2",
       "countryCode": "AT",
       "latitude": "46.72220300",
       "longitude": "14.18058820"
+   },
+   {
+      "name": "Lower Austria",
+      "isoCode": "3",
+      "countryCode": "AT",
+      "latitude": "48.10807700",
+      "longitude": "15.80495580"
    },
    {
       "name": "Upper Austria",
@@ -14,20 +28,6 @@
       "longitude": "13.97236650"
    },
    {
-      "name": "Styria",
-      "isoCode": "6",
-      "countryCode": "AT",
-      "latitude": "47.35934420",
-      "longitude": "14.46998270"
-   },
-   {
-      "name": "Vienna",
-      "isoCode": "9",
-      "countryCode": "AT",
-      "latitude": "48.20817430",
-      "longitude": "16.37381890"
-   },
-   {
       "name": "Salzburg",
       "isoCode": "5",
       "countryCode": "AT",
@@ -35,18 +35,11 @@
       "longitude": "13.05501000"
    },
    {
-      "name": "Burgenland",
-      "isoCode": "1",
+      "name": "Styria",
+      "isoCode": "6",
       "countryCode": "AT",
-      "latitude": "47.15371650",
-      "longitude": "16.26887970"
-   },
-   {
-      "name": "Vorarlberg",
-      "isoCode": "8",
-      "countryCode": "AT",
-      "latitude": "47.24974270",
-      "longitude": "9.97973730"
+      "latitude": "47.35934420",
+      "longitude": "14.46998270"
    },
    {
       "name": "Tyrol",
@@ -56,10 +49,17 @@
       "longitude": "11.60148700"
    },
    {
-      "name": "Lower Austria",
-      "isoCode": "3",
+      "name": "Vorarlberg",
+      "isoCode": "8",
       "countryCode": "AT",
-      "latitude": "48.10807700",
-      "longitude": "15.80495580"
+      "latitude": "47.24974270",
+      "longitude": "9.97973730"
+   },
+   {
+      "name": "Vienna",
+      "isoCode": "9",
+      "countryCode": "AT",
+      "latitude": "48.20817430",
+      "longitude": "16.37381890"
    }
 ]

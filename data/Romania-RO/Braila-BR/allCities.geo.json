@@ -609,6 +609,34 @@
       "longitude": "27.33333000"
    },
    {
+      "name": "Tichileşti",
+      "countryCode": "RO",
+      "stateCode": "BR",
+      "latitude": "45.11667000",
+      "longitude": "27.90000000"
+   },
+   {
+      "name": "Traian",
+      "countryCode": "RO",
+      "stateCode": "BR",
+      "latitude": "45.18333000",
+      "longitude": "27.73333000"
+   },
+   {
+      "name": "Tudor Vladimirescu",
+      "countryCode": "RO",
+      "stateCode": "BR",
+      "latitude": "45.21667000",
+      "longitude": "27.80000000"
+   },
+   {
+      "name": "Tufeşti",
+      "countryCode": "RO",
+      "stateCode": "BR",
+      "latitude": "45.05000000",
+      "longitude": "27.81667000"
+   },
+   {
       "name": "Tătaru",
       "countryCode": "RO",
       "stateCode": "BR",
@@ -691,33 +719,5 @@
       "stateCode": "BR",
       "latitude": "45.21667000",
       "longitude": "27.43333000"
-   },
-   {
-      "name": "Tichileşti",
-      "countryCode": "RO",
-      "stateCode": "BR",
-      "latitude": "45.11667000",
-      "longitude": "27.90000000"
-   },
-   {
-      "name": "Traian",
-      "countryCode": "RO",
-      "stateCode": "BR",
-      "latitude": "45.18333000",
-      "longitude": "27.73333000"
-   },
-   {
-      "name": "Tudor Vladimirescu",
-      "countryCode": "RO",
-      "stateCode": "BR",
-      "latitude": "45.21667000",
-      "longitude": "27.80000000"
-   },
-   {
-      "name": "Tufeşti",
-      "countryCode": "RO",
-      "stateCode": "BR",
-      "latitude": "45.05000000",
-      "longitude": "27.81667000"
    }
 ]

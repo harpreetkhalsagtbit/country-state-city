@@ -1,7 +1,27 @@
 [
    {
+      "name": "Funafuti",
+      "isoCode": "FUN",
+      "countryCode": "TV"
+   },
+   {
       "name": "Niutao Island Council",
       "isoCode": "NIT",
+      "countryCode": "TV"
+   },
+   {
+      "name": "Nukufetau",
+      "isoCode": "NKF",
+      "countryCode": "TV"
+   },
+   {
+      "name": "Nukulaelae",
+      "isoCode": "NKL",
+      "countryCode": "TV"
+   },
+   {
+      "name": "Nanumea",
+      "isoCode": "NMA",
       "countryCode": "TV"
    },
    {
@@ -15,28 +35,8 @@
       "countryCode": "TV"
    },
    {
-      "name": "Nanumea",
-      "isoCode": "NMA",
-      "countryCode": "TV"
-   },
-   {
       "name": "Vaitupu",
       "isoCode": "VAI",
-      "countryCode": "TV"
-   },
-   {
-      "name": "Funafuti",
-      "isoCode": "FUN",
-      "countryCode": "TV"
-   },
-   {
-      "name": "Nukufetau",
-      "isoCode": "NKF",
-      "countryCode": "TV"
-   },
-   {
-      "name": "Nukulaelae",
-      "isoCode": "NKL",
       "countryCode": "TV"
    }
 ]

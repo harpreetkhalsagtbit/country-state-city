@@ -1,40 +1,5 @@
 [
    {
-      "name": "Coquimbo",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "Illapel",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "La Serena",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "Monte Patria",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "Ovalle",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "Salamanca",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
-      "name": "Vicuña",
-      "countryCode": "CL",
-      "stateCode": "CO"
-   },
-   {
       "name": "Andacollo",
       "countryCode": "CL",
       "stateCode": "CO"
@@ -50,12 +15,37 @@
       "stateCode": "CO"
    },
    {
+      "name": "Coquimbo",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
+      "name": "Illapel",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
       "name": "La Higuera",
       "countryCode": "CL",
       "stateCode": "CO"
    },
    {
+      "name": "La Serena",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
       "name": "Los Vilos",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
+      "name": "Monte Patria",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
+      "name": "Ovalle",
       "countryCode": "CL",
       "stateCode": "CO"
    },
@@ -71,6 +61,16 @@
    },
    {
       "name": "Río Hurtado",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
+      "name": "Salamanca",
+      "countryCode": "CL",
+      "stateCode": "CO"
+   },
+   {
+      "name": "Vicuña",
       "countryCode": "CL",
       "stateCode": "CO"
    }

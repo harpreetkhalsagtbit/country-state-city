@@ -1,32 +1,7 @@
 [
    {
-      "name": "Yuen Long District",
-      "isoCode": "NYL",
-      "countryCode": "HK"
-   },
-   {
-      "name": "Tsuen Wan District",
-      "isoCode": "NTW",
-      "countryCode": "HK"
-   },
-   {
-      "name": "Sai Kung District",
-      "isoCode": "NSK",
-      "countryCode": "HK"
-   },
-   {
-      "name": "Islands District",
-      "isoCode": "NIS",
-      "countryCode": "HK"
-   },
-   {
       "name": "Central and Western District",
       "isoCode": "HCW",
-      "countryCode": "HK"
-   },
-   {
-      "name": "Wan Chai",
-      "isoCode": "HWC",
       "countryCode": "HK"
    },
    {
@@ -40,13 +15,8 @@
       "countryCode": "HK"
    },
    {
-      "name": "Yau Tsim Mong",
-      "isoCode": "KYT",
-      "countryCode": "HK"
-   },
-   {
-      "name": "Sham Shui Po",
-      "isoCode": "KSS",
+      "name": "Wan Chai",
+      "isoCode": "HWC",
       "countryCode": "HK"
    },
    {
@@ -55,13 +25,28 @@
       "countryCode": "HK"
    },
    {
+      "name": "Kwun Tong",
+      "isoCode": "KKT",
+      "countryCode": "HK"
+   },
+   {
+      "name": "Sham Shui Po",
+      "isoCode": "KSS",
+      "countryCode": "HK"
+   },
+   {
       "name": "Wong Tai Sin",
       "isoCode": "KWT",
       "countryCode": "HK"
    },
    {
-      "name": "Kwun Tong",
-      "isoCode": "KKT",
+      "name": "Yau Tsim Mong",
+      "isoCode": "KYT",
+      "countryCode": "HK"
+   },
+   {
+      "name": "Islands District",
+      "isoCode": "NIS",
       "countryCode": "HK"
    },
    {
@@ -70,18 +55,33 @@
       "countryCode": "HK"
    },
    {
-      "name": "Tuen Mun",
-      "isoCode": "NTM",
-      "countryCode": "HK"
-   },
-   {
       "name": "North",
       "isoCode": "NNO",
       "countryCode": "HK"
    },
    {
+      "name": "Sai Kung District",
+      "isoCode": "NSK",
+      "countryCode": "HK"
+   },
+   {
       "name": "Sha Tin",
       "isoCode": "NST",
+      "countryCode": "HK"
+   },
+   {
+      "name": "Tuen Mun",
+      "isoCode": "NTM",
+      "countryCode": "HK"
+   },
+   {
+      "name": "Tsuen Wan District",
+      "isoCode": "NTW",
+      "countryCode": "HK"
+   },
+   {
+      "name": "Yuen Long District",
+      "isoCode": "NYL",
       "countryCode": "HK"
    }
 ]

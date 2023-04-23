@@ -1,5 +1,15 @@
 [
    {
+      "name": "Alto Biobío",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Antuco",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
       "name": "Arauco",
       "countryCode": "CL",
       "stateCode": "BI"
@@ -25,6 +35,11 @@
       "stateCode": "BI"
    },
    {
+      "name": "Contulmo",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
       "name": "Coronel",
       "countryCode": "CL",
       "stateCode": "BI"
@@ -35,12 +50,32 @@
       "stateCode": "BI"
    },
    {
+      "name": "Florida",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Hualpén",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Hualqui",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
       "name": "Laja",
       "countryCode": "CL",
       "stateCode": "BI"
    },
    {
       "name": "Lebu",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Los Álamos",
       "countryCode": "CL",
       "stateCode": "BI"
    },
@@ -65,62 +100,12 @@
       "stateCode": "BI"
    },
    {
-      "name": "Penco",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Alto Biobío",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Talcahuano",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Tomé",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Yumbel",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Antuco",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Contulmo",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Florida",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Hualpén",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Hualqui",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
-      "name": "Los Álamos",
-      "countryCode": "CL",
-      "stateCode": "BI"
-   },
-   {
       "name": "Negrete",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Penco",
       "countryCode": "CL",
       "stateCode": "BI"
    },
@@ -155,12 +140,27 @@
       "stateCode": "BI"
    },
    {
+      "name": "Talcahuano",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
       "name": "Tirúa",
       "countryCode": "CL",
       "stateCode": "BI"
    },
    {
+      "name": "Tomé",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
       "name": "Tucapel",
+      "countryCode": "CL",
+      "stateCode": "BI"
+   },
+   {
+      "name": "Yumbel",
       "countryCode": "CL",
       "stateCode": "BI"
    }

@@ -1099,6 +1099,13 @@
       "longitude": "27.40000000"
    },
    {
+      "name": "Tulnici",
+      "countryCode": "RO",
+      "stateCode": "VN",
+      "latitude": "45.91667000",
+      "longitude": "26.66667000"
+   },
+   {
       "name": "Tâmboeşti",
       "countryCode": "RO",
       "stateCode": "VN",
@@ -1230,12 +1237,5 @@
       "stateCode": "VN",
       "latitude": "45.79083000",
       "longitude": "26.87947000"
-   },
-   {
-      "name": "Tulnici",
-      "countryCode": "RO",
-      "stateCode": "VN",
-      "latitude": "45.91667000",
-      "longitude": "26.66667000"
    }
 ]

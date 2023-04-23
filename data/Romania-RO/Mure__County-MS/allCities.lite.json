@@ -1,10 +1,5 @@
 [
    {
-      "name": "Reghin",
-      "countryCode": "RO",
-      "stateCode": "MS"
-   },
-   {
       "name": "Abuș",
       "countryCode": "RO",
       "stateCode": "MS"
@@ -1701,6 +1696,11 @@
    },
    {
       "name": "Recea",
+      "countryCode": "RO",
+      "stateCode": "MS"
+   },
+   {
+      "name": "Reghin",
       "countryCode": "RO",
       "stateCode": "MS"
    },

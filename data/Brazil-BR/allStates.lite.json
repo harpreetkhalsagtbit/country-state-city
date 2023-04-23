@@ -1,52 +1,7 @@
 [
    {
-      "name": "Rio de Janeiro",
-      "isoCode": "RJ",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Minas Gerais",
-      "isoCode": "MG",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Amapá",
-      "isoCode": "AP",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Goiás",
-      "isoCode": "GO",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Rio Grande do Sul",
-      "isoCode": "RS",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Bahia",
-      "isoCode": "BA",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Sergipe",
-      "isoCode": "SE",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Amazonas",
-      "isoCode": "AM",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Paraíba",
-      "isoCode": "PB",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Pernambuco",
-      "isoCode": "PE",
+      "name": "Acre",
+      "isoCode": "AC",
       "countryCode": "BR"
    },
    {
@@ -55,43 +10,18 @@
       "countryCode": "BR"
    },
    {
-      "name": "Piauí",
-      "isoCode": "PI",
+      "name": "Amazonas",
+      "isoCode": "AM",
       "countryCode": "BR"
    },
    {
-      "name": "Pará",
-      "isoCode": "PA",
+      "name": "Amapá",
+      "isoCode": "AP",
       "countryCode": "BR"
    },
    {
-      "name": "Mato Grosso do Sul",
-      "isoCode": "MS",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Mato Grosso",
-      "isoCode": "MT",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Acre",
-      "isoCode": "AC",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Rondônia",
-      "isoCode": "RO",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Santa Catarina",
-      "isoCode": "SC",
-      "countryCode": "BR"
-   },
-   {
-      "name": "Maranhão",
-      "isoCode": "MA",
+      "name": "Bahia",
+      "isoCode": "BA",
       "countryCode": "BR"
    },
    {
@@ -110,18 +40,48 @@
       "countryCode": "BR"
    },
    {
-      "name": "Rio Grande do Norte",
-      "isoCode": "RN",
+      "name": "Goiás",
+      "isoCode": "GO",
       "countryCode": "BR"
    },
    {
-      "name": "Tocantins",
-      "isoCode": "TO",
+      "name": "Maranhão",
+      "isoCode": "MA",
       "countryCode": "BR"
    },
    {
-      "name": "São Paulo",
-      "isoCode": "SP",
+      "name": "Minas Gerais",
+      "isoCode": "MG",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Mato Grosso do Sul",
+      "isoCode": "MS",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Mato Grosso",
+      "isoCode": "MT",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Pará",
+      "isoCode": "PA",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Paraíba",
+      "isoCode": "PB",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Pernambuco",
+      "isoCode": "PE",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Piauí",
+      "isoCode": "PI",
       "countryCode": "BR"
    },
    {
@@ -130,8 +90,48 @@
       "countryCode": "BR"
    },
    {
+      "name": "Rio de Janeiro",
+      "isoCode": "RJ",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Rio Grande do Norte",
+      "isoCode": "RN",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Rondônia",
+      "isoCode": "RO",
+      "countryCode": "BR"
+   },
+   {
       "name": "Roraima",
       "isoCode": "RR",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Rio Grande do Sul",
+      "isoCode": "RS",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Santa Catarina",
+      "isoCode": "SC",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Sergipe",
+      "isoCode": "SE",
+      "countryCode": "BR"
+   },
+   {
+      "name": "São Paulo",
+      "isoCode": "SP",
+      "countryCode": "BR"
+   },
+   {
+      "name": "Tocantins",
+      "isoCode": "TO",
       "countryCode": "BR"
    }
 ]

@@ -1,57 +1,7 @@
 [
    {
-      "name": "Utrecht",
-      "isoCode": "UT",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Gelderland",
-      "isoCode": "GE",
-      "countryCode": "NL"
-   },
-   {
-      "name": "North Holland",
-      "isoCode": "NH",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Drenthe",
-      "isoCode": "DR",
-      "countryCode": "NL"
-   },
-   {
-      "name": "South Holland",
-      "isoCode": "ZH",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Limburg",
-      "isoCode": "LI",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Sint Eustatius",
-      "isoCode": "BQ3",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Groningen",
-      "isoCode": "GR",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Overijssel",
-      "isoCode": "OV",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Flevoland",
-      "isoCode": "FL",
-      "countryCode": "NL"
-   },
-   {
-      "name": "Zeeland",
-      "isoCode": "ZE",
+      "name": "Bonaire",
+      "isoCode": "BQ1",
       "countryCode": "NL"
    },
    {
@@ -60,8 +10,38 @@
       "countryCode": "NL"
    },
    {
+      "name": "Sint Eustatius",
+      "isoCode": "BQ3",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Drenthe",
+      "isoCode": "DR",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Flevoland",
+      "isoCode": "FL",
+      "countryCode": "NL"
+   },
+   {
       "name": "Friesland",
       "isoCode": "FR",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Gelderland",
+      "isoCode": "GE",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Groningen",
+      "isoCode": "GR",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Limburg",
+      "isoCode": "LI",
       "countryCode": "NL"
    },
    {
@@ -70,8 +50,28 @@
       "countryCode": "NL"
    },
    {
-      "name": "Bonaire",
-      "isoCode": "BQ1",
+      "name": "North Holland",
+      "isoCode": "NH",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Overijssel",
+      "isoCode": "OV",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Utrecht",
+      "isoCode": "UT",
+      "countryCode": "NL"
+   },
+   {
+      "name": "Zeeland",
+      "isoCode": "ZE",
+      "countryCode": "NL"
+   },
+   {
+      "name": "South Holland",
+      "isoCode": "ZH",
       "countryCode": "NL"
    }
 ]

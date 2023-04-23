@@ -1,52 +1,7 @@
 [
    {
-      "name": "Gävleborg County",
-      "isoCode": "X",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Dalarna County",
-      "isoCode": "W",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Värmland County",
-      "isoCode": "S",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Östergötland County",
-      "isoCode": "E",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Blekinge",
-      "isoCode": "K",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Norrbotten County",
-      "isoCode": "BD",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Örebro County",
-      "isoCode": "T",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Södermanland County",
-      "isoCode": "D",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Skåne County",
-      "isoCode": "M",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Kronoberg County",
-      "isoCode": "G",
+      "name": "Stockholm County",
+      "isoCode": "AB",
       "countryCode": "SE"
    },
    {
@@ -55,8 +10,8 @@
       "countryCode": "SE"
    },
    {
-      "name": "Kalmar County",
-      "isoCode": "H",
+      "name": "Norrbotten County",
+      "isoCode": "BD",
       "countryCode": "SE"
    },
    {
@@ -65,23 +20,13 @@
       "countryCode": "SE"
    },
    {
-      "name": "Gotland County",
-      "isoCode": "I",
+      "name": "Södermanland County",
+      "isoCode": "D",
       "countryCode": "SE"
    },
    {
-      "name": "Västra Götaland County",
-      "isoCode": "O",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Halland County",
-      "isoCode": "N",
-      "countryCode": "SE"
-   },
-   {
-      "name": "Västmanland County",
-      "isoCode": "U",
+      "name": "Östergötland County",
+      "isoCode": "E",
       "countryCode": "SE"
    },
    {
@@ -90,8 +35,63 @@
       "countryCode": "SE"
    },
    {
-      "name": "Stockholm County",
-      "isoCode": "AB",
+      "name": "Kronoberg County",
+      "isoCode": "G",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Kalmar County",
+      "isoCode": "H",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Gotland County",
+      "isoCode": "I",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Blekinge",
+      "isoCode": "K",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Skåne County",
+      "isoCode": "M",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Halland County",
+      "isoCode": "N",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Västra Götaland County",
+      "isoCode": "O",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Värmland County",
+      "isoCode": "S",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Örebro County",
+      "isoCode": "T",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Västmanland County",
+      "isoCode": "U",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Dalarna County",
+      "isoCode": "W",
+      "countryCode": "SE"
+   },
+   {
+      "name": "Gävleborg County",
+      "isoCode": "X",
       "countryCode": "SE"
    },
    {

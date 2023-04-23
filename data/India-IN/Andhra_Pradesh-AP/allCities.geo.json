@@ -7,6 +7,13 @@
       "longitude": "79.97338000"
    },
    {
+      "name": "Adoni",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "15.62788000",
+      "longitude": "77.27495000"
+   },
+   {
       "name": "Akasahebpet",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -91,6 +98,13 @@
       "longitude": "78.22669000"
    },
    {
+      "name": "Bapatla",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "15.90422000",
+      "longitude": "80.46743000"
+   },
+   {
       "name": "Betamcherla",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -126,13 +140,6 @@
       "longitude": "83.35925000"
    },
    {
-      "name": "Bapatla",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "15.90422000",
-      "longitude": "80.46743000"
-   },
-   {
       "name": "Challapalle",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -161,20 +168,6 @@
       "longitude": "78.83540000"
    },
    {
-      "name": "Chittoor",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "13.41667000",
-      "longitude": "79.00000000"
-   },
-   {
-      "name": "Chodavaram",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "17.82884000",
-      "longitude": "82.93526000"
-   },
-   {
       "name": "Chipurupalle",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -187,6 +180,20 @@
       "stateCode": "AP",
       "latitude": "15.82385000",
       "longitude": "80.35219000"
+   },
+   {
+      "name": "Chittoor",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "13.41667000",
+      "longitude": "79.00000000"
+   },
+   {
+      "name": "Chodavaram",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "17.82884000",
+      "longitude": "82.93526000"
    },
    {
       "name": "Cuddapah",
@@ -336,6 +343,13 @@
       "longitude": "81.05000000"
    },
    {
+      "name": "Gudur",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "14.15093000",
+      "longitude": "79.85210000"
+   },
+   {
       "name": "Guntakal Junction",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -348,13 +362,6 @@
       "stateCode": "AP",
       "latitude": "16.29974000",
       "longitude": "80.45729000"
-   },
-   {
-      "name": "Gudur",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "14.15093000",
-      "longitude": "79.85210000"
    },
    {
       "name": "Hindupur",
@@ -399,11 +406,25 @@
       "longitude": "81.21400000"
    },
    {
+      "name": "Kakinada",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.96036000",
+      "longitude": "82.23809000"
+   },
+   {
       "name": "Kalyandurg",
       "countryCode": "IN",
       "stateCode": "AP",
       "latitude": "14.54519000",
       "longitude": "77.10552000"
+   },
+   {
+      "name": "Kamalapuram",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "14.59830000",
+      "longitude": "78.66948000"
    },
    {
       "name": "Kandukur",
@@ -432,6 +453,13 @@
       "stateCode": "AP",
       "latitude": "16.28584000",
       "longitude": "81.25464000"
+   },
+   {
+      "name": "Kavali",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "14.91630000",
+      "longitude": "79.99449000"
    },
    {
       "name": "Kolanukonda",
@@ -490,25 +518,11 @@
       "longitude": "78.33333000"
    },
    {
-      "name": "Kakinada",
+      "name": "Macherla",
       "countryCode": "IN",
       "stateCode": "AP",
-      "latitude": "16.96036000",
-      "longitude": "82.23809000"
-   },
-   {
-      "name": "Kamalapuram",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "14.59830000",
-      "longitude": "78.66948000"
-   },
-   {
-      "name": "Kavali",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "14.91630000",
-      "longitude": "79.99449000"
+      "latitude": "16.47635000",
+      "longitude": "79.43533000"
    },
    {
       "name": "Machilipatnam",
@@ -523,6 +537,13 @@
       "stateCode": "AP",
       "latitude": "13.55030000",
       "longitude": "78.50288000"
+   },
+   {
+      "name": "Madugula",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "17.91589000",
+      "longitude": "82.81578000"
    },
    {
       "name": "Mandapeta",
@@ -546,20 +567,6 @@
       "longitude": "80.56815000"
    },
    {
-      "name": "Macherla",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.47635000",
-      "longitude": "79.43533000"
-   },
-   {
-      "name": "Madugula",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "17.91589000",
-      "longitude": "82.81578000"
-   },
-   {
       "name": "Markapur",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -572,6 +579,13 @@
       "stateCode": "AP",
       "latitude": "13.32139000",
       "longitude": "79.58557000"
+   },
+   {
+      "name": "Nagireddipalli",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "14.27005000",
+      "longitude": "79.10131000"
    },
    {
       "name": "Nandigama",
@@ -623,11 +637,25 @@
       "longitude": "79.31652000"
    },
    {
+      "name": "Narayanavanam",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "13.42565000",
+      "longitude": "79.58881000"
+   },
+   {
       "name": "Narsipatnam",
       "countryCode": "IN",
       "stateCode": "AP",
       "latitude": "17.66709000",
       "longitude": "82.61245000"
+   },
+   {
+      "name": "Nayudupet",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "13.90742000",
+      "longitude": "79.89465000"
    },
    {
       "name": "Nellore",
@@ -644,27 +672,6 @@
       "longitude": "81.67222000"
    },
    {
-      "name": "Nagireddipalli",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "14.27005000",
-      "longitude": "79.10131000"
-   },
-   {
-      "name": "Narayanavanam",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "13.42565000",
-      "longitude": "79.58881000"
-   },
-   {
-      "name": "Nayudupet",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "13.90742000",
-      "longitude": "79.89465000"
-   },
-   {
       "name": "Nuzvid",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -677,6 +684,34 @@
       "stateCode": "AP",
       "latitude": "15.50357000",
       "longitude": "80.04454000"
+   },
+   {
+      "name": "Pakala",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "13.44903000",
+      "longitude": "79.11493000"
+   },
+   {
+      "name": "Palakollu",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.51670000",
+      "longitude": "81.73000000"
+   },
+   {
+      "name": "Palasa",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "18.77257000",
+      "longitude": "84.41012000"
+   },
+   {
+      "name": "Palkonda",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "18.60374000",
+      "longitude": "83.75568000"
    },
    {
       "name": "Pallevada",
@@ -693,18 +728,18 @@
       "longitude": "78.74725000"
    },
    {
-      "name": "Palasa",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "18.77257000",
-      "longitude": "84.41012000"
-   },
-   {
       "name": "Parlakimidi",
       "countryCode": "IN",
       "stateCode": "AP",
       "latitude": "18.78113000",
       "longitude": "84.08836000"
+   },
+   {
+      "name": "Parvatipuram",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "18.78392000",
+      "longitude": "83.42569000"
    },
    {
       "name": "Pavuluru",
@@ -826,62 +861,6 @@
       "longitude": "79.55314000"
    },
    {
-      "name": "Pakala",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "13.44903000",
-      "longitude": "79.11493000"
-   },
-   {
-      "name": "Palakollu",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.51670000",
-      "longitude": "81.73000000"
-   },
-   {
-      "name": "Palkonda",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "18.60374000",
-      "longitude": "83.75568000"
-   },
-   {
-      "name": "Parvatipuram",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "18.78392000",
-      "longitude": "83.42569000"
-   },
-   {
-      "name": "Ramanayyapeta",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.94516000",
-      "longitude": "82.23850000"
-   },
-   {
-      "name": "Rampachodavaram",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "17.44088000",
-      "longitude": "81.77558000"
-   },
-   {
-      "name": "Renigunta",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "13.65143000",
-      "longitude": "79.51256000"
-   },
-   {
-      "name": "Repalle",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.01840000",
-      "longitude": "80.82958000"
-   },
-   {
       "name": "Rajahmundry",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -896,11 +875,25 @@
       "longitude": "82.02871000"
    },
    {
+      "name": "Ramanayyapeta",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.94516000",
+      "longitude": "82.23850000"
+   },
+   {
       "name": "Ramapuram",
       "countryCode": "IN",
       "stateCode": "AP",
       "latitude": "15.28749000",
       "longitude": "77.86722000"
+   },
+   {
+      "name": "Rampachodavaram",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "17.44088000",
+      "longitude": "81.77558000"
    },
    {
       "name": "Rayachoti",
@@ -917,6 +910,13 @@
       "longitude": "76.85241000"
    },
    {
+      "name": "Razam",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "18.44909000",
+      "longitude": "83.65957000"
+   },
+   {
       "name": "Razampeta",
       "countryCode": "IN",
       "stateCode": "AP",
@@ -931,11 +931,32 @@
       "longitude": "81.83912000"
    },
    {
-      "name": "Razam",
+      "name": "Renigunta",
       "countryCode": "IN",
       "stateCode": "AP",
-      "latitude": "18.44909000",
-      "longitude": "83.65957000"
+      "latitude": "13.65143000",
+      "longitude": "79.51256000"
+   },
+   {
+      "name": "Repalle",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.01840000",
+      "longitude": "80.82958000"
+   },
+   {
+      "name": "Salur",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "18.51716000",
+      "longitude": "83.20548000"
+   },
+   {
+      "name": "Samalkot",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "17.05675000",
+      "longitude": "82.17639000"
    },
    {
       "name": "Sattenapalle",
@@ -973,25 +994,32 @@
       "longitude": "78.86816000"
    },
    {
-      "name": "Salur",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "18.51716000",
-      "longitude": "83.20548000"
-   },
-   {
-      "name": "Samalkot",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "17.05675000",
-      "longitude": "82.17639000"
-   },
-   {
       "name": "Suluru",
       "countryCode": "IN",
       "stateCode": "AP",
       "latitude": "13.70000000",
       "longitude": "80.01667000"
+   },
+   {
+      "name": "Tadepalle",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.48333000",
+      "longitude": "80.60000000"
+   },
+   {
+      "name": "Tadepallegudem",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "16.81467000",
+      "longitude": "81.52717000"
+   },
+   {
+      "name": "Tadpatri",
+      "countryCode": "IN",
+      "stateCode": "AP",
+      "latitude": "14.90832000",
+      "longitude": "78.01031000"
    },
    {
       "name": "Tanuku",
@@ -1027,27 +1055,6 @@
       "stateCode": "AP",
       "latitude": "17.35905000",
       "longitude": "82.54607000"
-   },
-   {
-      "name": "Tadepalle",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.48333000",
-      "longitude": "80.60000000"
-   },
-   {
-      "name": "Tadepallegudem",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "16.81467000",
-      "longitude": "81.52717000"
-   },
-   {
-      "name": "Tadpatri",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "14.90832000",
-      "longitude": "78.01031000"
    },
    {
       "name": "Uravakonda",
@@ -1167,12 +1174,5 @@
       "stateCode": "AP",
       "latitude": "17.09545000",
       "longitude": "82.16565000"
-   },
-   {
-      "name": "Adoni",
-      "countryCode": "IN",
-      "stateCode": "AP",
-      "latitude": "15.62788000",
-      "longitude": "77.27495000"
    }
 ]

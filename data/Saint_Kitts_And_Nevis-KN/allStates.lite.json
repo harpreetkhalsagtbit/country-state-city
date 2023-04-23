@@ -1,27 +1,7 @@
 [
    {
-      "name": "Saint Peter Basseterre Parish",
-      "isoCode": "11",
-      "countryCode": "KN"
-   },
-   {
-      "name": "Nevis",
-      "isoCode": "N",
-      "countryCode": "KN"
-   },
-   {
       "name": "Christ Church Nichola Town Parish",
       "isoCode": "01",
-      "countryCode": "KN"
-   },
-   {
-      "name": "Saint Paul Capisterre Parish",
-      "isoCode": "09",
-      "countryCode": "KN"
-   },
-   {
-      "name": "Saint James Windward Parish",
-      "isoCode": "05",
       "countryCode": "KN"
    },
    {
@@ -35,13 +15,13 @@
       "countryCode": "KN"
    },
    {
-      "name": "Saint Paul Charlestown Parish",
-      "isoCode": "10",
+      "name": "Saint James Windward Parish",
+      "isoCode": "05",
       "countryCode": "KN"
    },
    {
-      "name": "Saint Thomas Lowland Parish",
-      "isoCode": "12",
+      "name": "Saint John Capisterre Parish",
+      "isoCode": "06",
       "countryCode": "KN"
    },
    {
@@ -50,8 +30,28 @@
       "countryCode": "KN"
    },
    {
-      "name": "Saint Kitts",
-      "isoCode": "K",
+      "name": "Saint Mary Cayon Parish",
+      "isoCode": "08",
+      "countryCode": "KN"
+   },
+   {
+      "name": "Saint Paul Capisterre Parish",
+      "isoCode": "09",
+      "countryCode": "KN"
+   },
+   {
+      "name": "Saint Paul Charlestown Parish",
+      "isoCode": "10",
+      "countryCode": "KN"
+   },
+   {
+      "name": "Saint Peter Basseterre Parish",
+      "isoCode": "11",
+      "countryCode": "KN"
+   },
+   {
+      "name": "Saint Thomas Lowland Parish",
+      "isoCode": "12",
       "countryCode": "KN"
    },
    {
@@ -65,13 +65,13 @@
       "countryCode": "KN"
    },
    {
-      "name": "Saint Mary Cayon Parish",
-      "isoCode": "08",
+      "name": "Saint Kitts",
+      "isoCode": "K",
       "countryCode": "KN"
    },
    {
-      "name": "Saint John Capisterre Parish",
-      "isoCode": "06",
+      "name": "Nevis",
+      "isoCode": "N",
       "countryCode": "KN"
    }
 ]

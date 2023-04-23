@@ -1,19 +1,5 @@
 [
    {
-      "name": "Techiman",
-      "countryCode": "GH",
-      "stateCode": "BE",
-      "latitude": "7.58968560",
-      "longitude": "-1.95122140"
-   },
-   {
-      "name": "Techiman North",
-      "countryCode": "GH",
-      "stateCode": "BE",
-      "latitude": "7.70428020",
-      "longitude": "-2.08140570"
-   },
-   {
       "name": "Atebubu-Amantin",
       "countryCode": "GH",
       "stateCode": "BE",
@@ -49,18 +35,18 @@
       "longitude": "-1.79974460"
    },
    {
-      "name": "Pru West",
-      "countryCode": "GH",
-      "stateCode": "BE",
-      "latitude": "8.07359930",
-      "longitude": "-1.29055410"
-   },
-   {
       "name": "Pru East",
       "countryCode": "GH",
       "stateCode": "BE",
       "latitude": "8.22620000",
       "longitude": "-0.65360000"
+   },
+   {
+      "name": "Pru West",
+      "countryCode": "GH",
+      "stateCode": "BE",
+      "latitude": "8.07359930",
+      "longitude": "-1.29055410"
    },
    {
       "name": "Sene East",
@@ -75,5 +61,19 @@
       "stateCode": "BE",
       "latitude": "7.73420000",
       "longitude": "-0.68180000"
+   },
+   {
+      "name": "Techiman",
+      "countryCode": "GH",
+      "stateCode": "BE",
+      "latitude": "7.58968560",
+      "longitude": "-1.95122140"
+   },
+   {
+      "name": "Techiman North",
+      "countryCode": "GH",
+      "stateCode": "BE",
+      "latitude": "7.70428020",
+      "longitude": "-2.08140570"
    }
 ]

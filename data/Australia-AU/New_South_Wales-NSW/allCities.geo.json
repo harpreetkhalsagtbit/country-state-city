@@ -371,6 +371,13 @@
       "longitude": "151.14304000"
    },
    {
+      "name": "Banksmeadow",
+      "countryCode": "AU",
+      "stateCode": "NSW",
+      "latitude": "-33.95603010",
+      "longitude": "151.19736200"
+   },
+   {
       "name": "Bankstown",
       "countryCode": "AU",
       "stateCode": "NSW",
@@ -3808,6 +3815,13 @@
       "longitude": "151.17717000"
    },
    {
+      "name": "Huntingwood",
+      "countryCode": "AU",
+      "stateCode": "NSW",
+      "latitude": "-33.79759320",
+      "longitude": "150.87480900"
+   },
+   {
       "name": "Hurlstone Park",
       "countryCode": "AU",
       "stateCode": "NSW",
@@ -6566,6 +6580,13 @@
       "longitude": "151.27060000"
    },
    {
+      "name": "Rosebery",
+      "countryCode": "AU",
+      "stateCode": "NSW",
+      "latitude": "-33.91855330",
+      "longitude": "151.19612440"
+   },
+   {
       "name": "Rosehill",
       "countryCode": "AU",
       "stateCode": "NSW",
@@ -8351,6 +8372,13 @@
       "longitude": "150.80402000"
    },
    {
+      "name": "Whale Beach",
+      "countryCode": "AU",
+      "stateCode": "NSW",
+      "latitude": "-33.61241180",
+      "longitude": "151.32540650"
+   },
+   {
       "name": "Wheeler Heights",
       "countryCode": "AU",
       "stateCode": "NSW",
@@ -8680,6 +8708,13 @@
       "longitude": "151.01996000"
    },
    {
+      "name": "Yallah",
+      "countryCode": "AU",
+      "stateCode": "NSW",
+      "latitude": "-34.53375780",
+      "longitude": "150.77768450"
+   },
+   {
       "name": "Yamba",
       "countryCode": "AU",
       "stateCode": "NSW",
@@ -8762,40 +8797,5 @@
       "stateCode": "NSW",
       "latitude": "-33.90748000",
       "longitude": "151.20857000"
-   },
-   {
-      "name": "Rosebery",
-      "countryCode": "AU",
-      "stateCode": "NSW",
-      "latitude": "-33.91855330",
-      "longitude": "151.19612440"
-   },
-   {
-      "name": "Yallah",
-      "countryCode": "AU",
-      "stateCode": "NSW",
-      "latitude": "-34.53375780",
-      "longitude": "150.77768450"
-   },
-   {
-      "name": "Banksmeadow",
-      "countryCode": "AU",
-      "stateCode": "NSW",
-      "latitude": "-33.95603010",
-      "longitude": "151.19736200"
-   },
-   {
-      "name": "Whale Beach",
-      "countryCode": "AU",
-      "stateCode": "NSW",
-      "latitude": "-33.61241180",
-      "longitude": "151.32540650"
-   },
-   {
-      "name": "Huntingwood",
-      "countryCode": "AU",
-      "stateCode": "NSW",
-      "latitude": "-33.79759320",
-      "longitude": "150.87480900"
    }
 ]

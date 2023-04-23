@@ -546,6 +546,13 @@
       "longitude": "-70.93005000"
    },
    {
+      "name": "Dartmouth",
+      "countryCode": "US",
+      "stateCode": "MA",
+      "latitude": "41.59419180",
+      "longitude": "-71.11043520"
+   },
+   {
       "name": "Dedham",
       "countryCode": "US",
       "stateCode": "MA",
@@ -2826,12 +2833,5 @@
       "stateCode": "MA",
       "latitude": "41.70205000",
       "longitude": "-70.24947000"
-   },
-   {
-      "name": "Dartmouth",
-      "countryCode": "US",
-      "stateCode": "MA",
-      "latitude": "41.59419180",
-      "longitude": "-71.11043520"
    }
 ]

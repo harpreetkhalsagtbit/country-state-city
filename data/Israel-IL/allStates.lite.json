@@ -1,15 +1,5 @@
 [
    {
-      "name": "Northern District",
-      "isoCode": "Z",
-      "countryCode": "IL"
-   },
-   {
-      "name": "Central District",
-      "isoCode": "M",
-      "countryCode": "IL"
-   },
-   {
       "name": "Southern District",
       "isoCode": "D",
       "countryCode": "IL"
@@ -25,8 +15,18 @@
       "countryCode": "IL"
    },
    {
+      "name": "Central District",
+      "isoCode": "M",
+      "countryCode": "IL"
+   },
+   {
       "name": "Tel Aviv District",
       "isoCode": "TA",
+      "countryCode": "IL"
+   },
+   {
+      "name": "Northern District",
+      "isoCode": "Z",
       "countryCode": "IL"
    }
 ]

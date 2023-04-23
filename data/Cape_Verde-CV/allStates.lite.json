@@ -1,72 +1,7 @@
 [
    {
-      "name": "Ribeira Brava Municipality",
-      "isoCode": "RB",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Tarrafal",
-      "isoCode": "TA",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Ribeira Grande de Santiago",
-      "isoCode": "RS",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Santa Catarina",
-      "isoCode": "CA",
-      "countryCode": "CV"
-   },
-   {
-      "name": "São Domingos",
-      "isoCode": "SD",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Mosteiros",
-      "isoCode": "MO",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Praia",
-      "isoCode": "PR",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Porto Novo",
-      "isoCode": "PN",
-      "countryCode": "CV"
-   },
-   {
-      "name": "São Miguel",
-      "isoCode": "SM",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Maio Municipality",
-      "isoCode": "MA",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Sotavento Islands",
-      "isoCode": "S",
-      "countryCode": "CV"
-   },
-   {
-      "name": "São Lourenço dos Órgãos",
-      "isoCode": "SO",
-      "countryCode": "CV"
-   },
-   {
       "name": "Barlavento Islands",
       "isoCode": "B",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Santa Catarina do Fogo",
-      "isoCode": "CF",
       "countryCode": "CV"
    },
    {
@@ -75,28 +10,53 @@
       "countryCode": "CV"
    },
    {
-      "name": "Paul",
-      "isoCode": "PA",
-      "countryCode": "CV"
-   },
-   {
-      "name": "Sal",
-      "isoCode": "SL",
-      "countryCode": "CV"
-   },
-   {
       "name": "Boa Vista",
       "isoCode": "BV",
       "countryCode": "CV"
    },
    {
-      "name": "São Filipe",
-      "isoCode": "SF",
+      "name": "Santa Catarina",
+      "isoCode": "CA",
       "countryCode": "CV"
    },
    {
-      "name": "São Vicente",
-      "isoCode": "SV",
+      "name": "Santa Catarina do Fogo",
+      "isoCode": "CF",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Santa Cruz",
+      "isoCode": "CR",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Maio Municipality",
+      "isoCode": "MA",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Mosteiros",
+      "isoCode": "MO",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Paul",
+      "isoCode": "PA",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Porto Novo",
+      "isoCode": "PN",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Praia",
+      "isoCode": "PR",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Ribeira Brava Municipality",
+      "isoCode": "RB",
       "countryCode": "CV"
    },
    {
@@ -105,13 +65,53 @@
       "countryCode": "CV"
    },
    {
-      "name": "Tarrafal de São Nicolau",
-      "isoCode": "TS",
+      "name": "Ribeira Grande de Santiago",
+      "isoCode": "RS",
       "countryCode": "CV"
    },
    {
-      "name": "Santa Cruz",
-      "isoCode": "CR",
+      "name": "Sotavento Islands",
+      "isoCode": "S",
+      "countryCode": "CV"
+   },
+   {
+      "name": "São Domingos",
+      "isoCode": "SD",
+      "countryCode": "CV"
+   },
+   {
+      "name": "São Filipe",
+      "isoCode": "SF",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Sal",
+      "isoCode": "SL",
+      "countryCode": "CV"
+   },
+   {
+      "name": "São Miguel",
+      "isoCode": "SM",
+      "countryCode": "CV"
+   },
+   {
+      "name": "São Lourenço dos Órgãos",
+      "isoCode": "SO",
+      "countryCode": "CV"
+   },
+   {
+      "name": "São Vicente",
+      "isoCode": "SV",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Tarrafal",
+      "isoCode": "TA",
+      "countryCode": "CV"
+   },
+   {
+      "name": "Tarrafal de São Nicolau",
+      "isoCode": "TS",
       "countryCode": "CV"
    }
 ]
