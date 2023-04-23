@@ -1386,6 +1386,48 @@
       "longitude": "26.87183000"
    },
    {
+      "name": "Săgeata",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.10000000",
+      "longitude": "26.98333000"
+   },
+   {
+      "name": "Săhăteni",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.03333000",
+      "longitude": "26.51667000"
+   },
+   {
+      "name": "Sălcioara",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.30874000",
+      "longitude": "27.17692000"
+   },
+   {
+      "name": "Săpoca",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.25000000",
+      "longitude": "26.75000000"
+   },
+   {
+      "name": "Săruleşti",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.50000000",
+      "longitude": "26.75000000"
+   },
+   {
+      "name": "Topliceni",
+      "countryCode": "RO",
+      "stateCode": "BZ",
+      "latitude": "45.41667000",
+      "longitude": "27.00000000"
+   },
+   {
       "name": "Tăbărăști",
       "countryCode": "RO",
       "stateCode": "BZ",
@@ -1517,47 +1559,5 @@
       "stateCode": "BZ",
       "latitude": "45.06667000",
       "longitude": "26.86667000"
-   },
-   {
-      "name": "Săgeata",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.10000000",
-      "longitude": "26.98333000"
-   },
-   {
-      "name": "Săhăteni",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.03333000",
-      "longitude": "26.51667000"
-   },
-   {
-      "name": "Sălcioara",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.30874000",
-      "longitude": "27.17692000"
-   },
-   {
-      "name": "Săpoca",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.25000000",
-      "longitude": "26.75000000"
-   },
-   {
-      "name": "Săruleşti",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.50000000",
-      "longitude": "26.75000000"
-   },
-   {
-      "name": "Topliceni",
-      "countryCode": "RO",
-      "stateCode": "BZ",
-      "latitude": "45.41667000",
-      "longitude": "27.00000000"
    }
 ]

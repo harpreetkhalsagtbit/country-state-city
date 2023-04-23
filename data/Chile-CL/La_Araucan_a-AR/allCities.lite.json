@@ -10,67 +10,12 @@
       "stateCode": "AR"
    },
    {
-      "name": "Collipulli",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Freire",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Lautaro",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Loncoche",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Nueva Imperial",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Pitrufquén",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Pucón",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Temuco",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Traiguén",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Victoria",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Vilcún",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
-      "name": "Villarrica",
-      "countryCode": "CL",
-      "stateCode": "AR"
-   },
-   {
       "name": "Cholchol",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Collipulli",
       "countryCode": "CL",
       "stateCode": "AR"
    },
@@ -95,12 +40,27 @@
       "stateCode": "AR"
    },
    {
+      "name": "Freire",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
       "name": "Galvarino",
       "countryCode": "CL",
       "stateCode": "AR"
    },
    {
       "name": "Gorbea",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Lautaro",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Loncoche",
       "countryCode": "CL",
       "stateCode": "AR"
    },
@@ -125,12 +85,27 @@
       "stateCode": "AR"
    },
    {
+      "name": "Nueva Imperial",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
       "name": "Padre Las Casas",
       "countryCode": "CL",
       "stateCode": "AR"
    },
    {
       "name": "Perquenco",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Pitrufquén",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Pucón",
       "countryCode": "CL",
       "stateCode": "AR"
    },
@@ -150,12 +125,37 @@
       "stateCode": "AR"
    },
    {
+      "name": "Temuco",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
       "name": "Teodoro Schmidt",
       "countryCode": "CL",
       "stateCode": "AR"
    },
    {
       "name": "Toltén",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Traiguén",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Victoria",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Vilcún",
+      "countryCode": "CL",
+      "stateCode": "AR"
+   },
+   {
+      "name": "Villarrica",
       "countryCode": "CL",
       "stateCode": "AR"
    }

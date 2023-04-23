@@ -1,855 +1,5 @@
 [
    {
-      "name": "Palau",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Palmas Arborea",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pattada",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pau",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pauli Arbarei",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Paulilatino",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Perdasdefogu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Perdaxius",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Perfugas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pimentel",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Piscinas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ploaghe",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Poggio dei Pini",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pompu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Porto Cervo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Porto Torres",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Portoscuso",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Posada",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pozzomaggiore",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Provincia di Cagliari",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Provincia di Nuoro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Provincia di Oristano",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Provincia di Sassari",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Pula",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Putifigari",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Quartu Sant'Elena",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Quartucciu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Riola Sardo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Romana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ruinas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sadali",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sagama",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Samassi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Samatzai",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Samugheo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Basilio",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Gavino Monreale",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Giovanni Suergiu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Nicola",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Nicolo'Gerrei",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Nicolò d'Arcidano",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Sperate",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Teodoro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Vero Milis",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "San Vito",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sanluri",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sant'Andrea Frius",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sant'Anna Arresi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sant'Antioco",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sant'Antonio di Gallura",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santa Giusta",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santa Maria Coghinas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santa Maria Navarrese",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santa Teresa Gallura",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santadi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Santu Lussurgiu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sardara",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sarroch",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sarule",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sassari",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Scano di Montiferro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sedilo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sedini",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Segariu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Selargius",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Selegas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Semestene",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Seneghe",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Senis",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sennariolo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sennori",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Senorbì",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Serdiana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Serramanna",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Serrenti",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Serri",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sestu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Settimo San Pietro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Setzu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Seui",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Seulo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siamaggiore",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siamanna",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siapiccia",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siddi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Silanus",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siligo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siliqua",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Silius",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Silì",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Simala",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Simaxis",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sindia",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sini",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siniscola",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sinnai",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siris",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Siurgus Donigala",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Soddì",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Solanas",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Solarussa",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Soleminis",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sorgono",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sorradile",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Sorso",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Stintino",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Su Planu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Suelli",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Suni",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tadasuni",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Talana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Telti",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tempio Pausania",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tergu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Terralba",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tertenia",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Teti",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Teulada",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Thiesi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tiana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tinnura",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tissi",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tonara",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Torpè",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Torralba",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tortolì",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tramatza",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tratalias",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tresnuraghes",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Triei",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Trinità d'Agultu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Trinità d'Agultu e Vignola",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tuili",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Tula",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Turri",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ulassai",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ulà Tirso",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Uras",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Uri",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Urzulei",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Usellus",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Usini",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ussana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ussaramanna",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Ussassai",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Uta",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Valledoria",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Vallermosa",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Viddalba",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villa San Pietro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villa Sant'Antonio",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villa Verde",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villacidro",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villagrande Strisaili",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villamar",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villamassargia",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villanova Monteleone",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villanova Truschedu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villanova Tulo",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villanovaforru",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villanovafranca",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villaperuccio",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villaputzu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villasalto",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villasimius",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villasor",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villaspeciosa",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Villaurbana",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Zeddiani",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
-      "name": "Zerfaliu",
-      "countryCode": "IT",
-      "stateCode": "88"
-   },
-   {
       "name": "Abbasanta",
       "countryCode": "IT",
       "stateCode": "88"
@@ -2006,6 +1156,856 @@
    },
    {
       "name": "Padru",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Palau",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Palmas Arborea",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pattada",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pau",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pauli Arbarei",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Paulilatino",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Perdasdefogu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Perdaxius",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Perfugas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pimentel",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Piscinas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ploaghe",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Poggio dei Pini",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pompu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Porto Cervo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Porto Torres",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Portoscuso",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Posada",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pozzomaggiore",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Provincia di Cagliari",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Provincia di Nuoro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Provincia di Oristano",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Provincia di Sassari",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Pula",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Putifigari",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Quartu Sant'Elena",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Quartucciu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Riola Sardo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Romana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ruinas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sadali",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sagama",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Samassi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Samatzai",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Samugheo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Basilio",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Gavino Monreale",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Giovanni Suergiu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Nicola",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Nicolo'Gerrei",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Nicolò d'Arcidano",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Sperate",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Teodoro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Vero Milis",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "San Vito",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sanluri",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sant'Andrea Frius",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sant'Anna Arresi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sant'Antioco",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sant'Antonio di Gallura",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santa Giusta",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santa Maria Coghinas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santa Maria Navarrese",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santa Teresa Gallura",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santadi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Santu Lussurgiu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sardara",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sarroch",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sarule",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sassari",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Scano di Montiferro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sedilo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sedini",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Segariu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Selargius",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Selegas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Semestene",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Seneghe",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Senis",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sennariolo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sennori",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Senorbì",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Serdiana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Serramanna",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Serrenti",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Serri",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sestu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Settimo San Pietro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Setzu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Seui",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Seulo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siamaggiore",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siamanna",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siapiccia",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siddi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Silanus",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siligo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siliqua",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Silius",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Silì",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Simala",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Simaxis",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sindia",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sini",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siniscola",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sinnai",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siris",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Siurgus Donigala",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Soddì",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Solanas",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Solarussa",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Soleminis",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sorgono",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sorradile",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Sorso",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Stintino",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Su Planu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Suelli",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Suni",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tadasuni",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Talana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Telti",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tempio Pausania",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tergu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Terralba",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tertenia",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Teti",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Teulada",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Thiesi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tiana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tinnura",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tissi",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tonara",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Torpè",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Torralba",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tortolì",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tramatza",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tratalias",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tresnuraghes",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Triei",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Trinità d'Agultu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Trinità d'Agultu e Vignola",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tuili",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Tula",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Turri",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ulassai",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ulà Tirso",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Uras",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Uri",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Urzulei",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Usellus",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Usini",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ussana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ussaramanna",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Ussassai",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Uta",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Valledoria",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Vallermosa",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Viddalba",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villa San Pietro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villa Sant'Antonio",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villa Verde",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villacidro",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villagrande Strisaili",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villamar",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villamassargia",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villanova Monteleone",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villanova Truschedu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villanova Tulo",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villanovaforru",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villanovafranca",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villaperuccio",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villaputzu",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villasalto",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villasimius",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villasor",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villaspeciosa",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Villaurbana",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Zeddiani",
+      "countryCode": "IT",
+      "stateCode": "88"
+   },
+   {
+      "name": "Zerfaliu",
       "countryCode": "IT",
       "stateCode": "88"
    }

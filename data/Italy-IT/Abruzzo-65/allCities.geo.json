@@ -1,1048 +1,5 @@
 [
    {
-      "name": "Pagliare",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.64372000",
-      "longitude": "13.95171000"
-   },
-   {
-      "name": "Paglieta",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.16139000",
-      "longitude": "14.50306000"
-   },
-   {
-      "name": "Palena",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.98353000",
-      "longitude": "14.13696000"
-   },
-   {
-      "name": "Palmoli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.93944000",
-      "longitude": "14.58142000"
-   },
-   {
-      "name": "Palombaro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.12323000",
-      "longitude": "14.22989000"
-   },
-   {
-      "name": "Penna Sant'Andrea",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.59403000",
-      "longitude": "13.77215000"
-   },
-   {
-      "name": "Pennadomo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.00394000",
-      "longitude": "14.32338000"
-   },
-   {
-      "name": "Pennapiedimonte",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.15563000",
-      "longitude": "14.19432000"
-   },
-   {
-      "name": "Penne",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.45474000",
-      "longitude": "13.92754000"
-   },
-   {
-      "name": "Perano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.10460000",
-      "longitude": "14.39581000"
-   },
-   {
-      "name": "Pereto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.05821000",
-      "longitude": "13.10231000"
-   },
-   {
-      "name": "Pescara",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.45840000",
-      "longitude": "14.20283000"
-   },
-   {
-      "name": "Pescasseroli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.80343000",
-      "longitude": "13.78707000"
-   },
-   {
-      "name": "Pescina",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.02351000",
-      "longitude": "13.65116000"
-   },
-   {
-      "name": "Pescocostanzo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.88722000",
-      "longitude": "14.06614000"
-   },
-   {
-      "name": "Pescosansonesco Nuovo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.25524000",
-      "longitude": "13.88480000"
-   },
-   {
-      "name": "Pettorano sul Gizio",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.97326000",
-      "longitude": "13.96001000"
-   },
-   {
-      "name": "Pianella",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.39918000",
-      "longitude": "14.04781000"
-   },
-   {
-      "name": "Pianola",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.32341000",
-      "longitude": "13.40394000"
-   },
-   {
-      "name": "Pianura Vomano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.63028000",
-      "longitude": "13.91548000"
-   },
-   {
-      "name": "Picciano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.47525000",
-      "longitude": "13.98990000"
-   },
-   {
-      "name": "Pietracamela",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.52344000",
-      "longitude": "13.55431000"
-   },
-   {
-      "name": "Pietraferrazzana",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.96943000",
-      "longitude": "14.37451000"
-   },
-   {
-      "name": "Pietranico",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.27565000",
-      "longitude": "13.91077000"
-   },
-   {
-      "name": "Pineto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.60879000",
-      "longitude": "14.06639000"
-   },
-   {
-      "name": "Pizzoferrato",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.92244000",
-      "longitude": "14.23632000"
-   },
-   {
-      "name": "Pizzoli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.43603000",
-      "longitude": "13.29886000"
-   },
-   {
-      "name": "Poggio Picenze",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.32061000",
-      "longitude": "13.54036000"
-   },
-   {
-      "name": "Poggiofiorito",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.25414000",
-      "longitude": "14.32082000"
-   },
-   {
-      "name": "Pollutri",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.13784000",
-      "longitude": "14.59172000"
-   },
-   {
-      "name": "Popoli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.16866000",
-      "longitude": "13.82997000"
-   },
-   {
-      "name": "Prata d'Ansidonia",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.27793000",
-      "longitude": "13.60830000"
-   },
-   {
-      "name": "Pratola Peligna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.09701000",
-      "longitude": "13.87467000"
-   },
-   {
-      "name": "Pretoro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.21923000",
-      "longitude": "14.14248000"
-   },
-   {
-      "name": "Preturo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.37808000",
-      "longitude": "13.29633000"
-   },
-   {
-      "name": "Prezza",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.05789000",
-      "longitude": "13.83592000"
-   },
-   {
-      "name": "Progetto Case Bazzano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.33643000",
-      "longitude": "13.44410000"
-   },
-   {
-      "name": "Progetto Case Coppito 3",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.36981000",
-      "longitude": "13.31973000"
-   },
-   {
-      "name": "Progetto Case Sassa Nsi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.36560000",
-      "longitude": "13.31509000"
-   },
-   {
-      "name": "Provincia dell' Aquila",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.08333000",
-      "longitude": "13.66667000"
-   },
-   {
-      "name": "Provincia di Chieti",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.11667000",
-      "longitude": "14.35000000"
-   },
-   {
-      "name": "Provincia di Pescara",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.33333000",
-      "longitude": "13.95000000"
-   },
-   {
-      "name": "Provincia di Teramo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.65000000",
-      "longitude": "13.68333000"
-   },
-   {
-      "name": "Quadri",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.92402000",
-      "longitude": "14.28768000"
-   },
-   {
-      "name": "Raiano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.10158000",
-      "longitude": "13.81386000"
-   },
-   {
-      "name": "Rapino",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.20931000",
-      "longitude": "14.18493000"
-   },
-   {
-      "name": "Ripa Teatina",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.36603000",
-      "longitude": "14.24441000"
-   },
-   {
-      "name": "Rivisondoli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.87023000",
-      "longitude": "14.06671000"
-   },
-   {
-      "name": "Rocca Pia",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.93429000",
-      "longitude": "13.97726000"
-   },
-   {
-      "name": "Rocca San Giovanni",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.24604000",
-      "longitude": "14.46162000"
-   },
-   {
-      "name": "Rocca di Botte",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.03102000",
-      "longitude": "13.07185000"
-   },
-   {
-      "name": "Rocca di Cambio",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.23755000",
-      "longitude": "13.48906000"
-   },
-   {
-      "name": "Rocca di Mezzo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.20441000",
-      "longitude": "13.51840000"
-   },
-   {
-      "name": "Roccacasale",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.12249000",
-      "longitude": "13.88758000"
-   },
-   {
-      "name": "Roccamorice",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.21274000",
-      "longitude": "14.02531000"
-   },
-   {
-      "name": "Roccaraso",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.84872000",
-      "longitude": "14.07846000"
-   },
-   {
-      "name": "Roccascalegna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.06212000",
-      "longitude": "14.30802000"
-   },
-   {
-      "name": "Roccaspinalveti-Santa Giusta",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.94233000",
-      "longitude": "14.47092000"
-   },
-   {
-      "name": "Roccavivi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.81214000",
-      "longitude": "13.53662000"
-   },
-   {
-      "name": "Roio del Sangro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.91153000",
-      "longitude": "14.37382000"
-   },
-   {
-      "name": "Rosciano",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.32227000",
-      "longitude": "14.04555000"
-   },
-   {
-      "name": "Rosello",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.90116000",
-      "longitude": "14.34919000"
-   },
-   {
-      "name": "Roseto degli Abruzzi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.67164000",
-      "longitude": "14.01481000"
-   },
-   {
-      "name": "Salino",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.78571000",
-      "longitude": "13.91400000"
-   },
-   {
-      "name": "Salle",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.17756000",
-      "longitude": "13.96091000"
-   },
-   {
-      "name": "Salvo Marina",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.07037000",
-      "longitude": "14.76597000"
-   },
-   {
-      "name": "Sambuceto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.42168000",
-      "longitude": "14.18747000"
-   },
-   {
-      "name": "San Benedetto dei Marsi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.00760000",
-      "longitude": "13.62381000"
-   },
-   {
-      "name": "San Benedetto in Perillis",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.18377000",
-      "longitude": "13.76996000"
-   },
-   {
-      "name": "San Buono",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.98140000",
-      "longitude": "14.56818000"
-   },
-   {
-      "name": "San Demetrio Ne' Vestini",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.28963000",
-      "longitude": "13.55519000"
-   },
-   {
-      "name": "San Giovanni Lipioni",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.84383000",
-      "longitude": "14.56271000"
-   },
-   {
-      "name": "San Martino Bassa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.51827000",
-      "longitude": "14.13045000"
-   },
-   {
-      "name": "San Martino sulla Marrucina",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.22419000",
-      "longitude": "14.21577000"
-   },
-   {
-      "name": "San Nicolò a Tordino",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.69648000",
-      "longitude": "13.79708000"
-   },
-   {
-      "name": "San Panfilo d'Ocre",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.28616000",
-      "longitude": "13.47518000"
-   },
-   {
-      "name": "San Pio delle Camere",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.28423000",
-      "longitude": "13.65570000"
-   },
-   {
-      "name": "San Rocco",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.24294000",
-      "longitude": "14.12891000"
-   },
-   {
-      "name": "San Salvo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.04413000",
-      "longitude": "14.73335000"
-   },
-   {
-      "name": "San Valentino in Abruzzo Citeriore",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.23304000",
-      "longitude": "13.98561000"
-   },
-   {
-      "name": "San Vincenzo Valle Roveto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.84452000",
-      "longitude": "13.53566000"
-   },
-   {
-      "name": "San Vito Chietino",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.29014000",
-      "longitude": "14.44270000"
-   },
-   {
-      "name": "Sant'Egidio alla Vibrata",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.81705000",
-      "longitude": "13.72164000"
-   },
-   {
-      "name": "Sant'Eufemia a Maiella",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.12613000",
-      "longitude": "14.02651000"
-   },
-   {
-      "name": "Sant'Eusanio Forconese",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.28951000",
-      "longitude": "13.52425000"
-   },
-   {
-      "name": "Sant'Eusanio del Sangro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.16908000",
-      "longitude": "14.32776000"
-   },
-   {
-      "name": "Sant'Omero",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.79011000",
-      "longitude": "13.78906000"
-   },
-   {
-      "name": "Santa Maria Imbaro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.21999000",
-      "longitude": "14.45027000"
-   },
-   {
-      "name": "Santa Teresa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.42753000",
-      "longitude": "14.15816000"
-   },
-   {
-      "name": "Sante Marie",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.10369000",
-      "longitude": "13.20163000"
-   },
-   {
-      "name": "Santo Stefano di Sessanio",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.34339000",
-      "longitude": "13.64477000"
-   },
-   {
-      "name": "Sassa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.35204000",
-      "longitude": "13.29924000"
-   },
-   {
-      "name": "Scafa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.26575000",
-      "longitude": "13.99665000"
-   },
-   {
-      "name": "Scanno",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.90442000",
-      "longitude": "13.87961000"
-   },
-   {
-      "name": "Scerne",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.64754000",
-      "longitude": "14.03791000"
-   },
-   {
-      "name": "Scerni",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.10418000",
-      "longitude": "14.57428000"
-   },
-   {
-      "name": "Schiavi di Abruzzo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.81311000",
-      "longitude": "14.48655000"
-   },
-   {
-      "name": "Scontrone",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.74681000",
-      "longitude": "14.03880000"
-   },
-   {
-      "name": "Scoppito",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.36948000",
-      "longitude": "13.25936000"
-   },
-   {
-      "name": "Scurcola Marsicana",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.06313000",
-      "longitude": "13.33919000"
-   },
-   {
-      "name": "Secinaro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.15062000",
-      "longitude": "13.68145000"
-   },
-   {
-      "name": "Selva",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.11442000",
-      "longitude": "14.34425000"
-   },
-   {
-      "name": "Serramonacesca",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.24795000",
-      "longitude": "14.09297000"
-   },
-   {
-      "name": "Silvi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.54984000",
-      "longitude": "14.11759000"
-   },
-   {
-      "name": "Spoltore",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.45501000",
-      "longitude": "14.13988000"
-   },
-   {
-      "name": "Sulmona",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.04945000",
-      "longitude": "13.92578000"
-   },
-   {
-      "name": "Tagliacozzo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.06933000",
-      "longitude": "13.25469000"
-   },
-   {
-      "name": "Taranta Peligna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.02052000",
-      "longitude": "14.17103000"
-   },
-   {
-      "name": "Teramo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.66123000",
-      "longitude": "13.69901000"
-   },
-   {
-      "name": "Tione degli Abruzzi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.20393000",
-      "longitude": "13.63570000"
-   },
-   {
-      "name": "Tocco da Casauria",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.21203000",
-      "longitude": "13.91547000"
-   },
-   {
-      "name": "Tollo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.34542000",
-      "longitude": "14.32360000"
-   },
-   {
-      "name": "Torano Nuovo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.82305000",
-      "longitude": "13.77729000"
-   },
-   {
-      "name": "Torino di Sangro",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.19100000",
-      "longitude": "14.54272000"
-   },
-   {
-      "name": "Tornareccio",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.03763000",
-      "longitude": "14.41525000"
-   },
-   {
-      "name": "Tornimparte",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.29007000",
-      "longitude": "13.30092000"
-   },
-   {
-      "name": "Torre de' Passeri",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.24324000",
-      "longitude": "13.93330000"
-   },
-   {
-      "name": "Torrebruna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.86742000",
-      "longitude": "14.54148000"
-   },
-   {
-      "name": "Torrevecchia",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.38274000",
-      "longitude": "14.21331000"
-   },
-   {
-      "name": "Torricella",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.65904000",
-      "longitude": "13.65719000"
-   },
-   {
-      "name": "Torricella Peligna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.02397000",
-      "longitude": "14.25854000"
-   },
-   {
-      "name": "Tortoreto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.80371000",
-      "longitude": "13.91346000"
-   },
-   {
-      "name": "Tortoreto Lido",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.79956000",
-      "longitude": "13.94205000"
-   },
-   {
-      "name": "Tossicia",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.54472000",
-      "longitude": "13.64595000"
-   },
-   {
-      "name": "Trasacco",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.95742000",
-      "longitude": "13.53270000"
-   },
-   {
-      "name": "Treglio",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.26184000",
-      "longitude": "14.42315000"
-   },
-   {
-      "name": "Tufillo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.91685000",
-      "longitude": "14.62558000"
-   },
-   {
-      "name": "Turrivalignani",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.26296000",
-      "longitude": "14.02852000"
-   },
-   {
-      "name": "Vacri",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.29764000",
-      "longitude": "14.22901000"
-   },
-   {
-      "name": "Valle Castellana",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.73614000",
-      "longitude": "13.49709000"
-   },
-   {
-      "name": "Vallecupa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.25366000",
-      "longitude": "13.57467000"
-   },
-   {
-      "name": "Vasto",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.11150000",
-      "longitude": "14.70649000"
-   },
-   {
-      "name": "Vicoli",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.34095000",
-      "longitude": "13.89688000"
-   },
-   {
-      "name": "Villa Caldari",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.29566000",
-      "longitude": "14.36157000"
-   },
-   {
-      "name": "Villa Celiera",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.38184000",
-      "longitude": "13.85860000"
-   },
-   {
-      "name": "Villa Lempa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.79345000",
-      "longitude": "13.64433000"
-   },
-   {
-      "name": "Villa Raspa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.45542000",
-      "longitude": "14.18457000"
-   },
-   {
-      "name": "Villa Rosa",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.85059000",
-      "longitude": "13.92015000"
-   },
-   {
-      "name": "Villa Sant'Angelo",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.27043000",
-      "longitude": "13.53710000"
-   },
-   {
-      "name": "Villa Santa Lucia degli Abruzzi",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.33286000",
-      "longitude": "13.77792000"
-   },
-   {
-      "name": "Villa Santa Maria",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.95130000",
-      "longitude": "14.35148000"
-   },
-   {
-      "name": "Villagrande",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.29533000",
-      "longitude": "13.29999000"
-   },
-   {
-      "name": "Villalago",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.93514000",
-      "longitude": "13.83868000"
-   },
-   {
-      "name": "Villalfonsina",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.16038000",
-      "longitude": "14.56932000"
-   },
-   {
-      "name": "Villamagna",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.32984000",
-      "longitude": "14.23689000"
-   },
-   {
-      "name": "Villanova",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.38251000",
-      "longitude": "14.12338000"
-   },
-   {
-      "name": "Villavallelonga",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.87104000",
-      "longitude": "13.62088000"
-   },
-   {
-      "name": "Villetta Barrea",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "41.77646000",
-      "longitude": "13.93892000"
-   },
-   {
-      "name": "Vittorito",
-      "countryCode": "IT",
-      "stateCode": "65",
-      "latitude": "42.12703000",
-      "longitude": "13.81670000"
-   },
-   {
       "name": "Abbateggio",
       "countryCode": "IT",
       "stateCode": "65",
@@ -2455,5 +1412,1048 @@
       "stateCode": "65",
       "latitude": "42.35715000",
       "longitude": "13.47138000"
+   },
+   {
+      "name": "Pagliare",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.64372000",
+      "longitude": "13.95171000"
+   },
+   {
+      "name": "Paglieta",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.16139000",
+      "longitude": "14.50306000"
+   },
+   {
+      "name": "Palena",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.98353000",
+      "longitude": "14.13696000"
+   },
+   {
+      "name": "Palmoli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.93944000",
+      "longitude": "14.58142000"
+   },
+   {
+      "name": "Palombaro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.12323000",
+      "longitude": "14.22989000"
+   },
+   {
+      "name": "Penna Sant'Andrea",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.59403000",
+      "longitude": "13.77215000"
+   },
+   {
+      "name": "Pennadomo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.00394000",
+      "longitude": "14.32338000"
+   },
+   {
+      "name": "Pennapiedimonte",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.15563000",
+      "longitude": "14.19432000"
+   },
+   {
+      "name": "Penne",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.45474000",
+      "longitude": "13.92754000"
+   },
+   {
+      "name": "Perano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.10460000",
+      "longitude": "14.39581000"
+   },
+   {
+      "name": "Pereto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.05821000",
+      "longitude": "13.10231000"
+   },
+   {
+      "name": "Pescara",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.45840000",
+      "longitude": "14.20283000"
+   },
+   {
+      "name": "Pescasseroli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.80343000",
+      "longitude": "13.78707000"
+   },
+   {
+      "name": "Pescina",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.02351000",
+      "longitude": "13.65116000"
+   },
+   {
+      "name": "Pescocostanzo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.88722000",
+      "longitude": "14.06614000"
+   },
+   {
+      "name": "Pescosansonesco Nuovo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.25524000",
+      "longitude": "13.88480000"
+   },
+   {
+      "name": "Pettorano sul Gizio",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.97326000",
+      "longitude": "13.96001000"
+   },
+   {
+      "name": "Pianella",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.39918000",
+      "longitude": "14.04781000"
+   },
+   {
+      "name": "Pianola",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.32341000",
+      "longitude": "13.40394000"
+   },
+   {
+      "name": "Pianura Vomano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.63028000",
+      "longitude": "13.91548000"
+   },
+   {
+      "name": "Picciano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.47525000",
+      "longitude": "13.98990000"
+   },
+   {
+      "name": "Pietracamela",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.52344000",
+      "longitude": "13.55431000"
+   },
+   {
+      "name": "Pietraferrazzana",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.96943000",
+      "longitude": "14.37451000"
+   },
+   {
+      "name": "Pietranico",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.27565000",
+      "longitude": "13.91077000"
+   },
+   {
+      "name": "Pineto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.60879000",
+      "longitude": "14.06639000"
+   },
+   {
+      "name": "Pizzoferrato",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.92244000",
+      "longitude": "14.23632000"
+   },
+   {
+      "name": "Pizzoli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.43603000",
+      "longitude": "13.29886000"
+   },
+   {
+      "name": "Poggio Picenze",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.32061000",
+      "longitude": "13.54036000"
+   },
+   {
+      "name": "Poggiofiorito",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.25414000",
+      "longitude": "14.32082000"
+   },
+   {
+      "name": "Pollutri",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.13784000",
+      "longitude": "14.59172000"
+   },
+   {
+      "name": "Popoli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.16866000",
+      "longitude": "13.82997000"
+   },
+   {
+      "name": "Prata d'Ansidonia",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.27793000",
+      "longitude": "13.60830000"
+   },
+   {
+      "name": "Pratola Peligna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.09701000",
+      "longitude": "13.87467000"
+   },
+   {
+      "name": "Pretoro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.21923000",
+      "longitude": "14.14248000"
+   },
+   {
+      "name": "Preturo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.37808000",
+      "longitude": "13.29633000"
+   },
+   {
+      "name": "Prezza",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.05789000",
+      "longitude": "13.83592000"
+   },
+   {
+      "name": "Progetto Case Bazzano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.33643000",
+      "longitude": "13.44410000"
+   },
+   {
+      "name": "Progetto Case Coppito 3",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.36981000",
+      "longitude": "13.31973000"
+   },
+   {
+      "name": "Progetto Case Sassa Nsi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.36560000",
+      "longitude": "13.31509000"
+   },
+   {
+      "name": "Provincia dell' Aquila",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.08333000",
+      "longitude": "13.66667000"
+   },
+   {
+      "name": "Provincia di Chieti",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.11667000",
+      "longitude": "14.35000000"
+   },
+   {
+      "name": "Provincia di Pescara",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.33333000",
+      "longitude": "13.95000000"
+   },
+   {
+      "name": "Provincia di Teramo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.65000000",
+      "longitude": "13.68333000"
+   },
+   {
+      "name": "Quadri",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.92402000",
+      "longitude": "14.28768000"
+   },
+   {
+      "name": "Raiano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.10158000",
+      "longitude": "13.81386000"
+   },
+   {
+      "name": "Rapino",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.20931000",
+      "longitude": "14.18493000"
+   },
+   {
+      "name": "Ripa Teatina",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.36603000",
+      "longitude": "14.24441000"
+   },
+   {
+      "name": "Rivisondoli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.87023000",
+      "longitude": "14.06671000"
+   },
+   {
+      "name": "Rocca Pia",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.93429000",
+      "longitude": "13.97726000"
+   },
+   {
+      "name": "Rocca San Giovanni",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.24604000",
+      "longitude": "14.46162000"
+   },
+   {
+      "name": "Rocca di Botte",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.03102000",
+      "longitude": "13.07185000"
+   },
+   {
+      "name": "Rocca di Cambio",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.23755000",
+      "longitude": "13.48906000"
+   },
+   {
+      "name": "Rocca di Mezzo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.20441000",
+      "longitude": "13.51840000"
+   },
+   {
+      "name": "Roccacasale",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.12249000",
+      "longitude": "13.88758000"
+   },
+   {
+      "name": "Roccamorice",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.21274000",
+      "longitude": "14.02531000"
+   },
+   {
+      "name": "Roccaraso",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.84872000",
+      "longitude": "14.07846000"
+   },
+   {
+      "name": "Roccascalegna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.06212000",
+      "longitude": "14.30802000"
+   },
+   {
+      "name": "Roccaspinalveti-Santa Giusta",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.94233000",
+      "longitude": "14.47092000"
+   },
+   {
+      "name": "Roccavivi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.81214000",
+      "longitude": "13.53662000"
+   },
+   {
+      "name": "Roio del Sangro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.91153000",
+      "longitude": "14.37382000"
+   },
+   {
+      "name": "Rosciano",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.32227000",
+      "longitude": "14.04555000"
+   },
+   {
+      "name": "Rosello",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.90116000",
+      "longitude": "14.34919000"
+   },
+   {
+      "name": "Roseto degli Abruzzi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.67164000",
+      "longitude": "14.01481000"
+   },
+   {
+      "name": "Salino",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.78571000",
+      "longitude": "13.91400000"
+   },
+   {
+      "name": "Salle",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.17756000",
+      "longitude": "13.96091000"
+   },
+   {
+      "name": "Salvo Marina",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.07037000",
+      "longitude": "14.76597000"
+   },
+   {
+      "name": "Sambuceto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.42168000",
+      "longitude": "14.18747000"
+   },
+   {
+      "name": "San Benedetto dei Marsi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.00760000",
+      "longitude": "13.62381000"
+   },
+   {
+      "name": "San Benedetto in Perillis",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.18377000",
+      "longitude": "13.76996000"
+   },
+   {
+      "name": "San Buono",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.98140000",
+      "longitude": "14.56818000"
+   },
+   {
+      "name": "San Demetrio Ne' Vestini",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.28963000",
+      "longitude": "13.55519000"
+   },
+   {
+      "name": "San Giovanni Lipioni",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.84383000",
+      "longitude": "14.56271000"
+   },
+   {
+      "name": "San Martino Bassa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.51827000",
+      "longitude": "14.13045000"
+   },
+   {
+      "name": "San Martino sulla Marrucina",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.22419000",
+      "longitude": "14.21577000"
+   },
+   {
+      "name": "San Nicolò a Tordino",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.69648000",
+      "longitude": "13.79708000"
+   },
+   {
+      "name": "San Panfilo d'Ocre",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.28616000",
+      "longitude": "13.47518000"
+   },
+   {
+      "name": "San Pio delle Camere",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.28423000",
+      "longitude": "13.65570000"
+   },
+   {
+      "name": "San Rocco",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.24294000",
+      "longitude": "14.12891000"
+   },
+   {
+      "name": "San Salvo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.04413000",
+      "longitude": "14.73335000"
+   },
+   {
+      "name": "San Valentino in Abruzzo Citeriore",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.23304000",
+      "longitude": "13.98561000"
+   },
+   {
+      "name": "San Vincenzo Valle Roveto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.84452000",
+      "longitude": "13.53566000"
+   },
+   {
+      "name": "San Vito Chietino",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.29014000",
+      "longitude": "14.44270000"
+   },
+   {
+      "name": "Sant'Egidio alla Vibrata",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.81705000",
+      "longitude": "13.72164000"
+   },
+   {
+      "name": "Sant'Eufemia a Maiella",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.12613000",
+      "longitude": "14.02651000"
+   },
+   {
+      "name": "Sant'Eusanio Forconese",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.28951000",
+      "longitude": "13.52425000"
+   },
+   {
+      "name": "Sant'Eusanio del Sangro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.16908000",
+      "longitude": "14.32776000"
+   },
+   {
+      "name": "Sant'Omero",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.79011000",
+      "longitude": "13.78906000"
+   },
+   {
+      "name": "Santa Maria Imbaro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.21999000",
+      "longitude": "14.45027000"
+   },
+   {
+      "name": "Santa Teresa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.42753000",
+      "longitude": "14.15816000"
+   },
+   {
+      "name": "Sante Marie",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.10369000",
+      "longitude": "13.20163000"
+   },
+   {
+      "name": "Santo Stefano di Sessanio",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.34339000",
+      "longitude": "13.64477000"
+   },
+   {
+      "name": "Sassa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.35204000",
+      "longitude": "13.29924000"
+   },
+   {
+      "name": "Scafa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.26575000",
+      "longitude": "13.99665000"
+   },
+   {
+      "name": "Scanno",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.90442000",
+      "longitude": "13.87961000"
+   },
+   {
+      "name": "Scerne",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.64754000",
+      "longitude": "14.03791000"
+   },
+   {
+      "name": "Scerni",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.10418000",
+      "longitude": "14.57428000"
+   },
+   {
+      "name": "Schiavi di Abruzzo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.81311000",
+      "longitude": "14.48655000"
+   },
+   {
+      "name": "Scontrone",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.74681000",
+      "longitude": "14.03880000"
+   },
+   {
+      "name": "Scoppito",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.36948000",
+      "longitude": "13.25936000"
+   },
+   {
+      "name": "Scurcola Marsicana",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.06313000",
+      "longitude": "13.33919000"
+   },
+   {
+      "name": "Secinaro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.15062000",
+      "longitude": "13.68145000"
+   },
+   {
+      "name": "Selva",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.11442000",
+      "longitude": "14.34425000"
+   },
+   {
+      "name": "Serramonacesca",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.24795000",
+      "longitude": "14.09297000"
+   },
+   {
+      "name": "Silvi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.54984000",
+      "longitude": "14.11759000"
+   },
+   {
+      "name": "Spoltore",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.45501000",
+      "longitude": "14.13988000"
+   },
+   {
+      "name": "Sulmona",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.04945000",
+      "longitude": "13.92578000"
+   },
+   {
+      "name": "Tagliacozzo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.06933000",
+      "longitude": "13.25469000"
+   },
+   {
+      "name": "Taranta Peligna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.02052000",
+      "longitude": "14.17103000"
+   },
+   {
+      "name": "Teramo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.66123000",
+      "longitude": "13.69901000"
+   },
+   {
+      "name": "Tione degli Abruzzi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.20393000",
+      "longitude": "13.63570000"
+   },
+   {
+      "name": "Tocco da Casauria",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.21203000",
+      "longitude": "13.91547000"
+   },
+   {
+      "name": "Tollo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.34542000",
+      "longitude": "14.32360000"
+   },
+   {
+      "name": "Torano Nuovo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.82305000",
+      "longitude": "13.77729000"
+   },
+   {
+      "name": "Torino di Sangro",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.19100000",
+      "longitude": "14.54272000"
+   },
+   {
+      "name": "Tornareccio",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.03763000",
+      "longitude": "14.41525000"
+   },
+   {
+      "name": "Tornimparte",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.29007000",
+      "longitude": "13.30092000"
+   },
+   {
+      "name": "Torre de' Passeri",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.24324000",
+      "longitude": "13.93330000"
+   },
+   {
+      "name": "Torrebruna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.86742000",
+      "longitude": "14.54148000"
+   },
+   {
+      "name": "Torrevecchia",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.38274000",
+      "longitude": "14.21331000"
+   },
+   {
+      "name": "Torricella",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.65904000",
+      "longitude": "13.65719000"
+   },
+   {
+      "name": "Torricella Peligna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.02397000",
+      "longitude": "14.25854000"
+   },
+   {
+      "name": "Tortoreto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.80371000",
+      "longitude": "13.91346000"
+   },
+   {
+      "name": "Tortoreto Lido",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.79956000",
+      "longitude": "13.94205000"
+   },
+   {
+      "name": "Tossicia",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.54472000",
+      "longitude": "13.64595000"
+   },
+   {
+      "name": "Trasacco",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.95742000",
+      "longitude": "13.53270000"
+   },
+   {
+      "name": "Treglio",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.26184000",
+      "longitude": "14.42315000"
+   },
+   {
+      "name": "Tufillo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.91685000",
+      "longitude": "14.62558000"
+   },
+   {
+      "name": "Turrivalignani",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.26296000",
+      "longitude": "14.02852000"
+   },
+   {
+      "name": "Vacri",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.29764000",
+      "longitude": "14.22901000"
+   },
+   {
+      "name": "Valle Castellana",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.73614000",
+      "longitude": "13.49709000"
+   },
+   {
+      "name": "Vallecupa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.25366000",
+      "longitude": "13.57467000"
+   },
+   {
+      "name": "Vasto",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.11150000",
+      "longitude": "14.70649000"
+   },
+   {
+      "name": "Vicoli",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.34095000",
+      "longitude": "13.89688000"
+   },
+   {
+      "name": "Villa Caldari",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.29566000",
+      "longitude": "14.36157000"
+   },
+   {
+      "name": "Villa Celiera",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.38184000",
+      "longitude": "13.85860000"
+   },
+   {
+      "name": "Villa Lempa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.79345000",
+      "longitude": "13.64433000"
+   },
+   {
+      "name": "Villa Raspa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.45542000",
+      "longitude": "14.18457000"
+   },
+   {
+      "name": "Villa Rosa",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.85059000",
+      "longitude": "13.92015000"
+   },
+   {
+      "name": "Villa Sant'Angelo",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.27043000",
+      "longitude": "13.53710000"
+   },
+   {
+      "name": "Villa Santa Lucia degli Abruzzi",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.33286000",
+      "longitude": "13.77792000"
+   },
+   {
+      "name": "Villa Santa Maria",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.95130000",
+      "longitude": "14.35148000"
+   },
+   {
+      "name": "Villagrande",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.29533000",
+      "longitude": "13.29999000"
+   },
+   {
+      "name": "Villalago",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.93514000",
+      "longitude": "13.83868000"
+   },
+   {
+      "name": "Villalfonsina",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.16038000",
+      "longitude": "14.56932000"
+   },
+   {
+      "name": "Villamagna",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.32984000",
+      "longitude": "14.23689000"
+   },
+   {
+      "name": "Villanova",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.38251000",
+      "longitude": "14.12338000"
+   },
+   {
+      "name": "Villavallelonga",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.87104000",
+      "longitude": "13.62088000"
+   },
+   {
+      "name": "Villetta Barrea",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "41.77646000",
+      "longitude": "13.93892000"
+   },
+   {
+      "name": "Vittorito",
+      "countryCode": "IT",
+      "stateCode": "65",
+      "latitude": "42.12703000",
+      "longitude": "13.81670000"
    }
 ]

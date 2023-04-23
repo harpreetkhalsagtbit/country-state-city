@@ -1,17 +1,7 @@
 [
    {
-      "name": "South Bačka District",
-      "isoCode": "06",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Pirot District",
-      "isoCode": "22",
-      "countryCode": "RS"
-   },
-   {
-      "name": "South Banat District",
-      "isoCode": "04",
+      "name": "Belgrade",
+      "isoCode": "00",
       "countryCode": "RS"
    },
    {
@@ -20,93 +10,8 @@
       "countryCode": "RS"
    },
    {
-      "name": "Jablanica District",
-      "isoCode": "23",
-      "countryCode": "RS"
-   },
-   {
       "name": "Central Banat District",
       "isoCode": "02",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Bor District",
-      "isoCode": "14",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Toplica District",
-      "isoCode": "21",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Mačva District",
-      "isoCode": "08",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Rasina District",
-      "isoCode": "19",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Pčinja District",
-      "isoCode": "24",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Nišava District",
-      "isoCode": "20",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Kolubara District",
-      "isoCode": "09",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Raška District",
-      "isoCode": "18",
-      "countryCode": "RS"
-   },
-   {
-      "name": "West Bačka District",
-      "isoCode": "05",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Moravica District",
-      "isoCode": "17",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Belgrade",
-      "isoCode": "00",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Zlatibor District",
-      "isoCode": "16",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Zaječar District",
-      "isoCode": "15",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Braničevo District",
-      "isoCode": "11",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Vojvodina",
-      "isoCode": "VO",
-      "countryCode": "RS"
-   },
-   {
-      "name": "Šumadija District",
-      "isoCode": "12",
       "countryCode": "RS"
    },
    {
@@ -115,8 +20,18 @@
       "countryCode": "RS"
    },
    {
-      "name": "Pomoravlje District",
-      "isoCode": "13",
+      "name": "South Banat District",
+      "isoCode": "04",
+      "countryCode": "RS"
+   },
+   {
+      "name": "West Bačka District",
+      "isoCode": "05",
+      "countryCode": "RS"
+   },
+   {
+      "name": "South Bačka District",
+      "isoCode": "06",
       "countryCode": "RS"
    },
    {
@@ -125,8 +40,93 @@
       "countryCode": "RS"
    },
    {
+      "name": "Mačva District",
+      "isoCode": "08",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Kolubara District",
+      "isoCode": "09",
+      "countryCode": "RS"
+   },
+   {
       "name": "Podunavlje District",
       "isoCode": "10",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Braničevo District",
+      "isoCode": "11",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Šumadija District",
+      "isoCode": "12",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Pomoravlje District",
+      "isoCode": "13",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Bor District",
+      "isoCode": "14",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Zaječar District",
+      "isoCode": "15",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Zlatibor District",
+      "isoCode": "16",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Moravica District",
+      "isoCode": "17",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Raška District",
+      "isoCode": "18",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Rasina District",
+      "isoCode": "19",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Nišava District",
+      "isoCode": "20",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Toplica District",
+      "isoCode": "21",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Pirot District",
+      "isoCode": "22",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Jablanica District",
+      "isoCode": "23",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Pčinja District",
+      "isoCode": "24",
+      "countryCode": "RS"
+   },
+   {
+      "name": "Vojvodina",
+      "isoCode": "VO",
       "countryCode": "RS"
    }
 ]

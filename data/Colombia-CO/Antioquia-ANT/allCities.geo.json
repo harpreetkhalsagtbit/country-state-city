@@ -56,6 +56,13 @@
       "longitude": "-75.35947000"
    },
    {
+      "name": "Anorí",
+      "countryCode": "CO",
+      "stateCode": "ANT",
+      "latitude": "7.07361111",
+      "longitude": "-75.14694444"
+   },
+   {
       "name": "Anza",
       "countryCode": "CO",
       "stateCode": "ANT",
@@ -182,13 +189,6 @@
       "longitude": "-76.65255000"
    },
    {
-      "name": "El Carmen de Viboral",
-      "countryCode": "CO",
-      "stateCode": "ANT",
-      "latitude": "6.08236000",
-      "longitude": "-75.33509000"
-   },
-   {
       "name": "Carolina",
       "countryCode": "CO",
       "stateCode": "ANT",
@@ -259,13 +259,6 @@
       "longitude": "-75.49922000"
    },
    {
-      "name": "Anorí",
-      "countryCode": "CO",
-      "stateCode": "ANT",
-      "latitude": "7.07361111",
-      "longitude": "-75.14694444"
-   },
-   {
       "name": "Cáceres",
       "countryCode": "CO",
       "stateCode": "ANT",
@@ -299,6 +292,20 @@
       "stateCode": "ANT",
       "latitude": "7.60347000",
       "longitude": "-74.80951000"
+   },
+   {
+      "name": "El Carmen de Viboral",
+      "countryCode": "CO",
+      "stateCode": "ANT",
+      "latitude": "6.08236000",
+      "longitude": "-75.33509000"
+   },
+   {
+      "name": "El Santuario",
+      "countryCode": "CO",
+      "stateCode": "ANT",
+      "latitude": "6.13833000",
+      "longitude": "-75.26417000"
    },
    {
       "name": "Entrerrios",
@@ -483,13 +490,6 @@
       "longitude": "-75.52741000"
    },
    {
-      "name": "San Pedro de los Milagros",
-      "countryCode": "CO",
-      "stateCode": "ANT",
-      "latitude": "6.45944444",
-      "longitude": "-75.55777888"
-   },
-   {
       "name": "Murindó",
       "countryCode": "CO",
       "stateCode": "ANT",
@@ -658,11 +658,25 @@
       "longitude": "-76.52969000"
    },
    {
+      "name": "San Luis",
+      "countryCode": "CO",
+      "stateCode": "ANT",
+      "latitude": "6.04222222",
+      "longitude": "-74.99333333"
+   },
+   {
       "name": "San Pedro de Uraba",
       "countryCode": "CO",
       "stateCode": "ANT",
       "latitude": "8.42291000",
       "longitude": "-76.31747000"
+   },
+   {
+      "name": "San Pedro de los Milagros",
+      "countryCode": "CO",
+      "stateCode": "ANT",
+      "latitude": "6.45944444",
+      "longitude": "-75.55777888"
    },
    {
       "name": "San Rafael",
@@ -712,13 +726,6 @@
       "stateCode": "ANT",
       "latitude": "6.47282000",
       "longitude": "-75.16547000"
-   },
-   {
-      "name": "El Santuario",
-      "countryCode": "CO",
-      "stateCode": "ANT",
-      "latitude": "6.13833000",
-      "longitude": "-75.26417000"
    },
    {
       "name": "Segovia",
@@ -866,12 +873,5 @@
       "stateCode": "ANT",
       "latitude": "7.48971000",
       "longitude": "-74.86919000"
-   },
-   {
-      "name": "San Luis",
-      "countryCode": "CO",
-      "stateCode": "ANT",
-      "latitude": "6.04222222",
-      "longitude": "-74.99333333"
    }
 ]

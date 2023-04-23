@@ -15,11 +15,6 @@
       "stateCode": "MAG"
    },
    {
-      "name": "San Sebastián de Buenavista",
-      "countryCode": "CO",
-      "stateCode": "MAG"
-   },
-   {
       "name": "Cerro de San Antonio",
       "countryCode": "CO",
       "stateCode": "MAG"
@@ -106,6 +101,11 @@
    },
    {
       "name": "Salamina",
+      "countryCode": "CO",
+      "stateCode": "MAG"
+   },
+   {
+      "name": "San Sebastián de Buenavista",
       "countryCode": "CO",
       "stateCode": "MAG"
    },

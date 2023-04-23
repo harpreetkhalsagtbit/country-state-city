@@ -1,32 +1,12 @@
 [
    {
+      "name": "Diourbel Region",
+      "isoCode": "DB",
+      "countryCode": "SN"
+   },
+   {
       "name": "Dakar",
       "isoCode": "DK",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Kolda",
-      "isoCode": "KD",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Kaffrine",
-      "isoCode": "KA",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Matam",
-      "isoCode": "MT",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Saint-Louis",
-      "isoCode": "SL",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Ziguinchor",
-      "isoCode": "ZG",
       "countryCode": "SN"
    },
    {
@@ -35,8 +15,13 @@
       "countryCode": "SN"
    },
    {
-      "name": "Diourbel Region",
-      "isoCode": "DB",
+      "name": "Kaffrine",
+      "isoCode": "KA",
+      "countryCode": "SN"
+   },
+   {
+      "name": "Kolda",
+      "isoCode": "KD",
       "countryCode": "SN"
    },
    {
@@ -45,18 +30,8 @@
       "countryCode": "SN"
    },
    {
-      "name": "Sédhiou",
-      "isoCode": "SE",
-      "countryCode": "SN"
-   },
-   {
       "name": "Kaolack",
       "isoCode": "KL",
-      "countryCode": "SN"
-   },
-   {
-      "name": "Thiès Region",
-      "isoCode": "TH",
       "countryCode": "SN"
    },
    {
@@ -65,8 +40,33 @@
       "countryCode": "SN"
    },
    {
+      "name": "Matam",
+      "isoCode": "MT",
+      "countryCode": "SN"
+   },
+   {
+      "name": "Sédhiou",
+      "isoCode": "SE",
+      "countryCode": "SN"
+   },
+   {
+      "name": "Saint-Louis",
+      "isoCode": "SL",
+      "countryCode": "SN"
+   },
+   {
       "name": "Tambacounda Region",
       "isoCode": "TC",
+      "countryCode": "SN"
+   },
+   {
+      "name": "Thiès Region",
+      "isoCode": "TH",
+      "countryCode": "SN"
+   },
+   {
+      "name": "Ziguinchor",
+      "isoCode": "ZG",
       "countryCode": "SN"
    }
 ]

@@ -245,6 +245,13 @@
       "longitude": "-77.52136000"
    },
    {
+      "name": "Magüí Payán",
+      "countryCode": "CO",
+      "stateCode": "NAR",
+      "latitude": "1.76645000",
+      "longitude": "-78.18326000"
+   },
+   {
       "name": "Mallama",
       "countryCode": "CO",
       "stateCode": "NAR",
@@ -287,13 +294,6 @@
       "longitude": "-77.27865000"
    },
    {
-      "name": "Magüí Payán",
-      "countryCode": "CO",
-      "stateCode": "NAR",
-      "latitude": "1.76645000",
-      "longitude": "-78.18326000"
-   },
-   {
       "name": "Policarpa",
       "countryCode": "CO",
       "stateCode": "NAR",
@@ -306,6 +306,13 @@
       "stateCode": "NAR",
       "latitude": "0.80739000",
       "longitude": "-77.57216000"
+   },
+   {
+      "name": "Providencia",
+      "countryCode": "CO",
+      "stateCode": "NAR",
+      "latitude": "1.23888999",
+      "longitude": "-77.59755555"
    },
    {
       "name": "Puerres",
@@ -439,12 +446,5 @@
       "stateCode": "NAR",
       "latitude": "1.11577000",
       "longitude": "-77.40169000"
-   },
-   {
-      "name": "Providencia",
-      "countryCode": "CO",
-      "stateCode": "NAR",
-      "latitude": "1.23888999",
-      "longitude": "-77.59755555"
    }
 ]

@@ -14,27 +14,6 @@
       "longitude": "-72.10344000"
    },
    {
-      "name": "Coihueco",
-      "countryCode": "CL",
-      "stateCode": "NB",
-      "latitude": "-36.62785000",
-      "longitude": "-71.83068000"
-   },
-   {
-      "name": "Quirihue",
-      "countryCode": "CL",
-      "stateCode": "NB",
-      "latitude": "-36.27998000",
-      "longitude": "-72.54118000"
-   },
-   {
-      "name": "San Carlos",
-      "countryCode": "CL",
-      "stateCode": "NB",
-      "latitude": "-36.42477000",
-      "longitude": "-71.95800000"
-   },
-   {
       "name": "Chillán Viejo",
       "countryCode": "CL",
       "stateCode": "NB",
@@ -56,6 +35,13 @@
       "longitude": "-72.70000000"
    },
    {
+      "name": "Coihueco",
+      "countryCode": "CL",
+      "stateCode": "NB",
+      "latitude": "-36.62785000",
+      "longitude": "-71.83068000"
+   },
+   {
       "name": "El Carmen",
       "countryCode": "CL",
       "stateCode": "NB",
@@ -68,13 +54,6 @@
       "stateCode": "NB",
       "latitude": "-36.40000000",
       "longitude": "-72.40000000"
-   },
-   {
-      "name": "Ñiquén",
-      "countryCode": "CL",
-      "stateCode": "NB",
-      "latitude": "-36.30000000",
-      "longitude": "-71.90000000"
    },
    {
       "name": "Pemuco",
@@ -105,11 +84,25 @@
       "longitude": "-72.46666667"
    },
    {
+      "name": "Quirihue",
+      "countryCode": "CL",
+      "stateCode": "NB",
+      "latitude": "-36.27998000",
+      "longitude": "-72.54118000"
+   },
+   {
       "name": "Ránquil",
       "countryCode": "CL",
       "stateCode": "NB",
       "latitude": "-36.65000000",
       "longitude": "-72.55000000"
+   },
+   {
+      "name": "San Carlos",
+      "countryCode": "CL",
+      "stateCode": "NB",
+      "latitude": "-36.42477000",
+      "longitude": "-71.95800000"
    },
    {
       "name": "San Fabián",
@@ -145,5 +138,12 @@
       "stateCode": "NB",
       "latitude": "-37.11666667",
       "longitude": "-72.01666667"
+   },
+   {
+      "name": "Ñiquén",
+      "countryCode": "CL",
+      "stateCode": "NB",
+      "latitude": "-36.30000000",
+      "longitude": "-71.90000000"
    }
 ]

@@ -1,47 +1,5 @@
 [
    {
-      "name": "Collines Department",
-      "isoCode": "CO",
-      "countryCode": "BJ",
-      "latitude": "8.30222970",
-      "longitude": "2.30244600"
-   },
-   {
-      "name": "Kouffo Department",
-      "isoCode": "KO",
-      "countryCode": "BJ",
-      "latitude": "7.00358940",
-      "longitude": "1.75388170"
-   },
-   {
-      "name": "Donga Department",
-      "isoCode": "DO",
-      "countryCode": "BJ",
-      "latitude": "9.71918670",
-      "longitude": "1.67606910"
-   },
-   {
-      "name": "Zou Department",
-      "isoCode": "ZO",
-      "countryCode": "BJ",
-      "latitude": "7.34692680",
-      "longitude": "2.06651970"
-   },
-   {
-      "name": "Plateau Department",
-      "isoCode": "PL",
-      "countryCode": "BJ",
-      "latitude": "7.34451410",
-      "longitude": "2.53960300"
-   },
-   {
-      "name": "Mono Department",
-      "isoCode": "MO",
-      "countryCode": "BJ",
-      "latitude": "37.92186080",
-      "longitude": "-118.95286450"
-   },
-   {
       "name": "Atakora Department",
       "isoCode": "AK",
       "countryCode": "BJ",
@@ -56,6 +14,13 @@
       "longitude": "2.77798130"
    },
    {
+      "name": "Atlantique Department",
+      "isoCode": "AQ",
+      "countryCode": "BJ",
+      "latitude": "6.65883910",
+      "longitude": "2.22366670"
+   },
+   {
       "name": "Borgou Department",
       "isoCode": "BO",
       "countryCode": "BJ",
@@ -63,11 +28,39 @@
       "longitude": "2.77798130"
    },
    {
-      "name": "Atlantique Department",
-      "isoCode": "AQ",
+      "name": "Collines Department",
+      "isoCode": "CO",
       "countryCode": "BJ",
-      "latitude": "6.65883910",
-      "longitude": "2.22366670"
+      "latitude": "8.30222970",
+      "longitude": "2.30244600"
+   },
+   {
+      "name": "Donga Department",
+      "isoCode": "DO",
+      "countryCode": "BJ",
+      "latitude": "9.71918670",
+      "longitude": "1.67606910"
+   },
+   {
+      "name": "Kouffo Department",
+      "isoCode": "KO",
+      "countryCode": "BJ",
+      "latitude": "7.00358940",
+      "longitude": "1.75388170"
+   },
+   {
+      "name": "Littoral Department",
+      "isoCode": "LI",
+      "countryCode": "BJ",
+      "latitude": "6.38069730",
+      "longitude": "2.44063870"
+   },
+   {
+      "name": "Mono Department",
+      "isoCode": "MO",
+      "countryCode": "BJ",
+      "latitude": "37.92186080",
+      "longitude": "-118.95286450"
    },
    {
       "name": "Ouémé Department",
@@ -77,10 +70,17 @@
       "longitude": "2.49999180"
    },
    {
-      "name": "Littoral Department",
-      "isoCode": "LI",
+      "name": "Plateau Department",
+      "isoCode": "PL",
       "countryCode": "BJ",
-      "latitude": "6.38069730",
-      "longitude": "2.44063870"
+      "latitude": "7.34451410",
+      "longitude": "2.53960300"
+   },
+   {
+      "name": "Zou Department",
+      "isoCode": "ZO",
+      "countryCode": "BJ",
+      "latitude": "7.34692680",
+      "longitude": "2.06651970"
    }
 ]

@@ -10,8 +10,8 @@
       "countryCode": "GE"
    },
    {
-      "name": "Tbilisi",
-      "isoCode": "TB",
+      "name": "Autonomous Republic of Abkhazia",
+      "isoCode": "AB",
       "countryCode": "GE"
    },
    {
@@ -20,23 +20,8 @@
       "countryCode": "GE"
    },
    {
-      "name": "Autonomous Republic of Abkhazia",
-      "isoCode": "AB",
-      "countryCode": "GE"
-   },
-   {
-      "name": "Mtskheta-Mtianeti",
-      "isoCode": "MM",
-      "countryCode": "GE"
-   },
-   {
-      "name": "Shida Kartli",
-      "isoCode": "SK",
-      "countryCode": "GE"
-   },
-   {
-      "name": "Kvemo Kartli",
-      "isoCode": "KK",
+      "name": "Guria",
+      "isoCode": "GU",
       "countryCode": "GE"
    },
    {
@@ -45,18 +30,18 @@
       "countryCode": "GE"
    },
    {
-      "name": "Samtskhe-Javakheti",
-      "isoCode": "SJ",
+      "name": "Kakheti",
+      "isoCode": "KA",
       "countryCode": "GE"
    },
    {
-      "name": "Guria",
-      "isoCode": "GU",
+      "name": "Kvemo Kartli",
+      "isoCode": "KK",
       "countryCode": "GE"
    },
    {
-      "name": "Samegrelo-Zemo Svaneti",
-      "isoCode": "SZ",
+      "name": "Mtskheta-Mtianeti",
+      "isoCode": "MM",
       "countryCode": "GE"
    },
    {
@@ -65,8 +50,23 @@
       "countryCode": "GE"
    },
    {
-      "name": "Kakheti",
-      "isoCode": "KA",
+      "name": "Samtskhe-Javakheti",
+      "isoCode": "SJ",
+      "countryCode": "GE"
+   },
+   {
+      "name": "Shida Kartli",
+      "isoCode": "SK",
+      "countryCode": "GE"
+   },
+   {
+      "name": "Samegrelo-Zemo Svaneti",
+      "isoCode": "SZ",
+      "countryCode": "GE"
+   },
+   {
+      "name": "Tbilisi",
+      "isoCode": "TB",
       "countryCode": "GE"
    }
 ]

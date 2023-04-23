@@ -1120,6 +1120,27 @@
       "longitude": "21.04932000"
    },
    {
+      "name": "Sântana",
+      "countryCode": "RO",
+      "stateCode": "AR",
+      "latitude": "46.35000000",
+      "longitude": "21.50000000"
+   },
+   {
+      "name": "Săvârşin",
+      "countryCode": "RO",
+      "stateCode": "AR",
+      "latitude": "46.01667000",
+      "longitude": "22.23333000"
+   },
+   {
+      "name": "Tauţ",
+      "countryCode": "RO",
+      "stateCode": "AR",
+      "latitude": "46.28333000",
+      "longitude": "21.91667000"
+   },
+   {
       "name": "Turnu",
       "countryCode": "RO",
       "stateCode": "AR",
@@ -1286,26 +1307,5 @@
       "stateCode": "AR",
       "latitude": "46.47563000",
       "longitude": "21.63431000"
-   },
-   {
-      "name": "Sântana",
-      "countryCode": "RO",
-      "stateCode": "AR",
-      "latitude": "46.35000000",
-      "longitude": "21.50000000"
-   },
-   {
-      "name": "Săvârşin",
-      "countryCode": "RO",
-      "stateCode": "AR",
-      "latitude": "46.01667000",
-      "longitude": "22.23333000"
-   },
-   {
-      "name": "Tauţ",
-      "countryCode": "RO",
-      "stateCode": "AR",
-      "latitude": "46.28333000",
-      "longitude": "21.91667000"
    }
 ]

@@ -1,7 +1,7 @@
 [
    {
-      "name": "Northern Cape",
-      "isoCode": "NC",
+      "name": "Eastern Cape",
+      "isoCode": "EC",
       "countryCode": "ZA"
    },
    {
@@ -10,13 +10,8 @@
       "countryCode": "ZA"
    },
    {
-      "name": "Limpopo",
-      "isoCode": "LP",
-      "countryCode": "ZA"
-   },
-   {
-      "name": "North West",
-      "isoCode": "NW",
+      "name": "Gauteng",
+      "isoCode": "GP",
       "countryCode": "ZA"
    },
    {
@@ -25,8 +20,8 @@
       "countryCode": "ZA"
    },
    {
-      "name": "Gauteng",
-      "isoCode": "GP",
+      "name": "Limpopo",
+      "isoCode": "LP",
       "countryCode": "ZA"
    },
    {
@@ -35,8 +30,13 @@
       "countryCode": "ZA"
    },
    {
-      "name": "Eastern Cape",
-      "isoCode": "EC",
+      "name": "Northern Cape",
+      "isoCode": "NC",
+      "countryCode": "ZA"
+   },
+   {
+      "name": "North West",
+      "isoCode": "NW",
       "countryCode": "ZA"
    },
    {

@@ -161,18 +161,18 @@
       "longitude": "76.28333000"
    },
    {
-      "name": "Ernakulam",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "10.00000000",
-      "longitude": "76.50000000"
-   },
-   {
       "name": "Erattupetta",
       "countryCode": "IN",
       "stateCode": "KL",
       "latitude": "9.68747000",
       "longitude": "76.77891000"
+   },
+   {
+      "name": "Ernakulam",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "10.00000000",
+      "longitude": "76.50000000"
    },
    {
       "name": "Ferokh",
@@ -238,6 +238,13 @@
       "longitude": "76.08343000"
    },
    {
+      "name": "Kannangad",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "12.30814000",
+      "longitude": "75.10632000"
+   },
+   {
       "name": "Kannavam",
       "countryCode": "IN",
       "stateCode": "KL",
@@ -252,11 +259,32 @@
       "longitude": "75.33333000"
    },
    {
+      "name": "Kasaragod",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "12.49838000",
+      "longitude": "74.98959000"
+   },
+   {
+      "name": "Kasaragod District",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "12.49246000",
+      "longitude": "74.99062000"
+   },
+   {
       "name": "Kattanam",
       "countryCode": "IN",
       "stateCode": "KL",
       "latitude": "9.17614000",
       "longitude": "76.56325000"
+   },
+   {
+      "name": "Kayankulam",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "9.18173000",
+      "longitude": "76.50093000"
    },
    {
       "name": "Kizhake Chalakudi",
@@ -350,34 +378,6 @@
       "longitude": "76.73544000"
    },
    {
-      "name": "Kannangad",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "12.30814000",
-      "longitude": "75.10632000"
-   },
-   {
-      "name": "Kasaragod",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "12.49838000",
-      "longitude": "74.98959000"
-   },
-   {
-      "name": "Kasaragod District",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "12.49246000",
-      "longitude": "74.99062000"
-   },
-   {
-      "name": "Kayankulam",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "9.18173000",
-      "longitude": "76.50093000"
-   },
-   {
       "name": "Lalam",
       "countryCode": "IN",
       "stateCode": "KL",
@@ -434,6 +434,13 @@
       "longitude": "75.57152000"
    },
    {
+      "name": "Mavelikara",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "9.25929000",
+      "longitude": "76.55642000"
+   },
+   {
       "name": "Mavoor",
       "countryCode": "IN",
       "stateCode": "KL",
@@ -455,6 +462,13 @@
       "longitude": "77.06239000"
    },
    {
+      "name": "Muvattupula",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "9.98493000",
+      "longitude": "76.57728000"
+   },
+   {
       "name": "Muvattupuzha",
       "countryCode": "IN",
       "stateCode": "KL",
@@ -462,18 +476,11 @@
       "longitude": "76.57381000"
    },
    {
-      "name": "Mavelikara",
+      "name": "Nadapuram",
       "countryCode": "IN",
       "stateCode": "KL",
-      "latitude": "9.25929000",
-      "longitude": "76.55642000"
-   },
-   {
-      "name": "Muvattupula",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "9.98493000",
-      "longitude": "76.57728000"
+      "latitude": "11.68465000",
+      "longitude": "75.65493000"
    },
    {
       "name": "Naduvannur",
@@ -495,13 +502,6 @@
       "stateCode": "KL",
       "latitude": "8.39854000",
       "longitude": "77.08586000"
-   },
-   {
-      "name": "Nadapuram",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "11.68465000",
-      "longitude": "75.65493000"
    },
    {
       "name": "Nilēshwar",
@@ -532,11 +532,25 @@
       "longitude": "76.65100000"
    },
    {
+      "name": "Palghat",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "10.77319000",
+      "longitude": "76.65366000"
+   },
+   {
       "name": "Panamaram",
       "countryCode": "IN",
       "stateCode": "KL",
       "latitude": "11.74014000",
       "longitude": "76.07369000"
+   },
+   {
+      "name": "Pappinisshēri",
+      "countryCode": "IN",
+      "stateCode": "KL",
+      "latitude": "11.95655000",
+      "longitude": "75.34034000"
    },
    {
       "name": "Paravur Tekkumbhagam",
@@ -621,20 +635,6 @@
       "stateCode": "KL",
       "latitude": "9.01956000",
       "longitude": "76.92261000"
-   },
-   {
-      "name": "Palghat",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "10.77319000",
-      "longitude": "76.65366000"
-   },
-   {
-      "name": "Pappinisshēri",
-      "countryCode": "IN",
-      "stateCode": "KL",
-      "latitude": "11.95655000",
-      "longitude": "75.34034000"
    },
    {
       "name": "Ramamangalam",

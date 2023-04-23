@@ -5,78 +5,8 @@
       "countryCode": "CH"
    },
    {
-      "name": "Fribourg",
-      "isoCode": "FR",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Basel-Land",
-      "isoCode": "BL",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Uri",
-      "isoCode": "UR",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Ticino",
-      "isoCode": "TI",
-      "countryCode": "CH"
-   },
-   {
-      "name": "St. Gallen",
-      "isoCode": "SG",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Bern",
-      "isoCode": "BE",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Zug",
-      "isoCode": "ZG",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Geneva",
-      "isoCode": "GE",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Valais",
-      "isoCode": "VS",
-      "countryCode": "CH"
-   },
-   {
       "name": "Appenzell Innerrhoden",
       "isoCode": "AI",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Obwalden",
-      "isoCode": "OW",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Vaud",
-      "isoCode": "VD",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Nidwalden",
-      "isoCode": "NW",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Schwyz",
-      "isoCode": "SZ",
-      "countryCode": "CH"
-   },
-   {
-      "name": "Schaffhausen",
-      "isoCode": "SH",
       "countryCode": "CH"
    },
    {
@@ -85,28 +15,28 @@
       "countryCode": "CH"
    },
    {
-      "name": "Zürich",
-      "isoCode": "ZH",
+      "name": "Bern",
+      "isoCode": "BE",
       "countryCode": "CH"
    },
    {
-      "name": "Thurgau",
-      "isoCode": "TG",
+      "name": "Basel-Land",
+      "isoCode": "BL",
       "countryCode": "CH"
    },
    {
-      "name": "Jura",
-      "isoCode": "JU",
+      "name": "Basel-Stadt",
+      "isoCode": "BS",
       "countryCode": "CH"
    },
    {
-      "name": "Neuchâtel",
-      "isoCode": "NE",
+      "name": "Fribourg",
+      "isoCode": "FR",
       "countryCode": "CH"
    },
    {
-      "name": "Graubünden",
-      "isoCode": "GR",
+      "name": "Geneva",
+      "isoCode": "GE",
       "countryCode": "CH"
    },
    {
@@ -115,8 +45,13 @@
       "countryCode": "CH"
    },
    {
-      "name": "Solothurn",
-      "isoCode": "SO",
+      "name": "Graubünden",
+      "isoCode": "GR",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Jura",
+      "isoCode": "JU",
       "countryCode": "CH"
    },
    {
@@ -125,8 +60,73 @@
       "countryCode": "CH"
    },
    {
-      "name": "Basel-Stadt",
-      "isoCode": "BS",
+      "name": "Neuchâtel",
+      "isoCode": "NE",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Nidwalden",
+      "isoCode": "NW",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Obwalden",
+      "isoCode": "OW",
+      "countryCode": "CH"
+   },
+   {
+      "name": "St. Gallen",
+      "isoCode": "SG",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Schaffhausen",
+      "isoCode": "SH",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Solothurn",
+      "isoCode": "SO",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Schwyz",
+      "isoCode": "SZ",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Thurgau",
+      "isoCode": "TG",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Ticino",
+      "isoCode": "TI",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Uri",
+      "isoCode": "UR",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Vaud",
+      "isoCode": "VD",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Valais",
+      "isoCode": "VS",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Zug",
+      "isoCode": "ZG",
+      "countryCode": "CH"
+   },
+   {
+      "name": "Zürich",
+      "isoCode": "ZH",
       "countryCode": "CH"
    }
 ]

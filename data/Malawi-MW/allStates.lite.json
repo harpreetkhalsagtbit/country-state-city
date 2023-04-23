@@ -1,27 +1,27 @@
 [
    {
-      "name": "Machinga District",
-      "isoCode": "MH",
+      "name": "Balaka District",
+      "isoCode": "BA",
       "countryCode": "MW"
    },
    {
-      "name": "Zomba District",
-      "isoCode": "ZO",
+      "name": "Blantyre District",
+      "isoCode": "BL",
       "countryCode": "MW"
    },
    {
-      "name": "Mwanza District",
-      "isoCode": "MW",
+      "name": "Central Region",
+      "isoCode": "C",
       "countryCode": "MW"
    },
    {
-      "name": "Nsanje District",
-      "isoCode": "NS",
+      "name": "Chikwawa District",
+      "isoCode": "CK",
       "countryCode": "MW"
    },
    {
-      "name": "Salima District",
-      "isoCode": "SA",
+      "name": "Chiradzulu District",
+      "isoCode": "CR",
       "countryCode": "MW"
    },
    {
@@ -30,13 +30,8 @@
       "countryCode": "MW"
    },
    {
-      "name": "Ntcheu District",
-      "isoCode": "NU",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Rumphi District",
-      "isoCode": "RU",
+      "name": "Dedza District",
+      "isoCode": "DE",
       "countryCode": "MW"
    },
    {
@@ -50,48 +45,8 @@
       "countryCode": "MW"
    },
    {
-      "name": "Central Region",
-      "isoCode": "C",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Likoma District",
-      "isoCode": "LK",
-      "countryCode": "MW"
-   },
-   {
       "name": "Kasungu District",
       "isoCode": "KS",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Nkhata Bay District",
-      "isoCode": "NB",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Balaka District",
-      "isoCode": "BA",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Dedza District",
-      "isoCode": "DE",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Thyolo District",
-      "isoCode": "TH",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Mchinji District",
-      "isoCode": "MC",
-      "countryCode": "MW"
-   },
-   {
-      "name": "Nkhotakota District",
-      "isoCode": "NK",
       "countryCode": "MW"
    },
    {
@@ -100,13 +55,33 @@
       "countryCode": "MW"
    },
    {
-      "name": "Blantyre District",
-      "isoCode": "BL",
+      "name": "Likoma District",
+      "isoCode": "LK",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Mchinji District",
+      "isoCode": "MC",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Mangochi District",
+      "isoCode": "MG",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Machinga District",
+      "isoCode": "MH",
       "countryCode": "MW"
    },
    {
       "name": "Mulanje District",
       "isoCode": "MU",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Mwanza District",
+      "isoCode": "MW",
       "countryCode": "MW"
    },
    {
@@ -120,13 +95,28 @@
       "countryCode": "MW"
    },
    {
-      "name": "Southern Region",
-      "isoCode": "S",
+      "name": "Nkhata Bay District",
+      "isoCode": "NB",
       "countryCode": "MW"
    },
    {
-      "name": "Chikwawa District",
-      "isoCode": "CK",
+      "name": "Ntchisi District",
+      "isoCode": "NI",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Nkhotakota District",
+      "isoCode": "NK",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Nsanje District",
+      "isoCode": "NS",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Ntcheu District",
+      "isoCode": "NU",
       "countryCode": "MW"
    },
    {
@@ -135,18 +125,28 @@
       "countryCode": "MW"
    },
    {
-      "name": "Chiradzulu District",
-      "isoCode": "CR",
+      "name": "Rumphi District",
+      "isoCode": "RU",
       "countryCode": "MW"
    },
    {
-      "name": "Mangochi District",
-      "isoCode": "MG",
+      "name": "Southern Region",
+      "isoCode": "S",
       "countryCode": "MW"
    },
    {
-      "name": "Ntchisi District",
-      "isoCode": "NI",
+      "name": "Salima District",
+      "isoCode": "SA",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Thyolo District",
+      "isoCode": "TH",
+      "countryCode": "MW"
+   },
+   {
+      "name": "Zomba District",
+      "isoCode": "ZO",
       "countryCode": "MW"
    }
 ]

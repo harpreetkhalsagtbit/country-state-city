@@ -35,6 +35,11 @@
       "stateCode": "AS"
    },
    {
+      "name": "Basugaon",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "Bihpuriagaon",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -65,12 +70,7 @@
       "stateCode": "AS"
    },
    {
-      "name": "Basugaon",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
-      "name": "Chirang",
+      "name": "Cachar",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -85,7 +85,7 @@
       "stateCode": "AS"
    },
    {
-      "name": "Cachar",
+      "name": "Chirang",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -160,6 +160,11 @@
       "stateCode": "AS"
    },
    {
+      "name": "Goalpara",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "Gohpur",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -180,17 +185,22 @@
       "stateCode": "AS"
    },
    {
-      "name": "Goalpara",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
       "name": "Guwahati",
       "countryCode": "IN",
       "stateCode": "AS"
    },
    {
+      "name": "Haflong",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "Hailakandi",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Hajo",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -205,16 +215,6 @@
       "stateCode": "AS"
    },
    {
-      "name": "Haflong",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
-      "name": "Hajo",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
       "name": "Jogighopa",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -225,7 +225,17 @@
       "stateCode": "AS"
    },
    {
+      "name": "Kamrup",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "Kamrup Metropolitan",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Karbi Anglong",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -245,16 +255,6 @@
       "stateCode": "AS"
    },
    {
-      "name": "Kamrup",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
-      "name": "Karbi Anglong",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
       "name": "Lakhimpur",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -265,12 +265,12 @@
       "stateCode": "AS"
    },
    {
-      "name": "Lumding Railway Colony",
+      "name": "Lala",
       "countryCode": "IN",
       "stateCode": "AS"
    },
    {
-      "name": "Lala",
+      "name": "Lumding Railway Colony",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -285,6 +285,11 @@
       "stateCode": "AS"
    },
    {
+      "name": "Makum",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "Mangaldai",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -295,17 +300,12 @@
       "stateCode": "AS"
    },
    {
-      "name": "Morigaon",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
       "name": "Moranha",
       "countryCode": "IN",
       "stateCode": "AS"
    },
    {
-      "name": "Makum",
+      "name": "Morigaon",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -325,6 +325,16 @@
       "stateCode": "AS"
    },
    {
+      "name": "Namrup",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
+      "name": "Nazira",
+      "countryCode": "IN",
+      "stateCode": "AS"
+   },
+   {
       "name": "North Guwahati",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -340,16 +350,6 @@
       "stateCode": "AS"
    },
    {
-      "name": "Namrup",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
-      "name": "Nazira",
-      "countryCode": "IN",
-      "stateCode": "AS"
-   },
-   {
       "name": "Palasbari",
       "countryCode": "IN",
       "stateCode": "AS"
@@ -360,12 +360,12 @@
       "stateCode": "AS"
    },
    {
-      "name": "Rangia",
+      "name": "Rangapara",
       "countryCode": "IN",
       "stateCode": "AS"
    },
    {
-      "name": "Rangapara",
+      "name": "Rangia",
       "countryCode": "IN",
       "stateCode": "AS"
    },
@@ -400,12 +400,12 @@
       "stateCode": "AS"
    },
    {
-      "name": "Sonitpur",
+      "name": "Sonari",
       "countryCode": "IN",
       "stateCode": "AS"
    },
    {
-      "name": "Sonari",
+      "name": "Sonitpur",
       "countryCode": "IN",
       "stateCode": "AS"
    },

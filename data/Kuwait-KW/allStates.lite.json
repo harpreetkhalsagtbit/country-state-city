@@ -1,17 +1,7 @@
 [
    {
-      "name": "Al Jahra Governorate",
-      "isoCode": "JA",
-      "countryCode": "KW"
-   },
-   {
-      "name": "Hawalli Governorate",
-      "isoCode": "HA",
-      "countryCode": "KW"
-   },
-   {
-      "name": "Mubarak Al-Kabeer Governorate",
-      "isoCode": "MU",
+      "name": "Al Ahmadi Governorate",
+      "isoCode": "AH",
       "countryCode": "KW"
    },
    {
@@ -20,13 +10,23 @@
       "countryCode": "KW"
    },
    {
+      "name": "Hawalli Governorate",
+      "isoCode": "HA",
+      "countryCode": "KW"
+   },
+   {
+      "name": "Al Jahra Governorate",
+      "isoCode": "JA",
+      "countryCode": "KW"
+   },
+   {
       "name": "Capital Governorate",
       "isoCode": "KU",
       "countryCode": "KW"
    },
    {
-      "name": "Al Ahmadi Governorate",
-      "isoCode": "AH",
+      "name": "Mubarak Al-Kabeer Governorate",
+      "isoCode": "MU",
       "countryCode": "KW"
    }
 ]

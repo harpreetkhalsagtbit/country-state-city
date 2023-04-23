@@ -1,5 +1,250 @@
 [
    {
+      "name": "Alamada",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.38682222",
+      "longitude": "124.55344722"
+   },
+   {
+      "name": "Amas",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.05694444",
+      "longitude": "124.98388889"
+   },
+   {
+      "name": "Bagontapay",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.85888889",
+      "longitude": "124.90888889"
+   },
+   {
+      "name": "Baguer",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.25611111",
+      "longitude": "124.50416667"
+   },
+   {
+      "name": "Bagumbayan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.53387778",
+      "longitude": "124.56326389"
+   },
+   {
+      "name": "Baliton",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "5.74361111",
+      "longitude": "125.23638889"
+   },
+   {
+      "name": "Balogo",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.28222222",
+      "longitude": "124.46388889"
+   },
+   {
+      "name": "Banawa",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.15361111",
+      "longitude": "124.86666667"
+   },
+   {
+      "name": "Banga",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.30000000",
+      "longitude": "124.78333333"
+   },
+   {
+      "name": "Banisilan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.50000000",
+      "longitude": "124.70000000"
+   },
+   {
+      "name": "Bantogon",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.53333333",
+      "longitude": "124.03333333"
+   },
+   {
+      "name": "Barongis",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.26111111",
+      "longitude": "124.56416667"
+   },
+   {
+      "name": "Basak",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.72722222",
+      "longitude": "124.15111111"
+   },
+   {
+      "name": "Batasan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.03333333",
+      "longitude": "125.05000000"
+   },
+   {
+      "name": "Batutitik",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.22333333",
+      "longitude": "125.25194444"
+   },
+   {
+      "name": "Bau",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.40527778",
+      "longitude": "124.64972222"
+   },
+   {
+      "name": "Bayasong",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.64888889",
+      "longitude": "124.87305556"
+   },
+   {
+      "name": "Bialong",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.98055556",
+      "longitude": "124.88888889"
+   },
+   {
+      "name": "Biwang",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.60592000",
+      "longitude": "124.54358000"
+   },
+   {
+      "name": "Blingkong",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.58808000",
+      "longitude": "124.88951000"
+   },
+   {
+      "name": "Buadtasan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.00500000",
+      "longitude": "124.61277778"
+   },
+   {
+      "name": "Bual",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.79583333",
+      "longitude": "124.91083333"
+   },
+   {
+      "name": "Buayan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.11638889",
+      "longitude": "125.23472222"
+   },
+   {
+      "name": "Bucay Pait",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.56161000",
+      "longitude": "124.76706000"
+   },
+   {
+      "name": "Bulatukan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.90250000",
+      "longitude": "125.16083333"
+   },
+   {
+      "name": "Burias",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "5.71777778",
+      "longitude": "125.25361111"
+   },
+   {
+      "name": "Busok",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.50820000",
+      "longitude": "124.60009000"
+   },
+   {
+      "name": "Carmen",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.20444444",
+      "longitude": "124.79166667"
+   },
+   {
+      "name": "Carpenter",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.44413000",
+      "longitude": "124.88138000"
+   },
+   {
+      "name": "Cebuano",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.38805556",
+      "longitude": "124.96833333"
+   },
+   {
+      "name": "City of Kidapawan",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "7.03333000",
+      "longitude": "125.08333000"
+   },
+   {
+      "name": "City of Koronadal",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.49162000",
+      "longitude": "124.88840000"
+   },
+   {
+      "name": "City of Tacurong",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.69133000",
+      "longitude": "124.67300000"
+   },
+   {
+      "name": "Colongolo",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.33861111",
+      "longitude": "124.72166667"
+   },
+   {
+      "name": "Columbio",
+      "countryCode": "PH",
+      "stateCode": "BUK",
+      "latitude": "6.70000000",
+      "longitude": "124.93333333"
+   },
+   {
       "name": "Cotabato City",
       "countryCode": "PH",
       "stateCode": "BUK",
@@ -1209,250 +1454,5 @@
       "stateCode": "BUK",
       "latitude": "6.70380000",
       "longitude": "124.52009000"
-   },
-   {
-      "name": "Alamada",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.38682222",
-      "longitude": "124.55344722"
-   },
-   {
-      "name": "Amas",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.05694444",
-      "longitude": "124.98388889"
-   },
-   {
-      "name": "Bagontapay",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.85888889",
-      "longitude": "124.90888889"
-   },
-   {
-      "name": "Baguer",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.25611111",
-      "longitude": "124.50416667"
-   },
-   {
-      "name": "Bagumbayan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.53387778",
-      "longitude": "124.56326389"
-   },
-   {
-      "name": "Baliton",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "5.74361111",
-      "longitude": "125.23638889"
-   },
-   {
-      "name": "Balogo",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.28222222",
-      "longitude": "124.46388889"
-   },
-   {
-      "name": "Banawa",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.15361111",
-      "longitude": "124.86666667"
-   },
-   {
-      "name": "Banga",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.30000000",
-      "longitude": "124.78333333"
-   },
-   {
-      "name": "Banisilan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.50000000",
-      "longitude": "124.70000000"
-   },
-   {
-      "name": "Bantogon",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.53333333",
-      "longitude": "124.03333333"
-   },
-   {
-      "name": "Barongis",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.26111111",
-      "longitude": "124.56416667"
-   },
-   {
-      "name": "Basak",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.72722222",
-      "longitude": "124.15111111"
-   },
-   {
-      "name": "Batasan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.03333333",
-      "longitude": "125.05000000"
-   },
-   {
-      "name": "Batutitik",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.22333333",
-      "longitude": "125.25194444"
-   },
-   {
-      "name": "Bau",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.40527778",
-      "longitude": "124.64972222"
-   },
-   {
-      "name": "Bayasong",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.64888889",
-      "longitude": "124.87305556"
-   },
-   {
-      "name": "Bialong",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.98055556",
-      "longitude": "124.88888889"
-   },
-   {
-      "name": "Biwang",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.60592000",
-      "longitude": "124.54358000"
-   },
-   {
-      "name": "Blingkong",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.58808000",
-      "longitude": "124.88951000"
-   },
-   {
-      "name": "Buadtasan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.00500000",
-      "longitude": "124.61277778"
-   },
-   {
-      "name": "Bual",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.79583333",
-      "longitude": "124.91083333"
-   },
-   {
-      "name": "Buayan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.11638889",
-      "longitude": "125.23472222"
-   },
-   {
-      "name": "Bucay Pait",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.56161000",
-      "longitude": "124.76706000"
-   },
-   {
-      "name": "Bulatukan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.90250000",
-      "longitude": "125.16083333"
-   },
-   {
-      "name": "Burias",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "5.71777778",
-      "longitude": "125.25361111"
-   },
-   {
-      "name": "Busok",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.50820000",
-      "longitude": "124.60009000"
-   },
-   {
-      "name": "Carmen",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.20444444",
-      "longitude": "124.79166667"
-   },
-   {
-      "name": "Carpenter",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.44413000",
-      "longitude": "124.88138000"
-   },
-   {
-      "name": "Cebuano",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.38805556",
-      "longitude": "124.96833333"
-   },
-   {
-      "name": "City of Kidapawan",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "7.03333000",
-      "longitude": "125.08333000"
-   },
-   {
-      "name": "City of Koronadal",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.49162000",
-      "longitude": "124.88840000"
-   },
-   {
-      "name": "City of Tacurong",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.69133000",
-      "longitude": "124.67300000"
-   },
-   {
-      "name": "Colongolo",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.33861111",
-      "longitude": "124.72166667"
-   },
-   {
-      "name": "Columbio",
-      "countryCode": "PH",
-      "stateCode": "BUK",
-      "latitude": "6.70000000",
-      "longitude": "124.93333333"
    }
 ]

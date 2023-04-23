@@ -1,172 +1,7 @@
 [
    {
-      "name": "Mqabba",
-      "isoCode": "33",
-      "countryCode": "MT"
-   },
-   {
-      "name": "San Ġwann",
-      "isoCode": "49",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Żurrieq",
-      "isoCode": "68",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Luqa",
-      "isoCode": "25",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Marsaxlokk",
-      "isoCode": "28",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Qala",
-      "isoCode": "42",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Żebbuġ Malta",
-      "isoCode": "66",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Xgħajra",
-      "isoCode": "63",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Kirkop",
-      "isoCode": "23",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Rabat",
-      "isoCode": "46",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Floriana",
-      "isoCode": "09",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Żebbuġ Gozo",
-      "isoCode": "65",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Swieqi",
-      "isoCode": "57",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Saint Lawrence",
-      "isoCode": "50",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Birżebbuġa",
-      "isoCode": "05",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Mdina",
-      "isoCode": "29",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Santa Venera",
-      "isoCode": "54",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Kerċem",
-      "isoCode": "22",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Għarb",
-      "isoCode": "14",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Iklin",
-      "isoCode": "19",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Santa Luċija",
-      "isoCode": "53",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Valletta",
-      "isoCode": "60",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Msida",
-      "isoCode": "34",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Birkirkara",
-      "isoCode": "04",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Siġġiewi",
-      "isoCode": "55",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Kalkara",
-      "isoCode": "21",
-      "countryCode": "MT"
-   },
-   {
-      "name": "St. Julian's",
-      "isoCode": "48",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Victoria",
-      "isoCode": "45",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Mellieħa",
-      "isoCode": "30",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Tarxien",
-      "isoCode": "59",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Sliema",
-      "isoCode": "56",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Ħamrun",
-      "isoCode": "18",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Għasri",
-      "isoCode": "16",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Birgu",
-      "isoCode": "03",
+      "name": "Attard",
+      "isoCode": "01",
       "countryCode": "MT"
    },
    {
@@ -175,43 +10,23 @@
       "countryCode": "MT"
    },
    {
-      "name": "Mġarr",
-      "isoCode": "31",
+      "name": "Birgu",
+      "isoCode": "03",
       "countryCode": "MT"
    },
    {
-      "name": "Attard",
-      "isoCode": "01",
+      "name": "Birkirkara",
+      "isoCode": "04",
       "countryCode": "MT"
    },
    {
-      "name": "Qrendi",
-      "isoCode": "44",
+      "name": "Birżebbuġa",
+      "isoCode": "05",
       "countryCode": "MT"
    },
    {
-      "name": "Naxxar",
-      "isoCode": "38",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Gżira",
-      "isoCode": "12",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Xagħra",
-      "isoCode": "61",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Paola",
-      "isoCode": "39",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Sannat",
-      "isoCode": "52",
+      "name": "Cospicua",
+      "isoCode": "06",
       "countryCode": "MT"
    },
    {
@@ -220,13 +35,38 @@
       "countryCode": "MT"
    },
    {
+      "name": "Fgura",
+      "isoCode": "08",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Floriana",
+      "isoCode": "09",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Fontana",
+      "isoCode": "10",
+      "countryCode": "MT"
+   },
+   {
       "name": "Gudja",
       "isoCode": "11",
       "countryCode": "MT"
    },
    {
-      "name": "Qormi",
-      "isoCode": "43",
+      "name": "Gżira",
+      "isoCode": "12",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Għajnsielem",
+      "isoCode": "13",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Għarb",
+      "isoCode": "14",
       "countryCode": "MT"
    },
    {
@@ -235,18 +75,8 @@
       "countryCode": "MT"
    },
    {
-      "name": "Xewkija",
-      "isoCode": "62",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Ta' Xbiex",
-      "isoCode": "58",
-      "countryCode": "MT"
-   },
-   {
-      "name": "Żabbar",
-      "isoCode": "64",
+      "name": "Għasri",
+      "isoCode": "16",
       "countryCode": "MT"
    },
    {
@@ -255,8 +85,33 @@
       "countryCode": "MT"
    },
    {
-      "name": "Pembroke",
-      "isoCode": "40",
+      "name": "Ħamrun",
+      "isoCode": "18",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Iklin",
+      "isoCode": "19",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Senglea",
+      "isoCode": "20",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Kalkara",
+      "isoCode": "21",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Kerċem",
+      "isoCode": "22",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Kirkop",
+      "isoCode": "23",
       "countryCode": "MT"
    },
    {
@@ -265,8 +120,8 @@
       "countryCode": "MT"
    },
    {
-      "name": "Pietà",
-      "isoCode": "41",
+      "name": "Luqa",
+      "isoCode": "25",
       "countryCode": "MT"
    },
    {
@@ -275,13 +130,43 @@
       "countryCode": "MT"
    },
    {
-      "name": "Fgura",
-      "isoCode": "08",
+      "name": "Marsaskala",
+      "isoCode": "27",
       "countryCode": "MT"
    },
    {
-      "name": "Għajnsielem",
-      "isoCode": "13",
+      "name": "Marsaxlokk",
+      "isoCode": "28",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Mdina",
+      "isoCode": "29",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Mellieħa",
+      "isoCode": "30",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Mġarr",
+      "isoCode": "31",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Mosta",
+      "isoCode": "32",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Mqabba",
+      "isoCode": "33",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Msida",
+      "isoCode": "34",
       "countryCode": "MT"
    },
    {
@@ -300,28 +185,63 @@
       "countryCode": "MT"
    },
    {
-      "name": "Fontana",
-      "isoCode": "10",
+      "name": "Naxxar",
+      "isoCode": "38",
       "countryCode": "MT"
    },
    {
-      "name": "Żejtun",
-      "isoCode": "67",
+      "name": "Paola",
+      "isoCode": "39",
       "countryCode": "MT"
    },
    {
-      "name": "Senglea",
-      "isoCode": "20",
+      "name": "Pembroke",
+      "isoCode": "40",
       "countryCode": "MT"
    },
    {
-      "name": "Marsaskala",
-      "isoCode": "27",
+      "name": "Pietà",
+      "isoCode": "41",
       "countryCode": "MT"
    },
    {
-      "name": "Cospicua",
-      "isoCode": "06",
+      "name": "Qala",
+      "isoCode": "42",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Qormi",
+      "isoCode": "43",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Qrendi",
+      "isoCode": "44",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Victoria",
+      "isoCode": "45",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Rabat",
+      "isoCode": "46",
+      "countryCode": "MT"
+   },
+   {
+      "name": "St. Julian's",
+      "isoCode": "48",
+      "countryCode": "MT"
+   },
+   {
+      "name": "San Ġwann",
+      "isoCode": "49",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Saint Lawrence",
+      "isoCode": "50",
       "countryCode": "MT"
    },
    {
@@ -330,8 +250,88 @@
       "countryCode": "MT"
    },
    {
-      "name": "Mosta",
-      "isoCode": "32",
+      "name": "Sannat",
+      "isoCode": "52",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Santa Luċija",
+      "isoCode": "53",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Santa Venera",
+      "isoCode": "54",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Siġġiewi",
+      "isoCode": "55",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Sliema",
+      "isoCode": "56",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Swieqi",
+      "isoCode": "57",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Ta' Xbiex",
+      "isoCode": "58",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Tarxien",
+      "isoCode": "59",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Valletta",
+      "isoCode": "60",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Xagħra",
+      "isoCode": "61",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Xewkija",
+      "isoCode": "62",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Xgħajra",
+      "isoCode": "63",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Żabbar",
+      "isoCode": "64",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Żebbuġ Gozo",
+      "isoCode": "65",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Żebbuġ Malta",
+      "isoCode": "66",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Żejtun",
+      "isoCode": "67",
+      "countryCode": "MT"
+   },
+   {
+      "name": "Żurrieq",
+      "isoCode": "68",
       "countryCode": "MT"
    }
 ]

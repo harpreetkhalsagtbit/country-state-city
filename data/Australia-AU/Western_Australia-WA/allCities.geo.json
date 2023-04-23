@@ -140,6 +140,13 @@
       "longitude": "115.98959000"
    },
    {
+      "name": "Badgingarra",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.44367330",
+      "longitude": "115.47471450"
+   },
+   {
       "name": "Bakers Hill",
       "countryCode": "AU",
       "stateCode": "WA",
@@ -679,11 +686,25 @@
       "longitude": "115.86980000"
    },
    {
+      "name": "Cataby",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.72744730",
+      "longitude": "115.43201600"
+   },
+   {
       "name": "Caversham",
       "countryCode": "AU",
       "stateCode": "WA",
       "latitude": "-31.88333000",
       "longitude": "115.96667000"
+   },
+   {
+      "name": "Cervantes",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.50264750",
+      "longitude": "115.05417670"
    },
    {
       "name": "Champion Lakes",
@@ -1421,6 +1442,13 @@
       "longitude": "117.75556000"
    },
    {
+      "name": "Green Head",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.07749610",
+      "longitude": "114.95851290"
+   },
+   {
       "name": "Greenfields",
       "countryCode": "AU",
       "stateCode": "WA",
@@ -1559,6 +1587,13 @@
       "stateCode": "WA",
       "latitude": "-32.17818000",
       "longitude": "115.98490000"
+   },
+   {
+      "name": "Hill River",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.25744110",
+      "longitude": "115.15365180"
    },
    {
       "name": "Hillarys",
@@ -1904,6 +1939,13 @@
       "longitude": "121.46163000"
    },
    {
+      "name": "Lancelin",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-31.02231270",
+      "longitude": "115.32398090"
+   },
+   {
       "name": "Landsdale",
       "countryCode": "AU",
       "stateCode": "WA",
@@ -1944,6 +1986,13 @@
       "stateCode": "WA",
       "latitude": "-31.93628000",
       "longitude": "115.84190000"
+   },
+   {
+      "name": "Leeman",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-29.98735790",
+      "longitude": "114.95789040"
    },
    {
       "name": "Leeming",
@@ -2049,6 +2098,13 @@
       "stateCode": "WA",
       "latitude": "-31.95187000",
       "longitude": "116.02764000"
+   },
+   {
+      "name": "Malaga",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-31.85814290",
+      "longitude": "115.87986450"
    },
    {
       "name": "Mandurah",
@@ -2357,6 +2413,13 @@
       "stateCode": "WA",
       "latitude": "-28.79859000",
       "longitude": "114.62530000"
+   },
+   {
+      "name": "Muchea",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-31.54936380",
+      "longitude": "115.87036200"
    },
    {
       "name": "Mukinbudin",
@@ -2812,6 +2875,13 @@
       "stateCode": "WA",
       "latitude": "-31.93845000",
       "longitude": "115.94645000"
+   },
+   {
+      "name": "Regans Ford",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-30.95552880",
+      "longitude": "115.60734050"
    },
    {
       "name": "Ridgewood",
@@ -3591,6 +3661,13 @@
       "longitude": "115.99196000"
    },
    {
+      "name": "Woodridge",
+      "countryCode": "AU",
+      "stateCode": "WA",
+      "latitude": "-31.33143680",
+      "longitude": "115.58252470"
+   },
+   {
       "name": "Woodvale",
       "countryCode": "AU",
       "stateCode": "WA",
@@ -3694,82 +3771,5 @@
       "stateCode": "WA",
       "latitude": "-31.88809000",
       "longitude": "116.76780000"
-   },
-   {
-      "name": "Malaga",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-31.85814290",
-      "longitude": "115.87986450"
-   },
-   {
-      "name": "Badgingarra",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.44367330",
-      "longitude": "115.47471450"
-   },
-   {
-      "name": "Muchea",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-31.54936380",
-      "longitude": "115.87036200"
-   },
-   {
-      "name": "Cervantes",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.50264750",
-      "longitude": "115.05417670"
-   },
-   {
-      "name": "Woodridge",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-31.33143680",
-      "longitude": "115.58252470"
-   },
-   {
-      "name": "Leeman",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-29.98735790",
-      "longitude": "114.95789040"
-   },
-   {
-      "name": "Lancelin",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-31.02231270",
-      "longitude": "115.32398090"
-   },
-   {
-      "name": "Green Head",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.07749610",
-      "longitude": "114.95851290"
-   },
-   {
-      "name": "Cataby",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.72744730",
-      "longitude": "115.43201600"
-   },
-   {
-      "name": "Regans Ford",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.95552880",
-      "longitude": "115.60734050"
-   },
-   {
-      "name": "Hill River",
-      "countryCode": "AU",
-      "stateCode": "WA",
-      "latitude": "-30.25744110",
-      "longitude": "115.15365180"
    }
 ]

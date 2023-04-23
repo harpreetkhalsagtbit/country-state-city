@@ -1,12 +1,5 @@
 [
    {
-      "name": "Reghin",
-      "countryCode": "RO",
-      "stateCode": "MS",
-      "latitude": "46.77238770",
-      "longitude": "24.66945610"
-   },
-   {
       "name": "Abuș",
       "countryCode": "RO",
       "stateCode": "MS",
@@ -2385,6 +2378,13 @@
       "stateCode": "MS",
       "latitude": "46.46500600",
       "longitude": "24.41671800"
+   },
+   {
+      "name": "Reghin",
+      "countryCode": "RO",
+      "stateCode": "MS",
+      "latitude": "46.77238770",
+      "longitude": "24.66945610"
    },
    {
       "name": "Remetea",

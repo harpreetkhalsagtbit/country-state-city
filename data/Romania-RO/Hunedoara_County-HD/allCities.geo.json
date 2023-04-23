@@ -938,6 +938,48 @@
       "longitude": "23.01667000"
    },
    {
+      "name": "Sântămăria-Orlea",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "45.58874000",
+      "longitude": "22.97042000"
+   },
+   {
+      "name": "Sălaşu de Sus",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "45.51667000",
+      "longitude": "22.95000000"
+   },
+   {
+      "name": "Teliucu Inferior",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "45.71667000",
+      "longitude": "22.88333000"
+   },
+   {
+      "name": "Tomeşti",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "46.21667000",
+      "longitude": "22.65000000"
+   },
+   {
+      "name": "Topliţa",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "45.68333000",
+      "longitude": "22.78333000"
+   },
+   {
+      "name": "Toteşti",
+      "countryCode": "RO",
+      "stateCode": "HD",
+      "latitude": "45.56667000",
+      "longitude": "22.88333000"
+   },
+   {
       "name": "Turdaş",
       "countryCode": "RO",
       "stateCode": "HD",
@@ -1006,47 +1048,5 @@
       "stateCode": "HD",
       "latitude": "45.91667000",
       "longitude": "22.90000000"
-   },
-   {
-      "name": "Sântămăria-Orlea",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "45.58874000",
-      "longitude": "22.97042000"
-   },
-   {
-      "name": "Sălaşu de Sus",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "45.51667000",
-      "longitude": "22.95000000"
-   },
-   {
-      "name": "Teliucu Inferior",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "45.71667000",
-      "longitude": "22.88333000"
-   },
-   {
-      "name": "Tomeşti",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "46.21667000",
-      "longitude": "22.65000000"
-   },
-   {
-      "name": "Topliţa",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "45.68333000",
-      "longitude": "22.78333000"
-   },
-   {
-      "name": "Toteşti",
-      "countryCode": "RO",
-      "stateCode": "HD",
-      "latitude": "45.56667000",
-      "longitude": "22.88333000"
    }
 ]

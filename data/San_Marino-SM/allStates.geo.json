@@ -1,12 +1,5 @@
 [
    {
-      "name": "San Marino",
-      "isoCode": "07",
-      "countryCode": "SM",
-      "latitude": "43.94236000",
-      "longitude": "12.45777700"
-   },
-   {
       "name": "Acquaviva",
       "isoCode": "01",
       "countryCode": "SM",
@@ -21,11 +14,11 @@
       "longitude": "7.65038540"
    },
    {
-      "name": "Borgo Maggiore",
-      "isoCode": "06",
+      "name": "Domagnano",
+      "isoCode": "03",
       "countryCode": "SM",
-      "latitude": "43.95748820",
-      "longitude": "12.45525460"
+      "latitude": "43.95019290",
+      "longitude": "12.46815370"
    },
    {
       "name": "Faetano",
@@ -35,6 +28,27 @@
       "longitude": "12.48965540"
    },
    {
+      "name": "Fiorentino",
+      "isoCode": "05",
+      "countryCode": "SM",
+      "latitude": "43.90783370",
+      "longitude": "12.45812090"
+   },
+   {
+      "name": "Borgo Maggiore",
+      "isoCode": "06",
+      "countryCode": "SM",
+      "latitude": "43.95748820",
+      "longitude": "12.45525460"
+   },
+   {
+      "name": "San Marino",
+      "isoCode": "07",
+      "countryCode": "SM",
+      "latitude": "43.94236000",
+      "longitude": "12.45777700"
+   },
+   {
       "name": "Montegiardino",
       "isoCode": "08",
       "countryCode": "SM",
@@ -42,24 +56,10 @@
       "longitude": "12.48105420"
    },
    {
-      "name": "Domagnano",
-      "isoCode": "03",
-      "countryCode": "SM",
-      "latitude": "43.95019290",
-      "longitude": "12.46815370"
-   },
-   {
       "name": "Serravalle",
       "isoCode": "09",
       "countryCode": "SM",
       "latitude": "44.72320840",
       "longitude": "8.85740050"
-   },
-   {
-      "name": "Fiorentino",
-      "isoCode": "05",
-      "countryCode": "SM",
-      "latitude": "43.90783370",
-      "longitude": "12.45812090"
    }
 ]

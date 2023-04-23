@@ -49,6 +49,27 @@
       "longitude": "78.75207000"
    },
    {
+      "name": "Alangudi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.36060000",
+      "longitude": "78.98492000"
+   },
+   {
+      "name": "Alangulam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "8.86404000",
+      "longitude": "77.49937000"
+   },
+   {
+      "name": "Alappakkam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.59895000",
+      "longitude": "79.71893000"
+   },
+   {
       "name": "Alwa Tirunagari",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -91,6 +112,20 @@
       "longitude": "76.93441000"
    },
    {
+      "name": "Andippatti",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.99797000",
+      "longitude": "77.62097000"
+   },
+   {
+      "name": "Annamalainagar",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.40000000",
+      "longitude": "79.73333000"
+   },
+   {
       "name": "Annavasal",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -103,13 +138,6 @@
       "stateCode": "TN",
       "latitude": "11.23616000",
       "longitude": "77.10514000"
-   },
-   {
-      "name": "Annamalainagar",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.40000000",
-      "longitude": "79.73333000"
    },
    {
       "name": "Anthiyur",
@@ -189,6 +217,13 @@
       "longitude": "76.75790000"
    },
    {
+      "name": "Attayyampatti",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.53272000",
+      "longitude": "78.05363000"
+   },
+   {
       "name": "Attur",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -201,6 +236,13 @@
       "stateCode": "TN",
       "latitude": "12.00549000",
       "longitude": "79.80885000"
+   },
+   {
+      "name": "Avadi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.11470000",
+      "longitude": "80.10981000"
    },
    {
       "name": "Avinashi",
@@ -427,18 +469,18 @@
       "longitude": "79.67892000"
    },
    {
-      "name": "Elumalai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.86501000",
-      "longitude": "77.69923000"
-   },
-   {
       "name": "Elayirampannai",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "9.27033000",
       "longitude": "77.82494000"
+   },
+   {
+      "name": "Elumalai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.86501000",
+      "longitude": "77.69923000"
    },
    {
       "name": "Eral",
@@ -474,6 +516,13 @@
       "stateCode": "TN",
       "latitude": "9.14405000",
       "longitude": "77.99066000"
+   },
+   {
+      "name": "Gandhi Nagar",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.00639000",
+      "longitude": "80.25417000"
    },
    {
       "name": "Gangaikondan",
@@ -518,25 +567,18 @@
       "longitude": "78.87377000"
    },
    {
-      "name": "Gummidipundi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.40765000",
-      "longitude": "80.10879000"
-   },
-   {
-      "name": "Gandhi Nagar",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.00639000",
-      "longitude": "80.25417000"
-   },
-   {
       "name": "Guduvancheri",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "12.84519000",
       "longitude": "80.06055000"
+   },
+   {
+      "name": "Gummidipundi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.40765000",
+      "longitude": "80.10879000"
    },
    {
       "name": "Harur",
@@ -707,6 +749,20 @@
       "longitude": "77.34000000"
    },
    {
+      "name": "Karaikkudi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.06615000",
+      "longitude": "78.76784000"
+   },
+   {
+      "name": "Karamadai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.24058000",
+      "longitude": "76.96009000"
+   },
+   {
       "name": "Karambakkudi",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -735,11 +791,32 @@
       "longitude": "78.08095000"
    },
    {
+      "name": "Katpadi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.96951000",
+      "longitude": "79.14552000"
+   },
+   {
       "name": "Kattivakkam",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "13.21667000",
       "longitude": "80.31667000"
+   },
+   {
+      "name": "Kattupputtur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.99385000",
+      "longitude": "78.21929000"
+   },
+   {
+      "name": "Kaveripatnam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.42186000",
+      "longitude": "78.21880000"
    },
    {
       "name": "Kayalpattinam",
@@ -770,11 +847,25 @@
       "longitude": "77.85193000"
    },
    {
+      "name": "Kil Bhuvanagiri",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.44216000",
+      "longitude": "79.64763000"
+   },
+   {
       "name": "Kilvelur",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "10.76721000",
       "longitude": "79.74186000"
+   },
+   {
+      "name": "Kiranur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.56988000",
+      "longitude": "78.78682000"
    },
    {
       "name": "Kodaikanal",
@@ -910,55 +1001,6 @@
       "longitude": "77.19192000"
    },
    {
-      "name": "Karaikkudi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.06615000",
-      "longitude": "78.76784000"
-   },
-   {
-      "name": "Karamadai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.24058000",
-      "longitude": "76.96009000"
-   },
-   {
-      "name": "Katpadi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.96951000",
-      "longitude": "79.14552000"
-   },
-   {
-      "name": "Kattupputtur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.99385000",
-      "longitude": "78.21929000"
-   },
-   {
-      "name": "Kaveripatnam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.42186000",
-      "longitude": "78.21880000"
-   },
-   {
-      "name": "Kil Bhuvanagiri",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.44216000",
-      "longitude": "79.64763000"
-   },
-   {
-      "name": "Kiranur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.56988000",
-      "longitude": "78.78682000"
-   },
-   {
       "name": "Lalgudi",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1008,6 +1050,13 @@
       "longitude": "79.88485000"
    },
    {
+      "name": "Mallapuram",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.98231000",
+      "longitude": "78.24796000"
+   },
+   {
       "name": "Mallasamudram",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1015,11 +1064,11 @@
       "longitude": "78.03119000"
    },
    {
-      "name": "Mallapuram",
+      "name": "Mallur",
       "countryCode": "IN",
       "stateCode": "TN",
-      "latitude": "11.98231000",
-      "longitude": "78.24796000"
+      "latitude": "11.54424000",
+      "longitude": "78.14078000"
    },
    {
       "name": "Manali",
@@ -1092,11 +1141,25 @@
       "longitude": "79.94193000"
    },
    {
+      "name": "Marandahalli",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.38826000",
+      "longitude": "78.00316000"
+   },
+   {
       "name": "Masinigudi",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "11.56831000",
       "longitude": "76.64087000"
+   },
+   {
+      "name": "Mattur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.32147000",
+      "longitude": "79.20245000"
    },
    {
       "name": "Mayiladuthurai",
@@ -1127,6 +1190,13 @@
       "longitude": "77.80080000"
    },
    {
+      "name": "Minjur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.27951000",
+      "longitude": "80.25815000"
+   },
+   {
       "name": "Mohanur",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1139,6 +1209,13 @@
       "stateCode": "TN",
       "latitude": "9.34169000",
       "longitude": "78.51388000"
+   },
+   {
+      "name": "Mulanur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.79426000",
+      "longitude": "77.71150000"
    },
    {
       "name": "Musiri",
@@ -1155,41 +1232,6 @@
       "longitude": "79.49353000"
    },
    {
-      "name": "Mallur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.54424000",
-      "longitude": "78.14078000"
-   },
-   {
-      "name": "Marandahalli",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.38826000",
-      "longitude": "78.00316000"
-   },
-   {
-      "name": "Mattur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.32147000",
-      "longitude": "79.20245000"
-   },
-   {
-      "name": "Minjur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.27951000",
-      "longitude": "80.25815000"
-   },
-   {
-      "name": "Mulanur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.79426000",
-      "longitude": "77.71150000"
-   },
-   {
       "name": "Naduvattam",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1202,6 +1244,20 @@
       "stateCode": "TN",
       "latitude": "10.85000000",
       "longitude": "79.74000000"
+   },
+   {
+      "name": "Nagercoil",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "8.17899000",
+      "longitude": "77.43227000"
+   },
+   {
+      "name": "Namagiripettai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.45513000",
+      "longitude": "78.26818000"
    },
    {
       "name": "Namakkal",
@@ -1260,11 +1316,25 @@
       "longitude": "79.61062000"
    },
    {
+      "name": "Naravarikuppam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.19133000",
+      "longitude": "80.18473000"
+   },
+   {
       "name": "Nattam",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "10.22776000",
       "longitude": "78.22969000"
+   },
+   {
+      "name": "Nattarasankottai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.86905000",
+      "longitude": "78.55305000"
    },
    {
       "name": "Needamangalam",
@@ -1309,34 +1379,6 @@
       "longitude": "76.64000000"
    },
    {
-      "name": "Nagercoil",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "8.17899000",
-      "longitude": "77.43227000"
-   },
-   {
-      "name": "Namagiripettai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.45513000",
-      "longitude": "78.26818000"
-   },
-   {
-      "name": "Naravarikuppam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.19133000",
-      "longitude": "80.18473000"
-   },
-   {
-      "name": "Nattarasankottai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.86905000",
-      "longitude": "78.55305000"
-   },
-   {
       "name": "Odugattur",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1363,6 +1405,20 @@
       "stateCode": "TN",
       "latitude": "8.24462000",
       "longitude": "77.32581000"
+   },
+   {
+      "name": "Palakkodu",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.30696000",
+      "longitude": "78.07022000"
+   },
+   {
+      "name": "Palamedu",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.10501000",
+      "longitude": "78.11336000"
    },
    {
       "name": "Palani",
@@ -1400,6 +1456,13 @@
       "longitude": "78.80309000"
    },
    {
+      "name": "Pallavaram",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.96796000",
+      "longitude": "80.15025000"
+   },
+   {
       "name": "Pallikondai",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1421,13 +1484,6 @@
       "longitude": "78.40161000"
    },
    {
-      "name": "Pallavaram",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.96796000",
-      "longitude": "80.15025000"
-   },
-   {
       "name": "Panruti",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1440,6 +1496,20 @@
       "stateCode": "TN",
       "latitude": "10.92687000",
       "longitude": "79.27056000"
+   },
+   {
+      "name": "Papireddippatti",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.91774000",
+      "longitude": "78.36865000"
+   },
+   {
+      "name": "Papparappatti",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.22086000",
+      "longitude": "78.05920000"
    },
    {
       "name": "Paramagudi",
@@ -1624,18 +1694,18 @@
       "longitude": "78.21205000"
    },
    {
-      "name": "Puduvayal",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.33015000",
-      "longitude": "80.14577000"
-   },
-   {
       "name": "Pudur",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "12.99801000",
       "longitude": "79.14352000"
+   },
+   {
+      "name": "Puduvayal",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "13.33015000",
+      "longitude": "80.14577000"
    },
    {
       "name": "Puliyangudi",
@@ -1666,34 +1736,6 @@
       "longitude": "77.16671000"
    },
    {
-      "name": "Palakkodu",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.30696000",
-      "longitude": "78.07022000"
-   },
-   {
-      "name": "Palamedu",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.10501000",
-      "longitude": "78.11336000"
-   },
-   {
-      "name": "Papireddippatti",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.91774000",
-      "longitude": "78.36865000"
-   },
-   {
-      "name": "Papparappatti",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.22086000",
-      "longitude": "78.05920000"
-   },
-   {
       "name": "Rajapalaiyam",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1713,6 +1755,13 @@
       "stateCode": "TN",
       "latitude": "9.28850000",
       "longitude": "79.31271000"
+   },
+   {
+      "name": "Ranipet",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.95347490",
+      "longitude": "79.28159160"
    },
    {
       "name": "Rasipuram",
@@ -1757,6 +1806,13 @@
       "longitude": "77.92457000"
    },
    {
+      "name": "Sayalkudi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.16925000",
+      "longitude": "78.44702000"
+   },
+   {
       "name": "Seven Pagodas",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1771,6 +1827,13 @@
       "longitude": "79.42025000"
    },
    {
+      "name": "Singanallur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.99898000",
+      "longitude": "77.03238000"
+   },
+   {
       "name": "Singapperumalkovil",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1778,11 +1841,11 @@
       "longitude": "80.00750000"
    },
    {
-      "name": "Singanallur",
+      "name": "Sirkazhi",
       "countryCode": "IN",
       "stateCode": "TN",
-      "latitude": "10.99898000",
-      "longitude": "77.03238000"
+      "latitude": "11.23725000",
+      "longitude": "79.73585000"
    },
    {
       "name": "Sirumugai",
@@ -1813,20 +1876,6 @@
       "longitude": "77.79797000"
    },
    {
-      "name": "Srivaikuntam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "8.62931000",
-      "longitude": "77.91281000"
-   },
-   {
-      "name": "Srivilliputhur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.51272000",
-      "longitude": "77.63369000"
-   },
-   {
       "name": "Srimushnam",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -1839,6 +1888,20 @@
       "stateCode": "TN",
       "latitude": "12.96763000",
       "longitude": "79.94197000"
+   },
+   {
+      "name": "Srivaikuntam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "8.62931000",
+      "longitude": "77.91281000"
+   },
+   {
+      "name": "Srivilliputhur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.51272000",
+      "longitude": "77.63369000"
    },
    {
       "name": "Suchindram",
@@ -1855,32 +1918,18 @@
       "longitude": "77.12565000"
    },
    {
-      "name": "Swamimalai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.95747000",
-      "longitude": "79.32931000"
-   },
-   {
-      "name": "Sayalkudi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.16925000",
-      "longitude": "78.44702000"
-   },
-   {
-      "name": "Sirkazhi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.23725000",
-      "longitude": "79.73585000"
-   },
-   {
       "name": "Surandai",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "8.97574000",
       "longitude": "77.41923000"
+   },
+   {
+      "name": "Swamimalai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.95747000",
+      "longitude": "79.32931000"
    },
    {
       "name": "Tambaram",
@@ -1895,6 +1944,20 @@
       "stateCode": "TN",
       "latitude": "10.78523000",
       "longitude": "79.13909000"
+   },
+   {
+      "name": "Taramangalam",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.69403000",
+      "longitude": "77.97035000"
+   },
+   {
+      "name": "Tattayyangarpettai",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.12417000",
+      "longitude": "78.44916000"
    },
    {
       "name": "Thanjavur",
@@ -2037,6 +2100,13 @@
       "longitude": "77.57409000"
    },
    {
+      "name": "Tiruppalaikudi",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.54606000",
+      "longitude": "78.91721000"
+   },
+   {
       "name": "Tirupparangunram",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -2056,13 +2126,6 @@
       "stateCode": "TN",
       "latitude": "9.82564000",
       "longitude": "78.25795000"
-   },
-   {
-      "name": "Tiruppalaikudi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.54606000",
-      "longitude": "78.91721000"
    },
    {
       "name": "Tiruttangal",
@@ -2107,20 +2170,6 @@
       "longitude": "78.59870000"
    },
    {
-      "name": "Taramangalam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.69403000",
-      "longitude": "77.97035000"
-   },
-   {
-      "name": "Tattayyangarpettai",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.12417000",
-      "longitude": "78.44916000"
-   },
-   {
       "name": "Udangudi",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -2163,6 +2212,13 @@
       "longitude": "79.75748000"
    },
    {
+      "name": "Uttukkuli",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.16892000",
+      "longitude": "77.45431000"
+   },
+   {
       "name": "V.S.K.Valasai (Dindigul-Dist.)",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -2189,6 +2245,13 @@
       "stateCode": "TN",
       "latitude": "10.44081000",
       "longitude": "78.09784000"
+   },
+   {
+      "name": "Vadippatti",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "10.08481000",
+      "longitude": "77.96113000"
    },
    {
       "name": "Valangaiman",
@@ -2240,6 +2303,13 @@
       "longitude": "78.62014000"
    },
    {
+      "name": "Vasudevanallur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "9.24171000",
+      "longitude": "77.41177000"
+   },
+   {
       "name": "Vattalkundu",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -2268,18 +2338,18 @@
       "longitude": "79.83333000"
    },
    {
-      "name": "Vellore",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.86000000",
-      "longitude": "79.03500000"
-   },
-   {
       "name": "Vellanur",
       "countryCode": "IN",
       "stateCode": "TN",
       "latitude": "13.15804000",
       "longitude": "80.10634000"
+   },
+   {
+      "name": "Vellore",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "12.86000000",
+      "longitude": "79.03500000"
    },
    {
       "name": "Velur",
@@ -2338,6 +2408,13 @@
       "longitude": "79.37000000"
    },
    {
+      "name": "Viraganur",
+      "countryCode": "IN",
+      "stateCode": "TN",
+      "latitude": "11.47613000",
+      "longitude": "78.73553000"
+   },
+   {
       "name": "Virudhunagar",
       "countryCode": "IN",
       "stateCode": "TN",
@@ -2350,27 +2427,6 @@
       "stateCode": "TN",
       "latitude": "11.51830000",
       "longitude": "79.32411000"
-   },
-   {
-      "name": "Vadippatti",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.08481000",
-      "longitude": "77.96113000"
-   },
-   {
-      "name": "Vasudevanallur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.24171000",
-      "longitude": "77.41177000"
-   },
-   {
-      "name": "Viraganur",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.47613000",
-      "longitude": "78.73553000"
    },
    {
       "name": "Walajapet",
@@ -2392,61 +2448,5 @@
       "stateCode": "TN",
       "latitude": "11.36552000",
       "longitude": "76.78442000"
-   },
-   {
-      "name": "Alangudi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "10.36060000",
-      "longitude": "78.98492000"
-   },
-   {
-      "name": "Alangulam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "8.86404000",
-      "longitude": "77.49937000"
-   },
-   {
-      "name": "Alappakkam",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.59895000",
-      "longitude": "79.71893000"
-   },
-   {
-      "name": "Andippatti",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "9.99797000",
-      "longitude": "77.62097000"
-   },
-   {
-      "name": "Attayyampatti",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.53272000",
-      "longitude": "78.05363000"
-   },
-   {
-      "name": "Avadi",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "13.11470000",
-      "longitude": "80.10981000"
-   },
-   {
-      "name": "Uttukkuli",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "11.16892000",
-      "longitude": "77.45431000"
-   },
-   {
-      "name": "Ranipet",
-      "countryCode": "IN",
-      "stateCode": "TN",
-      "latitude": "12.95347490",
-      "longitude": "79.28159160"
    }
 ]

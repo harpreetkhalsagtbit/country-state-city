@@ -1,12 +1,7 @@
 [
    {
-      "name": "Suceava County",
-      "isoCode": "SV",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Hunedoara County",
-      "isoCode": "HD",
+      "name": "Alba",
+      "isoCode": "AB",
       "countryCode": "RO"
    },
    {
@@ -15,38 +10,8 @@
       "countryCode": "RO"
    },
    {
-      "name": "Bihor County",
-      "isoCode": "BH",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Alba",
-      "isoCode": "AB",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Ilfov County",
-      "isoCode": "IF",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Giurgiu County",
-      "isoCode": "GR",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Tulcea County",
-      "isoCode": "TL",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Teleorman County",
-      "isoCode": "TR",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Prahova County",
-      "isoCode": "PH",
+      "name": "Arad County",
+      "isoCode": "AR",
       "countryCode": "RO"
    },
    {
@@ -55,13 +20,13 @@
       "countryCode": "RO"
    },
    {
-      "name": "Neamț County",
-      "isoCode": "NT",
+      "name": "Bacău County",
+      "isoCode": "BC",
       "countryCode": "RO"
    },
    {
-      "name": "Călărași County",
-      "isoCode": "CL",
+      "name": "Bihor County",
+      "isoCode": "BH",
       "countryCode": "RO"
    },
    {
@@ -70,33 +35,8 @@
       "countryCode": "RO"
    },
    {
-      "name": "Cluj County",
-      "isoCode": "CJ",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Iași County",
-      "isoCode": "IS",
-      "countryCode": "RO"
-   },
-   {
       "name": "Braila",
       "isoCode": "BR",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Constanța County",
-      "isoCode": "CT",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Olt County",
-      "isoCode": "OT",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Arad County",
-      "isoCode": "AR",
       "countryCode": "RO"
    },
    {
@@ -105,63 +45,23 @@
       "countryCode": "RO"
    },
    {
-      "name": "Sălaj County",
-      "isoCode": "SJ",
+      "name": "Brașov County",
+      "isoCode": "BV",
       "countryCode": "RO"
    },
    {
-      "name": "Dolj County",
-      "isoCode": "DJ",
+      "name": "Buzău County",
+      "isoCode": "BZ",
       "countryCode": "RO"
    },
    {
-      "name": "Ialomița County",
-      "isoCode": "IL",
+      "name": "Cluj County",
+      "isoCode": "CJ",
       "countryCode": "RO"
    },
    {
-      "name": "Bacău County",
-      "isoCode": "BC",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Dâmbovița County",
-      "isoCode": "DB",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Satu Mare County",
-      "isoCode": "SM",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Galați County",
-      "isoCode": "GL",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Timiș County",
-      "isoCode": "TM",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Harghita County",
-      "isoCode": "HR",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Gorj County",
-      "isoCode": "GJ",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Mehedinți County",
-      "isoCode": "MH",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Vaslui County",
-      "isoCode": "VS",
+      "name": "Călărași County",
+      "isoCode": "CL",
       "countryCode": "RO"
    },
    {
@@ -170,8 +70,93 @@
       "countryCode": "RO"
    },
    {
+      "name": "Constanța County",
+      "isoCode": "CT",
+      "countryCode": "RO"
+   },
+   {
       "name": "Covasna County",
       "isoCode": "CV",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Dâmbovița County",
+      "isoCode": "DB",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Dolj County",
+      "isoCode": "DJ",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Gorj County",
+      "isoCode": "GJ",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Galați County",
+      "isoCode": "GL",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Giurgiu County",
+      "isoCode": "GR",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Hunedoara County",
+      "isoCode": "HD",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Harghita County",
+      "isoCode": "HR",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Ilfov County",
+      "isoCode": "IF",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Ialomița County",
+      "isoCode": "IL",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Iași County",
+      "isoCode": "IS",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Mehedinți County",
+      "isoCode": "MH",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Maramureș County",
+      "isoCode": "MM",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Mureș County",
+      "isoCode": "MS",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Neamț County",
+      "isoCode": "NT",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Olt County",
+      "isoCode": "OT",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Prahova County",
+      "isoCode": "PH",
       "countryCode": "RO"
    },
    {
@@ -180,8 +165,33 @@
       "countryCode": "RO"
    },
    {
-      "name": "Buzău County",
-      "isoCode": "BZ",
+      "name": "Sălaj County",
+      "isoCode": "SJ",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Satu Mare County",
+      "isoCode": "SM",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Suceava County",
+      "isoCode": "SV",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Tulcea County",
+      "isoCode": "TL",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Timiș County",
+      "isoCode": "TM",
+      "countryCode": "RO"
+   },
+   {
+      "name": "Teleorman County",
+      "isoCode": "TR",
       "countryCode": "RO"
    },
    {
@@ -195,18 +205,8 @@
       "countryCode": "RO"
    },
    {
-      "name": "Brașov County",
-      "isoCode": "BV",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Maramureș County",
-      "isoCode": "MM",
-      "countryCode": "RO"
-   },
-   {
-      "name": "Mureș County",
-      "isoCode": "MS",
+      "name": "Vaslui County",
+      "isoCode": "VS",
       "countryCode": "RO"
    }
 ]

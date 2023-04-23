@@ -1,33 +1,5 @@
 [
    {
-      "name": "Woleu-Ntem Province",
-      "isoCode": "9",
-      "countryCode": "GA",
-      "latitude": "2.29898270",
-      "longitude": "11.44669140"
-   },
-   {
-      "name": "Ogooué-Ivindo Province",
-      "isoCode": "6",
-      "countryCode": "GA",
-      "latitude": "0.88183110",
-      "longitude": "13.17403480"
-   },
-   {
-      "name": "Nyanga Province",
-      "isoCode": "5",
-      "countryCode": "GA",
-      "latitude": "-2.88210330",
-      "longitude": "11.16173560"
-   },
-   {
-      "name": "Haut-Ogooué Province",
-      "isoCode": "2",
-      "countryCode": "GA",
-      "latitude": "-1.47625440",
-      "longitude": "13.91439900"
-   },
-   {
       "name": "Estuaire Province",
       "isoCode": "1",
       "countryCode": "GA",
@@ -35,18 +7,11 @@
       "longitude": "10.08072980"
    },
    {
-      "name": "Ogooué-Maritime Province",
-      "isoCode": "8",
+      "name": "Haut-Ogooué Province",
+      "isoCode": "2",
       "countryCode": "GA",
-      "latitude": "-1.34659750",
-      "longitude": "9.72326730"
-   },
-   {
-      "name": "Ogooué-Lolo Province",
-      "isoCode": "7",
-      "countryCode": "GA",
-      "latitude": "-0.88440930",
-      "longitude": "12.43805810"
+      "latitude": "-1.47625440",
+      "longitude": "13.91439900"
    },
    {
       "name": "Moyen-Ogooué Province",
@@ -61,5 +26,40 @@
       "countryCode": "GA",
       "latitude": "-1.49303030",
       "longitude": "10.98070030"
+   },
+   {
+      "name": "Nyanga Province",
+      "isoCode": "5",
+      "countryCode": "GA",
+      "latitude": "-2.88210330",
+      "longitude": "11.16173560"
+   },
+   {
+      "name": "Ogooué-Ivindo Province",
+      "isoCode": "6",
+      "countryCode": "GA",
+      "latitude": "0.88183110",
+      "longitude": "13.17403480"
+   },
+   {
+      "name": "Ogooué-Lolo Province",
+      "isoCode": "7",
+      "countryCode": "GA",
+      "latitude": "-0.88440930",
+      "longitude": "12.43805810"
+   },
+   {
+      "name": "Ogooué-Maritime Province",
+      "isoCode": "8",
+      "countryCode": "GA",
+      "latitude": "-1.34659750",
+      "longitude": "9.72326730"
+   },
+   {
+      "name": "Woleu-Ntem Province",
+      "isoCode": "9",
+      "countryCode": "GA",
+      "latitude": "2.29898270",
+      "longitude": "11.44669140"
    }
 ]

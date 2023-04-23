@@ -1,12 +1,12 @@
 [
    {
-      "name": "Tombali Region",
-      "isoCode": "TO",
+      "name": "Bafatá",
+      "isoCode": "BA",
       "countryCode": "GW"
    },
    {
-      "name": "Cacheu Region",
-      "isoCode": "CA",
+      "name": "Bolama Region",
+      "isoCode": "BL",
       "countryCode": "GW"
    },
    {
@@ -15,13 +15,18 @@
       "countryCode": "GW"
    },
    {
-      "name": "Quinara Region",
-      "isoCode": "QU",
+      "name": "Cacheu Region",
+      "isoCode": "CA",
       "countryCode": "GW"
    },
    {
-      "name": "Sul Province",
-      "isoCode": "S",
+      "name": "Gabú Region",
+      "isoCode": "GA",
+      "countryCode": "GW"
+   },
+   {
+      "name": "Leste Province",
+      "isoCode": "L",
       "countryCode": "GW"
    },
    {
@@ -35,23 +40,18 @@
       "countryCode": "GW"
    },
    {
-      "name": "Gabú Region",
-      "isoCode": "GA",
+      "name": "Quinara Region",
+      "isoCode": "QU",
       "countryCode": "GW"
    },
    {
-      "name": "Bafatá",
-      "isoCode": "BA",
+      "name": "Sul Province",
+      "isoCode": "S",
       "countryCode": "GW"
    },
    {
-      "name": "Leste Province",
-      "isoCode": "L",
-      "countryCode": "GW"
-   },
-   {
-      "name": "Bolama Region",
-      "isoCode": "BL",
+      "name": "Tombali Region",
+      "isoCode": "TO",
       "countryCode": "GW"
    }
 ]

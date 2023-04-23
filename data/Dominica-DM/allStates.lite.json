@@ -1,12 +1,7 @@
 [
    {
-      "name": "Saint John Parish",
-      "isoCode": "05",
-      "countryCode": "DM"
-   },
-   {
-      "name": "Saint Mark Parish",
-      "isoCode": "08",
+      "name": "Saint Andrew Parish",
+      "isoCode": "02",
       "countryCode": "DM"
    },
    {
@@ -20,18 +15,13 @@
       "countryCode": "DM"
    },
    {
-      "name": "Saint Patrick Parish",
-      "isoCode": "09",
+      "name": "Saint John Parish",
+      "isoCode": "05",
       "countryCode": "DM"
    },
    {
-      "name": "Saint Peter Parish",
-      "isoCode": "11",
-      "countryCode": "DM"
-   },
-   {
-      "name": "Saint Andrew Parish",
-      "isoCode": "02",
+      "name": "Saint Joseph Parish",
+      "isoCode": "06",
       "countryCode": "DM"
    },
    {
@@ -40,13 +30,23 @@
       "countryCode": "DM"
    },
    {
+      "name": "Saint Mark Parish",
+      "isoCode": "08",
+      "countryCode": "DM"
+   },
+   {
+      "name": "Saint Patrick Parish",
+      "isoCode": "09",
+      "countryCode": "DM"
+   },
+   {
       "name": "Saint Paul Parish",
       "isoCode": "10",
       "countryCode": "DM"
    },
    {
-      "name": "Saint Joseph Parish",
-      "isoCode": "06",
+      "name": "Saint Peter Parish",
+      "isoCode": "11",
       "countryCode": "DM"
    }
 ]

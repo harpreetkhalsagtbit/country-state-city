@@ -623,6 +623,13 @@
       "longitude": "26.06667000"
    },
    {
+      "name": "Sânzieni",
+      "countryCode": "RO",
+      "stateCode": "CV",
+      "latitude": "46.05000000",
+      "longitude": "26.13333000"
+   },
+   {
       "name": "Turia",
       "countryCode": "RO",
       "stateCode": "CV",
@@ -684,12 +691,5 @@
       "stateCode": "CV",
       "latitude": "45.68333000",
       "longitude": "26.03333000"
-   },
-   {
-      "name": "Sânzieni",
-      "countryCode": "RO",
-      "stateCode": "CV",
-      "latitude": "46.05000000",
-      "longitude": "26.13333000"
    }
 ]

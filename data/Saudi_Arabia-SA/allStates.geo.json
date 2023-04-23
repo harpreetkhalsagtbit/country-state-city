@@ -21,25 +21,18 @@
       "longitude": "39.32062410"
    },
    {
-      "name": "Tabuk",
-      "isoCode": "07",
+      "name": "Eastern Province",
+      "isoCode": "04",
       "countryCode": "SA",
-      "latitude": "28.24533350",
-      "longitude": "37.63866220"
+      "latitude": "24.04399320",
+      "longitude": "45.65892250"
    },
    {
-      "name": "'Asir",
-      "isoCode": "14",
+      "name": "Al-Qassim",
+      "isoCode": "05",
       "countryCode": "SA",
-      "latitude": "19.09690620",
-      "longitude": "42.86378750"
-   },
-   {
-      "name": "Northern Borders",
-      "isoCode": "08",
-      "countryCode": "SA",
-      "latitude": "30.07991620",
-      "longitude": "42.86378750"
+      "latitude": "26.20782600",
+      "longitude": "43.48373800"
    },
    {
       "name": "Ha'il",
@@ -49,18 +42,18 @@
       "longitude": "41.91964710"
    },
    {
-      "name": "Eastern Province",
-      "isoCode": "04",
+      "name": "Tabuk",
+      "isoCode": "07",
       "countryCode": "SA",
-      "latitude": "24.04399320",
-      "longitude": "45.65892250"
+      "latitude": "28.24533350",
+      "longitude": "37.63866220"
    },
    {
-      "name": "Al Jawf",
-      "isoCode": "12",
+      "name": "Northern Borders",
+      "isoCode": "08",
       "countryCode": "SA",
-      "latitude": "29.88735600",
-      "longitude": "39.32062410"
+      "latitude": "30.07991620",
+      "longitude": "42.86378750"
    },
    {
       "name": "Jizan",
@@ -70,13 +63,6 @@
       "longitude": "42.70761070"
    },
    {
-      "name": "Al Bahah",
-      "isoCode": "11",
-      "countryCode": "SA",
-      "latitude": "20.27227390",
-      "longitude": "41.44125100"
-   },
-   {
       "name": "Najran",
       "isoCode": "10",
       "countryCode": "SA",
@@ -84,10 +70,24 @@
       "longitude": "45.60071080"
    },
    {
-      "name": "Al-Qassim",
-      "isoCode": "05",
+      "name": "Al Bahah",
+      "isoCode": "11",
       "countryCode": "SA",
-      "latitude": "26.20782600",
-      "longitude": "43.48373800"
+      "latitude": "20.27227390",
+      "longitude": "41.44125100"
+   },
+   {
+      "name": "Al Jawf",
+      "isoCode": "12",
+      "countryCode": "SA",
+      "latitude": "29.88735600",
+      "longitude": "39.32062410"
+   },
+   {
+      "name": "'Asir",
+      "isoCode": "14",
+      "countryCode": "SA",
+      "latitude": "19.09690620",
+      "longitude": "42.86378750"
    }
 ]

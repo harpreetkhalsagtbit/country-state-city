@@ -25,51 +25,6 @@
       "stateCode": "LL"
    },
    {
-      "name": "Dalcahue",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Futaleufú",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Osorno",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Palena",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Llanquihue",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Puerto Montt",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Puerto Varas",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Purranque",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
-      "name": "Quellón",
-      "countryCode": "CL",
-      "stateCode": "LL"
-   },
-   {
       "name": "Cochamó",
       "countryCode": "CL",
       "stateCode": "LL"
@@ -80,7 +35,7 @@
       "stateCode": "LL"
    },
    {
-      "name": "Puyehue",
+      "name": "Dalcahue",
       "countryCode": "CL",
       "stateCode": "LL"
    },
@@ -95,7 +50,17 @@
       "stateCode": "LL"
    },
    {
+      "name": "Futaleufú",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
       "name": "Hualaihué",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Llanquihue",
       "countryCode": "CL",
       "stateCode": "LL"
    },
@@ -110,7 +75,27 @@
       "stateCode": "LL"
    },
    {
+      "name": "Osorno",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Palena",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Puerto Montt",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
       "name": "Puerto Octay",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Puerto Varas",
       "countryCode": "CL",
       "stateCode": "LL"
    },
@@ -120,7 +105,22 @@
       "stateCode": "LL"
    },
    {
+      "name": "Purranque",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Puyehue",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
       "name": "Queilén",
+      "countryCode": "CL",
+      "stateCode": "LL"
+   },
+   {
+      "name": "Quellón",
       "countryCode": "CL",
       "stateCode": "LL"
    },

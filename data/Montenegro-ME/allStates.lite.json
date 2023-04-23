@@ -1,7 +1,7 @@
 [
    {
-      "name": "Petnjica Municipality",
-      "isoCode": "23",
+      "name": "Andrijevica Municipality",
+      "isoCode": "01",
       "countryCode": "ME"
    },
    {
@@ -10,28 +10,48 @@
       "countryCode": "ME"
    },
    {
+      "name": "Berane Municipality",
+      "isoCode": "03",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Bijelo Polje Municipality",
+      "isoCode": "04",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Budva Municipality",
+      "isoCode": "05",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Old Royal Capital Cetinje",
+      "isoCode": "06",
+      "countryCode": "ME"
+   },
+   {
       "name": "Danilovgrad Municipality",
       "isoCode": "07",
       "countryCode": "ME"
    },
    {
-      "name": "Rožaje Municipality",
-      "isoCode": "17",
+      "name": "Kolašin Municipality",
+      "isoCode": "09",
       "countryCode": "ME"
    },
    {
-      "name": "Plužine Municipality",
-      "isoCode": "15",
+      "name": "Kotor Municipality",
+      "isoCode": "10",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Mojkovac Municipality",
+      "isoCode": "11",
       "countryCode": "ME"
    },
    {
       "name": "Nikšić Municipality",
       "isoCode": "12",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Šavnik Municipality",
-      "isoCode": "18",
       "countryCode": "ME"
    },
    {
@@ -45,33 +65,8 @@
       "countryCode": "ME"
    },
    {
-      "name": "Berane Municipality",
-      "isoCode": "03",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Mojkovac Municipality",
-      "isoCode": "11",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Andrijevica Municipality",
-      "isoCode": "01",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Gusinje Municipality",
-      "isoCode": "22",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Bijelo Polje Municipality",
-      "isoCode": "04",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Kotor Municipality",
-      "isoCode": "10",
+      "name": "Plužine Municipality",
+      "isoCode": "15",
       "countryCode": "ME"
    },
    {
@@ -80,8 +75,13 @@
       "countryCode": "ME"
    },
    {
-      "name": "Old Royal Capital Cetinje",
-      "isoCode": "06",
+      "name": "Rožaje Municipality",
+      "isoCode": "17",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Šavnik Municipality",
+      "isoCode": "18",
       "countryCode": "ME"
    },
    {
@@ -90,13 +90,8 @@
       "countryCode": "ME"
    },
    {
-      "name": "Budva Municipality",
-      "isoCode": "05",
-      "countryCode": "ME"
-   },
-   {
-      "name": "Kolašin Municipality",
-      "isoCode": "09",
+      "name": "Ulcinj Municipality",
+      "isoCode": "20",
       "countryCode": "ME"
    },
    {
@@ -105,8 +100,13 @@
       "countryCode": "ME"
    },
    {
-      "name": "Ulcinj Municipality",
-      "isoCode": "20",
+      "name": "Gusinje Municipality",
+      "isoCode": "22",
+      "countryCode": "ME"
+   },
+   {
+      "name": "Petnjica Municipality",
+      "isoCode": "23",
       "countryCode": "ME"
    }
 ]

@@ -14,11 +14,32 @@
       "longitude": "85.06079000"
    },
    {
+      "name": "Asika",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "19.61114000",
+      "longitude": "84.65998000"
+   },
+   {
+      "name": "Athagarh",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.51999000",
+      "longitude": "85.62965000"
+   },
+   {
       "name": "Bada Barabil",
       "countryCode": "IN",
       "stateCode": "OR",
       "latitude": "22.11186000",
       "longitude": "85.38684000"
+   },
+   {
+      "name": "Balangir",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.75000000",
+      "longitude": "83.25000000"
    },
    {
       "name": "Balasore",
@@ -28,6 +49,13 @@
       "longitude": "86.93348000"
    },
    {
+      "name": "Baleshwar",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "21.50000000",
+      "longitude": "86.75000000"
+   },
+   {
       "name": "Balimila",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -35,11 +63,32 @@
       "longitude": "82.10659000"
    },
    {
-      "name": "Balangir",
+      "name": "Balugaon",
       "countryCode": "IN",
       "stateCode": "OR",
-      "latitude": "20.75000000",
-      "longitude": "83.25000000"
+      "latitude": "20.17838000",
+      "longitude": "85.11327000"
+   },
+   {
+      "name": "Banapur",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "19.77889000",
+      "longitude": "85.17033000"
+   },
+   {
+      "name": "Banki",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.37912000",
+      "longitude": "85.52953000"
+   },
+   {
+      "name": "Banposh",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "22.24834000",
+      "longitude": "84.81044000"
    },
    {
       "name": "Baragarh",
@@ -68,6 +117,13 @@
       "stateCode": "OR",
       "latitude": "21.19005000",
       "longitude": "83.58721000"
+   },
+   {
+      "name": "Basudebpur",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "21.11974000",
+      "longitude": "86.72896000"
    },
    {
       "name": "Baud",
@@ -182,46 +238,18 @@
       "longitude": "83.87259000"
    },
    {
-      "name": "Baleshwar",
+      "name": "Champua",
       "countryCode": "IN",
       "stateCode": "OR",
-      "latitude": "21.50000000",
-      "longitude": "86.75000000"
+      "latitude": "22.06734000",
+      "longitude": "85.66463000"
    },
    {
-      "name": "Balugaon",
+      "name": "Chandbali",
       "countryCode": "IN",
       "stateCode": "OR",
-      "latitude": "20.17838000",
-      "longitude": "85.11327000"
-   },
-   {
-      "name": "Banapur",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "19.77889000",
-      "longitude": "85.17033000"
-   },
-   {
-      "name": "Banki",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.37912000",
-      "longitude": "85.52953000"
-   },
-   {
-      "name": "Banposh",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "22.24834000",
-      "longitude": "84.81044000"
-   },
-   {
-      "name": "Basudebpur",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "21.11974000",
-      "longitude": "86.72896000"
+      "latitude": "20.77519000",
+      "longitude": "86.74139000"
    },
    {
       "name": "Chatrapur",
@@ -243,20 +271,6 @@
       "stateCode": "OR",
       "latitude": "18.12533000",
       "longitude": "82.10890000"
-   },
-   {
-      "name": "Champua",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "22.06734000",
-      "longitude": "85.66463000"
-   },
-   {
-      "name": "Chandbali",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.77519000",
-      "longitude": "86.74139000"
    },
    {
       "name": "Cuttack",
@@ -406,6 +420,20 @@
       "longitude": "84.53514000"
    },
    {
+      "name": "Kalahandi",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "19.75000000",
+      "longitude": "83.00000000"
+   },
+   {
+      "name": "Kamakhyanagar",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.93385000",
+      "longitude": "85.54489000"
+   },
+   {
       "name": "Kandhamal",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -413,18 +441,18 @@
       "longitude": "84.00000000"
    },
    {
-      "name": "Kantilo",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.36152000",
-      "longitude": "85.19212000"
-   },
-   {
       "name": "Kantabanji",
       "countryCode": "IN",
       "stateCode": "OR",
       "latitude": "20.46709000",
       "longitude": "82.92042000"
+   },
+   {
+      "name": "Kantilo",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.36152000",
+      "longitude": "85.19212000"
    },
    {
       "name": "Kendrapara",
@@ -525,20 +553,6 @@
       "longitude": "84.34848000"
    },
    {
-      "name": "Kalahandi",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "19.75000000",
-      "longitude": "83.00000000"
-   },
-   {
-      "name": "Kamakhyanagar",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.93385000",
-      "longitude": "85.54489000"
-   },
-   {
       "name": "Malakanagiri",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -567,6 +581,13 @@
       "longitude": "82.55000000"
    },
    {
+      "name": "Nayagarh",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.12882000",
+      "longitude": "85.09626000"
+   },
+   {
       "name": "Nayagarh District",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -574,11 +595,11 @@
       "longitude": "85.10000000"
    },
    {
-      "name": "Nayagarh",
+      "name": "Nilgiri",
       "countryCode": "IN",
       "stateCode": "OR",
-      "latitude": "20.12882000",
-      "longitude": "85.09626000"
+      "latitude": "21.46235000",
+      "longitude": "86.76794000"
    },
    {
       "name": "Nimaparha",
@@ -602,13 +623,6 @@
       "longitude": "82.50000000"
    },
    {
-      "name": "Nilgiri",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "21.46235000",
-      "longitude": "86.76794000"
-   },
-   {
       "name": "Padampur",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -623,18 +637,18 @@
       "longitude": "86.60850000"
    },
    {
-      "name": "Patnagarh",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.70833000",
-      "longitude": "83.13263000"
-   },
-   {
       "name": "Patamundai",
       "countryCode": "IN",
       "stateCode": "OR",
       "latitude": "20.57806000",
       "longitude": "86.56063000"
+   },
+   {
+      "name": "Patnagarh",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.70833000",
+      "longitude": "83.13263000"
    },
    {
       "name": "Phulbani",
@@ -749,6 +763,13 @@
       "longitude": "84.50000000"
    },
    {
+      "name": "Talcher",
+      "countryCode": "IN",
+      "stateCode": "OR",
+      "latitude": "20.94927000",
+      "longitude": "85.23354000"
+   },
+   {
       "name": "Tarabha",
       "countryCode": "IN",
       "stateCode": "OR",
@@ -763,31 +784,10 @@
       "longitude": "83.15233000"
    },
    {
-      "name": "Talcher",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.94927000",
-      "longitude": "85.23354000"
-   },
-   {
       "name": "Udayagiri",
       "countryCode": "IN",
       "stateCode": "OR",
       "latitude": "20.12416000",
       "longitude": "84.36869000"
-   },
-   {
-      "name": "Asika",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "19.61114000",
-      "longitude": "84.65998000"
-   },
-   {
-      "name": "Athagarh",
-      "countryCode": "IN",
-      "stateCode": "OR",
-      "latitude": "20.51999000",
-      "longitude": "85.62965000"
    }
 ]

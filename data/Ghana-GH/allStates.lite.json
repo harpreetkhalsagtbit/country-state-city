@@ -1,27 +1,7 @@
 [
    {
-      "name": "Ashanti",
-      "isoCode": "AH",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Western",
-      "isoCode": "WP",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Eastern",
-      "isoCode": "EP",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Northern",
-      "isoCode": "NP",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Central",
-      "isoCode": "CP",
+      "name": "Greater Accra",
+      "isoCode": "AA",
       "countryCode": "GH"
    },
    {
@@ -30,23 +10,8 @@
       "countryCode": "GH"
    },
    {
-      "name": "Greater Accra",
-      "isoCode": "AA",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Upper East",
-      "isoCode": "UE",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Volta",
-      "isoCode": "TV",
-      "countryCode": "GH"
-   },
-   {
-      "name": "Upper West",
-      "isoCode": "UW",
+      "name": "Ashanti",
+      "isoCode": "AH",
       "countryCode": "GH"
    },
    {
@@ -60,8 +25,23 @@
       "countryCode": "GH"
    },
    {
+      "name": "Central",
+      "isoCode": "CP",
+      "countryCode": "GH"
+   },
+   {
+      "name": "Eastern",
+      "isoCode": "EP",
+      "countryCode": "GH"
+   },
+   {
       "name": "North East",
       "isoCode": "NE",
+      "countryCode": "GH"
+   },
+   {
+      "name": "Northern",
+      "isoCode": "NP",
       "countryCode": "GH"
    },
    {
@@ -75,8 +55,28 @@
       "countryCode": "GH"
    },
    {
+      "name": "Volta",
+      "isoCode": "TV",
+      "countryCode": "GH"
+   },
+   {
+      "name": "Upper East",
+      "isoCode": "UE",
+      "countryCode": "GH"
+   },
+   {
+      "name": "Upper West",
+      "isoCode": "UW",
+      "countryCode": "GH"
+   },
+   {
       "name": "Western North",
       "isoCode": "WN",
+      "countryCode": "GH"
+   },
+   {
+      "name": "Western",
+      "isoCode": "WP",
       "countryCode": "GH"
    }
 ]

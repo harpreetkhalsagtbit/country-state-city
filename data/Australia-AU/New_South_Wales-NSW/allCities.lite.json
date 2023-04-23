@@ -265,6 +265,11 @@
       "stateCode": "NSW"
    },
    {
+      "name": "Banksmeadow",
+      "countryCode": "AU",
+      "stateCode": "NSW"
+   },
+   {
       "name": "Bankstown",
       "countryCode": "AU",
       "stateCode": "NSW"
@@ -2720,6 +2725,11 @@
       "stateCode": "NSW"
    },
    {
+      "name": "Huntingwood",
+      "countryCode": "AU",
+      "stateCode": "NSW"
+   },
+   {
       "name": "Hurlstone Park",
       "countryCode": "AU",
       "stateCode": "NSW"
@@ -4690,6 +4700,11 @@
       "stateCode": "NSW"
    },
    {
+      "name": "Rosebery",
+      "countryCode": "AU",
+      "stateCode": "NSW"
+   },
+   {
       "name": "Rosehill",
       "countryCode": "AU",
       "stateCode": "NSW"
@@ -5965,6 +5980,11 @@
       "stateCode": "NSW"
    },
    {
+      "name": "Whale Beach",
+      "countryCode": "AU",
+      "stateCode": "NSW"
+   },
+   {
       "name": "Wheeler Heights",
       "countryCode": "AU",
       "stateCode": "NSW"
@@ -6200,6 +6220,11 @@
       "stateCode": "NSW"
    },
    {
+      "name": "Yallah",
+      "countryCode": "AU",
+      "stateCode": "NSW"
+   },
+   {
       "name": "Yamba",
       "countryCode": "AU",
       "stateCode": "NSW"
@@ -6256,31 +6281,6 @@
    },
    {
       "name": "Zetland",
-      "countryCode": "AU",
-      "stateCode": "NSW"
-   },
-   {
-      "name": "Rosebery",
-      "countryCode": "AU",
-      "stateCode": "NSW"
-   },
-   {
-      "name": "Yallah",
-      "countryCode": "AU",
-      "stateCode": "NSW"
-   },
-   {
-      "name": "Banksmeadow",
-      "countryCode": "AU",
-      "stateCode": "NSW"
-   },
-   {
-      "name": "Whale Beach",
-      "countryCode": "AU",
-      "stateCode": "NSW"
-   },
-   {
-      "name": "Huntingwood",
       "countryCode": "AU",
       "stateCode": "NSW"
    }

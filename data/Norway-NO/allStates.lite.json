@@ -1,7 +1,12 @@
 [
    {
-      "name": "Trøndelag",
-      "isoCode": "50",
+      "name": "Østfold",
+      "isoCode": "01",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Akershus",
+      "isoCode": "02",
       "countryCode": "NO"
    },
    {
@@ -10,8 +15,8 @@
       "countryCode": "NO"
    },
    {
-      "name": "Vestfold",
-      "isoCode": "07",
+      "name": "Hedmark",
+      "isoCode": "04",
       "countryCode": "NO"
    },
    {
@@ -20,13 +25,48 @@
       "countryCode": "NO"
    },
    {
-      "name": "Sør-Trøndelag",
-      "isoCode": "16",
+      "name": "Buskerud",
+      "isoCode": "06",
       "countryCode": "NO"
    },
    {
-      "name": "Buskerud",
-      "isoCode": "06",
+      "name": "Vestfold",
+      "isoCode": "07",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Telemark",
+      "isoCode": "08",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Vest-Agder",
+      "isoCode": "10",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Rogaland",
+      "isoCode": "11",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Hordaland",
+      "isoCode": "12",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Sogn og Fjordane",
+      "isoCode": "14",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Møre og Romsdal",
+      "isoCode": "15",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Sør-Trøndelag",
+      "isoCode": "16",
       "countryCode": "NO"
    },
    {
@@ -35,13 +75,8 @@
       "countryCode": "NO"
    },
    {
-      "name": "Svalbard",
-      "isoCode": "21",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Vest-Agder",
-      "isoCode": "10",
+      "name": "Nordland",
+      "isoCode": "18",
       "countryCode": "NO"
    },
    {
@@ -55,53 +90,18 @@
       "countryCode": "NO"
    },
    {
-      "name": "Akershus",
-      "isoCode": "02",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Sogn og Fjordane",
-      "isoCode": "14",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Hedmark",
-      "isoCode": "04",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Møre og Romsdal",
-      "isoCode": "15",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Rogaland",
-      "isoCode": "11",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Østfold",
-      "isoCode": "01",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Hordaland",
-      "isoCode": "12",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Telemark",
-      "isoCode": "08",
-      "countryCode": "NO"
-   },
-   {
-      "name": "Nordland",
-      "isoCode": "18",
+      "name": "Svalbard",
+      "isoCode": "21",
       "countryCode": "NO"
    },
    {
       "name": "Jan Mayen",
       "isoCode": "22",
+      "countryCode": "NO"
+   },
+   {
+      "name": "Trøndelag",
+      "isoCode": "50",
       "countryCode": "NO"
    }
 ]

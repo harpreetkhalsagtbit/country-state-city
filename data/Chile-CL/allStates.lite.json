@@ -1,47 +1,7 @@
 [
    {
-      "name": "Atacama",
-      "isoCode": "AT",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Región Metropolitana de Santiago",
-      "isoCode": "RM",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Coquimbo",
-      "isoCode": "CO",
-      "countryCode": "CL"
-   },
-   {
-      "name": "La Araucanía",
-      "isoCode": "AR",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Biobío",
-      "isoCode": "BI",
-      "countryCode": "CL"
-   },
-   {
       "name": "Aisén del General Carlos Ibañez del Campo",
       "isoCode": "AI",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Arica y Parinacota",
-      "isoCode": "AP",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Valparaíso",
-      "isoCode": "VS",
-      "countryCode": "CL"
-   },
-   {
-      "name": "Ñuble",
-      "isoCode": "NB",
       "countryCode": "CL"
    },
    {
@@ -50,13 +10,33 @@
       "countryCode": "CL"
    },
    {
-      "name": "Maule",
-      "isoCode": "ML",
+      "name": "Arica y Parinacota",
+      "isoCode": "AP",
       "countryCode": "CL"
    },
    {
-      "name": "Los Ríos",
-      "isoCode": "LR",
+      "name": "La Araucanía",
+      "isoCode": "AR",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Atacama",
+      "isoCode": "AT",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Biobío",
+      "isoCode": "BI",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Coquimbo",
+      "isoCode": "CO",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Libertador General Bernardo O'Higgins",
+      "isoCode": "LI",
       "countryCode": "CL"
    },
    {
@@ -65,8 +45,28 @@
       "countryCode": "CL"
    },
    {
+      "name": "Los Ríos",
+      "isoCode": "LR",
+      "countryCode": "CL"
+   },
+   {
       "name": "Magallanes y de la Antártica Chilena",
       "isoCode": "MA",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Maule",
+      "isoCode": "ML",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Ñuble",
+      "isoCode": "NB",
+      "countryCode": "CL"
+   },
+   {
+      "name": "Región Metropolitana de Santiago",
+      "isoCode": "RM",
       "countryCode": "CL"
    },
    {
@@ -75,8 +75,8 @@
       "countryCode": "CL"
    },
    {
-      "name": "Libertador General Bernardo O'Higgins",
-      "isoCode": "LI",
+      "name": "Valparaíso",
+      "isoCode": "VS",
       "countryCode": "CL"
    }
 ]

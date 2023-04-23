@@ -1,22 +1,7 @@
 [
    {
-      "name": "Viqueque Municipality",
-      "isoCode": "VI",
-      "countryCode": "TL"
-   },
-   {
-      "name": "Liquiçá Municipality",
-      "isoCode": "LI",
-      "countryCode": "TL"
-   },
-   {
-      "name": "Ermera District",
-      "isoCode": "ER",
-      "countryCode": "TL"
-   },
-   {
-      "name": "Manatuto District",
-      "isoCode": "MT",
+      "name": "Aileu municipality",
+      "isoCode": "AL",
       "countryCode": "TL"
    },
    {
@@ -25,18 +10,13 @@
       "countryCode": "TL"
    },
    {
-      "name": "Manufahi Municipality",
-      "isoCode": "MF",
-      "countryCode": "TL"
-   },
-   {
-      "name": "Aileu municipality",
-      "isoCode": "AL",
-      "countryCode": "TL"
-   },
-   {
       "name": "Baucau Municipality",
       "isoCode": "BA",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Bobonaro Municipality",
+      "isoCode": "BO",
       "countryCode": "TL"
    },
    {
@@ -45,18 +25,38 @@
       "countryCode": "TL"
    },
    {
-      "name": "Lautém Municipality",
-      "isoCode": "LA",
-      "countryCode": "TL"
-   },
-   {
       "name": "Dili municipality",
       "isoCode": "DI",
       "countryCode": "TL"
    },
    {
-      "name": "Bobonaro Municipality",
-      "isoCode": "BO",
+      "name": "Ermera District",
+      "isoCode": "ER",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Lautém Municipality",
+      "isoCode": "LA",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Liquiçá Municipality",
+      "isoCode": "LI",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Manufahi Municipality",
+      "isoCode": "MF",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Manatuto District",
+      "isoCode": "MT",
+      "countryCode": "TL"
+   },
+   {
+      "name": "Viqueque Municipality",
+      "isoCode": "VI",
       "countryCode": "TL"
    }
 ]

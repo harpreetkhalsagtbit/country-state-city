@@ -1,11 +1,11 @@
 [
    {
-      "name": "Ahmedpur East",
+      "name": "Ahmadpur Sial",
       "countryCode": "PK",
       "stateCode": "PB"
    },
    {
-      "name": "Ahmadpur Sial",
+      "name": "Ahmedpur East",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -125,11 +125,6 @@
       "stateCode": "PB"
    },
    {
-      "name": "Rabwah",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
       "name": "Chichawatni",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -146,6 +141,11 @@
    },
    {
       "name": "Choa Saidanshah",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Chuhar Kana",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -180,6 +180,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Daud Khel",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Daultala",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -196,6 +201,11 @@
    },
    {
       "name": "Dhaunkal",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Dhok Awan",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -260,6 +270,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Ferozewala",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Fort Abbas",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -285,6 +300,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Gujranwala Division",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Gujrat",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -306,6 +326,11 @@
    },
    {
       "name": "Harunabad",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Hasan Abdal",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -525,6 +550,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Kohror Pakka",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Kot Addu Tehsil",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -645,6 +675,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Mandi Bahauddin District",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Mangla",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -691,6 +726,11 @@
    },
    {
       "name": "Multan",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Multan District",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -745,6 +785,11 @@
       "stateCode": "PB"
    },
    {
+      "name": "Pakki Shagwanwali",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Pakpattan",
       "countryCode": "PK",
       "stateCode": "PB"
@@ -790,7 +835,22 @@
       "stateCode": "PB"
    },
    {
+      "name": "Qila Didar Singh",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Rabwah",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Rahim Yar Khan",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Rahimyar Khan District",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -875,7 +935,7 @@
       "stateCode": "PB"
    },
    {
-      "name": "Shorkot",
+      "name": "Shahkot Tehsil",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -901,6 +961,11 @@
    },
    {
       "name": "Sheikhupura",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Shorkot",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -960,12 +1025,32 @@
       "stateCode": "PB"
    },
    {
+      "name": "Umerkot",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Vihari",
       "countryCode": "PK",
       "stateCode": "PB"
    },
    {
+      "name": "Wah",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "Warburton",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
       "name": "Wazirabad",
+      "countryCode": "PK",
+      "stateCode": "PB"
+   },
+   {
+      "name": "West Punjab",
       "countryCode": "PK",
       "stateCode": "PB"
    },
@@ -981,91 +1066,6 @@
    },
    {
       "name": "Zahir Pir",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Chuhar Kana",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Dhok Awan",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Daud Khel",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Ferozewala",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Gujranwala Division",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Hasan Abdal",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Kohror Pakka",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Mandi Bahauddin District",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Multan District",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Pakki Shagwanwali",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Qila Didar Singh",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Rahimyar Khan District",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Shahkot Tehsil",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Umerkot",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Wah",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "Warburton",
-      "countryCode": "PK",
-      "stateCode": "PB"
-   },
-   {
-      "name": "West Punjab",
       "countryCode": "PK",
       "stateCode": "PB"
    }

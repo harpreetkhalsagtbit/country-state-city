@@ -385,13 +385,6 @@
       "longitude": "18.50500000"
    },
    {
-      "name": "Đurđenovac",
-      "countryCode": "HR",
-      "stateCode": "14",
-      "latitude": "45.54333000",
-      "longitude": "18.04583000"
-   },
-   {
       "name": "Čeminac",
       "countryCode": "HR",
       "stateCode": "14",
@@ -411,6 +404,13 @@
       "stateCode": "14",
       "latitude": "45.30833000",
       "longitude": "18.41056000"
+   },
+   {
+      "name": "Đurđenovac",
+      "countryCode": "HR",
+      "stateCode": "14",
+      "latitude": "45.54333000",
+      "longitude": "18.04583000"
    },
    {
       "name": "Široko Polje",

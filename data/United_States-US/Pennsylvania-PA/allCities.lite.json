@@ -3070,6 +3070,11 @@
       "stateCode": "PA"
    },
    {
+      "name": "Morningside",
+      "countryCode": "US",
+      "stateCode": "PA"
+   },
+   {
       "name": "Morrisville",
       "countryCode": "US",
       "stateCode": "PA"
@@ -5261,11 +5266,6 @@
    },
    {
       "name": "Zion",
-      "countryCode": "US",
-      "stateCode": "PA"
-   },
-   {
-      "name": "Morningside",
       "countryCode": "US",
       "stateCode": "PA"
    }

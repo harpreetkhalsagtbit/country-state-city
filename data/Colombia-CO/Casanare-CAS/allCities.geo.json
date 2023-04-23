@@ -21,6 +21,13 @@
       "longitude": "-71.76527888"
    },
    {
+      "name": "La Salina",
+      "countryCode": "CO",
+      "stateCode": "CAS",
+      "latitude": "6.12755555",
+      "longitude": "-72.33416777"
+   },
+   {
       "name": "Maní",
       "countryCode": "CO",
       "stateCode": "CAS",
@@ -47,6 +54,13 @@
       "stateCode": "CAS",
       "latitude": "4.79035000",
       "longitude": "-71.33917000"
+   },
+   {
+      "name": "Paz de Ariporo",
+      "countryCode": "CO",
+      "stateCode": "CAS",
+      "latitude": "5.88111111",
+      "longitude": "-71.89166777"
    },
    {
       "name": "Pore",
@@ -117,19 +131,5 @@
       "stateCode": "CAS",
       "latitude": "5.33775000",
       "longitude": "-72.39586000"
-   },
-   {
-      "name": "La Salina",
-      "countryCode": "CO",
-      "stateCode": "CAS",
-      "latitude": "6.12755555",
-      "longitude": "-72.33416777"
-   },
-   {
-      "name": "Paz de Ariporo",
-      "countryCode": "CO",
-      "stateCode": "CAS",
-      "latitude": "5.88111111",
-      "longitude": "-71.89166777"
    }
 ]

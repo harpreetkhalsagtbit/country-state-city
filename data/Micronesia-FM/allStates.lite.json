@@ -1,7 +1,7 @@
 [
    {
-      "name": "Chuuk State",
-      "isoCode": "TRK",
+      "name": "Kosrae State",
+      "isoCode": "KSA",
       "countryCode": "FM"
    },
    {
@@ -10,13 +10,13 @@
       "countryCode": "FM"
    },
    {
-      "name": "Yap State",
-      "isoCode": "YAP",
+      "name": "Chuuk State",
+      "isoCode": "TRK",
       "countryCode": "FM"
    },
    {
-      "name": "Kosrae State",
-      "isoCode": "KSA",
+      "name": "Yap State",
+      "isoCode": "YAP",
       "countryCode": "FM"
    }
 ]

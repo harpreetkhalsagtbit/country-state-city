@@ -73,13 +73,6 @@
       "name": "Baranivka",
       "countryCode": "UA",
       "stateCode": "53",
-      "latitude": "50.30000000",
-      "longitude": "27.66666667"
-   },
-   {
-      "name": "Baranivka",
-      "countryCode": "UA",
-      "stateCode": "53",
       "latitude": "49.94809180",
       "longitude": "34.00827580"
    },
@@ -224,18 +217,18 @@
       "longitude": "27.80777778"
    },
    {
-      "name": "Bronitska Guta",
-      "countryCode": "UA",
-      "stateCode": "53",
-      "latitude": "50.93138889",
-      "longitude": "27.31388889"
-   },
-   {
       "name": "Bronitsia",
       "countryCode": "UA",
       "stateCode": "53",
       "latitude": "50.94666667",
       "longitude": "27.34527778"
+   },
+   {
+      "name": "Bronitska Guta",
+      "countryCode": "UA",
+      "stateCode": "53",
+      "latitude": "50.93138889",
+      "longitude": "27.31388889"
    },
    {
       "name": "Brovki Pershi",

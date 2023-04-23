@@ -1,37 +1,12 @@
 [
    {
-      "name": "Quindío",
-      "isoCode": "QUI",
+      "name": "Amazonas",
+      "isoCode": "AMA",
       "countryCode": "CO"
    },
    {
-      "name": "Cundinamarca",
-      "isoCode": "CUN",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Chocó",
-      "isoCode": "CHO",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Norte de Santander",
-      "isoCode": "NSA",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Meta",
-      "isoCode": "MET",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Risaralda",
-      "isoCode": "RIS",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Atlántico",
-      "isoCode": "ATL",
+      "name": "Antioquia",
+      "isoCode": "ANT",
       "countryCode": "CO"
    },
    {
@@ -40,48 +15,23 @@
       "countryCode": "CO"
    },
    {
-      "name": "Guainía",
-      "isoCode": "GUA",
+      "name": "Atlántico",
+      "isoCode": "ATL",
       "countryCode": "CO"
    },
    {
-      "name": "Tolima",
-      "isoCode": "TOL",
+      "name": "Bolívar",
+      "isoCode": "BOL",
       "countryCode": "CO"
    },
    {
-      "name": "Cauca",
-      "isoCode": "CAU",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Vaupés",
-      "isoCode": "VAU",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Magdalena",
-      "isoCode": "MAG",
+      "name": "Boyacá",
+      "isoCode": "BOY",
       "countryCode": "CO"
    },
    {
       "name": "Caldas",
       "isoCode": "CAL",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Guaviare",
-      "isoCode": "GUV",
-      "countryCode": "CO"
-   },
-   {
-      "name": "La Guajira",
-      "isoCode": "LAG",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Antioquia",
-      "isoCode": "ANT",
       "countryCode": "CO"
    },
    {
@@ -95,33 +45,8 @@
       "countryCode": "CO"
    },
    {
-      "name": "Bolívar",
-      "isoCode": "BOL",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Vichada",
-      "isoCode": "VID",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Amazonas",
-      "isoCode": "AMA",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Putumayo",
-      "isoCode": "PUT",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Nariño",
-      "isoCode": "NAR",
-      "countryCode": "CO"
-   },
-   {
-      "name": "Córdoba",
-      "isoCode": "COR",
+      "name": "Cauca",
+      "isoCode": "CAU",
       "countryCode": "CO"
    },
    {
@@ -130,28 +55,33 @@
       "countryCode": "CO"
    },
    {
-      "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
-      "isoCode": "SAP",
+      "name": "Chocó",
+      "isoCode": "CHO",
       "countryCode": "CO"
    },
    {
-      "name": "Santander",
-      "isoCode": "SAN",
+      "name": "Córdoba",
+      "isoCode": "COR",
       "countryCode": "CO"
    },
    {
-      "name": "Sucre",
-      "isoCode": "SUC",
+      "name": "Cundinamarca",
+      "isoCode": "CUN",
       "countryCode": "CO"
    },
    {
-      "name": "Boyacá",
-      "isoCode": "BOY",
+      "name": "Bogotá D.C.",
+      "isoCode": "DC",
       "countryCode": "CO"
    },
    {
-      "name": "Valle del Cauca",
-      "isoCode": "VAC",
+      "name": "Guainía",
+      "isoCode": "GUA",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Guaviare",
+      "isoCode": "GUV",
       "countryCode": "CO"
    },
    {
@@ -160,8 +90,78 @@
       "countryCode": "CO"
    },
    {
-      "name": "Bogotá D.C.",
-      "isoCode": "DC",
+      "name": "La Guajira",
+      "isoCode": "LAG",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Magdalena",
+      "isoCode": "MAG",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Meta",
+      "isoCode": "MET",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Nariño",
+      "isoCode": "NAR",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Norte de Santander",
+      "isoCode": "NSA",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Putumayo",
+      "isoCode": "PUT",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Quindío",
+      "isoCode": "QUI",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Risaralda",
+      "isoCode": "RIS",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Santander",
+      "isoCode": "SAN",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "isoCode": "SAP",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Sucre",
+      "isoCode": "SUC",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Tolima",
+      "isoCode": "TOL",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Valle del Cauca",
+      "isoCode": "VAC",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Vaupés",
+      "isoCode": "VAU",
+      "countryCode": "CO"
+   },
+   {
+      "name": "Vichada",
+      "isoCode": "VID",
       "countryCode": "CO"
    }
 ]

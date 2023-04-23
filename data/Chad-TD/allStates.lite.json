@@ -1,22 +1,12 @@
 [
    {
-      "name": "Moyen-Chari Region",
-      "isoCode": "MC",
+      "name": "Batha Region",
+      "isoCode": "BA",
       "countryCode": "TD"
    },
    {
-      "name": "Mayo-Kebbi Ouest Region",
-      "isoCode": "MO",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Sila Region",
-      "isoCode": "SI",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Hadjer-Lamis",
-      "isoCode": "HL",
+      "name": "Bahr el Gazel",
+      "isoCode": "BG",
       "countryCode": "TD"
    },
    {
@@ -30,43 +20,8 @@
       "countryCode": "TD"
    },
    {
-      "name": "Guéra Region",
-      "isoCode": "GR",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Lac Region",
-      "isoCode": "LC",
-      "countryCode": "TD"
-   },
-   {
       "name": "Ennedi Region",
       "isoCode": "EN",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Tandjilé Region",
-      "isoCode": "TA",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Mayo-Kebbi Est Region",
-      "isoCode": "ME",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Wadi Fira Region",
-      "isoCode": "WF",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Ouaddaï Region",
-      "isoCode": "OD",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Bahr el Gazel",
-      "isoCode": "BG",
       "countryCode": "TD"
    },
    {
@@ -75,18 +30,13 @@
       "countryCode": "TD"
    },
    {
-      "name": "Logone Occidental Region",
-      "isoCode": "LO",
+      "name": "Guéra Region",
+      "isoCode": "GR",
       "countryCode": "TD"
    },
    {
-      "name": "N'Djamena",
-      "isoCode": "ND",
-      "countryCode": "TD"
-   },
-   {
-      "name": "Tibesti Region",
-      "isoCode": "TI",
+      "name": "Hadjer-Lamis",
+      "isoCode": "HL",
       "countryCode": "TD"
    },
    {
@@ -95,13 +45,13 @@
       "countryCode": "TD"
    },
    {
-      "name": "Mandoul Region",
-      "isoCode": "MA",
+      "name": "Lac Region",
+      "isoCode": "LC",
       "countryCode": "TD"
    },
    {
-      "name": "Batha Region",
-      "isoCode": "BA",
+      "name": "Logone Occidental Region",
+      "isoCode": "LO",
       "countryCode": "TD"
    },
    {
@@ -110,8 +60,58 @@
       "countryCode": "TD"
    },
    {
+      "name": "Mandoul Region",
+      "isoCode": "MA",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Moyen-Chari Region",
+      "isoCode": "MC",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Mayo-Kebbi Est Region",
+      "isoCode": "ME",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Mayo-Kebbi Ouest Region",
+      "isoCode": "MO",
+      "countryCode": "TD"
+   },
+   {
+      "name": "N'Djamena",
+      "isoCode": "ND",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Ouaddaï Region",
+      "isoCode": "OD",
+      "countryCode": "TD"
+   },
+   {
       "name": "Salamat Region",
       "isoCode": "SA",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Sila Region",
+      "isoCode": "SI",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Tandjilé Region",
+      "isoCode": "TA",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Tibesti Region",
+      "isoCode": "TI",
+      "countryCode": "TD"
+   },
+   {
+      "name": "Wadi Fira Region",
+      "isoCode": "WF",
       "countryCode": "TD"
    }
 ]

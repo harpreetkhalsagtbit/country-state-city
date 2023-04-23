@@ -42,6 +42,13 @@
       "longitude": "75.55662000"
    },
    {
+      "name": "Amanganj",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.42664000",
+      "longitude": "80.03579000"
+   },
+   {
       "name": "Amarkantak",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -77,13 +84,6 @@
       "longitude": "78.12786000"
    },
    {
-      "name": "Amanganj",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.42664000",
-      "longitude": "80.03579000"
-   },
-   {
       "name": "Anjad",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -105,6 +105,13 @@
       "longitude": "81.68399000"
    },
    {
+      "name": "Aron",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.38109000",
+      "longitude": "77.41739000"
+   },
+   {
       "name": "Ashoknagar",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -119,6 +126,13 @@
       "longitude": "76.72208000"
    },
    {
+      "name": "Babai",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.70256000",
+      "longitude": "77.93494000"
+   },
+   {
       "name": "Badarwas",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -131,6 +145,20 @@
       "stateCode": "MP",
       "latitude": "23.02181000",
       "longitude": "75.23268000"
+   },
+   {
+      "name": "Bag",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.35905000",
+      "longitude": "74.79052000"
+   },
+   {
+      "name": "Bagli",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.64124000",
+      "longitude": "76.34877000"
    },
    {
       "name": "Baihar",
@@ -154,6 +182,13 @@
       "longitude": "79.28618000"
    },
    {
+      "name": "Balaghat",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "21.96667000",
+      "longitude": "80.33333000"
+   },
+   {
       "name": "Baldeogarh",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -166,6 +201,13 @@
       "stateCode": "MP",
       "latitude": "23.09454000",
       "longitude": "74.76164000"
+   },
+   {
+      "name": "Bamor Kalan",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.89298000",
+      "longitude": "78.15105000"
    },
    {
       "name": "Bamora",
@@ -217,6 +259,13 @@
       "longitude": "74.91805000"
    },
    {
+      "name": "Basoda",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.85153000",
+      "longitude": "77.93652000"
+   },
+   {
       "name": "Begamganj",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -259,11 +308,32 @@
       "longitude": "77.92913000"
    },
    {
+      "name": "Bhabhra",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.53048000",
+      "longitude": "74.32846000"
+   },
+   {
       "name": "Bhainsdehi",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "21.64491000",
       "longitude": "77.63023000"
+   },
+   {
+      "name": "Bhander",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "25.73581000",
+      "longitude": "78.74555000"
+   },
+   {
+      "name": "Bhanpura",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.51300000",
+      "longitude": "75.74690000"
    },
    {
       "name": "Bhawaniganj",
@@ -301,27 +371,6 @@
       "longitude": "77.40289000"
    },
    {
-      "name": "Bhabhra",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.53048000",
-      "longitude": "74.32846000"
-   },
-   {
-      "name": "Bhander",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "25.73581000",
-      "longitude": "78.74555000"
-   },
-   {
-      "name": "Bhanpura",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.51300000",
-      "longitude": "75.74690000"
-   },
-   {
       "name": "Biaora",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -329,18 +378,18 @@
       "longitude": "76.91074000"
    },
    {
-      "name": "Bijrauni",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.93296000",
-      "longitude": "77.64352000"
-   },
-   {
       "name": "Bijawar",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "24.62351000",
       "longitude": "79.48994000"
+   },
+   {
+      "name": "Bijrauni",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.93296000",
+      "longitude": "77.64352000"
    },
    {
       "name": "Bodri",
@@ -362,48 +411,6 @@
       "stateCode": "MP",
       "latitude": "23.21494000",
       "longitude": "81.53204000"
-   },
-   {
-      "name": "Babai",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.70256000",
-      "longitude": "77.93494000"
-   },
-   {
-      "name": "Bag",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.35905000",
-      "longitude": "74.79052000"
-   },
-   {
-      "name": "Bagli",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.64124000",
-      "longitude": "76.34877000"
-   },
-   {
-      "name": "Balaghat",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "21.96667000",
-      "longitude": "80.33333000"
-   },
-   {
-      "name": "Bamor Kalan",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.89298000",
-      "longitude": "78.15105000"
-   },
-   {
-      "name": "Basoda",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.85153000",
-      "longitude": "77.93652000"
    },
    {
       "name": "Chanderi",
@@ -504,13 +511,6 @@
       "longitude": "76.16667000"
    },
    {
-      "name": "Dharampuri",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.14951000",
-      "longitude": "75.34439000"
-   },
-   {
       "name": "Dhamnod",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -532,6 +532,13 @@
       "longitude": "75.29774000"
    },
    {
+      "name": "Dharampuri",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.14951000",
+      "longitude": "75.34439000"
+   },
+   {
       "name": "Dindori",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -544,6 +551,13 @@
       "stateCode": "MP",
       "latitude": "24.18351000",
       "longitude": "78.20289000"
+   },
+   {
+      "name": "Gadarwara",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.92350000",
+      "longitude": "78.78490000"
    },
    {
       "name": "Garha Brahman",
@@ -616,13 +630,6 @@
       "longitude": "78.17337000"
    },
    {
-      "name": "Gadarwara",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.92350000",
-      "longitude": "78.78490000"
-   },
-   {
       "name": "Harda",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -658,6 +665,13 @@
       "longitude": "76.73423000"
    },
    {
+      "name": "Hatod",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.79378000",
+      "longitude": "75.73928000"
+   },
+   {
       "name": "Hatta",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -679,11 +693,11 @@
       "longitude": "77.98887000"
    },
    {
-      "name": "Hatod",
+      "name": "Iawar",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "22.79378000",
-      "longitude": "75.73928000"
+      "latitude": "23.00943000",
+      "longitude": "76.50070000"
    },
    {
       "name": "Ichhawar",
@@ -721,13 +735,6 @@
       "longitude": "77.76222000"
    },
    {
-      "name": "Iawar",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.00943000",
-      "longitude": "76.50070000"
-   },
-   {
       "name": "Jabalpur",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -749,6 +756,13 @@
       "longitude": "78.61487000"
    },
    {
+      "name": "Jamai",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.19644000",
+      "longitude": "78.59191000"
+   },
+   {
       "name": "Jaora",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -763,27 +777,6 @@
       "longitude": "79.04869000"
    },
    {
-      "name": "Jhabua",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.76772000",
-      "longitude": "74.59087000"
-   },
-   {
-      "name": "Jobat",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.41599000",
-      "longitude": "74.56828000"
-   },
-   {
-      "name": "Jamai",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.19644000",
-      "longitude": "78.59191000"
-   },
-   {
       "name": "Jawad",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -791,11 +784,25 @@
       "longitude": "74.86261000"
    },
    {
+      "name": "Jhabua",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.76772000",
+      "longitude": "74.59087000"
+   },
+   {
       "name": "Jiran",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "24.30871000",
       "longitude": "74.89087000"
+   },
+   {
+      "name": "Jobat",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.41599000",
+      "longitude": "74.56828000"
    },
    {
       "name": "Kailaras",
@@ -861,6 +868,13 @@
       "longitude": "80.39417000"
    },
    {
+      "name": "Khachrod",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.42322000",
+      "longitude": "75.28185000"
+   },
+   {
       "name": "Khailar",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -896,6 +910,13 @@
       "longitude": "76.58333000"
    },
    {
+      "name": "Khargapur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.82300000",
+      "longitude": "79.14400000"
+   },
+   {
       "name": "Khargone",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -903,11 +924,11 @@
       "longitude": "75.61028000"
    },
    {
-      "name": "Khargapur",
+      "name": "Khategaon",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "24.82300000",
-      "longitude": "79.14400000"
+      "latitude": "22.59573000",
+      "longitude": "76.91330000"
    },
    {
       "name": "Khilchipur",
@@ -938,20 +959,6 @@
       "longitude": "78.33014000"
    },
    {
-      "name": "Khachrod",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.42322000",
-      "longitude": "75.28185000"
-   },
-   {
-      "name": "Khategaon",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.59573000",
-      "longitude": "76.91330000"
-   },
-   {
       "name": "Kolaras",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -964,6 +971,13 @@
       "stateCode": "MP",
       "latitude": "24.11774000",
       "longitude": "78.04007000"
+   },
+   {
+      "name": "Kotar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.69802000",
+      "longitude": "80.98073000"
    },
    {
       "name": "Kothi",
@@ -985,13 +999,6 @@
       "stateCode": "MP",
       "latitude": "25.03080000",
       "longitude": "81.31908000"
-   },
-   {
-      "name": "Kotar",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.69802000",
-      "longitude": "80.98073000"
    },
    {
       "name": "Kukshi",
@@ -1034,6 +1041,13 @@
       "stateCode": "MP",
       "latitude": "21.58235000",
       "longitude": "78.85911000"
+   },
+   {
+      "name": "Machalpur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.12767000",
+      "longitude": "76.31672000"
    },
    {
       "name": "Madhogarh",
@@ -1085,6 +1099,20 @@
       "longitude": "74.99024000"
    },
    {
+      "name": "Manasa",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.47764000",
+      "longitude": "75.14095000"
+   },
+   {
+      "name": "Manawar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.23566000",
+      "longitude": "75.08917000"
+   },
+   {
       "name": "Mandideep",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1097,6 +1125,13 @@
       "stateCode": "MP",
       "latitude": "22.64041000",
       "longitude": "80.51344000"
+   },
+   {
+      "name": "Mandleshwar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.17598000",
+      "longitude": "75.65995000"
    },
    {
       "name": "Mandsaur",
@@ -1113,18 +1148,11 @@
       "longitude": "81.54644000"
    },
    {
-      "name": "Manasa",
+      "name": "Manpur",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "24.47764000",
-      "longitude": "75.14095000"
-   },
-   {
-      "name": "Manawar",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.23566000",
-      "longitude": "75.08917000"
+      "latitude": "22.43151000",
+      "longitude": "75.62107000"
    },
    {
       "name": "Mau",
@@ -1155,18 +1183,18 @@
       "longitude": "78.73638000"
    },
    {
-      "name": "Morena",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "26.16667000",
-      "longitude": "77.50000000"
-   },
-   {
       "name": "Morar",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "26.22640000",
       "longitude": "78.22482000"
+   },
+   {
+      "name": "Morena",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "26.16667000",
+      "longitude": "77.50000000"
    },
    {
       "name": "Multai",
@@ -1197,32 +1225,25 @@
       "longitude": "80.39405000"
    },
    {
-      "name": "Machalpur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.12767000",
-      "longitude": "76.31672000"
-   },
-   {
-      "name": "Mandleshwar",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.17598000",
-      "longitude": "75.65995000"
-   },
-   {
-      "name": "Manpur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.43151000",
-      "longitude": "75.62107000"
-   },
-   {
       "name": "Nagda",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "23.45834000",
       "longitude": "75.41759000"
+   },
+   {
+      "name": "Nagod",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.56924000",
+      "longitude": "80.58809000"
+   },
+   {
+      "name": "Naigarhi",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.78686000",
+      "longitude": "81.77868000"
    },
    {
       "name": "Nainpur",
@@ -1244,6 +1265,13 @@
       "stateCode": "MP",
       "latitude": "25.19033000",
       "longitude": "80.47500000"
+   },
+   {
+      "name": "Narayangarh",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.27083000",
+      "longitude": "75.05007000"
    },
    {
       "name": "Narsimhapur",
@@ -1274,13 +1302,6 @@
       "longitude": "77.27069000"
    },
    {
-      "name": "Naigarhi",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.78686000",
-      "longitude": "81.77868000"
-   },
-   {
       "name": "Neemuch",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1293,20 +1314,6 @@
       "stateCode": "MP",
       "latitude": "21.45380000",
       "longitude": "76.39335000"
-   },
-   {
-      "name": "Nagod",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.56924000",
-      "longitude": "80.58809000"
-   },
-   {
-      "name": "Narayangarh",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.27083000",
-      "longitude": "75.05007000"
    },
    {
       "name": "Orchha",
@@ -1330,6 +1337,20 @@
       "longitude": "79.22818000"
    },
    {
+      "name": "Pali",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.36453000",
+      "longitude": "81.04374000"
+   },
+   {
+      "name": "Panagar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.28539000",
+      "longitude": "79.99509000"
+   },
+   {
       "name": "Panara",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1344,6 +1365,13 @@
       "longitude": "76.22487000"
    },
    {
+      "name": "Pandhurna",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "21.59556000",
+      "longitude": "78.52628000"
+   },
+   {
       "name": "Panna",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1351,11 +1379,11 @@
       "longitude": "80.25000000"
    },
    {
-      "name": "Panagar",
+      "name": "Pansemal",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "23.28539000",
-      "longitude": "79.99509000"
+      "latitude": "21.65981000",
+      "longitude": "74.69937000"
    },
    {
       "name": "Parasia",
@@ -1363,6 +1391,13 @@
       "stateCode": "MP",
       "latitude": "22.19130000",
       "longitude": "78.75904000"
+   },
+   {
+      "name": "Patan",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.28636000",
+      "longitude": "79.68962000"
    },
    {
       "name": "Patharia",
@@ -1414,32 +1449,18 @@
       "longitude": "76.39335000"
    },
    {
-      "name": "Pali",
+      "name": "Raghogarh",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "23.36453000",
-      "longitude": "81.04374000"
+      "latitude": "24.44318000",
+      "longitude": "77.19768000"
    },
    {
-      "name": "Pandhurna",
+      "name": "Rahatgarh",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "21.59556000",
-      "longitude": "78.52628000"
-   },
-   {
-      "name": "Pansemal",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "21.65981000",
-      "longitude": "74.69937000"
-   },
-   {
-      "name": "Patan",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.28636000",
-      "longitude": "79.68962000"
+      "latitude": "23.78968000",
+      "longitude": "78.39473000"
    },
    {
       "name": "Raisen",
@@ -1449,11 +1470,39 @@
       "longitude": "78.08333000"
    },
    {
+      "name": "Rajgarh",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.67821000",
+      "longitude": "74.94483000"
+   },
+   {
+      "name": "Rajnagar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.88929000",
+      "longitude": "79.91178000"
+   },
+   {
       "name": "Rajpur",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "22.30393000",
       "longitude": "74.35568000"
+   },
+   {
+      "name": "Rampura",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.46700000",
+      "longitude": "75.43996000"
+   },
+   {
+      "name": "Ranapur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.64704000",
+      "longitude": "74.52118000"
    },
    {
       "name": "Ratangarh",
@@ -1491,53 +1540,18 @@
       "longitude": "81.29234000"
    },
    {
-      "name": "Raghogarh",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.44318000",
-      "longitude": "77.19768000"
-   },
-   {
-      "name": "Rahatgarh",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.78968000",
-      "longitude": "78.39473000"
-   },
-   {
-      "name": "Rajgarh",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.67821000",
-      "longitude": "74.94483000"
-   },
-   {
-      "name": "Rajnagar",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.88929000",
-      "longitude": "79.91178000"
-   },
-   {
-      "name": "Rampura",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.46700000",
-      "longitude": "75.43996000"
-   },
-   {
-      "name": "Ranapur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.64704000",
-      "longitude": "74.52118000"
-   },
-   {
       "name": "Sabalgarh",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "26.24918000",
       "longitude": "77.40786000"
+   },
+   {
+      "name": "Sagar",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.75000000",
+      "longitude": "78.75000000"
    },
    {
       "name": "Sailana",
@@ -1552,6 +1566,27 @@
       "stateCode": "MP",
       "latitude": "22.17391000",
       "longitude": "76.06993000"
+   },
+   {
+      "name": "Sanchi",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.48646000",
+      "longitude": "77.73780000"
+   },
+   {
+      "name": "Sanwer",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "22.97415000",
+      "longitude": "75.82710000"
+   },
+   {
+      "name": "Sarangpur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.56651000",
+      "longitude": "76.47306000"
    },
    {
       "name": "Satna",
@@ -1624,27 +1659,6 @@
       "longitude": "81.50000000"
    },
    {
-      "name": "Sheopur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "25.80000000",
-      "longitude": "77.00000000"
-   },
-   {
-      "name": "Shivpuri",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "25.42378000",
-      "longitude": "77.66223000"
-   },
-   {
-      "name": "Shujalpur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.40673000",
-      "longitude": "76.70980000"
-   },
-   {
       "name": "Shahgarh",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1678,6 +1692,27 @@
       "stateCode": "MP",
       "latitude": "24.18817000",
       "longitude": "75.63903000"
+   },
+   {
+      "name": "Sheopur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "25.80000000",
+      "longitude": "77.00000000"
+   },
+   {
+      "name": "Shivpuri",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "25.42378000",
+      "longitude": "77.66223000"
+   },
+   {
+      "name": "Shujalpur",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "23.40673000",
+      "longitude": "76.70980000"
    },
    {
       "name": "Sidhi",
@@ -1729,6 +1764,13 @@
       "longitude": "77.69055000"
    },
    {
+      "name": "Sitamau",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "24.01473000",
+      "longitude": "75.35324000"
+   },
+   {
       "name": "Sohagi",
       "countryCode": "IN",
       "stateCode": "MP",
@@ -1757,39 +1799,11 @@
       "longitude": "76.08825000"
    },
    {
-      "name": "Sagar",
+      "name": "Tal",
       "countryCode": "IN",
       "stateCode": "MP",
-      "latitude": "23.75000000",
-      "longitude": "78.75000000"
-   },
-   {
-      "name": "Sanchi",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.48646000",
-      "longitude": "77.73780000"
-   },
-   {
-      "name": "Sanwer",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "22.97415000",
-      "longitude": "75.82710000"
-   },
-   {
-      "name": "Sarangpur",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.56651000",
-      "longitude": "76.47306000"
-   },
-   {
-      "name": "Sitamau",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.01473000",
-      "longitude": "75.35324000"
+      "latitude": "23.71979000",
+      "longitude": "75.38514000"
    },
    {
       "name": "Talen",
@@ -1834,25 +1848,18 @@
       "longitude": "74.57747000"
    },
    {
-      "name": "Tirodi",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "21.68522000",
-      "longitude": "79.71906000"
-   },
-   {
-      "name": "Tal",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "23.71979000",
-      "longitude": "75.38514000"
-   },
-   {
       "name": "Tikamgarh",
       "countryCode": "IN",
       "stateCode": "MP",
       "latitude": "24.74327000",
       "longitude": "78.83061000"
+   },
+   {
+      "name": "Tirodi",
+      "countryCode": "IN",
+      "stateCode": "MP",
+      "latitude": "21.68522000",
+      "longitude": "79.71906000"
    },
    {
       "name": "Udaipura",
@@ -1916,12 +1923,5 @@
       "stateCode": "MP",
       "latitude": "21.76184000",
       "longitude": "80.04301000"
-   },
-   {
-      "name": "Aron",
-      "countryCode": "IN",
-      "stateCode": "MP",
-      "latitude": "24.38109000",
-      "longitude": "77.41739000"
    }
 ]

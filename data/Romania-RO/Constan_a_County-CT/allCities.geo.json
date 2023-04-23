@@ -1050,6 +1050,48 @@
       "longitude": "28.35277000"
    },
    {
+      "name": "Săcele",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.48333000",
+      "longitude": "28.65000000"
+   },
+   {
+      "name": "Tariverde",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.56268000",
+      "longitude": "28.60245000"
+   },
+   {
+      "name": "Techirghiol",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.05000000",
+      "longitude": "28.60000000"
+   },
+   {
+      "name": "Topalu",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.54381000",
+      "longitude": "28.04575000"
+   },
+   {
+      "name": "Topraisar",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.01667000",
+      "longitude": "28.45000000"
+   },
+   {
+      "name": "Tortoman",
+      "countryCode": "RO",
+      "stateCode": "CT",
+      "latitude": "44.35000000",
+      "longitude": "28.21667000"
+   },
+   {
       "name": "Tuzla",
       "countryCode": "RO",
       "stateCode": "CT",
@@ -1097,47 +1139,5 @@
       "stateCode": "CT",
       "latitude": "44.65000000",
       "longitude": "28.26667000"
-   },
-   {
-      "name": "Săcele",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.48333000",
-      "longitude": "28.65000000"
-   },
-   {
-      "name": "Tariverde",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.56268000",
-      "longitude": "28.60245000"
-   },
-   {
-      "name": "Techirghiol",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.05000000",
-      "longitude": "28.60000000"
-   },
-   {
-      "name": "Topalu",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.54381000",
-      "longitude": "28.04575000"
-   },
-   {
-      "name": "Topraisar",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.01667000",
-      "longitude": "28.45000000"
-   },
-   {
-      "name": "Tortoman",
-      "countryCode": "RO",
-      "stateCode": "CT",
-      "latitude": "44.35000000",
-      "longitude": "28.21667000"
    }
 ]

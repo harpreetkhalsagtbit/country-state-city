@@ -1,35 +1,5 @@
 [
    {
-      "name": "Collines Department",
-      "isoCode": "CO",
-      "countryCode": "BJ"
-   },
-   {
-      "name": "Kouffo Department",
-      "isoCode": "KO",
-      "countryCode": "BJ"
-   },
-   {
-      "name": "Donga Department",
-      "isoCode": "DO",
-      "countryCode": "BJ"
-   },
-   {
-      "name": "Zou Department",
-      "isoCode": "ZO",
-      "countryCode": "BJ"
-   },
-   {
-      "name": "Plateau Department",
-      "isoCode": "PL",
-      "countryCode": "BJ"
-   },
-   {
-      "name": "Mono Department",
-      "isoCode": "MO",
-      "countryCode": "BJ"
-   },
-   {
       "name": "Atakora Department",
       "isoCode": "AK",
       "countryCode": "BJ"
@@ -40,13 +10,38 @@
       "countryCode": "BJ"
    },
    {
+      "name": "Atlantique Department",
+      "isoCode": "AQ",
+      "countryCode": "BJ"
+   },
+   {
       "name": "Borgou Department",
       "isoCode": "BO",
       "countryCode": "BJ"
    },
    {
-      "name": "Atlantique Department",
-      "isoCode": "AQ",
+      "name": "Collines Department",
+      "isoCode": "CO",
+      "countryCode": "BJ"
+   },
+   {
+      "name": "Donga Department",
+      "isoCode": "DO",
+      "countryCode": "BJ"
+   },
+   {
+      "name": "Kouffo Department",
+      "isoCode": "KO",
+      "countryCode": "BJ"
+   },
+   {
+      "name": "Littoral Department",
+      "isoCode": "LI",
+      "countryCode": "BJ"
+   },
+   {
+      "name": "Mono Department",
+      "isoCode": "MO",
       "countryCode": "BJ"
    },
    {
@@ -55,8 +50,13 @@
       "countryCode": "BJ"
    },
    {
-      "name": "Littoral Department",
-      "isoCode": "LI",
+      "name": "Plateau Department",
+      "isoCode": "PL",
+      "countryCode": "BJ"
+   },
+   {
+      "name": "Zou Department",
+      "isoCode": "ZO",
       "countryCode": "BJ"
    }
 ]

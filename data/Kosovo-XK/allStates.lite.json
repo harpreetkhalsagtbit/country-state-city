@@ -1,20 +1,5 @@
 [
    {
-      "name": "Prizren District",
-      "isoCode": "XPR",
-      "countryCode": "XK"
-   },
-   {
-      "name": "Peć District",
-      "isoCode": "XPE",
-      "countryCode": "XK"
-   },
-   {
-      "name": "Uroševac District (Ferizaj)",
-      "isoCode": "XUF",
-      "countryCode": "XK"
-   },
-   {
       "name": "Đakovica District (Gjakove)",
       "isoCode": "XDG",
       "countryCode": "XK"
@@ -30,8 +15,23 @@
       "countryCode": "XK"
    },
    {
+      "name": "Peć District",
+      "isoCode": "XPE",
+      "countryCode": "XK"
+   },
+   {
       "name": "Pristina (Priştine)",
       "isoCode": "XPI",
+      "countryCode": "XK"
+   },
+   {
+      "name": "Prizren District",
+      "isoCode": "XPR",
+      "countryCode": "XK"
+   },
+   {
+      "name": "Uroševac District (Ferizaj)",
+      "isoCode": "XUF",
       "countryCode": "XK"
    }
 ]

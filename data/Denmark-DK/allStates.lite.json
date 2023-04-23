@@ -1,7 +1,12 @@
 [
    {
-      "name": "Region Zealand",
-      "isoCode": "85",
+      "name": "North Denmark Region",
+      "isoCode": "81",
+      "countryCode": "DK"
+   },
+   {
+      "name": "Central Denmark Region",
+      "isoCode": "82",
       "countryCode": "DK"
    },
    {
@@ -15,13 +20,8 @@
       "countryCode": "DK"
    },
    {
-      "name": "Central Denmark Region",
-      "isoCode": "82",
-      "countryCode": "DK"
-   },
-   {
-      "name": "North Denmark Region",
-      "isoCode": "81",
+      "name": "Region Zealand",
+      "isoCode": "85",
       "countryCode": "DK"
    }
 ]

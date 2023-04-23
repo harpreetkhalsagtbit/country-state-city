@@ -1,7 +1,7 @@
 [
    {
-      "name": "Ngamiland",
-      "isoCode": "NG",
+      "name": "Central District",
+      "isoCode": "CE",
       "countryCode": "BW"
    },
    {
@@ -10,33 +10,18 @@
       "countryCode": "BW"
    },
    {
-      "name": "Kgatleng District",
-      "isoCode": "KL",
-      "countryCode": "BW"
-   },
-   {
-      "name": "Southern District",
-      "isoCode": "SO",
-      "countryCode": "BW"
-   },
-   {
-      "name": "South-East District",
-      "isoCode": "SE",
-      "countryCode": "BW"
-   },
-   {
-      "name": "North-West District",
-      "isoCode": "NW",
-      "countryCode": "BW"
-   },
-   {
       "name": "Kgalagadi District",
       "isoCode": "KG",
       "countryCode": "BW"
    },
    {
-      "name": "Central District",
-      "isoCode": "CE",
+      "name": "Kgatleng District",
+      "isoCode": "KL",
+      "countryCode": "BW"
+   },
+   {
+      "name": "Kweneng District",
+      "isoCode": "KW",
       "countryCode": "BW"
    },
    {
@@ -45,8 +30,23 @@
       "countryCode": "BW"
    },
    {
-      "name": "Kweneng District",
-      "isoCode": "KW",
+      "name": "Ngamiland",
+      "isoCode": "NG",
+      "countryCode": "BW"
+   },
+   {
+      "name": "North-West District",
+      "isoCode": "NW",
+      "countryCode": "BW"
+   },
+   {
+      "name": "South-East District",
+      "isoCode": "SE",
+      "countryCode": "BW"
+   },
+   {
+      "name": "Southern District",
+      "isoCode": "SO",
       "countryCode": "BW"
    }
 ]

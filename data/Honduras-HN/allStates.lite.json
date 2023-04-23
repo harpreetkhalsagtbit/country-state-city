@@ -1,52 +1,12 @@
 [
    {
-      "name": "Choluteca Department",
-      "isoCode": "CH",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Comayagua Department",
-      "isoCode": "CM",
-      "countryCode": "HN"
-   },
-   {
-      "name": "El Paraíso Department",
-      "isoCode": "EP",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Intibucá Department",
-      "isoCode": "IN",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Bay Islands Department",
-      "isoCode": "IB",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Cortés Department",
-      "isoCode": "CR",
-      "countryCode": "HN"
-   },
-   {
       "name": "Atlántida Department",
       "isoCode": "AT",
       "countryCode": "HN"
    },
    {
-      "name": "Gracias a Dios Department",
-      "isoCode": "GD",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Copán Department",
-      "isoCode": "CP",
-      "countryCode": "HN"
-   },
-   {
-      "name": "Olancho Department",
-      "isoCode": "OL",
+      "name": "Choluteca Department",
+      "isoCode": "CH",
       "countryCode": "HN"
    },
    {
@@ -55,13 +15,43 @@
       "countryCode": "HN"
    },
    {
+      "name": "Comayagua Department",
+      "isoCode": "CM",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Copán Department",
+      "isoCode": "CP",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Cortés Department",
+      "isoCode": "CR",
+      "countryCode": "HN"
+   },
+   {
+      "name": "El Paraíso Department",
+      "isoCode": "EP",
+      "countryCode": "HN"
+   },
+   {
       "name": "Francisco Morazán Department",
       "isoCode": "FM",
       "countryCode": "HN"
    },
    {
-      "name": "Santa Bárbara Department",
-      "isoCode": "SB",
+      "name": "Gracias a Dios Department",
+      "isoCode": "GD",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Bay Islands Department",
+      "isoCode": "IB",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Intibucá Department",
+      "isoCode": "IN",
       "countryCode": "HN"
    },
    {
@@ -70,8 +60,8 @@
       "countryCode": "HN"
    },
    {
-      "name": "Valle Department",
-      "isoCode": "VA",
+      "name": "La Paz Department",
+      "isoCode": "LP",
       "countryCode": "HN"
    },
    {
@@ -80,13 +70,23 @@
       "countryCode": "HN"
    },
    {
-      "name": "Yoro Department",
-      "isoCode": "YO",
+      "name": "Olancho Department",
+      "isoCode": "OL",
       "countryCode": "HN"
    },
    {
-      "name": "La Paz Department",
-      "isoCode": "LP",
+      "name": "Santa Bárbara Department",
+      "isoCode": "SB",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Valle Department",
+      "isoCode": "VA",
+      "countryCode": "HN"
+   },
+   {
+      "name": "Yoro Department",
+      "isoCode": "YO",
       "countryCode": "HN"
    }
 ]

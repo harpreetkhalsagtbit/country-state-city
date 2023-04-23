@@ -1290,6 +1290,11 @@
       "stateCode": "QLD"
    },
    {
+      "name": "Eagle Farm",
+      "countryCode": "AU",
+      "stateCode": "QLD"
+   },
+   {
       "name": "Eagleby",
       "countryCode": "AU",
       "stateCode": "QLD"
@@ -4296,11 +4301,6 @@
    },
    {
       "name": "Zilzie",
-      "countryCode": "AU",
-      "stateCode": "QLD"
-   },
-   {
-      "name": "Eagle Farm",
       "countryCode": "AU",
       "stateCode": "QLD"
    }

@@ -1,130 +1,5 @@
 [
    {
-      "name": "Saint-Barthélemy",
-      "isoCode": "BL",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Nouvelle-Aquitaine",
-      "isoCode": "NAQ",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Île-de-France",
-      "isoCode": "IDF",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Mayotte",
-      "isoCode": "976",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Auvergne-Rhône-Alpes",
-      "isoCode": "ARA",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Occitanie",
-      "isoCode": "OCC",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Pays-de-la-Loire",
-      "isoCode": "PDL",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Normandie",
-      "isoCode": "NOR",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Corse",
-      "isoCode": "20R",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Bretagne",
-      "isoCode": "BRE",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Saint-Martin",
-      "isoCode": "MF",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Wallis and Futuna",
-      "isoCode": "WF",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Alsace",
-      "isoCode": "6AE",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Provence-Alpes-Côte-d’Azur",
-      "isoCode": "PAC",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Paris",
-      "isoCode": "75C",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Centre-Val de Loire",
-      "isoCode": "CVL",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Grand-Est",
-      "isoCode": "GES",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Saint Pierre and Miquelon",
-      "isoCode": "PM",
-      "countryCode": "FR"
-   },
-   {
-      "name": "French Guiana",
-      "isoCode": "973",
-      "countryCode": "FR"
-   },
-   {
-      "name": "La Réunion",
-      "isoCode": "974",
-      "countryCode": "FR"
-   },
-   {
-      "name": "French Polynesia",
-      "isoCode": "PF",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Bourgogne-Franche-Comté",
-      "isoCode": "BFC",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Martinique",
-      "isoCode": "972",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Hauts-de-France",
-      "isoCode": "HDF",
-      "countryCode": "FR"
-   },
-   {
-      "name": "Guadeloupe",
-      "isoCode": "971",
-      "countryCode": "FR"
-   },
-   {
       "name": "Ain",
       "isoCode": "01",
       "countryCode": "FR"
@@ -217,6 +92,11 @@
    {
       "name": "Corrèze",
       "isoCode": "19",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Corse",
+      "isoCode": "20R",
       "countryCode": "FR"
    },
    {
@@ -480,6 +360,11 @@
       "countryCode": "FR"
    },
    {
+      "name": "Alsace",
+      "isoCode": "6AE",
+      "countryCode": "FR"
+   },
+   {
       "name": "Haute-Saône",
       "isoCode": "70",
       "countryCode": "FR"
@@ -502,6 +387,11 @@
    {
       "name": "Haute-Savoie",
       "isoCode": "74",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Paris",
+      "isoCode": "75C",
       "countryCode": "FR"
    },
    {
@@ -605,13 +495,123 @@
       "countryCode": "FR"
    },
    {
+      "name": "Guadeloupe",
+      "isoCode": "971",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Martinique",
+      "isoCode": "972",
+      "countryCode": "FR"
+   },
+   {
+      "name": "French Guiana",
+      "isoCode": "973",
+      "countryCode": "FR"
+   },
+   {
+      "name": "La Réunion",
+      "isoCode": "974",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Mayotte",
+      "isoCode": "976",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Auvergne-Rhône-Alpes",
+      "isoCode": "ARA",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Bourgogne-Franche-Comté",
+      "isoCode": "BFC",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Saint-Barthélemy",
+      "isoCode": "BL",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Bretagne",
+      "isoCode": "BRE",
+      "countryCode": "FR"
+   },
+   {
       "name": "Clipperton",
       "isoCode": "CP",
       "countryCode": "FR"
    },
    {
+      "name": "Centre-Val de Loire",
+      "isoCode": "CVL",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Grand-Est",
+      "isoCode": "GES",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Hauts-de-France",
+      "isoCode": "HDF",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Île-de-France",
+      "isoCode": "IDF",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Saint-Martin",
+      "isoCode": "MF",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Nouvelle-Aquitaine",
+      "isoCode": "NAQ",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Normandie",
+      "isoCode": "NOR",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Occitanie",
+      "isoCode": "OCC",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Provence-Alpes-Côte-d’Azur",
+      "isoCode": "PAC",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Pays-de-la-Loire",
+      "isoCode": "PDL",
+      "countryCode": "FR"
+   },
+   {
+      "name": "French Polynesia",
+      "isoCode": "PF",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Saint Pierre and Miquelon",
+      "isoCode": "PM",
+      "countryCode": "FR"
+   },
+   {
       "name": "French Southern and Antarctic Lands",
       "isoCode": "TF",
+      "countryCode": "FR"
+   },
+   {
+      "name": "Wallis and Futuna",
+      "isoCode": "WF",
       "countryCode": "FR"
    }
 ]

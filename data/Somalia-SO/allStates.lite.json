@@ -1,12 +1,7 @@
 [
    {
-      "name": "Hiran",
-      "isoCode": "HI",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Mudug",
-      "isoCode": "MU",
+      "name": "Awdal Region",
+      "isoCode": "AW",
       "countryCode": "SO"
    },
    {
@@ -15,43 +10,13 @@
       "countryCode": "SO"
    },
    {
-      "name": "Galguduud",
-      "isoCode": "GA",
+      "name": "Banaadir",
+      "isoCode": "BN",
       "countryCode": "SO"
    },
    {
-      "name": "Sanaag Region",
-      "isoCode": "SA",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Nugal",
-      "isoCode": "NU",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Lower Shebelle",
-      "isoCode": "SH",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Middle Juba",
-      "isoCode": "JD",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Middle Shebelle",
-      "isoCode": "SD",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Lower Juba",
-      "isoCode": "JH",
-      "countryCode": "SO"
-   },
-   {
-      "name": "Awdal Region",
-      "isoCode": "AW",
+      "name": "Bari",
+      "isoCode": "BR",
       "countryCode": "SO"
    },
    {
@@ -60,8 +25,8 @@
       "countryCode": "SO"
    },
    {
-      "name": "Banaadir",
-      "isoCode": "BN",
+      "name": "Galguduud",
+      "isoCode": "GA",
       "countryCode": "SO"
    },
    {
@@ -70,13 +35,48 @@
       "countryCode": "SO"
    },
    {
-      "name": "Togdheer Region",
-      "isoCode": "TO",
+      "name": "Hiran",
+      "isoCode": "HI",
       "countryCode": "SO"
    },
    {
-      "name": "Bari",
-      "isoCode": "BR",
+      "name": "Middle Juba",
+      "isoCode": "JD",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Lower Juba",
+      "isoCode": "JH",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Mudug",
+      "isoCode": "MU",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Nugal",
+      "isoCode": "NU",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Sanaag Region",
+      "isoCode": "SA",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Middle Shebelle",
+      "isoCode": "SD",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Lower Shebelle",
+      "isoCode": "SH",
+      "countryCode": "SO"
+   },
+   {
+      "name": "Togdheer Region",
+      "isoCode": "TO",
       "countryCode": "SO"
    }
 ]

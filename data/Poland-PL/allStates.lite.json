@@ -1,17 +1,7 @@
 [
    {
-      "name": "Opole Voivodeship",
-      "isoCode": "OP",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Silesian Voivodeship",
-      "isoCode": "SL",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Pomeranian Voivodeship",
-      "isoCode": "PM",
+      "name": "Lower Silesian Voivodeship",
+      "isoCode": "DS",
       "countryCode": "PL"
    },
    {
@@ -20,48 +10,8 @@
       "countryCode": "PL"
    },
    {
-      "name": "Podkarpackie Voivodeship",
-      "isoCode": "PK",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Warmian-Masurian Voivodeship",
-      "isoCode": "WN",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Lower Silesian Voivodeship",
-      "isoCode": "DS",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Świętokrzyskie Voivodeship",
-      "isoCode": "SK",
-      "countryCode": "PL"
-   },
-   {
       "name": "Lubusz Voivodeship",
       "isoCode": "LB",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Podlaskie Voivodeship",
-      "isoCode": "PD",
-      "countryCode": "PL"
-   },
-   {
-      "name": "West Pomeranian Voivodeship",
-      "isoCode": "ZP",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Greater Poland Voivodeship",
-      "isoCode": "WP",
-      "countryCode": "PL"
-   },
-   {
-      "name": "Lesser Poland Voivodeship",
-      "isoCode": "MA",
       "countryCode": "PL"
    },
    {
@@ -70,13 +20,63 @@
       "countryCode": "PL"
    },
    {
+      "name": "Lublin Voivodeship",
+      "isoCode": "LU",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Lesser Poland Voivodeship",
+      "isoCode": "MA",
+      "countryCode": "PL"
+   },
+   {
       "name": "Masovian Voivodeship",
       "isoCode": "MZ",
       "countryCode": "PL"
    },
    {
-      "name": "Lublin Voivodeship",
-      "isoCode": "LU",
+      "name": "Opole Voivodeship",
+      "isoCode": "OP",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Podlaskie Voivodeship",
+      "isoCode": "PD",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Podkarpackie Voivodeship",
+      "isoCode": "PK",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Pomeranian Voivodeship",
+      "isoCode": "PM",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Świętokrzyskie Voivodeship",
+      "isoCode": "SK",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Silesian Voivodeship",
+      "isoCode": "SL",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Warmian-Masurian Voivodeship",
+      "isoCode": "WN",
+      "countryCode": "PL"
+   },
+   {
+      "name": "Greater Poland Voivodeship",
+      "isoCode": "WP",
+      "countryCode": "PL"
+   },
+   {
+      "name": "West Pomeranian Voivodeship",
+      "isoCode": "ZP",
       "countryCode": "PL"
    }
 ]

@@ -98,6 +98,13 @@
       "longitude": "-77.76200000"
    },
    {
+      "name": "Litoral del San Juan",
+      "countryCode": "CO",
+      "stateCode": "CHO",
+      "latitude": "4.25875000",
+      "longitude": "-77.36516000"
+   },
+   {
       "name": "Lloró",
       "countryCode": "CO",
       "stateCode": "CHO",
@@ -173,13 +180,6 @@
       "stateCode": "CHO",
       "latitude": "4.89616000",
       "longitude": "-76.23422000"
-   },
-   {
-      "name": "Litoral del San Juan",
-      "countryCode": "CO",
-      "stateCode": "CHO",
-      "latitude": "4.25875000",
-      "longitude": "-77.36516000"
    },
    {
       "name": "Sipí",

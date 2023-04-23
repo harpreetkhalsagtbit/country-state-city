@@ -15,18 +15,13 @@
       "countryCode": "SA"
    },
    {
-      "name": "Tabuk",
-      "isoCode": "07",
+      "name": "Eastern Province",
+      "isoCode": "04",
       "countryCode": "SA"
    },
    {
-      "name": "'Asir",
-      "isoCode": "14",
-      "countryCode": "SA"
-   },
-   {
-      "name": "Northern Borders",
-      "isoCode": "08",
+      "name": "Al-Qassim",
+      "isoCode": "05",
       "countryCode": "SA"
    },
    {
@@ -35,13 +30,13 @@
       "countryCode": "SA"
    },
    {
-      "name": "Eastern Province",
-      "isoCode": "04",
+      "name": "Tabuk",
+      "isoCode": "07",
       "countryCode": "SA"
    },
    {
-      "name": "Al Jawf",
-      "isoCode": "12",
+      "name": "Northern Borders",
+      "isoCode": "08",
       "countryCode": "SA"
    },
    {
@@ -50,18 +45,23 @@
       "countryCode": "SA"
    },
    {
-      "name": "Al Bahah",
-      "isoCode": "11",
-      "countryCode": "SA"
-   },
-   {
       "name": "Najran",
       "isoCode": "10",
       "countryCode": "SA"
    },
    {
-      "name": "Al-Qassim",
-      "isoCode": "05",
+      "name": "Al Bahah",
+      "isoCode": "11",
+      "countryCode": "SA"
+   },
+   {
+      "name": "Al Jawf",
+      "isoCode": "12",
+      "countryCode": "SA"
+   },
+   {
+      "name": "'Asir",
+      "isoCode": "14",
       "countryCode": "SA"
    }
 ]

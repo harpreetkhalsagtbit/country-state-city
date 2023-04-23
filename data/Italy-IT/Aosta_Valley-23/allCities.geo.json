@@ -1,257 +1,5 @@
 [
    {
-      "name": "Paquier",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.87879000",
-      "longitude": "7.62575000"
-   },
-   {
-      "name": "Perloz",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.61386000",
-      "longitude": "7.80811000"
-   },
-   {
-      "name": "Petit Fenis",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.75115000",
-      "longitude": "7.46391000"
-   },
-   {
-      "name": "Plan d'Introd",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.69203000",
-      "longitude": "7.18328000"
-   },
-   {
-      "name": "Pollein",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.72780000",
-      "longitude": "7.35146000"
-   },
-   {
-      "name": "Pont-Bozet",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.60726000",
-      "longitude": "7.68641000"
-   },
-   {
-      "name": "Pont-Saint-Martin",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.59536000",
-      "longitude": "7.79451000"
-   },
-   {
-      "name": "Pontey",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.73886000",
-      "longitude": "7.58831000"
-   },
-   {
-      "name": "Prè Saint Didier",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.76416000",
-      "longitude": "6.98579000"
-   },
-   {
-      "name": "Quart",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.74096000",
-      "longitude": "7.41520000"
-   },
-   {
-      "name": "Quincod",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.71513000",
-      "longitude": "7.73495000"
-   },
-   {
-      "name": "Rhemes-Notre-Dame",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.56965000",
-      "longitude": "7.11870000"
-   },
-   {
-      "name": "Rhemes-Saint-Georges",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.65226000",
-      "longitude": "7.15440000"
-   },
-   {
-      "name": "Saint Marcel",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.73146000",
-      "longitude": "7.44820000"
-   },
-   {
-      "name": "Saint Maurice",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.71771000",
-      "longitude": "7.25547000"
-   },
-   {
-      "name": "Saint-Christophe",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.75406000",
-      "longitude": "7.34720000"
-   },
-   {
-      "name": "Saint-Denis",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.75256000",
-      "longitude": "7.55531000"
-   },
-   {
-      "name": "Saint-Nicolas",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.71656000",
-      "longitude": "7.16670000"
-   },
-   {
-      "name": "Saint-Oyen",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.82439000",
-      "longitude": "7.21372000"
-   },
-   {
-      "name": "Saint-Pierre",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.71153000",
-      "longitude": "7.22683000"
-   },
-   {
-      "name": "Saint-Rhémy",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.83553000",
-      "longitude": "7.18393000"
-   },
-   {
-      "name": "Saint-Vincent",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.75082000",
-      "longitude": "7.64815000"
-   },
-   {
-      "name": "San Leonardo",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.82366000",
-      "longitude": "7.18140000"
-   },
-   {
-      "name": "Torgnon",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.80616000",
-      "longitude": "7.56980000"
-   },
-   {
-      "name": "Valgrisenche",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.63036000",
-      "longitude": "7.06400000"
-   },
-   {
-      "name": "Valle d'Aosta",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.76667000",
-      "longitude": "7.41667000"
-   },
-   {
-      "name": "Valpelline",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.82486000",
-      "longitude": "7.32550000"
-   },
-   {
-      "name": "Valsavarenche",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.59186000",
-      "longitude": "7.21000000"
-   },
-   {
-      "name": "Valtournenche",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.87607000",
-      "longitude": "7.62430000"
-   },
-   {
-      "name": "Verrayes",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.76326000",
-      "longitude": "7.53460000"
-   },
-   {
-      "name": "Verres",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.66656000",
-      "longitude": "7.68911000"
-   },
-   {
-      "name": "Villa-Nabian",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.68970000",
-      "longitude": "7.70470000"
-   },
-   {
-      "name": "Villair-Amerique",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.74793000",
-      "longitude": "7.38982000"
-   },
-   {
-      "name": "Ville Sur Sarre",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.73339000",
-      "longitude": "7.25857000"
-   },
-   {
-      "name": "Villefranche",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.74064000",
-      "longitude": "7.41598000"
-   },
-   {
-      "name": "Villeneuve",
-      "countryCode": "IT",
-      "stateCode": "23",
-      "latitude": "45.70201000",
-      "longitude": "7.20682000"
-   },
-   {
       "name": "Allein",
       "countryCode": "IT",
       "stateCode": "23",
@@ -635,5 +383,257 @@
       "stateCode": "23",
       "latitude": "45.85116000",
       "longitude": "7.38300000"
+   },
+   {
+      "name": "Paquier",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.87879000",
+      "longitude": "7.62575000"
+   },
+   {
+      "name": "Perloz",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.61386000",
+      "longitude": "7.80811000"
+   },
+   {
+      "name": "Petit Fenis",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.75115000",
+      "longitude": "7.46391000"
+   },
+   {
+      "name": "Plan d'Introd",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.69203000",
+      "longitude": "7.18328000"
+   },
+   {
+      "name": "Pollein",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.72780000",
+      "longitude": "7.35146000"
+   },
+   {
+      "name": "Pont-Bozet",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.60726000",
+      "longitude": "7.68641000"
+   },
+   {
+      "name": "Pont-Saint-Martin",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.59536000",
+      "longitude": "7.79451000"
+   },
+   {
+      "name": "Pontey",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.73886000",
+      "longitude": "7.58831000"
+   },
+   {
+      "name": "Prè Saint Didier",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.76416000",
+      "longitude": "6.98579000"
+   },
+   {
+      "name": "Quart",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.74096000",
+      "longitude": "7.41520000"
+   },
+   {
+      "name": "Quincod",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.71513000",
+      "longitude": "7.73495000"
+   },
+   {
+      "name": "Rhemes-Notre-Dame",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.56965000",
+      "longitude": "7.11870000"
+   },
+   {
+      "name": "Rhemes-Saint-Georges",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.65226000",
+      "longitude": "7.15440000"
+   },
+   {
+      "name": "Saint Marcel",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.73146000",
+      "longitude": "7.44820000"
+   },
+   {
+      "name": "Saint Maurice",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.71771000",
+      "longitude": "7.25547000"
+   },
+   {
+      "name": "Saint-Christophe",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.75406000",
+      "longitude": "7.34720000"
+   },
+   {
+      "name": "Saint-Denis",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.75256000",
+      "longitude": "7.55531000"
+   },
+   {
+      "name": "Saint-Nicolas",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.71656000",
+      "longitude": "7.16670000"
+   },
+   {
+      "name": "Saint-Oyen",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.82439000",
+      "longitude": "7.21372000"
+   },
+   {
+      "name": "Saint-Pierre",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.71153000",
+      "longitude": "7.22683000"
+   },
+   {
+      "name": "Saint-Rhémy",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.83553000",
+      "longitude": "7.18393000"
+   },
+   {
+      "name": "Saint-Vincent",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.75082000",
+      "longitude": "7.64815000"
+   },
+   {
+      "name": "San Leonardo",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.82366000",
+      "longitude": "7.18140000"
+   },
+   {
+      "name": "Torgnon",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.80616000",
+      "longitude": "7.56980000"
+   },
+   {
+      "name": "Valgrisenche",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.63036000",
+      "longitude": "7.06400000"
+   },
+   {
+      "name": "Valle d'Aosta",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.76667000",
+      "longitude": "7.41667000"
+   },
+   {
+      "name": "Valpelline",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.82486000",
+      "longitude": "7.32550000"
+   },
+   {
+      "name": "Valsavarenche",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.59186000",
+      "longitude": "7.21000000"
+   },
+   {
+      "name": "Valtournenche",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.87607000",
+      "longitude": "7.62430000"
+   },
+   {
+      "name": "Verrayes",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.76326000",
+      "longitude": "7.53460000"
+   },
+   {
+      "name": "Verres",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.66656000",
+      "longitude": "7.68911000"
+   },
+   {
+      "name": "Villa-Nabian",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.68970000",
+      "longitude": "7.70470000"
+   },
+   {
+      "name": "Villair-Amerique",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.74793000",
+      "longitude": "7.38982000"
+   },
+   {
+      "name": "Ville Sur Sarre",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.73339000",
+      "longitude": "7.25857000"
+   },
+   {
+      "name": "Villefranche",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.74064000",
+      "longitude": "7.41598000"
+   },
+   {
+      "name": "Villeneuve",
+      "countryCode": "IT",
+      "stateCode": "23",
+      "latitude": "45.70201000",
+      "longitude": "7.20682000"
    }
 ]

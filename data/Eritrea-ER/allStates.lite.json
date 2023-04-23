@@ -1,17 +1,12 @@
 [
    {
-      "name": "Northern Red Sea Region",
-      "isoCode": "SK",
-      "countryCode": "ER"
-   },
-   {
       "name": "Anseba Region",
       "isoCode": "AN",
       "countryCode": "ER"
    },
    {
-      "name": "Maekel Region",
-      "isoCode": "MA",
+      "name": "Southern Red Sea Region",
+      "isoCode": "DK",
       "countryCode": "ER"
    },
    {
@@ -25,8 +20,13 @@
       "countryCode": "ER"
    },
    {
-      "name": "Southern Red Sea Region",
-      "isoCode": "DK",
+      "name": "Maekel Region",
+      "isoCode": "MA",
+      "countryCode": "ER"
+   },
+   {
+      "name": "Northern Red Sea Region",
+      "isoCode": "SK",
       "countryCode": "ER"
    }
 ]

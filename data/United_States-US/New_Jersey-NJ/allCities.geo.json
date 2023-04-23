@@ -1337,6 +1337,13 @@
       "longitude": "-74.15375000"
    },
    {
+      "name": "Hazlet Township",
+      "countryCode": "US",
+      "stateCode": "NJ",
+      "latitude": "40.42685010",
+      "longitude": "-74.20682440"
+   },
+   {
       "name": "Heathcote",
       "countryCode": "US",
       "stateCode": "NJ",
@@ -1853,6 +1860,13 @@
       "stateCode": "NJ",
       "latitude": "40.12623000",
       "longitude": "-74.04930000"
+   },
+   {
+      "name": "Mantua Township",
+      "countryCode": "US",
+      "stateCode": "NJ",
+      "latitude": "39.75687570",
+      "longitude": "-75.20697550"
    },
    {
       "name": "Manville",
@@ -3841,19 +3855,5 @@
       "stateCode": "NJ",
       "latitude": "40.30789000",
       "longitude": "-74.33765000"
-   },
-   {
-      "name": "Mantua Township",
-      "countryCode": "US",
-      "stateCode": "NJ",
-      "latitude": "39.75687570",
-      "longitude": "-75.20697550"
-   },
-   {
-      "name": "Hazlet Township",
-      "countryCode": "US",
-      "stateCode": "NJ",
-      "latitude": "40.42685010",
-      "longitude": "-74.20682440"
    }
 ]

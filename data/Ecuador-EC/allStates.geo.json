@@ -1,73 +1,17 @@
 [
    {
-      "name": "Galápagos",
-      "isoCode": "W",
+      "name": "Azuay",
+      "isoCode": "A",
       "countryCode": "EC",
-      "latitude": "-0.95376910",
-      "longitude": "-90.96560190"
+      "latitude": "-2.89430680",
+      "longitude": "-78.99683440"
    },
    {
-      "name": "Sucumbíos",
-      "isoCode": "U",
+      "name": "Bolívar",
+      "isoCode": "B",
       "countryCode": "EC",
-      "latitude": "0.08892310",
-      "longitude": "-76.88975570"
-   },
-   {
-      "name": "Pastaza",
-      "isoCode": "Y",
-      "countryCode": "EC",
-      "latitude": "-1.48822650",
-      "longitude": "-78.00310570"
-   },
-   {
-      "name": "Tungurahua",
-      "isoCode": "T",
-      "countryCode": "EC",
-      "latitude": "-1.26352840",
-      "longitude": "-78.56608520"
-   },
-   {
-      "name": "Zamora Chinchipe",
-      "isoCode": "Z",
-      "countryCode": "EC",
-      "latitude": "-4.06558920",
-      "longitude": "-78.95035250"
-   },
-   {
-      "name": "Los Ríos",
-      "isoCode": "R",
-      "countryCode": "EC",
-      "latitude": "-1.02306070",
-      "longitude": "-79.46088970"
-   },
-   {
-      "name": "Imbabura",
-      "isoCode": "I",
-      "countryCode": "EC",
-      "latitude": "0.34997680",
-      "longitude": "-78.12601290"
-   },
-   {
-      "name": "Santa Elena",
-      "isoCode": "SE",
-      "countryCode": "EC",
-      "latitude": "-2.22671050",
-      "longitude": "-80.85949900"
-   },
-   {
-      "name": "Manabí",
-      "isoCode": "M",
-      "countryCode": "EC",
-      "latitude": "-1.05434340",
-      "longitude": "-80.45264400"
-   },
-   {
-      "name": "Guayas",
-      "isoCode": "G",
-      "countryCode": "EC",
-      "latitude": "-1.95748390",
-      "longitude": "-79.91927020"
+      "latitude": "-1.70958280",
+      "longitude": "-79.04504290"
    },
    {
       "name": "Carchi",
@@ -77,11 +21,18 @@
       "longitude": "-77.90425210"
    },
    {
-      "name": "Napo",
-      "isoCode": "N",
+      "name": "Orellana",
+      "isoCode": "D",
       "countryCode": "EC",
-      "latitude": "-0.99559640",
-      "longitude": "-77.81296840"
+      "latitude": "-0.45451630",
+      "longitude": "-76.99502860"
+   },
+   {
+      "name": "Esmeraldas",
+      "isoCode": "E",
+      "countryCode": "EC",
+      "latitude": "0.96817890",
+      "longitude": "-79.65172020"
    },
    {
       "name": "Cañar",
@@ -89,6 +40,69 @@
       "countryCode": "EC",
       "latitude": "-2.55893150",
       "longitude": "-78.93881910"
+   },
+   {
+      "name": "Guayas",
+      "isoCode": "G",
+      "countryCode": "EC",
+      "latitude": "-1.95748390",
+      "longitude": "-79.91927020"
+   },
+   {
+      "name": "Chimborazo",
+      "isoCode": "H",
+      "countryCode": "EC",
+      "latitude": "-1.66479950",
+      "longitude": "-78.65432550"
+   },
+   {
+      "name": "Imbabura",
+      "isoCode": "I",
+      "countryCode": "EC",
+      "latitude": "0.34997680",
+      "longitude": "-78.12601290"
+   },
+   {
+      "name": "Loja",
+      "isoCode": "L",
+      "countryCode": "EC",
+      "latitude": "-3.99313000",
+      "longitude": "-79.20422000"
+   },
+   {
+      "name": "Manabí",
+      "isoCode": "M",
+      "countryCode": "EC",
+      "latitude": "-1.05434340",
+      "longitude": "-80.45264400"
+   },
+   {
+      "name": "Napo",
+      "isoCode": "N",
+      "countryCode": "EC",
+      "latitude": "-0.99559640",
+      "longitude": "-77.81296840"
+   },
+   {
+      "name": "El Oro",
+      "isoCode": "O",
+      "countryCode": "EC",
+      "latitude": "-3.25924130",
+      "longitude": "-79.95835410"
+   },
+   {
+      "name": "Pichincha",
+      "isoCode": "P",
+      "countryCode": "EC",
+      "latitude": "-0.14648470",
+      "longitude": "-78.47519450"
+   },
+   {
+      "name": "Los Ríos",
+      "isoCode": "R",
+      "countryCode": "EC",
+      "latitude": "-1.02306070",
+      "longitude": "-79.46088970"
    },
    {
       "name": "Morona-Santiago",
@@ -105,11 +119,32 @@
       "longitude": "-79.18793830"
    },
    {
-      "name": "Bolívar",
-      "isoCode": "B",
+      "name": "Santa Elena",
+      "isoCode": "SE",
       "countryCode": "EC",
-      "latitude": "-1.70958280",
-      "longitude": "-79.04504290"
+      "latitude": "-2.22671050",
+      "longitude": "-80.85949900"
+   },
+   {
+      "name": "Tungurahua",
+      "isoCode": "T",
+      "countryCode": "EC",
+      "latitude": "-1.26352840",
+      "longitude": "-78.56608520"
+   },
+   {
+      "name": "Sucumbíos",
+      "isoCode": "U",
+      "countryCode": "EC",
+      "latitude": "0.08892310",
+      "longitude": "-76.88975570"
+   },
+   {
+      "name": "Galápagos",
+      "isoCode": "W",
+      "countryCode": "EC",
+      "latitude": "-0.95376910",
+      "longitude": "-90.96560190"
    },
    {
       "name": "Cotopaxi",
@@ -119,52 +154,17 @@
       "longitude": "-78.66626780"
    },
    {
-      "name": "Esmeraldas",
-      "isoCode": "E",
+      "name": "Pastaza",
+      "isoCode": "Y",
       "countryCode": "EC",
-      "latitude": "0.96817890",
-      "longitude": "-79.65172020"
+      "latitude": "-1.48822650",
+      "longitude": "-78.00310570"
    },
    {
-      "name": "Azuay",
-      "isoCode": "A",
+      "name": "Zamora Chinchipe",
+      "isoCode": "Z",
       "countryCode": "EC",
-      "latitude": "-2.89430680",
-      "longitude": "-78.99683440"
-   },
-   {
-      "name": "El Oro",
-      "isoCode": "O",
-      "countryCode": "EC",
-      "latitude": "-3.25924130",
-      "longitude": "-79.95835410"
-   },
-   {
-      "name": "Chimborazo",
-      "isoCode": "H",
-      "countryCode": "EC",
-      "latitude": "-1.66479950",
-      "longitude": "-78.65432550"
-   },
-   {
-      "name": "Orellana",
-      "isoCode": "D",
-      "countryCode": "EC",
-      "latitude": "-0.45451630",
-      "longitude": "-76.99502860"
-   },
-   {
-      "name": "Pichincha",
-      "isoCode": "P",
-      "countryCode": "EC",
-      "latitude": "-0.14648470",
-      "longitude": "-78.47519450"
-   },
-   {
-      "name": "Loja",
-      "isoCode": "L",
-      "countryCode": "EC",
-      "latitude": "-3.99313000",
-      "longitude": "-79.20422000"
+      "latitude": "-4.06558920",
+      "longitude": "-78.95035250"
    }
 ]

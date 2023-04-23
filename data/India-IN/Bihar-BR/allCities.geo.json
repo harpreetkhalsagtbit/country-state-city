@@ -112,6 +112,13 @@
       "longitude": "84.58648000"
    },
    {
+      "name": "Barh",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.48339000",
+      "longitude": "85.70928000"
+   },
+   {
       "name": "Barhiya",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -124,6 +131,13 @@
       "stateCode": "BR",
       "latitude": "25.28791000",
       "longitude": "86.57643000"
+   },
+   {
+      "name": "Baruni",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.47509000",
+      "longitude": "85.96813000"
    },
    {
       "name": "Begusarai",
@@ -154,6 +168,13 @@
       "longitude": "83.60749000"
    },
    {
+      "name": "Bhagalpur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.29023000",
+      "longitude": "87.06665000"
+   },
+   {
       "name": "Bhagirathpur",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -173,13 +194,6 @@
       "stateCode": "BR",
       "latitude": "25.30886000",
       "longitude": "84.44504000"
-   },
-   {
-      "name": "Bhagalpur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.29023000",
-      "longitude": "87.06665000"
    },
    {
       "name": "Bihar Sharif",
@@ -203,6 +217,13 @@
       "longitude": "84.25508000"
    },
    {
+      "name": "Birpur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "26.50823000",
+      "longitude": "87.01194000"
+   },
+   {
       "name": "Buddh Gaya",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -217,34 +238,6 @@
       "longitude": "84.10000000"
    },
    {
-      "name": "Barh",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.48339000",
-      "longitude": "85.70928000"
-   },
-   {
-      "name": "Baruni",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.47509000",
-      "longitude": "85.96813000"
-   },
-   {
-      "name": "Birpur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "26.50823000",
-      "longitude": "87.01194000"
-   },
-   {
-      "name": "Chhatapur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "26.21965000",
-      "longitude": "87.00479000"
-   },
-   {
       "name": "Chakia",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -257,6 +250,13 @@
       "stateCode": "BR",
       "latitude": "25.78031000",
       "longitude": "84.74709000"
+   },
+   {
+      "name": "Chhatapur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "26.21965000",
+      "longitude": "87.00479000"
    },
    {
       "name": "Colgong",
@@ -364,6 +364,13 @@
       "longitude": "84.33333000"
    },
    {
+      "name": "Hajipur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.68544000",
+      "longitude": "85.20981000"
+   },
+   {
       "name": "Hilsa",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -376,13 +383,6 @@
       "stateCode": "BR",
       "latitude": "24.83360000",
       "longitude": "85.41729000"
-   },
-   {
-      "name": "Hajipur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.68544000",
-      "longitude": "85.20981000"
    },
    {
       "name": "Islampur",
@@ -406,18 +406,18 @@
       "longitude": "84.98710000"
    },
    {
-      "name": "Jamui",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "24.92082000",
-      "longitude": "86.17538000"
-   },
-   {
       "name": "Jamalpur",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "25.31258000",
       "longitude": "86.48888000"
+   },
+   {
+      "name": "Jamui",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "24.92082000",
+      "longitude": "86.17538000"
    },
    {
       "name": "Jaynagar",
@@ -434,18 +434,18 @@
       "longitude": "84.99573000"
    },
    {
-      "name": "Jhanjharpur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "26.26467000",
-      "longitude": "86.27993000"
-   },
-   {
       "name": "Jha-Jha",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "24.77107000",
       "longitude": "86.37888000"
+   },
+   {
+      "name": "Jhanjharpur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "26.26467000",
+      "longitude": "86.27993000"
    },
    {
       "name": "Jogbani",
@@ -511,18 +511,18 @@
       "longitude": "88.00000000"
    },
    {
-      "name": "Koelwar",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.58055000",
-      "longitude": "84.79751000"
-   },
-   {
       "name": "Koath",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "25.32643000",
       "longitude": "84.25983000"
+   },
+   {
+      "name": "Koelwar",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.58055000",
+      "longitude": "84.79751000"
    },
    {
       "name": "Lakhisarai",
@@ -532,18 +532,18 @@
       "longitude": "86.20000000"
    },
    {
-      "name": "Luckeesarai",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.17650000",
-      "longitude": "86.09470000"
-   },
-   {
       "name": "Lalganj",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "25.86894000",
       "longitude": "85.17394000"
+   },
+   {
+      "name": "Luckeesarai",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.17650000",
+      "longitude": "86.09470000"
    },
    {
       "name": "Madhepura",
@@ -665,6 +665,20 @@
       "longitude": "84.12624000"
    },
    {
+      "name": "Nalanda",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.25000000",
+      "longitude": "85.58333000"
+   },
+   {
+      "name": "Nasriganj",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.05140000",
+      "longitude": "84.32839000"
+   },
+   {
       "name": "Naugachhia",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -684,20 +698,6 @@
       "stateCode": "BR",
       "latitude": "26.31397000",
       "longitude": "86.58537000"
-   },
-   {
-      "name": "Nalanda",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.25000000",
-      "longitude": "85.58333000"
-   },
-   {
-      "name": "Nasriganj",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.05140000",
-      "longitude": "84.32839000"
    },
    {
       "name": "Pashchim Champaran",
@@ -728,18 +728,18 @@
       "longitude": "85.70311000"
    },
    {
-      "name": "Purnia",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.81614000",
-      "longitude": "87.40708000"
-   },
-   {
       "name": "Purba Champaran",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "26.58333000",
       "longitude": "84.83333000"
+   },
+   {
+      "name": "Purnia",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.81614000",
+      "longitude": "87.40708000"
    },
    {
       "name": "Rafiganj",
@@ -754,6 +754,20 @@
       "stateCode": "BR",
       "latitude": "25.64492000",
       "longitude": "87.91762000"
+   },
+   {
+      "name": "Rajgir",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.02828000",
+      "longitude": "85.42079000"
+   },
+   {
+      "name": "Ramnagar",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "27.16371000",
+      "longitude": "84.32342000"
    },
    {
       "name": "Raxaul",
@@ -784,20 +798,6 @@
       "longitude": "86.02597000"
    },
    {
-      "name": "Rajgir",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.02828000",
-      "longitude": "85.42079000"
-   },
-   {
-      "name": "Ramnagar",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "27.16371000",
-      "longitude": "84.32342000"
-   },
-   {
       "name": "Sagauli",
       "countryCode": "IN",
       "stateCode": "BR",
@@ -819,11 +819,25 @@
       "longitude": "85.91667000"
    },
    {
+      "name": "Saran",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.91667000",
+      "longitude": "84.75000000"
+   },
+   {
       "name": "Shahbazpur",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "26.30511000",
       "longitude": "87.28865000"
+   },
+   {
+      "name": "Shahpur",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "25.60293000",
+      "longitude": "84.40412000"
    },
    {
       "name": "Sheikhpura",
@@ -847,18 +861,18 @@
       "longitude": "84.79162000"
    },
    {
-      "name": "Shahpur",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.60293000",
-      "longitude": "84.40412000"
-   },
-   {
       "name": "Silao",
       "countryCode": "IN",
       "stateCode": "BR",
       "latitude": "25.08358000",
       "longitude": "85.42804000"
+   },
+   {
+      "name": "Sitamarhi",
+      "countryCode": "IN",
+      "stateCode": "BR",
+      "latitude": "26.66667000",
+      "longitude": "85.50000000"
    },
    {
       "name": "Siwan",
@@ -873,20 +887,6 @@
       "stateCode": "BR",
       "latitude": "26.25000000",
       "longitude": "86.80000000"
-   },
-   {
-      "name": "Saran",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "25.91667000",
-      "longitude": "84.75000000"
-   },
-   {
-      "name": "Sitamarhi",
-      "countryCode": "IN",
-      "stateCode": "BR",
-      "latitude": "26.66667000",
-      "longitude": "85.50000000"
    },
    {
       "name": "Teghra",

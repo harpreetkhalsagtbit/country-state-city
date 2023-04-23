@@ -1,22 +1,7 @@
 [
    {
-      "name": "Northern Province",
-      "isoCode": "05",
-      "countryCode": "ZM"
-   },
-   {
       "name": "Western Province",
       "isoCode": "01",
-      "countryCode": "ZM"
-   },
-   {
-      "name": "Copperbelt Province",
-      "isoCode": "08",
-      "countryCode": "ZM"
-   },
-   {
-      "name": "Northwestern Province",
-      "isoCode": "06",
       "countryCode": "ZM"
    },
    {
@@ -25,8 +10,33 @@
       "countryCode": "ZM"
    },
    {
+      "name": "Eastern Province",
+      "isoCode": "03",
+      "countryCode": "ZM"
+   },
+   {
       "name": "Luapula Province",
       "isoCode": "04",
+      "countryCode": "ZM"
+   },
+   {
+      "name": "Northern Province",
+      "isoCode": "05",
+      "countryCode": "ZM"
+   },
+   {
+      "name": "Northwestern Province",
+      "isoCode": "06",
+      "countryCode": "ZM"
+   },
+   {
+      "name": "Southern Province",
+      "isoCode": "07",
+      "countryCode": "ZM"
+   },
+   {
+      "name": "Copperbelt Province",
+      "isoCode": "08",
       "countryCode": "ZM"
    },
    {
@@ -37,16 +47,6 @@
    {
       "name": "Muchinga Province",
       "isoCode": "10",
-      "countryCode": "ZM"
-   },
-   {
-      "name": "Southern Province",
-      "isoCode": "07",
-      "countryCode": "ZM"
-   },
-   {
-      "name": "Eastern Province",
-      "isoCode": "03",
       "countryCode": "ZM"
    }
 ]

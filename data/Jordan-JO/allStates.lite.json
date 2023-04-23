@@ -1,47 +1,7 @@
 [
    {
-      "name": "Karak Governorate",
-      "isoCode": "KA",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Tafilah Governorate",
-      "isoCode": "AT",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Madaba Governorate",
-      "isoCode": "MD",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Aqaba Governorate",
-      "isoCode": "AQ",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Irbid Governorate",
-      "isoCode": "IR",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Balqa Governorate",
-      "isoCode": "BA",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Mafraq Governorate",
-      "isoCode": "MA",
-      "countryCode": "JO"
-   },
-   {
       "name": "Ajloun Governorate",
       "isoCode": "AJ",
-      "countryCode": "JO"
-   },
-   {
-      "name": "Ma'an Governorate",
-      "isoCode": "MN",
       "countryCode": "JO"
    },
    {
@@ -50,13 +10,53 @@
       "countryCode": "JO"
    },
    {
-      "name": "Jerash Governorate",
-      "isoCode": "JA",
+      "name": "Aqaba Governorate",
+      "isoCode": "AQ",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Tafilah Governorate",
+      "isoCode": "AT",
       "countryCode": "JO"
    },
    {
       "name": "Zarqa Governorate",
       "isoCode": "AZ",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Balqa Governorate",
+      "isoCode": "BA",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Irbid Governorate",
+      "isoCode": "IR",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Jerash Governorate",
+      "isoCode": "JA",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Karak Governorate",
+      "isoCode": "KA",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Mafraq Governorate",
+      "isoCode": "MA",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Madaba Governorate",
+      "isoCode": "MD",
+      "countryCode": "JO"
+   },
+   {
+      "name": "Ma'an Governorate",
+      "isoCode": "MN",
       "countryCode": "JO"
    }
 ]

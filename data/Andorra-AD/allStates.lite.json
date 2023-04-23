@@ -1,22 +1,17 @@
 [
    {
-      "name": "Encamp",
-      "isoCode": "03",
-      "countryCode": "AD"
-   },
-   {
-      "name": "Andorra la Vella",
-      "isoCode": "07",
-      "countryCode": "AD"
-   },
-   {
       "name": "Canillo",
       "isoCode": "02",
       "countryCode": "AD"
    },
    {
-      "name": "Sant Julià de Lòria",
-      "isoCode": "06",
+      "name": "Encamp",
+      "isoCode": "03",
+      "countryCode": "AD"
+   },
+   {
+      "name": "La Massana",
+      "isoCode": "04",
       "countryCode": "AD"
    },
    {
@@ -25,13 +20,18 @@
       "countryCode": "AD"
    },
    {
-      "name": "Escaldes-Engordany",
-      "isoCode": "08",
+      "name": "Sant Julià de Lòria",
+      "isoCode": "06",
       "countryCode": "AD"
    },
    {
-      "name": "La Massana",
-      "isoCode": "04",
+      "name": "Andorra la Vella",
+      "isoCode": "07",
+      "countryCode": "AD"
+   },
+   {
+      "name": "Escaldes-Engordany",
+      "isoCode": "08",
       "countryCode": "AD"
    }
 ]

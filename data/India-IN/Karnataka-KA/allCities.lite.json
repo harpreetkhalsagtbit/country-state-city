@@ -60,7 +60,17 @@
       "stateCode": "KA"
    },
    {
+      "name": "Badami",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Bagalkot",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Bagepalli",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -71,6 +81,16 @@
    },
    {
       "name": "Ballari",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Ballary",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Banavar",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -115,11 +135,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Ballary",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Belluru",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -145,17 +160,17 @@
       "stateCode": "KA"
    },
    {
-      "name": "Bhatkal",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Bhalki",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Vijayapura",
+      "name": "Bhatkal",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Bidar",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -170,32 +185,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Byndoor",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Byadgi",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Badami",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Bagepalli",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Banavar",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Bidar",
+      "name": "Byndoor",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -265,12 +260,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Chitradurga",
+      "name": "Chitapur",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Chitapur",
+      "name": "Chitradurga",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -335,12 +330,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Gangolli",
+      "name": "Gangawati",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Gangawati",
+      "name": "Gangolli",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -375,11 +370,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Kalaburgi",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Guledagudda",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -406,6 +396,11 @@
    },
    {
       "name": "Hampi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Hangal",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -460,12 +455,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Honnali",
+      "name": "Honavar",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Honavar",
+      "name": "Honnali",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -515,11 +510,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Hangal",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Ilkal",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -550,12 +540,27 @@
       "stateCode": "KA"
    },
    {
+      "name": "Kalaburgi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Kalghatgi",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
       "name": "Kampli",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Kankanhalli",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Karkala",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -645,6 +650,11 @@
       "stateCode": "KA"
    },
    {
+      "name": "Kudligi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Kumsi",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -670,27 +680,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Kushtagi",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Kushalnagar",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Kankanhalli",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Karkala",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Kudligi",
+      "name": "Kushtagi",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -725,6 +720,11 @@
       "stateCode": "KA"
    },
    {
+      "name": "Magadi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Mahalingpur",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -736,6 +736,11 @@
    },
    {
       "name": "Malpe",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Malur",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -755,7 +760,22 @@
       "stateCode": "KA"
    },
    {
+      "name": "Manvi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Mayakonda",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Melukote",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Mudbidri",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -790,6 +810,11 @@
       "stateCode": "KA"
    },
    {
+      "name": "Mulki",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Mundargi",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -815,32 +840,7 @@
       "stateCode": "KA"
    },
    {
-      "name": "Magadi",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Malur",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Manvi",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Mayakonda",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Mudbidri",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Mulki",
+      "name": "Nagamangala",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -880,7 +880,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Nagamangala",
+      "name": "Pangala",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Pavugada",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -900,16 +905,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Pangala",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Pavugada",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Rabkavi",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -925,16 +920,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Robertsonpet",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Ron",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Ranibennur",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -945,7 +930,22 @@
       "stateCode": "KA"
    },
    {
+      "name": "Robertsonpet",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Ron",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Sadalgi",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Sagar",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -990,6 +990,16 @@
       "stateCode": "KA"
    },
    {
+      "name": "Shahabad",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Shahpur",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Shiggaon",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -1020,16 +1030,6 @@
       "stateCode": "KA"
    },
    {
-      "name": "Shahpur",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Shahabad",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
       "name": "Siddapur",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -1046,6 +1046,11 @@
    },
    {
       "name": "Sindhnur",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Sira",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -1075,12 +1080,12 @@
       "stateCode": "KA"
    },
    {
-      "name": "Sringeri",
+      "name": "Sravana Belgola",
       "countryCode": "IN",
       "stateCode": "KA"
    },
    {
-      "name": "Sravana Belgola",
+      "name": "Sringeri",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -1100,12 +1105,7 @@
       "stateCode": "KA"
    },
    {
-      "name": "Sagar",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Sira",
+      "name": "Talikota",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -1130,6 +1130,11 @@
       "stateCode": "KA"
    },
    {
+      "name": "Tirthahalli",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
       "name": "Tirumakudal Narsipur",
       "countryCode": "IN",
       "stateCode": "KA"
@@ -1141,16 +1146,6 @@
    },
    {
       "name": "Turuvekere",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Talikota",
-      "countryCode": "IN",
-      "stateCode": "KA"
-   },
-   {
-      "name": "Tirthahalli",
       "countryCode": "IN",
       "stateCode": "KA"
    },
@@ -1171,6 +1166,11 @@
    },
    {
       "name": "Vadigenhalli",
+      "countryCode": "IN",
+      "stateCode": "KA"
+   },
+   {
+      "name": "Vijayapura",
       "countryCode": "IN",
       "stateCode": "KA"
    },

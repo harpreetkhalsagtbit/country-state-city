@@ -1,42 +1,7 @@
 [
    {
-      "name": "Canton of Diekirch",
-      "isoCode": "DI",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Luxembourg District",
-      "isoCode": "L",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Canton of Echternach",
-      "isoCode": "EC",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Canton of Redange",
-      "isoCode": "RD",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Canton of Esch-sur-Alzette",
-      "isoCode": "ES",
-      "countryCode": "LU"
-   },
-   {
       "name": "Canton of Capellen",
       "isoCode": "CA",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Canton of Remich",
-      "isoCode": "RM",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Grevenmacher District",
-      "isoCode": "G",
       "countryCode": "LU"
    },
    {
@@ -45,18 +10,28 @@
       "countryCode": "LU"
    },
    {
-      "name": "Canton of Mersch",
-      "isoCode": "ME",
-      "countryCode": "LU"
-   },
-   {
-      "name": "Canton of Vianden",
-      "isoCode": "VD",
-      "countryCode": "LU"
-   },
-   {
       "name": "Diekirch District",
       "isoCode": "D",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Diekirch",
+      "isoCode": "DI",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Echternach",
+      "isoCode": "EC",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Esch-sur-Alzette",
+      "isoCode": "ES",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Grevenmacher District",
+      "isoCode": "G",
       "countryCode": "LU"
    },
    {
@@ -65,13 +40,38 @@
       "countryCode": "LU"
    },
    {
-      "name": "Canton of Wiltz",
-      "isoCode": "WI",
+      "name": "Luxembourg District",
+      "isoCode": "L",
       "countryCode": "LU"
    },
    {
       "name": "Canton of Luxembourg",
       "isoCode": "LU",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Mersch",
+      "isoCode": "ME",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Redange",
+      "isoCode": "RD",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Remich",
+      "isoCode": "RM",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Vianden",
+      "isoCode": "VD",
+      "countryCode": "LU"
+   },
+   {
+      "name": "Canton of Wiltz",
+      "isoCode": "WI",
       "countryCode": "LU"
    }
 ]

@@ -1,7 +1,12 @@
 [
    {
-      "name": "Mogilev Region",
-      "isoCode": "MA",
+      "name": "Brest Region",
+      "isoCode": "BR",
+      "countryCode": "BY"
+   },
+   {
+      "name": "Minsk",
+      "isoCode": "HM",
       "countryCode": "BY"
    },
    {
@@ -15,18 +20,13 @@
       "countryCode": "BY"
    },
    {
+      "name": "Mogilev Region",
+      "isoCode": "MA",
+      "countryCode": "BY"
+   },
+   {
       "name": "Minsk Region",
       "isoCode": "MI",
-      "countryCode": "BY"
-   },
-   {
-      "name": "Minsk",
-      "isoCode": "HM",
-      "countryCode": "BY"
-   },
-   {
-      "name": "Brest Region",
-      "isoCode": "BR",
       "countryCode": "BY"
    },
    {

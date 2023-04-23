@@ -35,69 +35,6 @@
       "longitude": "-73.77500000"
    },
    {
-      "name": "Dalcahue",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-42.37845000",
-      "longitude": "-73.65011000"
-   },
-   {
-      "name": "Futaleufú",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-43.18492000",
-      "longitude": "-71.86722000"
-   },
-   {
-      "name": "Osorno",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-40.57395000",
-      "longitude": "-73.13348000"
-   },
-   {
-      "name": "Palena",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-43.61876000",
-      "longitude": "-71.80434000"
-   },
-   {
-      "name": "Llanquihue",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-41.34285000",
-      "longitude": "-72.65800000"
-   },
-   {
-      "name": "Puerto Montt",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-41.46930000",
-      "longitude": "-72.94237000"
-   },
-   {
-      "name": "Puerto Varas",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-41.31946000",
-      "longitude": "-72.98538000"
-   },
-   {
-      "name": "Purranque",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-40.91305000",
-      "longitude": "-73.15913000"
-   },
-   {
-      "name": "Quellón",
-      "countryCode": "CL",
-      "stateCode": "LL",
-      "latitude": "-43.11819000",
-      "longitude": "-73.61661000"
-   },
-   {
       "name": "Cochamó",
       "countryCode": "CL",
       "stateCode": "LL",
@@ -112,11 +49,11 @@
       "longitude": "-73.60290000"
    },
    {
-      "name": "Puyehue",
+      "name": "Dalcahue",
       "countryCode": "CL",
       "stateCode": "LL",
-      "latitude": "-40.70968010",
-      "longitude": "-72.64190560"
+      "latitude": "-42.37845000",
+      "longitude": "-73.65011000"
    },
    {
       "name": "Fresia",
@@ -133,11 +70,25 @@
       "longitude": "-73.09563000"
    },
    {
+      "name": "Futaleufú",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-43.18492000",
+      "longitude": "-71.86722000"
+   },
+   {
       "name": "Hualaihué",
       "countryCode": "CL",
       "stateCode": "LL",
       "latitude": "-42.01666667",
       "longitude": "-72.68333333"
+   },
+   {
+      "name": "Llanquihue",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-41.34285000",
+      "longitude": "-72.65800000"
    },
    {
       "name": "Los Muermos",
@@ -154,11 +105,39 @@
       "longitude": "-73.60000000"
    },
    {
+      "name": "Osorno",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-40.57395000",
+      "longitude": "-73.13348000"
+   },
+   {
+      "name": "Palena",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-43.61876000",
+      "longitude": "-71.80434000"
+   },
+   {
+      "name": "Puerto Montt",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-41.46930000",
+      "longitude": "-72.94237000"
+   },
+   {
       "name": "Puerto Octay",
       "countryCode": "CL",
       "stateCode": "LL",
       "latitude": "-40.96666667",
       "longitude": "-72.90000000"
+   },
+   {
+      "name": "Puerto Varas",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-41.31946000",
+      "longitude": "-72.98538000"
    },
    {
       "name": "Puqueldón",
@@ -168,11 +147,32 @@
       "longitude": "-73.67458000"
    },
    {
+      "name": "Purranque",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-40.91305000",
+      "longitude": "-73.15913000"
+   },
+   {
+      "name": "Puyehue",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-40.70968010",
+      "longitude": "-72.64190560"
+   },
+   {
       "name": "Queilén",
       "countryCode": "CL",
       "stateCode": "LL",
       "latitude": "-42.85572000",
       "longitude": "-73.56436000"
+   },
+   {
+      "name": "Quellón",
+      "countryCode": "CL",
+      "stateCode": "LL",
+      "latitude": "-43.11819000",
+      "longitude": "-73.61661000"
    },
    {
       "name": "Quemchi",

@@ -1687,6 +1687,55 @@
       "longitude": "27.25849000"
    },
    {
+      "name": "Tabăra",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.57395000",
+      "longitude": "27.41213000"
+   },
+   {
+      "name": "Tansa",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "46.91667000",
+      "longitude": "27.23333000"
+   },
+   {
+      "name": "Todireşti",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.31667000",
+      "longitude": "26.83333000"
+   },
+   {
+      "name": "Tomeşti",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.11667000",
+      "longitude": "27.68333000"
+   },
+   {
+      "name": "Topile",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.26340000",
+      "longitude": "26.66883000"
+   },
+   {
+      "name": "Totoești",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.25107000",
+      "longitude": "27.28879000"
+   },
+   {
+      "name": "Trifeşti",
+      "countryCode": "RO",
+      "stateCode": "IS",
+      "latitude": "47.45000000",
+      "longitude": "27.51667000"
+   },
+   {
       "name": "Târgu Frumos",
       "countryCode": "RO",
       "stateCode": "IS",
@@ -1804,54 +1853,5 @@
       "stateCode": "IS",
       "latitude": "47.13333000",
       "longitude": "27.78333000"
-   },
-   {
-      "name": "Tabăra",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.57395000",
-      "longitude": "27.41213000"
-   },
-   {
-      "name": "Tansa",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "46.91667000",
-      "longitude": "27.23333000"
-   },
-   {
-      "name": "Todireşti",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.31667000",
-      "longitude": "26.83333000"
-   },
-   {
-      "name": "Tomeşti",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.11667000",
-      "longitude": "27.68333000"
-   },
-   {
-      "name": "Topile",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.26340000",
-      "longitude": "26.66883000"
-   },
-   {
-      "name": "Totoești",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.25107000",
-      "longitude": "27.28879000"
-   },
-   {
-      "name": "Trifeşti",
-      "countryCode": "RO",
-      "stateCode": "IS",
-      "latitude": "47.45000000",
-      "longitude": "27.51667000"
    }
 ]

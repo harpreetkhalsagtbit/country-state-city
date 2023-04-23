@@ -175,6 +175,13 @@
       "longitude": "-75.69947000"
    },
    {
+      "name": "San José de Uré",
+      "countryCode": "CO",
+      "stateCode": "COR",
+      "latitude": "7.78722222",
+      "longitude": "-75.53305666"
+   },
+   {
       "name": "San Pelayo",
       "countryCode": "CO",
       "stateCode": "COR",
@@ -189,24 +196,17 @@
       "longitude": "-76.21307000"
    },
    {
-      "name": "Valencia",
-      "countryCode": "CO",
-      "stateCode": "COR",
-      "latitude": "8.23350000",
-      "longitude": "-76.21428000"
-   },
-   {
-      "name": "San José de Uré",
-      "countryCode": "CO",
-      "stateCode": "COR",
-      "latitude": "7.78722222",
-      "longitude": "-75.53305666"
-   },
-   {
       "name": "Tuchín",
       "countryCode": "CO",
       "stateCode": "COR",
       "latitude": "9.18583333",
       "longitude": "-75.55527888"
+   },
+   {
+      "name": "Valencia",
+      "countryCode": "CO",
+      "stateCode": "COR",
+      "latitude": "8.23350000",
+      "longitude": "-76.21428000"
    }
 ]

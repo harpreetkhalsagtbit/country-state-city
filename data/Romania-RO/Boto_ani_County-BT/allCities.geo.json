@@ -1211,6 +1211,55 @@
       "longitude": "26.91667000"
    },
    {
+      "name": "Sârbi",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.94268000",
+      "longitude": "26.91818000"
+   },
+   {
+      "name": "Săveni",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.95000000",
+      "longitude": "26.86667000"
+   },
+   {
+      "name": "Tocileni",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.71104000",
+      "longitude": "26.78657000"
+   },
+   {
+      "name": "Todireni",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.61667000",
+      "longitude": "27.11667000"
+   },
+   {
+      "name": "Truşeşti",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.76667000",
+      "longitude": "27.01667000"
+   },
+   {
+      "name": "Tudor Vladimirescu",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.68635000",
+      "longitude": "27.17211000"
+   },
+   {
+      "name": "Tudora",
+      "countryCode": "RO",
+      "stateCode": "BT",
+      "latitude": "47.51667000",
+      "longitude": "26.63333000"
+   },
+   {
       "name": "Ungureni",
       "countryCode": "RO",
       "stateCode": "BT",
@@ -1342,54 +1391,5 @@
       "stateCode": "BT",
       "latitude": "47.60941000",
       "longitude": "26.78359000"
-   },
-   {
-      "name": "Sârbi",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.94268000",
-      "longitude": "26.91818000"
-   },
-   {
-      "name": "Săveni",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.95000000",
-      "longitude": "26.86667000"
-   },
-   {
-      "name": "Tocileni",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.71104000",
-      "longitude": "26.78657000"
-   },
-   {
-      "name": "Todireni",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.61667000",
-      "longitude": "27.11667000"
-   },
-   {
-      "name": "Truşeşti",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.76667000",
-      "longitude": "27.01667000"
-   },
-   {
-      "name": "Tudor Vladimirescu",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.68635000",
-      "longitude": "27.17211000"
-   },
-   {
-      "name": "Tudora",
-      "countryCode": "RO",
-      "stateCode": "BT",
-      "latitude": "47.51667000",
-      "longitude": "26.63333000"
    }
 ]

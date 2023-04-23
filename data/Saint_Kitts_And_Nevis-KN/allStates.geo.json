@@ -1,38 +1,10 @@
 [
    {
-      "name": "Saint Peter Basseterre Parish",
-      "isoCode": "11",
-      "countryCode": "KN",
-      "latitude": "17.31029110",
-      "longitude": "-62.71475330"
-   },
-   {
-      "name": "Nevis",
-      "isoCode": "N",
-      "countryCode": "KN",
-      "latitude": "17.15535580",
-      "longitude": "-62.57960260"
-   },
-   {
       "name": "Christ Church Nichola Town Parish",
       "isoCode": "01",
       "countryCode": "KN",
       "latitude": "17.36048120",
       "longitude": "-62.76178370"
-   },
-   {
-      "name": "Saint Paul Capisterre Parish",
-      "isoCode": "09",
-      "countryCode": "KN",
-      "latitude": "17.40166830",
-      "longitude": "-62.82573320"
-   },
-   {
-      "name": "Saint James Windward Parish",
-      "isoCode": "05",
-      "countryCode": "KN",
-      "latitude": "17.17696330",
-      "longitude": "-62.57960260"
    },
    {
       "name": "Saint Anne Sandy Point Parish",
@@ -49,18 +21,18 @@
       "longitude": "-62.56198110"
    },
    {
-      "name": "Saint Paul Charlestown Parish",
-      "isoCode": "10",
+      "name": "Saint James Windward Parish",
+      "isoCode": "05",
       "countryCode": "KN",
-      "latitude": "17.13462970",
-      "longitude": "-62.61338160"
+      "latitude": "17.17696330",
+      "longitude": "-62.57960260"
    },
    {
-      "name": "Saint Thomas Lowland Parish",
-      "isoCode": "12",
+      "name": "Saint John Capisterre Parish",
+      "isoCode": "06",
       "countryCode": "KN",
-      "latitude": "17.16505130",
-      "longitude": "-62.60897530"
+      "latitude": "17.38103410",
+      "longitude": "-62.79118330"
    },
    {
       "name": "Saint John Figtree Parish",
@@ -70,11 +42,39 @@
       "longitude": "-62.60310040"
    },
    {
-      "name": "Saint Kitts",
-      "isoCode": "K",
+      "name": "Saint Mary Cayon Parish",
+      "isoCode": "08",
       "countryCode": "KN",
-      "latitude": "17.34337960",
-      "longitude": "-62.75590430"
+      "latitude": "17.34620710",
+      "longitude": "-62.73826710"
+   },
+   {
+      "name": "Saint Paul Capisterre Parish",
+      "isoCode": "09",
+      "countryCode": "KN",
+      "latitude": "17.40166830",
+      "longitude": "-62.82573320"
+   },
+   {
+      "name": "Saint Paul Charlestown Parish",
+      "isoCode": "10",
+      "countryCode": "KN",
+      "latitude": "17.13462970",
+      "longitude": "-62.61338160"
+   },
+   {
+      "name": "Saint Peter Basseterre Parish",
+      "isoCode": "11",
+      "countryCode": "KN",
+      "latitude": "17.31029110",
+      "longitude": "-62.71475330"
+   },
+   {
+      "name": "Saint Thomas Lowland Parish",
+      "isoCode": "12",
+      "countryCode": "KN",
+      "latitude": "17.16505130",
+      "longitude": "-62.60897530"
    },
    {
       "name": "Saint Thomas Middle Island Parish",
@@ -91,17 +91,17 @@
       "longitude": "-62.76178370"
    },
    {
-      "name": "Saint Mary Cayon Parish",
-      "isoCode": "08",
+      "name": "Saint Kitts",
+      "isoCode": "K",
       "countryCode": "KN",
-      "latitude": "17.34620710",
-      "longitude": "-62.73826710"
+      "latitude": "17.34337960",
+      "longitude": "-62.75590430"
    },
    {
-      "name": "Saint John Capisterre Parish",
-      "isoCode": "06",
+      "name": "Nevis",
+      "isoCode": "N",
       "countryCode": "KN",
-      "latitude": "17.38103410",
-      "longitude": "-62.79118330"
+      "latitude": "17.15535580",
+      "longitude": "-62.57960260"
    }
 ]

@@ -100,6 +100,21 @@
       "stateCode": "HP"
    },
    {
+      "name": "Kalka",
+      "countryCode": "IN",
+      "stateCode": "HP"
+   },
+   {
+      "name": "Kangar",
+      "countryCode": "IN",
+      "stateCode": "HP"
+   },
+   {
+      "name": "Kangra",
+      "countryCode": "IN",
+      "stateCode": "HP"
+   },
+   {
       "name": "Kasauli",
       "countryCode": "IN",
       "stateCode": "HP"
@@ -130,22 +145,12 @@
       "stateCode": "HP"
    },
    {
-      "name": "Kalka",
-      "countryCode": "IN",
-      "stateCode": "HP"
-   },
-   {
-      "name": "Kangar",
-      "countryCode": "IN",
-      "stateCode": "HP"
-   },
-   {
-      "name": "Kangra",
-      "countryCode": "IN",
-      "stateCode": "HP"
-   },
-   {
       "name": "Lahul and Spiti",
+      "countryCode": "IN",
+      "stateCode": "HP"
+   },
+   {
+      "name": "Manali",
       "countryCode": "IN",
       "stateCode": "HP"
    },
@@ -155,7 +160,7 @@
       "stateCode": "HP"
    },
    {
-      "name": "Manali",
+      "name": "Nadaun",
       "countryCode": "IN",
       "stateCode": "HP"
    },
@@ -170,22 +175,12 @@
       "stateCode": "HP"
    },
    {
-      "name": "Nadaun",
-      "countryCode": "IN",
-      "stateCode": "HP"
-   },
-   {
       "name": "Nahan",
       "countryCode": "IN",
       "stateCode": "HP"
    },
    {
       "name": "Nalagarh",
-      "countryCode": "IN",
-      "stateCode": "HP"
-   },
-   {
-      "name": "Parwanoo",
       "countryCode": "IN",
       "stateCode": "HP"
    },
@@ -205,7 +200,7 @@
       "stateCode": "HP"
    },
    {
-      "name": "Rohru",
+      "name": "Parwanoo",
       "countryCode": "IN",
       "stateCode": "HP"
    },
@@ -220,6 +215,11 @@
       "stateCode": "HP"
    },
    {
+      "name": "Rohru",
+      "countryCode": "IN",
+      "stateCode": "HP"
+   },
+   {
       "name": "Sabathu",
       "countryCode": "IN",
       "stateCode": "HP"
@@ -230,12 +230,12 @@
       "stateCode": "HP"
    },
    {
-      "name": "Sarka Ghat",
+      "name": "Sarahan",
       "countryCode": "IN",
       "stateCode": "HP"
    },
    {
-      "name": "Sarahan",
+      "name": "Sarka Ghat",
       "countryCode": "IN",
       "stateCode": "HP"
    },

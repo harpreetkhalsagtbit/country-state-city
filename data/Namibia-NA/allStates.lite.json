@@ -1,5 +1,35 @@
 [
    {
+      "name": "Zambezi Region",
+      "isoCode": "CA",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Erongo Region",
+      "isoCode": "ER",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Hardap Region",
+      "isoCode": "HA",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Karas Region",
+      "isoCode": "KA",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Kavango East Region",
+      "isoCode": "KE",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Khomas Region",
+      "isoCode": "KH",
+      "countryCode": "NA"
+   },
+   {
       "name": "Kunene Region",
       "isoCode": "KU",
       "countryCode": "NA"
@@ -10,28 +40,8 @@
       "countryCode": "NA"
    },
    {
-      "name": "Kavango East Region",
-      "isoCode": "KE",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Oshana Region",
-      "isoCode": "ON",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Hardap Region",
-      "isoCode": "HA",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Omusati Region",
-      "isoCode": "OS",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Ohangwena Region",
-      "isoCode": "OW",
+      "name": "Otjozondjupa Region",
+      "isoCode": "OD",
       "countryCode": "NA"
    },
    {
@@ -40,33 +50,23 @@
       "countryCode": "NA"
    },
    {
+      "name": "Oshana Region",
+      "isoCode": "ON",
+      "countryCode": "NA"
+   },
+   {
+      "name": "Omusati Region",
+      "isoCode": "OS",
+      "countryCode": "NA"
+   },
+   {
       "name": "Oshikoto Region",
       "isoCode": "OT",
       "countryCode": "NA"
    },
    {
-      "name": "Erongo Region",
-      "isoCode": "ER",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Khomas Region",
-      "isoCode": "KH",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Karas Region",
-      "isoCode": "KA",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Otjozondjupa Region",
-      "isoCode": "OD",
-      "countryCode": "NA"
-   },
-   {
-      "name": "Zambezi Region",
-      "isoCode": "CA",
+      "name": "Ohangwena Region",
+      "isoCode": "OW",
       "countryCode": "NA"
    }
 ]

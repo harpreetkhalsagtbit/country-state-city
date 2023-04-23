@@ -10,6 +10,11 @@
       "stateCode": "CDMX"
    },
    {
+      "name": "Ciudad de México",
+      "countryCode": "MX",
+      "stateCode": "CDMX"
+   },
+   {
       "name": "Col. Bosques de las Lomas",
       "countryCode": "MX",
       "stateCode": "CDMX"
@@ -66,11 +71,6 @@
    },
    {
       "name": "Magdalena Contreras",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Ciudad de México",
       "countryCode": "MX",
       "stateCode": "CDMX"
    },

@@ -20,6 +20,11 @@
       "stateCode": "PUT"
    },
    {
+      "name": "Puerto Caicedo",
+      "countryCode": "CO",
+      "stateCode": "PUT"
+   },
+   {
       "name": "Puerto Guzmán",
       "countryCode": "CO",
       "stateCode": "PUT"
@@ -56,11 +61,6 @@
    },
    {
       "name": "Villagarzón",
-      "countryCode": "CO",
-      "stateCode": "PUT"
-   },
-   {
-      "name": "Puerto Caicedo",
       "countryCode": "CO",
       "stateCode": "PUT"
    }

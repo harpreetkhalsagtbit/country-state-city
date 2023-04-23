@@ -1,5 +1,19 @@
 [
    {
+      "name": "Alto Biobío",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-38.05000000",
+      "longitude": "-71.31666667"
+   },
+   {
+      "name": "Antuco",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-37.33333333",
+      "longitude": "-71.68333333"
+   },
+   {
       "name": "Arauco",
       "countryCode": "CL",
       "stateCode": "BI",
@@ -35,6 +49,13 @@
       "longitude": "-73.04977000"
    },
    {
+      "name": "Contulmo",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-38.00000000",
+      "longitude": "-73.23333333"
+   },
+   {
       "name": "Coronel",
       "countryCode": "CL",
       "stateCode": "BI",
@@ -49,6 +70,27 @@
       "longitude": "-73.34495000"
    },
    {
+      "name": "Florida",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.81666667",
+      "longitude": "-72.66666667"
+   },
+   {
+      "name": "Hualpén",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.78333333",
+      "longitude": "-73.08333333"
+   },
+   {
+      "name": "Hualqui",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.97266000",
+      "longitude": "-72.93559000"
+   },
+   {
       "name": "Laja",
       "countryCode": "CL",
       "stateCode": "BI",
@@ -61,6 +103,13 @@
       "stateCode": "BI",
       "latitude": "-37.60825000",
       "longitude": "-73.65356000"
+   },
+   {
+      "name": "Los Álamos",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-37.61666667",
+      "longitude": "-73.46666667"
    },
    {
       "name": "Los Ángeles",
@@ -91,88 +140,18 @@
       "longitude": "-72.67307000"
    },
    {
-      "name": "Penco",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.74075000",
-      "longitude": "-72.99528000"
-   },
-   {
-      "name": "Alto Biobío",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-38.05000000",
-      "longitude": "-71.31666667"
-   },
-   {
-      "name": "Talcahuano",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.72494000",
-      "longitude": "-73.11684000"
-   },
-   {
-      "name": "Tomé",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.61756000",
-      "longitude": "-72.95593000"
-   },
-   {
-      "name": "Yumbel",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-37.09820000",
-      "longitude": "-72.56084000"
-   },
-   {
-      "name": "Antuco",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-37.33333333",
-      "longitude": "-71.68333333"
-   },
-   {
-      "name": "Contulmo",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-38.00000000",
-      "longitude": "-73.23333333"
-   },
-   {
-      "name": "Florida",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.81666667",
-      "longitude": "-72.66666667"
-   },
-   {
-      "name": "Hualpén",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.78333333",
-      "longitude": "-73.08333333"
-   },
-   {
-      "name": "Hualqui",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-36.97266000",
-      "longitude": "-72.93559000"
-   },
-   {
-      "name": "Los Álamos",
-      "countryCode": "CL",
-      "stateCode": "BI",
-      "latitude": "-37.61666667",
-      "longitude": "-73.46666667"
-   },
-   {
       "name": "Negrete",
       "countryCode": "CL",
       "stateCode": "BI",
       "latitude": "-37.58333333",
       "longitude": "-72.51666667"
+   },
+   {
+      "name": "Penco",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.74075000",
+      "longitude": "-72.99528000"
    },
    {
       "name": "Quilaco",
@@ -217,6 +196,13 @@
       "longitude": "-72.93333333"
    },
    {
+      "name": "Talcahuano",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.72494000",
+      "longitude": "-73.11684000"
+   },
+   {
       "name": "Tirúa",
       "countryCode": "CL",
       "stateCode": "BI",
@@ -224,10 +210,24 @@
       "longitude": "-73.50000000"
    },
    {
+      "name": "Tomé",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-36.61756000",
+      "longitude": "-72.95593000"
+   },
+   {
       "name": "Tucapel",
       "countryCode": "CL",
       "stateCode": "BI",
       "latitude": "-37.28333333",
       "longitude": "-71.95000000"
+   },
+   {
+      "name": "Yumbel",
+      "countryCode": "CL",
+      "stateCode": "BI",
+      "latitude": "-37.09820000",
+      "longitude": "-72.56084000"
    }
 ]

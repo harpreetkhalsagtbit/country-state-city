@@ -7,11 +7,11 @@
       "longitude": "31.61417890"
    },
    {
-      "name": "Markaz Abū Ḩammād",
+      "name": "Al Qurein",
       "countryCode": "EG",
       "stateCode": "SHR",
-      "latitude": "30.53604430",
-      "longitude": "31.65970230"
+      "latitude": "26.29300660",
+      "longitude": "31.84950350"
    },
    {
       "name": "Awlad Saqr",
@@ -42,13 +42,6 @@
       "longitude": "32.14949670"
    },
    {
-      "name": "Al Qurein",
-      "countryCode": "EG",
-      "stateCode": "SHR",
-      "latitude": "26.29300660",
-      "longitude": "31.84950350"
-   },
-   {
       "name": "Faqous",
       "countryCode": "EG",
       "stateCode": "SHR",
@@ -68,6 +61,13 @@
       "stateCode": "SHR",
       "latitude": "30.77955140",
       "longitude": "31.61774120"
+   },
+   {
+      "name": "Markaz Abū Ḩammād",
+      "countryCode": "EG",
+      "stateCode": "SHR",
+      "latitude": "30.53604430",
+      "longitude": "31.65970230"
    },
    {
       "name": "Mashtoul El Souk",

@@ -1,17 +1,12 @@
 [
    {
+      "name": "Brokopondo District",
+      "isoCode": "BR",
+      "countryCode": "SR"
+   },
+   {
       "name": "Commewijne District",
       "isoCode": "CM",
-      "countryCode": "SR"
-   },
-   {
-      "name": "Nickerie District",
-      "isoCode": "NI",
-      "countryCode": "SR"
-   },
-   {
-      "name": "Para District",
-      "isoCode": "PR",
       "countryCode": "SR"
    },
    {
@@ -20,23 +15,28 @@
       "countryCode": "SR"
    },
    {
-      "name": "Paramaribo District",
-      "isoCode": "PM",
-      "countryCode": "SR"
-   },
-   {
-      "name": "Wanica District",
-      "isoCode": "WA",
-      "countryCode": "SR"
-   },
-   {
       "name": "Marowijne District",
       "isoCode": "MA",
       "countryCode": "SR"
    },
    {
-      "name": "Brokopondo District",
-      "isoCode": "BR",
+      "name": "Nickerie District",
+      "isoCode": "NI",
+      "countryCode": "SR"
+   },
+   {
+      "name": "Paramaribo District",
+      "isoCode": "PM",
+      "countryCode": "SR"
+   },
+   {
+      "name": "Para District",
+      "isoCode": "PR",
+      "countryCode": "SR"
+   },
+   {
+      "name": "Saramacca District",
+      "isoCode": "SA",
       "countryCode": "SR"
    },
    {
@@ -45,8 +45,8 @@
       "countryCode": "SR"
    },
    {
-      "name": "Saramacca District",
-      "isoCode": "SA",
+      "name": "Wanica District",
+      "isoCode": "WA",
       "countryCode": "SR"
    }
 ]

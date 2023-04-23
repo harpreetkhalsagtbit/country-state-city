@@ -1,1585 +1,5 @@
 [
    {
-      "name": "Pagliarone",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pago Veiano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pago del Vallo di Lauro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Palinuro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Palma Campania",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Palomonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pannarano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Paolisi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Parete",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Parolise",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pascarola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Passo di Mirabella-Pianopantano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pastorano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Paternopoli",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Paupisi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pellezzano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pendino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Perdifumo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Perito",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pertosa",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pesco Sannita",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Petina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Petruro Irpino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pezzano-Filetta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piaggine",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piana di Monte Verna",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pianillo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piano di Sorrento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pianura",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazza Roma",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazza del Galdo-Sant'Angelo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazza di Pandola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazza-Tralia-Pendolo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazzola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piazzolla",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piedimonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piedimonte Matese",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piegolelle-San Bartolomeo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietradefusi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietramelara",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietraroja",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietrastornina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietravairano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietre",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pietrelcina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pignataro Maggiore",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pimonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Piscinola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pisciotta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Poggiomarino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Poggioreale",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Policastro Bussentino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Polla",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pollena Trocchia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pollica",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Polvica",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pomigliano d'Arco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pompei",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Ponte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pontecagnano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pontelandolfo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pontelatone",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Ponticelli",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Portici",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Portico di Caserta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Porto",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Posillipo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Positano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Postiglione",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pozzillo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pozzuoli",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Praiano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Prata Sannita Centro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Prata di Principato Ultra",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pratella",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Prato Perillo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pratola Serra",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pratole",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Prepezzano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Presenzano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Prignano Cilento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Procida",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Provincia di Avellino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Provincia di Benevento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Provincia di Caserta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Provincia di Salerno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Puglianello",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Pugliano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Quadrelle",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Quadrivio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Qualiano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Quarto",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Quindici",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Ravello",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Raviscanina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Recale",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Reino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rettifilo-Vannullo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Riardo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Ricigliano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rocca San Felice",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccabascerana",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccadaspide",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccagloriosa",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccamonfina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccapiemonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccarainola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roccaromana",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rocchetta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rofrano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Roscigno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rotondi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Rutino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Ruviano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sacco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sala",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sala Consilina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Salento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Salerno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Salitto-Valle",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Salvitelle",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Salza Irpina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Bartolomeo in Galdo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Carlo All'Arena",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Castrese",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Cipriano Picentino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Cipriano d'Aversa",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Clemente",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Felice A Cancello",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Ferdinando",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Gennaro Vesuviano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giorgio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giorgio a Cremano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giorgio del Sannio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giorgio la Molara",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giovanni A Piro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giovanni a Teduccio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giuseppe",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Giuseppe Vesuviano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Gregorio Magno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Gregorio Matese",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Leucio del Sannio-Cavuoti",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Lorenzello",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Lorenzo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Lorenzo Maggiore",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Lupo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Mango Piemonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Mango sul Calore",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Marcellino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Marco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Marco Evangelista",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Marco dei Cavoti",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Martino Sannita",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Martino Valle Caudina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Marzano sul Sarno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Mauro Cilento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Mauro la Bruca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Michele",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Michele di Serino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Nazzaro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Nicola Baronia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Nicola Manfredi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Nicola la Strada",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Paolo Bel Sito",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Pietro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Pietro Infine",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Pietro a Patierno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Pietro al Tanagro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Potito Sannitico",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Potito Ultra",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Prisco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Rufo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Salvatore Telesino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Sebastiano al Vesuvio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Sossio Baronia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Tammaro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Valentino Torio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "San Vitaliano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Agata de'Goti",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Agata sui Due Golfi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Agnello",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Anastasia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Andrea di Conza",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Andrea-Pizzone-Ciamprisco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo A Cupolo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo A Fasanella",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo A Scala",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo All'Esca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo d'Alife",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo dei Lombardi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Angelo in Formis",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Antimo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Antonio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Antonio Abate",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Arcangelo Trimonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Arpino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Arsenio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Egidio del Monte Albino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sant'Elena Irpina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Croce del Sannio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Lucia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Lucia di Serino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Maria",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Maria A Vico",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Maria Capua Vetere",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Maria La Carità",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Maria la Fossa",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Marina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Paolina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santa Tecla-Castelpagano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santo Stefano del Sole",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Santomenna",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sanza",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sapri",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sarno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sassano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sassinoro",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Saviano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Savignano Irpino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scafati",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scala",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scalo Romagnano al Monte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scampia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scampitella",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scario",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Scisciano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Secondigliano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Senerchia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Serino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Serramezzana",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Serrara Fontana",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Serre",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sessa Aurunca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sessa Cilento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Siano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sicignano degli Alburni",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sirignano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Soccavo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Solofra",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Solopaca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Somma Vesuviana",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sorbo Serpico",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sorrento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sparanise",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Spartimento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sperone",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Starza Vecchia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Stella",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Stella Cilento",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Stio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Striano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Sturno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Succivo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Summonte",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Taurano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Taurasi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Teano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Teggiano-Macchiaroli",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Telese",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Teora",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Terzigno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Teverola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tocco Caudio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tora",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torchiara",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torchiati",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torella dei Lombardi",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torelli-Torrette",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torraca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torre Annunziata",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torre Caracciolo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torre Orsaia",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torre del Greco",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torre le Nocelle",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torrecuso",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torretta-Scalzapecora",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Torrioni",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tortorella",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tramonti",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Trecase",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Trentinara",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Trentola-Ducenta",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Trescine",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Trevico",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tufino",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Tufo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vairano-Patenora",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vallata",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Valle Agricola",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Valle dell'Angelo",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Valle di Maddaloni",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vallesaccarda",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vallo della Lucania",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Valva",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Venticano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vibonati",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vicaria",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vico Equense",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vietri sul Mare",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villa Literno",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villa di Briano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villamaina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villammare",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villanova del Battista",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Villaricca",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Visciano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vitulano",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vitulazio",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Volla",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Volturara Irpina",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Vomero",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Zona Industriale",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Zungoli",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
-      "name": "Zuni",
-      "countryCode": "IT",
-      "stateCode": "72"
-   },
-   {
       "name": "Acerno",
       "countryCode": "IT",
       "stateCode": "72"
@@ -3456,6 +1876,1586 @@
    },
    {
       "name": "Pagani",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pagliarone",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pago Veiano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pago del Vallo di Lauro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Palinuro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Palma Campania",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Palomonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pannarano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Paolisi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Parete",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Parolise",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pascarola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Passo di Mirabella-Pianopantano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pastorano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Paternopoli",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Paupisi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pellezzano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pendino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Perdifumo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Perito",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pertosa",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pesco Sannita",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Petina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Petruro Irpino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pezzano-Filetta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piaggine",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piana di Monte Verna",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pianillo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piano di Sorrento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pianura",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazza Roma",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazza del Galdo-Sant'Angelo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazza di Pandola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazza-Tralia-Pendolo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazzola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piazzolla",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piedimonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piedimonte Matese",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piegolelle-San Bartolomeo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietradefusi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietramelara",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietraroja",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietrastornina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietravairano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietre",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pietrelcina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pignataro Maggiore",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pimonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Piscinola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pisciotta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Poggiomarino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Poggioreale",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Policastro Bussentino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Polla",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pollena Trocchia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pollica",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Polvica",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pomigliano d'Arco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pompei",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Ponte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pontecagnano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pontelandolfo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pontelatone",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Ponticelli",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Portici",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Portico di Caserta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Porto",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Posillipo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Positano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Postiglione",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pozzillo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pozzuoli",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Praiano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Prata Sannita Centro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Prata di Principato Ultra",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pratella",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Prato Perillo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pratola Serra",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pratole",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Prepezzano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Presenzano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Prignano Cilento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Procida",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Provincia di Avellino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Provincia di Benevento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Provincia di Caserta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Provincia di Salerno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Puglianello",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Pugliano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Quadrelle",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Quadrivio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Qualiano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Quarto",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Quindici",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Ravello",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Raviscanina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Recale",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Reino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rettifilo-Vannullo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Riardo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Ricigliano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rocca San Felice",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccabascerana",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccadaspide",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccagloriosa",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccamonfina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccapiemonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccarainola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roccaromana",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rocchetta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rofrano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Roscigno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rotondi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Rutino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Ruviano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sacco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sala",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sala Consilina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Salento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Salerno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Salitto-Valle",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Salvitelle",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Salza Irpina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Bartolomeo in Galdo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Carlo All'Arena",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Castrese",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Cipriano Picentino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Cipriano d'Aversa",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Clemente",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Felice A Cancello",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Ferdinando",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Gennaro Vesuviano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giorgio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giorgio a Cremano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giorgio del Sannio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giorgio la Molara",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giovanni A Piro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giovanni a Teduccio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giuseppe",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Giuseppe Vesuviano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Gregorio Magno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Gregorio Matese",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Leucio del Sannio-Cavuoti",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Lorenzello",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Lorenzo Maggiore",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Lupo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Mango Piemonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Mango sul Calore",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Marcellino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Marco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Marco Evangelista",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Marco dei Cavoti",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Martino Sannita",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Martino Valle Caudina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Marzano sul Sarno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Mauro Cilento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Mauro la Bruca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Michele",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Michele di Serino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Nazzaro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Nicola Baronia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Nicola Manfredi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Nicola la Strada",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Paolo Bel Sito",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Pietro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Pietro Infine",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Pietro a Patierno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Pietro al Tanagro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Potito Sannitico",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Potito Ultra",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Prisco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Rufo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Salvatore Telesino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Sebastiano al Vesuvio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Sossio Baronia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Tammaro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Valentino Torio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "San Vitaliano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Agata de'Goti",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Agata sui Due Golfi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Agnello",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Anastasia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Andrea di Conza",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Andrea-Pizzone-Ciamprisco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo A Cupolo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo A Fasanella",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo A Scala",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo All'Esca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo d'Alife",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo dei Lombardi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Angelo in Formis",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Antimo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Antonio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Antonio Abate",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Arcangelo Trimonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Arpino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Arsenio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Egidio del Monte Albino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sant'Elena Irpina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Croce del Sannio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Lucia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Lucia di Serino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Maria",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Maria A Vico",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Maria Capua Vetere",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Maria La Carità",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Maria la Fossa",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Marina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Paolina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santa Tecla-Castelpagano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santo Stefano del Sole",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Santomenna",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sanza",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sapri",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sarno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sassano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sassinoro",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Saviano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Savignano Irpino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scafati",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scala",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scalo Romagnano al Monte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scampia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scampitella",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scario",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Scisciano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Secondigliano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Senerchia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Serino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Serramezzana",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Serrara Fontana",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Serre",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sessa Aurunca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sessa Cilento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Siano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sicignano degli Alburni",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sirignano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Soccavo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Solofra",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Solopaca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Somma Vesuviana",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sorbo Serpico",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sorrento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sparanise",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Spartimento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sperone",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Starza Vecchia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Stella",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Stella Cilento",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Stio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Striano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Sturno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Succivo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Summonte",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Taurano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Taurasi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Teano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Teggiano-Macchiaroli",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Telese",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Teora",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Terzigno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Teverola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tocco Caudio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tora",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torchiara",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torchiati",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torella dei Lombardi",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torelli-Torrette",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torraca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torre Annunziata",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torre Caracciolo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torre Orsaia",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torre del Greco",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torre le Nocelle",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torrecuso",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torretta-Scalzapecora",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Torrioni",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tortorella",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tramonti",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Trecase",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Trentinara",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Trentola-Ducenta",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Trescine",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Trevico",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tufino",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Tufo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vairano-Patenora",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vallata",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Valle Agricola",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Valle dell'Angelo",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Valle di Maddaloni",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vallesaccarda",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vallo della Lucania",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Valva",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Venticano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vibonati",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vicaria",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vico Equense",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vietri sul Mare",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villa Literno",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villa di Briano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villamaina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villammare",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villanova del Battista",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Villaricca",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Visciano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vitulano",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vitulazio",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Volla",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Volturara Irpina",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Vomero",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Zona Industriale",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Zungoli",
+      "countryCode": "IT",
+      "stateCode": "72"
+   },
+   {
+      "name": "Zuni",
       "countryCode": "IT",
       "stateCode": "72"
    }

@@ -1673,6 +1673,41 @@
       "longitude": "23.50000000"
    },
    {
+      "name": "Sălcuţa",
+      "countryCode": "RO",
+      "stateCode": "DJ",
+      "latitude": "44.25000000",
+      "longitude": "23.43333000"
+   },
+   {
+      "name": "Sărata",
+      "countryCode": "RO",
+      "stateCode": "DJ",
+      "latitude": "43.77436000",
+      "longitude": "24.03351000"
+   },
+   {
+      "name": "Teasc",
+      "countryCode": "RO",
+      "stateCode": "DJ",
+      "latitude": "44.16454000",
+      "longitude": "23.86461000"
+   },
+   {
+      "name": "Terpeziţa",
+      "countryCode": "RO",
+      "stateCode": "DJ",
+      "latitude": "44.29191000",
+      "longitude": "23.50559000"
+   },
+   {
+      "name": "Teslui",
+      "countryCode": "RO",
+      "stateCode": "DJ",
+      "latitude": "44.20559000",
+      "longitude": "24.15482000"
+   },
+   {
       "name": "Tălpaș",
       "countryCode": "RO",
       "stateCode": "DJ",
@@ -1762,40 +1797,5 @@
       "stateCode": "DJ",
       "latitude": "44.18333000",
       "longitude": "23.81667000"
-   },
-   {
-      "name": "Sălcuţa",
-      "countryCode": "RO",
-      "stateCode": "DJ",
-      "latitude": "44.25000000",
-      "longitude": "23.43333000"
-   },
-   {
-      "name": "Sărata",
-      "countryCode": "RO",
-      "stateCode": "DJ",
-      "latitude": "43.77436000",
-      "longitude": "24.03351000"
-   },
-   {
-      "name": "Teasc",
-      "countryCode": "RO",
-      "stateCode": "DJ",
-      "latitude": "44.16454000",
-      "longitude": "23.86461000"
-   },
-   {
-      "name": "Terpeziţa",
-      "countryCode": "RO",
-      "stateCode": "DJ",
-      "latitude": "44.29191000",
-      "longitude": "23.50559000"
-   },
-   {
-      "name": "Teslui",
-      "countryCode": "RO",
-      "stateCode": "DJ",
-      "latitude": "44.20559000",
-      "longitude": "24.15482000"
    }
 ]

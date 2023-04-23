@@ -1,60 +1,5 @@
 [
    {
-      "name": "Chontales",
-      "isoCode": "CO",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Managua",
-      "isoCode": "MN",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Rivas",
-      "isoCode": "RI",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Granada",
-      "isoCode": "GR",
-      "countryCode": "NI"
-   },
-   {
-      "name": "León",
-      "isoCode": "LE",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Estelí",
-      "isoCode": "ES",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Boaco",
-      "isoCode": "BO",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Matagalpa",
-      "isoCode": "MT",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Madriz",
-      "isoCode": "MD",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Río San Juan",
-      "isoCode": "SJ",
-      "countryCode": "NI"
-   },
-   {
-      "name": "Carazo",
-      "isoCode": "CA",
-      "countryCode": "NI"
-   },
-   {
       "name": "North Caribbean Coast",
       "isoCode": "AN",
       "countryCode": "NI"
@@ -65,8 +10,13 @@
       "countryCode": "NI"
    },
    {
-      "name": "Masaya",
-      "isoCode": "MS",
+      "name": "Boaco",
+      "isoCode": "BO",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Carazo",
+      "isoCode": "CA",
       "countryCode": "NI"
    },
    {
@@ -75,13 +25,63 @@
       "countryCode": "NI"
    },
    {
+      "name": "Chontales",
+      "isoCode": "CO",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Estelí",
+      "isoCode": "ES",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Granada",
+      "isoCode": "GR",
+      "countryCode": "NI"
+   },
+   {
       "name": "Jinotega",
       "isoCode": "JI",
       "countryCode": "NI"
    },
    {
+      "name": "León",
+      "isoCode": "LE",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Madriz",
+      "isoCode": "MD",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Managua",
+      "isoCode": "MN",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Masaya",
+      "isoCode": "MS",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Matagalpa",
+      "isoCode": "MT",
+      "countryCode": "NI"
+   },
+   {
       "name": "Nueva Segovia",
       "isoCode": "NS",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Rivas",
+      "isoCode": "RI",
+      "countryCode": "NI"
+   },
+   {
+      "name": "Río San Juan",
+      "isoCode": "SJ",
       "countryCode": "NI"
    }
 ]

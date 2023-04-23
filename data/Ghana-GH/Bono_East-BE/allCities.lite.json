@@ -1,15 +1,5 @@
 [
    {
-      "name": "Techiman",
-      "countryCode": "GH",
-      "stateCode": "BE"
-   },
-   {
-      "name": "Techiman North",
-      "countryCode": "GH",
-      "stateCode": "BE"
-   },
-   {
       "name": "Atebubu-Amantin",
       "countryCode": "GH",
       "stateCode": "BE"
@@ -35,12 +25,12 @@
       "stateCode": "BE"
    },
    {
-      "name": "Pru West",
+      "name": "Pru East",
       "countryCode": "GH",
       "stateCode": "BE"
    },
    {
-      "name": "Pru East",
+      "name": "Pru West",
       "countryCode": "GH",
       "stateCode": "BE"
    },
@@ -51,6 +41,16 @@
    },
    {
       "name": "Sene West",
+      "countryCode": "GH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Techiman",
+      "countryCode": "GH",
+      "stateCode": "BE"
+   },
+   {
+      "name": "Techiman North",
       "countryCode": "GH",
       "stateCode": "BE"
    }

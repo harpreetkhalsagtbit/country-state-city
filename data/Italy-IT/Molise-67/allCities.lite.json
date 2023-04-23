@@ -1,310 +1,5 @@
 [
    {
-      "name": "Palata",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pesche",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pescolanciano",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pescopennataro",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Petacciato",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Petrella Tifernina",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pettoranello del Molise",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pietrabbondante",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pietracatella",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pietracupa",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pizzone",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Poggio Sannita",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Portocannone",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Pozzilli",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Provincia di Campobasso",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Provincia di Isernia",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Provvidenti",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Riccia",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Rionero Sannitico",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Ripabottoni",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Ripalimosani",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Roccamandolfi",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Roccasicura",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Roccavivara",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Rocchetta Nuova",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Rocchetta a Volturno",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Rotello",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Salcito",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Biase",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Felice del Molise",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Giacomo degli Schiavoni",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Giovanni in Galdo",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Giuliano del Sannio",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Giuliano di Puglia",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Martino in Pensilis",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Massimo",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Pietro Avellana",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "San Polomatese",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sant'Agapito",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sant'Angelo Limosano",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sant'Angelo del Pesco",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sant'Elena Sannita",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sant'Elia a Pianisi",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Santa Croce di Magliano",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Santa Maria del Molise",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Scapoli",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sepino",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sessano del Molise",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Sesto Campano",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Spinete",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Tavenna",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Taverna Ravindola",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Termoli",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Torella del Sannio",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Toro",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Trivento",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Tufara",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Ururi",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Vastogirardi",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Venafro",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
-      "name": "Vinchiaturo",
-      "countryCode": "IT",
-      "stateCode": "67"
-   },
-   {
       "name": "Acquaviva Collecroce",
       "countryCode": "IT",
       "stateCode": "67"
@@ -701,6 +396,311 @@
    },
    {
       "name": "Oratino",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Palata",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pesche",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pescolanciano",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pescopennataro",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Petacciato",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Petrella Tifernina",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pettoranello del Molise",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pietrabbondante",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pietracatella",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pietracupa",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pizzone",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Poggio Sannita",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Portocannone",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Pozzilli",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Provincia di Campobasso",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Provincia di Isernia",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Provvidenti",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Riccia",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Rionero Sannitico",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Ripabottoni",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Ripalimosani",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Roccamandolfi",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Roccasicura",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Roccavivara",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Rocchetta Nuova",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Rocchetta a Volturno",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Rotello",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Salcito",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Biase",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Felice del Molise",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Giacomo degli Schiavoni",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Giovanni in Galdo",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Giuliano del Sannio",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Giuliano di Puglia",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Martino in Pensilis",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Massimo",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Pietro Avellana",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "San Polomatese",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sant'Agapito",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sant'Angelo Limosano",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sant'Angelo del Pesco",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sant'Elena Sannita",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sant'Elia a Pianisi",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Santa Croce di Magliano",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Santa Maria del Molise",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Scapoli",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sepino",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sessano del Molise",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Sesto Campano",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Spinete",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Tavenna",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Taverna Ravindola",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Termoli",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Torella del Sannio",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Toro",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Trivento",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Tufara",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Ururi",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Vastogirardi",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Venafro",
+      "countryCode": "IT",
+      "stateCode": "67"
+   },
+   {
+      "name": "Vinchiaturo",
       "countryCode": "IT",
       "stateCode": "67"
    }

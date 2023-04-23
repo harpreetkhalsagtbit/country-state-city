@@ -75,6 +75,11 @@
       "stateCode": "HUI"
    },
    {
+      "name": "La Argentina",
+      "countryCode": "CO",
+      "stateCode": "HUI"
+   },
+   {
       "name": "La Plata",
       "countryCode": "CO",
       "stateCode": "HUI"
@@ -176,11 +181,6 @@
    },
    {
       "name": "Yaguará",
-      "countryCode": "CO",
-      "stateCode": "HUI"
-   },
-   {
-      "name": "La Argentina",
       "countryCode": "CO",
       "stateCode": "HUI"
    }

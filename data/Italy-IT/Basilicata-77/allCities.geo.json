@@ -1,439 +1,5 @@
 [
    {
-      "name": "Palazzo San Gervasio",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.93156000",
-      "longitude": "15.98149000"
-   },
-   {
-      "name": "Paterno",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.37507000",
-      "longitude": "15.73510000"
-   },
-   {
-      "name": "Pescopagano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.83494000",
-      "longitude": "15.39946000"
-   },
-   {
-      "name": "Picerno",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.63975000",
-      "longitude": "15.64232000"
-   },
-   {
-      "name": "Pietragalla",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.74572000",
-      "longitude": "15.87398000"
-   },
-   {
-      "name": "Pietrapertosa",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.51731000",
-      "longitude": "16.06244000"
-   },
-   {
-      "name": "Pignola",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.57412000",
-      "longitude": "15.78295000"
-   },
-   {
-      "name": "Pisticci",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.39017000",
-      "longitude": "16.55919000"
-   },
-   {
-      "name": "Policoro",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.21280000",
-      "longitude": "16.67795000"
-   },
-   {
-      "name": "Pomarico",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.52804000",
-      "longitude": "16.52708000"
-   },
-   {
-      "name": "Potenza",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.64175000",
-      "longitude": "15.80794000"
-   },
-   {
-      "name": "Provincia di Matera",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.50000000",
-      "longitude": "16.41667000"
-   },
-   {
-      "name": "Provincia di Potenza",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.46442000",
-      "longitude": "15.89938000"
-   },
-   {
-      "name": "Rapolla",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.97499000",
-      "longitude": "15.67201000"
-   },
-   {
-      "name": "Rapone",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.84710000",
-      "longitude": "15.49818000"
-   },
-   {
-      "name": "Rionero in Vulture",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.92328000",
-      "longitude": "15.67110000"
-   },
-   {
-      "name": "Ripacandida",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.91256000",
-      "longitude": "15.72597000"
-   },
-   {
-      "name": "Rivello",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.07821000",
-      "longitude": "15.75798000"
-   },
-   {
-      "name": "Roccanova",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.21250000",
-      "longitude": "16.20429000"
-   },
-   {
-      "name": "Rotonda",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "39.95215000",
-      "longitude": "16.03904000"
-   },
-   {
-      "name": "Rotondella",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.17136000",
-      "longitude": "16.52491000"
-   },
-   {
-      "name": "Ruoti",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.71660000",
-      "longitude": "15.68369000"
-   },
-   {
-      "name": "Ruvo del Monte",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.84951000",
-      "longitude": "15.54217000"
-   },
-   {
-      "name": "Salandra",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.52668000",
-      "longitude": "16.32037000"
-   },
-   {
-      "name": "San Brancato",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.25822000",
-      "longitude": "16.25661000"
-   },
-   {
-      "name": "San Chirico Nuovo",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.67764000",
-      "longitude": "16.07892000"
-   },
-   {
-      "name": "San Chirico Raparo",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.19242000",
-      "longitude": "16.07618000"
-   },
-   {
-      "name": "San Costantino Albanese",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.03679000",
-      "longitude": "16.30475000"
-   },
-   {
-      "name": "San Fele",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.81647000",
-      "longitude": "15.54043000"
-   },
-   {
-      "name": "San Giorgio Lucano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.11132000",
-      "longitude": "16.38930000"
-   },
-   {
-      "name": "San Martino d'Agri",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.23913000",
-      "longitude": "16.05216000"
-   },
-   {
-      "name": "San Mauro Forte",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.48333000",
-      "longitude": "16.25155000"
-   },
-   {
-      "name": "San Paolo Albanese",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.03567000",
-      "longitude": "16.33498000"
-   },
-   {
-      "name": "San Severino Lucano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.02021000",
-      "longitude": "16.13860000"
-   },
-   {
-      "name": "Sant'Angelo le Fratte",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.54490000",
-      "longitude": "15.56156000"
-   },
-   {
-      "name": "Sant'Arcangelo",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.24852000",
-      "longitude": "16.27046000"
-   },
-   {
-      "name": "Sarconi",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.24800000",
-      "longitude": "15.88837000"
-   },
-   {
-      "name": "Sasso di Castalda",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.48525000",
-      "longitude": "15.67569000"
-   },
-   {
-      "name": "Satriano di Lucania",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.54296000",
-      "longitude": "15.64024000"
-   },
-   {
-      "name": "Savoia di Lucania",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.56949000",
-      "longitude": "15.55132000"
-   },
-   {
-      "name": "Scalo di Baragiano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.69500000",
-      "longitude": "15.57508000"
-   },
-   {
-      "name": "Scanzano Jonico",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.25085000",
-      "longitude": "16.69824000"
-   },
-   {
-      "name": "Senise",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.14616000",
-      "longitude": "16.28867000"
-   },
-   {
-      "name": "Spinoso",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.26921000",
-      "longitude": "15.96658000"
-   },
-   {
-      "name": "Stigliano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.40237000",
-      "longitude": "16.22983000"
-   },
-   {
-      "name": "Teana",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.12586000",
-      "longitude": "16.15281000"
-   },
-   {
-      "name": "Terranova di Pollino",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "39.97765000",
-      "longitude": "16.29583000"
-   },
-   {
-      "name": "Tito",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.58370000",
-      "longitude": "15.67621000"
-   },
-   {
-      "name": "Tolve",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.69422000",
-      "longitude": "16.01627000"
-   },
-   {
-      "name": "Tramutola",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.31858000",
-      "longitude": "15.78753000"
-   },
-   {
-      "name": "Trecchina",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.02611000",
-      "longitude": "15.77585000"
-   },
-   {
-      "name": "Tricarico",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.61458000",
-      "longitude": "16.14259000"
-   },
-   {
-      "name": "Trivigno",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.58015000",
-      "longitude": "15.98857000"
-   },
-   {
-      "name": "Tursi",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.24651000",
-      "longitude": "16.47140000"
-   },
-   {
-      "name": "Vaglio Basilicata",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.66643000",
-      "longitude": "15.91434000"
-   },
-   {
-      "name": "Valsinni",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.17098000",
-      "longitude": "16.44388000"
-   },
-   {
-      "name": "Venosa",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.96283000",
-      "longitude": "15.81285000"
-   },
-   {
-      "name": "Vietri di Potenza",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.60027000",
-      "longitude": "15.50787000"
-   },
-   {
-      "name": "Viggianello",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "39.97227000",
-      "longitude": "16.08521000"
-   },
-   {
-      "name": "Viggiano",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.34213000",
-      "longitude": "15.89964000"
-   },
-   {
-      "name": "Villa d'Agri",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "40.35426000",
-      "longitude": "15.82770000"
-   },
-   {
-      "name": "Zona 179",
-      "countryCode": "IT",
-      "stateCode": "77",
-      "latitude": "41.00313000",
-      "longitude": "15.61868000"
-   },
-   {
       "name": "Abriola",
       "countryCode": "IT",
       "stateCode": "77",
@@ -985,5 +551,439 @@
       "stateCode": "77",
       "latitude": "40.76174000",
       "longitude": "15.98818000"
+   },
+   {
+      "name": "Palazzo San Gervasio",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.93156000",
+      "longitude": "15.98149000"
+   },
+   {
+      "name": "Paterno",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.37507000",
+      "longitude": "15.73510000"
+   },
+   {
+      "name": "Pescopagano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.83494000",
+      "longitude": "15.39946000"
+   },
+   {
+      "name": "Picerno",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.63975000",
+      "longitude": "15.64232000"
+   },
+   {
+      "name": "Pietragalla",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.74572000",
+      "longitude": "15.87398000"
+   },
+   {
+      "name": "Pietrapertosa",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.51731000",
+      "longitude": "16.06244000"
+   },
+   {
+      "name": "Pignola",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.57412000",
+      "longitude": "15.78295000"
+   },
+   {
+      "name": "Pisticci",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.39017000",
+      "longitude": "16.55919000"
+   },
+   {
+      "name": "Policoro",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.21280000",
+      "longitude": "16.67795000"
+   },
+   {
+      "name": "Pomarico",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.52804000",
+      "longitude": "16.52708000"
+   },
+   {
+      "name": "Potenza",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.64175000",
+      "longitude": "15.80794000"
+   },
+   {
+      "name": "Provincia di Matera",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.50000000",
+      "longitude": "16.41667000"
+   },
+   {
+      "name": "Provincia di Potenza",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.46442000",
+      "longitude": "15.89938000"
+   },
+   {
+      "name": "Rapolla",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.97499000",
+      "longitude": "15.67201000"
+   },
+   {
+      "name": "Rapone",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.84710000",
+      "longitude": "15.49818000"
+   },
+   {
+      "name": "Rionero in Vulture",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.92328000",
+      "longitude": "15.67110000"
+   },
+   {
+      "name": "Ripacandida",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.91256000",
+      "longitude": "15.72597000"
+   },
+   {
+      "name": "Rivello",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.07821000",
+      "longitude": "15.75798000"
+   },
+   {
+      "name": "Roccanova",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.21250000",
+      "longitude": "16.20429000"
+   },
+   {
+      "name": "Rotonda",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "39.95215000",
+      "longitude": "16.03904000"
+   },
+   {
+      "name": "Rotondella",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.17136000",
+      "longitude": "16.52491000"
+   },
+   {
+      "name": "Ruoti",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.71660000",
+      "longitude": "15.68369000"
+   },
+   {
+      "name": "Ruvo del Monte",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.84951000",
+      "longitude": "15.54217000"
+   },
+   {
+      "name": "Salandra",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.52668000",
+      "longitude": "16.32037000"
+   },
+   {
+      "name": "San Brancato",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.25822000",
+      "longitude": "16.25661000"
+   },
+   {
+      "name": "San Chirico Nuovo",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.67764000",
+      "longitude": "16.07892000"
+   },
+   {
+      "name": "San Chirico Raparo",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.19242000",
+      "longitude": "16.07618000"
+   },
+   {
+      "name": "San Costantino Albanese",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.03679000",
+      "longitude": "16.30475000"
+   },
+   {
+      "name": "San Fele",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.81647000",
+      "longitude": "15.54043000"
+   },
+   {
+      "name": "San Giorgio Lucano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.11132000",
+      "longitude": "16.38930000"
+   },
+   {
+      "name": "San Martino d'Agri",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.23913000",
+      "longitude": "16.05216000"
+   },
+   {
+      "name": "San Mauro Forte",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.48333000",
+      "longitude": "16.25155000"
+   },
+   {
+      "name": "San Paolo Albanese",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.03567000",
+      "longitude": "16.33498000"
+   },
+   {
+      "name": "San Severino Lucano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.02021000",
+      "longitude": "16.13860000"
+   },
+   {
+      "name": "Sant'Angelo le Fratte",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.54490000",
+      "longitude": "15.56156000"
+   },
+   {
+      "name": "Sant'Arcangelo",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.24852000",
+      "longitude": "16.27046000"
+   },
+   {
+      "name": "Sarconi",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.24800000",
+      "longitude": "15.88837000"
+   },
+   {
+      "name": "Sasso di Castalda",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.48525000",
+      "longitude": "15.67569000"
+   },
+   {
+      "name": "Satriano di Lucania",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.54296000",
+      "longitude": "15.64024000"
+   },
+   {
+      "name": "Savoia di Lucania",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.56949000",
+      "longitude": "15.55132000"
+   },
+   {
+      "name": "Scalo di Baragiano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.69500000",
+      "longitude": "15.57508000"
+   },
+   {
+      "name": "Scanzano Jonico",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.25085000",
+      "longitude": "16.69824000"
+   },
+   {
+      "name": "Senise",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.14616000",
+      "longitude": "16.28867000"
+   },
+   {
+      "name": "Spinoso",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.26921000",
+      "longitude": "15.96658000"
+   },
+   {
+      "name": "Stigliano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.40237000",
+      "longitude": "16.22983000"
+   },
+   {
+      "name": "Teana",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.12586000",
+      "longitude": "16.15281000"
+   },
+   {
+      "name": "Terranova di Pollino",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "39.97765000",
+      "longitude": "16.29583000"
+   },
+   {
+      "name": "Tito",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.58370000",
+      "longitude": "15.67621000"
+   },
+   {
+      "name": "Tolve",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.69422000",
+      "longitude": "16.01627000"
+   },
+   {
+      "name": "Tramutola",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.31858000",
+      "longitude": "15.78753000"
+   },
+   {
+      "name": "Trecchina",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.02611000",
+      "longitude": "15.77585000"
+   },
+   {
+      "name": "Tricarico",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.61458000",
+      "longitude": "16.14259000"
+   },
+   {
+      "name": "Trivigno",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.58015000",
+      "longitude": "15.98857000"
+   },
+   {
+      "name": "Tursi",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.24651000",
+      "longitude": "16.47140000"
+   },
+   {
+      "name": "Vaglio Basilicata",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.66643000",
+      "longitude": "15.91434000"
+   },
+   {
+      "name": "Valsinni",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.17098000",
+      "longitude": "16.44388000"
+   },
+   {
+      "name": "Venosa",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.96283000",
+      "longitude": "15.81285000"
+   },
+   {
+      "name": "Vietri di Potenza",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.60027000",
+      "longitude": "15.50787000"
+   },
+   {
+      "name": "Viggianello",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "39.97227000",
+      "longitude": "16.08521000"
+   },
+   {
+      "name": "Viggiano",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.34213000",
+      "longitude": "15.89964000"
+   },
+   {
+      "name": "Villa d'Agri",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "40.35426000",
+      "longitude": "15.82770000"
+   },
+   {
+      "name": "Zona 179",
+      "countryCode": "IT",
+      "stateCode": "77",
+      "latitude": "41.00313000",
+      "longitude": "15.61868000"
    }
 ]

@@ -1610,6 +1610,48 @@
       "longitude": "24.95000000"
    },
    {
+      "name": "Sălătrucu",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "45.33333000",
+      "longitude": "24.51667000"
+   },
+   {
+      "name": "Teiu",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "44.66667000",
+      "longitude": "25.10000000"
+   },
+   {
+      "name": "Tigveni",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "45.13333000",
+      "longitude": "24.58333000"
+   },
+   {
+      "name": "Titeşti",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "45.01667000",
+      "longitude": "25.00000000"
+   },
+   {
+      "name": "Toplița",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "45.09022000",
+      "longitude": "24.73236000"
+   },
+   {
+      "name": "Topoloveni",
+      "countryCode": "RO",
+      "stateCode": "AG",
+      "latitude": "44.81667000",
+      "longitude": "25.08333000"
+   },
+   {
       "name": "Tutana",
       "countryCode": "RO",
       "stateCode": "AG",
@@ -1748,47 +1790,5 @@
       "stateCode": "AG",
       "latitude": "44.68142000",
       "longitude": "24.99236000"
-   },
-   {
-      "name": "Sălătrucu",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "45.33333000",
-      "longitude": "24.51667000"
-   },
-   {
-      "name": "Teiu",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "44.66667000",
-      "longitude": "25.10000000"
-   },
-   {
-      "name": "Tigveni",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "45.13333000",
-      "longitude": "24.58333000"
-   },
-   {
-      "name": "Titeşti",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "45.01667000",
-      "longitude": "25.00000000"
-   },
-   {
-      "name": "Toplița",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "45.09022000",
-      "longitude": "24.73236000"
-   },
-   {
-      "name": "Topoloveni",
-      "countryCode": "RO",
-      "stateCode": "AG",
-      "latitude": "44.81667000",
-      "longitude": "25.08333000"
    }
 ]

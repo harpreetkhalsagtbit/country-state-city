@@ -1,12 +1,7 @@
 [
    {
-      "name": "Ad Dhahirah Governorate",
-      "isoCode": "ZA",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Al Batinah North Governorate",
-      "isoCode": "BS",
+      "name": "Al Batinah Region",
+      "isoCode": "BA",
       "countryCode": "OM"
    },
    {
@@ -15,43 +10,13 @@
       "countryCode": "OM"
    },
    {
-      "name": "Al Batinah Region",
-      "isoCode": "BA",
+      "name": "Al Batinah North Governorate",
+      "isoCode": "BS",
       "countryCode": "OM"
    },
    {
-      "name": "Ash Sharqiyah Region",
-      "isoCode": "SH",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Musandam Governorate",
-      "isoCode": "MU",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Ash Sharqiyah North Governorate",
-      "isoCode": "SS",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Ash Sharqiyah South Governorate",
-      "isoCode": "SJ",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Muscat Governorate",
-      "isoCode": "MA",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Al Wusta Governorate",
-      "isoCode": "WU",
-      "countryCode": "OM"
-   },
-   {
-      "name": "Dhofar Governorate",
-      "isoCode": "ZU",
+      "name": "Al Buraimi Governorate",
+      "isoCode": "BU",
       "countryCode": "OM"
    },
    {
@@ -60,8 +25,43 @@
       "countryCode": "OM"
    },
    {
-      "name": "Al Buraimi Governorate",
-      "isoCode": "BU",
+      "name": "Muscat Governorate",
+      "isoCode": "MA",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Musandam Governorate",
+      "isoCode": "MU",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Ash Sharqiyah Region",
+      "isoCode": "SH",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Ash Sharqiyah South Governorate",
+      "isoCode": "SJ",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Ash Sharqiyah North Governorate",
+      "isoCode": "SS",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Al Wusta Governorate",
+      "isoCode": "WU",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Ad Dhahirah Governorate",
+      "isoCode": "ZA",
+      "countryCode": "OM"
+   },
+   {
+      "name": "Dhofar Governorate",
+      "isoCode": "ZU",
       "countryCode": "OM"
    }
 ]

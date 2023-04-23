@@ -5,12 +5,12 @@
       "stateCode": "JH"
    },
    {
-      "name": "Barki Saria",
+      "name": "Barka Kana",
       "countryCode": "IN",
       "stateCode": "JH"
    },
    {
-      "name": "Barka Kana",
+      "name": "Barki Saria",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -35,17 +35,12 @@
       "stateCode": "JH"
    },
    {
+      "name": "Chaibasa",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
       "name": "Chakradharpur",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Chatra",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Chiria",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -65,7 +60,12 @@
       "stateCode": "JH"
    },
    {
-      "name": "Chaibasa",
+      "name": "Chatra",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
+      "name": "Chiria",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -150,12 +150,12 @@
       "stateCode": "JH"
    },
    {
-      "name": "Hazaribagh",
+      "name": "Hazaribag",
       "countryCode": "IN",
       "stateCode": "JH"
    },
    {
-      "name": "Hazaribag",
+      "name": "Hazaribagh",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -171,6 +171,11 @@
    },
    {
       "name": "Jagannathpur",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
+      "name": "Jamadoba",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -205,7 +210,22 @@
       "stateCode": "JH"
    },
    {
-      "name": "Jamadoba",
+      "name": "Kalikapur",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
+      "name": "Kandra",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
+      "name": "Kanke",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
+      "name": "Katras",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -231,26 +251,6 @@
    },
    {
       "name": "Kuju",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Kalikapur",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Kandra",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Kanke",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Katras",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -320,12 +320,12 @@
       "stateCode": "JH"
    },
    {
-      "name": "Purba Singhbhum",
+      "name": "Pathardih",
       "countryCode": "IN",
       "stateCode": "JH"
    },
    {
-      "name": "Pathardih",
+      "name": "Purba Singhbhum",
       "countryCode": "IN",
       "stateCode": "JH"
    },
@@ -355,6 +355,11 @@
       "stateCode": "JH"
    },
    {
+      "name": "Sarubera",
+      "countryCode": "IN",
+      "stateCode": "JH"
+   },
+   {
       "name": "Sijua",
       "countryCode": "IN",
       "stateCode": "JH"
@@ -366,11 +371,6 @@
    },
    {
       "name": "Sini",
-      "countryCode": "IN",
-      "stateCode": "JH"
-   },
-   {
-      "name": "Sarubera",
       "countryCode": "IN",
       "stateCode": "JH"
    },

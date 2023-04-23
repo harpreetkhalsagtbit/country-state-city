@@ -1,32 +1,7 @@
 [
    {
-      "name": "Guelmim",
-      "isoCode": "GUE",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Aousserd (EH)",
-      "isoCode": "AOU",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Al Hoceïma",
-      "isoCode": "HOC",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Larache",
-      "isoCode": "LAR",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Ouarzazate",
-      "isoCode": "OUA",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Boulemane",
-      "isoCode": "BOM",
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "isoCode": "01",
       "countryCode": "MA"
    },
    {
@@ -35,28 +10,13 @@
       "countryCode": "MA"
    },
    {
-      "name": "Béni Mellal",
-      "isoCode": "BEM",
+      "name": "Fès-Meknès",
+      "isoCode": "03",
       "countryCode": "MA"
    },
    {
-      "name": "Chichaoua",
-      "isoCode": "CHI",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Boujdour (EH)",
-      "isoCode": "BOD",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Khémisset",
-      "isoCode": "KHE",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Tiznit",
-      "isoCode": "TIZ",
+      "name": "Rabat-Salé-Kénitra",
+      "isoCode": "04",
       "countryCode": "MA"
    },
    {
@@ -65,48 +25,8 @@
       "countryCode": "MA"
    },
    {
-      "name": "Sidi Kacem",
-      "isoCode": "SIK",
-      "countryCode": "MA"
-   },
-   {
-      "name": "El Jadida",
-      "isoCode": "JDI",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Nador",
-      "isoCode": "NAD",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Settat",
-      "isoCode": "SET",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Zagora",
-      "isoCode": "ZAG",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Médiouna",
-      "isoCode": "MED",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Berkane",
-      "isoCode": "BER",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Tan-Tan (EH-partial)",
-      "isoCode": "TNT",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Nouaceur",
-      "isoCode": "NOU",
+      "name": "Casablanca-Settat",
+      "isoCode": "06",
       "countryCode": "MA"
    },
    {
@@ -115,33 +35,8 @@
       "countryCode": "MA"
    },
    {
-      "name": "Sefrou",
-      "isoCode": "SEF",
-      "countryCode": "MA"
-   },
-   {
       "name": "Drâa-Tafilalet",
       "isoCode": "08",
-      "countryCode": "MA"
-   },
-   {
-      "name": "El Hajeb",
-      "isoCode": "HAJ",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Es-Semara (EH-partial)",
-      "isoCode": "ESM",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Laâyoune (EH)",
-      "isoCode": "LAA",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Inezgane-Ait Melloul",
-      "isoCode": "INE",
       "countryCode": "MA"
    },
    {
@@ -150,13 +45,8 @@
       "countryCode": "MA"
    },
    {
-      "name": "Taza",
-      "isoCode": "TAZ",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Assa-Zag (EH-partial)",
-      "isoCode": "ASZ",
+      "name": "Guelmim-Oued Noun (EH-partial)",
+      "isoCode": "10",
       "countryCode": "MA"
    },
    {
@@ -165,28 +55,38 @@
       "countryCode": "MA"
    },
    {
-      "name": "Errachidia",
-      "isoCode": "ERR",
+      "name": "Dakhla-Oued Ed-Dahab (EH)",
+      "isoCode": "12",
       "countryCode": "MA"
    },
    {
-      "name": "Fahs-Anjra",
-      "isoCode": "FAH",
+      "name": "Agadir-Ida-Ou-Tanane",
+      "isoCode": "AGD",
       "countryCode": "MA"
    },
    {
-      "name": "Figuig",
-      "isoCode": "FIG",
+      "name": "Aousserd (EH)",
+      "isoCode": "AOU",
       "countryCode": "MA"
    },
    {
-      "name": "Chtouka-Ait Baha",
-      "isoCode": "CHT",
+      "name": "Assa-Zag (EH-partial)",
+      "isoCode": "ASZ",
       "countryCode": "MA"
    },
    {
-      "name": "Casablanca-Settat",
-      "isoCode": "06",
+      "name": "Azilal",
+      "isoCode": "AZI",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Béni Mellal",
+      "isoCode": "BEM",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Berkane",
+      "isoCode": "BER",
       "countryCode": "MA"
    },
    {
@@ -195,13 +95,118 @@
       "countryCode": "MA"
    },
    {
-      "name": "Guelmim-Oued Noun (EH-partial)",
-      "isoCode": "10",
+      "name": "Boujdour (EH)",
+      "isoCode": "BOD",
       "countryCode": "MA"
    },
    {
-      "name": "Dakhla-Oued Ed-Dahab (EH)",
-      "isoCode": "12",
+      "name": "Boulemane",
+      "isoCode": "BOM",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Berrechid",
+      "isoCode": "BRR",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Casablanca",
+      "isoCode": "CAS",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Chefchaouen",
+      "isoCode": "CHE",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Chichaoua",
+      "isoCode": "CHI",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Chtouka-Ait Baha",
+      "isoCode": "CHT",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Driouch",
+      "isoCode": "DRI",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Errachidia",
+      "isoCode": "ERR",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Essaouira",
+      "isoCode": "ESI",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Es-Semara (EH-partial)",
+      "isoCode": "ESM",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Fahs-Anjra",
+      "isoCode": "FAH",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Fès",
+      "isoCode": "FES",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Figuig",
+      "isoCode": "FIG",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Fquih Ben Salah",
+      "isoCode": "FQH",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Guelmim",
+      "isoCode": "GUE",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Guercif",
+      "isoCode": "GUF",
+      "countryCode": "MA"
+   },
+   {
+      "name": "El Hajeb",
+      "isoCode": "HAJ",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Al Haouz",
+      "isoCode": "HAO",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Al Hoceïma",
+      "isoCode": "HOC",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Ifrane",
+      "isoCode": "IFR",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Inezgane-Ait Melloul",
+      "isoCode": "INE",
+      "countryCode": "MA"
+   },
+   {
+      "name": "El Jadida",
+      "isoCode": "JDI",
       "countryCode": "MA"
    },
    {
@@ -220,38 +225,8 @@
       "countryCode": "MA"
    },
    {
-      "name": "Chefchaouen",
-      "isoCode": "CHE",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Safi",
-      "isoCode": "SAF",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Tata",
-      "isoCode": "TAT",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Fès-Meknès",
-      "isoCode": "03",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Taroudannt",
-      "isoCode": "TAR",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Moulay Yacoub",
-      "isoCode": "MOU",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Essaouira",
-      "isoCode": "ESI",
+      "name": "Khémisset",
+      "isoCode": "KHE",
       "countryCode": "MA"
    },
    {
@@ -260,88 +235,18 @@
       "countryCode": "MA"
    },
    {
-      "name": "Tétouan",
-      "isoCode": "TET",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Oued Ed-Dahab (EH)",
-      "isoCode": "OUD",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Al Haouz",
-      "isoCode": "HAO",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Azilal",
-      "isoCode": "AZI",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Taourirt",
-      "isoCode": "TAI",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Taounate",
-      "isoCode": "TAO",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Tanger-Tétouan-Al Hoceïma",
-      "isoCode": "01",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Ifrane",
-      "isoCode": "IFR",
-      "countryCode": "MA"
-   },
-   {
       "name": "Khouribga",
       "isoCode": "KHO",
       "countryCode": "MA"
    },
    {
-      "name": "Rabat-Salé-Kénitra",
-      "isoCode": "04",
+      "name": "Laâyoune (EH)",
+      "isoCode": "LAA",
       "countryCode": "MA"
    },
    {
-      "name": "Agadir-Ida-Ou-Tanane",
-      "isoCode": "AGD",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Berrechid",
-      "isoCode": "BRR",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Casablanca",
-      "isoCode": "CAS",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Driouch",
-      "isoCode": "DRI",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Fès",
-      "isoCode": "FES",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Fquih Ben Salah",
-      "isoCode": "FQH",
-      "countryCode": "MA"
-   },
-   {
-      "name": "Guercif",
-      "isoCode": "GUF",
+      "name": "Larache",
+      "isoCode": "LAR",
       "countryCode": "MA"
    },
    {
@@ -352,6 +257,11 @@
    {
       "name": "M’diq-Fnideq",
       "isoCode": "MDF",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Médiouna",
+      "isoCode": "MED",
       "countryCode": "MA"
    },
    {
@@ -367,6 +277,31 @@
    {
       "name": "Mohammadia",
       "isoCode": "MOH",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Moulay Yacoub",
+      "isoCode": "MOU",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Nador",
+      "isoCode": "NAD",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Nouaceur",
+      "isoCode": "NOU",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Ouarzazate",
+      "isoCode": "OUA",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Oued Ed-Dahab (EH)",
+      "isoCode": "OUD",
       "countryCode": "MA"
    },
    {
@@ -390,8 +325,23 @@
       "countryCode": "MA"
    },
    {
+      "name": "Safi",
+      "isoCode": "SAF",
+      "countryCode": "MA"
+   },
+   {
       "name": "Salé",
       "isoCode": "SAL",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Sefrou",
+      "isoCode": "SEF",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Settat",
+      "isoCode": "SET",
       "countryCode": "MA"
    },
    {
@@ -405,6 +355,16 @@
       "countryCode": "MA"
    },
    {
+      "name": "Sidi Kacem",
+      "isoCode": "SIK",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Sidi Slimane",
+      "isoCode": "SIL",
+      "countryCode": "MA"
+   },
+   {
       "name": "Skhirate-Témara",
       "isoCode": "SKH",
       "countryCode": "MA"
@@ -415,8 +375,43 @@
       "countryCode": "MA"
    },
    {
+      "name": "Taourirt",
+      "isoCode": "TAI",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Taounate",
+      "isoCode": "TAO",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Taroudannt",
+      "isoCode": "TAR",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Tata",
+      "isoCode": "TAT",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Taza",
+      "isoCode": "TAZ",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Tétouan",
+      "isoCode": "TET",
+      "countryCode": "MA"
+   },
+   {
       "name": "Tinghir",
       "isoCode": "TIN",
+      "countryCode": "MA"
+   },
+   {
+      "name": "Tiznit",
+      "isoCode": "TIZ",
       "countryCode": "MA"
    },
    {
@@ -425,13 +420,18 @@
       "countryCode": "MA"
    },
    {
+      "name": "Tan-Tan (EH-partial)",
+      "isoCode": "TNT",
+      "countryCode": "MA"
+   },
+   {
       "name": "Youssoufia",
       "isoCode": "YUS",
       "countryCode": "MA"
    },
    {
-      "name": "Sidi Slimane",
-      "isoCode": "SIL",
+      "name": "Zagora",
+      "isoCode": "ZAG",
       "countryCode": "MA"
    }
 ]

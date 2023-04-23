@@ -15,6 +15,11 @@
       "stateCode": "CAS"
    },
    {
+      "name": "La Salina",
+      "countryCode": "CO",
+      "stateCode": "CAS"
+   },
+   {
       "name": "Maní",
       "countryCode": "CO",
       "stateCode": "CAS"
@@ -31,6 +36,11 @@
    },
    {
       "name": "Orocué",
+      "countryCode": "CO",
+      "stateCode": "CAS"
+   },
+   {
+      "name": "Paz de Ariporo",
       "countryCode": "CO",
       "stateCode": "CAS"
    },
@@ -81,16 +91,6 @@
    },
    {
       "name": "Yopal",
-      "countryCode": "CO",
-      "stateCode": "CAS"
-   },
-   {
-      "name": "La Salina",
-      "countryCode": "CO",
-      "stateCode": "CAS"
-   },
-   {
-      "name": "Paz de Ariporo",
       "countryCode": "CO",
       "stateCode": "CAS"
    }

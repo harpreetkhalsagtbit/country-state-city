@@ -7,48 +7,6 @@
       "longitude": "-71.04340000"
    },
    {
-      "name": "Graneros",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.06863000",
-      "longitude": "-70.72747000"
-   },
-   {
-      "name": "Machalí",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.18082000",
-      "longitude": "-70.64933000"
-   },
-   {
-      "name": "Rancagua",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.17083000",
-      "longitude": "-70.74444000"
-   },
-   {
-      "name": "Rengo",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.40639000",
-      "longitude": "-70.85834000"
-   },
-   {
-      "name": "San Vicente",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.43859000",
-      "longitude": "-71.07751000"
-   },
-   {
-      "name": "Santa Cruz",
-      "countryCode": "CL",
-      "stateCode": "LI",
-      "latitude": "-34.63881000",
-      "longitude": "-71.36576000"
-   },
-   {
       "name": "Chépica",
       "countryCode": "CL",
       "stateCode": "LI",
@@ -84,6 +42,13 @@
       "longitude": "-70.96666667"
    },
    {
+      "name": "Graneros",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.06863000",
+      "longitude": "-70.72747000"
+   },
+   {
       "name": "La Estrella",
       "countryCode": "CL",
       "stateCode": "LI",
@@ -110,6 +75,13 @@
       "stateCode": "LI",
       "latitude": "-34.72861111",
       "longitude": "-71.64472222"
+   },
+   {
+      "name": "Machalí",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.18082000",
+      "longitude": "-70.64933000"
    },
    {
       "name": "Malloa",
@@ -217,6 +189,20 @@
       "longitude": "-70.96527000"
    },
    {
+      "name": "Rancagua",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.17083000",
+      "longitude": "-70.74444000"
+   },
+   {
+      "name": "Rengo",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.40639000",
+      "longitude": "-70.85834000"
+   },
+   {
       "name": "Requínoa",
       "countryCode": "CL",
       "stateCode": "LI",
@@ -229,5 +215,19 @@
       "stateCode": "LI",
       "latitude": "-34.74330000",
       "longitude": "-70.60328000"
+   },
+   {
+      "name": "San Vicente",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.43859000",
+      "longitude": "-71.07751000"
+   },
+   {
+      "name": "Santa Cruz",
+      "countryCode": "CL",
+      "stateCode": "LI",
+      "latitude": "-34.63881000",
+      "longitude": "-71.36576000"
    }
 ]

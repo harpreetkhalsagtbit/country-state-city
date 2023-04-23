@@ -1,37 +1,17 @@
 [
    {
-      "name": "Hama Governorate",
-      "isoCode": "HM",
-      "countryCode": "SY"
-   },
-   {
-      "name": "Rif Dimashq Governorate",
-      "isoCode": "RD",
-      "countryCode": "SY"
-   },
-   {
-      "name": "As-Suwayda Governorate",
-      "isoCode": "SU",
-      "countryCode": "SY"
-   },
-   {
-      "name": "Deir ez-Zor Governorate",
-      "isoCode": "DY",
-      "countryCode": "SY"
-   },
-   {
-      "name": "Latakia Governorate",
-      "isoCode": "LA",
-      "countryCode": "SY"
-   },
-   {
       "name": "Damascus Governorate",
       "isoCode": "DI",
       "countryCode": "SY"
    },
    {
-      "name": "Idlib Governorate",
-      "isoCode": "ID",
+      "name": "Daraa Governorate",
+      "isoCode": "DR",
+      "countryCode": "SY"
+   },
+   {
+      "name": "Deir ez-Zor Governorate",
+      "isoCode": "DY",
       "countryCode": "SY"
    },
    {
@@ -45,6 +25,26 @@
       "countryCode": "SY"
    },
    {
+      "name": "Aleppo Governorate",
+      "isoCode": "HL",
+      "countryCode": "SY"
+   },
+   {
+      "name": "Hama Governorate",
+      "isoCode": "HM",
+      "countryCode": "SY"
+   },
+   {
+      "name": "Idlib Governorate",
+      "isoCode": "ID",
+      "countryCode": "SY"
+   },
+   {
+      "name": "Latakia Governorate",
+      "isoCode": "LA",
+      "countryCode": "SY"
+   },
+   {
       "name": "Quneitra Governorate",
       "isoCode": "QU",
       "countryCode": "SY"
@@ -55,13 +55,13 @@
       "countryCode": "SY"
    },
    {
-      "name": "Daraa Governorate",
-      "isoCode": "DR",
+      "name": "Rif Dimashq Governorate",
+      "isoCode": "RD",
       "countryCode": "SY"
    },
    {
-      "name": "Aleppo Governorate",
-      "isoCode": "HL",
+      "name": "As-Suwayda Governorate",
+      "isoCode": "SU",
       "countryCode": "SY"
    },
    {

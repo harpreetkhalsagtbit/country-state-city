@@ -1,71 +1,26 @@
 [
    {
-      "name": "Buin",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "El Monte",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "La Pintana",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Lampa",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Lo Prado",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Melipilla",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Paine",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Peñaflor",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Puente Alto",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "San Bernardo",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Santiago",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Talagante",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
       "name": "Alhué",
       "countryCode": "CL",
       "stateCode": "RM"
    },
    {
+      "name": "Buin",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Calera de Tango",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Cerrillos",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Cerro Navia",
       "countryCode": "CL",
       "stateCode": "RM"
    },
@@ -80,12 +35,27 @@
       "stateCode": "RM"
    },
    {
+      "name": "Curacaví",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "El Bosque",
       "countryCode": "CL",
       "stateCode": "RM"
    },
    {
+      "name": "El Monte",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Estación Central",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Huechuraba",
       "countryCode": "CL",
       "stateCode": "RM"
    },
@@ -115,7 +85,17 @@
       "stateCode": "RM"
    },
    {
+      "name": "La Pintana",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "La Reina",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Lampa",
       "countryCode": "CL",
       "stateCode": "RM"
    },
@@ -135,6 +115,11 @@
       "stateCode": "RM"
    },
    {
+      "name": "Lo Prado",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Macul",
       "countryCode": "CL",
       "stateCode": "RM"
@@ -150,12 +135,27 @@
       "stateCode": "RM"
    },
    {
+      "name": "Melipilla",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Padre Hurtado",
       "countryCode": "CL",
       "stateCode": "RM"
    },
    {
+      "name": "Paine",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Pedro Aguirre Cerda",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Peñaflor",
       "countryCode": "CL",
       "stateCode": "RM"
    },
@@ -171,6 +171,16 @@
    },
    {
       "name": "Providencia",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Pudahuel",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Puente Alto",
       "countryCode": "CL",
       "stateCode": "RM"
    },
@@ -195,6 +205,11 @@
       "stateCode": "RM"
    },
    {
+      "name": "San Bernardo",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "San Joaquín",
       "countryCode": "CL",
       "stateCode": "RM"
@@ -215,6 +230,21 @@
       "stateCode": "RM"
    },
    {
+      "name": "San Ramón",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Santiago",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
+      "name": "Talagante",
+      "countryCode": "CL",
+      "stateCode": "RM"
+   },
+   {
       "name": "Tiltil",
       "countryCode": "CL",
       "stateCode": "RM"
@@ -226,36 +256,6 @@
    },
    {
       "name": "Ñuñoa",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Cerrillos",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Curacaví",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Huechuraba",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Pudahuel",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "San Ramón",
-      "countryCode": "CL",
-      "stateCode": "RM"
-   },
-   {
-      "name": "Cerro Navia",
       "countryCode": "CL",
       "stateCode": "RM"
    }

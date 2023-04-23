@@ -1,17 +1,7 @@
 [
    {
-      "name": "Kafr el-Sheikh",
-      "isoCode": "KFS",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Cairo",
-      "isoCode": "C",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Damietta",
-      "isoCode": "DT",
+      "name": "Alexandria",
+      "isoCode": "ALX",
       "countryCode": "EG"
    },
    {
@@ -20,73 +10,8 @@
       "countryCode": "EG"
    },
    {
-      "name": "Sohag",
-      "isoCode": "SHG",
-      "countryCode": "EG"
-   },
-   {
-      "name": "North Sinai",
-      "isoCode": "SIN",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Monufia",
-      "isoCode": "MNF",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Port Said",
-      "isoCode": "PTS",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Beni Suef",
-      "isoCode": "BNS",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Matrouh",
-      "isoCode": "MT",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Qalyubia",
-      "isoCode": "KB",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Suez",
-      "isoCode": "SUZ",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Gharbia",
-      "isoCode": "GH",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Alexandria",
-      "isoCode": "ALX",
-      "countryCode": "EG"
-   },
-   {
       "name": "Asyut",
       "isoCode": "AST",
-      "countryCode": "EG"
-   },
-   {
-      "name": "South Sinai",
-      "isoCode": "JS",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Faiyum",
-      "isoCode": "FYM",
-      "countryCode": "EG"
-   },
-   {
-      "name": "Giza",
-      "isoCode": "GZ",
       "countryCode": "EG"
    },
    {
@@ -100,6 +25,66 @@
       "countryCode": "EG"
    },
    {
+      "name": "Beni Suef",
+      "isoCode": "BNS",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Cairo",
+      "isoCode": "C",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Dakahlia",
+      "isoCode": "DK",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Damietta",
+      "isoCode": "DT",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Faiyum",
+      "isoCode": "FYM",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Gharbia",
+      "isoCode": "GH",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Giza",
+      "isoCode": "GZ",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Ismailia",
+      "isoCode": "IS",
+      "countryCode": "EG"
+   },
+   {
+      "name": "South Sinai",
+      "isoCode": "JS",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Qalyubia",
+      "isoCode": "KB",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Kafr el-Sheikh",
+      "isoCode": "KFS",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Qena",
+      "isoCode": "KN",
+      "countryCode": "EG"
+   },
+   {
       "name": "Luxor",
       "isoCode": "LX",
       "countryCode": "EG"
@@ -110,28 +95,43 @@
       "countryCode": "EG"
    },
    {
-      "name": "Ismailia",
-      "isoCode": "IS",
+      "name": "Monufia",
+      "isoCode": "MNF",
       "countryCode": "EG"
    },
    {
-      "name": "Dakahlia",
-      "isoCode": "DK",
+      "name": "Matrouh",
+      "isoCode": "MT",
       "countryCode": "EG"
    },
    {
-      "name": "New Valley",
-      "isoCode": "WAD",
+      "name": "Port Said",
+      "isoCode": "PTS",
       "countryCode": "EG"
    },
    {
-      "name": "Qena",
-      "isoCode": "KN",
+      "name": "Sohag",
+      "isoCode": "SHG",
       "countryCode": "EG"
    },
    {
       "name": "Sharqia",
       "isoCode": "SHR",
+      "countryCode": "EG"
+   },
+   {
+      "name": "North Sinai",
+      "isoCode": "SIN",
+      "countryCode": "EG"
+   },
+   {
+      "name": "Suez",
+      "isoCode": "SUZ",
+      "countryCode": "EG"
+   },
+   {
+      "name": "New Valley",
+      "isoCode": "WAD",
       "countryCode": "EG"
    }
 ]

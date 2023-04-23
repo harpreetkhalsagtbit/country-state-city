@@ -1,47 +1,7 @@
 [
    {
-      "name": "Montserrado County",
-      "isoCode": "MO",
-      "countryCode": "LR"
-   },
-   {
-      "name": "River Cess County",
-      "isoCode": "RI",
-      "countryCode": "LR"
-   },
-   {
       "name": "Bong County",
       "isoCode": "BG",
-      "countryCode": "LR"
-   },
-   {
-      "name": "Sinoe County",
-      "isoCode": "SI",
-      "countryCode": "LR"
-   },
-   {
-      "name": "Grand Cape Mount County",
-      "isoCode": "CM",
-      "countryCode": "LR"
-   },
-   {
-      "name": "Lofa County",
-      "isoCode": "LO",
-      "countryCode": "LR"
-   },
-   {
-      "name": "River Gee County",
-      "isoCode": "RG",
-      "countryCode": "LR"
-   },
-   {
-      "name": "Grand Gedeh County",
-      "isoCode": "GG",
-      "countryCode": "LR"
-   },
-   {
-      "name": "Grand Bassa County",
-      "isoCode": "GB",
       "countryCode": "LR"
    },
    {
@@ -50,18 +10,18 @@
       "countryCode": "LR"
    },
    {
-      "name": "Maryland County",
-      "isoCode": "MY",
+      "name": "Grand Cape Mount County",
+      "isoCode": "CM",
       "countryCode": "LR"
    },
    {
-      "name": "Margibi County",
-      "isoCode": "MG",
+      "name": "Grand Bassa County",
+      "isoCode": "GB",
       "countryCode": "LR"
    },
    {
-      "name": "Gbarpolu County",
-      "isoCode": "GP",
+      "name": "Grand Gedeh County",
+      "isoCode": "GG",
       "countryCode": "LR"
    },
    {
@@ -70,8 +30,48 @@
       "countryCode": "LR"
    },
    {
+      "name": "Gbarpolu County",
+      "isoCode": "GP",
+      "countryCode": "LR"
+   },
+   {
+      "name": "Lofa County",
+      "isoCode": "LO",
+      "countryCode": "LR"
+   },
+   {
+      "name": "Margibi County",
+      "isoCode": "MG",
+      "countryCode": "LR"
+   },
+   {
+      "name": "Montserrado County",
+      "isoCode": "MO",
+      "countryCode": "LR"
+   },
+   {
+      "name": "Maryland County",
+      "isoCode": "MY",
+      "countryCode": "LR"
+   },
+   {
       "name": "Nimba",
       "isoCode": "NI",
+      "countryCode": "LR"
+   },
+   {
+      "name": "River Gee County",
+      "isoCode": "RG",
+      "countryCode": "LR"
+   },
+   {
+      "name": "River Cess County",
+      "isoCode": "RI",
+      "countryCode": "LR"
+   },
+   {
+      "name": "Sinoe County",
+      "isoCode": "SI",
       "countryCode": "LR"
    }
 ]

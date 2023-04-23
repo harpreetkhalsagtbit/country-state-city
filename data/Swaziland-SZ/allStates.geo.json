@@ -1,12 +1,5 @@
 [
    {
-      "name": "Manzini District",
-      "isoCode": "MA",
-      "countryCode": "SZ",
-      "latitude": "-26.50819990",
-      "longitude": "31.37131640"
-   },
-   {
       "name": "Hhohho District",
       "isoCode": "HH",
       "countryCode": "SZ",
@@ -19,6 +12,13 @@
       "countryCode": "SZ",
       "latitude": "-26.78517730",
       "longitude": "31.81070790"
+   },
+   {
+      "name": "Manzini District",
+      "isoCode": "MA",
+      "countryCode": "SZ",
+      "latitude": "-26.50819990",
+      "longitude": "31.37131640"
    },
    {
       "name": "Shiselweni District",

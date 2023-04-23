@@ -1,42 +1,12 @@
 [
    {
-      "name": "Lomaiviti",
-      "isoCode": "06",
-      "countryCode": "FJ"
-   },
-   {
       "name": "Ba",
       "isoCode": "01",
       "countryCode": "FJ"
    },
    {
-      "name": "Tailevu",
-      "isoCode": "14",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Nadroga-Navosa",
-      "isoCode": "08",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Rewa",
-      "isoCode": "12",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Northern Division",
-      "isoCode": "N",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Macuata",
-      "isoCode": "07",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Western Division",
-      "isoCode": "W",
+      "name": "Bua",
+      "isoCode": "02",
       "countryCode": "FJ"
    },
    {
@@ -45,13 +15,28 @@
       "countryCode": "FJ"
    },
    {
-      "name": "Serua",
-      "isoCode": "13",
+      "name": "Kadavu",
+      "isoCode": "04",
       "countryCode": "FJ"
    },
    {
-      "name": "Ra",
-      "isoCode": "11",
+      "name": "Lau",
+      "isoCode": "05",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Lomaiviti",
+      "isoCode": "06",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Macuata",
+      "isoCode": "07",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Nadroga-Navosa",
+      "isoCode": "08",
       "countryCode": "FJ"
    },
    {
@@ -65,18 +50,28 @@
       "countryCode": "FJ"
    },
    {
+      "name": "Ra",
+      "isoCode": "11",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Rewa",
+      "isoCode": "12",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Serua",
+      "isoCode": "13",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Tailevu",
+      "isoCode": "14",
+      "countryCode": "FJ"
+   },
+   {
       "name": "Central Division",
       "isoCode": "C",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Bua",
-      "isoCode": "02",
-      "countryCode": "FJ"
-   },
-   {
-      "name": "Rotuma",
-      "isoCode": "R",
       "countryCode": "FJ"
    },
    {
@@ -85,13 +80,18 @@
       "countryCode": "FJ"
    },
    {
-      "name": "Lau",
-      "isoCode": "05",
+      "name": "Northern Division",
+      "isoCode": "N",
       "countryCode": "FJ"
    },
    {
-      "name": "Kadavu",
-      "isoCode": "04",
+      "name": "Rotuma",
+      "isoCode": "R",
+      "countryCode": "FJ"
+   },
+   {
+      "name": "Western Division",
+      "isoCode": "W",
       "countryCode": "FJ"
    }
 ]

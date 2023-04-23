@@ -1,5 +1,10 @@
 [
    {
+      "name": "Amli",
+      "countryCode": "IN",
+      "stateCode": "DH"
+   },
+   {
       "name": "Dadra",
       "countryCode": "IN",
       "stateCode": "DH"
@@ -26,11 +31,6 @@
    },
    {
       "name": "Silvassa",
-      "countryCode": "IN",
-      "stateCode": "DH"
-   },
-   {
-      "name": "Amli",
       "countryCode": "IN",
       "stateCode": "DH"
    }

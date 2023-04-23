@@ -35,6 +35,21 @@
       "stateCode": "TN"
    },
    {
+      "name": "Alangudi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Alangulam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Alappakkam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Alwa Tirunagari",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -65,17 +80,22 @@
       "stateCode": "TN"
    },
    {
+      "name": "Andippatti",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Annamalainagar",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Annavasal",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Annur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Annamalainagar",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -135,12 +155,22 @@
       "stateCode": "TN"
    },
    {
+      "name": "Attayyampatti",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Attur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Auroville",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Avadi",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -305,12 +335,12 @@
       "stateCode": "TN"
    },
    {
-      "name": "Elumalai",
+      "name": "Elayirampannai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
-      "name": "Elayirampannai",
+      "name": "Elumalai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -336,6 +366,11 @@
    },
    {
       "name": "Ettaiyapuram",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Gandhi Nagar",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -370,17 +405,12 @@
       "stateCode": "TN"
    },
    {
-      "name": "Gummidipundi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Gandhi Nagar",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Guduvancheri",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Gummidipundi",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -505,6 +535,16 @@
       "stateCode": "TN"
    },
    {
+      "name": "Karaikkudi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Karamadai",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Karambakkudi",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -525,7 +565,22 @@
       "stateCode": "TN"
    },
    {
+      "name": "Katpadi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Kattivakkam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Kattupputtur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Kaveripatnam",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -550,7 +605,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Kil Bhuvanagiri",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Kilvelur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Kiranur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -650,41 +715,6 @@
       "stateCode": "TN"
    },
    {
-      "name": "Karaikkudi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Karamadai",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Katpadi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Kattupputtur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Kaveripatnam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Kil Bhuvanagiri",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Kiranur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Lalgudi",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -720,12 +750,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Mallapuram",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Mallasamudram",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
-      "name": "Mallapuram",
+      "name": "Mallur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -780,7 +815,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Marandahalli",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Masinigudi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Mattur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -805,12 +850,22 @@
       "stateCode": "TN"
    },
    {
+      "name": "Minjur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Mohanur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Mudukulattur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Mulanur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -825,37 +880,22 @@
       "stateCode": "TN"
    },
    {
-      "name": "Mallur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Marandahalli",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Mattur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Minjur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Mulanur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Naduvattam",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Nagapattinam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Nagercoil",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Namagiripettai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -900,7 +940,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Naravarikuppam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Nattam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Nattarasankottai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -935,26 +985,6 @@
       "stateCode": "TN"
    },
    {
-      "name": "Nagercoil",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Namagiripettai",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Naravarikuppam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Nattarasankottai",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Odugattur",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -971,6 +1001,16 @@
    },
    {
       "name": "Padmanabhapuram",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Palakkodu",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Palamedu",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1000,6 +1040,11 @@
       "stateCode": "TN"
    },
    {
+      "name": "Pallavaram",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Pallikondai",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1015,17 +1060,22 @@
       "stateCode": "TN"
    },
    {
-      "name": "Pallavaram",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Panruti",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Papanasam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Papireddippatti",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Papparappatti",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1160,12 +1210,12 @@
       "stateCode": "TN"
    },
    {
-      "name": "Puduvayal",
+      "name": "Pudur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
-      "name": "Pudur",
+      "name": "Puduvayal",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1190,26 +1240,6 @@
       "stateCode": "TN"
    },
    {
-      "name": "Palakkodu",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Palamedu",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Papireddippatti",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Papparappatti",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Rajapalaiyam",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1221,6 +1251,11 @@
    },
    {
       "name": "Rameswaram",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Ranipet",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1255,6 +1290,11 @@
       "stateCode": "TN"
    },
    {
+      "name": "Sayalkudi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Seven Pagodas",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1265,12 +1305,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Singanallur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Singapperumalkovil",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
-      "name": "Singanallur",
+      "name": "Sirkazhi",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1295,22 +1340,22 @@
       "stateCode": "TN"
    },
    {
-      "name": "Srivaikuntam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Srivilliputhur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Srimushnam",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Sriperumbudur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Srivaikuntam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Srivilliputhur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1325,22 +1370,12 @@
       "stateCode": "TN"
    },
    {
-      "name": "Swamimalai",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Sayalkudi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Sirkazhi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Surandai",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Swamimalai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1351,6 +1386,16 @@
    },
    {
       "name": "Tanjore",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Taramangalam",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Tattayyangarpettai",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1455,6 +1500,11 @@
       "stateCode": "TN"
    },
    {
+      "name": "Tiruppalaikudi",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Tirupparangunram",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1466,11 +1516,6 @@
    },
    {
       "name": "Tiruppuvanam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Tiruppalaikudi",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1505,16 +1550,6 @@
       "stateCode": "TN"
    },
    {
-      "name": "Taramangalam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Tattayyangarpettai",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
       "name": "Udangudi",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1545,6 +1580,11 @@
       "stateCode": "TN"
    },
    {
+      "name": "Uttukkuli",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "V.S.K.Valasai (Dindigul-Dist.)",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1561,6 +1601,11 @@
    },
    {
       "name": "Vadamadurai",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
+      "name": "Vadippatti",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1600,6 +1645,11 @@
       "stateCode": "TN"
    },
    {
+      "name": "Vasudevanallur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Vattalkundu",
       "countryCode": "IN",
       "stateCode": "TN"
@@ -1620,12 +1670,12 @@
       "stateCode": "TN"
    },
    {
-      "name": "Vellore",
+      "name": "Vellanur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
-      "name": "Vellanur",
+      "name": "Vellore",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1670,27 +1720,17 @@
       "stateCode": "TN"
    },
    {
+      "name": "Viraganur",
+      "countryCode": "IN",
+      "stateCode": "TN"
+   },
+   {
       "name": "Virudhunagar",
       "countryCode": "IN",
       "stateCode": "TN"
    },
    {
       "name": "Vriddhachalam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Vadippatti",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Vasudevanallur",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Viraganur",
       "countryCode": "IN",
       "stateCode": "TN"
    },
@@ -1706,46 +1746,6 @@
    },
    {
       "name": "Wellington",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Alangudi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Alangulam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Alappakkam",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Andippatti",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Attayyampatti",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Avadi",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Uttukkuli",
-      "countryCode": "IN",
-      "stateCode": "TN"
-   },
-   {
-      "name": "Ranipet",
       "countryCode": "IN",
       "stateCode": "TN"
    }

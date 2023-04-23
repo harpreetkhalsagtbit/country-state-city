@@ -1,22 +1,7 @@
 [
    {
-      "name": "Ewa District",
-      "isoCode": "09",
-      "countryCode": "NR"
-   },
-   {
-      "name": "Uaboe District",
-      "isoCode": "13",
-      "countryCode": "NR"
-   },
-   {
       "name": "Aiwo District",
       "isoCode": "01",
-      "countryCode": "NR"
-   },
-   {
-      "name": "Meneng District",
-      "isoCode": "11",
       "countryCode": "NR"
    },
    {
@@ -25,23 +10,8 @@
       "countryCode": "NR"
    },
    {
-      "name": "Nibok District",
-      "isoCode": "12",
-      "countryCode": "NR"
-   },
-   {
-      "name": "Baiti District",
-      "isoCode": "05",
-      "countryCode": "NR"
-   },
-   {
-      "name": "Ijuw District",
-      "isoCode": "10",
-      "countryCode": "NR"
-   },
-   {
-      "name": "Buada District",
-      "isoCode": "07",
+      "name": "Anetan District",
+      "isoCode": "03",
       "countryCode": "NR"
    },
    {
@@ -50,8 +20,8 @@
       "countryCode": "NR"
    },
    {
-      "name": "Yaren District",
-      "isoCode": "14",
+      "name": "Baiti District",
+      "isoCode": "05",
       "countryCode": "NR"
    },
    {
@@ -60,13 +30,43 @@
       "countryCode": "NR"
    },
    {
+      "name": "Buada District",
+      "isoCode": "07",
+      "countryCode": "NR"
+   },
+   {
       "name": "Denigomodu District",
       "isoCode": "08",
       "countryCode": "NR"
    },
    {
-      "name": "Anetan District",
-      "isoCode": "03",
+      "name": "Ewa District",
+      "isoCode": "09",
+      "countryCode": "NR"
+   },
+   {
+      "name": "Ijuw District",
+      "isoCode": "10",
+      "countryCode": "NR"
+   },
+   {
+      "name": "Meneng District",
+      "isoCode": "11",
+      "countryCode": "NR"
+   },
+   {
+      "name": "Nibok District",
+      "isoCode": "12",
+      "countryCode": "NR"
+   },
+   {
+      "name": "Uaboe District",
+      "isoCode": "13",
+      "countryCode": "NR"
+   },
+   {
+      "name": "Yaren District",
+      "isoCode": "14",
       "countryCode": "NR"
    }
 ]

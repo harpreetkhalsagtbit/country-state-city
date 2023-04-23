@@ -1092,6 +1092,27 @@
       "longitude": "21.85216000"
    },
    {
+      "name": "Teregova",
+      "countryCode": "RO",
+      "stateCode": "CS",
+      "latitude": "45.15000000",
+      "longitude": "22.28333000"
+   },
+   {
+      "name": "Ticvaniu Mare",
+      "countryCode": "RO",
+      "stateCode": "CS",
+      "latitude": "45.13528000",
+      "longitude": "21.63806000"
+   },
+   {
+      "name": "Topleţ",
+      "countryCode": "RO",
+      "stateCode": "CS",
+      "latitude": "44.79722000",
+      "longitude": "22.39444000"
+   },
+   {
       "name": "Turnu Ruieni",
       "countryCode": "RO",
       "stateCode": "CS",
@@ -1174,26 +1195,5 @@
       "stateCode": "CS",
       "latitude": "44.84194000",
       "longitude": "21.86278000"
-   },
-   {
-      "name": "Teregova",
-      "countryCode": "RO",
-      "stateCode": "CS",
-      "latitude": "45.15000000",
-      "longitude": "22.28333000"
-   },
-   {
-      "name": "Ticvaniu Mare",
-      "countryCode": "RO",
-      "stateCode": "CS",
-      "latitude": "45.13528000",
-      "longitude": "21.63806000"
-   },
-   {
-      "name": "Topleţ",
-      "countryCode": "RO",
-      "stateCode": "CS",
-      "latitude": "44.79722000",
-      "longitude": "22.39444000"
    }
 ]

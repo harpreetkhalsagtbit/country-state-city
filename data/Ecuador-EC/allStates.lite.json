@@ -1,52 +1,12 @@
 [
    {
-      "name": "Galápagos",
-      "isoCode": "W",
+      "name": "Azuay",
+      "isoCode": "A",
       "countryCode": "EC"
    },
    {
-      "name": "Sucumbíos",
-      "isoCode": "U",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Pastaza",
-      "isoCode": "Y",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Tungurahua",
-      "isoCode": "T",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Zamora Chinchipe",
-      "isoCode": "Z",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Los Ríos",
-      "isoCode": "R",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Imbabura",
-      "isoCode": "I",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Santa Elena",
-      "isoCode": "SE",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Manabí",
-      "isoCode": "M",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Guayas",
-      "isoCode": "G",
+      "name": "Bolívar",
+      "isoCode": "B",
       "countryCode": "EC"
    },
    {
@@ -55,13 +15,63 @@
       "countryCode": "EC"
    },
    {
-      "name": "Napo",
-      "isoCode": "N",
+      "name": "Orellana",
+      "isoCode": "D",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Esmeraldas",
+      "isoCode": "E",
       "countryCode": "EC"
    },
    {
       "name": "Cañar",
       "isoCode": "F",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Guayas",
+      "isoCode": "G",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Chimborazo",
+      "isoCode": "H",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Imbabura",
+      "isoCode": "I",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Loja",
+      "isoCode": "L",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Manabí",
+      "isoCode": "M",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Napo",
+      "isoCode": "N",
+      "countryCode": "EC"
+   },
+   {
+      "name": "El Oro",
+      "isoCode": "O",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Pichincha",
+      "isoCode": "P",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Los Ríos",
+      "isoCode": "R",
       "countryCode": "EC"
    },
    {
@@ -75,8 +85,23 @@
       "countryCode": "EC"
    },
    {
-      "name": "Bolívar",
-      "isoCode": "B",
+      "name": "Santa Elena",
+      "isoCode": "SE",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Tungurahua",
+      "isoCode": "T",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Sucumbíos",
+      "isoCode": "U",
+      "countryCode": "EC"
+   },
+   {
+      "name": "Galápagos",
+      "isoCode": "W",
       "countryCode": "EC"
    },
    {
@@ -85,38 +110,13 @@
       "countryCode": "EC"
    },
    {
-      "name": "Esmeraldas",
-      "isoCode": "E",
+      "name": "Pastaza",
+      "isoCode": "Y",
       "countryCode": "EC"
    },
    {
-      "name": "Azuay",
-      "isoCode": "A",
-      "countryCode": "EC"
-   },
-   {
-      "name": "El Oro",
-      "isoCode": "O",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Chimborazo",
-      "isoCode": "H",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Orellana",
-      "isoCode": "D",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Pichincha",
-      "isoCode": "P",
-      "countryCode": "EC"
-   },
-   {
-      "name": "Loja",
-      "isoCode": "L",
+      "name": "Zamora Chinchipe",
+      "isoCode": "Z",
       "countryCode": "EC"
    }
 ]

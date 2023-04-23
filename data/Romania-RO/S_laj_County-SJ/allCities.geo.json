@@ -868,6 +868,27 @@
       "longitude": "23.30000000"
    },
    {
+      "name": "Sălăţig",
+      "countryCode": "RO",
+      "stateCode": "SJ",
+      "latitude": "47.36667000",
+      "longitude": "23.13333000"
+   },
+   {
+      "name": "Tihău",
+      "countryCode": "RO",
+      "stateCode": "SJ",
+      "latitude": "47.22724000",
+      "longitude": "23.32964000"
+   },
+   {
+      "name": "Treznea",
+      "countryCode": "RO",
+      "stateCode": "SJ",
+      "latitude": "47.10000000",
+      "longitude": "23.11667000"
+   },
+   {
       "name": "Valcău de Jos",
       "countryCode": "RO",
       "stateCode": "SJ",
@@ -936,26 +957,5 @@
       "stateCode": "SJ",
       "latitude": "47.23202000",
       "longitude": "23.62370000"
-   },
-   {
-      "name": "Sălăţig",
-      "countryCode": "RO",
-      "stateCode": "SJ",
-      "latitude": "47.36667000",
-      "longitude": "23.13333000"
-   },
-   {
-      "name": "Tihău",
-      "countryCode": "RO",
-      "stateCode": "SJ",
-      "latitude": "47.22724000",
-      "longitude": "23.32964000"
-   },
-   {
-      "name": "Treznea",
-      "countryCode": "RO",
-      "stateCode": "SJ",
-      "latitude": "47.10000000",
-      "longitude": "23.11667000"
    }
 ]

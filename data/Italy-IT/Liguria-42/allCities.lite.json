@@ -1,555 +1,5 @@
 [
    {
-      "name": "Pallare",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pedemonte",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Perinaldo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Piana Battolla",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Piana Crixia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Piano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Piano di Follo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Piccarello",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pietra Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pietrabruna",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pieve Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pieve di Teco",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pieve di Zignago",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pigna",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pignone",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pitelli",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Plodio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pompeiana",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pontedassio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pontinvrea",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Pornassio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Portofino",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Portovenere",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Prati",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Prelà Castello",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Propata",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Provincia di Genova",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Provincia di Imperia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Provincia di La Spezia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Provincia di Savona",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Quiliano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rapallo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Recco",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rezzo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rezzoaglio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rialto",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Riccò del Golfo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Riomaggiore",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Riva Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Roccavignale",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rocchetta Nervina",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rocchetta di Vara",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Romito Magra",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Ronco Scrivia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rondanina",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rossi",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rossiglione",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Rovegno",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Bartolomeo al Mare",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Biagio della Cima",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Fedele-Lusignano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Giovanni",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Lorenzo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Lorenzo al Mare",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Pietro d'Olba",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Remo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Salvatore",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "San Terenzo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Santa Margherita Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Santa Marta",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Santo Stefano al Mare",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Santo Stefano d'Aveto",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Santo Stefano di Magra",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sarzana",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sassello",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Savignone",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Savona",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sciarborasca",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Seborga",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Serra Riccò",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sesta Godano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sestri Levante",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Soldano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Sori",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Spotorno",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Stazione-Fornola",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Stellanello",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Taggia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Terzorio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Testico",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Tiglieto",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Toirano",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Torriglia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Tovo San Giacomo",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Tribogna",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Triora",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Urbe",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Uscio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vado Centro",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vado Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Valle di Vado",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vallebona",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vallecrosia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Valleggia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Valzemola",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Varazze",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Varese Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vasia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vendone",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Ventimiglia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vernazza",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vessalico",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vezzano Ligure",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vezzi Portio",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Villa Faraldi",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Villafranca",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Villanova d'Albenga",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Vobbia",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Zoagli",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
-      "name": "Zuccarello",
-      "countryCode": "IT",
-      "stateCode": "42"
-   },
-   {
       "name": "Airole",
       "countryCode": "IT",
       "stateCode": "42"
@@ -1381,6 +831,556 @@
    },
    {
       "name": "Padivarma",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pallare",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pedemonte",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Perinaldo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Piana Battolla",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Piana Crixia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Piano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Piano di Follo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Piccarello",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pietra Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pietrabruna",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pieve Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pieve di Teco",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pieve di Zignago",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pigna",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pignone",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pitelli",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Plodio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pompeiana",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pontedassio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pontinvrea",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Pornassio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Portofino",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Portovenere",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Prati",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Prelà Castello",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Propata",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Provincia di Genova",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Provincia di Imperia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Provincia di La Spezia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Provincia di Savona",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Quiliano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rapallo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Recco",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rezzo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rezzoaglio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rialto",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Riccò del Golfo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Riomaggiore",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Riva Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Roccavignale",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rocchetta Nervina",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rocchetta di Vara",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Romito Magra",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Ronco Scrivia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rondanina",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rossi",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rossiglione",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Rovegno",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Bartolomeo al Mare",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Biagio della Cima",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Fedele-Lusignano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Giovanni",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Lorenzo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Lorenzo al Mare",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Pietro d'Olba",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Remo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Salvatore",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "San Terenzo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Santa Margherita Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Santa Marta",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Santo Stefano al Mare",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Santo Stefano d'Aveto",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Santo Stefano di Magra",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sarzana",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sassello",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Savignone",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Savona",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sciarborasca",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Seborga",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Serra Riccò",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sesta Godano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sestri Levante",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Soldano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Sori",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Spotorno",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Stazione-Fornola",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Stellanello",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Taggia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Terzorio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Testico",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Tiglieto",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Toirano",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Torriglia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Tovo San Giacomo",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Tribogna",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Triora",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Urbe",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Uscio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vado Centro",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vado Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Valle di Vado",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vallebona",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vallecrosia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Valleggia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Valzemola",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Varazze",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Varese Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vasia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vendone",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Ventimiglia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vernazza",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vessalico",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vezzano Ligure",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vezzi Portio",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Villa Faraldi",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Villafranca",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Villanova d'Albenga",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Vobbia",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Zoagli",
+      "countryCode": "IT",
+      "stateCode": "42"
+   },
+   {
+      "name": "Zuccarello",
       "countryCode": "IT",
       "stateCode": "42"
    }

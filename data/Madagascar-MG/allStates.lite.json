@@ -1,12 +1,7 @@
 [
    {
-      "name": "Fianarantsoa Province",
-      "isoCode": "F",
-      "countryCode": "MG"
-   },
-   {
-      "name": "Toliara Province",
-      "isoCode": "U",
+      "name": "Toamasina Province",
+      "isoCode": "A",
       "countryCode": "MG"
    },
    {
@@ -15,18 +10,23 @@
       "countryCode": "MG"
    },
    {
-      "name": "Antananarivo Province",
-      "isoCode": "T",
-      "countryCode": "MG"
-   },
-   {
-      "name": "Toamasina Province",
-      "isoCode": "A",
+      "name": "Fianarantsoa Province",
+      "isoCode": "F",
       "countryCode": "MG"
    },
    {
       "name": "Mahajanga Province",
       "isoCode": "M",
+      "countryCode": "MG"
+   },
+   {
+      "name": "Antananarivo Province",
+      "isoCode": "T",
+      "countryCode": "MG"
+   },
+   {
+      "name": "Toliara Province",
+      "isoCode": "U",
       "countryCode": "MG"
    }
 ]

@@ -1,12 +1,37 @@
 [
    {
-      "name": "Schleswig-Holstein",
-      "isoCode": "SH",
+      "name": "Brandenburg",
+      "isoCode": "BB",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Berlin",
+      "isoCode": "BE",
       "countryCode": "DE"
    },
    {
       "name": "Baden-Württemberg",
       "isoCode": "BW",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Bavaria",
+      "isoCode": "BY",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Bremen",
+      "isoCode": "HB",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Hesse",
+      "isoCode": "HE",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Hamburg",
+      "isoCode": "HH",
       "countryCode": "DE"
    },
    {
@@ -20,53 +45,18 @@
       "countryCode": "DE"
    },
    {
-      "name": "Bavaria",
-      "isoCode": "BY",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Berlin",
-      "isoCode": "BE",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Saxony-Anhalt",
-      "isoCode": "ST",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Brandenburg",
-      "isoCode": "BB",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Bremen",
-      "isoCode": "HB",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Thuringia",
-      "isoCode": "TH",
-      "countryCode": "DE"
-   },
-   {
-      "name": "Hamburg",
-      "isoCode": "HH",
-      "countryCode": "DE"
-   },
-   {
       "name": "North Rhine-Westphalia",
       "isoCode": "NW",
       "countryCode": "DE"
    },
    {
-      "name": "Hesse",
-      "isoCode": "HE",
+      "name": "Rhineland-Palatinate",
+      "isoCode": "RP",
       "countryCode": "DE"
    },
    {
-      "name": "Rhineland-Palatinate",
-      "isoCode": "RP",
+      "name": "Schleswig-Holstein",
+      "isoCode": "SH",
       "countryCode": "DE"
    },
    {
@@ -77,6 +67,16 @@
    {
       "name": "Saxony",
       "isoCode": "SN",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Saxony-Anhalt",
+      "isoCode": "ST",
+      "countryCode": "DE"
+   },
+   {
+      "name": "Thuringia",
+      "isoCode": "TH",
       "countryCode": "DE"
    }
 ]

@@ -924,6 +924,41 @@
       "longitude": "25.88333000"
    },
    {
+      "name": "Sântimbru",
+      "countryCode": "RO",
+      "stateCode": "HR",
+      "latitude": "46.28126000",
+      "longitude": "25.85439000"
+   },
+   {
+      "name": "Săcel",
+      "countryCode": "RO",
+      "stateCode": "HR",
+      "latitude": "46.30000000",
+      "longitude": "24.93333000"
+   },
+   {
+      "name": "Sărmaş",
+      "countryCode": "RO",
+      "stateCode": "HR",
+      "latitude": "46.88333000",
+      "longitude": "25.46667000"
+   },
+   {
+      "name": "Tomești",
+      "countryCode": "RO",
+      "stateCode": "HR",
+      "latitude": "46.55617000",
+      "longitude": "25.77922000"
+   },
+   {
+      "name": "Tulgheş",
+      "countryCode": "RO",
+      "stateCode": "HR",
+      "latitude": "46.95000000",
+      "longitude": "25.76667000"
+   },
+   {
       "name": "Tuşnad",
       "countryCode": "RO",
       "stateCode": "HR",
@@ -999,40 +1034,5 @@
       "stateCode": "HR",
       "latitude": "46.38333000",
       "longitude": "25.36667000"
-   },
-   {
-      "name": "Sântimbru",
-      "countryCode": "RO",
-      "stateCode": "HR",
-      "latitude": "46.28126000",
-      "longitude": "25.85439000"
-   },
-   {
-      "name": "Săcel",
-      "countryCode": "RO",
-      "stateCode": "HR",
-      "latitude": "46.30000000",
-      "longitude": "24.93333000"
-   },
-   {
-      "name": "Sărmaş",
-      "countryCode": "RO",
-      "stateCode": "HR",
-      "latitude": "46.88333000",
-      "longitude": "25.46667000"
-   },
-   {
-      "name": "Tomești",
-      "countryCode": "RO",
-      "stateCode": "HR",
-      "latitude": "46.55617000",
-      "longitude": "25.77922000"
-   },
-   {
-      "name": "Tulgheş",
-      "countryCode": "RO",
-      "stateCode": "HR",
-      "latitude": "46.95000000",
-      "longitude": "25.76667000"
    }
 ]

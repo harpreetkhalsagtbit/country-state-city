@@ -1,17 +1,10 @@
 [
    {
-      "name": "Hiran",
-      "isoCode": "HI",
+      "name": "Awdal Region",
+      "isoCode": "AW",
       "countryCode": "SO",
-      "latitude": "4.32101500",
-      "longitude": "45.29938620"
-   },
-   {
-      "name": "Mudug",
-      "isoCode": "MU",
-      "countryCode": "SO",
-      "latitude": "6.56567260",
-      "longitude": "47.76375650"
+      "latitude": "10.63342850",
+      "longitude": "43.32946600"
    },
    {
       "name": "Bakool",
@@ -21,6 +14,27 @@
       "longitude": "44.09603110"
    },
    {
+      "name": "Banaadir",
+      "isoCode": "BN",
+      "countryCode": "SO",
+      "latitude": "2.11873750",
+      "longitude": "45.33694590"
+   },
+   {
+      "name": "Bari",
+      "isoCode": "BR",
+      "countryCode": "SO",
+      "latitude": "41.11714320",
+      "longitude": "16.87187150"
+   },
+   {
+      "name": "Bay",
+      "isoCode": "BY",
+      "countryCode": "SO",
+      "latitude": "37.03655340",
+      "longitude": "-95.61747670"
+   },
+   {
       "name": "Galguduud",
       "isoCode": "GA",
       "countryCode": "SO",
@@ -28,10 +42,38 @@
       "longitude": "46.82528380"
    },
    {
-      "name": "Sanaag Region",
-      "isoCode": "SA",
+      "name": "Gedo",
+      "isoCode": "GE",
       "countryCode": "SO",
-      "latitude": "10.39382180",
+      "latitude": "3.50392270",
+      "longitude": "42.23624350"
+   },
+   {
+      "name": "Hiran",
+      "isoCode": "HI",
+      "countryCode": "SO",
+      "latitude": "4.32101500",
+      "longitude": "45.29938620"
+   },
+   {
+      "name": "Middle Juba",
+      "isoCode": "JD",
+      "countryCode": "SO",
+      "latitude": "2.07804880",
+      "longitude": "41.60118140"
+   },
+   {
+      "name": "Lower Juba",
+      "isoCode": "JH",
+      "countryCode": "SO",
+      "latitude": "0.22402100",
+      "longitude": "41.60118140"
+   },
+   {
+      "name": "Mudug",
+      "isoCode": "MU",
+      "countryCode": "SO",
+      "latitude": "6.56567260",
       "longitude": "47.76375650"
    },
    {
@@ -42,18 +84,11 @@
       "longitude": "17.03392050"
    },
    {
-      "name": "Lower Shebelle",
-      "isoCode": "SH",
+      "name": "Sanaag Region",
+      "isoCode": "SA",
       "countryCode": "SO",
-      "latitude": "1.87664580",
-      "longitude": "44.24790150"
-   },
-   {
-      "name": "Middle Juba",
-      "isoCode": "JD",
-      "countryCode": "SO",
-      "latitude": "2.07804880",
-      "longitude": "41.60118140"
+      "latitude": "10.39382180",
+      "longitude": "47.76375650"
    },
    {
       "name": "Middle Shebelle",
@@ -63,39 +98,11 @@
       "longitude": "45.90396890"
    },
    {
-      "name": "Lower Juba",
-      "isoCode": "JH",
+      "name": "Lower Shebelle",
+      "isoCode": "SH",
       "countryCode": "SO",
-      "latitude": "0.22402100",
-      "longitude": "41.60118140"
-   },
-   {
-      "name": "Awdal Region",
-      "isoCode": "AW",
-      "countryCode": "SO",
-      "latitude": "10.63342850",
-      "longitude": "43.32946600"
-   },
-   {
-      "name": "Bay",
-      "isoCode": "BY",
-      "countryCode": "SO",
-      "latitude": "37.03655340",
-      "longitude": "-95.61747670"
-   },
-   {
-      "name": "Banaadir",
-      "isoCode": "BN",
-      "countryCode": "SO",
-      "latitude": "2.11873750",
-      "longitude": "45.33694590"
-   },
-   {
-      "name": "Gedo",
-      "isoCode": "GE",
-      "countryCode": "SO",
-      "latitude": "3.50392270",
-      "longitude": "42.23624350"
+      "latitude": "1.87664580",
+      "longitude": "44.24790150"
    },
    {
       "name": "Togdheer Region",
@@ -103,12 +110,5 @@
       "countryCode": "SO",
       "latitude": "9.44605870",
       "longitude": "45.29938620"
-   },
-   {
-      "name": "Bari",
-      "isoCode": "BR",
-      "countryCode": "SO",
-      "latitude": "41.11714320",
-      "longitude": "16.87187150"
    }
 ]

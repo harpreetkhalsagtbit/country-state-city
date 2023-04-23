@@ -7,18 +7,18 @@
       "longitude": "82.42641000"
    },
    {
-      "name": "Ambikapur",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "23.11892000",
-      "longitude": "83.19537000"
-   },
-   {
       "name": "Ambagarh Chauki",
       "countryCode": "IN",
       "stateCode": "CT",
       "latitude": "20.77644000",
       "longitude": "80.74608000"
+   },
+   {
+      "name": "Ambikapur",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "23.11892000",
+      "longitude": "83.19537000"
    },
    {
       "name": "Arang",
@@ -77,20 +77,6 @@
       "longitude": "81.53423000"
    },
    {
-      "name": "Bhatgaon",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "21.15000000",
-      "longitude": "81.70000000"
-   },
-   {
-      "name": "Bhilai",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "21.20919000",
-      "longitude": "81.42850000"
-   },
-   {
       "name": "Bhanpuri",
       "countryCode": "IN",
       "stateCode": "CT",
@@ -103,6 +89,20 @@
       "stateCode": "CT",
       "latitude": "21.73500000",
       "longitude": "81.94711000"
+   },
+   {
+      "name": "Bhatgaon",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "21.15000000",
+      "longitude": "81.70000000"
+   },
+   {
+      "name": "Bhilai",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "21.20919000",
+      "longitude": "81.42850000"
    },
    {
       "name": "Bijapur",
@@ -119,18 +119,18 @@
       "longitude": "82.13333000"
    },
    {
-      "name": "Chhuikhadan",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "21.52316000",
-      "longitude": "80.99788000"
-   },
-   {
       "name": "Champa",
       "countryCode": "IN",
       "stateCode": "CT",
       "latitude": "22.03532000",
       "longitude": "82.64234000"
+   },
+   {
+      "name": "Chhuikhadan",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "21.52316000",
+      "longitude": "80.99788000"
    },
    {
       "name": "Deori",
@@ -210,6 +210,13 @@
       "longitude": "82.02131000"
    },
    {
+      "name": "Janjgir",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "22.00922000",
+      "longitude": "82.57780000"
+   },
+   {
       "name": "Janjgir-Champa",
       "countryCode": "IN",
       "stateCode": "CT",
@@ -231,13 +238,6 @@
       "longitude": "84.13864000"
    },
    {
-      "name": "Janjgir",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "22.00922000",
-      "longitude": "82.57780000"
-   },
-   {
       "name": "Junagarh",
       "countryCode": "IN",
       "stateCode": "CT",
@@ -250,6 +250,13 @@
       "stateCode": "CT",
       "latitude": "22.10000000",
       "longitude": "81.20000000"
+   },
+   {
+      "name": "Kanker",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "20.27193000",
+      "longitude": "81.49177000"
    },
    {
       "name": "Katghora",
@@ -322,18 +329,18 @@
       "longitude": "82.15037000"
    },
    {
-      "name": "Kotaparh",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "19.14256000",
-      "longitude": "82.32536000"
-   },
-   {
       "name": "Kota",
       "countryCode": "IN",
       "stateCode": "CT",
       "latitude": "22.29507000",
       "longitude": "82.02366000"
+   },
+   {
+      "name": "Kotaparh",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "19.14256000",
+      "longitude": "82.32536000"
    },
    {
       "name": "Kumhari",
@@ -348,13 +355,6 @@
       "stateCode": "CT",
       "latitude": "20.83073000",
       "longitude": "81.72212000"
-   },
-   {
-      "name": "Kanker",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "20.27193000",
-      "longitude": "81.49177000"
    },
    {
       "name": "Lormi",
@@ -399,11 +399,25 @@
       "longitude": "81.40994000"
    },
    {
+      "name": "Pandatarai",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "22.18714000",
+      "longitude": "81.32815000"
+   },
+   {
       "name": "Pasan",
       "countryCode": "IN",
       "stateCode": "CT",
       "latitude": "22.84412000",
       "longitude": "82.19823000"
+   },
+   {
+      "name": "Patan",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "21.03333000",
+      "longitude": "81.53333000"
    },
    {
       "name": "Pathalgaon",
@@ -427,20 +441,6 @@
       "longitude": "82.51707000"
    },
    {
-      "name": "Pandatarai",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "22.18714000",
-      "longitude": "81.32815000"
-   },
-   {
-      "name": "Patan",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "21.03333000",
-      "longitude": "81.53333000"
-   },
-   {
       "name": "Raigarh",
       "countryCode": "IN",
       "stateCode": "CT",
@@ -453,13 +453,6 @@
       "stateCode": "CT",
       "latitude": "21.25621000",
       "longitude": "81.69022000"
-   },
-   {
-      "name": "Ratanpur",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "22.28660000",
-      "longitude": "82.16823000"
    },
    {
       "name": "Raj Nandgaon",
@@ -483,6 +476,13 @@
       "longitude": "83.69981000"
    },
    {
+      "name": "Ratanpur",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "22.28660000",
+      "longitude": "82.16823000"
+   },
+   {
       "name": "Sakti",
       "countryCode": "IN",
       "stateCode": "CT",
@@ -495,6 +495,13 @@
       "stateCode": "CT",
       "latitude": "21.31530000",
       "longitude": "83.00629000"
+   },
+   {
+      "name": "Sarangarh",
+      "countryCode": "IN",
+      "stateCode": "CT",
+      "latitude": "21.58614000",
+      "longitude": "83.07850000"
    },
    {
       "name": "Seorinarayan",
@@ -516,13 +523,6 @@
       "stateCode": "CT",
       "latitude": "22.89624000",
       "longitude": "83.09631000"
-   },
-   {
-      "name": "Sarangarh",
-      "countryCode": "IN",
-      "stateCode": "CT",
-      "latitude": "21.58614000",
-      "longitude": "83.07850000"
    },
    {
       "name": "Takhatpur",

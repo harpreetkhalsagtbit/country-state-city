@@ -14,6 +14,13 @@
       "longitude": "91.65879000"
    },
    {
+      "name": "Ambasa",
+      "countryCode": "IN",
+      "stateCode": "TR",
+      "latitude": "23.93600000",
+      "longitude": "91.85436000"
+   },
+   {
       "name": "Barjala",
       "countryCode": "IN",
       "stateCode": "TR",
@@ -124,12 +131,5 @@
       "stateCode": "TR",
       "latitude": "23.91667000",
       "longitude": "91.50000000"
-   },
-   {
-      "name": "Ambasa",
-      "countryCode": "IN",
-      "stateCode": "TR",
-      "latitude": "23.93600000",
-      "longitude": "91.85436000"
    }
 ]

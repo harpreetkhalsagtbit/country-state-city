@@ -40,6 +40,11 @@
       "stateCode": "ANT"
    },
    {
+      "name": "Anorí",
+      "countryCode": "CO",
+      "stateCode": "ANT"
+   },
+   {
       "name": "Anza",
       "countryCode": "CO",
       "stateCode": "ANT"
@@ -130,11 +135,6 @@
       "stateCode": "ANT"
    },
    {
-      "name": "El Carmen de Viboral",
-      "countryCode": "CO",
-      "stateCode": "ANT"
-   },
-   {
       "name": "Carolina",
       "countryCode": "CO",
       "stateCode": "ANT"
@@ -185,11 +185,6 @@
       "stateCode": "ANT"
    },
    {
-      "name": "Anorí",
-      "countryCode": "CO",
-      "stateCode": "ANT"
-   },
-   {
       "name": "Cáceres",
       "countryCode": "CO",
       "stateCode": "ANT"
@@ -211,6 +206,16 @@
    },
    {
       "name": "El Bagre",
+      "countryCode": "CO",
+      "stateCode": "ANT"
+   },
+   {
+      "name": "El Carmen de Viboral",
+      "countryCode": "CO",
+      "stateCode": "ANT"
+   },
+   {
+      "name": "El Santuario",
       "countryCode": "CO",
       "stateCode": "ANT"
    },
@@ -345,11 +350,6 @@
       "stateCode": "ANT"
    },
    {
-      "name": "San Pedro de los Milagros",
-      "countryCode": "CO",
-      "stateCode": "ANT"
-   },
-   {
       "name": "Murindó",
       "countryCode": "CO",
       "stateCode": "ANT"
@@ -470,7 +470,17 @@
       "stateCode": "ANT"
    },
    {
+      "name": "San Luis",
+      "countryCode": "CO",
+      "stateCode": "ANT"
+   },
+   {
       "name": "San Pedro de Uraba",
+      "countryCode": "CO",
+      "stateCode": "ANT"
+   },
+   {
+      "name": "San Pedro de los Milagros",
       "countryCode": "CO",
       "stateCode": "ANT"
    },
@@ -506,11 +516,6 @@
    },
    {
       "name": "Santo Domingo",
-      "countryCode": "CO",
-      "stateCode": "ANT"
-   },
-   {
-      "name": "El Santuario",
       "countryCode": "CO",
       "stateCode": "ANT"
    },
@@ -616,11 +621,6 @@
    },
    {
       "name": "Zaragoza",
-      "countryCode": "CO",
-      "stateCode": "ANT"
-   },
-   {
-      "name": "San Luis",
       "countryCode": "CO",
       "stateCode": "ANT"
    }

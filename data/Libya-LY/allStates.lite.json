@@ -1,27 +1,7 @@
 [
    {
-      "name": "Murqub",
-      "isoCode": "MB",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Nuqat al Khams",
-      "isoCode": "NQ",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Zawiya District",
-      "isoCode": "ZA",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Al Wahat District",
-      "isoCode": "WA",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Sabha District",
-      "isoCode": "SB",
+      "name": "Benghazi",
+      "isoCode": "BA",
       "countryCode": "LY"
    },
    {
@@ -30,68 +10,8 @@
       "countryCode": "LY"
    },
    {
-      "name": "Murzuq District",
-      "isoCode": "MQ",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Marj District",
-      "isoCode": "MJ",
-      "countryCode": "LY"
-   },
-   {
       "name": "Ghat District",
       "isoCode": "GT",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Jufra",
-      "isoCode": "JU",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Tripoli District",
-      "isoCode": "TB",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Kufra District",
-      "isoCode": "KF",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Wadi al Hayaa District",
-      "isoCode": "WD",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Jabal al Gharbi District",
-      "isoCode": "JG",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Wadi al Shatii District",
-      "isoCode": "WS",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Nalut District",
-      "isoCode": "NL",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Sirte District",
-      "isoCode": "SR",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Misrata District",
-      "isoCode": "MI",
-      "countryCode": "LY"
-   },
-   {
-      "name": "Jafara",
-      "isoCode": "JI",
       "countryCode": "LY"
    },
    {
@@ -100,8 +20,88 @@
       "countryCode": "LY"
    },
    {
-      "name": "Benghazi",
-      "isoCode": "BA",
+      "name": "Jabal al Gharbi District",
+      "isoCode": "JG",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Jafara",
+      "isoCode": "JI",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Jufra",
+      "isoCode": "JU",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Kufra District",
+      "isoCode": "KF",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Murqub",
+      "isoCode": "MB",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Misrata District",
+      "isoCode": "MI",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Marj District",
+      "isoCode": "MJ",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Murzuq District",
+      "isoCode": "MQ",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Nalut District",
+      "isoCode": "NL",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Nuqat al Khams",
+      "isoCode": "NQ",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Sabha District",
+      "isoCode": "SB",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Sirte District",
+      "isoCode": "SR",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Tripoli District",
+      "isoCode": "TB",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Al Wahat District",
+      "isoCode": "WA",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Wadi al Hayaa District",
+      "isoCode": "WD",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Wadi al Shatii District",
+      "isoCode": "WS",
+      "countryCode": "LY"
+   },
+   {
+      "name": "Zawiya District",
+      "isoCode": "ZA",
       "countryCode": "LY"
    }
 ]

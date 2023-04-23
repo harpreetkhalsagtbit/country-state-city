@@ -1,17 +1,17 @@
 [
    {
-      "name": "Cabo Delgado Province",
-      "isoCode": "P",
+      "name": "Niassa Province",
+      "isoCode": "A",
       "countryCode": "MZ",
-      "latitude": "-12.33354740",
-      "longitude": "39.32062410"
+      "latitude": "-12.78262020",
+      "longitude": "36.60939260"
    },
    {
-      "name": "Zambezia Province",
-      "isoCode": "Q",
+      "name": "Manica Province",
+      "isoCode": "B",
       "countryCode": "MZ",
-      "latitude": "-16.56389870",
-      "longitude": "36.60939260"
+      "latitude": "-19.50597870",
+      "longitude": "33.43835300"
    },
    {
       "name": "Gaza Province",
@@ -28,32 +28,11 @@
       "longitude": "34.55087580"
    },
    {
-      "name": "Sofala Province",
-      "isoCode": "S",
-      "countryCode": "MZ",
-      "latitude": "-19.20390730",
-      "longitude": "34.86241660"
-   },
-   {
       "name": "Maputo Province",
       "isoCode": "L",
       "countryCode": "MZ",
       "latitude": "-25.25698760",
       "longitude": "32.53727410"
-   },
-   {
-      "name": "Niassa Province",
-      "isoCode": "A",
-      "countryCode": "MZ",
-      "latitude": "-12.78262020",
-      "longitude": "36.60939260"
-   },
-   {
-      "name": "Tete Province",
-      "isoCode": "T",
-      "countryCode": "MZ",
-      "latitude": "-15.65960560",
-      "longitude": "32.71813750"
    },
    {
       "name": "Maputo",
@@ -70,10 +49,31 @@
       "longitude": "39.32062410"
    },
    {
-      "name": "Manica Province",
-      "isoCode": "B",
+      "name": "Cabo Delgado Province",
+      "isoCode": "P",
       "countryCode": "MZ",
-      "latitude": "-19.50597870",
-      "longitude": "33.43835300"
+      "latitude": "-12.33354740",
+      "longitude": "39.32062410"
+   },
+   {
+      "name": "Zambezia Province",
+      "isoCode": "Q",
+      "countryCode": "MZ",
+      "latitude": "-16.56389870",
+      "longitude": "36.60939260"
+   },
+   {
+      "name": "Sofala Province",
+      "isoCode": "S",
+      "countryCode": "MZ",
+      "latitude": "-19.20390730",
+      "longitude": "34.86241660"
+   },
+   {
+      "name": "Tete Province",
+      "isoCode": "T",
+      "countryCode": "MZ",
+      "latitude": "-15.65960560",
+      "longitude": "32.71813750"
    }
 ]

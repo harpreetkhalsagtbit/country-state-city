@@ -1,12 +1,12 @@
 [
    {
-      "name": "Darién Province",
-      "isoCode": "5",
+      "name": "Bocas del Toro Province",
+      "isoCode": "1",
       "countryCode": "PA"
    },
    {
-      "name": "Colón Province",
-      "isoCode": "3",
+      "name": "Panamá Oeste Province",
+      "isoCode": "10",
       "countryCode": "PA"
    },
    {
@@ -15,8 +15,18 @@
       "countryCode": "PA"
    },
    {
-      "name": "Guna Yala",
-      "isoCode": "KY",
+      "name": "Colón Province",
+      "isoCode": "3",
+      "countryCode": "PA"
+   },
+   {
+      "name": "Chiriquí Province",
+      "isoCode": "4",
+      "countryCode": "PA"
+   },
+   {
+      "name": "Darién Province",
+      "isoCode": "5",
       "countryCode": "PA"
    },
    {
@@ -30,8 +40,8 @@
       "countryCode": "PA"
    },
    {
-      "name": "Ngöbe-Buglé Comarca",
-      "isoCode": "NB",
+      "name": "Panamá Province",
+      "isoCode": "8",
       "countryCode": "PA"
    },
    {
@@ -40,28 +50,18 @@
       "countryCode": "PA"
    },
    {
-      "name": "Bocas del Toro Province",
-      "isoCode": "1",
-      "countryCode": "PA"
-   },
-   {
-      "name": "Panamá Oeste Province",
-      "isoCode": "10",
-      "countryCode": "PA"
-   },
-   {
-      "name": "Panamá Province",
-      "isoCode": "8",
-      "countryCode": "PA"
-   },
-   {
       "name": "Emberá-Wounaan Comarca",
       "isoCode": "EM",
       "countryCode": "PA"
    },
    {
-      "name": "Chiriquí Province",
-      "isoCode": "4",
+      "name": "Guna Yala",
+      "isoCode": "KY",
+      "countryCode": "PA"
+   },
+   {
+      "name": "Ngöbe-Buglé Comarca",
+      "isoCode": "NB",
       "countryCode": "PA"
    }
 ]

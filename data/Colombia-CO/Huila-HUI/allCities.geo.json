@@ -105,6 +105,13 @@
       "longitude": "-76.21583333"
    },
    {
+      "name": "La Argentina",
+      "countryCode": "CO",
+      "stateCode": "HUI",
+      "latitude": "2.19755555",
+      "longitude": "-75.98888888"
+   },
+   {
       "name": "La Plata",
       "countryCode": "CO",
       "stateCode": "HUI",
@@ -250,12 +257,5 @@
       "stateCode": "HUI",
       "latitude": "2.66361111",
       "longitude": "-75.51750000"
-   },
-   {
-      "name": "La Argentina",
-      "countryCode": "CO",
-      "stateCode": "HUI",
-      "latitude": "2.19755555",
-      "longitude": "-75.98888888"
    }
 ]

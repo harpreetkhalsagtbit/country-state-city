@@ -1,32 +1,7 @@
 [
    {
-      "name": "Bié Province",
-      "isoCode": "BIE",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Huambo Province",
-      "isoCode": "HUA",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Zaire Province",
-      "isoCode": "ZAI",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Cunene Province",
-      "isoCode": "CNN",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Cuanza Sul",
-      "isoCode": "CUS",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Cuanza Norte Province",
-      "isoCode": "CNO",
+      "name": "Bengo Province",
+      "isoCode": "BGO",
       "countryCode": "AO"
    },
    {
@@ -35,38 +10,13 @@
       "countryCode": "AO"
    },
    {
-      "name": "Moxico Province",
-      "isoCode": "MOX",
+      "name": "Bié Province",
+      "isoCode": "BIE",
       "countryCode": "AO"
    },
    {
-      "name": "Lunda Sul Province",
-      "isoCode": "LSU",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Bengo Province",
-      "isoCode": "BGO",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Luanda Province",
-      "isoCode": "LUA",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Lunda Norte Province",
-      "isoCode": "LNO",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Uíge Province",
-      "isoCode": "UIG",
-      "countryCode": "AO"
-   },
-   {
-      "name": "Huíla Province",
-      "isoCode": "HUI",
+      "name": "Cabinda Province",
+      "isoCode": "CAB",
       "countryCode": "AO"
    },
    {
@@ -75,13 +25,63 @@
       "countryCode": "AO"
    },
    {
+      "name": "Cunene Province",
+      "isoCode": "CNN",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Cuanza Norte Province",
+      "isoCode": "CNO",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Cuanza Sul",
+      "isoCode": "CUS",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Huambo Province",
+      "isoCode": "HUA",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Huíla Province",
+      "isoCode": "HUI",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Lunda Norte Province",
+      "isoCode": "LNO",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Lunda Sul Province",
+      "isoCode": "LSU",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Luanda Province",
+      "isoCode": "LUA",
+      "countryCode": "AO"
+   },
+   {
       "name": "Malanje Province",
       "isoCode": "MAL",
       "countryCode": "AO"
    },
    {
-      "name": "Cabinda Province",
-      "isoCode": "CAB",
+      "name": "Moxico Province",
+      "isoCode": "MOX",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Uíge Province",
+      "isoCode": "UIG",
+      "countryCode": "AO"
+   },
+   {
+      "name": "Zaire Province",
+      "isoCode": "ZAI",
       "countryCode": "AO"
    }
 ]

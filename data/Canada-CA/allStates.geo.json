@@ -1,10 +1,17 @@
 [
    {
-      "name": "Ontario",
-      "isoCode": "ON",
+      "name": "Alberta",
+      "isoCode": "AB",
       "countryCode": "CA",
-      "latitude": "51.25377500",
-      "longitude": "-85.32321400"
+      "latitude": "53.93327060",
+      "longitude": "-116.57650350"
+   },
+   {
+      "name": "British Columbia",
+      "isoCode": "BC",
+      "countryCode": "CA",
+      "latitude": "53.72666830",
+      "longitude": "-127.64762050"
    },
    {
       "name": "Manitoba",
@@ -21,39 +28,11 @@
       "longitude": "-66.46191640"
    },
    {
-      "name": "Yukon",
-      "isoCode": "YT",
+      "name": "Newfoundland and Labrador",
+      "isoCode": "NL",
       "countryCode": "CA",
-      "latitude": "35.50672150",
-      "longitude": "-97.76254410"
-   },
-   {
-      "name": "Saskatchewan",
-      "isoCode": "SK",
-      "countryCode": "CA",
-      "latitude": "52.93991590",
-      "longitude": "-106.45086390"
-   },
-   {
-      "name": "Prince Edward Island",
-      "isoCode": "PE",
-      "countryCode": "CA",
-      "latitude": "46.51071200",
-      "longitude": "-63.41681360"
-   },
-   {
-      "name": "Alberta",
-      "isoCode": "AB",
-      "countryCode": "CA",
-      "latitude": "53.93327060",
-      "longitude": "-116.57650350"
-   },
-   {
-      "name": "Quebec",
-      "isoCode": "QC",
-      "countryCode": "CA",
-      "latitude": "52.93991590",
-      "longitude": "-73.54913610"
+      "latitude": "53.13550910",
+      "longitude": "-57.66043640"
    },
    {
       "name": "Nova Scotia",
@@ -63,11 +42,11 @@
       "longitude": "-63.74431100"
    },
    {
-      "name": "British Columbia",
-      "isoCode": "BC",
+      "name": "Northwest Territories",
+      "isoCode": "NT",
       "countryCode": "CA",
-      "latitude": "53.72666830",
-      "longitude": "-127.64762050"
+      "latitude": "64.82554410",
+      "longitude": "-124.84573340"
    },
    {
       "name": "Nunavut",
@@ -77,17 +56,38 @@
       "longitude": "-83.10757700"
    },
    {
-      "name": "Newfoundland and Labrador",
-      "isoCode": "NL",
+      "name": "Ontario",
+      "isoCode": "ON",
       "countryCode": "CA",
-      "latitude": "53.13550910",
-      "longitude": "-57.66043640"
+      "latitude": "51.25377500",
+      "longitude": "-85.32321400"
    },
    {
-      "name": "Northwest Territories",
-      "isoCode": "NT",
+      "name": "Prince Edward Island",
+      "isoCode": "PE",
       "countryCode": "CA",
-      "latitude": "64.82554410",
-      "longitude": "-124.84573340"
+      "latitude": "46.51071200",
+      "longitude": "-63.41681360"
+   },
+   {
+      "name": "Quebec",
+      "isoCode": "QC",
+      "countryCode": "CA",
+      "latitude": "52.93991590",
+      "longitude": "-73.54913610"
+   },
+   {
+      "name": "Saskatchewan",
+      "isoCode": "SK",
+      "countryCode": "CA",
+      "latitude": "52.93991590",
+      "longitude": "-106.45086390"
+   },
+   {
+      "name": "Yukon",
+      "isoCode": "YT",
+      "countryCode": "CA",
+      "latitude": "35.50672150",
+      "longitude": "-97.76254410"
    }
 ]

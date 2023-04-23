@@ -1,70 +1,5 @@
 [
    {
-      "name": "Cartagena",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "La Ligua",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Limache",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Llaillay",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Los Andes",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Isla de Pascua",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Quillota",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Quilpué",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "San Antonio",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "San Felipe",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Valparaíso",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Villa Alemana",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
-      "name": "Viña del Mar",
-      "countryCode": "CL",
-      "stateCode": "VS"
-   },
-   {
       "name": "Algarrobo",
       "countryCode": "CL",
       "stateCode": "VS"
@@ -76,6 +11,11 @@
    },
    {
       "name": "Calle Larga",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Cartagena",
       "countryCode": "CL",
       "stateCode": "VS"
    },
@@ -110,12 +50,12 @@
       "stateCode": "VS"
    },
    {
-      "name": "Juan Fernández",
+      "name": "Isla de Pascua",
       "countryCode": "CL",
       "stateCode": "VS"
    },
    {
-      "name": "Santo Domingo",
+      "name": "Juan Fernández",
       "countryCode": "CL",
       "stateCode": "VS"
    },
@@ -126,6 +66,26 @@
    },
    {
       "name": "La Cruz",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "La Ligua",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Limache",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Llaillay",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Los Andes",
       "countryCode": "CL",
       "stateCode": "VS"
    },
@@ -165,6 +125,16 @@
       "stateCode": "VS"
    },
    {
+      "name": "Quillota",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Quilpué",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
       "name": "Quintero",
       "countryCode": "CL",
       "stateCode": "VS"
@@ -175,12 +145,42 @@
       "stateCode": "VS"
    },
    {
+      "name": "San Antonio",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
       "name": "San Esteban",
       "countryCode": "CL",
       "stateCode": "VS"
    },
    {
+      "name": "San Felipe",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
       "name": "Santa María",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Santo Domingo",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Valparaíso",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Villa Alemana",
+      "countryCode": "CL",
+      "stateCode": "VS"
+   },
+   {
+      "name": "Viña del Mar",
       "countryCode": "CL",
       "stateCode": "VS"
    },

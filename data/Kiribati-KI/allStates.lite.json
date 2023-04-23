@@ -1,10 +1,5 @@
 [
    {
-      "name": "Phoenix Islands",
-      "isoCode": "P",
-      "countryCode": "KI"
-   },
-   {
       "name": "Gilbert Islands",
       "isoCode": "G",
       "countryCode": "KI"
@@ -12,6 +7,11 @@
    {
       "name": "Line Islands",
       "isoCode": "L",
+      "countryCode": "KI"
+   },
+   {
+      "name": "Phoenix Islands",
+      "isoCode": "P",
       "countryCode": "KI"
    }
 ]

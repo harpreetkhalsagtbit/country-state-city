@@ -1512,6 +1512,55 @@
       "longitude": "25.79829000"
    },
    {
+      "name": "Săcueni",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.91077000",
+      "longitude": "25.57223000"
+   },
+   {
+      "name": "Sălcioara",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.71667000",
+      "longitude": "25.58333000"
+   },
+   {
+      "name": "Sălcuța",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.64374000",
+      "longitude": "25.58103000"
+   },
+   {
+      "name": "Săteni",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.97129000",
+      "longitude": "25.41683000"
+   },
+   {
+      "name": "Teiș",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.96285000",
+      "longitude": "25.40280000"
+   },
+   {
+      "name": "Tețcoiu",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.68188000",
+      "longitude": "25.43846000"
+   },
+   {
+      "name": "Titu",
+      "countryCode": "RO",
+      "stateCode": "DB",
+      "latitude": "44.65000000",
+      "longitude": "25.53333000"
+   },
+   {
       "name": "Târgovişte",
       "countryCode": "RO",
       "stateCode": "DB",
@@ -1720,54 +1769,5 @@
       "stateCode": "DB",
       "latitude": "44.98333000",
       "longitude": "25.36667000"
-   },
-   {
-      "name": "Săcueni",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.91077000",
-      "longitude": "25.57223000"
-   },
-   {
-      "name": "Sălcioara",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.71667000",
-      "longitude": "25.58333000"
-   },
-   {
-      "name": "Sălcuța",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.64374000",
-      "longitude": "25.58103000"
-   },
-   {
-      "name": "Săteni",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.97129000",
-      "longitude": "25.41683000"
-   },
-   {
-      "name": "Teiș",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.96285000",
-      "longitude": "25.40280000"
-   },
-   {
-      "name": "Tețcoiu",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.68188000",
-      "longitude": "25.43846000"
-   },
-   {
-      "name": "Titu",
-      "countryCode": "RO",
-      "stateCode": "DB",
-      "latitude": "44.65000000",
-      "longitude": "25.53333000"
    }
 ]

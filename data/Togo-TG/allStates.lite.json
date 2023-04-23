@@ -5,6 +5,11 @@
       "countryCode": "TG"
    },
    {
+      "name": "Kara Region",
+      "isoCode": "K",
+      "countryCode": "TG"
+   },
+   {
       "name": "Maritime",
       "isoCode": "M",
       "countryCode": "TG"
@@ -17,11 +22,6 @@
    {
       "name": "Savanes Region",
       "isoCode": "S",
-      "countryCode": "TG"
-   },
-   {
-      "name": "Kara Region",
-      "isoCode": "K",
       "countryCode": "TG"
    }
 ]

@@ -1,5 +1,19 @@
 [
    {
+      "name": "Adilabad",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "19.50000000",
+      "longitude": "78.50000000"
+   },
+   {
+      "name": "Alampur",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "15.87987000",
+      "longitude": "78.13352000"
+   },
+   {
       "name": "Andol",
       "countryCode": "IN",
       "stateCode": "TG",
@@ -14,6 +28,20 @@
       "longitude": "79.28415000"
    },
    {
+      "name": "Balapur",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "17.31018000",
+      "longitude": "78.49969000"
+   },
+   {
+      "name": "Banswada",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "18.37725000",
+      "longitude": "77.88007000"
+   },
+   {
       "name": "Bellampalli",
       "countryCode": "IN",
       "stateCode": "TG",
@@ -21,18 +49,18 @@
       "longitude": "79.49300000"
    },
    {
-      "name": "Bhadradri Kothagudem",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "17.55460000",
-      "longitude": "80.61976000"
-   },
-   {
       "name": "Bhadrachalam",
       "countryCode": "IN",
       "stateCode": "TG",
       "latitude": "17.66846000",
       "longitude": "80.88887000"
+   },
+   {
+      "name": "Bhadradri Kothagudem",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "17.55460000",
+      "longitude": "80.61976000"
    },
    {
       "name": "Bhaisa",
@@ -54,20 +82,6 @@
       "stateCode": "TG",
       "latitude": "18.66208000",
       "longitude": "77.88581000"
-   },
-   {
-      "name": "Balapur",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "17.31018000",
-      "longitude": "78.49969000"
-   },
-   {
-      "name": "Banswada",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "18.37725000",
-      "longitude": "77.88007000"
    },
    {
       "name": "Chandur",
@@ -196,6 +210,13 @@
       "longitude": "79.46605000"
    },
    {
+      "name": "Kamareddi",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "18.32001000",
+      "longitude": "78.34177000"
+   },
+   {
       "name": "Kamareddy",
       "countryCode": "IN",
       "stateCode": "TG",
@@ -252,25 +273,18 @@
       "longitude": "79.09430000"
    },
    {
-      "name": "Kyathampalle",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "19.66781000",
-      "longitude": "78.52890000"
-   },
-   {
-      "name": "Kamareddi",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "18.32001000",
-      "longitude": "78.34177000"
-   },
-   {
       "name": "Kukatpalli",
       "countryCode": "IN",
       "stateCode": "TG",
       "latitude": "17.48486000",
       "longitude": "78.41376000"
+   },
+   {
+      "name": "Kyathampalle",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "19.66781000",
+      "longitude": "78.52890000"
    },
    {
       "name": "Lakshettipet",
@@ -364,11 +378,39 @@
       "longitude": "79.56247000"
    },
    {
+      "name": "Nagar Karnul",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "16.48210000",
+      "longitude": "78.32471000"
+   },
+   {
       "name": "Nalgonda",
       "countryCode": "IN",
       "stateCode": "TG",
       "latitude": "17.16667000",
       "longitude": "79.50000000"
+   },
+   {
+      "name": "Narayanpet",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "16.74799000",
+      "longitude": "77.49540000"
+   },
+   {
+      "name": "Narsingi",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "18.04468000",
+      "longitude": "78.42516000"
+   },
+   {
+      "name": "Naspur",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "18.84577000",
+      "longitude": "79.46165000"
    },
    {
       "name": "Nirmal",
@@ -385,32 +427,11 @@
       "longitude": "78.25000000"
    },
    {
-      "name": "Nagar Karnul",
+      "name": "Paloncha",
       "countryCode": "IN",
       "stateCode": "TG",
-      "latitude": "16.48210000",
-      "longitude": "78.32471000"
-   },
-   {
-      "name": "Narsingi",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "18.04468000",
-      "longitude": "78.42516000"
-   },
-   {
-      "name": "Narayanpet",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "16.74799000",
-      "longitude": "77.49540000"
-   },
-   {
-      "name": "Naspur",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "18.84577000",
-      "longitude": "79.46165000"
+      "latitude": "17.60184000",
+      "longitude": "80.70509000"
    },
    {
       "name": "Palwancha",
@@ -434,13 +455,6 @@
       "longitude": "79.37442000"
    },
    {
-      "name": "Paloncha",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "17.60184000",
-      "longitude": "80.70509000"
-   },
-   {
       "name": "Quthbullapur",
       "countryCode": "IN",
       "stateCode": "TG",
@@ -462,18 +476,18 @@
       "longitude": "79.47400000"
    },
    {
-      "name": "Rangareddi",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "17.27883000",
-      "longitude": "78.16844000"
-   },
-   {
       "name": "Ramgundam",
       "countryCode": "IN",
       "stateCode": "TG",
       "latitude": "18.80084000",
       "longitude": "79.45206000"
+   },
+   {
+      "name": "Rangareddi",
+      "countryCode": "IN",
+      "stateCode": "TG",
+      "latitude": "17.27883000",
+      "longitude": "78.16844000"
    },
    {
       "name": "Sadaseopet",
@@ -607,19 +621,5 @@
       "stateCode": "TG",
       "latitude": "17.68138000",
       "longitude": "77.60743000"
-   },
-   {
-      "name": "Adilabad",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "19.50000000",
-      "longitude": "78.50000000"
-   },
-   {
-      "name": "Alampur",
-      "countryCode": "IN",
-      "stateCode": "TG",
-      "latitude": "15.87987000",
-      "longitude": "78.13352000"
    }
 ]

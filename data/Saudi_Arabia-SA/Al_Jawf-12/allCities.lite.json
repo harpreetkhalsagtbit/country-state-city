@@ -1,25 +1,5 @@
 [
    {
-      "name": "Qurayyat",
-      "countryCode": "SA",
-      "stateCode": "12"
-   },
-   {
-      "name": "Sakakah",
-      "countryCode": "SA",
-      "stateCode": "12"
-   },
-   {
-      "name": "Şuwayr",
-      "countryCode": "SA",
-      "stateCode": "12"
-   },
-   {
-      "name": "Ţubarjal",
-      "countryCode": "SA",
-      "stateCode": "12"
-   },
-   {
       "name": "Al Isawiyah",
       "countryCode": "SA",
       "stateCode": "12"
@@ -35,7 +15,27 @@
       "stateCode": "12"
    },
    {
+      "name": "Qurayyat",
+      "countryCode": "SA",
+      "stateCode": "12"
+   },
+   {
+      "name": "Sakakah",
+      "countryCode": "SA",
+      "stateCode": "12"
+   },
+   {
       "name": "Tabarjal",
+      "countryCode": "SA",
+      "stateCode": "12"
+   },
+   {
+      "name": "Şuwayr",
+      "countryCode": "SA",
+      "stateCode": "12"
+   },
+   {
+      "name": "Ţubarjal",
       "countryCode": "SA",
       "stateCode": "12"
    }

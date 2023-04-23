@@ -1,12 +1,7 @@
 [
    {
-      "name": "Vavaʻu",
-      "isoCode": "05",
-      "countryCode": "TO"
-   },
-   {
-      "name": "Tongatapu",
-      "isoCode": "04",
+      "name": "ʻEua",
+      "isoCode": "01",
       "countryCode": "TO"
    },
    {
@@ -20,8 +15,13 @@
       "countryCode": "TO"
    },
    {
-      "name": "ʻEua",
-      "isoCode": "01",
+      "name": "Tongatapu",
+      "isoCode": "04",
+      "countryCode": "TO"
+   },
+   {
+      "name": "Vavaʻu",
+      "isoCode": "05",
       "countryCode": "TO"
    }
 ]

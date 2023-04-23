@@ -1,31 +1,10 @@
 [
    {
-      "name": "Far North",
-      "isoCode": "EN",
+      "name": "Adamawa",
+      "isoCode": "AD",
       "countryCode": "CM",
-      "latitude": "66.76134510",
-      "longitude": "124.12375300"
-   },
-   {
-      "name": "Northwest",
-      "isoCode": "NW",
-      "countryCode": "CM",
-      "latitude": "36.37118570",
-      "longitude": "-94.19346060"
-   },
-   {
-      "name": "Southwest",
-      "isoCode": "SW",
-      "countryCode": "CM",
-      "latitude": "36.19088130",
-      "longitude": "-95.88974480"
-   },
-   {
-      "name": "South",
-      "isoCode": "SU",
-      "countryCode": "CM",
-      "latitude": "37.63159500",
-      "longitude": "-97.34584090"
+      "latitude": "9.32647510",
+      "longitude": "12.39838530"
    },
    {
       "name": "Centre",
@@ -33,6 +12,13 @@
       "countryCode": "CM",
       "latitude": null,
       "longitude": null
+   },
+   {
+      "name": "Far North",
+      "isoCode": "EN",
+      "countryCode": "CM",
+      "latitude": "66.76134510",
+      "longitude": "124.12375300"
    },
    {
       "name": "East",
@@ -49,11 +35,18 @@
       "longitude": "-68.51780710"
    },
    {
-      "name": "Adamawa",
-      "isoCode": "AD",
+      "name": "North",
+      "isoCode": "NO",
       "countryCode": "CM",
-      "latitude": "9.32647510",
-      "longitude": "12.39838530"
+      "latitude": "37.09024000",
+      "longitude": "-95.71289100"
+   },
+   {
+      "name": "Northwest",
+      "isoCode": "NW",
+      "countryCode": "CM",
+      "latitude": "36.37118570",
+      "longitude": "-94.19346060"
    },
    {
       "name": "West",
@@ -63,10 +56,17 @@
       "longitude": "-95.67059870"
    },
    {
-      "name": "North",
-      "isoCode": "NO",
+      "name": "South",
+      "isoCode": "SU",
       "countryCode": "CM",
-      "latitude": "37.09024000",
-      "longitude": "-95.71289100"
+      "latitude": "37.63159500",
+      "longitude": "-97.34584090"
+   },
+   {
+      "name": "Southwest",
+      "isoCode": "SW",
+      "countryCode": "CM",
+      "latitude": "36.19088130",
+      "longitude": "-95.88974480"
    }
 ]

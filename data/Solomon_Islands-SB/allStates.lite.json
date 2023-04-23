@@ -1,22 +1,27 @@
 [
    {
-      "name": "Honiara",
-      "isoCode": "CT",
-      "countryCode": "SB"
-   },
-   {
-      "name": "Temotu Province",
-      "isoCode": "TE",
-      "countryCode": "SB"
-   },
-   {
-      "name": "Isabel Province",
-      "isoCode": "IS",
+      "name": "Central Province",
+      "isoCode": "CE",
       "countryCode": "SB"
    },
    {
       "name": "Choiseul Province",
       "isoCode": "CH",
+      "countryCode": "SB"
+   },
+   {
+      "name": "Honiara",
+      "isoCode": "CT",
+      "countryCode": "SB"
+   },
+   {
+      "name": "Guadalcanal Province",
+      "isoCode": "GU",
+      "countryCode": "SB"
+   },
+   {
+      "name": "Isabel Province",
+      "isoCode": "IS",
       "countryCode": "SB"
    },
    {
@@ -30,23 +35,18 @@
       "countryCode": "SB"
    },
    {
-      "name": "Central Province",
-      "isoCode": "CE",
+      "name": "Rennell and Bellona Province",
+      "isoCode": "RB",
       "countryCode": "SB"
    },
    {
-      "name": "Guadalcanal Province",
-      "isoCode": "GU",
+      "name": "Temotu Province",
+      "isoCode": "TE",
       "countryCode": "SB"
    },
    {
       "name": "Western Province",
       "isoCode": "WE",
-      "countryCode": "SB"
-   },
-   {
-      "name": "Rennell and Bellona Province",
-      "isoCode": "RB",
       "countryCode": "SB"
    }
 ]

@@ -1134,6 +1134,55 @@
       "longitude": "23.75209000"
    },
    {
+      "name": "Sântimbru",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "46.13333000",
+      "longitude": "23.65000000"
+   },
+   {
+      "name": "Sălciua de Sus",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "46.40000000",
+      "longitude": "23.41667000"
+   },
+   {
+      "name": "Săliştea-Deal",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "45.90000000",
+      "longitude": "23.40000000"
+   },
+   {
+      "name": "Săliștea",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "45.90744000",
+      "longitude": "23.39789000"
+   },
+   {
+      "name": "Săsciori",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "45.86667000",
+      "longitude": "23.58333000"
+   },
+   {
+      "name": "Teiuş",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "46.20000000",
+      "longitude": "23.68333000"
+   },
+   {
+      "name": "Tiur",
+      "countryCode": "RO",
+      "stateCode": "AB",
+      "latitude": "46.16009000",
+      "longitude": "23.88927000"
+   },
+   {
       "name": "Uioara de Jos",
       "countryCode": "RO",
       "stateCode": "AB",
@@ -1251,54 +1300,5 @@
       "stateCode": "AB",
       "latitude": "46.15902000",
       "longitude": "23.50099000"
-   },
-   {
-      "name": "Sântimbru",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "46.13333000",
-      "longitude": "23.65000000"
-   },
-   {
-      "name": "Sălciua de Sus",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "46.40000000",
-      "longitude": "23.41667000"
-   },
-   {
-      "name": "Săliştea-Deal",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "45.90000000",
-      "longitude": "23.40000000"
-   },
-   {
-      "name": "Săliștea",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "45.90744000",
-      "longitude": "23.39789000"
-   },
-   {
-      "name": "Săsciori",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "45.86667000",
-      "longitude": "23.58333000"
-   },
-   {
-      "name": "Teiuş",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "46.20000000",
-      "longitude": "23.68333000"
-   },
-   {
-      "name": "Tiur",
-      "countryCode": "RO",
-      "stateCode": "AB",
-      "latitude": "46.16009000",
-      "longitude": "23.88927000"
    }
 ]

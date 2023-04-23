@@ -1,12 +1,5 @@
 [
    {
-      "name": "Lomaiviti",
-      "isoCode": "06",
-      "countryCode": "FJ",
-      "latitude": "-17.70900000",
-      "longitude": "179.09100000"
-   },
-   {
       "name": "Ba",
       "isoCode": "01",
       "countryCode": "FJ",
@@ -14,46 +7,11 @@
       "longitude": "-95.80058720"
    },
    {
-      "name": "Tailevu",
-      "isoCode": "14",
+      "name": "Bua",
+      "isoCode": "02",
       "countryCode": "FJ",
-      "latitude": "-17.82691110",
-      "longitude": "178.29324800"
-   },
-   {
-      "name": "Nadroga-Navosa",
-      "isoCode": "08",
-      "countryCode": "FJ",
-      "latitude": "-17.98652780",
-      "longitude": "177.65811300"
-   },
-   {
-      "name": "Rewa",
-      "isoCode": "12",
-      "countryCode": "FJ",
-      "latitude": "34.79235170",
-      "longitude": "-82.36092640"
-   },
-   {
-      "name": "Northern Division",
-      "isoCode": "N",
-      "countryCode": "FJ",
-      "latitude": "32.87687660",
-      "longitude": "-117.21563450"
-   },
-   {
-      "name": "Macuata",
-      "isoCode": "07",
-      "countryCode": "FJ",
-      "latitude": "-16.48649220",
-      "longitude": "179.28472510"
-   },
-   {
-      "name": "Western Division",
-      "isoCode": "W",
-      "countryCode": "FJ",
-      "latitude": "42.96621980",
-      "longitude": "-78.70211340"
+      "latitude": "43.09645840",
+      "longitude": "-89.50088000"
    },
    {
       "name": "Cakaudrove",
@@ -63,18 +21,39 @@
       "longitude": "179.51200840"
    },
    {
-      "name": "Serua",
-      "isoCode": "13",
+      "name": "Kadavu",
+      "isoCode": "04",
       "countryCode": "FJ",
-      "latitude": "-18.18047490",
-      "longitude": "178.05097900"
+      "latitude": "-19.01271220",
+      "longitude": "178.18766760"
    },
    {
-      "name": "Ra",
-      "isoCode": "11",
+      "name": "Lau",
+      "isoCode": "05",
       "countryCode": "FJ",
-      "latitude": "37.10031530",
-      "longitude": "-95.67442460"
+      "latitude": "31.66870150",
+      "longitude": "-106.39557630"
+   },
+   {
+      "name": "Lomaiviti",
+      "isoCode": "06",
+      "countryCode": "FJ",
+      "latitude": "-17.70900000",
+      "longitude": "179.09100000"
+   },
+   {
+      "name": "Macuata",
+      "isoCode": "07",
+      "countryCode": "FJ",
+      "latitude": "-16.48649220",
+      "longitude": "179.28472510"
+   },
+   {
+      "name": "Nadroga-Navosa",
+      "isoCode": "08",
+      "countryCode": "FJ",
+      "latitude": "-17.98652780",
+      "longitude": "177.65811300"
    },
    {
       "name": "Naitasiri",
@@ -91,25 +70,39 @@
       "longitude": "178.12913870"
    },
    {
+      "name": "Ra",
+      "isoCode": "11",
+      "countryCode": "FJ",
+      "latitude": "37.10031530",
+      "longitude": "-95.67442460"
+   },
+   {
+      "name": "Rewa",
+      "isoCode": "12",
+      "countryCode": "FJ",
+      "latitude": "34.79235170",
+      "longitude": "-82.36092640"
+   },
+   {
+      "name": "Serua",
+      "isoCode": "13",
+      "countryCode": "FJ",
+      "latitude": "-18.18047490",
+      "longitude": "178.05097900"
+   },
+   {
+      "name": "Tailevu",
+      "isoCode": "14",
+      "countryCode": "FJ",
+      "latitude": "-17.82691110",
+      "longitude": "178.29324800"
+   },
+   {
       "name": "Central Division",
       "isoCode": "C",
       "countryCode": "FJ",
       "latitude": "34.04400660",
       "longitude": "-118.24727380"
-   },
-   {
-      "name": "Bua",
-      "isoCode": "02",
-      "countryCode": "FJ",
-      "latitude": "43.09645840",
-      "longitude": "-89.50088000"
-   },
-   {
-      "name": "Rotuma",
-      "isoCode": "R",
-      "countryCode": "FJ",
-      "latitude": "-12.50250690",
-      "longitude": "177.07241640"
    },
    {
       "name": "Eastern Division",
@@ -119,17 +112,24 @@
       "longitude": "-117.12899370"
    },
    {
-      "name": "Lau",
-      "isoCode": "05",
+      "name": "Northern Division",
+      "isoCode": "N",
       "countryCode": "FJ",
-      "latitude": "31.66870150",
-      "longitude": "-106.39557630"
+      "latitude": "32.87687660",
+      "longitude": "-117.21563450"
    },
    {
-      "name": "Kadavu",
-      "isoCode": "04",
+      "name": "Rotuma",
+      "isoCode": "R",
       "countryCode": "FJ",
-      "latitude": "-19.01271220",
-      "longitude": "178.18766760"
+      "latitude": "-12.50250690",
+      "longitude": "177.07241640"
+   },
+   {
+      "name": "Western Division",
+      "isoCode": "W",
+      "countryCode": "FJ",
+      "latitude": "42.96621980",
+      "longitude": "-78.70211340"
    }
 ]

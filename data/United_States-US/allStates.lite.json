@@ -1,292 +1,7 @@
 [
    {
-      "name": "Howland Island",
-      "isoCode": "UM-84",
-      "countryCode": "US"
-   },
-   {
-      "name": "Delaware",
-      "isoCode": "DE",
-      "countryCode": "US"
-   },
-   {
       "name": "Alaska",
       "isoCode": "AK",
-      "countryCode": "US"
-   },
-   {
-      "name": "Maryland",
-      "isoCode": "MD",
-      "countryCode": "US"
-   },
-   {
-      "name": "Baker Island",
-      "isoCode": "UM-81",
-      "countryCode": "US"
-   },
-   {
-      "name": "Kingman Reef",
-      "isoCode": "UM-89",
-      "countryCode": "US"
-   },
-   {
-      "name": "New Hampshire",
-      "isoCode": "NH",
-      "countryCode": "US"
-   },
-   {
-      "name": "Wake Island",
-      "isoCode": "UM-79",
-      "countryCode": "US"
-   },
-   {
-      "name": "Kansas",
-      "isoCode": "KS",
-      "countryCode": "US"
-   },
-   {
-      "name": "Texas",
-      "isoCode": "TX",
-      "countryCode": "US"
-   },
-   {
-      "name": "Nebraska",
-      "isoCode": "NE",
-      "countryCode": "US"
-   },
-   {
-      "name": "Vermont",
-      "isoCode": "VT",
-      "countryCode": "US"
-   },
-   {
-      "name": "Jarvis Island",
-      "isoCode": "UM-86",
-      "countryCode": "US"
-   },
-   {
-      "name": "Hawaii",
-      "isoCode": "HI",
-      "countryCode": "US"
-   },
-   {
-      "name": "Guam",
-      "isoCode": "GU",
-      "countryCode": "US"
-   },
-   {
-      "name": "United States Virgin Islands",
-      "isoCode": "VI",
-      "countryCode": "US"
-   },
-   {
-      "name": "Utah",
-      "isoCode": "UT",
-      "countryCode": "US"
-   },
-   {
-      "name": "Oregon",
-      "isoCode": "OR",
-      "countryCode": "US"
-   },
-   {
-      "name": "California",
-      "isoCode": "CA",
-      "countryCode": "US"
-   },
-   {
-      "name": "New Jersey",
-      "isoCode": "NJ",
-      "countryCode": "US"
-   },
-   {
-      "name": "North Dakota",
-      "isoCode": "ND",
-      "countryCode": "US"
-   },
-   {
-      "name": "Kentucky",
-      "isoCode": "KY",
-      "countryCode": "US"
-   },
-   {
-      "name": "Minnesota",
-      "isoCode": "MN",
-      "countryCode": "US"
-   },
-   {
-      "name": "Oklahoma",
-      "isoCode": "OK",
-      "countryCode": "US"
-   },
-   {
-      "name": "Pennsylvania",
-      "isoCode": "PA",
-      "countryCode": "US"
-   },
-   {
-      "name": "New Mexico",
-      "isoCode": "NM",
-      "countryCode": "US"
-   },
-   {
-      "name": "American Samoa",
-      "isoCode": "AS",
-      "countryCode": "US"
-   },
-   {
-      "name": "Illinois",
-      "isoCode": "IL",
-      "countryCode": "US"
-   },
-   {
-      "name": "Michigan",
-      "isoCode": "MI",
-      "countryCode": "US"
-   },
-   {
-      "name": "Virginia",
-      "isoCode": "VA",
-      "countryCode": "US"
-   },
-   {
-      "name": "Johnston Atoll",
-      "isoCode": "UM-67",
-      "countryCode": "US"
-   },
-   {
-      "name": "West Virginia",
-      "isoCode": "WV",
-      "countryCode": "US"
-   },
-   {
-      "name": "Mississippi",
-      "isoCode": "MS",
-      "countryCode": "US"
-   },
-   {
-      "name": "Northern Mariana Islands",
-      "isoCode": "MP",
-      "countryCode": "US"
-   },
-   {
-      "name": "United States Minor Outlying Islands",
-      "isoCode": "UM",
-      "countryCode": "US"
-   },
-   {
-      "name": "Massachusetts",
-      "isoCode": "MA",
-      "countryCode": "US"
-   },
-   {
-      "name": "Arizona",
-      "isoCode": "AZ",
-      "countryCode": "US"
-   },
-   {
-      "name": "Connecticut",
-      "isoCode": "CT",
-      "countryCode": "US"
-   },
-   {
-      "name": "Florida",
-      "isoCode": "FL",
-      "countryCode": "US"
-   },
-   {
-      "name": "District of Columbia",
-      "isoCode": "DC",
-      "countryCode": "US"
-   },
-   {
-      "name": "Midway Atoll",
-      "isoCode": "UM-71",
-      "countryCode": "US"
-   },
-   {
-      "name": "Navassa Island",
-      "isoCode": "UM-76",
-      "countryCode": "US"
-   },
-   {
-      "name": "Indiana",
-      "isoCode": "IN",
-      "countryCode": "US"
-   },
-   {
-      "name": "Wisconsin",
-      "isoCode": "WI",
-      "countryCode": "US"
-   },
-   {
-      "name": "Wyoming",
-      "isoCode": "WY",
-      "countryCode": "US"
-   },
-   {
-      "name": "South Carolina",
-      "isoCode": "SC",
-      "countryCode": "US"
-   },
-   {
-      "name": "Arkansas",
-      "isoCode": "AR",
-      "countryCode": "US"
-   },
-   {
-      "name": "South Dakota",
-      "isoCode": "SD",
-      "countryCode": "US"
-   },
-   {
-      "name": "Montana",
-      "isoCode": "MT",
-      "countryCode": "US"
-   },
-   {
-      "name": "North Carolina",
-      "isoCode": "NC",
-      "countryCode": "US"
-   },
-   {
-      "name": "Palmyra Atoll",
-      "isoCode": "UM-95",
-      "countryCode": "US"
-   },
-   {
-      "name": "Puerto Rico",
-      "isoCode": "PR",
-      "countryCode": "US"
-   },
-   {
-      "name": "Colorado",
-      "isoCode": "CO",
-      "countryCode": "US"
-   },
-   {
-      "name": "Missouri",
-      "isoCode": "MO",
-      "countryCode": "US"
-   },
-   {
-      "name": "New York",
-      "isoCode": "NY",
-      "countryCode": "US"
-   },
-   {
-      "name": "Maine",
-      "isoCode": "ME",
-      "countryCode": "US"
-   },
-   {
-      "name": "Tennessee",
-      "isoCode": "TN",
-      "countryCode": "US"
-   },
-   {
-      "name": "Georgia",
-      "isoCode": "GA",
       "countryCode": "US"
    },
    {
@@ -295,13 +10,63 @@
       "countryCode": "US"
    },
    {
-      "name": "Louisiana",
-      "isoCode": "LA",
+      "name": "Arkansas",
+      "isoCode": "AR",
       "countryCode": "US"
    },
    {
-      "name": "Nevada",
-      "isoCode": "NV",
+      "name": "American Samoa",
+      "isoCode": "AS",
+      "countryCode": "US"
+   },
+   {
+      "name": "Arizona",
+      "isoCode": "AZ",
+      "countryCode": "US"
+   },
+   {
+      "name": "California",
+      "isoCode": "CA",
+      "countryCode": "US"
+   },
+   {
+      "name": "Colorado",
+      "isoCode": "CO",
+      "countryCode": "US"
+   },
+   {
+      "name": "Connecticut",
+      "isoCode": "CT",
+      "countryCode": "US"
+   },
+   {
+      "name": "District of Columbia",
+      "isoCode": "DC",
+      "countryCode": "US"
+   },
+   {
+      "name": "Delaware",
+      "isoCode": "DE",
+      "countryCode": "US"
+   },
+   {
+      "name": "Florida",
+      "isoCode": "FL",
+      "countryCode": "US"
+   },
+   {
+      "name": "Georgia",
+      "isoCode": "GA",
+      "countryCode": "US"
+   },
+   {
+      "name": "Guam",
+      "isoCode": "GU",
+      "countryCode": "US"
+   },
+   {
+      "name": "Hawaii",
+      "isoCode": "HI",
       "countryCode": "US"
    },
    {
@@ -315,8 +80,233 @@
       "countryCode": "US"
    },
    {
+      "name": "Illinois",
+      "isoCode": "IL",
+      "countryCode": "US"
+   },
+   {
+      "name": "Indiana",
+      "isoCode": "IN",
+      "countryCode": "US"
+   },
+   {
+      "name": "Kansas",
+      "isoCode": "KS",
+      "countryCode": "US"
+   },
+   {
+      "name": "Kentucky",
+      "isoCode": "KY",
+      "countryCode": "US"
+   },
+   {
+      "name": "Louisiana",
+      "isoCode": "LA",
+      "countryCode": "US"
+   },
+   {
+      "name": "Massachusetts",
+      "isoCode": "MA",
+      "countryCode": "US"
+   },
+   {
+      "name": "Maryland",
+      "isoCode": "MD",
+      "countryCode": "US"
+   },
+   {
+      "name": "Maine",
+      "isoCode": "ME",
+      "countryCode": "US"
+   },
+   {
+      "name": "Michigan",
+      "isoCode": "MI",
+      "countryCode": "US"
+   },
+   {
+      "name": "Minnesota",
+      "isoCode": "MN",
+      "countryCode": "US"
+   },
+   {
+      "name": "Missouri",
+      "isoCode": "MO",
+      "countryCode": "US"
+   },
+   {
+      "name": "Northern Mariana Islands",
+      "isoCode": "MP",
+      "countryCode": "US"
+   },
+   {
+      "name": "Mississippi",
+      "isoCode": "MS",
+      "countryCode": "US"
+   },
+   {
+      "name": "Montana",
+      "isoCode": "MT",
+      "countryCode": "US"
+   },
+   {
+      "name": "North Carolina",
+      "isoCode": "NC",
+      "countryCode": "US"
+   },
+   {
+      "name": "North Dakota",
+      "isoCode": "ND",
+      "countryCode": "US"
+   },
+   {
+      "name": "Nebraska",
+      "isoCode": "NE",
+      "countryCode": "US"
+   },
+   {
+      "name": "New Hampshire",
+      "isoCode": "NH",
+      "countryCode": "US"
+   },
+   {
+      "name": "New Jersey",
+      "isoCode": "NJ",
+      "countryCode": "US"
+   },
+   {
+      "name": "New Mexico",
+      "isoCode": "NM",
+      "countryCode": "US"
+   },
+   {
+      "name": "Nevada",
+      "isoCode": "NV",
+      "countryCode": "US"
+   },
+   {
+      "name": "New York",
+      "isoCode": "NY",
+      "countryCode": "US"
+   },
+   {
+      "name": "Ohio",
+      "isoCode": "OH",
+      "countryCode": "US"
+   },
+   {
+      "name": "Oklahoma",
+      "isoCode": "OK",
+      "countryCode": "US"
+   },
+   {
+      "name": "Oregon",
+      "isoCode": "OR",
+      "countryCode": "US"
+   },
+   {
+      "name": "Pennsylvania",
+      "isoCode": "PA",
+      "countryCode": "US"
+   },
+   {
+      "name": "Puerto Rico",
+      "isoCode": "PR",
+      "countryCode": "US"
+   },
+   {
       "name": "Rhode Island",
       "isoCode": "RI",
+      "countryCode": "US"
+   },
+   {
+      "name": "South Carolina",
+      "isoCode": "SC",
+      "countryCode": "US"
+   },
+   {
+      "name": "South Dakota",
+      "isoCode": "SD",
+      "countryCode": "US"
+   },
+   {
+      "name": "Tennessee",
+      "isoCode": "TN",
+      "countryCode": "US"
+   },
+   {
+      "name": "Texas",
+      "isoCode": "TX",
+      "countryCode": "US"
+   },
+   {
+      "name": "United States Minor Outlying Islands",
+      "isoCode": "UM",
+      "countryCode": "US"
+   },
+   {
+      "name": "Johnston Atoll",
+      "isoCode": "UM-67",
+      "countryCode": "US"
+   },
+   {
+      "name": "Midway Atoll",
+      "isoCode": "UM-71",
+      "countryCode": "US"
+   },
+   {
+      "name": "Navassa Island",
+      "isoCode": "UM-76",
+      "countryCode": "US"
+   },
+   {
+      "name": "Wake Island",
+      "isoCode": "UM-79",
+      "countryCode": "US"
+   },
+   {
+      "name": "Baker Island",
+      "isoCode": "UM-81",
+      "countryCode": "US"
+   },
+   {
+      "name": "Howland Island",
+      "isoCode": "UM-84",
+      "countryCode": "US"
+   },
+   {
+      "name": "Jarvis Island",
+      "isoCode": "UM-86",
+      "countryCode": "US"
+   },
+   {
+      "name": "Kingman Reef",
+      "isoCode": "UM-89",
+      "countryCode": "US"
+   },
+   {
+      "name": "Palmyra Atoll",
+      "isoCode": "UM-95",
+      "countryCode": "US"
+   },
+   {
+      "name": "Utah",
+      "isoCode": "UT",
+      "countryCode": "US"
+   },
+   {
+      "name": "Virginia",
+      "isoCode": "VA",
+      "countryCode": "US"
+   },
+   {
+      "name": "United States Virgin Islands",
+      "isoCode": "VI",
+      "countryCode": "US"
+   },
+   {
+      "name": "Vermont",
+      "isoCode": "VT",
       "countryCode": "US"
    },
    {
@@ -325,8 +315,18 @@
       "countryCode": "US"
    },
    {
-      "name": "Ohio",
-      "isoCode": "OH",
+      "name": "Wisconsin",
+      "isoCode": "WI",
+      "countryCode": "US"
+   },
+   {
+      "name": "West Virginia",
+      "isoCode": "WV",
+      "countryCode": "US"
+   },
+   {
+      "name": "Wyoming",
+      "isoCode": "WY",
       "countryCode": "US"
    }
 ]

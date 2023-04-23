@@ -1,10 +1,17 @@
 [
    {
-      "name": "Region Zealand",
-      "isoCode": "85",
+      "name": "North Denmark Region",
+      "isoCode": "81",
       "countryCode": "DK",
-      "latitude": "55.46325180",
-      "longitude": "11.72149790"
+      "latitude": "56.83074160",
+      "longitude": "9.49305270"
+   },
+   {
+      "name": "Central Denmark Region",
+      "isoCode": "82",
+      "countryCode": "DK",
+      "latitude": "56.30213900",
+      "longitude": "9.30277700"
    },
    {
       "name": "Region of Southern Denmark",
@@ -21,17 +28,10 @@
       "longitude": "12.54932610"
    },
    {
-      "name": "Central Denmark Region",
-      "isoCode": "82",
+      "name": "Region Zealand",
+      "isoCode": "85",
       "countryCode": "DK",
-      "latitude": "56.30213900",
-      "longitude": "9.30277700"
-   },
-   {
-      "name": "North Denmark Region",
-      "isoCode": "81",
-      "countryCode": "DK",
-      "latitude": "56.83074160",
-      "longitude": "9.49305270"
+      "latitude": "55.46325180",
+      "longitude": "11.72149790"
    }
 ]

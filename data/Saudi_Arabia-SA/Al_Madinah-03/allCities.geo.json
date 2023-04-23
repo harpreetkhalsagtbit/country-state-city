@@ -1,40 +1,5 @@
 [
    {
-      "name": "Al-Ula",
-      "countryCode": "SA",
-      "stateCode": "03",
-      "latitude": "26.60853000",
-      "longitude": "37.92316000"
-   },
-   {
-      "name": "Badr Ḩunayn",
-      "countryCode": "SA",
-      "stateCode": "03",
-      "latitude": "23.78292000",
-      "longitude": "38.79047000"
-   },
-   {
-      "name": "Medina",
-      "countryCode": "SA",
-      "stateCode": "03",
-      "latitude": "24.46861000",
-      "longitude": "39.61417000"
-   },
-   {
-      "name": "Sulţānah",
-      "countryCode": "SA",
-      "stateCode": "03",
-      "latitude": "24.49258000",
-      "longitude": "39.58572000"
-   },
-   {
-      "name": "Yanbu",
-      "countryCode": "SA",
-      "stateCode": "03",
-      "latitude": "24.08954000",
-      "longitude": "38.06180000"
-   },
-   {
       "name": "Abu Dhiba",
       "countryCode": "SA",
       "stateCode": "03",
@@ -203,6 +168,13 @@
       "longitude": "49.61666667"
    },
    {
+      "name": "Al-Ula",
+      "countryCode": "SA",
+      "stateCode": "03",
+      "latitude": "26.60853000",
+      "longitude": "37.92316000"
+   },
+   {
       "name": "Ar Rass",
       "countryCode": "SA",
       "stateCode": "03",
@@ -250,6 +222,13 @@
       "stateCode": "03",
       "latitude": "24.33330000",
       "longitude": "38.63330000"
+   },
+   {
+      "name": "Badr Ḩunayn",
+      "countryCode": "SA",
+      "stateCode": "03",
+      "latitude": "23.78292000",
+      "longitude": "38.79047000"
    },
    {
       "name": "Baq`a'",
@@ -399,6 +378,13 @@
       "longitude": "38.43330000"
    },
    {
+      "name": "Medina",
+      "countryCode": "SA",
+      "stateCode": "03",
+      "latitude": "24.46861000",
+      "longitude": "39.61417000"
+   },
+   {
       "name": "Milhah",
       "countryCode": "SA",
       "stateCode": "03",
@@ -448,6 +434,13 @@
       "longitude": "39.61670000"
    },
    {
+      "name": "Sulţānah",
+      "countryCode": "SA",
+      "stateCode": "03",
+      "latitude": "24.49258000",
+      "longitude": "39.58572000"
+   },
+   {
       "name": "Suq Suwayq",
       "countryCode": "SA",
       "stateCode": "03",
@@ -481,6 +474,13 @@
       "stateCode": "03",
       "latitude": "23.88330000",
       "longitude": "38.90000000"
+   },
+   {
+      "name": "Yanbu",
+      "countryCode": "SA",
+      "stateCode": "03",
+      "latitude": "24.08954000",
+      "longitude": "38.06180000"
    },
    {
       "name": "`Ajmiyah",

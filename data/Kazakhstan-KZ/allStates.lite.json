@@ -1,52 +1,7 @@
 [
    {
-      "name": "Mangystau Region",
-      "isoCode": "MAN",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Kyzylorda Region",
-      "isoCode": "KZY",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Almaty Region",
-      "isoCode": "ALM",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "North Kazakhstan Region",
-      "isoCode": "SEV",
-      "countryCode": "KZ"
-   },
-   {
       "name": "Akmola Region",
       "isoCode": "AKM",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Pavlodar Region",
-      "isoCode": "PAV",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Jambyl Region",
-      "isoCode": "ZHA",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "West Kazakhstan Province",
-      "isoCode": "ZAP",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Turkestan Region",
-      "isoCode": "YUZ",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Karaganda Region",
-      "isoCode": "KAR",
       "countryCode": "KZ"
    },
    {
@@ -60,18 +15,8 @@
       "countryCode": "KZ"
    },
    {
-      "name": "Atyrau Region",
-      "isoCode": "ATY",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "East Kazakhstan Region",
-      "isoCode": "VOS",
-      "countryCode": "KZ"
-   },
-   {
-      "name": "Baikonur",
-      "isoCode": "BAY",
+      "name": "Almaty Region",
+      "isoCode": "ALM",
       "countryCode": "KZ"
    },
    {
@@ -80,8 +25,63 @@
       "countryCode": "KZ"
    },
    {
+      "name": "Atyrau Region",
+      "isoCode": "ATY",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Baikonur",
+      "isoCode": "BAY",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Karaganda Region",
+      "isoCode": "KAR",
+      "countryCode": "KZ"
+   },
+   {
       "name": "Kostanay Region",
       "isoCode": "KUS",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Kyzylorda Region",
+      "isoCode": "KZY",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Mangystau Region",
+      "isoCode": "MAN",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Pavlodar Region",
+      "isoCode": "PAV",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "North Kazakhstan Region",
+      "isoCode": "SEV",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "East Kazakhstan Region",
+      "isoCode": "VOS",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Turkestan Region",
+      "isoCode": "YUZ",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "West Kazakhstan Province",
+      "isoCode": "ZAP",
+      "countryCode": "KZ"
+   },
+   {
+      "name": "Jambyl Region",
+      "isoCode": "ZHA",
       "countryCode": "KZ"
    }
 ]

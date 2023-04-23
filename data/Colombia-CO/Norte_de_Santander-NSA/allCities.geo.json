@@ -245,6 +245,13 @@
       "longitude": "-72.75639000"
    },
    {
+      "name": "Teorama",
+      "countryCode": "CO",
+      "stateCode": "NSA",
+      "latitude": "8.43527888",
+      "longitude": "-73.28638999"
+   },
+   {
       "name": "Tibú",
       "countryCode": "CO",
       "stateCode": "NSA",
@@ -259,24 +266,17 @@
       "longitude": "-72.48295000"
    },
    {
-      "name": "Villa del Rosario",
-      "countryCode": "CO",
-      "stateCode": "NSA",
-      "latitude": "7.75816000",
-      "longitude": "-72.48182000"
-   },
-   {
-      "name": "Teorama",
-      "countryCode": "CO",
-      "stateCode": "NSA",
-      "latitude": "8.43527888",
-      "longitude": "-73.28638999"
-   },
-   {
       "name": "Villa Caro",
       "countryCode": "CO",
       "stateCode": "NSA",
       "latitude": "7.91472222",
       "longitude": "-72.97194444"
+   },
+   {
+      "name": "Villa del Rosario",
+      "countryCode": "CO",
+      "stateCode": "NSA",
+      "latitude": "7.75816000",
+      "longitude": "-72.48182000"
    }
 ]

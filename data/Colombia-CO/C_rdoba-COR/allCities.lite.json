@@ -125,6 +125,11 @@
       "stateCode": "COR"
    },
    {
+      "name": "San José de Uré",
+      "countryCode": "CO",
+      "stateCode": "COR"
+   },
+   {
       "name": "San Pelayo",
       "countryCode": "CO",
       "stateCode": "COR"
@@ -135,17 +140,12 @@
       "stateCode": "COR"
    },
    {
-      "name": "Valencia",
-      "countryCode": "CO",
-      "stateCode": "COR"
-   },
-   {
-      "name": "San José de Uré",
-      "countryCode": "CO",
-      "stateCode": "COR"
-   },
-   {
       "name": "Tuchín",
+      "countryCode": "CO",
+      "stateCode": "COR"
+   },
+   {
+      "name": "Valencia",
       "countryCode": "CO",
       "stateCode": "COR"
    }

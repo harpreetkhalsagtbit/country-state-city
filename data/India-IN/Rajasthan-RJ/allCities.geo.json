@@ -7,6 +7,20 @@
       "longitude": "76.60760000"
    },
    {
+      "name": "Abu",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.59365000",
+      "longitude": "72.71756000"
+   },
+   {
+      "name": "Abu Road",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.48012000",
+      "longitude": "72.78186000"
+   },
+   {
       "name": "Ajmer",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -49,6 +63,13 @@
       "longitude": "73.20861000"
    },
    {
+      "name": "Asind",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.73420000",
+      "longitude": "74.33278000"
+   },
+   {
       "name": "Bagar",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -61,153 +82,6 @@
       "stateCode": "RJ",
       "latitude": "24.28624000",
       "longitude": "76.23709000"
-   },
-   {
-      "name": "Baran",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.09000000",
-      "longitude": "76.66000000"
-   },
-   {
-      "name": "Bari Sadri",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.41339000",
-      "longitude": "74.47331000"
-   },
-   {
-      "name": "Basi",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.83150000",
-      "longitude": "76.04856000"
-   },
-   {
-      "name": "Basni",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.17232000",
-      "longitude": "73.64519000"
-   },
-   {
-      "name": "Baswa",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.14955000",
-      "longitude": "76.58345000"
-   },
-   {
-      "name": "Bayana",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.90791000",
-      "longitude": "77.28985000"
-   },
-   {
-      "name": "Begun",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.98333000",
-      "longitude": "75.00000000"
-   },
-   {
-      "name": "Behror",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.88832000",
-      "longitude": "76.28108000"
-   },
-   {
-      "name": "Beawar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.10119000",
-      "longitude": "74.32028000"
-   },
-   {
-      "name": "Bharatpur",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.21000000",
-      "longitude": "77.29000000"
-   },
-   {
-      "name": "Bhasawar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.03895000",
-      "longitude": "77.04849000"
-   },
-   {
-      "name": "Bhindar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.50235000",
-      "longitude": "74.18551000"
-   },
-   {
-      "name": "Bhiwadi",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.21024000",
-      "longitude": "76.86056000"
-   },
-   {
-      "name": "Bhuma",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.78333000",
-      "longitude": "74.93333000"
-   },
-   {
-      "name": "Bhadra",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "29.10298000",
-      "longitude": "75.17138000"
-   },
-   {
-      "name": "Bhadasar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.31457000",
-      "longitude": "74.28952000"
-   },
-   {
-      "name": "Bhilwara",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.50000000",
-      "longitude": "74.75000000"
-   },
-   {
-      "name": "Bhinmal",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.99944000",
-      "longitude": "72.27141000"
-   },
-   {
-      "name": "Bilara",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.18067000",
-      "longitude": "73.70550000"
-   },
-   {
-      "name": "Bissau",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.24737000",
-      "longitude": "75.07666000"
-   },
-   {
-      "name": "Borkhera",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.52115000",
-      "longitude": "75.64028000"
    },
    {
       "name": "Bali",
@@ -238,11 +112,25 @@
       "longitude": "74.44250000"
    },
    {
+      "name": "Baran",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.09000000",
+      "longitude": "76.66000000"
+   },
+   {
       "name": "Bari",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "26.64661000",
       "longitude": "77.61634000"
+   },
+   {
+      "name": "Bari Sadri",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.41339000",
+      "longitude": "74.47331000"
    },
    {
       "name": "Barmer",
@@ -252,11 +140,144 @@
       "longitude": "71.50000000"
    },
    {
+      "name": "Basi",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.83150000",
+      "longitude": "76.04856000"
+   },
+   {
+      "name": "Basni",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.17232000",
+      "longitude": "73.64519000"
+   },
+   {
+      "name": "Baswa",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.14955000",
+      "longitude": "76.58345000"
+   },
+   {
+      "name": "Bayana",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.90791000",
+      "longitude": "77.28985000"
+   },
+   {
+      "name": "Beawar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.10119000",
+      "longitude": "74.32028000"
+   },
+   {
+      "name": "Begun",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.98333000",
+      "longitude": "75.00000000"
+   },
+   {
+      "name": "Behror",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.88832000",
+      "longitude": "76.28108000"
+   },
+   {
+      "name": "Bhadasar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.31457000",
+      "longitude": "74.28952000"
+   },
+   {
+      "name": "Bhadra",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "29.10298000",
+      "longitude": "75.17138000"
+   },
+   {
+      "name": "Bharatpur",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.21000000",
+      "longitude": "77.29000000"
+   },
+   {
+      "name": "Bhasawar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.03895000",
+      "longitude": "77.04849000"
+   },
+   {
+      "name": "Bhilwara",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.50000000",
+      "longitude": "74.75000000"
+   },
+   {
+      "name": "Bhindar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.50235000",
+      "longitude": "74.18551000"
+   },
+   {
+      "name": "Bhinmal",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.99944000",
+      "longitude": "72.27141000"
+   },
+   {
+      "name": "Bhiwadi",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.21024000",
+      "longitude": "76.86056000"
+   },
+   {
+      "name": "Bhuma",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.78333000",
+      "longitude": "74.93333000"
+   },
+   {
       "name": "Bikaner",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "28.01762000",
       "longitude": "73.31495000"
+   },
+   {
+      "name": "Bilara",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.18067000",
+      "longitude": "73.70550000"
+   },
+   {
+      "name": "Bissau",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.24737000",
+      "longitude": "75.07666000"
+   },
+   {
+      "name": "Borkhera",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.52115000",
+      "longitude": "75.64028000"
    },
    {
       "name": "Bundi",
@@ -287,18 +308,18 @@
       "longitude": "76.84379000"
    },
    {
-      "name": "Chhoti Sadri",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.38145000",
-      "longitude": "74.70120000"
-   },
-   {
       "name": "Chhapar",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "27.81900000",
       "longitude": "74.43936000"
+   },
+   {
+      "name": "Chhoti Sadri",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.38145000",
+      "longitude": "74.70120000"
    },
    {
       "name": "Chidawa",
@@ -483,11 +504,11 @@
       "longitude": "72.29000000"
    },
    {
-      "name": "Jhunjhunun",
+      "name": "Jhalawar",
       "countryCode": "IN",
       "stateCode": "RJ",
-      "latitude": "28.12559000",
-      "longitude": "75.39797000"
+      "latitude": "24.59633000",
+      "longitude": "76.16499000"
    },
    {
       "name": "Jhalrapatan",
@@ -497,11 +518,11 @@
       "longitude": "76.17242000"
    },
    {
-      "name": "Jhalawar",
+      "name": "Jhunjhunun",
       "countryCode": "IN",
       "stateCode": "RJ",
-      "latitude": "24.59633000",
-      "longitude": "76.16499000"
+      "latitude": "28.12559000",
+      "longitude": "75.39797000"
    },
    {
       "name": "Jobner",
@@ -516,6 +537,27 @@
       "stateCode": "RJ",
       "latitude": "26.75000000",
       "longitude": "72.75000000"
+   },
+   {
+      "name": "Kaman",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.65791000",
+      "longitude": "77.26908000"
+   },
+   {
+      "name": "Kanor",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.43437000",
+      "longitude": "74.26546000"
+   },
+   {
+      "name": "Kapren",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.40529000",
+      "longitude": "76.07431000"
    },
    {
       "name": "Karanpur",
@@ -553,18 +595,18 @@
       "longitude": "75.50200000"
    },
    {
-      "name": "Khetri",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.00069000",
-      "longitude": "75.78644000"
-   },
-   {
       "name": "Khanpur",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "24.73241000",
       "longitude": "76.39601000"
+   },
+   {
+      "name": "Khetri",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.00069000",
+      "longitude": "75.78644000"
    },
    {
       "name": "Kishangarh",
@@ -588,13 +630,6 @@
       "longitude": "76.19911000"
    },
    {
-      "name": "Kuchera",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.98747000",
-      "longitude": "73.97108000"
-   },
-   {
       "name": "Kuchaman",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -602,32 +637,11 @@
       "longitude": "74.85655000"
    },
    {
-      "name": "Kushalgarh",
+      "name": "Kuchera",
       "countryCode": "IN",
       "stateCode": "RJ",
-      "latitude": "23.19899000",
-      "longitude": "74.45074000"
-   },
-   {
-      "name": "Kaman",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.65791000",
-      "longitude": "77.26908000"
-   },
-   {
-      "name": "Kanor",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.43437000",
-      "longitude": "74.26546000"
-   },
-   {
-      "name": "Kapren",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.40529000",
-      "longitude": "76.07431000"
+      "latitude": "26.98747000",
+      "longitude": "73.97108000"
    },
    {
       "name": "Kumher",
@@ -637,18 +651,18 @@
       "longitude": "77.37079000"
    },
    {
+      "name": "Kushalgarh",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "23.19899000",
+      "longitude": "74.45074000"
+   },
+   {
       "name": "Lachhmangarh Sikar",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "27.82294000",
       "longitude": "75.02754000"
-   },
-   {
-      "name": "Losal",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.40000000",
-      "longitude": "74.91667000"
    },
    {
       "name": "Ladnun",
@@ -672,6 +686,13 @@
       "longitude": "76.32915000"
    },
    {
+      "name": "Losal",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.40000000",
+      "longitude": "74.91667000"
+   },
+   {
       "name": "Mahwah",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -686,11 +707,39 @@
       "longitude": "74.72445000"
    },
    {
+      "name": "Malpura",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.28380000",
+      "longitude": "75.36458000"
+   },
+   {
+      "name": "Mandal",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.44126000",
+      "longitude": "74.56979000"
+   },
+   {
+      "name": "Mandalgarh",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.19407000",
+      "longitude": "75.07215000"
+   },
+   {
       "name": "Mandawar",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "27.86374000",
       "longitude": "76.54999000"
+   },
+   {
+      "name": "Mangrol",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.33061000",
+      "longitude": "76.50973000"
    },
    {
       "name": "Manohar Thana",
@@ -721,34 +770,6 @@
       "longitude": "74.03414000"
    },
    {
-      "name": "Malpura",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.28380000",
-      "longitude": "75.36458000"
-   },
-   {
-      "name": "Mandal",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.44126000",
-      "longitude": "74.56979000"
-   },
-   {
-      "name": "Mandalgarh",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.19407000",
-      "longitude": "75.07215000"
-   },
-   {
-      "name": "Mangrol",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.33061000",
-      "longitude": "76.50973000"
-   },
-   {
       "name": "Mundwa",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -756,11 +777,25 @@
       "longitude": "73.82304000"
    },
    {
+      "name": "Nadbai",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.22288000",
+      "longitude": "77.19569000"
+   },
+   {
       "name": "Nagar",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "27.42397000",
       "longitude": "77.09922000"
+   },
+   {
+      "name": "Nagaur",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.20201000",
+      "longitude": "73.73394000"
    },
    {
       "name": "Nainwa",
@@ -791,6 +826,20 @@
       "longitude": "74.73364000"
    },
    {
+      "name": "Nathdwara",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.93805000",
+      "longitude": "73.82392000"
+   },
+   {
+      "name": "Nawa",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.01950000",
+      "longitude": "75.00226000"
+   },
+   {
       "name": "Nawalgarh",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -803,6 +852,20 @@
       "stateCode": "RJ",
       "latitude": "27.73976000",
       "longitude": "75.78652000"
+   },
+   {
+      "name": "Nimaj",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.14995000",
+      "longitude": "74.00094000"
+   },
+   {
+      "name": "Nimbahera",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.62166000",
+      "longitude": "74.67999000"
    },
    {
       "name": "Niwai",
@@ -826,53 +889,18 @@
       "longitude": "73.47141000"
    },
    {
-      "name": "Nadbai",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.22288000",
-      "longitude": "77.19569000"
-   },
-   {
-      "name": "Nagaur",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.20201000",
-      "longitude": "73.73394000"
-   },
-   {
-      "name": "Nathdwara",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.93805000",
-      "longitude": "73.82392000"
-   },
-   {
-      "name": "Nawa",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.01950000",
-      "longitude": "75.00226000"
-   },
-   {
-      "name": "Nimbahera",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.62166000",
-      "longitude": "74.67999000"
-   },
-   {
-      "name": "Nimaj",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.14995000",
-      "longitude": "74.00094000"
-   },
-   {
       "name": "Padampur",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "29.70885000",
       "longitude": "73.62539000"
+   },
+   {
+      "name": "Pali",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.77276000",
+      "longitude": "73.32335000"
    },
    {
       "name": "Partapur",
@@ -903,13 +931,6 @@
       "longitude": "75.24171000"
    },
    {
-      "name": "Pilibangan",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "29.44964000",
-      "longitude": "74.10093000"
-   },
-   {
       "name": "Pilani",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -917,11 +938,25 @@
       "longitude": "75.60352000"
    },
    {
+      "name": "Pilibangan",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "29.44964000",
+      "longitude": "74.10093000"
+   },
+   {
       "name": "Pindwara",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "24.79749000",
       "longitude": "73.05505000"
+   },
+   {
+      "name": "Pipar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.38441000",
+      "longitude": "73.54394000"
    },
    {
       "name": "Pirawa",
@@ -952,20 +987,6 @@
       "longitude": "74.55211000"
    },
    {
-      "name": "Pali",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.77276000",
-      "longitude": "73.32335000"
-   },
-   {
-      "name": "Pipar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.38441000",
-      "longitude": "73.54394000"
-   },
-   {
       "name": "Raipur",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -973,25 +994,18 @@
       "longitude": "74.02373000"
    },
    {
-      "name": "Rajsamand",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.23822000",
-      "longitude": "73.93503000"
-   },
-   {
-      "name": "Ratangarh",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.08137000",
-      "longitude": "74.61854000"
-   },
-   {
       "name": "Raisinghnagar",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "29.53583000",
       "longitude": "73.44917000"
+   },
+   {
+      "name": "Rajakhera",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.89802000",
+      "longitude": "78.17100000"
    },
    {
       "name": "Rajaldesar",
@@ -1008,11 +1022,11 @@
       "longitude": "76.62243000"
    },
    {
-      "name": "Rajakhera",
+      "name": "Rajsamand",
       "countryCode": "IN",
       "stateCode": "RJ",
-      "latitude": "26.89802000",
-      "longitude": "78.17100000"
+      "latitude": "25.23822000",
+      "longitude": "73.93503000"
    },
    {
       "name": "Ramganj Mandi",
@@ -1036,6 +1050,13 @@
       "longitude": "73.30885000"
    },
    {
+      "name": "Ratangarh",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.08137000",
+      "longitude": "74.61854000"
+   },
+   {
       "name": "Rawatbhata",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -1057,11 +1078,39 @@
       "longitude": "75.56838000"
    },
    {
+      "name": "Sadri",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.18555000",
+      "longitude": "73.45288000"
+   },
+   {
+      "name": "Salumbar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.13524000",
+      "longitude": "74.04442000"
+   },
+   {
+      "name": "Sambhar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "26.90806000",
+      "longitude": "75.19137000"
+   },
+   {
       "name": "Samdari",
       "countryCode": "IN",
       "stateCode": "RJ",
       "latitude": "25.81299000",
       "longitude": "72.57879000"
+   },
+   {
+      "name": "Sanchor",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "24.75361000",
+      "longitude": "71.77280000"
    },
    {
       "name": "Sangaria",
@@ -1099,6 +1148,13 @@
       "longitude": "76.34408000"
    },
    {
+      "name": "Shahpura",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "25.62094000",
+      "longitude": "74.92487000"
+   },
+   {
       "name": "Sheoganj",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -1106,11 +1162,11 @@
       "longitude": "73.06784000"
    },
    {
-      "name": "Shahpura",
+      "name": "Sikar",
       "countryCode": "IN",
       "stateCode": "RJ",
-      "latitude": "25.62094000",
-      "longitude": "74.92487000"
+      "latitude": "27.61206000",
+      "longitude": "75.13996000"
    },
    {
       "name": "Sirohi",
@@ -1148,6 +1204,13 @@
       "longitude": "75.59736000"
    },
    {
+      "name": "Sujangarh",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "27.70000000",
+      "longitude": "74.46667000"
+   },
+   {
       "name": "Suket",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -1160,48 +1223,6 @@
       "stateCode": "RJ",
       "latitude": "24.37065000",
       "longitude": "75.95708000"
-   },
-   {
-      "name": "Sadri",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.18555000",
-      "longitude": "73.45288000"
-   },
-   {
-      "name": "Salumbar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.13524000",
-      "longitude": "74.04442000"
-   },
-   {
-      "name": "Sambhar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "26.90806000",
-      "longitude": "75.19137000"
-   },
-   {
-      "name": "Sanchor",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.75361000",
-      "longitude": "71.77280000"
-   },
-   {
-      "name": "Sikar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.61206000",
-      "longitude": "75.13996000"
-   },
-   {
-      "name": "Sujangarh",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "27.70000000",
-      "longitude": "74.46667000"
    },
    {
       "name": "Surajgarh",
@@ -1223,6 +1244,13 @@
       "stateCode": "RJ",
       "latitude": "25.32235000",
       "longitude": "73.00487000"
+   },
+   {
+      "name": "Taranagar",
+      "countryCode": "IN",
+      "stateCode": "RJ",
+      "latitude": "28.66860000",
+      "longitude": "75.03207000"
    },
    {
       "name": "Tijara",
@@ -1253,13 +1281,6 @@
       "longitude": "75.58333000"
    },
    {
-      "name": "Taranagar",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "28.66860000",
-      "longitude": "75.03207000"
-   },
-   {
       "name": "Udaipur",
       "countryCode": "IN",
       "stateCode": "RJ",
@@ -1286,26 +1307,5 @@
       "stateCode": "RJ",
       "latitude": "27.01860000",
       "longitude": "77.17636000"
-   },
-   {
-      "name": "Abu",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.59365000",
-      "longitude": "72.71756000"
-   },
-   {
-      "name": "Abu Road",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "24.48012000",
-      "longitude": "72.78186000"
-   },
-   {
-      "name": "Asind",
-      "countryCode": "IN",
-      "stateCode": "RJ",
-      "latitude": "25.73420000",
-      "longitude": "74.33278000"
    }
 ]

@@ -4298,6 +4298,13 @@
       "longitude": "-75.73825000"
    },
    {
+      "name": "Morningside",
+      "countryCode": "US",
+      "stateCode": "PA",
+      "latitude": "40.48140510",
+      "longitude": "-79.93442840"
+   },
+   {
       "name": "Morrisville",
       "countryCode": "US",
       "stateCode": "PA",
@@ -7369,12 +7376,5 @@
       "stateCode": "PA",
       "latitude": "40.91423000",
       "longitude": "-77.68472000"
-   },
-   {
-      "name": "Morningside",
-      "countryCode": "US",
-      "stateCode": "PA",
-      "latitude": "40.48140510",
-      "longitude": "-79.93442840"
    }
 ]

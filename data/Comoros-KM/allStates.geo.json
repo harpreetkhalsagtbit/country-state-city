@@ -1,12 +1,5 @@
 [
    {
-      "name": "Mohéli",
-      "isoCode": "M",
-      "countryCode": "KM",
-      "latitude": "-12.33773760",
-      "longitude": "43.73340890"
-   },
-   {
       "name": "Anjouan",
       "isoCode": "A",
       "countryCode": "KM",
@@ -19,5 +12,12 @@
       "countryCode": "KM",
       "latitude": "-11.71673380",
       "longitude": "43.36807880"
+   },
+   {
+      "name": "Mohéli",
+      "isoCode": "M",
+      "countryCode": "KM",
+      "latitude": "-12.33773760",
+      "longitude": "43.73340890"
    }
 ]

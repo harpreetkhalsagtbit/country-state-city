@@ -1,57 +1,7 @@
 [
    {
-      "name": "Meghalaya",
-      "isoCode": "ML",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Haryana",
-      "isoCode": "HR",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Maharashtra",
-      "isoCode": "MH",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Goa",
-      "isoCode": "GA",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Manipur",
-      "isoCode": "MN",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Puducherry",
-      "isoCode": "PY",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Telangana",
-      "isoCode": "TG",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Odisha",
-      "isoCode": "OR",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Rajasthan",
-      "isoCode": "RJ",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Punjab",
-      "isoCode": "PB",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Uttarakhand",
-      "isoCode": "UT",
+      "name": "Andaman and Nicobar Islands",
+      "isoCode": "AN",
       "countryCode": "IN"
    },
    {
@@ -60,48 +10,8 @@
       "countryCode": "IN"
    },
    {
-      "name": "Nagaland",
-      "isoCode": "NL",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Lakshadweep",
-      "isoCode": "LD",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Himachal Pradesh",
-      "isoCode": "HP",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Delhi",
-      "isoCode": "DL",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Uttar Pradesh",
-      "isoCode": "UP",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Andaman and Nicobar Islands",
-      "isoCode": "AN",
-      "countryCode": "IN"
-   },
-   {
       "name": "Arunachal Pradesh",
       "isoCode": "AR",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Jharkhand",
-      "isoCode": "JH",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Karnataka",
-      "isoCode": "KA",
       "countryCode": "IN"
    },
    {
@@ -110,18 +20,8 @@
       "countryCode": "IN"
    },
    {
-      "name": "Kerala",
-      "isoCode": "KL",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Jammu and Kashmir",
-      "isoCode": "JK",
-      "countryCode": "IN"
-   },
-   {
-      "name": "Gujarat",
-      "isoCode": "GJ",
+      "name": "Bihar",
+      "isoCode": "BR",
       "countryCode": "IN"
    },
    {
@@ -130,33 +30,83 @@
       "countryCode": "IN"
    },
    {
+      "name": "Chhattisgarh",
+      "isoCode": "CT",
+      "countryCode": "IN"
+   },
+   {
       "name": "Dadra and Nagar Haveli and Daman and Diu",
       "isoCode": "DH",
       "countryCode": "IN"
    },
    {
-      "name": "Sikkim",
-      "isoCode": "SK",
+      "name": "Delhi",
+      "isoCode": "DL",
       "countryCode": "IN"
    },
    {
-      "name": "Tamil Nadu",
-      "isoCode": "TN",
+      "name": "Goa",
+      "isoCode": "GA",
       "countryCode": "IN"
    },
    {
-      "name": "Mizoram",
-      "isoCode": "MZ",
+      "name": "Gujarat",
+      "isoCode": "GJ",
       "countryCode": "IN"
    },
    {
-      "name": "Bihar",
-      "isoCode": "BR",
+      "name": "Himachal Pradesh",
+      "isoCode": "HP",
       "countryCode": "IN"
    },
    {
-      "name": "Tripura",
-      "isoCode": "TR",
+      "name": "Haryana",
+      "isoCode": "HR",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Jharkhand",
+      "isoCode": "JH",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Jammu and Kashmir",
+      "isoCode": "JK",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Karnataka",
+      "isoCode": "KA",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Kerala",
+      "isoCode": "KL",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Ladakh",
+      "isoCode": "LA",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Lakshadweep",
+      "isoCode": "LD",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Maharashtra",
+      "isoCode": "MH",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Meghalaya",
+      "isoCode": "ML",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Manipur",
+      "isoCode": "MN",
       "countryCode": "IN"
    },
    {
@@ -165,13 +115,63 @@
       "countryCode": "IN"
    },
    {
-      "name": "Chhattisgarh",
-      "isoCode": "CT",
+      "name": "Mizoram",
+      "isoCode": "MZ",
       "countryCode": "IN"
    },
    {
-      "name": "Ladakh",
-      "isoCode": "LA",
+      "name": "Nagaland",
+      "isoCode": "NL",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Odisha",
+      "isoCode": "OR",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Punjab",
+      "isoCode": "PB",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Puducherry",
+      "isoCode": "PY",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Rajasthan",
+      "isoCode": "RJ",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Sikkim",
+      "isoCode": "SK",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Telangana",
+      "isoCode": "TG",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Tamil Nadu",
+      "isoCode": "TN",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Tripura",
+      "isoCode": "TR",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Uttar Pradesh",
+      "isoCode": "UP",
+      "countryCode": "IN"
+   },
+   {
+      "name": "Uttarakhand",
+      "isoCode": "UT",
       "countryCode": "IN"
    },
    {

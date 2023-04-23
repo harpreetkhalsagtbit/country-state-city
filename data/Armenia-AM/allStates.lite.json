@@ -10,28 +10,8 @@
       "countryCode": "AM"
    },
    {
-      "name": "Vayots Dzor Region",
-      "isoCode": "VD",
-      "countryCode": "AM"
-   },
-   {
       "name": "Armavir Region",
       "isoCode": "AV",
-      "countryCode": "AM"
-   },
-   {
-      "name": "Syunik Province",
-      "isoCode": "SU",
-      "countryCode": "AM"
-   },
-   {
-      "name": "Gegharkunik Province",
-      "isoCode": "GR",
-      "countryCode": "AM"
-   },
-   {
-      "name": "Lori Region",
-      "isoCode": "LO",
       "countryCode": "AM"
    },
    {
@@ -40,8 +20,28 @@
       "countryCode": "AM"
    },
    {
+      "name": "Gegharkunik Province",
+      "isoCode": "GR",
+      "countryCode": "AM"
+   },
+   {
+      "name": "Kotayk Region",
+      "isoCode": "KT",
+      "countryCode": "AM"
+   },
+   {
+      "name": "Lori Region",
+      "isoCode": "LO",
+      "countryCode": "AM"
+   },
+   {
       "name": "Shirak Region",
       "isoCode": "SH",
+      "countryCode": "AM"
+   },
+   {
+      "name": "Syunik Province",
+      "isoCode": "SU",
       "countryCode": "AM"
    },
    {
@@ -50,8 +50,8 @@
       "countryCode": "AM"
    },
    {
-      "name": "Kotayk Region",
-      "isoCode": "KT",
+      "name": "Vayots Dzor Region",
+      "isoCode": "VD",
       "countryCode": "AM"
    }
 ]

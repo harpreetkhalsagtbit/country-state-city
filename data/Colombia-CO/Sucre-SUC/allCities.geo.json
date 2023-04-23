@@ -1,5 +1,12 @@
 [
    {
+      "name": "Buenavista",
+      "countryCode": "CO",
+      "stateCode": "SUC",
+      "latitude": "9.31972222",
+      "longitude": "-74.97166777"
+   },
+   {
       "name": "Caimito",
       "countryCode": "CO",
       "stateCode": "SUC",
@@ -173,12 +180,5 @@
       "stateCode": "SUC",
       "latitude": "9.45082000",
       "longitude": "-75.43864000"
-   },
-   {
-      "name": "Buenavista",
-      "countryCode": "CO",
-      "stateCode": "SUC",
-      "latitude": "9.31972222",
-      "longitude": "-74.97166777"
    }
 ]

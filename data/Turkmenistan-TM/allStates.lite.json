@@ -1,17 +1,7 @@
 [
    {
-      "name": "Mary Region",
-      "isoCode": "M",
-      "countryCode": "TM"
-   },
-   {
-      "name": "Lebap Region",
-      "isoCode": "L",
-      "countryCode": "TM"
-   },
-   {
-      "name": "Ashgabat",
-      "isoCode": "S",
+      "name": "Ahal Region",
+      "isoCode": "A",
       "countryCode": "TM"
    },
    {
@@ -25,8 +15,18 @@
       "countryCode": "TM"
    },
    {
-      "name": "Ahal Region",
-      "isoCode": "A",
+      "name": "Lebap Region",
+      "isoCode": "L",
+      "countryCode": "TM"
+   },
+   {
+      "name": "Mary Region",
+      "isoCode": "M",
+      "countryCode": "TM"
+   },
+   {
+      "name": "Ashgabat",
+      "isoCode": "S",
       "countryCode": "TM"
    }
 ]

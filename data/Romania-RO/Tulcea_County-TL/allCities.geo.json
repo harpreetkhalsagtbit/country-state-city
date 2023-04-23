@@ -756,6 +756,34 @@
       "longitude": "29.65403000"
    },
    {
+      "name": "Sălcioara",
+      "countryCode": "RO",
+      "stateCode": "TL",
+      "latitude": "44.76667000",
+      "longitude": "28.88333000"
+   },
+   {
+      "name": "Topolog",
+      "countryCode": "RO",
+      "stateCode": "TL",
+      "latitude": "44.88333000",
+      "longitude": "28.36667000"
+   },
+   {
+      "name": "Traian",
+      "countryCode": "RO",
+      "stateCode": "TL",
+      "latitude": "45.02876000",
+      "longitude": "28.23518000"
+   },
+   {
+      "name": "Tulcea",
+      "countryCode": "RO",
+      "stateCode": "TL",
+      "latitude": "45.17870000",
+      "longitude": "28.80501000"
+   },
+   {
       "name": "Turcoaia",
       "countryCode": "RO",
       "stateCode": "TL",
@@ -796,33 +824,5 @@
       "stateCode": "TL",
       "latitude": "44.94600000",
       "longitude": "28.76873000"
-   },
-   {
-      "name": "Sălcioara",
-      "countryCode": "RO",
-      "stateCode": "TL",
-      "latitude": "44.76667000",
-      "longitude": "28.88333000"
-   },
-   {
-      "name": "Topolog",
-      "countryCode": "RO",
-      "stateCode": "TL",
-      "latitude": "44.88333000",
-      "longitude": "28.36667000"
-   },
-   {
-      "name": "Traian",
-      "countryCode": "RO",
-      "stateCode": "TL",
-      "latitude": "45.02876000",
-      "longitude": "28.23518000"
-   },
-   {
-      "name": "Tulcea",
-      "countryCode": "RO",
-      "stateCode": "TL",
-      "latitude": "45.17870000",
-      "longitude": "28.80501000"
    }
 ]

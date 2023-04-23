@@ -1,16 +1,23 @@
 [
    {
-      "name": "Ngamiland",
-      "isoCode": "NG",
+      "name": "Central District",
+      "isoCode": "CE",
       "countryCode": "BW",
-      "latitude": "-19.19053210",
-      "longitude": "23.00119890"
+      "latitude": null,
+      "longitude": null
    },
    {
       "name": "Ghanzi District",
       "isoCode": "GH",
       "countryCode": "BW",
       "latitude": "-21.86523140",
+      "longitude": "21.85685860"
+   },
+   {
+      "name": "Kgalagadi District",
+      "isoCode": "KG",
+      "countryCode": "BW",
+      "latitude": "-24.75502850",
       "longitude": "21.85685860"
    },
    {
@@ -21,39 +28,11 @@
       "longitude": "26.23046160"
    },
    {
-      "name": "Southern District",
-      "isoCode": "SO",
+      "name": "Kweneng District",
+      "isoCode": "KW",
       "countryCode": "BW",
-      "latitude": null,
-      "longitude": null
-   },
-   {
-      "name": "South-East District",
-      "isoCode": "SE",
-      "countryCode": "BW",
-      "latitude": "31.21637980",
-      "longitude": "-82.35270440"
-   },
-   {
-      "name": "North-West District",
-      "isoCode": "NW",
-      "countryCode": "BW",
-      "latitude": "39.34463070",
-      "longitude": "-76.68542830"
-   },
-   {
-      "name": "Kgalagadi District",
-      "isoCode": "KG",
-      "countryCode": "BW",
-      "latitude": "-24.75502850",
-      "longitude": "21.85685860"
-   },
-   {
-      "name": "Central District",
-      "isoCode": "CE",
-      "countryCode": "BW",
-      "latitude": null,
-      "longitude": null
+      "latitude": "-23.83672490",
+      "longitude": "25.28375850"
    },
    {
       "name": "North-East District",
@@ -63,10 +42,31 @@
       "longitude": "-94.68637820"
    },
    {
-      "name": "Kweneng District",
-      "isoCode": "KW",
+      "name": "Ngamiland",
+      "isoCode": "NG",
       "countryCode": "BW",
-      "latitude": "-23.83672490",
-      "longitude": "25.28375850"
+      "latitude": "-19.19053210",
+      "longitude": "23.00119890"
+   },
+   {
+      "name": "North-West District",
+      "isoCode": "NW",
+      "countryCode": "BW",
+      "latitude": "39.34463070",
+      "longitude": "-76.68542830"
+   },
+   {
+      "name": "South-East District",
+      "isoCode": "SE",
+      "countryCode": "BW",
+      "latitude": "31.21637980",
+      "longitude": "-82.35270440"
+   },
+   {
+      "name": "Southern District",
+      "isoCode": "SO",
+      "countryCode": "BW",
+      "latitude": null,
+      "longitude": null
    }
 ]

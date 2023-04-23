@@ -1,80 +1,10 @@
 [
    {
-      "name": "Ta'izz Governorate",
-      "isoCode": "TA",
-      "countryCode": "YE",
-      "latitude": "13.57758860",
-      "longitude": "44.01779890"
-   },
-   {
-      "name": "Sana'a",
-      "isoCode": "SA",
-      "countryCode": "YE",
-      "latitude": "15.36944510",
-      "longitude": "44.19100660"
-   },
-   {
-      "name": "Ibb Governorate",
-      "isoCode": "IB",
-      "countryCode": "YE",
-      "latitude": "14.14157170",
-      "longitude": "44.24790150"
-   },
-   {
-      "name": "Ma'rib Governorate",
-      "isoCode": "MA",
-      "countryCode": "YE",
-      "latitude": "15.51588800",
-      "longitude": "45.44980650"
-   },
-   {
-      "name": "Al Mahwit Governorate",
-      "isoCode": "MW",
-      "countryCode": "YE",
-      "latitude": "15.39632290",
-      "longitude": "43.56069460"
-   },
-   {
-      "name": "Sana'a Governorate",
-      "isoCode": "SN",
-      "countryCode": "YE",
-      "latitude": "15.31689130",
-      "longitude": "44.47480180"
-   },
-   {
       "name": "Abyan Governorate",
       "isoCode": "AB",
       "countryCode": "YE",
       "latitude": "13.63434130",
       "longitude": "46.05632120"
-   },
-   {
-      "name": "Hadhramaut Governorate",
-      "isoCode": "HD",
-      "countryCode": "YE",
-      "latitude": "16.93041350",
-      "longitude": "49.36531490"
-   },
-   {
-      "name": "Socotra Governorate",
-      "isoCode": "SU",
-      "countryCode": "YE",
-      "latitude": "12.46342050",
-      "longitude": "53.82373850"
-   },
-   {
-      "name": "Al Bayda' Governorate",
-      "isoCode": "BA",
-      "countryCode": "YE",
-      "latitude": "14.35886620",
-      "longitude": "45.44980650"
-   },
-   {
-      "name": "Al Hudaydah Governorate",
-      "isoCode": "HU",
-      "countryCode": "YE",
-      "latitude": "15.30530720",
-      "longitude": "43.01948970"
    },
    {
       "name": "'Adan Governorate",
@@ -84,25 +14,18 @@
       "longitude": "44.79438040"
    },
    {
-      "name": "Al Jawf Governorate",
-      "isoCode": "JA",
+      "name": "'Amran Governorate",
+      "isoCode": "AM",
       "countryCode": "YE",
-      "latitude": "16.79018190",
-      "longitude": "45.29938620"
+      "latitude": "16.25692140",
+      "longitude": "43.94367880"
    },
    {
-      "name": "Hajjah Governorate",
-      "isoCode": "HJ",
+      "name": "Al Bayda' Governorate",
+      "isoCode": "BA",
       "countryCode": "YE",
-      "latitude": "16.11806310",
-      "longitude": "43.32946600"
-   },
-   {
-      "name": "Lahij Governorate",
-      "isoCode": "LA",
-      "countryCode": "YE",
-      "latitude": "13.14895880",
-      "longitude": "44.85054950"
+      "latitude": "14.35886620",
+      "longitude": "45.44980650"
    },
    {
       "name": "Dhamar Governorate",
@@ -112,11 +35,67 @@
       "longitude": "44.24790150"
    },
    {
-      "name": "Shabwah Governorate",
-      "isoCode": "SH",
+      "name": "Hadhramaut Governorate",
+      "isoCode": "HD",
       "countryCode": "YE",
-      "latitude": "14.75463030",
-      "longitude": "46.51626200"
+      "latitude": "16.93041350",
+      "longitude": "49.36531490"
+   },
+   {
+      "name": "Hajjah Governorate",
+      "isoCode": "HJ",
+      "countryCode": "YE",
+      "latitude": "16.11806310",
+      "longitude": "43.32946600"
+   },
+   {
+      "name": "Al Hudaydah Governorate",
+      "isoCode": "HU",
+      "countryCode": "YE",
+      "latitude": "15.30530720",
+      "longitude": "43.01948970"
+   },
+   {
+      "name": "Ibb Governorate",
+      "isoCode": "IB",
+      "countryCode": "YE",
+      "latitude": "14.14157170",
+      "longitude": "44.24790150"
+   },
+   {
+      "name": "Al Jawf Governorate",
+      "isoCode": "JA",
+      "countryCode": "YE",
+      "latitude": "16.79018190",
+      "longitude": "45.29938620"
+   },
+   {
+      "name": "Lahij Governorate",
+      "isoCode": "LA",
+      "countryCode": "YE",
+      "latitude": "13.14895880",
+      "longitude": "44.85054950"
+   },
+   {
+      "name": "Ma'rib Governorate",
+      "isoCode": "MA",
+      "countryCode": "YE",
+      "latitude": "15.51588800",
+      "longitude": "45.44980650"
+   },
+   {
+      "name": "Al Mahrah Governorate",
+      "isoCode": "MR",
+      "countryCode": "YE",
+      "latitude": "16.52384230",
+      "longitude": "51.68342750"
+   },
+   {
+      "name": "Al Mahwit Governorate",
+      "isoCode": "MW",
+      "countryCode": "YE",
+      "latitude": "15.39632290",
+      "longitude": "43.56069460"
    },
    {
       "name": "Raymah Governorate",
@@ -126,6 +105,13 @@
       "longitude": "43.71424840"
    },
    {
+      "name": "Sana'a",
+      "isoCode": "SA",
+      "countryCode": "YE",
+      "latitude": "15.36944510",
+      "longitude": "44.19100660"
+   },
+   {
       "name": "Saada Governorate",
       "isoCode": "SD",
       "countryCode": "YE",
@@ -133,17 +119,31 @@
       "longitude": "43.94367880"
    },
    {
-      "name": "'Amran Governorate",
-      "isoCode": "AM",
+      "name": "Shabwah Governorate",
+      "isoCode": "SH",
       "countryCode": "YE",
-      "latitude": "16.25692140",
-      "longitude": "43.94367880"
+      "latitude": "14.75463030",
+      "longitude": "46.51626200"
    },
    {
-      "name": "Al Mahrah Governorate",
-      "isoCode": "MR",
+      "name": "Sana'a Governorate",
+      "isoCode": "SN",
       "countryCode": "YE",
-      "latitude": "16.52384230",
-      "longitude": "51.68342750"
+      "latitude": "15.31689130",
+      "longitude": "44.47480180"
+   },
+   {
+      "name": "Socotra Governorate",
+      "isoCode": "SU",
+      "countryCode": "YE",
+      "latitude": "12.46342050",
+      "longitude": "53.82373850"
+   },
+   {
+      "name": "Ta'izz Governorate",
+      "isoCode": "TA",
+      "countryCode": "YE",
+      "latitude": "13.57758860",
+      "longitude": "44.01779890"
    }
 ]

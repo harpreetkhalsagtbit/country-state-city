@@ -7,18 +7,18 @@
       "longitude": "86.31667000"
    },
    {
-      "name": "Barki Saria",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "24.17594000",
-      "longitude": "85.88938000"
-   },
-   {
       "name": "Barka Kana",
       "countryCode": "IN",
       "stateCode": "JH",
       "latitude": "23.62118000",
       "longitude": "85.46748000"
+   },
+   {
+      "name": "Barki Saria",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "24.17594000",
+      "longitude": "85.88938000"
    },
    {
       "name": "Barwadih",
@@ -49,25 +49,18 @@
       "longitude": "85.59007000"
    },
    {
+      "name": "Chaibasa",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "22.55038000",
+      "longitude": "85.80249000"
+   },
+   {
       "name": "Chakradharpur",
       "countryCode": "IN",
       "stateCode": "JH",
       "latitude": "22.67611000",
       "longitude": "85.62892000"
-   },
-   {
-      "name": "Chatra",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "24.20645000",
-      "longitude": "84.87085000"
-   },
-   {
-      "name": "Chiria",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "22.31093000",
-      "longitude": "85.27601000"
    },
    {
       "name": "Chakulia",
@@ -91,11 +84,18 @@
       "longitude": "86.16712000"
    },
    {
-      "name": "Chaibasa",
+      "name": "Chatra",
       "countryCode": "IN",
       "stateCode": "JH",
-      "latitude": "22.55038000",
-      "longitude": "85.80249000"
+      "latitude": "24.20645000",
+      "longitude": "84.87085000"
+   },
+   {
+      "name": "Chiria",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "22.31093000",
+      "longitude": "85.27601000"
    },
    {
       "name": "Daltonganj",
@@ -210,18 +210,18 @@
       "longitude": "84.53834000"
    },
    {
-      "name": "Hazaribagh",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "23.99241000",
-      "longitude": "85.36162000"
-   },
-   {
       "name": "Hazaribag",
       "countryCode": "IN",
       "stateCode": "JH",
       "latitude": "24.00000000",
       "longitude": "85.25000000"
+   },
+   {
+      "name": "Hazaribagh",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "23.99241000",
+      "longitude": "85.36162000"
    },
    {
       "name": "Hesla",
@@ -243,6 +243,13 @@
       "stateCode": "JH",
       "latitude": "22.22115000",
       "longitude": "85.63917000"
+   },
+   {
+      "name": "Jamadoba",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "23.71667000",
+      "longitude": "86.40000000"
    },
    {
       "name": "Jamshedpur",
@@ -287,11 +294,32 @@
       "longitude": "85.52951000"
    },
    {
-      "name": "Jamadoba",
+      "name": "Kalikapur",
       "countryCode": "IN",
       "stateCode": "JH",
-      "latitude": "23.71667000",
-      "longitude": "86.40000000"
+      "latitude": "22.61662000",
+      "longitude": "86.28810000"
+   },
+   {
+      "name": "Kandra",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "22.85170000",
+      "longitude": "86.05192000"
+   },
+   {
+      "name": "Kanke",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "23.43478000",
+      "longitude": "85.32059000"
+   },
+   {
+      "name": "Katras",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "23.79752000",
+      "longitude": "86.29834000"
    },
    {
       "name": "Kenduadih",
@@ -327,34 +355,6 @@
       "stateCode": "JH",
       "latitude": "23.72536000",
       "longitude": "85.51023000"
-   },
-   {
-      "name": "Kalikapur",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "22.61662000",
-      "longitude": "86.28810000"
-   },
-   {
-      "name": "Kandra",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "22.85170000",
-      "longitude": "86.05192000"
-   },
-   {
-      "name": "Kanke",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "23.43478000",
-      "longitude": "85.32059000"
-   },
-   {
-      "name": "Katras",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "23.79752000",
-      "longitude": "86.29834000"
    },
    {
       "name": "Latehar",
@@ -448,18 +448,18 @@
       "longitude": "85.50000000"
    },
    {
-      "name": "Purba Singhbhum",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "22.59238000",
-      "longitude": "86.48341000"
-   },
-   {
       "name": "Pathardih",
       "countryCode": "IN",
       "stateCode": "JH",
       "latitude": "23.66580000",
       "longitude": "86.43166000"
+   },
+   {
+      "name": "Purba Singhbhum",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "22.59238000",
+      "longitude": "86.48341000"
    },
    {
       "name": "Ramgarh",
@@ -497,6 +497,13 @@
       "longitude": "85.93126000"
    },
    {
+      "name": "Sarubera",
+      "countryCode": "IN",
+      "stateCode": "JH",
+      "latitude": "23.81813000",
+      "longitude": "85.99628000"
+   },
+   {
       "name": "Sijua",
       "countryCode": "IN",
       "stateCode": "JH",
@@ -516,13 +523,6 @@
       "stateCode": "JH",
       "latitude": "22.79325000",
       "longitude": "85.94543000"
-   },
-   {
-      "name": "Sarubera",
-      "countryCode": "IN",
-      "stateCode": "JH",
-      "latitude": "23.81813000",
-      "longitude": "85.99628000"
    },
    {
       "name": "Topchanchi",

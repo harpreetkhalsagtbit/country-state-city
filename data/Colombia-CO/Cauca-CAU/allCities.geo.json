@@ -77,6 +77,13 @@
       "longitude": "-77.07331000"
    },
    {
+      "name": "Guachené",
+      "countryCode": "CO",
+      "stateCode": "CAU",
+      "latitude": "3.13361111",
+      "longitude": "-76.39255555"
+   },
+   {
       "name": "Guapi",
       "countryCode": "CO",
       "stateCode": "CAU",
@@ -147,18 +154,18 @@
       "longitude": "-76.31385000"
    },
    {
-      "name": "Páez",
-      "countryCode": "CO",
-      "stateCode": "CAU",
-      "latitude": "2.64644000",
-      "longitude": "-75.97269000"
-   },
-   {
       "name": "Patía",
       "countryCode": "CO",
       "stateCode": "CAU",
       "latitude": "2.14018000",
       "longitude": "-77.01744000"
+   },
+   {
+      "name": "Piamonte",
+      "countryCode": "CO",
+      "stateCode": "CAU",
+      "latitude": "1.11583333",
+      "longitude": "-76.32611111"
    },
    {
       "name": "Piendamo",
@@ -189,6 +196,13 @@
       "longitude": "-76.38759000"
    },
    {
+      "name": "Páez",
+      "countryCode": "CO",
+      "stateCode": "CAU",
+      "latitude": "2.64644000",
+      "longitude": "-75.97269000"
+   },
+   {
       "name": "Rosas",
       "countryCode": "CO",
       "stateCode": "CAU",
@@ -201,6 +215,13 @@
       "stateCode": "CAU",
       "latitude": "1.91667000",
       "longitude": "-76.66667000"
+   },
+   {
+      "name": "Santa Rosa",
+      "countryCode": "CO",
+      "stateCode": "CAU",
+      "latitude": "1.70055666",
+      "longitude": "-76.57277888"
    },
    {
       "name": "Santander de Quilichao",
@@ -245,6 +266,13 @@
       "longitude": "-77.66536000"
    },
    {
+      "name": "Timbío",
+      "countryCode": "CO",
+      "stateCode": "CAU",
+      "latitude": "2.35277888",
+      "longitude": "-76.68194444"
+   },
+   {
       "name": "Toribio",
       "countryCode": "CO",
       "stateCode": "CAU",
@@ -264,33 +292,5 @@
       "stateCode": "CAU",
       "latitude": "2.51420000",
       "longitude": "-76.84939000"
-   },
-   {
-      "name": "Guachené",
-      "countryCode": "CO",
-      "stateCode": "CAU",
-      "latitude": "3.13361111",
-      "longitude": "-76.39255555"
-   },
-   {
-      "name": "Piamonte",
-      "countryCode": "CO",
-      "stateCode": "CAU",
-      "latitude": "1.11583333",
-      "longitude": "-76.32611111"
-   },
-   {
-      "name": "Santa Rosa",
-      "countryCode": "CO",
-      "stateCode": "CAU",
-      "latitude": "1.70055666",
-      "longitude": "-76.57277888"
-   },
-   {
-      "name": "Timbío",
-      "countryCode": "CO",
-      "stateCode": "CAU",
-      "latitude": "2.35277888",
-      "longitude": "-76.68194444"
    }
 ]

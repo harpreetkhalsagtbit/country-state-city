@@ -1,68 +1,5 @@
 [
    {
-      "name": "Chihuahua",
-      "isoCode": "CHH",
-      "countryCode": "MX",
-      "latitude": "28.63299570",
-      "longitude": "-106.06910040"
-   },
-   {
-      "name": "Oaxaca",
-      "isoCode": "OAX",
-      "countryCode": "MX",
-      "latitude": "17.07318420",
-      "longitude": "-96.72658890"
-   },
-   {
-      "name": "Sinaloa",
-      "isoCode": "SIN",
-      "countryCode": "MX",
-      "latitude": "25.17210910",
-      "longitude": "-107.47951730"
-   },
-   {
-      "name": "Estado de México",
-      "isoCode": "MEX",
-      "countryCode": "MX",
-      "latitude": "23.63450100",
-      "longitude": "-102.55278400"
-   },
-   {
-      "name": "Chiapas",
-      "isoCode": "CHP",
-      "countryCode": "MX",
-      "latitude": "16.75693180",
-      "longitude": "-93.12923530"
-   },
-   {
-      "name": "Nuevo León",
-      "isoCode": "NLE",
-      "countryCode": "MX",
-      "latitude": "25.59217200",
-      "longitude": "-99.99619470"
-   },
-   {
-      "name": "Durango",
-      "isoCode": "DUR",
-      "countryCode": "MX",
-      "latitude": "37.27528000",
-      "longitude": "-107.88006670"
-   },
-   {
-      "name": "Tabasco",
-      "isoCode": "TAB",
-      "countryCode": "MX",
-      "latitude": "17.84091730",
-      "longitude": "-92.61892730"
-   },
-   {
-      "name": "Querétaro",
-      "isoCode": "QUE",
-      "countryCode": "MX",
-      "latitude": "20.58879320",
-      "longitude": "-100.38988810"
-   },
-   {
       "name": "Aguascalientes",
       "isoCode": "AGU",
       "countryCode": "MX",
@@ -77,20 +14,6 @@
       "longitude": "-115.28375850"
    },
    {
-      "name": "Tlaxcala",
-      "isoCode": "TLA",
-      "countryCode": "MX",
-      "latitude": "19.31815400",
-      "longitude": "-98.23749540"
-   },
-   {
-      "name": "Guerrero",
-      "isoCode": "GRO",
-      "countryCode": "MX",
-      "latitude": "17.43919260",
-      "longitude": "-99.54509740"
-   },
-   {
       "name": "Baja California Sur",
       "isoCode": "BCS",
       "countryCode": "MX",
@@ -98,74 +21,32 @@
       "longitude": "-111.66607250"
    },
    {
-      "name": "San Luis Potosí",
-      "isoCode": "SLP",
+      "name": "Campeche",
+      "isoCode": "CAM",
       "countryCode": "MX",
-      "latitude": "22.15646990",
-      "longitude": "-100.98554090"
+      "latitude": "19.83012510",
+      "longitude": "-90.53490870"
    },
    {
-      "name": "Zacatecas",
-      "isoCode": "ZAC",
+      "name": "Ciudad de México",
+      "isoCode": "CDMX",
       "countryCode": "MX",
-      "latitude": "22.77085550",
-      "longitude": "-102.58324260"
+      "latitude": "19.43260770",
+      "longitude": "-99.13320800"
    },
    {
-      "name": "Tamaulipas",
-      "isoCode": "TAM",
+      "name": "Chihuahua",
+      "isoCode": "CHH",
       "countryCode": "MX",
-      "latitude": "24.26694000",
-      "longitude": "-98.83627550"
+      "latitude": "28.63299570",
+      "longitude": "-106.06910040"
    },
    {
-      "name": "Veracruz de Ignacio de la Llave",
-      "isoCode": "VER",
+      "name": "Chiapas",
+      "isoCode": "CHP",
       "countryCode": "MX",
-      "latitude": "19.17377300",
-      "longitude": "-96.13422410"
-   },
-   {
-      "name": "Morelos",
-      "isoCode": "MOR",
-      "countryCode": "MX",
-      "latitude": "18.68130490",
-      "longitude": "-99.10134980"
-   },
-   {
-      "name": "Yucatán",
-      "isoCode": "YUC",
-      "countryCode": "MX",
-      "latitude": "20.70987860",
-      "longitude": "-89.09433770"
-   },
-   {
-      "name": "Quintana Roo",
-      "isoCode": "ROO",
-      "countryCode": "MX",
-      "latitude": "19.18173930",
-      "longitude": "-88.47913760"
-   },
-   {
-      "name": "Sonora",
-      "isoCode": "SON",
-      "countryCode": "MX",
-      "latitude": "37.98294960",
-      "longitude": "-120.38217240"
-   },
-   {
-      "name": "Guanajuato",
-      "isoCode": "GUA",
-      "countryCode": "MX",
-      "latitude": "21.01901450",
-      "longitude": "-101.25735860"
-   },
-   {
-      "name": "Hidalgo",
-      "isoCode": "HID",
-      "countryCode": "MX",
-      "latitude": "26.10035470",
-      "longitude": "-98.26306840"
+      "latitude": "16.75693180",
+      "longitude": "-93.12923530"
    },
    {
       "name": "Coahuila de Zaragoza",
@@ -182,11 +63,46 @@
       "longitude": "-103.72408680"
    },
    {
-      "name": "Ciudad de México",
-      "isoCode": "CDMX",
+      "name": "Durango",
+      "isoCode": "DUR",
       "countryCode": "MX",
-      "latitude": "19.43260770",
-      "longitude": "-99.13320800"
+      "latitude": "37.27528000",
+      "longitude": "-107.88006670"
+   },
+   {
+      "name": "Guerrero",
+      "isoCode": "GRO",
+      "countryCode": "MX",
+      "latitude": "17.43919260",
+      "longitude": "-99.54509740"
+   },
+   {
+      "name": "Guanajuato",
+      "isoCode": "GUA",
+      "countryCode": "MX",
+      "latitude": "21.01901450",
+      "longitude": "-101.25735860"
+   },
+   {
+      "name": "Hidalgo",
+      "isoCode": "HID",
+      "countryCode": "MX",
+      "latitude": "26.10035470",
+      "longitude": "-98.26306840"
+   },
+   {
+      "name": "Jalisco",
+      "isoCode": "JAL",
+      "countryCode": "MX",
+      "latitude": "20.65953820",
+      "longitude": "-103.34943760"
+   },
+   {
+      "name": "Estado de México",
+      "isoCode": "MEX",
+      "countryCode": "MX",
+      "latitude": "23.63450100",
+      "longitude": "-102.55278400"
    },
    {
       "name": "Michoacán de Ocampo",
@@ -196,18 +112,11 @@
       "longitude": "-101.70682940"
    },
    {
-      "name": "Campeche",
-      "isoCode": "CAM",
+      "name": "Morelos",
+      "isoCode": "MOR",
       "countryCode": "MX",
-      "latitude": "19.83012510",
-      "longitude": "-90.53490870"
-   },
-   {
-      "name": "Puebla",
-      "isoCode": "PUE",
-      "countryCode": "MX",
-      "latitude": "19.04143980",
-      "longitude": "-98.20627270"
+      "latitude": "18.68130490",
+      "longitude": "-99.10134980"
    },
    {
       "name": "Nayarit",
@@ -217,10 +126,101 @@
       "longitude": "-104.84546190"
    },
    {
-      "name": "Jalisco",
-      "isoCode": "JAL",
+      "name": "Nuevo León",
+      "isoCode": "NLE",
       "countryCode": "MX",
-      "latitude": "20.65953820",
-      "longitude": "-103.34943760"
+      "latitude": "25.59217200",
+      "longitude": "-99.99619470"
+   },
+   {
+      "name": "Oaxaca",
+      "isoCode": "OAX",
+      "countryCode": "MX",
+      "latitude": "17.07318420",
+      "longitude": "-96.72658890"
+   },
+   {
+      "name": "Puebla",
+      "isoCode": "PUE",
+      "countryCode": "MX",
+      "latitude": "19.04143980",
+      "longitude": "-98.20627270"
+   },
+   {
+      "name": "Querétaro",
+      "isoCode": "QUE",
+      "countryCode": "MX",
+      "latitude": "20.58879320",
+      "longitude": "-100.38988810"
+   },
+   {
+      "name": "Quintana Roo",
+      "isoCode": "ROO",
+      "countryCode": "MX",
+      "latitude": "19.18173930",
+      "longitude": "-88.47913760"
+   },
+   {
+      "name": "Sinaloa",
+      "isoCode": "SIN",
+      "countryCode": "MX",
+      "latitude": "25.17210910",
+      "longitude": "-107.47951730"
+   },
+   {
+      "name": "San Luis Potosí",
+      "isoCode": "SLP",
+      "countryCode": "MX",
+      "latitude": "22.15646990",
+      "longitude": "-100.98554090"
+   },
+   {
+      "name": "Sonora",
+      "isoCode": "SON",
+      "countryCode": "MX",
+      "latitude": "37.98294960",
+      "longitude": "-120.38217240"
+   },
+   {
+      "name": "Tabasco",
+      "isoCode": "TAB",
+      "countryCode": "MX",
+      "latitude": "17.84091730",
+      "longitude": "-92.61892730"
+   },
+   {
+      "name": "Tamaulipas",
+      "isoCode": "TAM",
+      "countryCode": "MX",
+      "latitude": "24.26694000",
+      "longitude": "-98.83627550"
+   },
+   {
+      "name": "Tlaxcala",
+      "isoCode": "TLA",
+      "countryCode": "MX",
+      "latitude": "19.31815400",
+      "longitude": "-98.23749540"
+   },
+   {
+      "name": "Veracruz de Ignacio de la Llave",
+      "isoCode": "VER",
+      "countryCode": "MX",
+      "latitude": "19.17377300",
+      "longitude": "-96.13422410"
+   },
+   {
+      "name": "Yucatán",
+      "isoCode": "YUC",
+      "countryCode": "MX",
+      "latitude": "20.70987860",
+      "longitude": "-89.09433770"
+   },
+   {
+      "name": "Zacatecas",
+      "isoCode": "ZAC",
+      "countryCode": "MX",
+      "latitude": "22.77085550",
+      "longitude": "-102.58324260"
    }
 ]

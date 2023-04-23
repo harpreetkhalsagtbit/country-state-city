@@ -1,5 +1,12 @@
 [
    {
+      "name": "Abu Radif",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.61860000",
+      "longitude": "43.13110000"
+   },
+   {
       "name": "Abū ‘Arīsh",
       "countryCode": "SA",
       "stateCode": "09",
@@ -12,62 +19,6 @@
       "stateCode": "09",
       "latitude": "17.72285000",
       "longitude": "42.25261000"
-   },
-   {
-      "name": "Al Jarādīyah",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.57946000",
-      "longitude": "42.91240000"
-   },
-   {
-      "name": "Farasān",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.70222000",
-      "longitude": "42.11833000"
-   },
-   {
-      "name": "Jizan",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.88917000",
-      "longitude": "42.55111000"
-   },
-   {
-      "name": "Mislīyah",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "17.45988000",
-      "longitude": "42.55720000"
-   },
-   {
-      "name": "Mizhirah",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.82611000",
-      "longitude": "42.73333000"
-   },
-   {
-      "name": "Şabyā",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "17.14950000",
-      "longitude": "42.62537000"
-   },
-   {
-      "name": "Şāmitah",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.59601000",
-      "longitude": "42.94435000"
-   },
-   {
-      "name": "Abu Radif",
-      "countryCode": "SA",
-      "stateCode": "09",
-      "latitude": "16.61860000",
-      "longitude": "43.13110000"
    },
    {
       "name": "Ad Dur`iyah",
@@ -131,6 +82,13 @@
       "stateCode": "09",
       "latitude": "16.64500000",
       "longitude": "42.99470000"
+   },
+   {
+      "name": "Al Jarādīyah",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.57946000",
+      "longitude": "42.91240000"
    },
    {
       "name": "Al Jawah",
@@ -315,6 +273,13 @@
       "longitude": "42.59890000"
    },
    {
+      "name": "Farasān",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.70222000",
+      "longitude": "42.11833000"
+   },
+   {
       "name": "Ghawiyah",
       "countryCode": "SA",
       "stateCode": "09",
@@ -334,6 +299,13 @@
       "stateCode": "09",
       "latitude": "16.76190000",
       "longitude": "42.92220000"
+   },
+   {
+      "name": "Jizan",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.88917000",
+      "longitude": "42.55111000"
    },
    {
       "name": "Juha, Saudi Arabia",
@@ -399,6 +371,20 @@
       "longitude": "42.67388889"
    },
    {
+      "name": "Mislīyah",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "17.45988000",
+      "longitude": "42.55720000"
+   },
+   {
+      "name": "Mizhirah",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.82611000",
+      "longitude": "42.73333000"
+   },
+   {
       "name": "Mukambal",
       "countryCode": "SA",
       "stateCode": "09",
@@ -460,5 +446,19 @@
       "stateCode": "09",
       "latitude": "16.97530000",
       "longitude": "42.75640000"
+   },
+   {
+      "name": "Şabyā",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "17.14950000",
+      "longitude": "42.62537000"
+   },
+   {
+      "name": "Şāmitah",
+      "countryCode": "SA",
+      "stateCode": "09",
+      "latitude": "16.59601000",
+      "longitude": "42.94435000"
    }
 ]

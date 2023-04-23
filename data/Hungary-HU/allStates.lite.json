@@ -1,22 +1,32 @@
 [
    {
-      "name": "Hódmezővásárhely",
-      "isoCode": "HV",
+      "name": "Baranya County",
+      "isoCode": "BA",
       "countryCode": "HU"
    },
    {
-      "name": "Érd",
-      "isoCode": "ER",
+      "name": "Békéscsaba",
+      "isoCode": "BC",
       "countryCode": "HU"
    },
    {
-      "name": "Szeged",
-      "isoCode": "SD",
+      "name": "Békés County",
+      "isoCode": "BE",
       "countryCode": "HU"
    },
    {
-      "name": "Nagykanizsa",
-      "isoCode": "NK",
+      "name": "Bács-Kiskun County",
+      "isoCode": "BK",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Budapest",
+      "isoCode": "BU",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Borsod-Abaúj-Zemplén County",
+      "isoCode": "BZ",
       "countryCode": "HU"
    },
    {
@@ -30,8 +40,78 @@
       "countryCode": "HU"
    },
    {
-      "name": "Székesfehérvár",
-      "isoCode": "SF",
+      "name": "Dunaújváros",
+      "isoCode": "DU",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Eger",
+      "isoCode": "EG",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Érd",
+      "isoCode": "ER",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Fejér County",
+      "isoCode": "FE",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Győr-Moson-Sopron County",
+      "isoCode": "GS",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Győr",
+      "isoCode": "GY",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Hajdú-Bihar County",
+      "isoCode": "HB",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Heves County",
+      "isoCode": "HE",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Hódmezővásárhely",
+      "isoCode": "HV",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Jász-Nagykun-Szolnok County",
+      "isoCode": "JN",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Kecskemét",
+      "isoCode": "KM",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Kaposvár",
+      "isoCode": "KV",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Miskolc",
+      "isoCode": "MI",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Nagykanizsa",
+      "isoCode": "NK",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Nógrád County",
+      "isoCode": "NO",
       "countryCode": "HU"
    },
    {
@@ -40,18 +120,63 @@
       "countryCode": "HU"
    },
    {
+      "name": "Pest County",
+      "isoCode": "PE",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Pécs",
+      "isoCode": "PS",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Szeged",
+      "isoCode": "SD",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Székesfehérvár",
+      "isoCode": "SF",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Szombathely",
+      "isoCode": "SH",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Szolnok",
+      "isoCode": "SK",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Sopron",
+      "isoCode": "SN",
+      "countryCode": "HU"
+   },
+   {
       "name": "Somogy County",
       "isoCode": "SO",
       "countryCode": "HU"
    },
    {
-      "name": "Békéscsaba",
-      "isoCode": "BC",
+      "name": "Szekszárd",
+      "isoCode": "SS",
       "countryCode": "HU"
    },
    {
-      "name": "Eger",
-      "isoCode": "EG",
+      "name": "Salgótarján",
+      "isoCode": "ST",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Szabolcs-Szatmár-Bereg County",
+      "isoCode": "SZ",
+      "countryCode": "HU"
+   },
+   {
+      "name": "Tatabánya",
+      "isoCode": "TB",
       "countryCode": "HU"
    },
    {
@@ -65,113 +190,8 @@
       "countryCode": "HU"
    },
    {
-      "name": "Heves County",
-      "isoCode": "HE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Győr",
-      "isoCode": "GY",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Győr-Moson-Sopron County",
-      "isoCode": "GS",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Jász-Nagykun-Szolnok County",
-      "isoCode": "JN",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Fejér County",
-      "isoCode": "FE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Szabolcs-Szatmár-Bereg County",
-      "isoCode": "SZ",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Zala County",
-      "isoCode": "ZA",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Szolnok",
-      "isoCode": "SK",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Bács-Kiskun County",
-      "isoCode": "BK",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Dunaújváros",
-      "isoCode": "DU",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Zalaegerszeg",
-      "isoCode": "ZE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Nógrád County",
-      "isoCode": "NO",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Szombathely",
-      "isoCode": "SH",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Pécs",
-      "isoCode": "PS",
-      "countryCode": "HU"
-   },
-   {
       "name": "Veszprém County",
       "isoCode": "VE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Baranya County",
-      "isoCode": "BA",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Kecskemét",
-      "isoCode": "KM",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Sopron",
-      "isoCode": "SN",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Borsod-Abaúj-Zemplén County",
-      "isoCode": "BZ",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Pest County",
-      "isoCode": "PE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Békés County",
-      "isoCode": "BE",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Szekszárd",
-      "isoCode": "SS",
       "countryCode": "HU"
    },
    {
@@ -180,33 +200,13 @@
       "countryCode": "HU"
    },
    {
-      "name": "Hajdú-Bihar County",
-      "isoCode": "HB",
+      "name": "Zala County",
+      "isoCode": "ZA",
       "countryCode": "HU"
    },
    {
-      "name": "Budapest",
-      "isoCode": "BU",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Miskolc",
-      "isoCode": "MI",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Tatabánya",
-      "isoCode": "TB",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Kaposvár",
-      "isoCode": "KV",
-      "countryCode": "HU"
-   },
-   {
-      "name": "Salgótarján",
-      "isoCode": "ST",
+      "name": "Zalaegerszeg",
+      "isoCode": "ZE",
       "countryCode": "HU"
    }
 ]

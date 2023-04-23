@@ -1,5 +1,12 @@
 [
    {
+      "name": "Amli",
+      "countryCode": "IN",
+      "stateCode": "DH",
+      "latitude": "20.28333000",
+      "longitude": "73.01667000"
+   },
+   {
       "name": "Dadra",
       "countryCode": "IN",
       "stateCode": "DH",
@@ -40,12 +47,5 @@
       "stateCode": "DH",
       "latitude": "20.27386000",
       "longitude": "72.99673000"
-   },
-   {
-      "name": "Amli",
-      "countryCode": "IN",
-      "stateCode": "DH",
-      "latitude": "20.28333000",
-      "longitude": "73.01667000"
    }
 ]

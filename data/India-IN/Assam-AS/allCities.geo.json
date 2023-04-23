@@ -49,6 +49,13 @@
       "longitude": "90.96937000"
    },
    {
+      "name": "Basugaon",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.46742000",
+      "longitude": "90.41951000"
+   },
+   {
       "name": "Bihpuriagaon",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -91,18 +98,11 @@
       "longitude": "90.64640000"
    },
    {
-      "name": "Basugaon",
+      "name": "Cachar",
       "countryCode": "IN",
       "stateCode": "AS",
-      "latitude": "26.46742000",
-      "longitude": "90.41951000"
-   },
-   {
-      "name": "Chirang",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.52527000",
-      "longitude": "90.49066000"
+      "latitude": "24.78213000",
+      "longitude": "92.85771000"
    },
    {
       "name": "Chabua",
@@ -119,11 +119,11 @@
       "longitude": "90.44556000"
    },
    {
-      "name": "Cachar",
+      "name": "Chirang",
       "countryCode": "IN",
       "stateCode": "AS",
-      "latitude": "24.78213000",
-      "longitude": "92.85771000"
+      "latitude": "26.52527000",
+      "longitude": "90.49066000"
    },
    {
       "name": "Darrang",
@@ -224,6 +224,13 @@
       "longitude": "89.96118000"
    },
    {
+      "name": "Goalpara",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.12791000",
+      "longitude": "90.60974000"
+   },
+   {
       "name": "Gohpur",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -252,13 +259,6 @@
       "longitude": "89.96307000"
    },
    {
-      "name": "Goalpara",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.12791000",
-      "longitude": "90.60974000"
-   },
-   {
       "name": "Guwahati",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -266,11 +266,25 @@
       "longitude": "91.74580000"
    },
    {
+      "name": "Haflong",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "25.16478000",
+      "longitude": "93.01744000"
+   },
+   {
       "name": "Hailakandi",
       "countryCode": "IN",
       "stateCode": "AS",
       "latitude": "24.50170000",
       "longitude": "92.60069000"
+   },
+   {
+      "name": "Hajo",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.24520000",
+      "longitude": "91.52525000"
    },
    {
       "name": "Hojai",
@@ -287,20 +301,6 @@
       "longitude": "90.98004000"
    },
    {
-      "name": "Haflong",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "25.16478000",
-      "longitude": "93.01744000"
-   },
-   {
-      "name": "Hajo",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.24520000",
-      "longitude": "91.52525000"
-   },
-   {
       "name": "Jogighopa",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -315,11 +315,25 @@
       "longitude": "94.26000000"
    },
    {
+      "name": "Kamrup",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.22322000",
+      "longitude": "91.65344000"
+   },
+   {
       "name": "Kamrup Metropolitan",
       "countryCode": "IN",
       "stateCode": "AS",
       "latitude": "26.05375000",
       "longitude": "92.00763000"
+   },
+   {
+      "name": "Karbi Anglong",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.00000000",
+      "longitude": "93.50000000"
    },
    {
       "name": "Karimganj",
@@ -343,20 +357,6 @@
       "longitude": "90.20000000"
    },
    {
-      "name": "Kamrup",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.22322000",
-      "longitude": "91.65344000"
-   },
-   {
-      "name": "Karbi Anglong",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.00000000",
-      "longitude": "93.50000000"
-   },
-   {
       "name": "Lakhimpur",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -371,18 +371,18 @@
       "longitude": "93.00910000"
    },
    {
-      "name": "Lumding Railway Colony",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "25.74903000",
-      "longitude": "93.16998000"
-   },
-   {
       "name": "Lala",
       "countryCode": "IN",
       "stateCode": "AS",
       "latitude": "24.55418000",
       "longitude": "92.61592000"
+   },
+   {
+      "name": "Lumding Railway Colony",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "25.74903000",
+      "longitude": "93.16998000"
    },
    {
       "name": "Mahur",
@@ -399,6 +399,13 @@
       "longitude": "93.13811000"
    },
    {
+      "name": "Makum",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "27.48652000",
+      "longitude": "95.43646000"
+   },
+   {
       "name": "Mangaldai",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -413,13 +420,6 @@
       "longitude": "94.31529000"
    },
    {
-      "name": "Morigaon",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.25213000",
-      "longitude": "92.34238000"
-   },
-   {
       "name": "Moranha",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -427,11 +427,11 @@
       "longitude": "94.91557000"
    },
    {
-      "name": "Makum",
+      "name": "Morigaon",
       "countryCode": "IN",
       "stateCode": "AS",
-      "latitude": "27.48652000",
-      "longitude": "95.43646000"
+      "latitude": "26.25213000",
+      "longitude": "92.34238000"
    },
    {
       "name": "Nagaon",
@@ -455,6 +455,20 @@
       "longitude": "91.40000000"
    },
    {
+      "name": "Namrup",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "27.19395000",
+      "longitude": "95.31929000"
+   },
+   {
+      "name": "Nazira",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.91649000",
+      "longitude": "94.73611000"
+   },
+   {
       "name": "North Guwahati",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -476,20 +490,6 @@
       "longitude": "93.72225000"
    },
    {
-      "name": "Namrup",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "27.19395000",
-      "longitude": "95.31929000"
-   },
-   {
-      "name": "Nazira",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.91649000",
-      "longitude": "94.73611000"
-   },
-   {
       "name": "Palasbari",
       "countryCode": "IN",
       "stateCode": "AS",
@@ -504,18 +504,18 @@
       "longitude": "92.51667000"
    },
    {
-      "name": "Rangia",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.44931000",
-      "longitude": "91.61356000"
-   },
-   {
       "name": "Rangapara",
       "countryCode": "IN",
       "stateCode": "AS",
       "latitude": "26.83772000",
       "longitude": "92.66876000"
+   },
+   {
+      "name": "Rangia",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.44931000",
+      "longitude": "91.61356000"
    },
    {
       "name": "Sapatgram",
@@ -560,18 +560,18 @@
       "longitude": "91.57111000"
    },
    {
-      "name": "Sonitpur",
-      "countryCode": "IN",
-      "stateCode": "AS",
-      "latitude": "26.76748000",
-      "longitude": "92.96425000"
-   },
-   {
       "name": "Sonari",
       "countryCode": "IN",
       "stateCode": "AS",
       "latitude": "27.02462000",
       "longitude": "95.01629000"
+   },
+   {
+      "name": "Sonitpur",
+      "countryCode": "IN",
+      "stateCode": "AS",
+      "latitude": "26.76748000",
+      "longitude": "92.96425000"
    },
    {
       "name": "Sorbhog",

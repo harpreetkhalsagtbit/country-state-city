@@ -1,52 +1,17 @@
 [
    {
-      "name": "Northland Region",
-      "isoCode": "NTL",
+      "name": "Auckland Region",
+      "isoCode": "AUK",
       "countryCode": "NZ",
-      "latitude": "-35.41361720",
-      "longitude": "173.93208060"
+      "latitude": "-36.66753280",
+      "longitude": "174.77333250"
    },
    {
-      "name": "Manawatu-Wanganui Region",
-      "isoCode": "MWT",
+      "name": "Bay of Plenty Region",
+      "isoCode": "BOP",
       "countryCode": "NZ",
-      "latitude": "-39.72733560",
-      "longitude": "175.43755740"
-   },
-   {
-      "name": "Waikato Region",
-      "isoCode": "WKO",
-      "countryCode": "NZ",
-      "latitude": "-37.61908620",
-      "longitude": "175.02334600"
-   },
-   {
-      "name": "Otago Region",
-      "isoCode": "OTA",
-      "countryCode": "NZ",
-      "latitude": "-45.47906710",
-      "longitude": "170.15475670"
-   },
-   {
-      "name": "Marlborough Region",
-      "isoCode": "MBH",
-      "countryCode": "NZ",
-      "latitude": "-41.59168830",
-      "longitude": "173.76240530"
-   },
-   {
-      "name": "West Coast Region",
-      "isoCode": "WTC",
-      "countryCode": "NZ",
-      "latitude": "62.41136340",
-      "longitude": "-149.07297140"
-   },
-   {
-      "name": "Wellington Region",
-      "isoCode": "WGN",
-      "countryCode": "NZ",
-      "latitude": "-41.02993230",
-      "longitude": "175.43755740"
+      "latitude": "-37.42339170",
+      "longitude": "176.74163740"
    },
    {
       "name": "Canterbury Region",
@@ -70,11 +35,25 @@
       "longitude": "178.32393090"
    },
    {
-      "name": "Taranaki Region",
-      "isoCode": "TKI",
+      "name": "Hawke's Bay Region",
+      "isoCode": "HKB",
       "countryCode": "NZ",
-      "latitude": "-39.35381490",
-      "longitude": "174.43827210"
+      "latitude": "-39.60165970",
+      "longitude": "176.58044730"
+   },
+   {
+      "name": "Marlborough Region",
+      "isoCode": "MBH",
+      "countryCode": "NZ",
+      "latitude": "-41.59168830",
+      "longitude": "173.76240530"
+   },
+   {
+      "name": "Manawatu-Wanganui Region",
+      "isoCode": "MWT",
+      "countryCode": "NZ",
+      "latitude": "-39.72733560",
+      "longitude": "175.43755740"
    },
    {
       "name": "Nelson Region",
@@ -84,18 +63,25 @@
       "longitude": "173.24414910"
    },
    {
+      "name": "Northland Region",
+      "isoCode": "NTL",
+      "countryCode": "NZ",
+      "latitude": "-35.41361720",
+      "longitude": "173.93208060"
+   },
+   {
+      "name": "Otago Region",
+      "isoCode": "OTA",
+      "countryCode": "NZ",
+      "latitude": "-45.47906710",
+      "longitude": "170.15475670"
+   },
+   {
       "name": "Southland Region",
       "isoCode": "STL",
       "countryCode": "NZ",
       "latitude": "-45.84891590",
       "longitude": "167.67553870"
-   },
-   {
-      "name": "Auckland Region",
-      "isoCode": "AUK",
-      "countryCode": "NZ",
-      "latitude": "-36.66753280",
-      "longitude": "174.77333250"
    },
    {
       "name": "Tasman District",
@@ -105,17 +91,31 @@
       "longitude": "172.82097400"
    },
    {
-      "name": "Bay of Plenty Region",
-      "isoCode": "BOP",
+      "name": "Taranaki Region",
+      "isoCode": "TKI",
       "countryCode": "NZ",
-      "latitude": "-37.42339170",
-      "longitude": "176.74163740"
+      "latitude": "-39.35381490",
+      "longitude": "174.43827210"
    },
    {
-      "name": "Hawke's Bay Region",
-      "isoCode": "HKB",
+      "name": "Wellington Region",
+      "isoCode": "WGN",
       "countryCode": "NZ",
-      "latitude": "-39.60165970",
-      "longitude": "176.58044730"
+      "latitude": "-41.02993230",
+      "longitude": "175.43755740"
+   },
+   {
+      "name": "Waikato Region",
+      "isoCode": "WKO",
+      "countryCode": "NZ",
+      "latitude": "-37.61908620",
+      "longitude": "175.02334600"
+   },
+   {
+      "name": "West Coast Region",
+      "isoCode": "WTC",
+      "countryCode": "NZ",
+      "latitude": "62.41136340",
+      "longitude": "-149.07297140"
    }
 ]

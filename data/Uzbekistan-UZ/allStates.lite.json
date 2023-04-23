@@ -1,12 +1,12 @@
 [
    {
-      "name": "Tashkent",
-      "isoCode": "TK",
+      "name": "Andijan Region",
+      "isoCode": "AN",
       "countryCode": "UZ"
    },
    {
-      "name": "Namangan Region",
-      "isoCode": "NG",
+      "name": "Bukhara Region",
+      "isoCode": "BU",
       "countryCode": "UZ"
    },
    {
@@ -15,18 +15,13 @@
       "countryCode": "UZ"
    },
    {
-      "name": "Xorazm Region",
-      "isoCode": "XO",
+      "name": "Jizzakh Region",
+      "isoCode": "JI",
       "countryCode": "UZ"
    },
    {
-      "name": "Andijan Region",
-      "isoCode": "AN",
-      "countryCode": "UZ"
-   },
-   {
-      "name": "Bukhara Region",
-      "isoCode": "BU",
+      "name": "Namangan Region",
+      "isoCode": "NG",
       "countryCode": "UZ"
    },
    {
@@ -40,18 +35,13 @@
       "countryCode": "UZ"
    },
    {
+      "name": "Karakalpakstan",
+      "isoCode": "QR",
+      "countryCode": "UZ"
+   },
+   {
       "name": "Samarqand Region",
       "isoCode": "SA",
-      "countryCode": "UZ"
-   },
-   {
-      "name": "Jizzakh Region",
-      "isoCode": "JI",
-      "countryCode": "UZ"
-   },
-   {
-      "name": "Surxondaryo Region",
-      "isoCode": "SU",
       "countryCode": "UZ"
    },
    {
@@ -60,13 +50,23 @@
       "countryCode": "UZ"
    },
    {
-      "name": "Karakalpakstan",
-      "isoCode": "QR",
+      "name": "Surxondaryo Region",
+      "isoCode": "SU",
+      "countryCode": "UZ"
+   },
+   {
+      "name": "Tashkent",
+      "isoCode": "TK",
       "countryCode": "UZ"
    },
    {
       "name": "Tashkent Region",
       "isoCode": "TO",
+      "countryCode": "UZ"
+   },
+   {
+      "name": "Xorazm Region",
+      "isoCode": "XO",
       "countryCode": "UZ"
    }
 ]

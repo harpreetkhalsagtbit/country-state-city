@@ -1,12 +1,5 @@
 [
    {
-      "name": "Phoenix Islands",
-      "isoCode": "P",
-      "countryCode": "KI",
-      "latitude": "33.32843690",
-      "longitude": "-111.98247740"
-   },
-   {
       "name": "Gilbert Islands",
       "isoCode": "G",
       "countryCode": "KI",
@@ -19,5 +12,12 @@
       "countryCode": "KI",
       "latitude": "1.74294390",
       "longitude": "-157.21328260"
+   },
+   {
+      "name": "Phoenix Islands",
+      "isoCode": "P",
+      "countryCode": "KI",
+      "latitude": "33.32843690",
+      "longitude": "-111.98247740"
    }
 ]

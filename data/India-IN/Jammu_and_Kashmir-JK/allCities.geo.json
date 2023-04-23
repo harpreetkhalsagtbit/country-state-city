@@ -49,6 +49,13 @@
       "longitude": "75.19684000"
    },
    {
+      "name": "Baramula",
+      "countryCode": "IN",
+      "stateCode": "JK",
+      "latitude": "34.19287000",
+      "longitude": "74.36920000"
+   },
+   {
       "name": "Batoti",
       "countryCode": "IN",
       "stateCode": "JK",
@@ -77,18 +84,18 @@
       "longitude": "74.85557000"
    },
    {
-      "name": "Baramula",
-      "countryCode": "IN",
-      "stateCode": "JK",
-      "latitude": "34.19287000",
-      "longitude": "74.36920000"
-   },
-   {
       "name": "Doda",
       "countryCode": "IN",
       "stateCode": "JK",
       "latitude": "33.14916000",
       "longitude": "75.54746000"
+   },
+   {
+      "name": "Gandarbal",
+      "countryCode": "IN",
+      "stateCode": "JK",
+      "latitude": "34.22619000",
+      "longitude": "74.77478000"
    },
    {
       "name": "Ganderbal",
@@ -105,11 +112,11 @@
       "longitude": "74.95390000"
    },
    {
-      "name": "Gandarbal",
+      "name": "Hajan",
       "countryCode": "IN",
       "stateCode": "JK",
-      "latitude": "34.22619000",
-      "longitude": "74.77478000"
+      "latitude": "34.29895000",
+      "longitude": "74.61681000"
    },
    {
       "name": "Hiranagar",
@@ -117,13 +124,6 @@
       "stateCode": "JK",
       "latitude": "32.45493000",
       "longitude": "75.27187000"
-   },
-   {
-      "name": "Hajan",
-      "countryCode": "IN",
-      "stateCode": "JK",
-      "latitude": "34.29895000",
-      "longitude": "74.61681000"
    },
    {
       "name": "Jammu",
@@ -168,6 +168,13 @@
       "longitude": "76.01462000"
    },
    {
+      "name": "Kud",
+      "countryCode": "IN",
+      "stateCode": "JK",
+      "latitude": "33.07246000",
+      "longitude": "75.28727000"
+   },
+   {
       "name": "Kulgam",
       "countryCode": "IN",
       "stateCode": "JK",
@@ -180,13 +187,6 @@
       "stateCode": "JK",
       "latitude": "34.53193000",
       "longitude": "74.26605000"
-   },
-   {
-      "name": "Kud",
-      "countryCode": "IN",
-      "stateCode": "JK",
-      "latitude": "33.07246000",
-      "longitude": "75.28727000"
    },
    {
       "name": "Ladakh",
@@ -273,25 +273,18 @@
       "longitude": "74.30920000"
    },
    {
-      "name": "Ramban",
-      "countryCode": "IN",
-      "stateCode": "JK",
-      "latitude": "33.32301000",
-      "longitude": "75.18610000"
-   },
-   {
-      "name": "Riasi",
-      "countryCode": "IN",
-      "stateCode": "JK",
-      "latitude": "33.08115000",
-      "longitude": "74.83242000"
-   },
-   {
       "name": "Rajauri",
       "countryCode": "IN",
       "stateCode": "JK",
       "latitude": "33.25000000",
       "longitude": "74.25000000"
+   },
+   {
+      "name": "Ramban",
+      "countryCode": "IN",
+      "stateCode": "JK",
+      "latitude": "33.32301000",
+      "longitude": "75.18610000"
    },
    {
       "name": "Ramgarh",
@@ -306,6 +299,13 @@
       "stateCode": "JK",
       "latitude": "32.80728000",
       "longitude": "75.31119000"
+   },
+   {
+      "name": "Riasi",
+      "countryCode": "IN",
+      "stateCode": "JK",
+      "latitude": "33.08115000",
+      "longitude": "74.83242000"
    },
    {
       "name": "Samba",

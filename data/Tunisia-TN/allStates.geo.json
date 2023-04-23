@@ -1,5 +1,12 @@
 [
    {
+      "name": "Tunis Governorate",
+      "isoCode": "11",
+      "countryCode": "TN",
+      "latitude": "36.83749460",
+      "longitude": "10.19273890"
+   },
+   {
       "name": "Ariana Governorate",
       "isoCode": "12",
       "countryCode": "TN",
@@ -7,32 +14,11 @@
       "longitude": "10.12551640"
    },
    {
-      "name": "Bizerte Governorate",
-      "isoCode": "23",
+      "name": "Ben Arous Governorate",
+      "isoCode": "13",
       "countryCode": "TN",
-      "latitude": "37.16093970",
-      "longitude": "9.63413500"
-   },
-   {
-      "name": "Jendouba Governorate",
-      "isoCode": "32",
-      "countryCode": "TN",
-      "latitude": "36.71818620",
-      "longitude": "8.74811670"
-   },
-   {
-      "name": "Monastir Governorate",
-      "isoCode": "52",
-      "countryCode": "TN",
-      "latitude": "35.76425150",
-      "longitude": "10.81128850"
-   },
-   {
-      "name": "Tunis Governorate",
-      "isoCode": "11",
-      "countryCode": "TN",
-      "latitude": "36.83749460",
-      "longitude": "10.19273890"
+      "latitude": "36.64356060",
+      "longitude": "10.21515780"
    },
    {
       "name": "Manouba Governorate",
@@ -42,39 +28,32 @@
       "longitude": "9.85714160"
    },
    {
-      "name": "Gafsa Governorate",
-      "isoCode": "71",
+      "name": "Zaghouan Governorate",
+      "isoCode": "22",
       "countryCode": "TN",
-      "latitude": "34.37885050",
-      "longitude": "8.66005860"
+      "latitude": "36.40911880",
+      "longitude": "10.14231720"
    },
    {
-      "name": "Sfax Governorate",
-      "isoCode": "61",
+      "name": "Bizerte Governorate",
+      "isoCode": "23",
       "countryCode": "TN",
-      "latitude": "34.86065810",
-      "longitude": "10.34978950"
+      "latitude": "37.16093970",
+      "longitude": "9.63413500"
    },
    {
-      "name": "Gabès Governorate",
-      "isoCode": "81",
+      "name": "Kassrine",
+      "isoCode": "31",
       "countryCode": "TN",
-      "latitude": "33.94596480",
-      "longitude": "9.72326730"
+      "latitude": "35.17227160",
+      "longitude": "8.83076260"
    },
    {
-      "name": "Tataouine Governorate",
-      "isoCode": "83",
+      "name": "Jendouba Governorate",
+      "isoCode": "32",
       "countryCode": "TN",
-      "latitude": "32.13441220",
-      "longitude": "10.08072980"
-   },
-   {
-      "name": "Medenine Governorate",
-      "isoCode": "82",
-      "countryCode": "TN",
-      "latitude": "33.22805650",
-      "longitude": "10.89030990"
+      "latitude": "36.71818620",
+      "longitude": "8.74811670"
    },
    {
       "name": "Kef Governorate",
@@ -82,13 +61,6 @@
       "countryCode": "TN",
       "latitude": "36.12305120",
       "longitude": "8.66005860"
-   },
-   {
-      "name": "Kebili Governorate",
-      "isoCode": "73",
-      "countryCode": "TN",
-      "latitude": "33.70715510",
-      "longitude": "8.97146230"
    },
    {
       "name": "Siliana Governorate",
@@ -105,18 +77,11 @@
       "longitude": "10.10054690"
    },
    {
-      "name": "Zaghouan Governorate",
-      "isoCode": "22",
+      "name": "Kasserine Governorate",
+      "isoCode": "42",
       "countryCode": "TN",
-      "latitude": "36.40911880",
-      "longitude": "10.14231720"
-   },
-   {
-      "name": "Ben Arous Governorate",
-      "isoCode": "13",
-      "countryCode": "TN",
-      "latitude": "36.64356060",
-      "longitude": "10.21515780"
+      "latitude": "35.08091480",
+      "longitude": "8.66005860"
    },
    {
       "name": "Sidi Bouzid Governorate",
@@ -126,11 +91,39 @@
       "longitude": "9.48393920"
    },
    {
+      "name": "Sousse Governorate",
+      "isoCode": "51",
+      "countryCode": "TN",
+      "latitude": "35.90222670",
+      "longitude": "10.34978950"
+   },
+   {
+      "name": "Monastir Governorate",
+      "isoCode": "52",
+      "countryCode": "TN",
+      "latitude": "35.76425150",
+      "longitude": "10.81128850"
+   },
+   {
       "name": "Mahdia Governorate",
       "isoCode": "53",
       "countryCode": "TN",
       "latitude": "35.33525580",
       "longitude": "10.89030990"
+   },
+   {
+      "name": "Sfax Governorate",
+      "isoCode": "61",
+      "countryCode": "TN",
+      "latitude": "34.86065810",
+      "longitude": "10.34978950"
+   },
+   {
+      "name": "Gafsa Governorate",
+      "isoCode": "71",
+      "countryCode": "TN",
+      "latitude": "34.37885050",
+      "longitude": "8.66005860"
    },
    {
       "name": "Tozeur Governorate",
@@ -140,24 +133,31 @@
       "longitude": "8.04651850"
    },
    {
-      "name": "Kasserine Governorate",
-      "isoCode": "42",
+      "name": "Kebili Governorate",
+      "isoCode": "73",
       "countryCode": "TN",
-      "latitude": "35.08091480",
-      "longitude": "8.66005860"
+      "latitude": "33.70715510",
+      "longitude": "8.97146230"
    },
    {
-      "name": "Sousse Governorate",
-      "isoCode": "51",
+      "name": "Gabès Governorate",
+      "isoCode": "81",
       "countryCode": "TN",
-      "latitude": "35.90222670",
-      "longitude": "10.34978950"
+      "latitude": "33.94596480",
+      "longitude": "9.72326730"
    },
    {
-      "name": "Kassrine",
-      "isoCode": "31",
+      "name": "Medenine Governorate",
+      "isoCode": "82",
       "countryCode": "TN",
-      "latitude": "35.17227160",
-      "longitude": "8.83076260"
+      "latitude": "33.22805650",
+      "longitude": "10.89030990"
+   },
+   {
+      "name": "Tataouine Governorate",
+      "isoCode": "83",
+      "countryCode": "TN",
+      "latitude": "32.13441220",
+      "longitude": "10.08072980"
    }
 ]

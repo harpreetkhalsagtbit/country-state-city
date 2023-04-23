@@ -1,51 +1,16 @@
 [
    {
+      "name": "Abu Radif",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
       "name": "Abū ‘Arīsh",
       "countryCode": "SA",
       "stateCode": "09"
    },
    {
       "name": "Ad Darb",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Al Jarādīyah",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Farasān",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Jizan",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Mislīyah",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Mizhirah",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Şabyā",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Şāmitah",
-      "countryCode": "SA",
-      "stateCode": "09"
-   },
-   {
-      "name": "Abu Radif",
       "countryCode": "SA",
       "stateCode": "09"
    },
@@ -91,6 +56,11 @@
    },
    {
       "name": "Al Jadi",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
+      "name": "Al Jarādīyah",
       "countryCode": "SA",
       "stateCode": "09"
    },
@@ -225,6 +195,11 @@
       "stateCode": "09"
    },
    {
+      "name": "Farasān",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
       "name": "Ghawiyah",
       "countryCode": "SA",
       "stateCode": "09"
@@ -236,6 +211,11 @@
    },
    {
       "name": "Hamdah",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
+      "name": "Jizan",
       "countryCode": "SA",
       "stateCode": "09"
    },
@@ -285,6 +265,16 @@
       "stateCode": "09"
    },
    {
+      "name": "Mislīyah",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
+      "name": "Mizhirah",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
       "name": "Mukambal",
       "countryCode": "SA",
       "stateCode": "09"
@@ -326,6 +316,16 @@
    },
    {
       "name": "Salamah",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
+      "name": "Şabyā",
+      "countryCode": "SA",
+      "stateCode": "09"
+   },
+   {
+      "name": "Şāmitah",
       "countryCode": "SA",
       "stateCode": "09"
    }

@@ -1,32 +1,12 @@
 [
    {
-      "name": "Dhi Qar Governorate",
-      "isoCode": "DQ",
+      "name": "Al Anbar Governorate",
+      "isoCode": "AN",
       "countryCode": "IQ"
    },
    {
-      "name": "Babylon Governorate",
-      "isoCode": "BB",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Al-Qādisiyyah Governorate",
-      "isoCode": "QA",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Karbala Governorate",
-      "isoCode": "KA",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Al Muthanna Governorate",
-      "isoCode": "MU",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Baghdad Governorate",
-      "isoCode": "BG",
+      "name": "Erbil Governorate",
+      "isoCode": "AR",
       "countryCode": "IQ"
    },
    {
@@ -35,8 +15,48 @@
       "countryCode": "IQ"
    },
    {
-      "name": "Saladin Governorate",
-      "isoCode": "SD",
+      "name": "Babylon Governorate",
+      "isoCode": "BB",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Baghdad Governorate",
+      "isoCode": "BG",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Dohuk Governorate",
+      "isoCode": "DA",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Diyala Governorate",
+      "isoCode": "DI",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Dhi Qar Governorate",
+      "isoCode": "DQ",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Karbala Governorate",
+      "isoCode": "KA",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Kirkuk Governorate",
+      "isoCode": "KI",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Maysan Governorate",
+      "isoCode": "MA",
+      "countryCode": "IQ"
+   },
+   {
+      "name": "Al Muthanna Governorate",
+      "isoCode": "MU",
       "countryCode": "IQ"
    },
    {
@@ -50,28 +70,13 @@
       "countryCode": "IQ"
    },
    {
-      "name": "Al Anbar Governorate",
-      "isoCode": "AN",
+      "name": "Al-Qādisiyyah Governorate",
+      "isoCode": "QA",
       "countryCode": "IQ"
    },
    {
-      "name": "Diyala Governorate",
-      "isoCode": "DI",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Maysan Governorate",
-      "isoCode": "MA",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Dohuk Governorate",
-      "isoCode": "DA",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Erbil Governorate",
-      "isoCode": "AR",
+      "name": "Saladin Governorate",
+      "isoCode": "SD",
       "countryCode": "IQ"
    },
    {
@@ -82,11 +87,6 @@
    {
       "name": "Wasit Governorate",
       "isoCode": "WA",
-      "countryCode": "IQ"
-   },
-   {
-      "name": "Kirkuk Governorate",
-      "isoCode": "KI",
       "countryCode": "IQ"
    }
 ]

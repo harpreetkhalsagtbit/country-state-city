@@ -28,6 +28,13 @@
       "longitude": "-73.27930000"
    },
    {
+      "name": "Bosconia",
+      "countryCode": "CO",
+      "stateCode": "CES",
+      "latitude": "9.97611111",
+      "longitude": "-73.89033333"
+   },
+   {
       "name": "Chimichagua",
       "countryCode": "CO",
       "stateCode": "CES",
@@ -119,6 +126,13 @@
       "longitude": "-73.66451000"
    },
    {
+      "name": "Pueblo Bello",
+      "countryCode": "CO",
+      "stateCode": "CES",
+      "latitude": "10.41638999",
+      "longitude": "-73.58666777"
+   },
+   {
       "name": "Río de Oro",
       "countryCode": "CO",
       "stateCode": "CES",
@@ -159,19 +173,5 @@
       "stateCode": "CES",
       "latitude": "10.46314000",
       "longitude": "-73.25322000"
-   },
-   {
-      "name": "Bosconia",
-      "countryCode": "CO",
-      "stateCode": "CES",
-      "latitude": "9.97611111",
-      "longitude": "-73.89033333"
-   },
-   {
-      "name": "Pueblo Bello",
-      "countryCode": "CO",
-      "stateCode": "CES",
-      "latitude": "10.41638999",
-      "longitude": "-73.58666777"
    }
 ]

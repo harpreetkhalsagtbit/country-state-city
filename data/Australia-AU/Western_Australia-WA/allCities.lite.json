@@ -100,6 +100,11 @@
       "stateCode": "WA"
    },
    {
+      "name": "Badgingarra",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
       "name": "Bakers Hill",
       "countryCode": "AU",
       "stateCode": "WA"
@@ -485,7 +490,17 @@
       "stateCode": "WA"
    },
    {
+      "name": "Cataby",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
       "name": "Caversham",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Cervantes",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -1015,6 +1030,11 @@
       "stateCode": "WA"
    },
    {
+      "name": "Green Head",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
       "name": "Greenfields",
       "countryCode": "AU",
       "stateCode": "WA"
@@ -1111,6 +1131,11 @@
    },
    {
       "name": "Hilbert",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Hill River",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -1360,6 +1385,11 @@
       "stateCode": "WA"
    },
    {
+      "name": "Lancelin",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
       "name": "Landsdale",
       "countryCode": "AU",
       "stateCode": "WA"
@@ -1386,6 +1416,11 @@
    },
    {
       "name": "Leederville",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Leeman",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -1461,6 +1496,11 @@
    },
    {
       "name": "Maida Vale",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Malaga",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -1681,6 +1721,11 @@
    },
    {
       "name": "Mount Tarcoola",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Muchea",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -2006,6 +2051,11 @@
    },
    {
       "name": "Redcliffe",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
+      "name": "Regans Ford",
       "countryCode": "AU",
       "stateCode": "WA"
    },
@@ -2565,6 +2615,11 @@
       "stateCode": "WA"
    },
    {
+      "name": "Woodridge",
+      "countryCode": "AU",
+      "stateCode": "WA"
+   },
+   {
       "name": "Woodvale",
       "countryCode": "AU",
       "stateCode": "WA"
@@ -2636,61 +2691,6 @@
    },
    {
       "name": "York",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Malaga",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Badgingarra",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Muchea",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Cervantes",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Woodridge",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Leeman",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Lancelin",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Green Head",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Cataby",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Regans Ford",
-      "countryCode": "AU",
-      "stateCode": "WA"
-   },
-   {
-      "name": "Hill River",
       "countryCode": "AU",
       "stateCode": "WA"
    }

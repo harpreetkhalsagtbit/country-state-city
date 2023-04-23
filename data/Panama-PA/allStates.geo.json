@@ -1,17 +1,17 @@
 [
    {
-      "name": "Darién Province",
-      "isoCode": "5",
+      "name": "Bocas del Toro Province",
+      "isoCode": "1",
       "countryCode": "PA",
-      "latitude": "7.86817130",
-      "longitude": "-77.83672820"
+      "latitude": "9.41655210",
+      "longitude": "-82.52077870"
    },
    {
-      "name": "Colón Province",
-      "isoCode": "3",
+      "name": "Panamá Oeste Province",
+      "isoCode": "10",
       "countryCode": "PA",
-      "latitude": "9.18519890",
-      "longitude": "-80.05349230"
+      "latitude": "9.11967510",
+      "longitude": "-79.29021330"
    },
    {
       "name": "Coclé Province",
@@ -21,11 +21,25 @@
       "longitude": "-80.36586500"
    },
    {
-      "name": "Guna Yala",
-      "isoCode": "KY",
+      "name": "Colón Province",
+      "isoCode": "3",
       "countryCode": "PA",
-      "latitude": "9.23443950",
-      "longitude": "-78.19262500"
+      "latitude": "9.18519890",
+      "longitude": "-80.05349230"
+   },
+   {
+      "name": "Chiriquí Province",
+      "isoCode": "4",
+      "countryCode": "PA",
+      "latitude": "8.58489800",
+      "longitude": "-82.38857830"
+   },
+   {
+      "name": "Darién Province",
+      "isoCode": "5",
+      "countryCode": "PA",
+      "latitude": "7.86817130",
+      "longitude": "-77.83672820"
    },
    {
       "name": "Herrera Province",
@@ -42,11 +56,11 @@
       "longitude": "-80.36586500"
    },
    {
-      "name": "Ngöbe-Buglé Comarca",
-      "isoCode": "NB",
+      "name": "Panamá Province",
+      "isoCode": "8",
       "countryCode": "PA",
-      "latitude": "8.65958330",
-      "longitude": "-81.77870210"
+      "latitude": "9.11967510",
+      "longitude": "-79.29021330"
    },
    {
       "name": "Veraguas Province",
@@ -56,27 +70,6 @@
       "longitude": "-81.07546570"
    },
    {
-      "name": "Bocas del Toro Province",
-      "isoCode": "1",
-      "countryCode": "PA",
-      "latitude": "9.41655210",
-      "longitude": "-82.52077870"
-   },
-   {
-      "name": "Panamá Oeste Province",
-      "isoCode": "10",
-      "countryCode": "PA",
-      "latitude": "9.11967510",
-      "longitude": "-79.29021330"
-   },
-   {
-      "name": "Panamá Province",
-      "isoCode": "8",
-      "countryCode": "PA",
-      "latitude": "9.11967510",
-      "longitude": "-79.29021330"
-   },
-   {
       "name": "Emberá-Wounaan Comarca",
       "isoCode": "EM",
       "countryCode": "PA",
@@ -84,10 +77,17 @@
       "longitude": "-77.65361250"
    },
    {
-      "name": "Chiriquí Province",
-      "isoCode": "4",
+      "name": "Guna Yala",
+      "isoCode": "KY",
       "countryCode": "PA",
-      "latitude": "8.58489800",
-      "longitude": "-82.38857830"
+      "latitude": "9.23443950",
+      "longitude": "-78.19262500"
+   },
+   {
+      "name": "Ngöbe-Buglé Comarca",
+      "isoCode": "NB",
+      "countryCode": "PA",
+      "latitude": "8.65958330",
+      "longitude": "-81.77870210"
    }
 ]

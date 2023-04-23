@@ -1,5 +1,12 @@
 [
    {
+      "name": "Eastern Province",
+      "isoCode": "E",
+      "countryCode": "SL",
+      "latitude": null,
+      "longitude": null
+   },
+   {
       "name": "Northern Province",
       "isoCode": "N",
       "countryCode": "SL",
@@ -19,12 +26,5 @@
       "countryCode": "SL",
       "latitude": "40.25459690",
       "longitude": "-80.24554440"
-   },
-   {
-      "name": "Eastern Province",
-      "isoCode": "E",
-      "countryCode": "SL",
-      "latitude": null,
-      "longitude": null
    }
 ]

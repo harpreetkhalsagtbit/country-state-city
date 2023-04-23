@@ -1,7 +1,12 @@
 [
    {
-      "name": "Ontario",
-      "isoCode": "ON",
+      "name": "Alberta",
+      "isoCode": "AB",
+      "countryCode": "CA"
+   },
+   {
+      "name": "British Columbia",
+      "isoCode": "BC",
       "countryCode": "CA"
    },
    {
@@ -15,28 +20,8 @@
       "countryCode": "CA"
    },
    {
-      "name": "Yukon",
-      "isoCode": "YT",
-      "countryCode": "CA"
-   },
-   {
-      "name": "Saskatchewan",
-      "isoCode": "SK",
-      "countryCode": "CA"
-   },
-   {
-      "name": "Prince Edward Island",
-      "isoCode": "PE",
-      "countryCode": "CA"
-   },
-   {
-      "name": "Alberta",
-      "isoCode": "AB",
-      "countryCode": "CA"
-   },
-   {
-      "name": "Quebec",
-      "isoCode": "QC",
+      "name": "Newfoundland and Labrador",
+      "isoCode": "NL",
       "countryCode": "CA"
    },
    {
@@ -45,8 +30,8 @@
       "countryCode": "CA"
    },
    {
-      "name": "British Columbia",
-      "isoCode": "BC",
+      "name": "Northwest Territories",
+      "isoCode": "NT",
       "countryCode": "CA"
    },
    {
@@ -55,13 +40,28 @@
       "countryCode": "CA"
    },
    {
-      "name": "Newfoundland and Labrador",
-      "isoCode": "NL",
+      "name": "Ontario",
+      "isoCode": "ON",
       "countryCode": "CA"
    },
    {
-      "name": "Northwest Territories",
-      "isoCode": "NT",
+      "name": "Prince Edward Island",
+      "isoCode": "PE",
+      "countryCode": "CA"
+   },
+   {
+      "name": "Quebec",
+      "isoCode": "QC",
+      "countryCode": "CA"
+   },
+   {
+      "name": "Saskatchewan",
+      "isoCode": "SK",
+      "countryCode": "CA"
+   },
+   {
+      "name": "Yukon",
+      "isoCode": "YT",
       "countryCode": "CA"
    }
 ]

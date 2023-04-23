@@ -1610,6 +1610,41 @@
       "longitude": "27.30000000"
    },
    {
+      "name": "Sănduleni",
+      "countryCode": "RO",
+      "stateCode": "BC",
+      "latitude": "46.45000000",
+      "longitude": "26.73333000"
+   },
+   {
+      "name": "Sărata",
+      "countryCode": "RO",
+      "stateCode": "BC",
+      "latitude": "46.50249000",
+      "longitude": "26.86857000"
+   },
+   {
+      "name": "Săucești",
+      "countryCode": "RO",
+      "stateCode": "BC",
+      "latitude": "46.61853000",
+      "longitude": "26.94141000"
+   },
+   {
+      "name": "Tamaşi",
+      "countryCode": "RO",
+      "stateCode": "BC",
+      "latitude": "46.48333000",
+      "longitude": "26.98333000"
+   },
+   {
+      "name": "Traian",
+      "countryCode": "RO",
+      "stateCode": "BC",
+      "latitude": "46.63333000",
+      "longitude": "27.03333000"
+   },
+   {
       "name": "Turluianu",
       "countryCode": "RO",
       "stateCode": "BC",
@@ -1741,40 +1776,5 @@
       "stateCode": "BC",
       "latitude": "46.31692000",
       "longitude": "26.51250000"
-   },
-   {
-      "name": "Sănduleni",
-      "countryCode": "RO",
-      "stateCode": "BC",
-      "latitude": "46.45000000",
-      "longitude": "26.73333000"
-   },
-   {
-      "name": "Sărata",
-      "countryCode": "RO",
-      "stateCode": "BC",
-      "latitude": "46.50249000",
-      "longitude": "26.86857000"
-   },
-   {
-      "name": "Săucești",
-      "countryCode": "RO",
-      "stateCode": "BC",
-      "latitude": "46.61853000",
-      "longitude": "26.94141000"
-   },
-   {
-      "name": "Tamaşi",
-      "countryCode": "RO",
-      "stateCode": "BC",
-      "latitude": "46.48333000",
-      "longitude": "26.98333000"
-   },
-   {
-      "name": "Traian",
-      "countryCode": "RO",
-      "stateCode": "BC",
-      "latitude": "46.63333000",
-      "longitude": "27.03333000"
    }
 ]

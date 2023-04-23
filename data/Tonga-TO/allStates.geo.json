@@ -1,17 +1,10 @@
 [
    {
-      "name": "Vavaʻu",
-      "isoCode": "05",
+      "name": "ʻEua",
+      "isoCode": "01",
       "countryCode": "TO",
-      "latitude": "-18.62275600",
-      "longitude": "-173.99029820"
-   },
-   {
-      "name": "Tongatapu",
-      "isoCode": "04",
-      "countryCode": "TO",
-      "latitude": "-21.14659680",
-      "longitude": "-175.25154820"
+      "latitude": "37.09024000",
+      "longitude": "-95.71289100"
    },
    {
       "name": "Haʻapai",
@@ -28,10 +21,17 @@
       "longitude": "-173.78300000"
    },
    {
-      "name": "ʻEua",
-      "isoCode": "01",
+      "name": "Tongatapu",
+      "isoCode": "04",
       "countryCode": "TO",
-      "latitude": "37.09024000",
-      "longitude": "-95.71289100"
+      "latitude": "-21.14659680",
+      "longitude": "-175.25154820"
+   },
+   {
+      "name": "Vavaʻu",
+      "isoCode": "05",
+      "countryCode": "TO",
+      "latitude": "-18.62275600",
+      "longitude": "-173.99029820"
    }
 ]

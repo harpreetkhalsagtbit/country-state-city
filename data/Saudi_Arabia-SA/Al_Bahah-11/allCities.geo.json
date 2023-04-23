@@ -1,19 +1,5 @@
 [
    {
-      "name": "Al Bahah",
-      "countryCode": "SA",
-      "stateCode": "11",
-      "latitude": "20.01288000",
-      "longitude": "41.46767000"
-   },
-   {
-      "name": "Al Mindak",
-      "countryCode": "SA",
-      "stateCode": "11",
-      "latitude": "20.15880000",
-      "longitude": "41.28337000"
-   },
-   {
       "name": "Abu Hisani",
       "countryCode": "SA",
       "stateCode": "11",
@@ -75,6 +61,13 @@
       "stateCode": "11",
       "latitude": "21.52360000",
       "longitude": "39.61670000"
+   },
+   {
+      "name": "Al Bahah",
+      "countryCode": "SA",
+      "stateCode": "11",
+      "latitude": "20.01288000",
+      "longitude": "41.46767000"
    },
    {
       "name": "Al Balad",
@@ -341,6 +334,13 @@
       "stateCode": "11",
       "latitude": "21.26666667",
       "longitude": "40.38333333"
+   },
+   {
+      "name": "Al Mindak",
+      "countryCode": "SA",
+      "stateCode": "11",
+      "latitude": "20.15880000",
+      "longitude": "41.28337000"
    },
    {
       "name": "Al Mubarak",

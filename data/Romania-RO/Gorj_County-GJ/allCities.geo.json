@@ -1008,6 +1008,34 @@
       "longitude": "23.33333000"
    },
    {
+      "name": "Săcelu",
+      "countryCode": "RO",
+      "stateCode": "GJ",
+      "latitude": "45.10000000",
+      "longitude": "23.53333000"
+   },
+   {
+      "name": "Săuleşti",
+      "countryCode": "RO",
+      "stateCode": "GJ",
+      "latitude": "44.80000000",
+      "longitude": "23.48333000"
+   },
+   {
+      "name": "Teleşti",
+      "countryCode": "RO",
+      "stateCode": "GJ",
+      "latitude": "45.00000000",
+      "longitude": "23.08333000"
+   },
+   {
+      "name": "Tismana",
+      "countryCode": "RO",
+      "stateCode": "GJ",
+      "latitude": "45.05000000",
+      "longitude": "22.96667000"
+   },
+   {
       "name": "Turburea",
       "countryCode": "RO",
       "stateCode": "GJ",
@@ -1097,33 +1125,5 @@
       "stateCode": "GJ",
       "latitude": "44.60000000",
       "longitude": "23.48333000"
-   },
-   {
-      "name": "Săcelu",
-      "countryCode": "RO",
-      "stateCode": "GJ",
-      "latitude": "45.10000000",
-      "longitude": "23.53333000"
-   },
-   {
-      "name": "Săuleşti",
-      "countryCode": "RO",
-      "stateCode": "GJ",
-      "latitude": "44.80000000",
-      "longitude": "23.48333000"
-   },
-   {
-      "name": "Teleşti",
-      "countryCode": "RO",
-      "stateCode": "GJ",
-      "latitude": "45.00000000",
-      "longitude": "23.08333000"
-   },
-   {
-      "name": "Tismana",
-      "countryCode": "RO",
-      "stateCode": "GJ",
-      "latitude": "45.05000000",
-      "longitude": "22.96667000"
    }
 ]

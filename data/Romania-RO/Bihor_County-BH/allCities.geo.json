@@ -1456,6 +1456,104 @@
       "longitude": "21.71466000"
    },
    {
+      "name": "Sântandrei",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.06615000",
+      "longitude": "21.85352000"
+   },
+   {
+      "name": "Sântion",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.09634000",
+      "longitude": "21.83660000"
+   },
+   {
+      "name": "Sârbi",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.19315000",
+      "longitude": "22.12215000"
+   },
+   {
+      "name": "Sînmartin",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.00726000",
+      "longitude": "21.97418000"
+   },
+   {
+      "name": "Săcueni",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.35000000",
+      "longitude": "22.10000000"
+   },
+   {
+      "name": "Săcădat",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.03333000",
+      "longitude": "22.15000000"
+   },
+   {
+      "name": "Sălacea",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.46667000",
+      "longitude": "22.31667000"
+   },
+   {
+      "name": "Sălard",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.21667000",
+      "longitude": "22.05000000"
+   },
+   {
+      "name": "Talpoș",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "46.69124000",
+      "longitude": "21.80335000"
+   },
+   {
+      "name": "Tarcea",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.45000000",
+      "longitude": "22.18333000"
+   },
+   {
+      "name": "Tileagd",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.06667000",
+      "longitude": "22.20000000"
+   },
+   {
+      "name": "Tinca",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "46.77529000",
+      "longitude": "21.93300000"
+   },
+   {
+      "name": "Toboliu",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "47.04182000",
+      "longitude": "21.71946000"
+   },
+   {
+      "name": "Tulca",
+      "countryCode": "RO",
+      "stateCode": "BH",
+      "latitude": "46.78333000",
+      "longitude": "21.78333000"
+   },
+   {
       "name": "Tămașda",
       "countryCode": "RO",
       "stateCode": "BH",
@@ -1601,103 +1699,5 @@
       "stateCode": "BH",
       "latitude": "46.53333000",
       "longitude": "22.45000000"
-   },
-   {
-      "name": "Sântandrei",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.06615000",
-      "longitude": "21.85352000"
-   },
-   {
-      "name": "Sântion",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.09634000",
-      "longitude": "21.83660000"
-   },
-   {
-      "name": "Sârbi",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.19315000",
-      "longitude": "22.12215000"
-   },
-   {
-      "name": "Sînmartin",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.00726000",
-      "longitude": "21.97418000"
-   },
-   {
-      "name": "Săcueni",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.35000000",
-      "longitude": "22.10000000"
-   },
-   {
-      "name": "Săcădat",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.03333000",
-      "longitude": "22.15000000"
-   },
-   {
-      "name": "Sălacea",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.46667000",
-      "longitude": "22.31667000"
-   },
-   {
-      "name": "Sălard",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.21667000",
-      "longitude": "22.05000000"
-   },
-   {
-      "name": "Talpoș",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "46.69124000",
-      "longitude": "21.80335000"
-   },
-   {
-      "name": "Tarcea",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.45000000",
-      "longitude": "22.18333000"
-   },
-   {
-      "name": "Tileagd",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.06667000",
-      "longitude": "22.20000000"
-   },
-   {
-      "name": "Tinca",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "46.77529000",
-      "longitude": "21.93300000"
-   },
-   {
-      "name": "Toboliu",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "47.04182000",
-      "longitude": "21.71946000"
-   },
-   {
-      "name": "Tulca",
-      "countryCode": "RO",
-      "stateCode": "BH",
-      "latitude": "46.78333000",
-      "longitude": "21.78333000"
    }
 ]

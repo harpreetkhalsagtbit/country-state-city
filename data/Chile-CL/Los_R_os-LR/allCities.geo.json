@@ -7,39 +7,18 @@
       "longitude": "-73.43101000"
    },
    {
-      "name": "La Unión",
-      "countryCode": "CL",
-      "stateCode": "LR",
-      "latitude": "-40.29313000",
-      "longitude": "-73.08167000"
-   },
-   {
-      "name": "Panguipulli",
-      "countryCode": "CL",
-      "stateCode": "LR",
-      "latitude": "-39.64355000",
-      "longitude": "-72.33269000"
-   },
-   {
-      "name": "Río Bueno",
-      "countryCode": "CL",
-      "stateCode": "LR",
-      "latitude": "-40.33494000",
-      "longitude": "-72.95564000"
-   },
-   {
-      "name": "Valdivia",
-      "countryCode": "CL",
-      "stateCode": "LR",
-      "latitude": "-39.81422000",
-      "longitude": "-73.24589000"
-   },
-   {
       "name": "Futrono",
       "countryCode": "CL",
       "stateCode": "LR",
       "latitude": "-40.13333333",
       "longitude": "-72.40000000"
+   },
+   {
+      "name": "La Unión",
+      "countryCode": "CL",
+      "stateCode": "LR",
+      "latitude": "-40.29313000",
+      "longitude": "-73.08167000"
    },
    {
       "name": "Lago Ranco",
@@ -82,5 +61,26 @@
       "stateCode": "LR",
       "latitude": "-40.07060000",
       "longitude": "-72.87270000"
+   },
+   {
+      "name": "Panguipulli",
+      "countryCode": "CL",
+      "stateCode": "LR",
+      "latitude": "-39.64355000",
+      "longitude": "-72.33269000"
+   },
+   {
+      "name": "Río Bueno",
+      "countryCode": "CL",
+      "stateCode": "LR",
+      "latitude": "-40.33494000",
+      "longitude": "-72.95564000"
+   },
+   {
+      "name": "Valdivia",
+      "countryCode": "CL",
+      "stateCode": "LR",
+      "latitude": "-39.81422000",
+      "longitude": "-73.24589000"
    }
 ]

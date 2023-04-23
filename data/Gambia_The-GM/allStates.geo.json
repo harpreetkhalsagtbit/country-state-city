@@ -7,18 +7,11 @@
       "longitude": "-16.57903230"
    },
    {
-      "name": "West Coast Division",
-      "isoCode": "W",
+      "name": "Lower River Division",
+      "isoCode": "L",
       "countryCode": "GM",
-      "latitude": "5.97727980",
-      "longitude": "116.07542880"
-   },
-   {
-      "name": "Upper River Division",
-      "isoCode": "U",
-      "countryCode": "GM",
-      "latitude": "13.42573660",
-      "longitude": "-14.00723480"
+      "latitude": "13.35533060",
+      "longitude": "-15.92299000"
    },
    {
       "name": "Central River Division",
@@ -28,17 +21,24 @@
       "longitude": "-14.89216680"
    },
    {
-      "name": "Lower River Division",
-      "isoCode": "L",
-      "countryCode": "GM",
-      "latitude": "13.35533060",
-      "longitude": "-15.92299000"
-   },
-   {
       "name": "North Bank Division",
       "isoCode": "N",
       "countryCode": "GM",
       "latitude": "13.52854360",
       "longitude": "-16.01699710"
+   },
+   {
+      "name": "Upper River Division",
+      "isoCode": "U",
+      "countryCode": "GM",
+      "latitude": "13.42573660",
+      "longitude": "-14.00723480"
+   },
+   {
+      "name": "West Coast Division",
+      "isoCode": "W",
+      "countryCode": "GM",
+      "latitude": "5.97727980",
+      "longitude": "116.07542880"
    }
 ]
