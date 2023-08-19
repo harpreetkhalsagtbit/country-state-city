@@ -8,9 +8,10 @@
 	"sideEffects": false,
 	"scripts": {
 		"test": "jest",
-		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json",
+		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
 		"prepublish": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
+		"minify": "ts-node src/scripts/minify.ts",
 		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
 		"update-data":"ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
 		"update-data-with-gz":"gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts"
