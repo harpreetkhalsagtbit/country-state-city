@@ -18,18 +18,22 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 	- [Demo](https://react-js-country-state-city-tree-shake-demo.vercel.app) (production build)
 
 # Release Info & Documentation
-1. [Release v3.1.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v310)
+1. [Release v3.2.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v320)
+	1. To optimize bundle size, the data JSON files have undergone minification. For instance, the `city.json`` file, which was originally around 25MB in an unminified state, has now been reduced to approximately 8MB through minification.
+	2. The structure of the `city.json` file has been transformed from an Array of Objects to an Array of Arrays of Strings. Previously, the file contained duplicate property names for each object, resulting in a minified file size of 16MB due to JSON formatting requirements. To further minimize this, the file structure has been converted to an Array of Arrays, astonishingly reducing the size to 8MB.
+	3. To accommodate this updated structure, modifications were made to the `city.ts` file. Importantly, these changes do not affect the functionality of existing code. All existing code will continue to work seamlessly without any breaking changes.
+2. [Release v3.1.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v310)
     1. [Overview](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#overview)
 	2. [How to contribute to Country, State, City Database, request changes and report issue?
 ](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#how-to-contribute-to-country-state-city-database-request-changes-and-report-issue)
 	3. [How Data will be Released finally?
 ](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#how-data-will-be-released-finally)
-2. [Usage](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#usage)
+3. [Usage](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#usage)
 	1. [Release : v3.0.0 (Major Version Release - Not backward compatible)
 ](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v300-major-version-release---not-backward-compatible)
 	2. [For versions below v2.2.0 and above v0.1.8
 ](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#for-versions-below-v220-and-above-v018)
-3. [Docs](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#docs)
+4. [Docs](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#docs)
 
 ## Release : `v3.1.0`
 
