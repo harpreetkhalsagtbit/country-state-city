@@ -144,9 +144,29 @@ allStates.forEach((state) => {
 		process.stdout.write(`\rCombined ${state.countryCode}-${state.isoCode}: ${allCitiesLite.size} States\n`);
 	}
 });
+
+/**
+ *
+ * converting
+ *    {
+      "name": "Canillo",
+      "countryCode": "AD",
+      "stateCode": "02",
+      "latitude": "42.56760000",
+      "longitude": "1.59756000"
+   }
+ * to
+ * ["Canillo", "AD", "02", "42.56760000", "1.59756000"]
+ */
+const convertJSONToArraysToReduceFileSize = (data: any) => {
+	return data.map((item: any) => Object.values(item))
+};
+
+// convertJSONToArraysToReduceFileSize will reduce file size of city from 16.4Mb(minified, unminified-14.4MB reduced from 24MB) to ~8.1Mb(minified)
+// this will also require changes in the city function
 fs.writeFileSync(
 	path.join(__dirname, '../', 'assets/city.json'),
-	JSON.stringify(City.sortByStateAndName(allCities), null, 3),
+	JSON.stringify(convertJSONToArraysToReduceFileSize(City.sortByStateAndName(allCities)), null, 3),
 );
 
 if (process.env.gz === 'true') {

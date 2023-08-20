@@ -1,10 +1,25 @@
 import cityList from './assets/city.json';
-import { compare } from './utils';
+import { compare, convertArrayToObject } from './utils';
 import { ICity } from './interface';
 
+const KEYS = [
+	"name",
+	"countryCode",
+	"stateCode",
+	"latitude",
+	"longitude"
+]
+
+let convertedCityList: ICity[] = [];
 // Get a list of all cities.
-function getAllCities() {
-	return cityList;
+function getAllCities(keys: string[]): ICity[] {
+	if (convertedCityList.length) {
+		return convertedCityList;
+	}
+
+	const cityJSON: string[][] = cityList;
+	convertedCityList = convertArrayToObject(keys, cityJSON);
+	return (convertedCityList as unknown as ICity[])
 }
 
 // Get a list of cities belonging to a specific state and country.
@@ -12,6 +27,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
+	const cityList = getAllCities(KEYS);
 	const cities = (cityList as ICity[]).filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
@@ -23,6 +39,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
+	const cityList = getAllCities(KEYS);
 	const cities = (cityList as ICity[]).filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
