@@ -18,8 +18,8 @@ For any data related issue, you can also raise a Issue [here](https://github.com
 	- [Demo](https://react-js-country-state-city-tree-shake-demo.vercel.app) (production build)
 
 # Release Info & Documentation
-1. [Release v3.2.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v320)
-	1. To optimize bundle size, the data JSON files have undergone minification. For instance, the `city.json`` file, which was originally around 25MB in an unminified state, has now been reduced to approximately 8MB through minification.
+1. [Release v3.2.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/reduced-city-json-file-size)
+	1. To optimize bundle size, the data JSON files have undergone minification. For instance, the `city.json` file, which was originally around 25MB in an unminified state, has now been reduced to approximately 8MB through minification.
 	2. The structure of the `city.json` file has been transformed from an Array of Objects to an Array of Arrays of Strings. Previously, the file contained duplicate property names for each object, resulting in a minified file size of 16MB due to JSON formatting requirements. To further minimize this, the file structure has been converted to an Array of Arrays, astonishingly reducing the size to 8MB.
 	3. To accommodate this updated structure, modifications were made to the `city.ts` file. Importantly, these changes do not affect the functionality of existing code. All existing code will continue to work seamlessly without any breaking changes.
 2. [Release v3.1.0](https://github.com/harpreetkhalsagtbit/country-state-city/tree/hotfix/split-csc-data-for-better-debugging-and-fixing-data#release--v310)
