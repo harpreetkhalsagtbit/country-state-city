@@ -34,3 +34,11 @@ export const compare = <T extends ICountry | IState | ICity>(
 	if (keyToCompare(a) > keyToCompare(b)) return 1;
 	return 0;
 };
+
+export const convertArrayToObject = (keys: string[], arr: string[][]): ICity[] => {
+	const result = arr.map((subArr) => {
+		return Object.fromEntries(keys.map((key, index) => [key, subArr[index]]))
+	})
+
+	return (result as unknown as ICity[]);
+}
