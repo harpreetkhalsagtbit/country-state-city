@@ -12,7 +12,7 @@ const KEYS = [
 
 let convertedCityList: ICity[] = [];
 // Get a list of all cities.
-function getAllCities(keys?: string[] = KEYS): ICity[] {
+function getAllCities(keys: string[] = KEYS): ICity[] {
 	if (convertedCityList.length) {
 		return convertedCityList;
 	}
