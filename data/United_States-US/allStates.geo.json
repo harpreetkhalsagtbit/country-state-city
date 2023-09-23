@@ -7,6 +7,27 @@
       "longitude": "-149.49367330"
    },
    {
+      "name": "American Forces Americas",
+      "isoCode": "AA",
+      "countryCode": "US",
+      "latitude": "0.00",
+      "longitude": "0.00"
+   },
+   {
+      "name": "American Forces Europe",
+      "isoCode": "AE",
+      "countryCode": "US",
+      "latitude": "0.00",
+      "longitude": "0.00"
+   },
+   {
+      "name": "American Forces Pacific",
+      "isoCode": "AP",
+      "countryCode": "US",
+      "latitude": "0.00",
+      "longitude": "0.00"
+   },
+   {
       "name": "Alabama",
       "isoCode": "AL",
       "countryCode": "US",
