@@ -7,15 +7,8 @@ export interface Timezones {
 }
 export interface ICountry {
 	name: string;
-	phonecode: string;
 	isoCode: string;
-	flag: string;
-	currency: string;
-	latitude: string;
-	longitude: string;
-	timezones?: Timezones[];
 	getAllCountries?(): ICountry[];
-	getCountryByCode?(): ICountry;
 }
 
 export interface IState {

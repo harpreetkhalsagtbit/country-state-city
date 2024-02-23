@@ -23,7 +23,7 @@ function getAllCities(keys: string[] = KEYS): ICity[] {
 }
 
 // Get a list of cities belonging to a specific state and country.
-function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
+export default function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
@@ -34,31 +34,3 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 
 	return cities.sort(compare);
 }
-
-// Get a list of cities belonging to a specific country.
-function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
-	if (!countryCode) return [];
-
-	const cityList = getAllCities();
-	const cities = (cityList as ICity[]).filter((value: { countryCode: string }) => {
-		return value.countryCode === countryCode;
-	});
-	return cities.sort(compare);
-}
-
-function sortByStateAndName(cities: ICity[]): ICity[] {
-	return cities.sort((a, b) => {
-		const result = compare<ICity>(a, b, (entity) => {
-			return `${entity.countryCode}-${entity.stateCode}`;
-		});
-		if (result !== 0) return result;
-		return compare(a, b);
-	});
-}
-
-export default {
-	getAllCities,
-	getCitiesOfState,
-	getCitiesOfCountry,
-	sortByStateAndName,
-};
