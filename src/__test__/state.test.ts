@@ -234,7 +234,16 @@ const executeAllTests = (State: any) => {
 				'Zoundwéogo Province',
 			]);
 		});
+
+		test('Check for Specific Fields For Country', () => {
+			const state: IState= State.getStatesOfCountry("IN",["isoCode"])[0]
+			expect(state).toEqual({ isoCode: "AN" });
+		});
+
+
 	});
+
+
 };
 
 export default executeAllTests;

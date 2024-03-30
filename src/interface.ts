@@ -17,6 +17,7 @@ export interface ICountry {
 	getAllCountries?(): ICountry[];
 	getCountryByCode?(): ICountry;
 }
+export type CountryFields = keyof ICountry;
 
 export interface IState {
 	name: string;
@@ -28,6 +29,8 @@ export interface IState {
 	getStateByCodeAndCountry?(): IState;
 	getStateByCode?(): IState;
 }
+export type StateFields = keyof IState;
+
 export interface ICity {
 	name: string;
 	countryCode: string;

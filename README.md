@@ -157,12 +157,15 @@ type: **json | ICountry**
 }
 ```
 
-State.getStatesOfCountry(countryCode)
+State.getStatesOfCountry(countryCode, fields)
 ---------------
 
-It accepts a valid `CountryCode` and returns *all States* as Array of JSON
+It accepts a valid 
+`CountryCode` and returns *all States* as Array of JSON, optionally accepts `fields` and returns *all States but with only specified fields* as Array of JSON
 
-type: **array of json | IState**
+type: **array of json | IState[]**
+
+State.getStatesOfCountry("IN")
 
 ```js
 [
@@ -176,12 +179,30 @@ type: **array of json | IState**
 ]
 
 ```
+
+type: **array of json | Partial\<IState>[]**
+
+State.getStatesOfCountry("IN",["name","isoCode"])
+
+```js
+[
+	{
+		"name": "Delhi",
+		"isoCode": "DL",
+	}
+]
+
+```
+
+
+
+
 City.getCitiesOfState(countryCode, stateCode)
 ---------------
 
 It accepts a valid `CountryCode`, `StateCode` and returns *all Cities* as Array of JSON
 
-type: **array of json | ICity**
+type: **array of json | ICity[]**
 
 ```js
 [
@@ -201,7 +222,7 @@ City.getCitiesOfCountry(countryCode)
 
 It accepts a valid `CountryCode` and returns *all Cities* as Array of JSON
 
-type: **array of json | ICity**
+type: **array of json | ICity[]**
 
 ```js
 [
@@ -216,11 +237,13 @@ type: **array of json | ICity**
 
 ```
 
-Country.getAllCountries
+Country.getAllCountries()
 ---------------
-It returns **all Countries**
+It returns **all Countries** abd optionally accepts fields argument which is (keyof ICountry)[] type
+returns *all Countries but with only specified fields*
 
-type: **array of json | ICountry**
+
+type: **array of json | ICountry[]**
 
 ```js
 [
@@ -244,6 +267,23 @@ type: **array of json | ICountry**
 	}
 ]
 ```
+
+Country.getAllCountries(["isoCode","name","phonecode"])
+---------------
+type: **array of json | ICountry**
+
+```js
+[
+	{
+		"isoCode": "IN",
+		"name": "India",
+		"phonecode": "91",
+	}
+]
+```
+
+
+
 
 State.getAllStates
 ---------------

@@ -1,6 +1,6 @@
 import stateList from './assets/state.json';
 import { findEntryByCode, findStateByCodeAndCountryCode, compare } from './utils';
-import { IState } from './interface';
+import { IState,StateFields } from './interface';
 
 // Get a list of all states.
 export function getAllStates(): IState[] {
@@ -8,12 +8,21 @@ export function getAllStates(): IState[] {
 }
 
 // Get a list of states belonging to a specific country.
-export function getStatesOfCountry(countryCode: string = ''): IState[] {
+export function getStatesOfCountry(countryCode: string = '', fields?:StateFields[]): IState[] | Partial<IState>[] {
 	if (!countryCode) return [];
-	// get data from file or cache
-	const states = stateList.filter((value) => {
-		return value.countryCode === countryCode;
-	});
+	const states = stateList.filter((value) => value.countryCode === countryCode);
+
+  if (fields && fields.length > 0) {
+    return states.filter(state => {
+      return fields.every(field  => state.hasOwnProperty(field));
+    }).map(country => 
+       Object.fromEntries(
+        Object.entries(country)
+        .filter(([key]) => fields.includes(key as keyof IState)) 
+      )
+    );
+  }
+
 	return states.sort(compare);
 }
 
@@ -50,3 +59,4 @@ export default {
 	getStateByCode,
 	sortByIsoCode,
 };
+

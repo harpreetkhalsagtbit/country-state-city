@@ -221,6 +221,12 @@ const executeAllTests = (Country: any) => {
 			const country: ICountry = Country.getCountryByCode(code);
 			expect(country).toEqual(code);
 		});
+
+		test('Check for Specific Fields For Country', () => {
+			const country: ICountry = Country.getAllCountries(["isoCode"])[0]
+			expect(country).toEqual({ isoCode: "AF" });
+		});
+
 	});
 };
 
