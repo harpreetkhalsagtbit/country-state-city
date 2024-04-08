@@ -1,6 +1,7 @@
 import countryList from './assets/country.json';
 import { compare, findEntryByCode } from './utils';
 import { ICountry } from './interface';
+import africanCountries from './Continents/Continents';
 
 // Get a country by isoCode.
 function getCountryByCode(isoCode: string): ICountry | undefined {
@@ -12,6 +13,16 @@ function getCountryByCode(isoCode: string): ICountry | undefined {
 // Get a list of all countries.
 function getAllCountries(): ICountry[] {
 	return countryList;
+}
+
+// Get a list of all african countries.
+function getAllAfricanCountries(): ICountry[] {
+	const africanCountryNames = africanCountries.map((country) => {
+		return country.name;
+	});
+	return countryList.filter((country) => {
+		return africanCountryNames.includes(country.name);
+	});
 }
 
 function sortByIsoCode(countries: ICountry[]): ICountry[] {
@@ -26,4 +37,5 @@ export default {
 	getCountryByCode,
 	getAllCountries,
 	sortByIsoCode,
+	getAllAfricanCountries,
 };
