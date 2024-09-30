@@ -1,12 +1,151 @@
 [
-   {
+     {
+      "name": "Águas Claras",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": " -15.837201",
+      "longitude": "-48.025805"
+   },
+    {
+      "name": "Arniqueiras",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": " -15.836738",
+      "longitude": "-48.017055"
+   },
+
+      {
       "name": "Brasília",
       "countryCode": "BR",
-      "stateCode": "DF"
+      "stateCode": "DF",
+      "latitude": "-15.77972000",
+      "longitude": "-47.92972000"
    },
    {
+      "name": "Candangolandia",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.854248",
+      "longitude": "-47.950744"
+   },
+   {
+      "name": "Candangolandia",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.854248",
+      "longitude": "-47.950744"
+   },
+   {
+      "name": "Ceilandia",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.821435",
+      "longitude": "-48.114201"
+   },
+   {
+      "name": "Cruzeiro",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.794984",
+      "longitude": "-47.927678"
+   },
+   {
+      "name": "Gama",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-16.0160682",
+      "longitude": "-48.0682555"
+   },
+   {
+      "name": "Guará",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.804718",
+      "longitude": "-47.968151"
+   },   
+   {
+      "name": "Lago Norte",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.738120",
+      "longitude": "-47.858373"
+   },
+   {
+      "name": "Lago Sul",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.841430",
+      "longitude": "-47.876751"
+   },
+   {
+      "name": "Núcleo Bandeirante",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.871154",
+      "longitude": "-47.970870"
+   },
+   {
+      "name": "Paranoá",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.775716",
+      "longitude": "-47.779900"
+   },
+  {
       "name": "Planaltina",
       "countryCode": "BR",
-      "stateCode": "DF"
+      "stateCode": "DF",
+      "latitude": "-15.61791000",
+      "longitude": "-47.64874000"
+   },
+   {
+      "name": "Recanto das Emas",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.920804",
+      "longitude": "-48.052811"
+   },
+   {
+      "name": "Riacho Fundo",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.883239",
+      "longitude": "-48.017465"
+   },
+   {
+      "name": "Samambaia",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.870099",
+      "longitude": "-48.090094"
+   },
+   {
+      "name": "Santa Maria",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-16.003685",
+      "longitude": "-47.987194"
+   },
+   {
+      "name": "São Sebastião",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.902890",
+      "longitude": "-47.776097"
+   },
+   {
+      "name": "Sobradinho",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.657334",
+      "longitude": "-47.800495"
+   },
+   {
+      "name": "Taguatinga",
+      "countryCode": "BR",
+      "stateCode": "DF",
+      "latitude": "-15.833564",
+      "longitude": "-48.057109"
    }
+
 ]
