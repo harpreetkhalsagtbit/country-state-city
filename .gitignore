@@ -11,3 +11,4 @@ src/assets/*.gz
 !data/**/*.lite.json
 !data/**/*.timezones.json
 !data/allCountries.json
+.DS_Store
