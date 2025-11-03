@@ -9,6 +9,7 @@
 	"scripts": {
 		"test": "jest",
 		"build": "tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
+		"prepare": "npm run build",
 		"prepublish": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
 		"minify": "ts-node src/scripts/minify.ts",
