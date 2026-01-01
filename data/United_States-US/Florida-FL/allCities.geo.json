@@ -2989,6 +2989,13 @@
       "longitude": "-85.75076000"
    },
    {
+      "name": "Loxahatchee",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "latitude": "26.771360",
+      "longitude": "-80.243454"
+   },
+   {
       "name": "Loxahatchee Groves",
       "countryCode": "US",
       "stateCode": "FL",
@@ -5668,6 +5675,13 @@
       "stateCode": "FL",
       "latitude": "27.81993000",
       "longitude": "-82.68944000"
+   },
+   {
+      "name": "Westlake",
+      "countryCode": "US",
+      "stateCode": "FL",
+      "latitude": "26.74098000",
+      "longitude": "-80.30780800"
    },
    {
       "name": "Westchase",
