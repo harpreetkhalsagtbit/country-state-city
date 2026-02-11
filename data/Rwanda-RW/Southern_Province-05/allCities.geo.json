@@ -14,6 +14,13 @@
       "longitude": "29.80610000"
    },
    {
+      "name": "Gisagara",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.616667",
+      "longitude": "29.85"
+   },
+   {
       "name": "Gitarama",
       "countryCode": "RW",
       "stateCode": "05",
@@ -21,10 +28,59 @@
       "longitude": "29.75667000"
    },
    {
+      "name": "Huye",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.58206",
+      "longitude": "29.69726"
+   },
+   {
+      "name": "Kamonyi",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2",
+      "longitude": "29.9"
+   },
+   {
+      "name": "Muhanga",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-3.02822",
+      "longitude": "29.83272"
+   },
+   {
+      "name": "Nyamagabe",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.4",
+      "longitude": "29.466667"
+   },
+   {
+      "name": "Nyanza",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.33692",
+      "longitude": "29.79451"
+   },
+   {
+      "name": "Nyaruguru",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.7",
+      "longitude": "29.516667"
+   },
+   {
       "name": "Nzega",
       "countryCode": "RW",
       "stateCode": "05",
       "latitude": "-2.47900000",
       "longitude": "29.55640000"
+   },
+   {
+      "name": "Ruhango",
+      "countryCode": "RW",
+      "stateCode": "05",
+      "latitude": "-2.2",
+      "longitude": "29.7667"
    }
 ]

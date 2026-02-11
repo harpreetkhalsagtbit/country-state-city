@@ -1,9 +1,30 @@
 [
    {
+      "name": "Gasabo",
+      "countryCode": "RW",
+      "stateCode": "01",
+      "latitude": "-1.883333",
+      "longitude": "30.133333"
+   },
+   {
+      "name": "Kicukiro",
+      "countryCode": "RW",
+      "stateCode": "01",
+      "latitude": "-2.011389",
+      "longitude": "30.142222"
+   },
+   {
       "name": "Kigali",
       "countryCode": "RW",
       "stateCode": "01",
       "latitude": "-1.94995000",
       "longitude": "30.05885000"
+   },
+   {
+      "name": "Nyarugenge",
+      "countryCode": "RW",
+      "stateCode": "01",
+      "latitude": "-1.983333",
+      "longitude": "30.016667"
    }
 ]

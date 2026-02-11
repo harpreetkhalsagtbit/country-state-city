@@ -14,10 +14,59 @@
       "longitude": "29.25639000"
    },
    {
+      "name": "Karongi",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-2.151",
+      "longitude": "29.395"
+   },
+   {
       "name": "Kibuye",
       "countryCode": "RW",
       "stateCode": "04",
       "latitude": "-2.06028000",
       "longitude": "29.34778000"
+   },
+   {
+      "name": "Ngororero",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-1.865",
+      "longitude": "29.625"
+   },
+   {
+      "name": "Nyabihu",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-1.65",
+      "longitude": "29.5"
+   },
+   {
+      "name": "Nyamasheke",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-2.366667",
+      "longitude": "29.15"
+   },
+   {
+      "name": "Rubavu",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-1.66007",
+      "longitude": "28.896667"
+   },
+   {
+      "name": "Rusizi",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-2.483333",
+      "longitude": "29.34778000"
+   },
+   {
+      "name": "Rutsiro",
+      "countryCode": "RW",
+      "stateCode": "04",
+      "latitude": "-1.916667",
+      "longitude": "29.316667"
    }
 ]

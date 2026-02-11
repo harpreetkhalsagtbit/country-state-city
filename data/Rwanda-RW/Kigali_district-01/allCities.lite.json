@@ -1,6 +1,21 @@
 [
    {
+      "name": "Gasabo",
+      "countryCode": "RW",
+      "stateCode": "01"
+   },
+   {
+      "name": "Kicukiro",
+      "countryCode": "RW",
+      "stateCode": "01"
+   },
+   {
       "name": "Kigali",
+      "countryCode": "RW",
+      "stateCode": "01"
+   },
+   {
+      "name": "Nyarugenge",
       "countryCode": "RW",
       "stateCode": "01"
    }

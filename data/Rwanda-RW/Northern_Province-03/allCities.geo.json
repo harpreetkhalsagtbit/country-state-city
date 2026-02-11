@@ -1,5 +1,12 @@
 [
    {
+      "name": "Burera",
+      "countryCode": "RW",
+      "stateCode": "03",
+      "latitude": "-1.4905",
+      "longitude": "29.8104"
+   },
+   {
       "name": "Byumba",
       "countryCode": "RW",
       "stateCode": "03",
@@ -7,10 +14,31 @@
       "longitude": "30.06750000"
    },
    {
+      "name": "Gakenke",
+      "countryCode": "RW",
+      "stateCode": "03",
+      "latitude": "-1.7",
+      "longitude": "29.783333"
+   },
+   {
+      "name": "Gicumbi",
+      "countryCode": "RW",
+      "stateCode": "03",
+      "latitude": "-1.616667",
+      "longitude": "30.116667"
+   },
+   {
       "name": "Musanze",
       "countryCode": "RW",
       "stateCode": "03",
       "latitude": "-1.49984000",
       "longitude": "29.63497000"
+   },
+   {
+      "name": "Rulindo",
+      "countryCode": "RW",
+      "stateCode": "03",
+      "latitude": "-1.733333",
+      "longitude": "30"
    }
 ]
