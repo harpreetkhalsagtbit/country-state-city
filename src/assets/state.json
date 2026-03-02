@@ -4900,221 +4900,221 @@
       "longitude": "8.63564520"
    },
    {
-      "name": "Lagunes region",
-      "isoCode": "01",
+      "name": "Agnéby-Tiassa",
+      "isoCode": "AG",
       "countryCode": "CI",
-      "latitude": "5.88273340",
-      "longitude": "-4.23333550"
+      "latitude": "5.900",
+      "longitude": "-4.833"
+   },
+   {
+      "name": "Bafing",
+      "isoCode": "BF",
+      "countryCode": "CI",
+      "latitude": "8.283",
+      "longitude": "-7.683"
+   },
+   {
+      "name": "Bagoué",
+      "isoCode": "BA",
+      "countryCode": "CI",
+      "latitude": "9.783",
+      "longitude": "-6.300"
+   },
+   {
+      "name": "Bélier",
+      "isoCode": "BE",
+      "countryCode": "CI",
+      "latitude": "6.920",
+      "longitude": "-5.050"
+   },
+   {
+      "name": "Béré",
+      "isoCode": "BR",
+      "countryCode": "CI",
+      "latitude": "8.067",
+      "longitude": "-6.183"
+   },
+   {
+      "name": "Bounkani",
+      "isoCode": "BN",
+      "countryCode": "CI",
+      "latitude": "9.200",
+      "longitude": "-2.783"
+   },
+   {
+      "name": "Cavally",
+      "isoCode": "CV",
+      "countryCode": "CI",
+      "latitude": "6.533",
+      "longitude": "-7.483"
+   },
+   {
+      "name": "Folon",
+      "isoCode": "FO",
+      "countryCode": "CI",
+      "latitude": "9.800",
+      "longitude": "-7.667"
+   },
+   {
+      "name": "Gbêkê",
+      "isoCode": "GK",
+      "countryCode": "CI",
+      "latitude": "7.683",
+      "longitude": "-5.033"
+   },
+   {
+      "name": "Gbôklé",
+      "isoCode": "GB",
+      "countryCode": "CI",
+      "latitude": "5.032",
+      "longitude": "-6.150"
+   },
+   {
+      "name": "Gôh",
+      "isoCode": "GO",
+      "countryCode": "CI",
+      "latitude": "6.135",
+      "longitude": "-5.936"
+   },
+   {
+      "name": "Gontougo",
+      "isoCode": "GT",
+      "countryCode": "CI",
+      "latitude": "8.033",
+      "longitude": "-2.783"
+   },
+   {
+      "name": "Grands-Ponts",
+      "isoCode": "GP",
+      "countryCode": "CI",
+      "latitude": "5.333",
+      "longitude": "-4.383"
+   },
+   {
+      "name": "Guémon",
+      "isoCode": "GM",
+      "countryCode": "CI",
+      "latitude": "6.450",
+      "longitude": "-7.500"
+   },
+   {
+      "name": "Hambol",
+      "isoCode": "HB",
+      "countryCode": "CI",
+      "latitude": "7.683",
+      "longitude": "-5.017"
    },
    {
       "name": "Haut-Sassandra",
-      "isoCode": "02",
+      "isoCode": "HS",
       "countryCode": "CI",
-      "latitude": "6.87578480",
-      "longitude": "-6.57833870"
+      "latitude": "7.000",
+      "longitude": "-6.583"
    },
    {
-      "name": "Savanes Region",
-      "isoCode": "03",
+      "name": "Iffou",
+      "isoCode": "IF",
       "countryCode": "CI",
-      "latitude": null,
-      "longitude": null
+      "latitude": "7.250",
+      "longitude": "-3.867"
    },
    {
-      "name": "Vallée du Bandama Region",
-      "isoCode": "04",
+      "name": "Indénié-Djuablin",
+      "isoCode": "ID",
       "countryCode": "CI",
-      "latitude": "8.27897800",
-      "longitude": "-4.89356270"
+      "latitude": "7.217",
+      "longitude": "-3.333"
    },
    {
-      "name": "Moyen-Comoé",
-      "isoCode": "05",
+      "name": "Kabadougou",
+      "isoCode": "KB",
       "countryCode": "CI",
-      "latitude": "6.65149170",
-      "longitude": "-3.50034540"
+      "latitude": "9.500",
+      "longitude": "-7.567"
    },
    {
-      "name": "Dix-Huit Montagnes",
-      "isoCode": "06",
+      "name": "La Mé",
+      "isoCode": "LM",
       "countryCode": "CI",
-      "latitude": "7.37623730",
-      "longitude": "-7.43813550"
+      "latitude": "5.950",
+      "longitude": "-3.667"
    },
    {
-      "name": "Lacs Region",
-      "isoCode": "07",
+      "name": "Lôh-Djiboua",
+      "isoCode": "LD",
       "countryCode": "CI",
-      "latitude": "47.73958660",
-      "longitude": "-70.41866520"
+      "latitude": "6.000",
+      "longitude": "-5.383"
    },
    {
-      "name": "Bas-Sassandra Region",
-      "isoCode": "09",
+      "name": "Marahoué",
+      "isoCode": "MH",
       "countryCode": "CI",
-      "latitude": "5.35679160",
-      "longitude": "-6.74939930"
+      "latitude": "7.000",
+      "longitude": "-5.833"
    },
    {
-      "name": "Denguélé Region",
-      "isoCode": "10",
+      "name": "Moronou",
+      "isoCode": "MR",
       "countryCode": "CI",
-      "latitude": "9.46623720",
-      "longitude": "-7.43813550"
+      "latitude": "6.833",
+      "longitude": "-4.250"
    },
    {
-      "name": "N'zi-Comoé",
-      "isoCode": "11",
+      "name": "Nawa",
+      "isoCode": "NW",
       "countryCode": "CI",
-      "latitude": "7.24567490",
-      "longitude": "-4.23333550"
+      "latitude": "5.600",
+      "longitude": "-6.067"
    },
    {
-      "name": "Marahoué Region",
-      "isoCode": "12",
+      "name": "N'zi",
+      "isoCode": "NZ",
       "countryCode": "CI",
-      "latitude": "6.88462070",
-      "longitude": "-5.89871390"
+      "latitude": "7.000",
+      "longitude": "-4.733"
+   },
+   {
+      "name": "Poro",
+      "isoCode": "PO",
+      "countryCode": "CI",
+      "latitude": "9.450",
+      "longitude": "-5.617"
+   },
+   {
+      "name": "San-Pédro",
+      "isoCode": "SP",
+      "countryCode": "CI",
+      "latitude": "4.749",
+      "longitude": "-6.637"
    },
    {
       "name": "Sud-Comoé",
-      "isoCode": "13",
+      "isoCode": "SC",
       "countryCode": "CI",
-      "latitude": "5.55279300",
-      "longitude": "-3.25836260"
+      "latitude": "5.467",
+      "longitude": "-3.300"
+   },
+   {
+      "name": "Tchologo",
+      "isoCode": "TC",
+      "countryCode": "CI",
+      "latitude": "9.950",
+      "longitude": "-4.700"
+   },
+   {
+      "name": "Tonkpi",
+      "isoCode": "TP",
+      "countryCode": "CI",
+      "latitude": "7.400",
+      "longitude": "-7.667"
    },
    {
       "name": "Worodougou",
-      "isoCode": "14",
+      "isoCode": "WO",
       "countryCode": "CI",
-      "latitude": "8.25489620",
-      "longitude": "-6.57833870"
-   },
-   {
-      "name": "Sud-Bandama",
-      "isoCode": "15",
-      "countryCode": "CI",
-      "latitude": "5.53570830",
-      "longitude": "-5.56172790"
-   },
-   {
-      "name": "Agnéby",
-      "isoCode": "16",
-      "countryCode": "CI",
-      "latitude": "5.32245030",
-      "longitude": "-4.34495290"
-   },
-   {
-      "name": "Bafing Region",
-      "isoCode": "17",
-      "countryCode": "CI",
-      "latitude": "8.32520470",
-      "longitude": "-7.52472430"
-   },
-   {
-      "name": "Fromager",
-      "isoCode": "18",
-      "countryCode": "CI",
-      "latitude": "45.54502130",
-      "longitude": "-73.60462230"
-   },
-   {
-      "name": "Moyen-Cavally",
-      "isoCode": "19",
-      "countryCode": "CI",
-      "latitude": "6.52087930",
-      "longitude": "-7.61142170"
-   },
-   {
-      "name": "Abidjan",
-      "isoCode": "AB",
-      "countryCode": "CI",
-      "latitude": "5.35995170",
-      "longitude": "-4.00825630"
-   },
-   {
-      "name": "Bas-Sassandra District",
-      "isoCode": "BS",
-      "countryCode": "CI",
-      "latitude": "5.27983560",
-      "longitude": "-6.15269850"
-   },
-   {
-      "name": "Comoé District",
-      "isoCode": "CM",
-      "countryCode": "CI",
-      "latitude": "5.55279300",
-      "longitude": "-3.25836260"
-   },
-   {
-      "name": "Denguélé District",
-      "isoCode": "DN",
-      "countryCode": "CI",
-      "latitude": "48.07077630",
-      "longitude": "-68.56093410"
-   },
-   {
-      "name": "Gôh-Djiboua District",
-      "isoCode": "GD",
-      "countryCode": "CI",
-      "latitude": "5.87113930",
-      "longitude": "-5.56172790"
-   },
-   {
-      "name": "Lacs District",
-      "isoCode": "LC",
-      "countryCode": "CI",
-      "latitude": "48.19801690",
-      "longitude": "-80.45644120"
-   },
-   {
-      "name": "Lagunes District",
-      "isoCode": "LG",
-      "countryCode": "CI",
-      "latitude": "5.88273340",
-      "longitude": "-4.23333550"
-   },
-   {
-      "name": "Montagnes District",
-      "isoCode": "MG",
-      "countryCode": "CI",
-      "latitude": "7.37623730",
-      "longitude": "-7.43813550"
-   },
-   {
-      "name": "Sassandra-Marahoué District",
-      "isoCode": "SM",
-      "countryCode": "CI",
-      "latitude": "6.88033480",
-      "longitude": "-6.23759470"
-   },
-   {
-      "name": "Vallée du Bandama District",
-      "isoCode": "VB",
-      "countryCode": "CI",
-      "latitude": "8.27897800",
-      "longitude": "-4.89356270"
-   },
-   {
-      "name": "Woroba District",
-      "isoCode": "WR",
-      "countryCode": "CI",
-      "latitude": "8.24913720",
-      "longitude": "-6.92091350"
-   },
-   {
-      "name": "Yamoussoukro",
-      "isoCode": "YM",
-      "countryCode": "CI",
-      "latitude": "6.82762280",
-      "longitude": "-5.28934330"
-   },
-   {
-      "name": "Zanzan Region",
-      "isoCode": "ZZ",
-      "countryCode": "CI",
-      "latitude": "8.82079040",
-      "longitude": "-3.41955270"
+      "latitude": "8.000",
+      "longitude": "-6.600"
    },
    {
       "name": "Aisén del General Carlos Ibañez del Campo",
@@ -6208,6 +6208,7 @@
       "latitude": "49.93893070",
       "longitude": "14.79244720"
    },
+
    {
       "name": "Praha-západ",
       "isoCode": "20A",
@@ -6797,11 +6798,11 @@
       "longitude": "8.80169360"
    },
    {
-      "name": "Hesse",
+      "name": "Hessen",
       "isoCode": "HE",
       "countryCode": "DE",
-      "latitude": "50.65205150",
-      "longitude": "9.16243760"
+      "latitude": "50.60806510",
+      "longitude": "9.02846470"
    },
    {
       "name": "Hamburg",
@@ -7920,22 +7921,22 @@
       "name": "Alexandria",
       "isoCode": "ALX",
       "countryCode": "EG",
-      "latitude": "30.87605680",
-      "longitude": "29.74260400"
+      "latitude": "31.1975",
+      "longitude": "29.8925"
    },
    {
       "name": "Aswan",
-      "isoCode": "ASN",
+      "isoCode": "ASW",
       "countryCode": "EG",
-      "latitude": "23.69664980",
-      "longitude": "32.71813750"
+      "latitude": "24.088938",
+      "longitude": "32.899830"
    },
    {
       "name": "Asyut",
       "isoCode": "AST",
       "countryCode": "EG",
-      "latitude": "27.21338310",
-      "longitude": "31.44561790"
+      "latitude": "27.18096",
+      "longitude": "31.18368"
    },
    {
       "name": "Red Sea",
@@ -7948,8 +7949,8 @@
       "name": "Beheira",
       "isoCode": "BH",
       "countryCode": "EG",
-      "latitude": "30.84809860",
-      "longitude": "30.34355060"
+      "latitude": "30.61",
+      "longitude": "30.43"
    },
    {
       "name": "Beni Suef",
@@ -8016,7 +8017,7 @@
    },
    {
       "name": "Qalyubia",
-      "isoCode": "KB",
+      "isoCode": "QLY",
       "countryCode": "EG",
       "latitude": "30.32923680",
       "longitude": "31.21684660"
@@ -8030,7 +8031,7 @@
    },
    {
       "name": "Qena",
-      "isoCode": "KN",
+      "isoCode": "QNA",
       "countryCode": "EG",
       "latitude": "26.23460330",
       "longitude": "32.98883190"
@@ -8051,7 +8052,7 @@
    },
    {
       "name": "Monufia",
-      "isoCode": "MNF",
+      "isoCode": "MF",
       "countryCode": "EG",
       "latitude": "30.59724550",
       "longitude": "30.98763210"
@@ -8072,35 +8073,35 @@
    },
    {
       "name": "Sohag",
-      "isoCode": "SHG",
+      "isoCode": "SG",
       "countryCode": "EG",
       "latitude": "26.69383400",
       "longitude": "32.17460500"
    },
    {
       "name": "Sharqia",
-      "isoCode": "SHR",
+      "isoCode": "SH",
       "countryCode": "EG",
       "latitude": "30.67305450",
       "longitude": "31.15932470"
    },
    {
       "name": "North Sinai",
-      "isoCode": "SIN",
+      "isoCode": "SNS",
       "countryCode": "EG",
       "latitude": "30.28236500",
       "longitude": "33.61757700"
    },
    {
       "name": "Suez",
-      "isoCode": "SUZ",
+      "isoCode": "SZ",
       "countryCode": "EG",
       "latitude": "29.36822550",
       "longitude": "32.17460500"
    },
    {
       "name": "New Valley",
-      "isoCode": "WAD",
+      "isoCode": "WJD",
       "countryCode": "EG",
       "latitude": "24.54556380",
       "longitude": "27.17353160"
@@ -8419,6 +8420,20 @@
       "countryCode": "ET",
       "latitude": "14.03233360",
       "longitude": "38.31657250"
+   },
+   {
+      "name": "Sidama Region",
+      "isoCode": "SI",
+      "countryCode": "ET",
+      "latitude": "6.8333",
+      "longitude": "38.4833"
+   },
+   {
+      "name": "South West Ethiopia Peoples' Region",
+      "isoCode": "SW",
+      "countryCode": "ET",
+      "latitude": "6.9167",
+      "longitude": "36.0333"
    },
    {
       "name": "Åland Islands",
@@ -9652,559 +9667,7 @@
       "latitude": "2.29898270",
       "longitude": "11.44669140"
    },
-   {
-      "name": "Armagh, Banbridge and Craigavon",
-      "isoCode": "ABC",
-      "countryCode": "GB",
-      "latitude": "54.39325920",
-      "longitude": "-6.45634010"
-   },
-   {
-      "name": "Aberdeenshire",
-      "isoCode": "ABD",
-      "countryCode": "GB",
-      "latitude": "57.28687230",
-      "longitude": "-2.38156840"
-   },
-   {
-      "name": "Aberdeen",
-      "isoCode": "ABE",
-      "countryCode": "GB",
-      "latitude": "57.14971700",
-      "longitude": "-2.09427800"
-   },
-   {
-      "name": "Argyll and Bute",
-      "isoCode": "AGB",
-      "countryCode": "GB",
-      "latitude": "56.40062140",
-      "longitude": "-5.48074800"
-   },
-   {
-      "name": "Ards and North Down",
-      "isoCode": "AND",
-      "countryCode": "GB",
-      "latitude": "54.58996450",
-      "longitude": "-5.59849720"
-   },
-   {
-      "name": "Antrim and Newtownabbey",
-      "isoCode": "ANN",
-      "countryCode": "GB",
-      "latitude": "54.69568870",
-      "longitude": "-5.94810690"
-   },
-   {
-      "name": "Angus",
-      "isoCode": "ANS",
-      "countryCode": "GB",
-      "latitude": "37.27578860",
-      "longitude": "-95.65010330"
-   },
-   {
-      "name": "Antrim",
-      "isoCode": "ANT",
-      "countryCode": "GB",
-      "latitude": "54.71953380",
-      "longitude": "-6.20724980"
-   },
-   {
-      "name": "Ards",
-      "isoCode": "ARD",
-      "countryCode": "GB",
-      "latitude": "42.13918510",
-      "longitude": "-87.86149720"
-   },
-   {
-      "name": "Armagh City and District Council",
-      "isoCode": "ARM",
-      "countryCode": "GB",
-      "latitude": "54.39325920",
-      "longitude": "-6.45634010"
-   },
-   {
-      "name": "Bath and North East Somerset",
-      "isoCode": "BAS",
-      "countryCode": "GB",
-      "latitude": "51.32501020",
-      "longitude": "-2.47662410"
-   },
-   {
-      "name": "Blackburn with Darwen",
-      "isoCode": "BBD",
-      "countryCode": "GB",
-      "latitude": "53.69575220",
-      "longitude": "-2.46829850"
-   },
-   {
-      "name": "Bedford",
-      "isoCode": "BDF",
-      "countryCode": "GB",
-      "latitude": "32.84401700",
-      "longitude": "-97.14306710"
-   },
-   {
-      "name": "London Borough of Barking and Dagenham",
-      "isoCode": "BDG",
-      "countryCode": "GB",
-      "latitude": "51.55406660",
-      "longitude": "0.13401700"
-   },
-   {
-      "name": "London Borough of Brent",
-      "isoCode": "BEN",
-      "countryCode": "GB",
-      "latitude": "51.56728080",
-      "longitude": "-0.27105680"
-   },
-   {
-      "name": "London Borough of Bexley",
-      "isoCode": "BEX",
-      "countryCode": "GB",
-      "latitude": "51.45190210",
-      "longitude": "0.11717860"
-   },
-   {
-      "name": "Belfast district",
-      "isoCode": "BFS",
-      "countryCode": "GB",
-      "latitude": "54.61703660",
-      "longitude": "-5.95318610"
-   },
-   {
-      "name": "Bridgend County Borough",
-      "isoCode": "BGE",
-      "countryCode": "GB",
-      "latitude": "51.50831990",
-      "longitude": "-3.58120750"
-   },
-   {
-      "name": "Blaenau Gwent County Borough",
-      "isoCode": "BGW",
-      "countryCode": "GB",
-      "latitude": "51.78757790",
-      "longitude": "-3.20439310"
-   },
-   {
-      "name": "Birmingham",
-      "isoCode": "BIR",
-      "countryCode": "GB",
-      "latitude": "33.51858920",
-      "longitude": "-86.81035670"
-   },
-   {
-      "name": "Buckinghamshire",
-      "isoCode": "BKM",
-      "countryCode": "GB",
-      "latitude": "51.80722040",
-      "longitude": "-0.81276640"
-   },
-   {
-      "name": "Ballymena Borough",
-      "isoCode": "BLA",
-      "countryCode": "GB",
-      "latitude": "54.86426000",
-      "longitude": "-6.27910740"
-   },
-   {
-      "name": "Ballymoney",
-      "isoCode": "BLY",
-      "countryCode": "GB",
-      "latitude": "55.07048880",
-      "longitude": "-6.51737080"
-   },
-   {
-      "name": "Bournemouth",
-      "isoCode": "BMH",
-      "countryCode": "GB",
-      "latitude": "50.71916400",
-      "longitude": "-1.88076900"
-   },
-   {
-      "name": "Banbridge",
-      "isoCode": "BNB",
-      "countryCode": "GB",
-      "latitude": "54.34872900",
-      "longitude": "-6.27048030"
-   },
-   {
-      "name": "London Borough of Barnet",
-      "isoCode": "BNE",
-      "countryCode": "GB",
-      "latitude": "51.60496730",
-      "longitude": "-0.20762950"
-   },
-   {
-      "name": "Brighton and Hove",
-      "isoCode": "BNH",
-      "countryCode": "GB",
-      "latitude": "50.82262880",
-      "longitude": "-0.13704700"
-   },
-   {
-      "name": "Barnsley",
-      "isoCode": "BNS",
-      "countryCode": "GB",
-      "latitude": "34.29949560",
-      "longitude": "-84.98458090"
-   },
-   {
-      "name": "Bolton",
-      "isoCode": "BOL",
-      "countryCode": "GB",
-      "latitude": "44.37264760",
-      "longitude": "-72.87876250"
-   },
-   {
-      "name": "Blackpool",
-      "isoCode": "BPL",
-      "countryCode": "GB",
-      "latitude": "53.81750530",
-      "longitude": "-3.03567480"
-   },
-   {
-      "name": "Bracknell Forest",
-      "isoCode": "BRC",
-      "countryCode": "GB",
-      "latitude": "51.41538280",
-      "longitude": "-0.75364950"
-   },
-   {
-      "name": "Bradford",
-      "isoCode": "BRD",
-      "countryCode": "GB",
-      "latitude": "53.79598400",
-      "longitude": "-1.75939800"
-   },
-   {
-      "name": "London Borough of Bromley",
-      "isoCode": "BRY",
-      "countryCode": "GB",
-      "latitude": "51.36797050",
-      "longitude": "0.07006200"
-   },
-   {
-      "name": "City of Bristol",
-      "isoCode": "BST",
-      "countryCode": "GB",
-      "latitude": "41.67352200",
-      "longitude": "-72.94653750"
-   },
-   {
-      "name": "Bury",
-      "isoCode": "BUR",
-      "countryCode": "GB",
-      "latitude": "53.59334980",
-      "longitude": "-2.29660540"
-   },
-   {
-      "name": "Cambridgeshire",
-      "isoCode": "CAM",
-      "countryCode": "GB",
-      "latitude": "52.20529730",
-      "longitude": "0.12181950"
-   },
-   {
-      "name": "Caerphilly County Borough",
-      "isoCode": "CAY",
-      "countryCode": "GB",
-      "latitude": "51.66044650",
-      "longitude": "-3.21787240"
-   },
-   {
-      "name": "Central Bedfordshire",
-      "isoCode": "CBF",
-      "countryCode": "GB",
-      "latitude": "52.00297440",
-      "longitude": "-0.46513890"
-   },
-   {
-      "name": "Causeway Coast and Glens",
-      "isoCode": "CCG",
-      "countryCode": "GB",
-      "latitude": "55.04318300",
-      "longitude": "-6.67412880"
-   },
-   {
-      "name": "Ceredigion",
-      "isoCode": "CGN",
-      "countryCode": "GB",
-      "latitude": "52.21914290",
-      "longitude": "-3.93212560"
-   },
-   {
-      "name": "Craigavon Borough Council",
-      "isoCode": "CGV",
-      "countryCode": "GB",
-      "latitude": "54.39325920",
-      "longitude": "-6.45634010"
-   },
-   {
-      "name": "Cheshire East",
-      "isoCode": "CHE",
-      "countryCode": "GB",
-      "latitude": "53.16104460",
-      "longitude": "-2.21859320"
-   },
-   {
-      "name": "Cheshire West and Chester",
-      "isoCode": "CHW",
-      "countryCode": "GB",
-      "latitude": "53.23029740",
-      "longitude": "-2.71511170"
-   },
-   {
-      "name": "Carrickfergus Borough Council",
-      "isoCode": "CKF",
-      "countryCode": "GB",
-      "latitude": "54.72568430",
-      "longitude": "-5.80937190"
-   },
-   {
-      "name": "Cookstown District Council",
-      "isoCode": "CKT",
-      "countryCode": "GB",
-      "latitude": "54.64181580",
-      "longitude": "-6.74438950"
-   },
-   {
-      "name": "Calderdale",
-      "isoCode": "CLD",
-      "countryCode": "GB",
-      "latitude": "53.72478450",
-      "longitude": "-1.86583570"
-   },
-   {
-      "name": "Clackmannanshire",
-      "isoCode": "CLK",
-      "countryCode": "GB",
-      "latitude": "56.10753510",
-      "longitude": "-3.75294090"
-   },
-   {
-      "name": "Coleraine Borough Council",
-      "isoCode": "CLR",
-      "countryCode": "GB",
-      "latitude": "55.14515700",
-      "longitude": "-6.67598140"
-   },
-   {
-      "name": "Cumbria",
-      "isoCode": "CMA",
-      "countryCode": "GB",
-      "latitude": "54.57723230",
-      "longitude": "-2.79748350"
-   },
-   {
-      "name": "London Borough of Camden",
-      "isoCode": "CMD",
-      "countryCode": "GB",
-      "latitude": "51.54547360",
-      "longitude": "-0.16279020"
-   },
-   {
-      "name": "Carmarthenshire",
-      "isoCode": "CMN",
-      "countryCode": "GB",
-      "latitude": "51.85723090",
-      "longitude": "-4.31159590"
-   },
-   {
-      "name": "Cornwall",
-      "isoCode": "CON",
-      "countryCode": "GB",
-      "latitude": "50.26604710",
-      "longitude": "-5.05271250"
-   },
-   {
-      "name": "Coventry",
-      "isoCode": "COV",
-      "countryCode": "GB",
-      "latitude": "52.40682200",
-      "longitude": "-1.51969300"
-   },
-   {
-      "name": "City and County of Cardiff",
-      "isoCode": "CRF",
-      "countryCode": "GB",
-      "latitude": "51.48158100",
-      "longitude": "-3.17909000"
-   },
-   {
-      "name": "London Borough of Croydon",
-      "isoCode": "CRY",
-      "countryCode": "GB",
-      "latitude": "51.38274460",
-      "longitude": "-0.09851630"
-   },
-   {
-      "name": "Castlereagh",
-      "isoCode": "CSR",
-      "countryCode": "GB",
-      "latitude": "54.57567900",
-      "longitude": "-5.88840280"
-   },
-   {
-      "name": "Conwy County Borough",
-      "isoCode": "CWY",
-      "countryCode": "GB",
-      "latitude": "53.29350130",
-      "longitude": "-3.72651610"
-   },
-   {
-      "name": "Darlington",
-      "isoCode": "DAL",
-      "countryCode": "GB",
-      "latitude": "34.29987620",
-      "longitude": "-79.87617410"
-   },
-   {
-      "name": "Derbyshire",
-      "isoCode": "DBY",
-      "countryCode": "GB",
-      "latitude": "53.10467820",
-      "longitude": "-1.56238850"
-   },
-   {
-      "name": "Denbighshire",
-      "isoCode": "DEN",
-      "countryCode": "GB",
-      "latitude": "53.18422880",
-      "longitude": "-3.42249850"
-   },
-   {
-      "name": "City of Derby",
-      "isoCode": "DER",
-      "countryCode": "GB",
-      "latitude": "37.54837550",
-      "longitude": "-97.24851910"
-   },
-   {
-      "name": "Devon",
-      "isoCode": "DEV",
-      "countryCode": "GB",
-      "latitude": "50.71555910",
-      "longitude": "-3.53087500"
-   },
-   {
-      "name": "Dungannon and South Tyrone Borough Council",
-      "isoCode": "DGN",
-      "countryCode": "GB",
-      "latitude": "54.50826840",
-      "longitude": "-6.76658910"
-   },
-   {
-      "name": "Dumfries and Galloway",
-      "isoCode": "DGY",
-      "countryCode": "GB",
-      "latitude": "55.07010730",
-      "longitude": "-3.60525810"
-   },
-   {
-      "name": "Doncaster",
-      "isoCode": "DNC",
-      "countryCode": "GB",
-      "latitude": "53.52282000",
-      "longitude": "-1.12846200"
-   },
-   {
-      "name": "Dundee",
-      "isoCode": "DND",
-      "countryCode": "GB",
-      "latitude": "56.46201800",
-      "longitude": "-2.97072100"
-   },
-   {
-      "name": "Dorset",
-      "isoCode": "DOR",
-      "countryCode": "GB",
-      "latitude": "50.74876350",
-      "longitude": "-2.34447860"
-   },
-   {
-      "name": "Down District Council",
-      "isoCode": "DOW",
-      "countryCode": "GB",
-      "latitude": "54.24342870",
-      "longitude": "-5.95779590"
-   },
-   {
-      "name": "Derry City and Strabane",
-      "isoCode": "DRS",
-      "countryCode": "GB",
-      "latitude": "55.00474430",
-      "longitude": "-7.32092220"
-   },
-   {
-      "name": "Derry City Council",
-      "isoCode": "DRY",
-      "countryCode": "GB",
-      "latitude": "54.96907780",
-      "longitude": "-7.19583510"
-   },
-   {
-      "name": "Dudley",
-      "isoCode": "DUD",
-      "countryCode": "GB",
-      "latitude": "42.04336610",
-      "longitude": "-71.92760330"
-   },
-   {
-      "name": "County Durham",
-      "isoCode": "DUR",
-      "countryCode": "GB",
-      "latitude": "54.72940990",
-      "longitude": "-1.88115980"
-   },
-   {
-      "name": "London Borough of Ealing",
-      "isoCode": "EAL",
-      "countryCode": "GB",
-      "latitude": "51.52503660",
-      "longitude": "-0.34139650"
-   },
-   {
-      "name": "East Ayrshire",
-      "isoCode": "EAY",
-      "countryCode": "GB",
-      "latitude": "55.45184960",
-      "longitude": "-4.26444780"
-   },
-   {
-      "name": "Edinburgh",
-      "isoCode": "EDH",
-      "countryCode": "GB",
-      "latitude": "55.95325200",
-      "longitude": "-3.18826700"
-   },
-   {
-      "name": "East Dunbartonshire",
-      "isoCode": "EDU",
-      "countryCode": "GB",
-      "latitude": "55.97431620",
-      "longitude": "-4.20229800"
-   },
-   {
-      "name": "East Lothian",
-      "isoCode": "ELN",
-      "countryCode": "GB",
-      "latitude": "55.94933830",
-      "longitude": "-2.77044640"
-   },
-   {
-      "name": "Outer Hebrides",
-      "isoCode": "ELS",
-      "countryCode": "GB",
-      "latitude": "57.75989180",
-      "longitude": "-7.01940340"
-   },
-   {
-      "name": "London Borough of Enfield",
-      "isoCode": "ENF",
-      "countryCode": "GB",
-      "latitude": "51.66229090",
-      "longitude": "-0.11806510"
-   },
+   
    {
       "name": "England",
       "isoCode": "ENG",
@@ -10212,496 +9675,7 @@
       "latitude": "52.35551770",
       "longitude": "-1.17431970"
    },
-   {
-      "name": "East Renfrewshire",
-      "isoCode": "ERW",
-      "countryCode": "GB",
-      "latitude": "55.77047350",
-      "longitude": "-4.33598210"
-   },
-   {
-      "name": "East Riding of Yorkshire",
-      "isoCode": "ERY",
-      "countryCode": "GB",
-      "latitude": "53.84161680",
-      "longitude": "-0.43441060"
-   },
-   {
-      "name": "Essex",
-      "isoCode": "ESS",
-      "countryCode": "GB",
-      "latitude": "51.57424470",
-      "longitude": "0.48567810"
-   },
-   {
-      "name": "East Sussex",
-      "isoCode": "ESX",
-      "countryCode": "GB",
-      "latitude": "50.90859550",
-      "longitude": "0.24941660"
-   },
-   {
-      "name": "Falkirk",
-      "isoCode": "FAL",
-      "countryCode": "GB",
-      "latitude": "56.00187750",
-      "longitude": "-3.78391310"
-   },
-   {
-      "name": "Fermanagh District Council",
-      "isoCode": "FER",
-      "countryCode": "GB",
-      "latitude": "54.34479780",
-      "longitude": "-7.63842180"
-   },
-   {
-      "name": "Fife",
-      "isoCode": "FIF",
-      "countryCode": "GB",
-      "latitude": "56.20820780",
-      "longitude": "-3.14951750"
-   },
-   {
-      "name": "Flintshire",
-      "isoCode": "FLN",
-      "countryCode": "GB",
-      "latitude": "53.16686580",
-      "longitude": "-3.14189080"
-   },
-   {
-      "name": "Fermanagh and Omagh",
-      "isoCode": "FMO",
-      "countryCode": "GB",
-      "latitude": "54.45135240",
-      "longitude": "-7.71250180"
-   },
-   {
-      "name": "Gateshead",
-      "isoCode": "GAT",
-      "countryCode": "GB",
-      "latitude": "54.95268000",
-      "longitude": "-1.60341100"
-   },
-   {
-      "name": "Glasgow",
-      "isoCode": "GLG",
-      "countryCode": "GB",
-      "latitude": "55.86423700",
-      "longitude": "-4.25180600"
-   },
-   {
-      "name": "Gloucestershire",
-      "isoCode": "GLS",
-      "countryCode": "GB",
-      "latitude": "51.86421120",
-      "longitude": "-2.23803350"
-   },
-   {
-      "name": "Royal Borough of Greenwich",
-      "isoCode": "GRE",
-      "countryCode": "GB",
-      "latitude": "51.48346270",
-      "longitude": "0.05862020"
-   },
-   {
-      "name": "Gwynedd",
-      "isoCode": "GWN",
-      "countryCode": "GB",
-      "latitude": "52.92772660",
-      "longitude": "-4.13348360"
-   },
-   {
-      "name": "Halton",
-      "isoCode": "HAL",
-      "countryCode": "GB",
-      "latitude": "43.53253720",
-      "longitude": "-79.87448360"
-   },
-   {
-      "name": "Hampshire",
-      "isoCode": "HAM",
-      "countryCode": "GB",
-      "latitude": "51.05769480",
-      "longitude": "-1.30806290"
-   },
-   {
-      "name": "London Borough of Havering",
-      "isoCode": "HAV",
-      "countryCode": "GB",
-      "latitude": "51.57792400",
-      "longitude": "0.21208290"
-   },
-   {
-      "name": "London Borough of Hackney",
-      "isoCode": "HCK",
-      "countryCode": "GB",
-      "latitude": "51.57344500",
-      "longitude": "-0.07243760"
-   },
-   {
-      "name": "Herefordshire",
-      "isoCode": "HEF",
-      "countryCode": "GB",
-      "latitude": "52.07651640",
-      "longitude": "-2.65441820"
-   },
-   {
-      "name": "London Borough of Hillingdon",
-      "isoCode": "HIL",
-      "countryCode": "GB",
-      "latitude": "51.53518320",
-      "longitude": "-0.44813780"
-   },
-   {
-      "name": "Highland",
-      "isoCode": "HLD",
-      "countryCode": "GB",
-      "latitude": "36.29675080",
-      "longitude": "-95.83803660"
-   },
-   {
-      "name": "London Borough of Hammersmith and Fulham",
-      "isoCode": "HMF",
-      "countryCode": "GB",
-      "latitude": "51.49901560",
-      "longitude": "-0.22915000"
-   },
-   {
-      "name": "London Borough of Hounslow",
-      "isoCode": "HNS",
-      "countryCode": "GB",
-      "latitude": "51.48283580",
-      "longitude": "-0.38820620"
-   },
-   {
-      "name": "Hartlepool",
-      "isoCode": "HPL",
-      "countryCode": "GB",
-      "latitude": "54.69174500",
-      "longitude": "-1.21292600"
-   },
-   {
-      "name": "Hertfordshire",
-      "isoCode": "HRT",
-      "countryCode": "GB",
-      "latitude": "51.80978230",
-      "longitude": "-0.23767440"
-   },
-   {
-      "name": "London Borough of Harrow",
-      "isoCode": "HRW",
-      "countryCode": "GB",
-      "latitude": "51.58816270",
-      "longitude": "-0.34228510"
-   },
-   {
-      "name": "London Borough of Haringey",
-      "isoCode": "HRY",
-      "countryCode": "GB",
-      "latitude": "51.59061130",
-      "longitude": "-0.11097090"
-   },
-   {
-      "name": "Isles of Scilly",
-      "isoCode": "IOS",
-      "countryCode": "GB",
-      "latitude": "49.92772610",
-      "longitude": "-6.32749660"
-   },
-   {
-      "name": "Isle of Wight",
-      "isoCode": "IOW",
-      "countryCode": "GB",
-      "latitude": "50.69384790",
-      "longitude": "-1.30473400"
-   },
-   {
-      "name": "London Borough of Islington",
-      "isoCode": "ISL",
-      "countryCode": "GB",
-      "latitude": "51.54650630",
-      "longitude": "-0.10580580"
-   },
-   {
-      "name": "Inverclyde",
-      "isoCode": "IVC",
-      "countryCode": "GB",
-      "latitude": "55.93165690",
-      "longitude": "-4.68001580"
-   },
-   {
-      "name": "Royal Borough of Kensington and Chelsea",
-      "isoCode": "KEC",
-      "countryCode": "GB",
-      "latitude": "51.49908050",
-      "longitude": "-0.19382530"
-   },
-   {
-      "name": "Kent",
-      "isoCode": "KEN",
-      "countryCode": "GB",
-      "latitude": "41.15366740",
-      "longitude": "-81.35788590"
-   },
-   {
-      "name": "City of Kingston upon Hull",
-      "isoCode": "KHL",
-      "countryCode": "GB",
-      "latitude": "53.76762360",
-      "longitude": "-0.32741980"
-   },
-   {
-      "name": "Kirklees",
-      "isoCode": "KIR",
-      "countryCode": "GB",
-      "latitude": "53.59334320",
-      "longitude": "-1.80095090"
-   },
-   {
-      "name": "Royal Borough of Kingston upon Thames",
-      "isoCode": "KTT",
-      "countryCode": "GB",
-      "latitude": "51.37811700",
-      "longitude": "-0.29270900"
-   },
-   {
-      "name": "Knowsley",
-      "isoCode": "KWL",
-      "countryCode": "GB",
-      "latitude": "53.45459400",
-      "longitude": "-2.85290700"
-   },
-   {
-      "name": "Lancashire",
-      "isoCode": "LAN",
-      "countryCode": "GB",
-      "latitude": "53.76322540",
-      "longitude": "-2.70440520"
-   },
-   {
-      "name": "Lisburn and Castlereagh",
-      "isoCode": "LBC",
-      "countryCode": "GB",
-      "latitude": "54.49815840",
-      "longitude": "-6.13067910"
-   },
-   {
-      "name": "London Borough of Lambeth",
-      "isoCode": "LBH",
-      "countryCode": "GB",
-      "latitude": "51.45714770",
-      "longitude": "-0.12306810"
-   },
-   {
-      "name": "City of Leicester",
-      "isoCode": "LCE",
-      "countryCode": "GB",
-      "latitude": "52.63687780",
-      "longitude": "-1.13975920"
-   },
-   {
-      "name": "Leeds",
-      "isoCode": "LDS",
-      "countryCode": "GB",
-      "latitude": "53.80075540",
-      "longitude": "-1.54907740"
-   },
-   {
-      "name": "Leicestershire",
-      "isoCode": "LEC",
-      "countryCode": "GB",
-      "latitude": "52.77257100",
-      "longitude": "-1.20521260"
-   },
-   {
-      "name": "London Borough of Lewisham",
-      "isoCode": "LEW",
-      "countryCode": "GB",
-      "latitude": "51.44145790",
-      "longitude": "-0.01170060"
-   },
-   {
-      "name": "Lincolnshire",
-      "isoCode": "LIN",
-      "countryCode": "GB",
-      "latitude": "52.94518890",
-      "longitude": "-0.16012460"
-   },
-   {
-      "name": "Liverpool",
-      "isoCode": "LIV",
-      "countryCode": "GB",
-      "latitude": "32.65649810",
-      "longitude": "-115.47632410"
-   },
-   {
-      "name": "Limavady Borough Council",
-      "isoCode": "LMV",
-      "countryCode": "GB",
-      "latitude": "55.05168200",
-      "longitude": "-6.94919440"
-   },
-   {
-      "name": "City of London",
-      "isoCode": "LND",
-      "countryCode": "GB",
-      "latitude": "51.51234430",
-      "longitude": "-0.09098520"
-   },
-   {
-      "name": "Larne Borough Council",
-      "isoCode": "LRN",
-      "countryCode": "GB",
-      "latitude": "54.85780030",
-      "longitude": "-5.82362240"
-   },
-   {
-      "name": "Lisburn City Council",
-      "isoCode": "LSB",
-      "countryCode": "GB",
-      "latitude": "54.49815840",
-      "longitude": "-6.13067910"
-   },
-   {
-      "name": "Manchester",
-      "isoCode": "MAN",
-      "countryCode": "GB",
-      "latitude": "53.48075930",
-      "longitude": "-2.24263050"
-   },
-   {
-      "name": "Middlesbrough",
-      "isoCode": "MDB",
-      "countryCode": "GB",
-      "latitude": "54.57422700",
-      "longitude": "-1.23495600"
-   },
-   {
-      "name": "Medway",
-      "isoCode": "MDW",
-      "countryCode": "GB",
-      "latitude": "42.14176410",
-      "longitude": "-71.39672560"
-   },
-   {
-      "name": "Mid and East Antrim",
-      "isoCode": "MEA",
-      "countryCode": "GB",
-      "latitude": "54.93993410",
-      "longitude": "-6.11374230"
-   },
-   {
-      "name": "Magherafelt District Council",
-      "isoCode": "MFT",
-      "countryCode": "GB",
-      "latitude": "54.75532790",
-      "longitude": "-6.60774870"
-   },
-   {
-      "name": "Milton Keynes",
-      "isoCode": "MIK",
-      "countryCode": "GB",
-      "latitude": "52.08520380",
-      "longitude": "-0.73331330"
-   },
-   {
-      "name": "Midlothian",
-      "isoCode": "MLN",
-      "countryCode": "GB",
-      "latitude": "32.47533500",
-      "longitude": "-97.01031810"
-   },
-   {
-      "name": "Monmouthshire",
-      "isoCode": "MON",
-      "countryCode": "GB",
-      "latitude": "51.81161000",
-      "longitude": "-2.71634170"
-   },
-   {
-      "name": "London Borough of Merton",
-      "isoCode": "MRT",
-      "countryCode": "GB",
-      "latitude": "51.40977420",
-      "longitude": "-0.21080840"
-   },
-   {
-      "name": "Moray",
-      "isoCode": "MRY",
-      "countryCode": "GB",
-      "latitude": "57.64984760",
-      "longitude": "-3.31680390"
-   },
-   {
-      "name": "Merthyr Tydfil County Borough",
-      "isoCode": "MTY",
-      "countryCode": "GB",
-      "latitude": "51.74674740",
-      "longitude": "-3.38132750"
-   },
-   {
-      "name": "Mid Ulster",
-      "isoCode": "MUL",
-      "countryCode": "GB",
-      "latitude": "54.64113010",
-      "longitude": "-6.75225490"
-   },
-   {
-      "name": "Moyle District Council",
-      "isoCode": "MYL",
-      "countryCode": "GB",
-      "latitude": "55.20473270",
-      "longitude": "-6.25317400"
-   },
-   {
-      "name": "North Ayrshire",
-      "isoCode": "NAY",
-      "countryCode": "GB",
-      "latitude": "55.64167310",
-      "longitude": "-4.75946000"
-   },
-   {
-      "name": "Northumberland",
-      "isoCode": "NBL",
-      "countryCode": "GB",
-      "latitude": "55.20825420",
-      "longitude": "-2.07841380"
-   },
-   {
-      "name": "North Down Borough Council",
-      "isoCode": "NDN",
-      "countryCode": "GB",
-      "latitude": "54.65362970",
-      "longitude": "-5.67249250"
-   },
-   {
-      "name": "North East Lincolnshire",
-      "isoCode": "NEL",
-      "countryCode": "GB",
-      "latitude": "53.56682010",
-      "longitude": "-0.08150660"
-   },
-   {
-      "name": "Newcastle upon Tyne",
-      "isoCode": "NET",
-      "countryCode": "GB",
-      "latitude": "54.97825200",
-      "longitude": "-1.61778000"
-   },
-   {
-      "name": "Norfolk",
-      "isoCode": "NFK",
-      "countryCode": "GB",
-      "latitude": "36.85076890",
-      "longitude": "-76.28587260"
-   },
-   {
-      "name": "City of Nottingham",
-      "isoCode": "NGM",
-      "countryCode": "GB",
-      "latitude": "52.95478320",
-      "longitude": "-1.15810860"
-   },
+   
    {
       "name": "Northern Ireland",
       "isoCode": "NIR",
@@ -10710,586 +9684,13 @@
       "longitude": "-6.49231450"
    },
    {
-      "name": "North Lanarkshire",
-      "isoCode": "NLK",
-      "countryCode": "GB",
-      "latitude": "55.86624320",
-      "longitude": "-3.96131440"
-   },
-   {
-      "name": "North Lincolnshire",
-      "isoCode": "NLN",
-      "countryCode": "GB",
-      "latitude": "53.60555920",
-      "longitude": "-0.55965820"
-   },
-   {
-      "name": "Newry, Mourne and Down",
-      "isoCode": "NMD",
-      "countryCode": "GB",
-      "latitude": "54.24342870",
-      "longitude": "-5.95779590"
-   },
-   {
-      "name": "North Somerset",
-      "isoCode": "NSM",
-      "countryCode": "GB",
-      "latitude": "51.38790280",
-      "longitude": "-2.77810910"
-   },
-   {
-      "name": "Newtownabbey Borough Council",
-      "isoCode": "NTA",
-      "countryCode": "GB",
-      "latitude": "54.67924220",
-      "longitude": "-5.95911020"
-   },
-   {
-      "name": "Northamptonshire",
-      "isoCode": "NTH",
-      "countryCode": "GB",
-      "latitude": "52.27299440",
-      "longitude": "-0.87555150"
-   },
-   {
-      "name": "Neath Port Talbot County Borough",
-      "isoCode": "NTL",
-      "countryCode": "GB",
-      "latitude": "51.59785190",
-      "longitude": "-3.78396680"
-   },
-   {
-      "name": "Nottinghamshire",
-      "isoCode": "NTT",
-      "countryCode": "GB",
-      "latitude": "53.10031900",
-      "longitude": "-0.99363060"
-   },
-   {
-      "name": "North Tyneside",
-      "isoCode": "NTY",
-      "countryCode": "GB",
-      "latitude": "55.01823990",
-      "longitude": "-1.48584360"
-   },
-   {
-      "name": "London Borough of Newham",
-      "isoCode": "NWM",
-      "countryCode": "GB",
-      "latitude": "51.52551620",
-      "longitude": "0.03521630"
-   },
-   {
-      "name": "Newport",
-      "isoCode": "NWP",
-      "countryCode": "GB",
-      "latitude": "37.52782340",
-      "longitude": "-94.10438760"
-   },
-   {
-      "name": "North Yorkshire",
-      "isoCode": "NYK",
-      "countryCode": "GB",
-      "latitude": "53.99150280",
-      "longitude": "-1.54120150"
-   },
-   {
-      "name": "Newry and Mourne District Council",
-      "isoCode": "NYM",
-      "countryCode": "GB",
-      "latitude": "54.17425050",
-      "longitude": "-6.33919920"
-   },
-   {
-      "name": "Oldham",
-      "isoCode": "OLD",
-      "countryCode": "GB",
-      "latitude": "42.20405980",
-      "longitude": "-71.20481190"
-   },
-   {
-      "name": "Omagh District Council",
-      "isoCode": "OMH",
-      "countryCode": "GB",
-      "latitude": "54.45135240",
-      "longitude": "-7.71250180"
-   },
-   {
-      "name": "Orkney Islands",
-      "isoCode": "ORK",
-      "countryCode": "GB",
-      "latitude": "58.98094010",
-      "longitude": "-2.96052060"
-   },
-   {
-      "name": "Oxfordshire",
-      "isoCode": "OXF",
-      "countryCode": "GB",
-      "latitude": "51.76120560",
-      "longitude": "-1.24646740"
-   },
-   {
-      "name": "Pembrokeshire",
-      "isoCode": "PEM",
-      "countryCode": "GB",
-      "latitude": "51.67407800",
-      "longitude": "-4.90887850"
-   },
-   {
-      "name": "Perth and Kinross",
-      "isoCode": "PKN",
-      "countryCode": "GB",
-      "latitude": "56.39538170",
-      "longitude": "-3.42835470"
-   },
-   {
-      "name": "City of Plymouth",
-      "isoCode": "PLY",
-      "countryCode": "GB",
-      "latitude": "42.37089410",
-      "longitude": "-83.46971410"
-   },
-   {
-      "name": "Poole",
-      "isoCode": "POL",
-      "countryCode": "GB",
-      "latitude": "50.71505000",
-      "longitude": "-1.98724800"
-   },
-   {
-      "name": "City of Portsmouth",
-      "isoCode": "POR",
-      "countryCode": "GB",
-      "latitude": "36.83291500",
-      "longitude": "-76.29755490"
-   },
-   {
-      "name": "Powys",
-      "isoCode": "POW",
-      "countryCode": "GB",
-      "latitude": "52.64642490",
-      "longitude": "-3.32609040"
-   },
-   {
-      "name": "City of Peterborough",
-      "isoCode": "PTE",
-      "countryCode": "GB",
-      "latitude": "44.30936360",
-      "longitude": "-78.32015300"
-   },
-   {
-      "name": "Redcar and Cleveland",
-      "isoCode": "RCC",
-      "countryCode": "GB",
-      "latitude": "54.59713440",
-      "longitude": "-1.07759970"
-   },
-   {
-      "name": "Rochdale",
-      "isoCode": "RCH",
-      "countryCode": "GB",
-      "latitude": "53.60971360",
-      "longitude": "-2.15610000"
-   },
-   {
-      "name": "Rhondda Cynon Taf",
-      "isoCode": "RCT",
-      "countryCode": "GB",
-      "latitude": "51.64902070",
-      "longitude": "-3.42886920"
-   },
-   {
-      "name": "London Borough of Redbridge",
-      "isoCode": "RDB",
-      "countryCode": "GB",
-      "latitude": "51.58861210",
-      "longitude": "0.08239820"
-   },
-   {
-      "name": "Reading",
-      "isoCode": "RDG",
-      "countryCode": "GB",
-      "latitude": "36.14866590",
-      "longitude": "-95.98400120"
-   },
-   {
-      "name": "Renfrewshire",
-      "isoCode": "RFW",
-      "countryCode": "GB",
-      "latitude": "55.84665400",
-      "longitude": "-4.53312590"
-   },
-   {
-      "name": "London Borough of Richmond upon Thames",
-      "isoCode": "RIC",
-      "countryCode": "GB",
-      "latitude": "51.46130540",
-      "longitude": "-0.30377090"
-   },
-   {
-      "name": "Rotherham",
-      "isoCode": "ROT",
-      "countryCode": "GB",
-      "latitude": "53.43260350",
-      "longitude": "-1.36350090"
-   },
-   {
-      "name": "Rutland",
-      "isoCode": "RUT",
-      "countryCode": "GB",
-      "latitude": "43.61062370",
-      "longitude": "-72.97260650"
-   },
-   {
-      "name": "Sandwell",
-      "isoCode": "SAW",
-      "countryCode": "GB",
-      "latitude": "52.53616740",
-      "longitude": "-2.01079300"
-   },
-   {
-      "name": "South Ayrshire",
-      "isoCode": "SAY",
-      "countryCode": "GB",
-      "latitude": "55.45889880",
-      "longitude": "-4.62919940"
-   },
-   {
-      "name": "Scottish Borders",
-      "isoCode": "SCB",
-      "countryCode": "GB",
-      "latitude": "55.54856970",
-      "longitude": "-2.78613880"
-   },
-   {
       "name": "Scotland",
       "isoCode": "SCT",
       "countryCode": "GB",
       "latitude": "56.49067120",
       "longitude": "-4.20264580"
    },
-   {
-      "name": "Suffolk",
-      "isoCode": "SFK",
-      "countryCode": "GB",
-      "latitude": "52.18724720",
-      "longitude": "0.97078010"
-   },
-   {
-      "name": "Sefton",
-      "isoCode": "SFT",
-      "countryCode": "GB",
-      "latitude": "53.50344490",
-      "longitude": "-2.97035900"
-   },
-   {
-      "name": "South Gloucestershire",
-      "isoCode": "SGC",
-      "countryCode": "GB",
-      "latitude": "51.52643610",
-      "longitude": "-2.47284870"
-   },
-   {
-      "name": "Ascension Island",
-      "isoCode": "SH-AC",
-      "countryCode": "GB",
-      "latitude": "-7.94671660",
-      "longitude": "-14.35591580"
-   },
-   {
-      "name": "Saint Helena",
-      "isoCode": "SH-HL",
-      "countryCode": "GB",
-      "latitude": "-15.96501040",
-      "longitude": "-5.70892410"
-   },
-   {
-      "name": "Sheffield",
-      "isoCode": "SHF",
-      "countryCode": "GB",
-      "latitude": "36.09507430",
-      "longitude": "-80.27884660"
-   },
-   {
-      "name": "St Helens",
-      "isoCode": "SHN",
-      "countryCode": "GB",
-      "latitude": "45.85896100",
-      "longitude": "-122.82123560"
-   },
-   {
-      "name": "Shropshire",
-      "isoCode": "SHR",
-      "countryCode": "GB",
-      "latitude": "52.70636570",
-      "longitude": "-2.74178490"
-   },
-   {
-      "name": "Stockport",
-      "isoCode": "SKP",
-      "countryCode": "GB",
-      "latitude": "53.41063160",
-      "longitude": "-2.15753320"
-   },
-   {
-      "name": "Salford",
-      "isoCode": "SLF",
-      "countryCode": "GB",
-      "latitude": "53.48752350",
-      "longitude": "-2.29012640"
-   },
-   {
-      "name": "Slough",
-      "isoCode": "SLG",
-      "countryCode": "GB",
-      "latitude": "51.51053840",
-      "longitude": "-0.59504060"
-   },
-   {
-      "name": "South Lanarkshire",
-      "isoCode": "SLK",
-      "countryCode": "GB",
-      "latitude": "55.67359090",
-      "longitude": "-3.78196610"
-   },
-   {
-      "name": "City of Sunderland",
-      "isoCode": "SND",
-      "countryCode": "GB",
-      "latitude": "54.88614890",
-      "longitude": "-1.47857970"
-   },
-   {
-      "name": "Solihull",
-      "isoCode": "SOL",
-      "countryCode": "GB",
-      "latitude": "52.41181100",
-      "longitude": "-1.77761000"
-   },
-   {
-      "name": "Somerset",
-      "isoCode": "SOM",
-      "countryCode": "GB",
-      "latitude": "51.10509700",
-      "longitude": "-2.92623070"
-   },
-   {
-      "name": "Southend-on-Sea",
-      "isoCode": "SOS",
-      "countryCode": "GB",
-      "latitude": "51.54592690",
-      "longitude": "0.70771230"
-   },
-   {
-      "name": "Surrey",
-      "isoCode": "SRY",
-      "countryCode": "GB",
-      "latitude": "51.31475930",
-      "longitude": "-0.55995010"
-   },
-   {
-      "name": "Strabane District Council",
-      "isoCode": "STB",
-      "countryCode": "GB",
-      "latitude": "54.82738650",
-      "longitude": "-7.46331030"
-   },
-   {
-      "name": "City of Stoke-on-Trent",
-      "isoCode": "STE",
-      "countryCode": "GB",
-      "latitude": "53.00266800",
-      "longitude": "-2.17940400"
-   },
-   {
-      "name": "Stirling",
-      "isoCode": "STG",
-      "countryCode": "GB",
-      "latitude": "56.11652270",
-      "longitude": "-3.93690290"
-   },
-   {
-      "name": "City of Southampton",
-      "isoCode": "STH",
-      "countryCode": "GB",
-      "latitude": "50.90970040",
-      "longitude": "-1.40435090"
-   },
-   {
-      "name": "London Borough of Sutton",
-      "isoCode": "STN",
-      "countryCode": "GB",
-      "latitude": "51.35737620",
-      "longitude": "-0.17527960"
-   },
-   {
-      "name": "Staffordshire",
-      "isoCode": "STS",
-      "countryCode": "GB",
-      "latitude": "52.87927450",
-      "longitude": "-2.05718680"
-   },
-   {
-      "name": "Stockton-on-Tees",
-      "isoCode": "STT",
-      "countryCode": "GB",
-      "latitude": "54.57045510",
-      "longitude": "-1.32898210"
-   },
-   {
-      "name": "South Tyneside",
-      "isoCode": "STY",
-      "countryCode": "GB",
-      "latitude": "54.96366930",
-      "longitude": "-1.44186340"
-   },
-   {
-      "name": "City and County of Swansea",
-      "isoCode": "SWA",
-      "countryCode": "GB",
-      "latitude": "51.62144000",
-      "longitude": "-3.94364600"
-   },
-   {
-      "name": "Swindon",
-      "isoCode": "SWD",
-      "countryCode": "GB",
-      "latitude": "51.55577390",
-      "longitude": "-1.77971760"
-   },
-   {
-      "name": "London Borough of Southwark",
-      "isoCode": "SWK",
-      "countryCode": "GB",
-      "latitude": "51.48805720",
-      "longitude": "-0.07628380"
-   },
-   {
-      "name": "Tameside",
-      "isoCode": "TAM",
-      "countryCode": "GB",
-      "latitude": "53.48058280",
-      "longitude": "-2.08098910"
-   },
-   {
-      "name": "Telford and Wrekin",
-      "isoCode": "TFW",
-      "countryCode": "GB",
-      "latitude": "52.74099160",
-      "longitude": "-2.48685860"
-   },
-   {
-      "name": "Thurrock",
-      "isoCode": "THR",
-      "countryCode": "GB",
-      "latitude": "51.49345570",
-      "longitude": "0.35291970"
-   },
-   {
-      "name": "Torbay",
-      "isoCode": "TOB",
-      "countryCode": "GB",
-      "latitude": "50.43923290",
-      "longitude": "-3.53698990"
-   },
-   {
-      "name": "Torfaen",
-      "isoCode": "TOF",
-      "countryCode": "GB",
-      "latitude": "51.70022530",
-      "longitude": "-3.04460150"
-   },
-   {
-      "name": "Trafford",
-      "isoCode": "TRF",
-      "countryCode": "GB",
-      "latitude": "40.38562460",
-      "longitude": "-79.75893470"
-   },
-   {
-      "name": "London Borough of Tower Hamlets",
-      "isoCode": "TWH",
-      "countryCode": "GB",
-      "latitude": "51.52026070",
-      "longitude": "-0.02933960"
-   },
-   {
-      "name": "United Kingdom",
-      "isoCode": "UKM",
-      "countryCode": "GB",
-      "latitude": "55.37805100",
-      "longitude": "-3.43597300"
-   },
-   {
-      "name": "Vale of Glamorgan",
-      "isoCode": "VGL",
-      "countryCode": "GB",
-      "latitude": "51.40959580",
-      "longitude": "-3.48481670"
-   },
-   {
-      "name": "Warwickshire",
-      "isoCode": "WAR",
-      "countryCode": "GB",
-      "latitude": "52.26713530",
-      "longitude": "-1.46752160"
-   },
-   {
-      "name": "West Berkshire",
-      "isoCode": "WBK",
-      "countryCode": "GB",
-      "latitude": "51.43082550",
-      "longitude": "-1.14449270"
-   },
-   {
-      "name": "West Dunbartonshire",
-      "isoCode": "WDU",
-      "countryCode": "GB",
-      "latitude": "55.94509250",
-      "longitude": "-4.56462590"
-   },
-   {
-      "name": "London Borough of Waltham Forest",
-      "isoCode": "WFT",
-      "countryCode": "GB",
-      "latitude": "51.58863830",
-      "longitude": "-0.01176250"
-   },
-   {
-      "name": "Metropolitan Borough of Wigan",
-      "isoCode": "WGN",
-      "countryCode": "GB",
-      "latitude": "53.51348120",
-      "longitude": "-2.61069990"
-   },
-   {
-      "name": "Wiltshire",
-      "isoCode": "WIL",
-      "countryCode": "GB",
-      "latitude": "51.34919960",
-      "longitude": "-1.99271050"
-   },
-   {
-      "name": "Wakefield",
-      "isoCode": "WKF",
-      "countryCode": "GB",
-      "latitude": "42.50393950",
-      "longitude": "-71.07233910"
-   },
-   {
-      "name": "Walsall",
-      "isoCode": "WLL",
-      "countryCode": "GB",
-      "latitude": "52.58621400",
-      "longitude": "-1.98291900"
-   },
-   {
-      "name": "West Lothian",
-      "isoCode": "WLN",
-      "countryCode": "GB",
-      "latitude": "55.90701980",
-      "longitude": "-3.55171670"
-   },
+   
    {
       "name": "Wales",
       "isoCode": "WLS",
@@ -11297,90 +9698,7 @@
       "latitude": "52.13066070",
       "longitude": "-3.78371170"
    },
-   {
-      "name": "City of Wolverhampton",
-      "isoCode": "WLV",
-      "countryCode": "GB",
-      "latitude": "52.58891200",
-      "longitude": "-2.15646300"
-   },
-   {
-      "name": "London Borough of Wandsworth",
-      "isoCode": "WND",
-      "countryCode": "GB",
-      "latitude": "51.45682740",
-      "longitude": "-0.18966380"
-   },
-   {
-      "name": "Windsor and Maidenhead",
-      "isoCode": "WNM",
-      "countryCode": "GB",
-      "latitude": "51.47997120",
-      "longitude": "-0.62425650"
-   },
-   {
-      "name": "Wokingham",
-      "isoCode": "WOK",
-      "countryCode": "GB",
-      "latitude": "51.41045700",
-      "longitude": "-0.83386100"
-   },
-   {
-      "name": "Worcestershire",
-      "isoCode": "WOR",
-      "countryCode": "GB",
-      "latitude": "52.25452250",
-      "longitude": "-2.26683820"
-   },
-   {
-      "name": "Wirral",
-      "isoCode": "WRL",
-      "countryCode": "GB",
-      "latitude": "53.37271810",
-      "longitude": "-3.07375400"
-   },
-   {
-      "name": "Warrington",
-      "isoCode": "WRT",
-      "countryCode": "GB",
-      "latitude": "40.24927410",
-      "longitude": "-75.13406040"
-   },
-   {
-      "name": "Wrexham County Borough",
-      "isoCode": "WRX",
-      "countryCode": "GB",
-      "latitude": "53.03013780",
-      "longitude": "-3.02614870"
-   },
-   {
-      "name": "City of Westminster",
-      "isoCode": "WSM",
-      "countryCode": "GB",
-      "latitude": "39.57659770",
-      "longitude": "-76.99721260"
-   },
-   {
-      "name": "West Sussex",
-      "isoCode": "WSX",
-      "countryCode": "GB",
-      "latitude": "50.92801430",
-      "longitude": "-0.46170750"
-   },
-   {
-      "name": "City of York",
-      "isoCode": "YOR",
-      "countryCode": "GB",
-      "latitude": "53.95996510",
-      "longitude": "-1.08729790"
-   },
-   {
-      "name": "Shetland Islands",
-      "isoCode": "ZET",
-      "countryCode": "GB",
-      "latitude": "60.52965070",
-      "longitude": "-1.26594090"
-   },
+
    {
       "name": "Saint Andrew Parish",
       "isoCode": "01",
@@ -11586,7 +9904,7 @@
    },
    {
       "name": "Northern",
-      "isoCode": "NP",
+      "isoCode": "NR",
       "countryCode": "GH",
       "latitude": "9.50000000",
       "longitude": "-1.00000000"
@@ -18291,830 +16609,305 @@
       "longitude": "5.93243060"
    },
    {
-      "name": "Aglona Municipality",
-      "isoCode": "001",
+      "name": "Ādaži Municipality",
+      "isoCode": "ADA",
       "countryCode": "LV",
-      "latitude": "56.10890060",
-      "longitude": "27.12862270"
+      "latitude": "57.0980",
+      "longitude": "24.3361"
    },
    {
       "name": "Aizkraukle Municipality",
-      "isoCode": "002",
+      "isoCode": "AIZ",
       "countryCode": "LV",
-      "latitude": "56.64610800",
-      "longitude": "25.23708540"
-   },
-   {
-      "name": "Aizpute Municipality",
-      "isoCode": "003",
-      "countryCode": "LV",
-      "latitude": "56.71825960",
-      "longitude": "21.60727590"
-   },
-   {
-      "name": "Aknīste Municipality",
-      "isoCode": "004",
-      "countryCode": "LV",
-      "latitude": "56.16130370",
-      "longitude": "25.74848270"
-   },
-   {
-      "name": "Aloja Municipality",
-      "isoCode": "005",
-      "countryCode": "LV",
-      "latitude": "57.76713600",
-      "longitude": "24.87708390"
-   },
-   {
-      "name": "Alsunga Municipality",
-      "isoCode": "006",
-      "countryCode": "LV",
-      "latitude": "56.98285310",
-      "longitude": "21.55559190"
+      "latitude": "56.6000",
+      "longitude": "25.1500"
    },
    {
       "name": "Alūksne Municipality",
-      "isoCode": "007",
+      "isoCode": "ALU",
       "countryCode": "LV",
-      "latitude": "57.42544850",
-      "longitude": "27.04249680"
+      "latitude": "57.4500",
+      "longitude": "26.9000"
    },
    {
-      "name": "Amata Municipality",
-      "isoCode": "008",
+      "name": "Augšdaugava Municipality",
+      "isoCode": "AUG",
       "countryCode": "LV",
-      "latitude": "56.99387260",
-      "longitude": "25.26276750"
-   },
-   {
-      "name": "Ape Municipality",
-      "isoCode": "009",
-      "countryCode": "LV",
-      "latitude": "57.53926970",
-      "longitude": "26.69416490"
-   },
-   {
-      "name": "Auce Municipality",
-      "isoCode": "010",
-      "countryCode": "LV",
-      "latitude": "56.46016800",
-      "longitude": "22.90547810"
-   },
-   {
-      "name": "Babīte Municipality",
-      "isoCode": "012",
-      "countryCode": "LV",
-      "latitude": "56.95415500",
-      "longitude": "23.94539900"
-   },
-   {
-      "name": "Baldone Municipality",
-      "isoCode": "013",
-      "countryCode": "LV",
-      "latitude": "56.74246000",
-      "longitude": "24.39115440"
-   },
-   {
-      "name": "Baltinava Municipality",
-      "isoCode": "014",
-      "countryCode": "LV",
-      "latitude": "56.94584680",
-      "longitude": "27.64410660"
+      "latitude": "55.9333",
+      "longitude": "26.5000"
    },
    {
       "name": "Balvi Municipality",
-      "isoCode": "015",
+      "isoCode": "BAL",
       "countryCode": "LV",
-      "latitude": "57.13262400",
-      "longitude": "27.26466850"
+      "latitude": "57.0500",
+      "longitude": "27.4000"
    },
    {
       "name": "Bauska Municipality",
-      "isoCode": "016",
+      "isoCode": "BAU",
       "countryCode": "LV",
-      "latitude": "56.41018680",
-      "longitude": "24.20006890"
-   },
-   {
-      "name": "Beverīna Municipality",
-      "isoCode": "017",
-      "countryCode": "LV",
-      "latitude": "57.51971090",
-      "longitude": "25.60736540"
-   },
-   {
-      "name": "Brocēni Municipality",
-      "isoCode": "018",
-      "countryCode": "LV",
-      "latitude": "56.73475410",
-      "longitude": "22.63573710"
-   },
-   {
-      "name": "Burtnieki Municipality",
-      "isoCode": "019",
-      "countryCode": "LV",
-      "latitude": "57.69490040",
-      "longitude": "25.27647770"
-   },
-   {
-      "name": "Carnikava Municipality",
-      "isoCode": "020",
-      "countryCode": "LV",
-      "latitude": "57.10241210",
-      "longitude": "24.21086620"
-   },
-   {
-      "name": "Cesvaine Municipality",
-      "isoCode": "021",
-      "countryCode": "LV",
-      "latitude": "56.96792640",
-      "longitude": "26.30831720"
+      "latitude": "56.4167",
+      "longitude": "24.2500"
    },
    {
       "name": "Cēsis Municipality",
-      "isoCode": "022",
+      "isoCode": "CES",
       "countryCode": "LV",
-      "latitude": "57.31028970",
-      "longitude": "25.26761250"
-   },
-   {
-      "name": "Cibla Municipality",
-      "isoCode": "023",
-      "countryCode": "LV",
-      "latitude": "56.61023440",
-      "longitude": "27.86965980"
-   },
-   {
-      "name": "Dagda Municipality",
-      "isoCode": "024",
-      "countryCode": "LV",
-      "latitude": "56.09560890",
-      "longitude": "27.53245900"
-   },
-   {
-      "name": "Daugavpils Municipality",
-      "isoCode": "025",
-      "countryCode": "LV",
-      "latitude": "55.89917830",
-      "longitude": "26.61020120"
-   },
-   {
-      "name": "Dobele Municipality",
-      "isoCode": "026",
-      "countryCode": "LV",
-      "latitude": "56.62630500",
-      "longitude": "23.28090660"
-   },
-   {
-      "name": "Dundaga Municipality",
-      "isoCode": "027",
-      "countryCode": "LV",
-      "latitude": "57.50491670",
-      "longitude": "22.35051140"
-   },
-   {
-      "name": "Durbe Municipality",
-      "isoCode": "028",
-      "countryCode": "LV",
-      "latitude": "56.62798570",
-      "longitude": "21.49162450"
-   },
-   {
-      "name": "Engure Municipality",
-      "isoCode": "029",
-      "countryCode": "LV",
-      "latitude": "57.16235000",
-      "longitude": "23.21966340"
-   },
-   {
-      "name": "Ērgļi Municipality",
-      "isoCode": "030",
-      "countryCode": "LV",
-      "latitude": "56.92370650",
-      "longitude": "25.67538520"
-   },
-   {
-      "name": "Garkalne Municipality",
-      "isoCode": "031",
-      "countryCode": "LV",
-      "latitude": "57.01903870",
-      "longitude": "24.38261810"
-   },
-   {
-      "name": "Grobiņa Municipality",
-      "isoCode": "032",
-      "countryCode": "LV",
-      "latitude": "56.53963200",
-      "longitude": "21.16689200"
-   },
-   {
-      "name": "Gulbene Municipality",
-      "isoCode": "033",
-      "countryCode": "LV",
-      "latitude": "57.21556450",
-      "longitude": "26.64529550"
-   },
-   {
-      "name": "Iecava Municipality",
-      "isoCode": "034",
-      "countryCode": "LV",
-      "latitude": "56.59867930",
-      "longitude": "24.19962720"
-   },
-   {
-      "name": "Ikšķile Municipality",
-      "isoCode": "035",
-      "countryCode": "LV",
-      "latitude": "56.83736670",
-      "longitude": "24.49747450"
-   },
-   {
-      "name": "Ilūkste Municipality",
-      "isoCode": "036",
-      "countryCode": "LV",
-      "latitude": "55.97825470",
-      "longitude": "26.29650880"
-   },
-   {
-      "name": "Inčukalns Municipality",
-      "isoCode": "037",
-      "countryCode": "LV",
-      "latitude": "57.09943420",
-      "longitude": "24.68555700"
-   },
-   {
-      "name": "Jaunjelgava Municipality",
-      "isoCode": "038",
-      "countryCode": "LV",
-      "latitude": "56.52836590",
-      "longitude": "25.39214430"
-   },
-   {
-      "name": "Jaunpiebalga Municipality",
-      "isoCode": "039",
-      "countryCode": "LV",
-      "latitude": "57.14334710",
-      "longitude": "25.99518880"
-   },
-   {
-      "name": "Jaunpils Municipality",
-      "isoCode": "040",
-      "countryCode": "LV",
-      "latitude": "56.73141940",
-      "longitude": "23.01256160"
-   },
-   {
-      "name": "Jelgava Municipality",
-      "isoCode": "041",
-      "countryCode": "LV",
-      "latitude": "56.58956890",
-      "longitude": "23.66104810"
-   },
-   {
-      "name": "Jēkabpils Municipality",
-      "isoCode": "042",
-      "countryCode": "LV",
-      "latitude": "56.29193200",
-      "longitude": "25.98120170"
-   },
-   {
-      "name": "Kandava Municipality",
-      "isoCode": "043",
-      "countryCode": "LV",
-      "latitude": "57.03406730",
-      "longitude": "22.78018130"
-   },
-   {
-      "name": "Kārsava Municipality",
-      "isoCode": "044",
-      "countryCode": "LV",
-      "latitude": "56.76458420",
-      "longitude": "27.73582950"
-   },
-   {
-      "name": "Kocēni Municipality",
-      "isoCode": "045",
-      "countryCode": "LV",
-      "latitude": "57.52262920",
-      "longitude": "25.33495070"
-   },
-   {
-      "name": "Koknese Municipality",
-      "isoCode": "046",
-      "countryCode": "LV",
-      "latitude": "56.72055600",
-      "longitude": "25.48939090"
-   },
-   {
-      "name": "Krāslava Municipality",
-      "isoCode": "047",
-      "countryCode": "LV",
-      "latitude": "55.89514640",
-      "longitude": "27.18145770"
-   },
-   {
-      "name": "Krimulda Municipality",
-      "isoCode": "048",
-      "countryCode": "LV",
-      "latitude": "57.17912730",
-      "longitude": "24.71401270"
-   },
-   {
-      "name": "Krustpils Municipality",
-      "isoCode": "049",
-      "countryCode": "LV",
-      "latitude": "56.54155780",
-      "longitude": "26.24463970"
-   },
-   {
-      "name": "Kuldīga Municipality",
-      "isoCode": "050",
-      "countryCode": "LV",
-      "latitude": "56.96872570",
-      "longitude": "21.96137390"
-   },
-   {
-      "name": "Ķegums Municipality",
-      "isoCode": "051",
-      "countryCode": "LV",
-      "latitude": "56.74753570",
-      "longitude": "24.71736450"
-   },
-   {
-      "name": "Ķekava Municipality",
-      "isoCode": "052",
-      "countryCode": "LV",
-      "latitude": "56.80643510",
-      "longitude": "24.19394930"
-   },
-   {
-      "name": "Lielvārde Municipality",
-      "isoCode": "053",
-      "countryCode": "LV",
-      "latitude": "56.73929760",
-      "longitude": "24.97116180"
-   },
-   {
-      "name": "Limbaži Municipality",
-      "isoCode": "054",
-      "countryCode": "LV",
-      "latitude": "57.54032270",
-      "longitude": "24.71344510"
-   },
-   {
-      "name": "Līgatne Municipality",
-      "isoCode": "055",
-      "countryCode": "LV",
-      "latitude": "57.19442040",
-      "longitude": "25.09406810"
-   },
-   {
-      "name": "Līvāni Municipality",
-      "isoCode": "056",
-      "countryCode": "LV",
-      "latitude": "56.35509420",
-      "longitude": "26.17251900"
-   },
-   {
-      "name": "Lubāna Municipality",
-      "isoCode": "057",
-      "countryCode": "LV",
-      "latitude": "56.89992690",
-      "longitude": "26.71987890"
-   },
-   {
-      "name": "Ludza Municipality",
-      "isoCode": "058",
-      "countryCode": "LV",
-      "latitude": "56.54595900",
-      "longitude": "27.71431990"
-   },
-   {
-      "name": "Madona Municipality",
-      "isoCode": "059",
-      "countryCode": "LV",
-      "latitude": "56.85989230",
-      "longitude": "26.22762010"
-   },
-   {
-      "name": "Mazsalaca Municipality",
-      "isoCode": "060",
-      "countryCode": "LV",
-      "latitude": "57.92677490",
-      "longitude": "25.06698950"
-   },
-   {
-      "name": "Mālpils Municipality",
-      "isoCode": "061",
-      "countryCode": "LV",
-      "latitude": "57.00841190",
-      "longitude": "24.95742780"
-   },
-   {
-      "name": "Mārupe Municipality",
-      "isoCode": "062",
-      "countryCode": "LV",
-      "latitude": "56.89657170",
-      "longitude": "24.04600490"
-   },
-   {
-      "name": "Mērsrags Municipality",
-      "isoCode": "063",
-      "countryCode": "LV",
-      "latitude": "57.33068810",
-      "longitude": "23.10237070"
-   },
-   {
-      "name": "Naukšēni Municipality",
-      "isoCode": "064",
-      "countryCode": "LV",
-      "latitude": "57.92953610",
-      "longitude": "25.51192660"
-   },
-   {
-      "name": "Nereta Municipality",
-      "isoCode": "065",
-      "countryCode": "LV",
-      "latitude": "56.19866550",
-      "longitude": "25.32529690"
-   },
-   {
-      "name": "Nīca Municipality",
-      "isoCode": "066",
-      "countryCode": "LV",
-      "latitude": "56.34649830",
-      "longitude": "21.06549300"
-   },
-   {
-      "name": "Ogre Municipality",
-      "isoCode": "067",
-      "countryCode": "LV",
-      "latitude": "56.81473550",
-      "longitude": "24.60445550"
-   },
-   {
-      "name": "Olaine Municipality",
-      "isoCode": "068",
-      "countryCode": "LV",
-      "latitude": "56.79523530",
-      "longitude": "24.01535890"
-   },
-   {
-      "name": "Ozolnieki Municipality",
-      "isoCode": "069",
-      "countryCode": "LV",
-      "latitude": "56.67563050",
-      "longitude": "23.89948160"
-   },
-   {
-      "name": "Pārgauja Municipality",
-      "isoCode": "070",
-      "countryCode": "LV",
-      "latitude": "57.36481220",
-      "longitude": "24.98220450"
-   },
-   {
-      "name": "Pāvilosta Municipality",
-      "isoCode": "071",
-      "countryCode": "LV",
-      "latitude": "56.88654240",
-      "longitude": "21.19468490"
-   },
-   {
-      "name": "Pļaviņas Municipality",
-      "isoCode": "072",
-      "countryCode": "LV",
-      "latitude": "56.61773130",
-      "longitude": "25.71940430"
-   },
-   {
-      "name": "Preiļi Municipality",
-      "isoCode": "073",
-      "countryCode": "LV",
-      "latitude": "56.15111570",
-      "longitude": "26.74397670"
-   },
-   {
-      "name": "Priekule Municipality",
-      "isoCode": "074",
-      "countryCode": "LV",
-      "latitude": "56.41794130",
-      "longitude": "21.55033360"
-   },
-   {
-      "name": "Priekuļi Municipality",
-      "isoCode": "075",
-      "countryCode": "LV",
-      "latitude": "57.36171380",
-      "longitude": "25.44104230"
-   },
-   {
-      "name": "Rauna Municipality",
-      "isoCode": "076",
-      "countryCode": "LV",
-      "latitude": "57.33169300",
-      "longitude": "25.61003390"
-   },
-   {
-      "name": "Rēzekne Municipality",
-      "isoCode": "077",
-      "countryCode": "LV",
-      "latitude": "56.32736380",
-      "longitude": "27.32843310"
-   },
-   {
-      "name": "Riebiņi Municipality",
-      "isoCode": "078",
-      "countryCode": "LV",
-      "latitude": "56.34361900",
-      "longitude": "26.80181380"
-   },
-   {
-      "name": "Roja Municipality",
-      "isoCode": "079",
-      "countryCode": "LV",
-      "latitude": "57.50467130",
-      "longitude": "22.80121640"
-   },
-   {
-      "name": "Ropaži Municipality",
-      "isoCode": "080",
-      "countryCode": "LV",
-      "latitude": "56.96157860",
-      "longitude": "24.60104760"
-   },
-   {
-      "name": "Rucava Municipality",
-      "isoCode": "081",
-      "countryCode": "LV",
-      "latitude": "56.15931240",
-      "longitude": "21.16181210"
-   },
-   {
-      "name": "Rugāji Municipality",
-      "isoCode": "082",
-      "countryCode": "LV",
-      "latitude": "57.00560230",
-      "longitude": "27.13172030"
-   },
-   {
-      "name": "Rundāle Municipality",
-      "isoCode": "083",
-      "countryCode": "LV",
-      "latitude": "56.40972100",
-      "longitude": "24.01241390"
-   },
-   {
-      "name": "Rūjiena Municipality",
-      "isoCode": "084",
-      "countryCode": "LV",
-      "latitude": "57.89372910",
-      "longitude": "25.33910080"
-   },
-   {
-      "name": "Sala Municipality",
-      "isoCode": "085",
-      "countryCode": "LV",
-      "latitude": "59.96796130",
-      "longitude": "16.49782170"
-   },
-   {
-      "name": "Salacgrīva Municipality",
-      "isoCode": "086",
-      "countryCode": "LV",
-      "latitude": "57.75808830",
-      "longitude": "24.35431810"
-   },
-   {
-      "name": "Salaspils Municipality",
-      "isoCode": "087",
-      "countryCode": "LV",
-      "latitude": "56.86081520",
-      "longitude": "24.34978810"
-   },
-   {
-      "name": "Saldus Municipality",
-      "isoCode": "088",
-      "countryCode": "LV",
-      "latitude": "56.66650880",
-      "longitude": "22.49354930"
-   },
-   {
-      "name": "Saulkrasti Municipality",
-      "isoCode": "089",
-      "countryCode": "LV",
-      "latitude": "57.25794180",
-      "longitude": "24.41831460"
-   },
-   {
-      "name": "Sēja Municipality",
-      "isoCode": "090",
-      "countryCode": "LV",
-      "latitude": "57.20069950",
-      "longitude": "24.59228210"
-   },
-   {
-      "name": "Sigulda Municipality",
-      "isoCode": "091",
-      "countryCode": "LV",
-      "latitude": "57.10550920",
-      "longitude": "24.83142590"
-   },
-   {
-      "name": "Skrīveri Municipality",
-      "isoCode": "092",
-      "countryCode": "LV",
-      "latitude": "56.67613910",
-      "longitude": "25.09788490"
-   },
-   {
-      "name": "Skrunda Municipality",
-      "isoCode": "093",
-      "countryCode": "LV",
-      "latitude": "56.66434580",
-      "longitude": "22.00457290"
-   },
-   {
-      "name": "Smiltene Municipality",
-      "isoCode": "094",
-      "countryCode": "LV",
-      "latitude": "57.42303320",
-      "longitude": "25.90027800"
-   },
-   {
-      "name": "Stopiņi Municipality",
-      "isoCode": "095",
-      "countryCode": "LV",
-      "latitude": "56.93644900",
-      "longitude": "24.28729490"
-   },
-   {
-      "name": "Strenči Municipality",
-      "isoCode": "096",
-      "countryCode": "LV",
-      "latitude": "57.62254710",
-      "longitude": "25.80480860"
-   },
-   {
-      "name": "Talsi Municipality",
-      "isoCode": "097",
-      "countryCode": "LV",
-      "latitude": "57.34152080",
-      "longitude": "22.57131250"
-   },
-   {
-      "name": "Tērvete Municipality",
-      "isoCode": "098",
-      "countryCode": "LV",
-      "latitude": "56.41192010",
-      "longitude": "23.31883320"
-   },
-   {
-      "name": "Tukums Municipality",
-      "isoCode": "099",
-      "countryCode": "LV",
-      "latitude": "56.96728680",
-      "longitude": "23.15243790"
-   },
-   {
-      "name": "Vaiņode Municipality",
-      "isoCode": "100",
-      "countryCode": "LV",
-      "latitude": "56.41542710",
-      "longitude": "21.85139840"
-   },
-   {
-      "name": "Valka Municipality",
-      "isoCode": "101",
-      "countryCode": "LV",
-      "latitude": "57.77439000",
-      "longitude": "26.01700500"
-   },
-   {
-      "name": "Varakļāni Municipality",
-      "isoCode": "102",
-      "countryCode": "LV",
-      "latitude": "56.66880060",
-      "longitude": "26.56364140"
-   },
-   {
-      "name": "Vārkava Municipality",
-      "isoCode": "103",
-      "countryCode": "LV",
-      "latitude": "56.24657440",
-      "longitude": "26.56643710"
-   },
-   {
-      "name": "Vecpiebalga Municipality",
-      "isoCode": "104",
-      "countryCode": "LV",
-      "latitude": "57.06033560",
-      "longitude": "25.81615920"
-   },
-   {
-      "name": "Vecumnieki Municipality",
-      "isoCode": "105",
-      "countryCode": "LV",
-      "latitude": "56.60623370",
-      "longitude": "24.52218910"
-   },
-   {
-      "name": "Ventspils Municipality",
-      "isoCode": "106",
-      "countryCode": "LV",
-      "latitude": "57.28336820",
-      "longitude": "21.85875580"
-   },
-   {
-      "name": "Viesīte Municipality",
-      "isoCode": "107",
-      "countryCode": "LV",
-      "latitude": "56.31130850",
-      "longitude": "25.50704640"
-   },
-   {
-      "name": "Viļaka Municipality",
-      "isoCode": "108",
-      "countryCode": "LV",
-      "latitude": "57.17222630",
-      "longitude": "27.66731880"
-   },
-   {
-      "name": "Viļāni Municipality",
-      "isoCode": "109",
-      "countryCode": "LV",
-      "latitude": "56.54561710",
-      "longitude": "26.91679270"
-   },
-   {
-      "name": "Zilupe Municipality",
-      "isoCode": "110",
-      "countryCode": "LV",
-      "latitude": "56.30189850",
-      "longitude": "28.13395900"
+      "latitude": "57.2500",
+      "longitude": "25.3333"
    },
    {
       "name": "Daugavpils",
       "isoCode": "DGV",
       "countryCode": "LV",
-      "latitude": "55.87473600",
-      "longitude": "26.53617900"
+      "latitude": "55.8747",
+      "longitude": "26.5361"
+   },
+   {
+      "name": "Dienvidkurzeme Municipality",
+      "isoCode": "DKZ",
+      "countryCode": "LV",
+      "latitude": "56.4500",
+      "longitude": "21.5000"
+   },
+   {
+      "name": "Dobele Municipality",
+      "isoCode": "DOB",
+      "countryCode": "LV",
+      "latitude": "56.6000",
+      "longitude": "23.2000"
+   },
+   {
+      "name": "Gulbene Municipality",
+      "isoCode": "GUL",
+      "countryCode": "LV",
+      "latitude": "57.1833",
+      "longitude": "26.7500"
    },
    {
       "name": "Jelgava",
       "isoCode": "JEL",
       "countryCode": "LV",
-      "latitude": "56.65110910",
-      "longitude": "23.72135410"
+      "latitude": "56.6511",
+      "longitude": "23.7214"
    },
    {
-      "name": "Jēkabpils",
-      "isoCode": "JKB",
+      "name": "Jelgava Municipality",
+      "isoCode": "JEM",
       "countryCode": "LV",
-      "latitude": "56.50145500",
-      "longitude": "25.87829900"
+      "latitude": "56.6500",
+      "longitude": "23.6000"
+   },
+   {
+      "name": "Jēkabpils Municipality",
+      "isoCode": "JEK",
+      "countryCode": "LV",
+      "latitude": "56.3333",
+      "longitude": "25.8333"
    },
    {
       "name": "Jūrmala",
       "isoCode": "JUR",
       "countryCode": "LV",
-      "latitude": "56.94707900",
-      "longitude": "23.61684850"
+      "latitude": "56.9471",
+      "longitude": "23.6168"
+   },
+   {
+      "name": "Krāslava Municipality",
+      "isoCode": "KRA",
+      "countryCode": "LV",
+      "latitude": "56.0000",
+      "longitude": "27.3333"
+   },
+   {
+      "name": "Kuldīga Municipality",
+      "isoCode": "KUL",
+      "countryCode": "LV",
+      "latitude": "56.9167",
+      "longitude": "21.9167"
+   },
+   {
+      "name": "Ķekava Municipality",
+      "isoCode": "KEK",
+      "countryCode": "LV",
+      "latitude": "56.7833",
+      "longitude": "24.2500"
    },
    {
       "name": "Liepāja",
       "isoCode": "LPX",
       "countryCode": "LV",
-      "latitude": "56.50466780",
-      "longitude": "21.01080600"
+      "latitude": "56.5047",
+      "longitude": "21.0108"
+   },
+   {
+      "name": "Limbaži Municipality",
+      "isoCode": "LIM",
+      "countryCode": "LV",
+      "latitude": "57.6667",
+      "longitude": "24.7500"
+   },
+   {
+      "name": "Līvāni Municipality",
+      "isoCode": "LIV",
+      "countryCode": "LV",
+      "latitude": "56.3667",
+      "longitude": "26.3333"
+   },
+   {
+      "name": "Ludza Municipality",
+      "isoCode": "LUD",
+      "countryCode": "LV",
+      "latitude": "56.5000",
+      "longitude": "27.8333"
+   },
+   {
+      "name": "Madona Municipality",
+      "isoCode": "MAD",
+      "countryCode": "LV",
+      "latitude": "56.8333",
+      "longitude": "26.1667"
+   },
+   {
+      "name": "Mārupe Municipality",
+      "isoCode": "MAR",
+      "countryCode": "LV",
+      "latitude": "56.9000",
+      "longitude": "23.9667"
+   },
+   {
+      "name": "Ogre Municipality",
+      "isoCode": "OGR",
+      "countryCode": "LV",
+      "latitude": "56.8000",
+      "longitude": "24.8333"
+   },
+   {
+      "name": "Olaine Municipality",
+      "isoCode": "OLA",
+      "countryCode": "LV",
+      "latitude": "56.7500",
+      "longitude": "23.9167"
+   },
+   {
+      "name": "Preiļi Municipality",
+      "isoCode": "PRE",
+      "countryCode": "LV",
+      "latitude": "56.3000",
+      "longitude": "26.7500"
    },
    {
       "name": "Rēzekne",
       "isoCode": "REZ",
       "countryCode": "LV",
-      "latitude": "56.50992230",
-      "longitude": "27.33313570"
+      "latitude": "56.5099",
+      "longitude": "27.3331"
    },
    {
-      "name": "Riga",
+      "name": "Rēzekne Municipality",
+      "isoCode": "REM",
+      "countryCode": "LV",
+      "latitude": "56.5833",
+      "longitude": "27.4167"
+   },
+   {
+      "name": "Rīga",
       "isoCode": "RIX",
       "countryCode": "LV",
-      "latitude": "56.94964870",
-      "longitude": "24.10518650"
+      "latitude": "56.9496",
+      "longitude": "24.1052"
+   },
+   {
+      "name": "Ropaži Municipality",
+      "isoCode": "ROP",
+      "countryCode": "LV",
+      "latitude": "56.9667",
+      "longitude": "24.6333"
+   },
+   {
+      "name": "Salaspils Municipality",
+      "isoCode": "SAL",
+      "countryCode": "LV",
+      "latitude": "56.8500",
+      "longitude": "24.3500"
+   },
+   {
+      "name": "Saldus Municipality",
+      "isoCode": "SLD",
+      "countryCode": "LV",
+      "latitude": "56.6667",
+      "longitude": "22.5000"
+   },
+   {
+      "name": "Saulkrasti Municipality",
+      "isoCode": "SAU",
+      "countryCode": "LV",
+      "latitude": "57.2667",
+      "longitude": "24.4167"
+   },
+   {
+      "name": "Sigulda Municipality",
+      "isoCode": "SIG",
+      "countryCode": "LV",
+      "latitude": "57.1500",
+      "longitude": "24.8500"
+   },
+   {
+      "name": "Smiltene Municipality",
+      "isoCode": "SMI",
+      "countryCode": "LV",
+      "latitude": "57.4167",
+      "longitude": "25.9167"
+   },
+   {
+      "name": "Talsi Municipality",
+      "isoCode": "TAL",
+      "countryCode": "LV",
+      "latitude": "57.2500",
+      "longitude": "22.5833"
+   },
+   {
+      "name": "Tukums Municipality",
+      "isoCode": "TUK",
+      "countryCode": "LV",
+      "latitude": "56.9667",
+      "longitude": "23.1500"
+   },
+   {
+      "name": "Valka Municipality",
+      "isoCode": "VAL",
+      "countryCode": "LV",
+      "latitude": "57.7500",
+      "longitude": "25.9167"
+   },
+   {
+      "name": "Valmiera Municipality",
+      "isoCode": "VAM",
+      "countryCode": "LV",
+      "latitude": "57.5833",
+      "longitude": "25.4167"
+   },
+   {
+      "name": "Varakļāni Municipality",
+      "isoCode": "VAR",
+      "countryCode": "LV",
+      "latitude": "56.6167",
+      "longitude": "26.7500"
    },
    {
       "name": "Ventspils",
       "isoCode": "VEN",
       "countryCode": "LV",
-      "latitude": "57.39372160",
-      "longitude": "21.56470660"
+      "latitude": "57.3937",
+      "longitude": "21.5647"
    },
    {
-      "name": "Valmiera",
-      "isoCode": "VMR",
+      "name": "Ventspils Municipality",
+      "isoCode": "VEM",
       "countryCode": "LV",
-      "latitude": "57.53846590",
-      "longitude": "25.42636180"
+      "latitude": "57.3333",
+      "longitude": "21.8333"
    },
    {
       "name": "Benghazi",
@@ -22148,130 +19941,11 @@
       "longitude": "73.27948460"
    },
    {
-      "name": "Balaka District",
-      "isoCode": "BA",
-      "countryCode": "MW",
-      "latitude": "-15.05065950",
-      "longitude": "35.08285880"
-   },
-   {
-      "name": "Blantyre District",
-      "isoCode": "BL",
-      "countryCode": "MW",
-      "latitude": "-15.67785410",
-      "longitude": "34.95066250"
-   },
-   {
       "name": "Central Region",
       "isoCode": "C",
       "countryCode": "MW",
       "latitude": null,
       "longitude": null
-   },
-   {
-      "name": "Chikwawa District",
-      "isoCode": "CK",
-      "countryCode": "MW",
-      "latitude": "-16.19584460",
-      "longitude": "34.77407930"
-   },
-   {
-      "name": "Chiradzulu District",
-      "isoCode": "CR",
-      "countryCode": "MW",
-      "latitude": "-15.74231510",
-      "longitude": "35.25879640"
-   },
-   {
-      "name": "Chitipa district",
-      "isoCode": "CT",
-      "countryCode": "MW",
-      "latitude": "-9.70376550",
-      "longitude": "33.27002530"
-   },
-   {
-      "name": "Dedza District",
-      "isoCode": "DE",
-      "countryCode": "MW",
-      "latitude": "-14.18945850",
-      "longitude": "34.24215970"
-   },
-   {
-      "name": "Dowa District",
-      "isoCode": "DO",
-      "countryCode": "MW",
-      "latitude": "-13.60412560",
-      "longitude": "33.88577470"
-   },
-   {
-      "name": "Karonga District",
-      "isoCode": "KR",
-      "countryCode": "MW",
-      "latitude": "-9.90363650",
-      "longitude": "33.97500180"
-   },
-   {
-      "name": "Kasungu District",
-      "isoCode": "KS",
-      "countryCode": "MW",
-      "latitude": "-13.13670650",
-      "longitude": "33.25879300"
-   },
-   {
-      "name": "Lilongwe District",
-      "isoCode": "LI",
-      "countryCode": "MW",
-      "latitude": "-14.04752280",
-      "longitude": "33.61757700"
-   },
-   {
-      "name": "Likoma District",
-      "isoCode": "LK",
-      "countryCode": "MW",
-      "latitude": "-12.05840050",
-      "longitude": "34.73540310"
-   },
-   {
-      "name": "Mchinji District",
-      "isoCode": "MC",
-      "countryCode": "MW",
-      "latitude": "-13.74015250",
-      "longitude": "32.98883190"
-   },
-   {
-      "name": "Mangochi District",
-      "isoCode": "MG",
-      "countryCode": "MW",
-      "latitude": "-14.13882480",
-      "longitude": "35.03881640"
-   },
-   {
-      "name": "Machinga District",
-      "isoCode": "MH",
-      "countryCode": "MW",
-      "latitude": "-14.94072630",
-      "longitude": "35.47819260"
-   },
-   {
-      "name": "Mulanje District",
-      "isoCode": "MU",
-      "countryCode": "MW",
-      "latitude": "-15.93464340",
-      "longitude": "35.52200120"
-   },
-   {
-      "name": "Mwanza District",
-      "isoCode": "MW",
-      "countryCode": "MW",
-      "latitude": "-2.46711970",
-      "longitude": "32.89868120"
-   },
-   {
-      "name": "Mzimba District",
-      "isoCode": "MZ",
-      "countryCode": "MW",
-      "latitude": "-11.74754520",
-      "longitude": "33.52800720"
    },
    {
       "name": "Northern Region",
@@ -22281,81 +19955,11 @@
       "longitude": null
    },
    {
-      "name": "Nkhata Bay District",
-      "isoCode": "NB",
-      "countryCode": "MW",
-      "latitude": "-11.71850420",
-      "longitude": "34.33103640"
-   },
-   {
-      "name": "Ntchisi District",
-      "isoCode": "NI",
-      "countryCode": "MW",
-      "latitude": "-13.28419920",
-      "longitude": "33.88577470"
-   },
-   {
-      "name": "Nkhotakota District",
-      "isoCode": "NK",
-      "countryCode": "MW",
-      "latitude": "-12.75419610",
-      "longitude": "34.24215970"
-   },
-   {
-      "name": "Nsanje District",
-      "isoCode": "NS",
-      "countryCode": "MW",
-      "latitude": "-16.72882020",
-      "longitude": "35.17087410"
-   },
-   {
-      "name": "Ntcheu District",
-      "isoCode": "NU",
-      "countryCode": "MW",
-      "latitude": "-14.90375380",
-      "longitude": "34.77407930"
-   },
-   {
-      "name": "Phalombe District",
-      "isoCode": "PH",
-      "countryCode": "MW",
-      "latitude": "-15.70920380",
-      "longitude": "35.65328480"
-   },
-   {
-      "name": "Rumphi District",
-      "isoCode": "RU",
-      "countryCode": "MW",
-      "latitude": "-10.78515370",
-      "longitude": "34.33103640"
-   },
-   {
       "name": "Southern Region",
       "isoCode": "S",
       "countryCode": "MW",
-      "latitude": "32.75049570",
-      "longitude": "-97.33154760"
-   },
-   {
-      "name": "Salima District",
-      "isoCode": "SA",
-      "countryCode": "MW",
-      "latitude": "-13.68095860",
-      "longitude": "34.41982430"
-   },
-   {
-      "name": "Thyolo District",
-      "isoCode": "TH",
-      "countryCode": "MW",
-      "latitude": "-16.12991770",
-      "longitude": "35.12687810"
-   },
-   {
-      "name": "Zomba District",
-      "isoCode": "ZO",
-      "countryCode": "MW",
-      "latitude": "-15.37658570",
-      "longitude": "35.33565180"
+      "latitude": null,
+      "longitude": null
    },
    {
       "name": "Aguascalientes",
@@ -26740,7 +24344,7 @@
       "longitude": "116.96765610"
    },
    {
-      "name": "Kigali district",
+      "name": "Kigali",
       "isoCode": "01",
       "countryCode": "RW",
       "latitude": "-1.94407270",
@@ -26750,29 +24354,22 @@
       "name": "Eastern Province",
       "isoCode": "02",
       "countryCode": "RW",
-      "latitude": null,
-      "longitude": null
+      "latitude": "-2.155312",
+      "longitude": "30.546101"
    },
    {
       "name": "Northern Province",
       "isoCode": "03",
       "countryCode": "RW",
-      "latitude": null,
-      "longitude": null
-   },
-   {
-      "name": "Western Province",
-      "isoCode": "04",
-      "countryCode": "RW",
-      "latitude": null,
-      "longitude": null
+      "latitude": "-1.5000",
+      "longitude": "29.8333"
    },
    {
       "name": "Southern Province",
       "isoCode": "05",
       "countryCode": "RW",
-      "latitude": null,
-      "longitude": null
+      "latitude": "-2.3500",
+      "longitude": "29.7333"
    },
    {
       "name": "Riyadh",
@@ -29029,7 +26626,7 @@
       "longitude": "8.85740050"
    },
    {
-      "name": "Diourbel Region",
+      "name": "Diourbel",
       "isoCode": "DB",
       "countryCode": "SN",
       "latitude": "14.72830850",
@@ -29106,14 +26703,14 @@
       "longitude": "-90.19940420"
    },
    {
-      "name": "Tambacounda Region",
+      "name": "Tambacounda",
       "isoCode": "TC",
       "countryCode": "SN",
       "latitude": "13.56190110",
       "longitude": "-13.17403480"
    },
    {
-      "name": "Thiès Region",
+      "name": "Thiès",
       "isoCode": "TH",
       "countryCode": "SN",
       "latitude": "14.79100520",
@@ -31997,893 +29594,46 @@
       "longitude": "25.93521700"
    },
    {
-      "name": "Kalangala District",
-      "isoCode": "101",
-      "countryCode": "UG",
-      "latitude": "-0.63505780",
-      "longitude": "32.53727410"
-   },
-   {
-      "name": "Kampala District",
-      "isoCode": "102",
-      "countryCode": "UG",
-      "latitude": "0.34759640",
-      "longitude": "32.58251970"
-   },
-   {
-      "name": "Kiboga District",
-      "isoCode": "103",
-      "countryCode": "UG",
-      "latitude": "0.96575900",
-      "longitude": "31.71954590"
-   },
-   {
-      "name": "Luwero District",
-      "isoCode": "104",
-      "countryCode": "UG",
-      "latitude": "0.82711180",
-      "longitude": "32.62774550"
-   },
-   {
-      "name": "Masaka District",
-      "isoCode": "105",
-      "countryCode": "UG",
-      "latitude": "-0.44636910",
-      "longitude": "31.90179540"
-   },
-   {
-      "name": "Mpigi District",
-      "isoCode": "106",
-      "countryCode": "UG",
-      "latitude": "0.22735280",
-      "longitude": "32.32492360"
-   },
-   {
-      "name": "Mubende District",
-      "isoCode": "107",
-      "countryCode": "UG",
-      "latitude": "0.57727580",
-      "longitude": "31.53700030"
-   },
-   {
-      "name": "Mukono District",
-      "isoCode": "108",
-      "countryCode": "UG",
-      "latitude": "0.28354760",
-      "longitude": "32.76330360"
-   },
-   {
-      "name": "Nakasongola District",
-      "isoCode": "109",
-      "countryCode": "UG",
-      "latitude": "1.34897210",
-      "longitude": "32.44672380"
-   },
-   {
-      "name": "Rakai District",
-      "isoCode": "110",
-      "countryCode": "UG",
-      "latitude": "-0.70691350",
-      "longitude": "31.53700030"
-   },
-   {
-      "name": "Sembabule District",
-      "isoCode": "111",
-      "countryCode": "UG",
-      "latitude": "0.06377150",
-      "longitude": "31.35416310"
-   },
-   {
-      "name": "Kayunga District",
-      "isoCode": "112",
-      "countryCode": "UG",
-      "latitude": "0.98601820",
-      "longitude": "32.85357550"
-   },
-   {
-      "name": "Wakiso District",
-      "isoCode": "113",
-      "countryCode": "UG",
-      "latitude": "0.06301900",
-      "longitude": "32.44672380"
-   },
-   {
-      "name": "Lyantonde District",
-      "isoCode": "114",
-      "countryCode": "UG",
-      "latitude": "-0.22406960",
-      "longitude": "31.21684660"
-   },
-   {
-      "name": "Mityana District",
-      "isoCode": "115",
-      "countryCode": "UG",
-      "latitude": "0.44548450",
-      "longitude": "32.08374450"
-   },
-   {
-      "name": "Nakaseke District",
-      "isoCode": "116",
-      "countryCode": "UG",
-      "latitude": "1.22308480",
-      "longitude": "32.08374450"
-   },
-   {
-      "name": "Buikwe District",
-      "isoCode": "117",
-      "countryCode": "UG",
-      "latitude": "0.31440460",
-      "longitude": "32.98883190"
-   },
-   {
-      "name": "Bukomansimbi District",
-      "isoCode": "118",
-      "countryCode": "UG",
-      "latitude": "-0.14327520",
-      "longitude": "31.60548930"
-   },
-   {
-      "name": "Butambala District",
-      "isoCode": "119",
-      "countryCode": "UG",
-      "latitude": "0.17425000",
-      "longitude": "32.10646680"
-   },
-   {
-      "name": "Buvuma District",
-      "isoCode": "120",
-      "countryCode": "UG",
-      "latitude": "-0.37649120",
-      "longitude": "33.25879300"
-   },
-   {
-      "name": "Gomba District",
-      "isoCode": "121",
-      "countryCode": "UG",
-      "latitude": "0.22297910",
-      "longitude": "31.67393710"
-   },
-   {
-      "name": "Kalungu District",
-      "isoCode": "122",
-      "countryCode": "UG",
-      "latitude": "-0.09528310",
-      "longitude": "31.76513620"
-   },
-   {
-      "name": "Kyankwanzi District",
-      "isoCode": "123",
-      "countryCode": "UG",
-      "latitude": "1.09660370",
-      "longitude": "31.71954590"
-   },
-   {
-      "name": "Lwengo District",
-      "isoCode": "124",
-      "countryCode": "UG",
-      "latitude": "-0.41652880",
-      "longitude": "31.39989950"
-   },
-   {
-      "name": "Kyotera District",
-      "isoCode": "125",
-      "countryCode": "UG",
-      "latitude": "-0.63589880",
-      "longitude": "31.54556370"
-   },
-   {
-      "name": "Bugiri District",
-      "isoCode": "201",
-      "countryCode": "UG",
-      "latitude": "0.53161270",
-      "longitude": "33.75177230"
-   },
-   {
-      "name": "Busia District",
-      "isoCode": "202",
-      "countryCode": "UG",
-      "latitude": "0.40447310",
-      "longitude": "34.01958270"
-   },
-   {
-      "name": "Iganga District",
-      "isoCode": "203",
-      "countryCode": "UG",
-      "latitude": "0.66001370",
-      "longitude": "33.48319060"
-   },
-   {
-      "name": "Jinja District",
-      "isoCode": "204",
-      "countryCode": "UG",
-      "latitude": "0.53437430",
-      "longitude": "33.30371430"
-   },
-   {
-      "name": "Kamuli District",
-      "isoCode": "205",
-      "countryCode": "UG",
-      "latitude": "0.91871070",
-      "longitude": "33.12390490"
-   },
-   {
-      "name": "Kapchorwa District",
-      "isoCode": "206",
-      "countryCode": "UG",
-      "latitude": "1.33502050",
-      "longitude": "34.39763560"
-   },
-   {
-      "name": "Katakwi District",
-      "isoCode": "207",
-      "countryCode": "UG",
-      "latitude": "1.97310300",
-      "longitude": "34.06414190"
-   },
-   {
-      "name": "Kumi District",
-      "isoCode": "208",
-      "countryCode": "UG",
-      "latitude": "1.48769990",
-      "longitude": "33.93039910"
-   },
-   {
-      "name": "Mbale District",
-      "isoCode": "209",
-      "countryCode": "UG",
-      "latitude": "1.03442740",
-      "longitude": "34.19768820"
-   },
-   {
-      "name": "Pallisa District",
-      "isoCode": "210",
-      "countryCode": "UG",
-      "latitude": "1.23242060",
-      "longitude": "33.75177230"
-   },
-   {
-      "name": "Soroti District",
-      "isoCode": "211",
-      "countryCode": "UG",
-      "latitude": "1.72291170",
-      "longitude": "33.52800720"
-   },
-   {
-      "name": "Tororo District",
-      "isoCode": "212",
-      "countryCode": "UG",
-      "latitude": "0.68709940",
-      "longitude": "34.06414190"
-   },
-   {
-      "name": "Kaberamaido District",
-      "isoCode": "213",
-      "countryCode": "UG",
-      "latitude": "1.69633220",
-      "longitude": "33.21385100"
-   },
-   {
-      "name": "Mayuge District",
-      "isoCode": "214",
-      "countryCode": "UG",
-      "latitude": "-0.21829820",
-      "longitude": "33.57280270"
-   },
-   {
-      "name": "Sironko District",
-      "isoCode": "215",
-      "countryCode": "UG",
-      "latitude": "1.23022740",
-      "longitude": "34.24910640"
-   },
-   {
-      "name": "Amuria District",
-      "isoCode": "216",
-      "countryCode": "UG",
-      "latitude": "2.03017000",
-      "longitude": "33.64275330"
-   },
-   {
-      "name": "Budaka District",
-      "isoCode": "217",
-      "countryCode": "UG",
-      "latitude": "1.10162770",
-      "longitude": "33.93039910"
-   },
-   {
-      "name": "Bududa District",
-      "isoCode": "218",
-      "countryCode": "UG",
-      "latitude": "1.00296930",
-      "longitude": "34.33381230"
-   },
-   {
-      "name": "Bukedea District",
-      "isoCode": "219",
-      "countryCode": "UG",
-      "latitude": "1.35568980",
-      "longitude": "34.10867930"
-   },
-   {
-      "name": "Bukwo District",
-      "isoCode": "220",
-      "countryCode": "UG",
-      "latitude": "1.28186510",
-      "longitude": "34.72987650"
-   },
-   {
-      "name": "Butaleja District",
-      "isoCode": "221",
-      "countryCode": "UG",
-      "latitude": "0.84749220",
-      "longitude": "33.84112880"
-   },
-   {
-      "name": "Kaliro District",
-      "isoCode": "222",
-      "countryCode": "UG",
-      "latitude": "1.04311070",
-      "longitude": "33.48319060"
-   },
-   {
-      "name": "Manafwa District",
-      "isoCode": "223",
-      "countryCode": "UG",
-      "latitude": "0.90635990",
-      "longitude": "34.28660910"
-   },
-   {
-      "name": "Namutumba District",
-      "isoCode": "224",
-      "countryCode": "UG",
-      "latitude": "0.84926100",
-      "longitude": "33.66233010"
-   },
-   {
-      "name": "Bulambuli District",
-      "isoCode": "225",
-      "countryCode": "UG",
-      "latitude": "1.47988460",
-      "longitude": "34.37544140"
-   },
-   {
-      "name": "Buyende District",
-      "isoCode": "226",
-      "countryCode": "UG",
-      "latitude": "1.24136820",
-      "longitude": "33.12390490"
-   },
-   {
-      "name": "Kibuku District",
-      "isoCode": "227",
-      "countryCode": "UG",
-      "latitude": "1.04528740",
-      "longitude": "33.79925360"
-   },
-   {
-      "name": "Kween District",
-      "isoCode": "228",
-      "countryCode": "UG",
-      "latitude": "1.44387900",
-      "longitude": "34.59713200"
-   },
-   {
-      "name": "Luuka District",
-      "isoCode": "229",
-      "countryCode": "UG",
-      "latitude": "0.72505990",
-      "longitude": "33.30371430"
-   },
-   {
-      "name": "Namayingo District",
-      "isoCode": "230",
-      "countryCode": "UG",
-      "latitude": "-0.28035750",
-      "longitude": "33.75177230"
-   },
-   {
-      "name": "Ngora District",
-      "isoCode": "231",
-      "countryCode": "UG",
-      "latitude": "1.49081150",
-      "longitude": "33.75177230"
-   },
-   {
-      "name": "Serere District",
-      "isoCode": "232",
-      "countryCode": "UG",
-      "latitude": "1.49940330",
-      "longitude": "33.54900780"
-   },
-   {
-      "name": "Butebo District",
-      "isoCode": "233",
-      "countryCode": "UG",
-      "latitude": "1.21411240",
-      "longitude": "33.90808960"
-   },
-   {
-      "name": "Namisindwa District",
-      "isoCode": "234",
-      "countryCode": "UG",
-      "latitude": "0.90710100",
-      "longitude": "34.35740370"
-   },
-   {
-      "name": "Adjumani District",
-      "isoCode": "301",
-      "countryCode": "UG",
-      "latitude": "3.25485270",
-      "longitude": "31.71954590"
-   },
-   {
-      "name": "Apac District",
-      "isoCode": "302",
-      "countryCode": "UG",
-      "latitude": "1.87302630",
-      "longitude": "32.62774550"
-   },
-   {
-      "name": "Arua District",
-      "isoCode": "303",
-      "countryCode": "UG",
-      "latitude": "2.99598460",
-      "longitude": "31.17103890"
-   },
-   {
-      "name": "Gulu District",
-      "isoCode": "304",
-      "countryCode": "UG",
-      "latitude": "2.81857760",
-      "longitude": "32.44672380"
-   },
-   {
-      "name": "Kitgum District",
-      "isoCode": "305",
-      "countryCode": "UG",
-      "latitude": "3.33968290",
-      "longitude": "33.16888830"
-   },
-   {
-      "name": "Kotido District",
-      "isoCode": "306",
-      "countryCode": "UG",
-      "latitude": "3.04156790",
-      "longitude": "33.88577470"
-   },
-   {
-      "name": "Lira District",
-      "isoCode": "307",
-      "countryCode": "UG",
-      "latitude": "2.23161690",
-      "longitude": "32.94376670"
-   },
-   {
-      "name": "Moroto District",
-      "isoCode": "308",
-      "countryCode": "UG",
-      "latitude": "2.61685450",
-      "longitude": "34.59713200"
-   },
-   {
-      "name": "Moyo District",
-      "isoCode": "309",
-      "countryCode": "UG",
-      "latitude": "3.56964640",
-      "longitude": "31.67393710"
-   },
-   {
-      "name": "Nebbi District",
-      "isoCode": "310",
-      "countryCode": "UG",
-      "latitude": "2.44093920",
-      "longitude": "31.35416310"
-   },
-   {
-      "name": "Nakapiripirit District",
-      "isoCode": "311",
-      "countryCode": "UG",
-      "latitude": "1.96061730",
-      "longitude": "34.59713200"
-   },
-   {
-      "name": "Pader District",
-      "isoCode": "312",
-      "countryCode": "UG",
-      "latitude": "2.94306820",
-      "longitude": "32.80844960"
-   },
-   {
-      "name": "Yumbe District",
-      "isoCode": "313",
-      "countryCode": "UG",
-      "latitude": "3.46980230",
-      "longitude": "31.24832910"
-   },
-   {
-      "name": "Abim District",
-      "isoCode": "314",
-      "countryCode": "UG",
-      "latitude": "2.70669800",
-      "longitude": "33.65953370"
-   },
-   {
-      "name": "Amolatar District",
-      "isoCode": "315",
-      "countryCode": "UG",
-      "latitude": "1.60544020",
-      "longitude": "32.80844960"
-   },
-   {
-      "name": "Amuru District",
-      "isoCode": "316",
-      "countryCode": "UG",
-      "latitude": "2.96678780",
-      "longitude": "32.08374450"
-   },
-   {
-      "name": "Dokolo District",
-      "isoCode": "317",
-      "countryCode": "UG",
-      "latitude": "1.96364210",
-      "longitude": "33.03387670"
-   },
-   {
-      "name": "Kaabong District",
-      "isoCode": "318",
-      "countryCode": "UG",
-      "latitude": "3.51262150",
-      "longitude": "33.97500180"
-   },
-   {
-      "name": "Koboko District",
-      "isoCode": "319",
-      "countryCode": "UG",
-      "latitude": "3.52370580",
-      "longitude": "31.03351000"
-   },
-   {
-      "name": "Maracha District",
-      "isoCode": "320",
-      "countryCode": "UG",
-      "latitude": "3.28731270",
-      "longitude": "30.94030230"
-   },
-   {
-      "name": "Oyam District",
-      "isoCode": "321",
-      "countryCode": "UG",
-      "latitude": "2.27762810",
-      "longitude": "32.44672380"
-   },
-   {
-      "name": "Agago District",
-      "isoCode": "322",
-      "countryCode": "UG",
-      "latitude": "2.92508200",
-      "longitude": "33.34861470"
-   },
-   {
-      "name": "Alebtong District",
-      "isoCode": "323",
-      "countryCode": "UG",
-      "latitude": "2.25457730",
-      "longitude": "33.34861470"
-   },
-   {
-      "name": "Amudat District",
-      "isoCode": "324",
-      "countryCode": "UG",
-      "latitude": "1.79162240",
-      "longitude": "34.90655100"
-   },
-   {
-      "name": "Kole District",
-      "isoCode": "325",
-      "countryCode": "UG",
-      "latitude": "2.37010970",
-      "longitude": "32.76330360"
-   },
-   {
-      "name": "Lamwo District",
-      "isoCode": "326",
-      "countryCode": "UG",
-      "latitude": "3.57075680",
-      "longitude": "32.53727410"
-   },
-   {
-      "name": "Napak District",
-      "isoCode": "327",
-      "countryCode": "UG",
-      "latitude": "2.36299450",
-      "longitude": "34.24215970"
-   },
-   {
-      "name": "Nwoya District",
-      "isoCode": "328",
-      "countryCode": "UG",
-      "latitude": "2.56244400",
-      "longitude": "31.90179540"
-   },
-   {
-      "name": "Otuke District",
-      "isoCode": "329",
-      "countryCode": "UG",
-      "latitude": "2.52140590",
-      "longitude": "33.34861470"
-   },
-   {
-      "name": "Zombo District",
-      "isoCode": "330",
-      "countryCode": "UG",
-      "latitude": "2.55442930",
-      "longitude": "30.94173680"
-   },
-   {
-      "name": "Omoro District",
-      "isoCode": "331",
-      "countryCode": "UG",
-      "latitude": "2.71522300",
-      "longitude": "32.49200880"
-   },
-   {
-      "name": "Pakwach District",
-      "isoCode": "332",
-      "countryCode": "UG",
-      "latitude": "2.46071410",
-      "longitude": "31.49417380"
-   },
-   {
-      "name": "Bundibugyo District",
-      "isoCode": "401",
-      "countryCode": "UG",
-      "latitude": "0.68517630",
-      "longitude": "30.02029640"
-   },
-   {
-      "name": "Bushenyi District",
-      "isoCode": "402",
-      "countryCode": "UG",
-      "latitude": "-0.48709180",
-      "longitude": "30.20510960"
-   },
-   {
-      "name": "Kabale District",
-      "isoCode": "404",
-      "countryCode": "UG",
-      "latitude": "-1.24930840",
-      "longitude": "30.06652360"
-   },
-   {
-      "name": "Kabarole District",
-      "isoCode": "405",
-      "countryCode": "UG",
-      "latitude": "0.58507910",
-      "longitude": "30.25127280"
-   },
-   {
-      "name": "Kasese District",
-      "isoCode": "406",
-      "countryCode": "UG",
-      "latitude": "0.06462850",
-      "longitude": "30.06652360"
-   },
-   {
-      "name": "Kibaale District",
-      "isoCode": "407",
-      "countryCode": "UG",
-      "latitude": "0.90668020",
-      "longitude": "31.07937050"
-   },
-   {
-      "name": "Kisoro District",
-      "isoCode": "408",
-      "countryCode": "UG",
-      "latitude": "-1.22094300",
-      "longitude": "29.64991620"
-   },
-   {
-      "name": "Masindi District",
-      "isoCode": "409",
-      "countryCode": "UG",
-      "latitude": "1.49203630",
-      "longitude": "31.71954590"
-   },
-   {
-      "name": "Mbarara District",
-      "isoCode": "410",
-      "countryCode": "UG",
-      "latitude": "-0.60715960",
-      "longitude": "30.65450220"
-   },
-   {
-      "name": "Ntungamo District",
-      "isoCode": "411",
-      "countryCode": "UG",
-      "latitude": "-0.98073410",
-      "longitude": "30.25127280"
-   },
-   {
-      "name": "Rukungiri District",
-      "isoCode": "412",
-      "countryCode": "UG",
-      "latitude": "-0.75184900",
-      "longitude": "29.92779470"
-   },
-   {
-      "name": "Kamwenge District",
-      "isoCode": "413",
-      "countryCode": "UG",
-      "latitude": "0.22579300",
-      "longitude": "30.48184460"
-   },
-   {
-      "name": "Kanungu District",
-      "isoCode": "414",
-      "countryCode": "UG",
-      "latitude": "-0.81952530",
-      "longitude": "29.74260400"
-   },
-   {
-      "name": "Kyenjojo District",
-      "isoCode": "415",
-      "countryCode": "UG",
-      "latitude": "0.60929230",
-      "longitude": "30.64012310"
-   },
-   {
-      "name": "Buliisa District",
-      "isoCode": "416",
-      "countryCode": "UG",
-      "latitude": "2.02996070",
-      "longitude": "31.53700030"
-   },
-   {
-      "name": "Ibanda District",
-      "isoCode": "417",
-      "countryCode": "UG",
-      "latitude": "-0.09648900",
-      "longitude": "30.57395790"
-   },
-   {
-      "name": "Isingiro District",
-      "isoCode": "418",
-      "countryCode": "UG",
-      "latitude": "-0.84354300",
-      "longitude": "30.80394740"
-   },
-   {
-      "name": "Kiruhura District",
-      "isoCode": "419",
-      "countryCode": "UG",
-      "latitude": "-0.19279980",
-      "longitude": "30.80394740"
-   },
-   {
-      "name": "Buhweju District",
-      "isoCode": "420",
-      "countryCode": "UG",
-      "latitude": "-0.29113590",
-      "longitude": "30.29741990"
-   },
-   {
-      "name": "Kiryandongo District",
-      "isoCode": "421",
-      "countryCode": "UG",
-      "latitude": "2.01799070",
-      "longitude": "32.08374450"
-   },
-   {
-      "name": "Kyegegwa District",
-      "isoCode": "422",
-      "countryCode": "UG",
-      "latitude": "0.48181930",
-      "longitude": "31.05500930"
-   },
-   {
-      "name": "Mitooma District",
-      "isoCode": "423",
-      "countryCode": "UG",
-      "latitude": "-0.61932760",
-      "longitude": "30.02029640"
-   },
-   {
-      "name": "Ntoroko District",
-      "isoCode": "424",
-      "countryCode": "UG",
-      "latitude": "1.07881780",
-      "longitude": "30.38966510"
-   },
-   {
-      "name": "Rubirizi District",
-      "isoCode": "425",
-      "countryCode": "UG",
-      "latitude": "-0.26424100",
-      "longitude": "30.10840330"
-   },
-   {
-      "name": "Sheema District",
-      "isoCode": "426",
-      "countryCode": "UG",
-      "latitude": "-0.55152980",
-      "longitude": "30.38966510"
-   },
-   {
-      "name": "Kagadi District",
-      "isoCode": "427",
-      "countryCode": "UG",
-      "latitude": "0.94007610",
-      "longitude": "30.81256380"
-   },
-   {
-      "name": "Kakumiro District",
-      "isoCode": "428",
-      "countryCode": "UG",
-      "latitude": "0.78080350",
-      "longitude": "31.32413890"
-   },
-   {
-      "name": "Rubanda District",
-      "isoCode": "429",
-      "countryCode": "UG",
-      "latitude": "-1.18611900",
-      "longitude": "29.84535760"
-   },
-   {
-      "name": "Bunyangabu District",
-      "isoCode": "430",
-      "countryCode": "UG",
-      "latitude": "0.48709180",
-      "longitude": "30.20510960"
-   },
-   {
-      "name": "Rukiga District",
-      "isoCode": "431",
-      "countryCode": "UG",
-      "latitude": "-1.13263370",
-      "longitude": "30.04341200"
-   },
-   {
       "name": "Central Region",
       "isoCode": "C",
       "countryCode": "UG",
-      "latitude": "44.29687500",
-      "longitude": "-94.74017330"
+      "latitude": "0.316280",
+      "longitude": "32.582190"
    },
    {
       "name": "Eastern Region",
       "isoCode": "E",
       "countryCode": "UG",
-      "latitude": "6.23740360",
-      "longitude": "-0.45023680"
+      "latitude": "0.96675",
+      "longitude": "33.82622"
    },
    {
       "name": "Northern Region",
       "isoCode": "N",
       "countryCode": "UG",
-      "latitude": "9.54392690",
-      "longitude": "-0.90566230"
+      "latitude": "2.774570",
+      "longitude": "32.298990"
    },
    {
       "name": "Western Region",
       "isoCode": "W",
       "countryCode": "UG",
-      "latitude": "40.76672150",
-      "longitude": "-111.88772030"
+      "latitude": "0.4000",
+      "longitude": "30.5000"
    },
    {
       "name": "Alaska",
       "isoCode": "AK",
       "countryCode": "US",
-      "latitude": "64.20084130",
-      "longitude": "-149.49367330"
+      "latitude": "64.0000",
+      "longitude": "-150.0000"
    },
    {
       "name": "Alabama",
       "isoCode": "AL",
       "countryCode": "US",
-      "latitude": "32.31823140",
-      "longitude": "-86.90229800"
+      "latitude": "32.55",
+      "longitude": "-86.7"
    },
    {
       "name": "Arkansas",
@@ -32893,18 +29643,11 @@
       "longitude": "-91.83183340"
    },
    {
-      "name": "American Samoa",
-      "isoCode": "AS",
-      "countryCode": "US",
-      "latitude": "-14.27097200",
-      "longitude": "-170.13221700"
-   },
-   {
       "name": "Arizona",
       "isoCode": "AZ",
       "countryCode": "US",
-      "latitude": "34.04892810",
-      "longitude": "-111.09373110"
+      "latitude": "34.0489",
+      "longitude": "-111.0937"
    },
    {
       "name": "California",
@@ -32928,13 +29671,6 @@
       "longitude": "-73.08774900"
    },
    {
-      "name": "District of Columbia",
-      "isoCode": "DC",
-      "countryCode": "US",
-      "latitude": "38.90719230",
-      "longitude": "-77.03687070"
-   },
-   {
       "name": "Delaware",
       "isoCode": "DE",
       "countryCode": "US",
@@ -32954,13 +29690,6 @@
       "countryCode": "US",
       "latitude": "32.16562210",
       "longitude": "-82.90007510"
-   },
-   {
-      "name": "Guam",
-      "isoCode": "GU",
-      "countryCode": "US",
-      "latitude": "13.44430400",
-      "longitude": "144.79373100"
    },
    {
       "name": "Hawaii",
@@ -33061,13 +29790,6 @@
       "longitude": "-91.83183340"
    },
    {
-      "name": "Northern Mariana Islands",
-      "isoCode": "MP",
-      "countryCode": "US",
-      "latitude": "15.09790000",
-      "longitude": "145.67390000"
-   },
-   {
       "name": "Mississippi",
       "isoCode": "MS",
       "countryCode": "US",
@@ -33166,13 +29888,6 @@
       "longitude": "-77.19452470"
    },
    {
-      "name": "Puerto Rico",
-      "isoCode": "PR",
-      "countryCode": "US",
-      "latitude": "18.22083300",
-      "longitude": "-66.59014900"
-   },
-   {
       "name": "Rhode Island",
       "isoCode": "RI",
       "countryCode": "US",
@@ -33208,76 +29923,6 @@
       "longitude": "-99.90181310"
    },
    {
-      "name": "United States Minor Outlying Islands",
-      "isoCode": "UM",
-      "countryCode": "US",
-      "latitude": "19.28231920",
-      "longitude": "166.64704700"
-   },
-   {
-      "name": "Johnston Atoll",
-      "isoCode": "UM-67",
-      "countryCode": "US",
-      "latitude": "16.72950350",
-      "longitude": "-169.53364770"
-   },
-   {
-      "name": "Midway Atoll",
-      "isoCode": "UM-71",
-      "countryCode": "US",
-      "latitude": "28.20721680",
-      "longitude": "-177.37349260"
-   },
-   {
-      "name": "Navassa Island",
-      "isoCode": "UM-76",
-      "countryCode": "US",
-      "latitude": "18.41006890",
-      "longitude": "-75.01146120"
-   },
-   {
-      "name": "Wake Island",
-      "isoCode": "UM-79",
-      "countryCode": "US",
-      "latitude": "19.27961900",
-      "longitude": "166.64993480"
-   },
-   {
-      "name": "Baker Island",
-      "isoCode": "UM-81",
-      "countryCode": "US",
-      "latitude": "0.19362660",
-      "longitude": "-176.47690800"
-   },
-   {
-      "name": "Howland Island",
-      "isoCode": "UM-84",
-      "countryCode": "US",
-      "latitude": "0.81132190",
-      "longitude": "-176.61827360"
-   },
-   {
-      "name": "Jarvis Island",
-      "isoCode": "UM-86",
-      "countryCode": "US",
-      "latitude": "-0.37435030",
-      "longitude": "-159.99672060"
-   },
-   {
-      "name": "Kingman Reef",
-      "isoCode": "UM-89",
-      "countryCode": "US",
-      "latitude": "6.38333300",
-      "longitude": "-162.41666700"
-   },
-   {
-      "name": "Palmyra Atoll",
-      "isoCode": "UM-95",
-      "countryCode": "US",
-      "latitude": "5.88850260",
-      "longitude": "-162.07866560"
-   },
-   {
       "name": "Utah",
       "isoCode": "UT",
       "countryCode": "US",
@@ -33290,13 +29935,6 @@
       "countryCode": "US",
       "latitude": "37.43157340",
       "longitude": "-78.65689420"
-   },
-   {
-      "name": "United States Virgin Islands",
-      "isoCode": "VI",
-      "countryCode": "US",
-      "latitude": "18.33576500",
-      "longitude": "-64.89633500"
    },
    {
       "name": "Vermont",
@@ -34553,7 +31191,7 @@
    },
    {
       "name": "Gauteng",
-      "isoCode": "GP",
+      "isoCode": "GT",
       "countryCode": "ZA",
       "latitude": "-26.27075930",
       "longitude": "28.11226790"
@@ -34739,5 +31377,47 @@
       "countryCode": "ZW",
       "latitude": "-17.48510290",
       "longitude": "29.78892480"
+   },
+   {
+      "name": "Famagusta (Mağusa)",
+      "isoCode": "04",
+      "countryCode": "CY",
+      "latitude": "35.13521370",
+      "longitude": "33.92398310"
+   },
+   {
+      "name": "Kyrenia (Keryneia)",
+      "isoCode": "06",
+      "countryCode": "CY",
+      "latitude": "35.29514810",
+      "longitude": "33.27691550"
+   },
+   {
+      "name": "Larnaca (Larnaka)",
+      "isoCode": "03",
+      "countryCode": "CY",
+      "latitude": "34.86974840",
+      "longitude": "33.60920970"
+   },
+   {
+      "name": "Limassol (Leymasun)",
+      "isoCode": "02",
+      "countryCode": "CY",
+      "latitude": "34.69114850",
+      "longitude": "33.00783840"
+   },
+   {
+      "name": "Nicosia (Lefkoşa)",
+      "isoCode": "01",
+      "countryCode": "CY",
+      "latitude": "35.15654640",
+      "longitude": "33.37056260"
+   },
+   {
+      "name": "Paphos (Pafos)",
+      "isoCode": "05",
+      "countryCode": "CY",
+      "latitude": "34.78129780",
+      "longitude": "32.42140970"
    }
 ]
