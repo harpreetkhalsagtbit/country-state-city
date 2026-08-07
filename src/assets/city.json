@@ -556766,6 +556766,13 @@
       "-89.41714000"
    ],
    [
+      "Álvaro Obregón",
+      "MX",
+      "CDMX",
+      "19.37496000",
+      "-99.21976000"
+   ],
+   [
       "Azcapotzalco",
       "MX",
       "CDMX",
@@ -556778,34 +556785,6 @@
       "CDMX",
       "19.39840000",
       "-99.15766000"
-   ],
-   [
-      "Ciudad de México",
-      "MX",
-      "CDMX",
-      "19.42847000",
-      "-99.12766000"
-   ],
-   [
-      "Col. Bosques de las Lomas",
-      "MX",
-      "CDMX",
-      "19.37893000",
-      "-99.26587000"
-   ],
-   [
-      "Colonia Nativitas",
-      "MX",
-      "CDMX",
-      "19.38119000",
-      "-99.13685000"
-   ],
-   [
-      "Colonia del Valle",
-      "MX",
-      "CDMX",
-      "19.38611000",
-      "-99.16204000"
    ],
    [
       "Coyoacán",
@@ -556822,7 +556801,7 @@
       "-99.14612000"
    ],
    [
-      "Delegación Cuajimalpa de Morelos",
+      "Cuajimalpa",
       "MX",
       "CDMX",
       "19.36920000",
@@ -556834,13 +556813,6 @@
       "CDMX",
       "19.48407000",
       "-99.11144000"
-   ],
-   [
-      "Gustavo Adolfo Madero",
-      "MX",
-      "CDMX",
-      "19.49392000",
-      "-99.11075000"
    ],
    [
       "Iztacalco",
@@ -556855,13 +556827,6 @@
       "CDMX",
       "19.35529000",
       "-99.06224000"
-   ],
-   [
-      "Lomas de Tepemecatl",
-      "MX",
-      "CDMX",
-      "19.23861000",
-      "-99.23944000"
    ],
    [
       "Magdalena Contreras",
@@ -556883,118 +556848,6 @@
       "CDMX",
       "19.19251000",
       "-99.02317000"
-   ],
-   [
-      "Polanco",
-      "MX",
-      "CDMX",
-      "19.43332000",
-      "-99.19919000"
-   ],
-   [
-      "San Andrés Mixquic",
-      "MX",
-      "CDMX",
-      "19.22512000",
-      "-98.96408000"
-   ],
-   [
-      "San Antonio Tecómitl",
-      "MX",
-      "CDMX",
-      "19.21778000",
-      "-98.98806000"
-   ],
-   [
-      "San Bartolome Xicomulco",
-      "MX",
-      "CDMX",
-      "19.20607000",
-      "-99.06820000"
-   ],
-   [
-      "San Francisco Tecoxpa",
-      "MX",
-      "CDMX",
-      "19.19167000",
-      "-99.00639000"
-   ],
-   [
-      "San Juan Ixtayopan",
-      "MX",
-      "CDMX",
-      "19.23187000",
-      "-98.99867000"
-   ],
-   [
-      "San Lorenzo Acopilco",
-      "MX",
-      "CDMX",
-      "19.33002000",
-      "-99.32721000"
-   ],
-   [
-      "San Lorenzo Tlacoyucan",
-      "MX",
-      "CDMX",
-      "19.17605000",
-      "-99.03219000"
-   ],
-   [
-      "San Miguel Ajusco",
-      "MX",
-      "CDMX",
-      "19.22201000",
-      "-99.20242000"
-   ],
-   [
-      "San Miguel Topilejo",
-      "MX",
-      "CDMX",
-      "19.20264000",
-      "-99.14193000"
-   ],
-   [
-      "San Pablo Oztotepec",
-      "MX",
-      "CDMX",
-      "19.18652000",
-      "-99.07361000"
-   ],
-   [
-      "San Pedro Atocpan",
-      "MX",
-      "CDMX",
-      "19.20160000",
-      "-99.04963000"
-   ],
-   [
-      "San Salvador Cuauhtenco",
-      "MX",
-      "CDMX",
-      "19.19276000",
-      "-99.08983000"
-   ],
-   [
-      "Santa Ana Tlacotenco",
-      "MX",
-      "CDMX",
-      "19.17569000",
-      "-98.99788000"
-   ],
-   [
-      "Santa Catarina Yecahuizotl",
-      "MX",
-      "CDMX",
-      "19.31205000",
-      "-98.96461000"
-   ],
-   [
-      "Tetelco",
-      "MX",
-      "CDMX",
-      "19.21673000",
-      "-98.97295000"
    ],
    [
       "Tlalpan",
@@ -557023,13 +556876,6 @@
       "CDMX",
       "19.25465000",
       "-99.10356000"
-   ],
-   [
-      "Álvaro Obregón",
-      "MX",
-      "CDMX",
-      "19.37496000",
-      "-99.21976000"
    ],
    [
       "Abdenago C. García",

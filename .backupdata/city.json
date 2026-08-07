@@ -477603,13 +477603,6 @@
         "longitude": "-99.09616000"
     },
     {
-        "name": "Azcapotzalco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.48698000",
-        "longitude": "-99.18594000"
-    },
-    {
         "name": "Azoyú",
         "countryCode": "MX",
         "stateCode": "GRO",
@@ -478415,11 +478408,116 @@
         "longitude": "-92.70834000"
     },
     {
+        "name": "Álvaro Obregón",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.37496000",
+        "longitude": "-99.21976000"
+    },
+    {
+        "name": "Azcapotzalco",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.48698000",
+        "longitude": "-99.18594000"
+    },
+    {
         "name": "Benito Juarez",
         "countryCode": "MX",
         "stateCode": "CDMX",
         "latitude": "19.39840000",
         "longitude": "-99.15766000"
+    },
+    {
+        "name": "Coyoacán",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.34670000",
+        "longitude": "-99.16174000"
+    },
+    {
+        "name": "Cuauhtémoc",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.44506000",
+        "longitude": "-99.14612000"
+    },
+    {
+        "name": "Cuajimalpa",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.36920000",
+        "longitude": "-99.29089000"
+    },
+    {
+        "name": "Gustavo A. Madero",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.48407000",
+        "longitude": "-99.11144000"
+    },
+    {
+        "name": "Iztacalco",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.39528000",
+        "longitude": "-99.09778000"
+    },
+    {
+        "name": "Iztapalapa",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.35529000",
+        "longitude": "-99.06224000"
+    },
+    {
+        "name": "Magdalena Contreras",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.33212000",
+        "longitude": "-99.21118000"
+    },
+    {
+        "name": "Miguel Hidalgo",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.43411000",
+        "longitude": "-99.20024000"
+    },
+    {
+        "name": "Milpa Alta",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.19251000",
+        "longitude": "-99.02317000"
+    },
+    {
+        "name": "Tlalpan",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.29513000",
+        "longitude": "-99.16206000"
+    },
+    {
+        "name": "Tláhuac",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.28689000",
+        "longitude": "-99.00507000"
+    },
+    {
+        "name": "Venustiano Carranza",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.44361000",
+        "longitude": "-99.10499000"
+    },
+    {
+        "name": "Xochimilco",
+        "countryCode": "MX",
+        "stateCode": "CDMX",
+        "latitude": "19.25465000",
+        "longitude": "-99.10356000"
     },
     {
         "name": "Benito Juárez",
@@ -483042,13 +483140,6 @@
         "longitude": "-102.85182000"
     },
     {
-        "name": "Col. Bosques de las Lomas",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.37893000",
-        "longitude": "-99.26587000"
-    },
-    {
         "name": "Colatlán",
         "countryCode": "MX",
         "stateCode": "VER",
@@ -483616,13 +483707,6 @@
         "longitude": "-101.44833000"
     },
     {
-        "name": "Colonia Nativitas",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.38119000",
-        "longitude": "-99.13685000"
-    },
-    {
         "name": "Colonia Nicolás Bravo (Kilómetro Noventa y Dos)",
         "countryCode": "MX",
         "stateCode": "CHH",
@@ -483936,13 +484020,6 @@
         "stateCode": "BCS",
         "latitude": "22.91273000",
         "longitude": "-109.92655000"
-    },
-    {
-        "name": "Colonia del Valle",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.38611000",
-        "longitude": "-99.16204000"
     },
     {
         "name": "Colonia el Florido",
@@ -484876,13 +484953,6 @@
         "longitude": "-105.13855000"
     },
     {
-        "name": "Coyoacán",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.34670000",
-        "longitude": "-99.16174000"
-    },
-    {
         "name": "Coyolito",
         "countryCode": "MX",
         "stateCode": "VER",
@@ -485322,13 +485392,6 @@
         "stateCode": "CHP",
         "latitude": "16.55000000",
         "longitude": "-93.71611000"
-    },
-    {
-        "name": "Cuauhtémoc",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.44506000",
-        "longitude": "-99.14612000"
     },
     {
         "name": "Cuauhtémoc",
@@ -485952,13 +486015,6 @@
         "stateCode": "VER",
         "latitude": "17.94167000",
         "longitude": "-94.99806000"
-    },
-    {
-        "name": "Delegación Cuajimalpa de Morelos",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.36920000",
-        "longitude": "-99.29089000"
     },
     {
         "name": "Delfino Victoria (Santa Fe)",
@@ -492695,20 +492751,6 @@
         "longitude": "-99.83861000"
     },
     {
-        "name": "Gustavo A. Madero",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.48407000",
-        "longitude": "-99.11144000"
-    },
-    {
-        "name": "Gustavo Adolfo Madero",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.49392000",
-        "longitude": "-99.11075000"
-    },
-    {
         "name": "Gustavo Díaz Ordaz",
         "countryCode": "MX",
         "stateCode": "SIN",
@@ -494837,25 +494879,11 @@
         "longitude": "-99.95444000"
     },
     {
-        "name": "Iztacalco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.39528000",
-        "longitude": "-99.09778000"
-    },
-    {
         "name": "Iztacapa",
         "countryCode": "MX",
         "stateCode": "SLP",
         "latitude": "21.37000000",
         "longitude": "-98.94167000"
-    },
-    {
-        "name": "Iztapalapa",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.35529000",
-        "longitude": "-99.06224000"
     },
     {
         "name": "Izúcar de Matamoros",
@@ -500465,13 +500493,6 @@
         "longitude": "-99.11237000"
     },
     {
-        "name": "Lomas de Tepemecatl",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.23861000",
-        "longitude": "-99.23944000"
-    },
-    {
         "name": "Lomas de Tlatelolco",
         "countryCode": "MX",
         "stateCode": "BCN",
@@ -501632,13 +501653,6 @@
         "stateCode": "MEX",
         "latitude": "19.36906000",
         "longitude": "-98.94935000"
-    },
-    {
-        "name": "Magdalena Contreras",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.33212000",
-        "longitude": "-99.21118000"
     },
     {
         "name": "Magdalena Cuayucatepec",
@@ -502873,13 +502887,6 @@
         "longitude": "-101.07064000"
     },
     {
-        "name": "Ciudad de México",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.42847000",
-        "longitude": "-99.12766000"
-    },
-    {
         "name": "Mextepec",
         "countryCode": "MX",
         "stateCode": "MEX",
@@ -503071,13 +503078,6 @@
     {
         "name": "Miguel Hidalgo",
         "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.43411000",
-        "longitude": "-99.20024000"
-    },
-    {
-        "name": "Miguel Hidalgo",
-        "countryCode": "MX",
         "stateCode": "VER",
         "latitude": "20.55316000",
         "longitude": "-97.50200000"
@@ -503123,13 +503123,6 @@
         "stateCode": "ZAC",
         "latitude": "22.49986000",
         "longitude": "-102.18365000"
-    },
-    {
-        "name": "Milpa Alta",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.19251000",
-        "longitude": "-99.02317000"
     },
     {
         "name": "Milpas Viejas",
@@ -507983,13 +507976,6 @@
         "longitude": "-102.33472000"
     },
     {
-        "name": "Polanco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.43332000",
-        "longitude": "-99.19919000"
-    },
-    {
         "name": "Pololcingo",
         "countryCode": "MX",
         "stateCode": "GRO",
@@ -511126,13 +511112,6 @@
         "longitude": "-98.84167000"
     },
     {
-        "name": "San Andrés Mixquic",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.22512000",
-        "longitude": "-98.96408000"
-    },
-    {
         "name": "San Andrés Nicolás Bravo",
         "countryCode": "MX",
         "stateCode": "MEX",
@@ -511588,13 +511567,6 @@
         "longitude": "-97.77806000"
     },
     {
-        "name": "San Antonio Tecómitl",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.21778000",
-        "longitude": "-98.98806000"
-    },
-    {
         "name": "San Antonio Tedzidz",
         "countryCode": "MX",
         "stateCode": "YUC",
@@ -512034,13 +512006,6 @@
         "stateCode": "MEX",
         "latitude": "19.29889000",
         "longitude": "-99.82389000"
-    },
-    {
-        "name": "San Bartolome Xicomulco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.20607000",
-        "longitude": "-99.06820000"
     },
     {
         "name": "San Bartolomé",
@@ -513259,13 +513224,6 @@
         "stateCode": "MEX",
         "latitude": "19.92969000",
         "longitude": "-100.04506000"
-    },
-    {
-        "name": "San Francisco Tecoxpa",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.19167000",
-        "longitude": "-99.00639000"
     },
     {
         "name": "San Francisco Telixtlahuaca",
@@ -515417,13 +515375,6 @@
         "longitude": "-97.83103000"
     },
     {
-        "name": "San Juan Ixtayopan",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.23187000",
-        "longitude": "-98.99867000"
-    },
-    {
         "name": "San Juan Jalpa Centro",
         "countryCode": "MX",
         "stateCode": "MEX",
@@ -516075,13 +516026,6 @@
         "longitude": "-98.06876000"
     },
     {
-        "name": "San Lorenzo Acopilco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.33002000",
-        "longitude": "-99.32721000"
-    },
-    {
         "name": "San Lorenzo Albarradas",
         "countryCode": "MX",
         "stateCode": "OAX",
@@ -516199,13 +516143,6 @@
         "stateCode": "MEX",
         "latitude": "19.81250000",
         "longitude": "-99.91222000"
-    },
-    {
-        "name": "San Lorenzo Tlacoyucan",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.17605000",
-        "longitude": "-99.03219000"
     },
     {
         "name": "San Lorenzo Tlalmimilolpan",
@@ -517202,13 +517139,6 @@
         "longitude": "-98.55056000"
     },
     {
-        "name": "San Miguel Ajusco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.22201000",
-        "longitude": "-99.20242000"
-    },
-    {
         "name": "San Miguel Almaya",
         "countryCode": "MX",
         "stateCode": "MOR",
@@ -517613,13 +517543,6 @@
         "stateCode": "TLA",
         "latitude": "19.32417000",
         "longitude": "-98.23972000"
-    },
-    {
-        "name": "San Miguel Topilejo",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.20264000",
-        "longitude": "-99.14193000"
     },
     {
         "name": "San Miguel Totocuitlapilco",
@@ -518175,13 +518098,6 @@
         "longitude": "-96.55212000"
     },
     {
-        "name": "San Pablo Oztotepec",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.18652000",
-        "longitude": "-99.07361000"
-    },
-    {
         "name": "San Pablo Pejo",
         "countryCode": "MX",
         "stateCode": "GUA",
@@ -518320,13 +518236,6 @@
         "stateCode": "PUE",
         "latitude": "19.91083000",
         "longitude": "-97.96750000"
-    },
-    {
-        "name": "San Pedro Atocpan",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.20160000",
-        "longitude": "-99.04963000"
     },
     {
         "name": "San Pedro Atoyac",
@@ -519211,13 +519120,6 @@
         "longitude": "-98.91867000"
     },
     {
-        "name": "San Salvador Cuauhtenco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.19276000",
-        "longitude": "-99.08983000"
-    },
-    {
         "name": "San Salvador El Seco",
         "countryCode": "MX",
         "stateCode": "PUE",
@@ -519904,13 +519806,6 @@
         "longitude": "-98.90885000"
     },
     {
-        "name": "Santa Ana Tlacotenco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.17569000",
-        "longitude": "-98.99788000"
-    },
-    {
         "name": "Santa Ana Tlapacoyan",
         "countryCode": "MX",
         "stateCode": "OAX",
@@ -520224,13 +520119,6 @@
         "stateCode": "PUE",
         "latitude": "18.99917000",
         "longitude": "-97.61472000"
-    },
-    {
-        "name": "Santa Catarina Yecahuizotl",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.31205000",
-        "longitude": "-98.96461000"
     },
     {
         "name": "Santa Catarina de Tepehuanes",
@@ -526407,13 +526295,6 @@
         "longitude": "-98.02667000"
     },
     {
-        "name": "Tetelco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.21673000",
-        "longitude": "-98.97295000"
-    },
-    {
         "name": "Teteles de Avila Castillo",
         "countryCode": "MX",
         "stateCode": "PUE",
@@ -527569,13 +527450,6 @@
         "longitude": "-99.19341000"
     },
     {
-        "name": "Tlalpan",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.29513000",
-        "longitude": "-99.16206000"
-    },
-    {
         "name": "Tlalpujahua de Rayón",
         "countryCode": "MX",
         "stateCode": "MIC",
@@ -528001,13 +527875,6 @@
         "stateCode": "PUE",
         "latitude": "18.27389000",
         "longitude": "-96.99972000"
-    },
-    {
-        "name": "Tláhuac",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.28689000",
-        "longitude": "-99.00507000"
     },
     {
         "name": "Tocatlán",
@@ -529727,13 +529594,6 @@
     {
         "name": "Venustiano Carranza",
         "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.44361000",
-        "longitude": "-99.10499000"
-    },
-    {
-        "name": "Venustiano Carranza",
-        "countryCode": "MX",
         "stateCode": "MIC",
         "latitude": "20.11553000",
         "longitude": "-102.65391000"
@@ -531151,13 +531011,6 @@
         "stateCode": "MEX",
         "latitude": "19.49052000",
         "longitude": "-98.82433000"
-    },
-    {
-        "name": "Xochimilco",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.25465000",
-        "longitude": "-99.10356000"
     },
     {
         "name": "Xochimilco",
@@ -532768,13 +532621,6 @@
         "stateCode": "DUR",
         "latitude": "25.51417000",
         "longitude": "-103.50500000"
-    },
-    {
-        "name": "Álvaro Obregón",
-        "countryCode": "MX",
-        "stateCode": "CDMX",
-        "latitude": "19.37496000",
-        "longitude": "-99.21976000"
     },
     {
         "name": "Álvaro Obregón (Santa Cruz)",
