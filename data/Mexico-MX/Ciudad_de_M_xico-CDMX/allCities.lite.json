@@ -1,192 +1,114 @@
 [
    {
+      "name": "Álvaro Obregón",
+      "countryCode": "MX",
+      "stateCode": "CDMX",
+      "latitude": "19.37496000",
+      "longitude": "-99.21976000"
+   },
+   {
       "name": "Azcapotzalco",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.48698000",
+      "longitude": "-99.18594000"
    },
    {
       "name": "Benito Juarez",
       "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Ciudad de México",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Col. Bosques de las Lomas",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Colonia Nativitas",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Colonia del Valle",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.39840000",
+      "longitude": "-99.15766000"
    },
    {
       "name": "Coyoacán",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.34670000",
+      "longitude": "-99.16174000"
    },
    {
       "name": "Cuauhtémoc",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.44506000",
+      "longitude": "-99.14612000"
    },
    {
-      "name": "Delegación Cuajimalpa de Morelos",
+      "name": "Cuajimalpa",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.36920000",
+      "longitude": "-99.29089000"
    },
    {
       "name": "Gustavo A. Madero",
       "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Gustavo Adolfo Madero",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.48407000",
+      "longitude": "-99.11144000"
    },
    {
       "name": "Iztacalco",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.39528000",
+      "longitude": "-99.09778000"
    },
    {
       "name": "Iztapalapa",
       "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Lomas de Tepemecatl",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.35529000",
+      "longitude": "-99.06224000"
    },
    {
       "name": "Magdalena Contreras",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.33212000",
+      "longitude": "-99.21118000"
    },
    {
       "name": "Miguel Hidalgo",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.43411000",
+      "longitude": "-99.20024000"
    },
    {
       "name": "Milpa Alta",
       "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Polanco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Andrés Mixquic",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Antonio Tecómitl",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Bartolome Xicomulco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Francisco Tecoxpa",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Juan Ixtayopan",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Lorenzo Acopilco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Lorenzo Tlacoyucan",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Miguel Ajusco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Miguel Topilejo",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Pablo Oztotepec",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Pedro Atocpan",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "San Salvador Cuauhtenco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Santa Ana Tlacotenco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Santa Catarina Yecahuizotl",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Tetelco",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.19251000",
+      "longitude": "-99.02317000"
    },
    {
       "name": "Tlalpan",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.29513000",
+      "longitude": "-99.16206000"
    },
    {
       "name": "Tláhuac",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.28689000",
+      "longitude": "-99.00507000"
    },
    {
       "name": "Venustiano Carranza",
       "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.44361000",
+      "longitude": "-99.10499000"
    },
    {
       "name": "Xochimilco",
       "countryCode": "MX",
-      "stateCode": "CDMX"
-   },
-   {
-      "name": "Álvaro Obregón",
-      "countryCode": "MX",
-      "stateCode": "CDMX"
+      "stateCode": "CDMX",
+      "latitude": "19.25465000",
+      "longitude": "-99.10356000"
    }
 ]
