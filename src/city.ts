@@ -10,16 +10,24 @@ const KEYS = [
 	"longitude"
 ]
 
+// Cities converted with the default KEYS, built on first use.
 let convertedCityList: ICity[] = [];
-// Get a list of all cities.
-function getAllCities(keys: string[] = KEYS): ICity[] {
-	if (convertedCityList.length) {
-		return convertedCityList;
-	}
 
-	const cityJSON: string[][] = cityList;
-	convertedCityList = convertArrayToObject(keys ?? KEYS, cityJSON);
-	return (convertedCityList as unknown as ICity[])
+function getDefaultCityList(): ICity[] {
+	if (!convertedCityList.length) {
+		convertedCityList = convertArrayToObject(KEYS, cityList as string[][]);
+	}
+	return convertedCityList;
+}
+
+// Get a list of all cities.
+// Returns a copy, so sorting or changing the list doesn't affect later calls.
+// Custom `keys` are converted on every call and never replace the default list.
+function getAllCities(keys: string[] = KEYS): ICity[] {
+	if (keys && keys !== KEYS) {
+		return convertArrayToObject(keys, cityList as string[][]);
+	}
+	return getDefaultCityList().slice();
 }
 
 // Get a list of cities belonging to a specific state and country.
@@ -27,8 +35,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 	if (!stateCode) return [];
 	if (!countryCode) return [];
 
-	const cityList = getAllCities();
-	const cities = (cityList as ICity[]).filter((value: { countryCode: string; stateCode: string }) => {
+	const cities = getDefaultCityList().filter((value: { countryCode: string; stateCode: string }) => {
 		return value.countryCode === countryCode && value.stateCode === stateCode;
 	});
 
@@ -39,8 +46,7 @@ function getCitiesOfState(countryCode: string, stateCode: string): ICity[] {
 function getCitiesOfCountry(countryCode: string): ICity[] | undefined {
 	if (!countryCode) return [];
 
-	const cityList = getAllCities();
-	const cities = (cityList as ICity[]).filter((value: { countryCode: string }) => {
+	const cities = getDefaultCityList().filter((value: { countryCode: string }) => {
 		return value.countryCode === countryCode;
 	});
 	return cities.sort(compare);

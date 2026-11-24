@@ -36,11 +36,50 @@ describe('getAll* results do not share state with the library', () => {
 		expect(after).toEqual(before);
 	});
 
+	test('changing the result of getAllCities does not change later results', () => {
+		const { City } = fresh();
+		const before = City.getAllCities()
+			.slice(0, 50)
+			.map((c: any) => {
+				return c.name;
+			});
+		City.getAllCities().reverse();
+		const after = City.getAllCities()
+			.slice(0, 50)
+			.map((c: any) => {
+				return c.name;
+			});
+		expect(after).toEqual(before);
+	});
+
 	test('sortByIsoCode still sorts the array it is given, in place', () => {
 		const { Country } = fresh();
 		const list = Country.getAllCountries();
 		const returned = Country.sortByIsoCode(list);
 		expect(returned).toBe(list);
 		expect(list[0].isoCode).toBe('AD');
+	});
+});
+
+describe('getAllCities(keys)', () => {
+	test('uses the keys passed on a later call', () => {
+		const { City } = fresh();
+		City.getAllCities();
+		const custom = City.getAllCities(['n', 'c', 's', 'lat', 'lng']);
+		expect(Object.keys(custom[0])).toEqual(['n', 'c', 's', 'lat', 'lng']);
+	});
+
+	test('custom keys on the first call do not break the default results', () => {
+		const { City } = fresh();
+		City.getAllCities(['n', 'c', 's', 'lat', 'lng']);
+		expect(Object.keys(City.getAllCities()[0])).toEqual([
+			'name',
+			'countryCode',
+			'stateCode',
+			'latitude',
+			'longitude',
+		]);
+		expect(City.getCitiesOfState('IN', 'DL').length).toBe(19);
+		expect(City.getCitiesOfCountry('IN').length).toBeGreaterThan(0);
 	});
 });
