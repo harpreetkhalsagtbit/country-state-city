@@ -96,6 +96,37 @@ Please follow this [guidelines](/dataUpdateGuide.md)
     ```
 
 
+## Loading only what you need
+
+The city list is about 8 MB (2.1 MB gzipped). `country.js` and `state.js` don't depend on it, so code that only needs countries and states can skip it.
+
+With **ES module imports in a production build** (webpack 5, Rollup, esbuild, Vite), tree shaking already leaves the city list out when you don't use `City`:
+
+```js
+import { Country, State } from 'country-state-city'; // city list not included
+```
+
+In these cases importing from `'country-state-city'` **does** load the city list, even if you only use `Country` or `State`:
+
+- `require('country-state-city')` (CommonJS), and bundlers that convert it, such as Rollup and esbuild
+- Vite's dev server, which pre-bundles the whole package into one file
+- Node.js, including Jest and server-side rendering
+
+To avoid that, import the modules directly:
+
+```js
+// ES modules
+import Country from 'country-state-city/lib/country';
+import State from 'country-state-city/lib/state';
+import City from 'country-state-city/lib/city'; // loads the city list
+
+// CommonJS
+const Country = require('country-state-city/lib/cjs/country').default;
+const State = require('country-state-city/lib/cjs/state').default;
+```
+
+These paths are supported. A test checks that `country` and `state` load without the city list.
+
 ## For versions `below v2.2.0 and above v0.1.8`
 
   - ES6 Module usage
