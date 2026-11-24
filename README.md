@@ -96,6 +96,32 @@ Please follow this [guidelines](/dataUpdateGuide.md)
     ```
 
 
+## Lazy loading: `lib/lazy` and `lib/lazy-geo`
+
+For country/state/city dropdowns in the browser. Importing `lib/lazy` costs about 8 KB gzipped (country names and codes plus the loader). States and cities are loaded **one country at a time** when you ask for them, using dynamic `import()`, so your bundler puts each country in its own chunk. Nothing else in the package changes.
+
+```js
+import { getCountries, loadStatesOfCountry, loadCitiesOfState, loadCitiesOfCountry } from 'country-state-city/lib/lazy';
+
+getCountries();                          // [{ name: 'Afghanistan', isoCode: 'AF' }, ...]  (synchronous)
+await loadStatesOfCountry('IN');         // IState[]: { name, isoCode, countryCode }, sorted by name
+await loadCitiesOfState('IN', 'KA');     // ICity[]:  { name, countryCode, stateCode }, sorted by name
+await loadCitiesOfCountry('IN');         // ICity[]
+```
+
+City rows from `lib/lazy` have no coordinates. For latitude and longitude, use `lib/lazy-geo` (each country file is about 3 times larger):
+
+```js
+import { loadCitiesOfState, loadCitiesOfCountry } from 'country-state-city/lib/lazy-geo';
+await loadCitiesOfState('IN', 'KA');     // ICity[] with latitude and longitude, same as City.getCitiesOfState
+```
+
+- Results contain the same rows, in the same order, as `State.getStatesOfCountry`, `City.getCitiesOfState` and `City.getCitiesOfCountry` (a test checks every country).
+- Unknown codes resolve to `[]`. Each country file is loaded once and then reused; if a load fails, the next call tries again.
+- CommonJS: `require('country-state-city/lib/cjs/lazy')`.
+
+Download per country with `lib/lazy` (gzipped): Egypt 1.3 KB, India 19 KB, Germany 33 KB, United States 86 KB (the largest). The whole city list is 2.1 MB.
+
 ## For versions `below v2.2.0 and above v0.1.8`
 
   - ES6 Module usage
