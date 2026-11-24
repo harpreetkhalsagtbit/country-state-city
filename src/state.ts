@@ -3,8 +3,9 @@ import { findEntryByCode, findStateByCodeAndCountryCode, compare } from './utils
 import { IState } from './interface';
 
 // Get a list of all states.
+// Returns a copy, so sorting or changing the list doesn't affect later calls.
 export function getAllStates(): IState[] {
-	return stateList;
+	return stateList.slice();
 }
 
 // Get a list of states belonging to a specific country.

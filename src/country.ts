@@ -10,8 +10,9 @@ function getCountryByCode(isoCode: string): ICountry | undefined {
 }
 
 // Get a list of all countries.
+// Returns a copy, so sorting or changing the list doesn't affect later calls.
 function getAllCountries(): ICountry[] {
-	return countryList;
+	return countryList.slice();
 }
 
 function sortByIsoCode(countries: ICountry[]): ICountry[] {
