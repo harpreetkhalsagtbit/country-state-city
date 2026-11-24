@@ -8,14 +8,15 @@
 	"sideEffects": false,
 	"scripts": {
 		"test": "jest",
-		"build": "npm run split-assets && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run minify",
+		"build": "npm run split-assets && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && npm run share-lazy-assets && npm run minify",
 		"prepublish": "npm run build",
 		"lint": "eslint index.ts __test__ --fix",
 		"minify": "ts-node src/scripts/minify.ts",
 		"split-data":"ts-node src/scripts/splitLargeDatasetFiles-CSC.ts",
 		"update-data":"ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
 		"update-data-with-gz":"gz=true ts-node src/scripts/combineSplitFilesToMakeALargeDatasetFiles-CSC.ts",
-		"split-assets": "ts-node src/scripts/splitAssets.ts"
+		"split-assets": "ts-node src/scripts/splitAssets.ts",
+		"share-lazy-assets": "ts-node src/scripts/shareLazyAssets.ts"
 	},
 	"author": "harpreetkhalsagtbit@gmail.com",
 	"license": "GPL-3.0",
